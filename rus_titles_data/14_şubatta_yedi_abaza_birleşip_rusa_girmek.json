@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:25:34.030908",
+    "total_entries": 4,
+    "input": "14 şubatta yedi abaza birleşip rusa girmek",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "14 şubatta yedi abaza birleşip rusa girmek",
+      "entry_id": "12003784",
+      "author": "shirakahn",
+      "date": "16.12.2007 01:58",
+      "content": "(bkz: pamuk prenses ve yedi cüceler)",
+      "has_external_url": false
+    },
+    {
+      "title": "14 şubatta yedi abaza birleşip rusa girmek",
+      "entry_id": "12004302",
+      "author": "carpenoctem",
+      "date": "16.12.2007 03:25",
+      "content": "(bkz: vucutta bulunan yedi ışık çıkma noktası)",
+      "has_external_url": false
+    },
+    {
+      "title": "14 şubatta yedi abaza birleşip rusa girmek",
+      "entry_id": "12004343",
+      "author": "katil",
+      "date": "16.12.2007 03:33",
+      "content": "(bkz: abaza ile abazan arasındaki uçuruma düşmek)",
+      "has_external_url": false
+    },
+    {
+      "title": "14 şubatta yedi abaza birleşip rusa girmek",
+      "entry_id": "12004381",
+      "author": "soleacor",
+      "date": "16.12.2007 03:41",
+      "content": "(bkz: sekizinci nesil basliklarini 100 metreden tanimak)",
+      "has_external_url": false
+    }
+  ]
+}

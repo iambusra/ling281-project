@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T12:48:42.254979",
+    "total_entries": 1,
+    "input": "10 ocak 2020 rus gemisinin ilginç hareketi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "10 ocak 2020 rus gemisinin ilginç hareketi",
+      "entry_id": "100347871",
+      "author": "optimistic nihilist",
+      "date": "10.01.2020 21:03",
+      "content": "işte bu yüzden kanal ist.. pardon ben yanlış geldim.",
+      "has_external_url": false
+    }
+  ]
+}

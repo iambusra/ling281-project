@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T12:57:24.294576",
+    "total_entries": 1,
+    "input": "10 ekim 2014 rusya italya maçı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "10 ekim 2014 rusya italya maçı",
+      "entry_id": "46256608",
+      "author": "costgrande",
+      "date": "10.10.2014 23:04",
+      "content": "marco bonitta'nın kişisel şovunu yaptığı iki set alıp üçlü grup liderliğini garantiledikten sonra ilk altısını dinlendirdiği italya'nın kazandığı maç.",
+      "has_external_url": false
+    }
+  ]
+}

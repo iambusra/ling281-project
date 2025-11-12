@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T12:56:53.880469",
+    "total_entries": 1,
+    "input": "1.2 milyar euro'luk gemilerin rusya'da çalışmaması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "1.2 milyar euro'luk gemilerin rusya'da çalışmaması",
+      "entry_id": "31972057",
+      "author": "opucugu bekleyen kurbaga",
+      "date": "31.01.2013 16:15",
+      "content": "bilindiği üzere çoğu savaş gemisi \" dizel \" yani mazot kullanır. mazot ise soğukta yanmayan bir yakıt türü bilindiği üzere. fakat 60 yıllık dizel motorlu gemiler bile - 10 larda gidebiliyorken 1.2 milyar euroluk gemi nasıl gidemez?\n\nhadi onuda geçtim koskoca rusya hayvan gibi ekonomisi ve onca tershaneleri varken amerika ile yıllarca aşık atmış bu süper güç neden gidip fransadan gemi alsın? vallahi kafam çok karıştı şimdi. ayrıca gemilerin \" akdeniz iklimine göre yapılması \" diye bir bahane olamaz. bir gemiden + 50 sıcaklıktada - 30 sıcaklıkdada seyir alması beklenir.",
+      "has_external_url": false
+    }
+  ]
+}

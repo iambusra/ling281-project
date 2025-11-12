@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T12:55:13.437261",
+    "total_entries": 1,
+    "input": "1 ocak 2016 rusya'nın türk işçi yaptırımı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "1 ocak 2016 rusya'nın türk işçi yaptırımı",
+      "entry_id": "57397544",
+      "author": "koministimam2",
+      "date": "01.01.2016 18:53 ~ 18:55",
+      "content": "dönsünler memleketine, aç mı bırakacak hükümetimiz sanki? az onurlu olun amk rus yaşakaları! gerekirse tezek yerler...\n\nulan işin kötüsü bu adamlardan yurt dışı oyları açıklandığında akp ye oy yok! herifler nasıl çıldırmasın?",
+      "has_external_url": false
+    }
+  ]
+}

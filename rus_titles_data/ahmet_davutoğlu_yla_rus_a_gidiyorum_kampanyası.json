@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:25:02.354035",
+    "total_entries": 1,
+    "input": "ahmet davutoğlu'yla 'rus'a gidiyorum' kampanyası",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ahmet davutoğlu'yla 'rus'a gidiyorum' kampanyası",
+      "entry_id": "27178638",
+      "author": "istem disi kas hareketi",
+      "date": "28.01.2012 02:25",
+      "content": "eğer sadece akp'lilere yönelik bir atılım olacaksa, hemen yarın akp' ye üye olmaya gidiyorum diye düşünmeme sebeb olan kampanya. davutoğlu'nun ilk rusya gezisine eşlik ettirir adamı bu kampanya.",
+      "has_external_url": false
+    }
+  ]
+}

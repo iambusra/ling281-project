@@ -1,0 +1,52 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T12:43:39.966972",
+    "total_entries": 5,
+    "input": "03.02.2018 rus uçağının sarakipte düşmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "03.02.2018 rus uçağının sarakipte düşmesi",
+      "entry_id": "73964592",
+      "author": "cekinick",
+      "date": "03.02.2018 17:44 ~ 17:46",
+      "content": "şuan dolaşan bilgi\n\nkaynak\n\nkim tarafından düşürüldü nedir ne değildir az sonra belli olur.",
+      "has_external_url": true
+    },
+    {
+      "title": "03.02.2018 rus uçağının sarakipte düşmesi",
+      "entry_id": "73965536",
+      "author": "ensalak",
+      "date": "03.02.2018 18:35 ~ 18:36",
+      "content": "konudan bağımsız, pilot mu atladı uçaktan bir parça mı düştü bilmiyorum ama umarım bu zebanilerin eline düşmez.\n\ndetayları beklenen haberdir.",
+      "has_external_url": false
+    },
+    {
+      "title": "03.02.2018 rus uçağının sarakipte düşmesi",
+      "entry_id": "73966182",
+      "author": "no status",
+      "date": "03.02.2018 19:10",
+      "content": "uçağı düşürülen ortama dalıyor. negzel valla... ortadoğu'ya savaş vizesi mübarek.\nben de kağıttan uçak yaptım, müdür müdahale ederse dalıcam keltoşa.",
+      "has_external_url": false
+    },
+    {
+      "title": "03.02.2018 rus uçağının sarakipte düşmesi",
+      "entry_id": "73966252",
+      "author": "santiago1903",
+      "date": "03.02.2018 19:14",
+      "content": "özgür suriye eşşekleri düşürdüyse anasını siker ruslar. bir de neymiş daha önce düşürmüşüz de bir şey olmamış. yarak olmadı iki sene ruslara yapılan muameleyi unuttunuz galiba. domates için kapısında yattınız lan adamların",
+      "has_external_url": false
+    },
+    {
+      "title": "03.02.2018 rus uçağının sarakipte düşmesi",
+      "entry_id": "73966741",
+      "author": "siphonensis lacus",
+      "date": "03.02.2018 19:38",
+      "content": "bundan sonra tüm cihatcıların anasını s.ker rusya-iran ikilisi.",
+      "has_external_url": false
+    }
+  ]
+}

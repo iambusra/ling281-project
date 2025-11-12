@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:24:55.643169",
+    "total_entries": 4,
+    "input": "babalar gününde babayı rus'a götürmek",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "babalar gününde babayı rus'a götürmek",
+      "entry_id": "43517030",
+      "author": "zortlak",
+      "date": "15.06.2014 21:10",
+      "content": "az önce bi arkadaşımın masada utanmadan herkesin içinde beyan ettiği düşünce. aq ne biçim insanlar var. ergen marjinalliği böyle bi şey olsa gerek.\n\nbence tabii ki yanlış bi olay.",
+      "has_external_url": false
+    },
+    {
+      "title": "babalar gününde babayı rus'a götürmek",
+      "entry_id": "43517167",
+      "author": "trajiklambasi",
+      "date": "15.06.2014 21:17",
+      "content": "(bkz: hayırlı evlat)",
+      "has_external_url": false
+    },
+    {
+      "title": "babalar gününde babayı rus'a götürmek",
+      "entry_id": "43517381",
+      "author": "cobainscream",
+      "date": "15.06.2014 21:26",
+      "content": "anneler günündeki eş değerinin düşünülmemesi gereken eylem, bundan sonra en iyisi anneler gününde babayı anneye dövdürmek.",
+      "has_external_url": false
+    },
+    {
+      "title": "babalar gününde babayı rus'a götürmek",
+      "entry_id": "43517429",
+      "author": "destroythedestiny",
+      "date": "15.06.2014 21:28",
+      "content": "(bkz: gelecekteki ogluma mesaj)",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T12:50:16.172881",
+    "total_entries": 1,
+    "input": "1 ekim 2011 avustralya rusya rugby maçı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "1 ekim 2011 avustralya rusya rugby maçı",
+      "entry_id": "25614139",
+      "author": "birkedikadarmasumbiraslankadarleopar",
+      "date": "05.10.2011 01:59",
+      "content": "68-22 avustralya'nın kazandığı 2011 rugby dünya kupası maçı.",
+      "has_external_url": false
+    }
+  ]
+}

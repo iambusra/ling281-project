@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:24:46.086041",
+    "total_entries": 1,
+    "input": "8 ekim 2015 rus füzelerinin iran'a düşmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "8 ekim 2015 rus füzelerinin iran'a düşmesi",
+      "entry_id": "55371437",
+      "author": "electricities",
+      "date": "08.10.2015 19:51",
+      "content": "anladığım kadarıyla, hazar denizi'ndeki rus savaş gemisinden suriye'deki hedeflere atılan bazı füzelerin hedefe kadar sabredemeyip iran'a düşmesi ile vuku bulmuş olay.\n\nhaber çok taze, hasar bilgisi henüz yok.",
+      "has_external_url": false
+    }
+  ]
+}

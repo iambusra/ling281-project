@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:26:03.704351",
+    "total_entries": 2,
+    "input": "2 mayıs 2014 ukrayna'da 38 rus'un katledilmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "2 mayıs 2014 ukrayna'da 38 rus'un katledilmesi",
+      "entry_id": "42460322",
+      "author": "muz vurusu",
+      "date": "02.05.2014 22:57 ~ 12.05.2014 10:52",
+      "content": "rus sniper'ların ukraynalılara açtığı ateş sonucu 15 kişi ölmüştür. bunun devamında rus ayrılıkçıların ellerinde bulunan bina ateşe verilmiş ve sonucunda resmi rakamlara göre şuana kadar 31 kişi ölmüştür. her iki trajik olay da üzücüdür.\n\nekleme: yangında ölen ayrılıkçıların 15'inin rusya vatandaşı, 5'inin ise moldovya vatandaşı olduğunun tespit ediliği açıklandı.",
+      "has_external_url": false
+    },
+    {
+      "title": "2 mayıs 2014 ukrayna'da 38 rus'un katledilmesi",
+      "entry_id": "42460322",
+      "author": "muz vurusu",
+      "date": "02.05.2014 22:57 ~ 12.05.2014 10:52",
+      "content": "rus sniper'ların ukraynalılara açtığı ateş sonucu 15 kişi ölmüştür. bunun devamında rus ayrılıkçıların ellerinde bulunan bina ateşe verilmiş ve sonucunda resmi rakamlara göre şuana kadar 31 kişi ölmüştür. her iki trajik olay da üzücüdür.\n\nekleme: yangında ölen ayrılıkçıların 15'inin rusya vatandaşı, 5'inin ise moldovya vatandaşı olduğunun tespit ediliği açıklandı.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T12:49:53.115955",
+    "total_entries": 6,
+    "input": "03 mart 2017 rusya-türkiye savaşı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "03 mart 2017 rusya-türkiye savaşı",
+      "entry_id": "58935911",
+      "author": "1001idea",
+      "date": "03.03.2016 21:55",
+      "content": "(bkz: 2017 senesinden başlıklar)",
+      "has_external_url": false
+    },
+    {
+      "title": "03 mart 2017 rusya-türkiye savaşı",
+      "entry_id": "58936074",
+      "author": "arnatuile",
+      "date": "03.03.2016 22:03",
+      "content": "(bkz: 03 mart ne lan)?",
+      "has_external_url": false
+    },
+    {
+      "title": "03 mart 2017 rusya-türkiye savaşı",
+      "entry_id": "58938996",
+      "author": "banyodayken celme takan sabun",
+      "date": "03.03.2016 23:55",
+      "content": "(bkz: dikkat çekmek için tarihli başlık atan ezik troll)",
+      "has_external_url": false
+    },
+    {
+      "title": "03 mart 2017 rusya-türkiye savaşı",
+      "entry_id": "58939307",
+      "author": "united states",
+      "date": "04.03.2016 00:07",
+      "content": "(bkz: siz başlayın ben geliyorum)",
+      "has_external_url": false
+    },
+    {
+      "title": "03 mart 2017 rusya-türkiye savaşı",
+      "entry_id": "58939560",
+      "author": "sadan",
+      "date": "04.03.2016 00:17 ~ 00:19",
+      "content": "mezar taşlarını koyun mu sandın?\nadam öldürmeyi bre hasan oyun mu sandın?\n\nhttps://youtu.be/1zy3w2aicsm",
+      "has_external_url": true
+    },
+    {
+      "title": "03 mart 2017 rusya-türkiye savaşı",
+      "entry_id": "58940203",
+      "author": "abderalisezar",
+      "date": "04.03.2016 00:50",
+      "content": "abidik gubidik basliklarinizdan fenalik geldi..",
+      "has_external_url": false
+    }
+  ]
+}

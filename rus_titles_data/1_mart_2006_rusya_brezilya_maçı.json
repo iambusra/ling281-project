@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T12:53:26.827378",
+    "total_entries": 1,
+    "input": "1 mart 2006 rusya brezilya maçı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "1 mart 2006 rusya brezilya maçı",
+      "entry_id": "9210380",
+      "author": "exavier mcdaniel",
+      "date": "02.03.2006 11:22",
+      "content": "aslında gecenin en enteresan maçlarından biriydi ve brezilya ronaldo'nun 14. dakikadaki golüyle 1-0 kazandı. ama enteresanlığı şurda maçtan sonra brezilyanın hocası parreira \"bugüne kadar oynadığım en soğuk maç oldu\" demiş. soğukmuş, karmış fark etmiyor bu adamlara her zaman kazanıyorlar...",
+      "has_external_url": false
+    }
+  ]
+}

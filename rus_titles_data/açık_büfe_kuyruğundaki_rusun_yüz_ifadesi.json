@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:25:54.364254",
+    "total_entries": 4,
+    "input": "açık büfe kuyruğundaki rusun yüz ifadesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "açık büfe kuyruğundaki rusun yüz ifadesi",
+      "entry_id": "31365580",
+      "author": "balik burcu",
+      "date": "18.12.2012 19:26 ~ 19:27",
+      "content": "meyve varsa hoştur yoksa boştur. anladığım kadarıyla rusya'da meyve çok pahalı. türkler'in açık büfede ete uyguladığı muameleyi adamlar meyveye yapıyor. kiraz olsun karpuz olsun yığıyorlar masaya, hatta odaya götürmek için yanlarına da depo ediyorlar.",
+      "has_external_url": false
+    },
+    {
+      "title": "açık büfe kuyruğundaki rusun yüz ifadesi",
+      "entry_id": "31365592",
+      "author": "yahepyahic",
+      "date": "18.12.2012 19:27",
+      "content": "muhtemelen aranan bir yuz ifadesidir. domates suyu ariyordur. tomato sok diye sorarak.",
+      "has_external_url": false
+    },
+    {
+      "title": "açık büfe kuyruğundaki rusun yüz ifadesi",
+      "entry_id": "31373031",
+      "author": "funkychild",
+      "date": "19.12.2012 10:25",
+      "content": "adeta oportünist bir proleterin yüz ifadesidir ve eşsizdir.",
+      "has_external_url": false
+    },
+    {
+      "title": "açık büfe kuyruğundaki rusun yüz ifadesi",
+      "entry_id": "31476149",
+      "author": "deadastronautinspace",
+      "date": "26.12.2012 20:36",
+      "content": "meyvenin dibine vurmaya gelmiş yüz ifadesidir. çünkü moskova da et türkiye nin yarı fiyatı meyve 5 katıdır.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:24:17.072894",
+    "total_entries": 5,
+    "input": "aziz yıldırım'ın yaşar büyükanıt'a 3 rus vermesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "aziz yıldırım'ın yaşar büyükanıt'a 3 rus vermesi",
+      "entry_id": "22487532",
+      "author": "maximus decimus meridius",
+      "date": "10.03.2011 10:00 ~ 10:05",
+      "content": "fantastik iddia . heralde kupon tüyosudur..\n\n- başkanım 3 rus lazım..\n+ zenit, cska, spartak moskova yaşar'cım. tamamı üst.\n- eyv başkan, kupon tutarsa akşam ıslatıyoruz oki?\n+ her türlü..",
+      "has_external_url": true
+    },
+    {
+      "title": "aziz yıldırım'ın yaşar büyükanıt'a 3 rus vermesi",
+      "entry_id": "22488687",
+      "author": "koseli cember",
+      "date": "10.03.2011 11:37 ~ 11:38",
+      "content": "ne olduğu belli olmayan, tıpkı sabri yıldız gibi havada kalmış bir olaydır. büyük ihtimalle gerçek değildir fakat aziz yıldırım suçlanırsa, oradan aziz yıldırım-yıldırım demirören bağlantısı kurulur ve oradan da yıldırım demirören hakkında olumsuz eleştiri yaptığım için ceza alabilirim. zincirleme olaylar hep bunlar.",
+      "has_external_url": false
+    },
+    {
+      "title": "aziz yıldırım'ın yaşar büyükanıt'a 3 rus vermesi",
+      "entry_id": "22491755",
+      "author": "mascius",
+      "date": "10.03.2011 15:44",
+      "content": "(bkz: vladimir beschastnykh)",
+      "has_external_url": false
+    },
+    {
+      "title": "aziz yıldırım'ın yaşar büyükanıt'a 3 rus vermesi",
+      "entry_id": "22491794",
+      "author": "muratandac",
+      "date": "10.03.2011 15:46",
+      "content": "bu şekilde hizmet olduğu sürece tabi ki herkes birgün fenerbahçeli olur.",
+      "has_external_url": false
+    },
+    {
+      "title": "aziz yıldırım'ın yaşar büyükanıt'a 3 rus vermesi",
+      "entry_id": "160859598",
+      "author": "demekle olsaydi",
+      "date": "22.01.2024 13:25 ~ 13:27",
+      "content": "muhtemelen hikayede dogruluk payi vardi da kayit isini yildirim'in ustune yiktilar. dolmabahce isleri, top brass'in moskova ziyareti sonrasina denk gelmisti. benim aklima, on sene sonra, nereden geldiyse simdi... kismet...",
+      "has_external_url": false
+    }
+  ]
+}

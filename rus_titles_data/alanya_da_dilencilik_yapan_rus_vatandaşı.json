@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:20:45.699155",
+    "total_entries": 3,
+    "input": "alanya'da dilencilik yapan rus vatandaşı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "alanya'da dilencilik yapan rus vatandaşı",
+      "entry_id": "176351952",
+      "author": "itibardan tasarruf eden yazar",
+      "date": "26.06.2025 17:38",
+      "content": "türkiye öyle bir ülke oldu ki, ülkeye gelen turist bile vasatın da vasatı.\n\n--- spoiler ---\nedinilen bilgilere göre, yabancı uyruklu bir kişi, cadde üzerinde şapkasını çıkararak yere koydu ve dilenmeye başladı. çevredeki vatandaşlar ve turistlerin şaşkın bakışları arasında başlayan bu ilginç dilenme anları, özellikle yabancı turistlerin ilgisini çekti.\nşapkasını para dolana kadar cadde üzerinde tutan kişinin rus vatandaşı olduğu öğrenildi. topladığı paraları cebine koyan şahıs, daha sonra şapkasını tekrar önüne yerleştirerek dilenmeye devam etti. görgü tanıkları, olayın birkaç saat sürdüğünü belirtti.\n--- spoiler ---\n\nkaynak yerel bir gazete haberi",
+      "has_external_url": true
+    },
+    {
+      "title": "alanya'da dilencilik yapan rus vatandaşı",
+      "entry_id": "176352015",
+      "author": "soan",
+      "date": "26.06.2025 17:42 ~ 17:44",
+      "content": "çaresiz kalmış birisi olabilir.\n\ninsanların fotoğraflarının çekilip paylaşılmasını, yüzü bulanıklaştırılmadan haber yapılmasını yanlış bulduğum bir habere konu olmuş kişi.",
+      "has_external_url": false
+    },
+    {
+      "title": "alanya'da dilencilik yapan rus vatandaşı",
+      "entry_id": "176352107",
+      "author": "hadibudaolmasin",
+      "date": "26.06.2025 17:47",
+      "content": "yukarıdaki yazarın dediği gibi çaresiz kalmış birine benziyor. alanyada bulunduğum sürece bırakın yabancıyı, tek bir yerli dilenciye dahi rastlamadım.",
+      "has_external_url": false
+    }
+  ]
+}

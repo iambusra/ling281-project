@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T12:53:15.361600",
+    "total_entries": 1,
+    "input": "1 kasım 2015 seçimleri rusya federasyonu sonuçları",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "1 kasım 2015 seçimleri rusya federasyonu sonuçları",
+      "entry_id": "56570327",
+      "author": "angelsdream",
+      "date": "28.11.2015 20:11",
+      "content": "(bkz: eşeğin aklına karpuz kabuğu düşürmek)\n\nlan solcular, bu sol size ne etti?",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:26:15.693952",
+    "total_entries": 3,
+    "input": "ali ağaoğlu'nun tek rusla dolaşması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ali ağaoğlu'nun tek rusla dolaşması",
+      "entry_id": "27554996",
+      "author": "bisquit",
+      "date": "26.02.2012 16:25",
+      "content": "ya ne yapacağıdı harem mi kuracağıdı padişahlar gibi.\n\ntanım: garip, insan söylemi",
+      "has_external_url": false
+    },
+    {
+      "title": "ali ağaoğlu'nun tek rusla dolaşması",
+      "entry_id": "27555024",
+      "author": "accidental babies",
+      "date": "26.02.2012 16:28",
+      "content": "(bkz: stagflasyon)",
+      "has_external_url": false
+    },
+    {
+      "title": "ali ağaoğlu'nun tek rusla dolaşması",
+      "entry_id": "27555061",
+      "author": "boz ala boz basli pis porsuk",
+      "date": "26.02.2012 16:33",
+      "content": "bu işlerin rolls royce ile değil, serdar ortaç'ın minibüsü ile olduğunu gösteren olay.",
+      "has_external_url": false
+    }
+  ]
+}

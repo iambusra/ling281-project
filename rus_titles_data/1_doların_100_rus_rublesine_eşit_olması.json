@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T12:44:10.827970",
+    "total_entries": 1,
+    "input": "1 doların 100 rus rublesine eşit olması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "1 doların 100 rus rublesine eşit olması",
+      "entry_id": "155589720",
+      "author": "eksimtrack",
+      "date": "13.08.2023 10:08",
+      "content": "haziran 2022’lerde 50 rublede ezen dolar kuru 100 rubleye dayanmış durumda. olan masum halka oluyor.",
+      "has_external_url": false
+    }
+  ]
+}

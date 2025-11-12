@@ -1,0 +1,34 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:25:47.956843",
+    "total_entries": 1,
+    "input": "9 mart 2022 1200 rusun ziraat'te hesap açması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "9 mart 2022 1200 rusun ziraat'te hesap açması",
+      "entry_id": "134711509",
+      "author": "doktor glas",
+      "date": "09.03.2022 16:38 ~ 16:41",
+      "content": "doğrusu \"9 mart 2022 1200 rus vatandaşının ziraat bankası'nda hesap açtığı iddiası\" olacaktı.\n\nertuğrul özkök'ün dile getirdiği iddiadır:\n\nhttps://t24.com.tr/…-bankasi-nda-hesap-acti,1019890\n\nbüyük olasılıkla rus oligarklar ve çevresindekilerin açtıkları hesaplardır bunlar.\n\ndaha önceki bir girdide (#134414069) belirttiğim gibi, akp hükümeti rusya'ya uygulanan ambargoyu fırsata çevirme peşinde olacaktır. halihazırda bazı rus oligarkların özel jetlerinin savaş başladıktan sonra türkiye'ye indiği biliniyor.\n\nilerleyen günlerde işin iç yüzünü görürüz umarım...",
+      "referenced_content": [
+        {
+          "type": "entry",
+          "title": "rusya-ukrayna-savasi",
+          "entry_id": "134414069",
+          "author": "doktor glas",
+          "date": "02.03.2022 16:05 ~ 16:56",
+          "content": "görünen o ki türkiye'nin krizi fırsata çevirmeye çalıştığı savaştır:\n\nhttps://twitter.com/…?t=qikqbvjy9b3hunkexkkmaq&s=19\n\ntürk özel jetleri belarus üzerinden moskova'ya uçuyor. ya para / altın taşıyorlar, ya oligarkların tahliyesi için seferber edildiler, ya da barış görüşmeleri için oradalar. bana ilk iki neden daha olası geliyor. ne de olsa sırtlan sürüsü gibi siyasal islamcı bir güruh ülkeyi yönetiyor:)\n\nekleme: biri \"özel jet\" ibaresine takılmış. ne diyeydim? mahmut mu diyeydim? kaynak öyle adlandırıyor. ben de aynen öyle yazdım.",
+          "has_external_url": true
+        }
+      ],
+      "referenced_entry_ids": [
+        "134414069"
+      ],
+      "has_external_url": true
+    }
+  ]
+}

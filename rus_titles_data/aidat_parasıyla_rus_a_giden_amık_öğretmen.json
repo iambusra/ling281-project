@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:24:53.275505",
+    "total_entries": 1,
+    "input": "aidat parasıyla rus'a giden amık öğretmen",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "aidat parasıyla rus'a giden amık öğretmen",
+      "entry_id": "44287982",
+      "author": "e a p",
+      "date": "17.07.2014 11:32",
+      "content": "aidatı ödeyin amlarınıza koyduklarım uyarısından bir hafta sonra vuku bulan olay. çünkü öğrenci sikmek çok şahane.",
+      "has_external_url": false
+    }
+  ]
+}

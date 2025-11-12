@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T12:57:11.300386",
+    "total_entries": 1,
+    "input": "10 aralık 2010 rusya isveç bayanlar curling maçı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "10 aralık 2010 rusya isveç bayanlar curling maçı",
+      "entry_id": "21120544",
+      "author": "etxeberria",
+      "date": "10.12.2010 21:12 ~ 21:14",
+      "content": "eveeeeet eski günlere geri mi dönücez acaba. maç eğlenceli ve de çekişmeli mi geçiyor zerre fikrim yok, sadece açtım öyle seyrediyorum. bu ara maç eurosport 2'de.",
+      "has_external_url": false
+    }
+  ]
+}

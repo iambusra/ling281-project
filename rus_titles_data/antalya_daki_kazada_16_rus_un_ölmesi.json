@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:26:10.334624",
+    "total_entries": 2,
+    "input": "antalya'daki kazada 16 rus'un ölmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "antalya'daki kazada 16 rus'un ölmesi",
+      "entry_id": "19151124",
+      "author": "ozzi",
+      "date": "25.05.2010 18:52",
+      "content": "ülkemizde kimsenin umrunda olmayan hadise. dile kolay kazada 16 insan ölmüs ve bir sürü yarali var, tepki vermek ya da üzülmek icin ölenlerin ülkemiz vatandasi mi olmasi gerekiyor acaba...?",
+      "has_external_url": false
+    },
+    {
+      "title": "antalya'daki kazada 16 rus'un ölmesi",
+      "entry_id": "19151388",
+      "author": "asil baykara",
+      "date": "25.05.2010 19:24 ~ 26.05.2010 03:00",
+      "content": "\"ölmek yolcuların kaderinde var.\"\n\nrecep bey",
+      "has_external_url": false
+    }
+  ]
+}

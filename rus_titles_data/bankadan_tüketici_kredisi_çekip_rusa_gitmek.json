@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:25:27.531281",
+    "total_entries": 1,
+    "input": "bankadan tüketici kredisi çekip rusa gitmek",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "bankadan tüketici kredisi çekip rusa gitmek",
+      "entry_id": "31190456",
+      "author": "man of honor",
+      "date": "05.12.2012 14:12",
+      "content": "işler güçler'de her an tanık olabilecğimiz bir durum. o ilk taksitler biraz daha yatmazsa salih'in başka şansı kalmayacak.",
+      "has_external_url": false
+    }
+  ]
+}
