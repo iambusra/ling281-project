@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:09:17.887583",
+    "total_entries": 4,
+    "input": "ukraynaya gidecek yazar arkadaş arıyorum",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukraynaya gidecek yazar arkadaş arıyorum",
+      "entry_id": "118495943",
+      "author": "karizmatik bir nick olsun",
+      "date": "20.01.2021 19:01",
+      "content": "açtığı formata aykırı başlı yüzünden uçurulması gereken bir yazarın son başlığı.\n\n(bkz: al bunu al al al)",
+      "has_external_url": false
+    },
+    {
+      "title": "ukraynaya gidecek yazar arkadaş arıyorum",
+      "entry_id": "118496554",
+      "author": "4 kedili bir garip yolcu",
+      "date": "20.01.2021 19:19",
+      "content": "interrail türkiye, yardımrail gibi facebook gruplarına yazarsanız daha hızlı dönüş alabilirsiniz.",
+      "has_external_url": false
+    },
+    {
+      "title": "ukraynaya gidecek yazar arkadaş arıyorum",
+      "entry_id": "118497884",
+      "author": "swordsman was here",
+      "date": "20.01.2021 19:54",
+      "content": "(bkz: hindistan'da ortak danaya girmek)",
+      "has_external_url": false
+    },
+    {
+      "title": "ukraynaya gidecek yazar arkadaş arıyorum",
+      "entry_id": "118498927",
+      "author": "nedemekfelsefe",
+      "date": "20.01.2021 20:19 ~ 21.01.2021 02:25",
+      "content": "beni de götürsenize beyler hı?",
+      "has_external_url": false
+    }
+  ]
+}

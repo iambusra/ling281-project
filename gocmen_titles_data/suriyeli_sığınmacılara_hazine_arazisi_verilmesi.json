@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:02:28.641033",
+    "total_entries": 1,
+    "input": "suriyeli sığınmacılara hazine arazisi verilmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeli sığınmacılara hazine arazisi verilmesi",
+      "entry_id": "161506343",
+      "author": "karanlik taraf emekcisi",
+      "date": "13.02.2024 09:50",
+      "content": "manisa ticaret odası başkanı tarafından dile getirilen iddia.\n\nuluslararası bir proje kapsamında, kalıcı olmaları için 5 ilde sığınmacılara hazine arazisinden yer verilmesi planlanıyormuş.\n\nkaynak",
+      "has_external_url": true
+    }
+  ]
+}

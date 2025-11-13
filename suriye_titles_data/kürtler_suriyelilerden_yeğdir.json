@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T16:02:41.874578",
+    "total_entries": 1,
+    "input": "kürtler suriyelilerden yeğdir",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "kürtler suriyelilerden yeğdir",
+      "entry_id": "55628401",
+      "author": "salmanikos",
+      "date": "19.10.2015 09:37 ~ 09:38",
+      "content": "illa kategorize edeceksiniz amk\n(bkz: amk)",
+      "has_external_url": false
+    }
+  ]
+}

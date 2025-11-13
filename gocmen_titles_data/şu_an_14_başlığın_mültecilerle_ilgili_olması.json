@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:53:13.382721",
+    "total_entries": 4,
+    "input": "şu an 14 başlığın mültecilerle ilgili olması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "şu an 14 başlığın mültecilerle ilgili olması",
+      "entry_id": "126804676",
+      "author": "hnnn",
+      "date": "11.08.2021 20:59 ~ 21:00",
+      "content": "bir durum tespiti.\n\ninanmayan saysın. an itibarıyla gündemdeki başlıkların 14 tanesinde afgan, suriyeli, mülteci kelimelerini içeren başlık var. dolaylı yoldan bunu ima edenleri saymıyorum bile. ana sayfada böyleyse.",
+      "has_external_url": false
+    },
+    {
+      "title": "şu an 14 başlığın mültecilerle ilgili olması",
+      "entry_id": "126804812",
+      "author": "saskin leylek",
+      "date": "11.08.2021 21:02",
+      "content": "allah allah durup dururken bu başlıklar da nerden çıktı? çok acayip.",
+      "has_external_url": false
+    },
+    {
+      "title": "şu an 14 başlığın mültecilerle ilgili olması",
+      "entry_id": "126804911",
+      "author": "reveranz",
+      "date": "11.08.2021 21:05 ~ 21:06",
+      "content": "ya ne olacağıdı?\n\nmemleket istila ediliyor, hadise'nin yeni sevgilisini mi gündem yapsınlar...",
+      "has_external_url": false
+    },
+    {
+      "title": "şu an 14 başlığın mültecilerle ilgili olması",
+      "entry_id": "126805225",
+      "author": "skaldak",
+      "date": "11.08.2021 21:13",
+      "content": "şu anda en önemli gündem olduğu için olabilir mi acaba? bir an önce seçimler gelsin artık da ne olacaksa olsun.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T00:04:14.017976",
+    "total_entries": 1,
+    "input": "2 şubat 2018 fransa göçmen çatışması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "2 şubat 2018 fransa göçmen çatışması",
+      "entry_id": "73935001",
+      "author": "yepisyeniydi",
+      "date": "02.02.2018 11:22 ~ 11:23",
+      "content": "fransa'nın calais şehrinde afgan lar ve eritre liler arasında çıkan çatışmada 5 göçmen silahla vurulmuş. dört tanesinin durumu ağır.\n\nyüzlerce göçmenin sopalar ve silahlarla çatıştıkları kavgada 13 kişi de demir sopalarla aldıkları darbelerden yaralanmışlar.\n\nyaklaşık iki saat süren ilk kavga, kentin güneyinde göçmenlerin yemek dağıtmak için kuyruğa girdikleri sırada çıktı. kavgaya yaklaşık 100 eritralı ve 30 afgan katılmış. ve bir afgan ateş açtığında olaylar büyümüş.\n\nikinci çatışma ise 5 km uzakta gerçekleşmiş. 150-200 kadar eritreli afganları kıstırmış ve polis kurtarmış.\n\nkaynak bbc\n\nbizde de benzer görüntüler pek uzak değil sanki. bu göçmen kesim uyum sağlayana kadar kendi medeniyetini, değerlerini, kavgalarını taşıyor gittiği yere. fotoğraflar çok korkutucu.",
+      "has_external_url": true
+    }
+  ]
+}

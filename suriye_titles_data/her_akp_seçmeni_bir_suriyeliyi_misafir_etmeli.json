@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:42:49.102147",
+    "total_entries": 3,
+    "input": "her akp seçmeni bir suriyeliyi misafir etmeli",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "her akp seçmeni bir suriyeliyi misafir etmeli",
+      "entry_id": "61668016",
+      "author": "fucknfall",
+      "date": "11.07.2016 22:07",
+      "content": "suriyelilere toki konutlarından ev verilmesi sebebiyle gerek kalmayacak olan düşüncedir. savaştan kaçarken bile üremeyi durduramayacak kadar düşüncesiz oldukları için yakında kendi ülkemizde misafir oluruz onlar bizi misafir ederler illa bir misafirlik söz konusu olacaksa?",
+      "has_external_url": false
+    },
+    {
+      "title": "her akp seçmeni bir suriyeliyi misafir etmeli",
+      "entry_id": "61668209",
+      "author": "necibu",
+      "date": "11.07.2016 22:18",
+      "content": "ortamlarda faşizmi eleştiren yavşağın actığı başlık. boşver ortamlarda hümanizma dersin kim bilecek",
+      "has_external_url": false
+    },
+    {
+      "title": "her akp seçmeni bir suriyeliyi misafir etmeli",
+      "entry_id": "61668773",
+      "author": "j0hnwick",
+      "date": "11.07.2016 22:45",
+      "content": "oy vermesini biliyorlarsa suriyelileride misafir etmeyi bilmeleri lazım.",
+      "has_external_url": false
+    }
+  ]
+}

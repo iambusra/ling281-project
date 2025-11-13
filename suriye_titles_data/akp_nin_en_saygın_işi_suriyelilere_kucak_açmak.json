@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T15:56:20.621495",
+    "total_entries": 1,
+    "input": "akp'nin en saygın işi suriyelilere kucak açmak",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "akp'nin en saygın işi suriyelilere kucak açmak",
+      "entry_id": "92532381",
+      "author": "nyx ulric",
+      "date": "12.07.2019 23:48",
+      "content": "...dedi sadece tatil veya tanıtım vs için türkiye'ye gelen, onuda adada geçiren, yurtdışında yaşayan yazar.",
+      "has_external_url": false
+    }
+  ]
+}

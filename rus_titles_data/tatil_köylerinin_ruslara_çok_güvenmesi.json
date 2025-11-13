@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:29:45.762324",
+    "total_entries": 1,
+    "input": "tatil köylerinin ruslara çok güvenmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "tatil köylerinin ruslara çok güvenmesi",
+      "entry_id": "88029016",
+      "author": "guzelceli",
+      "date": "22.03.2019 18:33",
+      "content": "biz bu senede silivri de gireriz denize de, reis ruslar la bir kriz çıkarır sizi görürüm o zaman.",
+      "has_external_url": false
+    }
+  ]
+}

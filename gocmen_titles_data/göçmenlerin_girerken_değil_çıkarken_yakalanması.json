@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:26:09.608715",
+    "total_entries": 1,
+    "input": "göçmenlerin girerken değil çıkarken yakalanması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "göçmenlerin girerken değil çıkarken yakalanması",
+      "entry_id": "126989084",
+      "author": "sagliginiz icin",
+      "date": "16.08.2021 20:08",
+      "content": "görsel\n\nakebe döneminde gerceklesen bi' insan olayı...",
+      "has_external_url": true
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:16:28.461693",
+    "total_entries": 1,
+    "input": "ukraynanin rusyaya saldirisi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukraynanin rusyaya saldirisi",
+      "entry_id": "135691258",
+      "author": "karacuce",
+      "date": "02.04.2022 02:34",
+      "content": "helikopterlerle ukrayna'nin rusya'ya yaptigi saldiridir. counter offense. moskova'ya dek ilerler. mevsim de ilkbahar zaten.",
+      "has_external_url": false
+    }
+  ]
+}

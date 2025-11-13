@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:51:57.597558",
+    "total_entries": 2,
+    "input": "isveçin de mültecilerden nasibini alacak olması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "isveçin de mültecilerden nasibini alacak olması",
+      "entry_id": "142558834",
+      "author": "raneni",
+      "date": "11.09.2022 23:58",
+      "content": "yavaştan belli olan oy sayımına göre isveç ülkesinde solcular iktidara gelirken, göçmen karşıtı sağcılar tabiri caizse az farkla başını alıyorlar.\n\nisvec halkının %48'lik kısmına geçmiş olsun dileklerimi iletiyorum.\n\nalışırsınız.\nbiz de gündem hep tempo.\nçilekli link",
+      "has_external_url": true
+    },
+    {
+      "title": "isveçin de mültecilerden nasibini alacak olması",
+      "entry_id": "142559200",
+      "author": "her donemin zencisi",
+      "date": "12.09.2022 00:05",
+      "content": "aslında ters bir durum var.\nmülteciye alışılmayacak halk tepkisini sağa destek vererek faşizmi hortlatacak.\nisveç ve avrupa kaybedecek.\nal sana öngörü.",
+      "has_external_url": false
+    }
+  ]
+}

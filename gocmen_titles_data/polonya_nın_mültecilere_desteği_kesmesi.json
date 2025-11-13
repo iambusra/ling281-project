@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:51:13.861132",
+    "total_entries": 1,
+    "input": "polonya'nın mültecilere desteği kesmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "polonya'nın mültecilere desteği kesmesi",
+      "entry_id": "138243263",
+      "author": "mkltkn",
+      "date": "02.06.2022 17:14",
+      "content": "ukraynalı mültecileri desteklemek için getirilen bazı özel avantajların kesilmesi durumu: örneğin mültecileri barındıran hanelere yapılan ödemeler ve toplu taşımanın ücretsiz kullanımı iptal ediliyor. bununla birlikte, mülteciler, polonya vatandaşlarına sunulan normal yardımlardan yararlanma hakkına sahiplermiş.\n\nmültecileri evlerine alan kişiler, mart ayında kabul edilen bir yasaya göre günlük 40 zloti (8,72 €) ödeme hakkına sahip oldular. nisan ayında hükümet, ödemelerden 600.000 ukraynalının yararlandığını tahmin etmişti.\n\nkaynak notesfrompoland.com",
+      "has_external_url": true
+    }
+  ]
+}

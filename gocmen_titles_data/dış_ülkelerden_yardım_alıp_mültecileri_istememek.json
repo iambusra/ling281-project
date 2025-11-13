@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:49:25.284304",
+    "total_entries": 3,
+    "input": "dış ülkelerden yardım alıp mültecileri istememek",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "dış ülkelerden yardım alıp mültecileri istememek",
+      "entry_id": "149132971",
+      "author": "portekizli forvet",
+      "date": "12.02.2023 13:44",
+      "content": "ironik bir çelişki. yabancı insanlar bize yardım etsin ama biz yabancı insanlara yardım etmeyelim...",
+      "has_external_url": false
+    },
+    {
+      "title": "dış ülkelerden yardım alıp mültecileri istememek",
+      "entry_id": "149133049",
+      "author": "principles of mechanism",
+      "date": "12.02.2023 13:46",
+      "content": "(bkz: anasına küfür edilince mutlu olan insanlar)",
+      "has_external_url": false
+    },
+    {
+      "title": "dış ülkelerden yardım alıp mültecileri istememek",
+      "entry_id": "149133264",
+      "author": "marpatlarin karadonasi",
+      "date": "12.02.2023 13:49",
+      "content": "(bkz: aktroll)",
+      "has_external_url": false
+    }
+  ]
+}

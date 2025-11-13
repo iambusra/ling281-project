@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:27:31.992462",
+    "total_entries": 1,
+    "input": "abd'nin tr'den aldığı suriyeli bilim adamının adı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "abd'nin tr'den aldığı suriyeli bilim adamının adı",
+      "entry_id": "56936565",
+      "author": "illegalstar",
+      "date": "13.12.2015 21:18",
+      "content": "karakter sınırlaması olduğundan, abd'nin türkiye'den aldığı suriyeli bilim adamının adı olması gereken başlığın son hali.\n\nöncelikle şöyle bir şey var: (bkz: abd'nin suriyeli bilim adamını türkiye'den alması)\n\nkimi feyk ulen bu demiş, kimi yok değil, gerçek demiş. ben bununla ilgilenmiyorum. ben amcanın ismini merak ettim. aradım mamafih hiç bir yerde bulamadım. bilen, duyan suserlar yeşillendirirse bayılırım.",
+      "has_external_url": false
+    }
+  ]
+}

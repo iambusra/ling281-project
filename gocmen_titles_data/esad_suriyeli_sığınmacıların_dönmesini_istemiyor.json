@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:05:39.481503",
+    "total_entries": 1,
+    "input": "esad suriyeli sığınmacıların dönmesini istemiyor",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "esad suriyeli sığınmacıların dönmesini istemiyor",
+      "entry_id": "126963461",
+      "author": "ben size inanmistim",
+      "date": "16.08.2021 00:42 ~ 00:43",
+      "content": "türkiye'nin son şam büyükelçisi ömer önhon'a ait ifade.\nnasıl bir çıkmaza düştük arkadaş!\n\nkaynak",
+      "has_external_url": true
+    }
+  ]
+}

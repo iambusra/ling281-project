@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:09:29.349874",
+    "total_entries": 2,
+    "input": "bizimkiler selanik gocmeni",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "bizimkiler selanik gocmeni",
+      "entry_id": "146573218",
+      "author": "rikousan",
+      "date": "19.12.2022 21:39",
+      "content": "cahil cahil konuşup sonra başkalarını cahillikle suçlayan yazardır.",
+      "has_external_url": false
+    },
+    {
+      "title": "bizimkiler selanik gocmeni",
+      "entry_id": "157717430",
+      "author": "give me something to kill the pain",
+      "date": "14.10.2023 00:38",
+      "content": "hamas yanlısı.",
+      "has_external_url": false
+    }
+  ]
+}

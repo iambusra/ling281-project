@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:12:58.661358",
+    "total_entries": 2,
+    "input": "türkiye'yi kötüleyen hain suriyelinin son hali",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türkiye'yi kötüleyen hain suriyelinin son hali",
+      "entry_id": "103200923",
+      "author": "getherefast55",
+      "date": "08.03.2020 13:31",
+      "content": "sevindiren haberdir. bir diğer sevindiğim konu ise o tiktokçu orospu çocuğu olmuştur. haşat etmişlerdi suratsızı.",
+      "has_external_url": false
+    },
+    {
+      "title": "türkiye'yi kötüleyen hain suriyelinin son hali",
+      "entry_id": "103200929",
+      "author": "meinkampfz",
+      "date": "08.03.2020 13:31",
+      "content": "öyle şeyler dese de o bizim arap kardeşimi.. şaka şaka. şimdi ona biz bakarız zannedersem.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:14:22.058586",
+    "total_entries": 2,
+    "input": "ukrayna'da 5 çocuk yapan evi kapacak",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukrayna'da 5 çocuk yapan evi kapacak",
+      "entry_id": "34097051",
+      "author": "azdan cok anarsik",
+      "date": "26.05.2013 13:11",
+      "content": "20 yılda nüfusu 7 milyon azalan ukrayna'nın nüfusunu artırmak için uygulamaya karar verdiği bir teşvik unsuru imiş.\n\ndetaylı bilgi: http://www.turkiyegazetesi.com.tr/dunya/41701.aspx\n\nyahu bazen düşünmüyor değilim \"bizim memlekette bu kadar fazla insan olduğu için bir değerimiz yok\" diye.",
+      "has_external_url": true
+    },
+    {
+      "title": "ukrayna'da 5 çocuk yapan evi kapacak",
+      "entry_id": "34097221",
+      "author": "roland deschain19",
+      "date": "26.05.2013 13:21",
+      "content": "(bkz: şimdi onlar düşünsün)",
+      "has_external_url": false
+    }
+  ]
+}

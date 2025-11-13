@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:10:38.157994",
+    "total_entries": 1,
+    "input": "türkiye'deki suriyelilerden avrupa'ya kaçan suri",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türkiye'deki suriyelilerden avrupa'ya kaçan suri",
+      "entry_id": "102772120",
+      "author": "dizirti",
+      "date": "28.02.2020 18:46",
+      "content": "türkiye'deki suriyeli'lerin sayısının, mevcut suriyeli'leri bile rahatsız ediyor olduğu gerçeği.",
+      "has_external_url": false
+    }
+  ]
+}

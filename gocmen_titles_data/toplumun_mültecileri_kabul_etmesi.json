@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:48:48.717050",
+    "total_entries": 2,
+    "input": "toplumun mültecileri kabul etmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "toplumun mültecileri kabul etmesi",
+      "entry_id": "164217175",
+      "author": "foterli",
+      "date": "08.05.2024 18:10",
+      "content": "mülteci deme göçmen de!",
+      "has_external_url": false
+    },
+    {
+      "title": "toplumun mültecileri kabul etmesi",
+      "entry_id": "164217206",
+      "author": "the antiquark",
+      "date": "08.05.2024 18:12 ~ 18:13",
+      "content": "yok öyle bir kabul!",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:25:00.014104",
+    "total_entries": 3,
+    "input": "gerdek gecesi rus'a giden erkek",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "gerdek gecesi rus'a giden erkek",
+      "entry_id": "20541070",
+      "author": "nuitari",
+      "date": "07.10.2010 22:17",
+      "content": "(bkz: sikmeye kıyamamak)",
+      "has_external_url": false
+    },
+    {
+      "title": "gerdek gecesi rus'a giden erkek",
+      "entry_id": "20541093",
+      "author": "syd",
+      "date": "07.10.2010 22:19",
+      "content": "rus bi' kadınla evlenmiş olabilir.",
+      "has_external_url": false
+    },
+    {
+      "title": "gerdek gecesi rus'a giden erkek",
+      "entry_id": "40004406",
+      "author": "bu tabanca bu cakmak",
+      "date": "28.01.2014 14:09",
+      "content": "rusya'da yaşayan erkektir.",
+      "has_external_url": false
+    }
+  ]
+}

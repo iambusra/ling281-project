@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:05:57.235138",
+    "total_entries": 1,
+    "input": "suriyeli sığınmacıların türkçe öğrenmemesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeli sığınmacıların türkçe öğrenmemesi",
+      "entry_id": "117779407",
+      "author": "sizi bulcaz hepinizi oldurucez",
+      "date": "04.01.2021 16:02",
+      "content": "biliyorlar bir kaç cümle. mesela şunun gibi; \"abi iş var?\". en azından çalışmak isteyenlerinin olduğunu bilmek güzel.",
+      "has_external_url": false
+    }
+  ]
+}

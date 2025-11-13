@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T00:02:34.443813",
+    "total_entries": 1,
+    "input": "14 kasım 2015 calais göçmen kampına saldırı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "14 kasım 2015 calais göçmen kampına saldırı",
+      "entry_id": "56235753",
+      "author": "zott",
+      "date": "14.11.2015 02:30 ~ 21:03",
+      "content": "uzun uzun yazacaydim ama ne gerek var kisaca ozetleyeyim buradaki durumu herkese.\n\nonce tanim gecelim formatci dayilar uzulmesin.\n\ngercekliginden hala emin olmadigim saldiri.\n\nsimdi soyle, oncelikle calais'deki multeci kampi kapatildi. amma velakin bolgede asiri derecede multeci var. eylul ayi baslarinda lille'ın sosyalist belediye baskani martine aubry butun multecilere barinak saglayacaklarini duyurdu, ve bos evlere multecilerin yerlestirilecegini. lille'de daha once bos olan evletin bir kismi multecilerce dolduruldu, luks mahallelerdeki el yakan fiyatlara kiraya verilen evlerin pencerelerinin karton ya da bez parcalariyla kapatilmasindan anlasilsigi uzere bu bir gercek.\n\nmulteci sorunu zaten fransizlarin en cok tartistigi durumlardan biridir, universitelerde, liselerde tekrar tekrar bu konu uzerinde tartismalar cikiyor.\n\nhalk ne kadar empati gostermeye calissa da(bir kismi en azindan) icten ice multecilerin saatli bomba gibi olduklari hissinden kurtulamiyor. gecen gunlerde belcika'da suriyeli multeciler arasinda yakalanan 4 cihadist de cogu insanin korkularini hakli cikartirken, dun vuku bulan paris saldirilari da neredeyse populasyonun %50 sagci oldugu bir bolgede hic hos karsilanmadi.\n\nustune bir de stade de france'daki canli bombalardan birinin ustunden suriyeli pasaportu cikmasi, ulkedeki butun siginmacilari halkin karsisinda bir acik hedef haline soktu. televizyonlar her hangi bir gericilige on ayak olmadan yorum yapmaya calisiyor, hic bir azinligi, ulkeyi, inanci hedef gostermemeye calisiyor fakat halkin icinde bastirmaya calistigi sagci damarlarini daha fazla dizginleyemeycekleri gayet acik bir sekilde ortada.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:41:58.472477",
+    "total_entries": 3,
+    "input": "dünyadaki en çok mülteciye ev sahibi yapan ülke",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "dünyadaki en çok mülteciye ev sahibi yapan ülke",
+      "entry_id": "100309871",
+      "author": "kimberley timsahi",
+      "date": "09.01.2020 23:54",
+      "content": "dünya bankası verilerine göre açık ara türkiye'dir.\n\nworld bank linki",
+      "has_external_url": true
+    },
+    {
+      "title": "dünyadaki en çok mülteciye ev sahibi yapan ülke",
+      "entry_id": "100310344",
+      "author": "naculos reloaded",
+      "date": "10.01.2020 00:02",
+      "content": "(bkz: daniska)\n\ngeçmiş olsun.",
+      "has_external_url": false
+    },
+    {
+      "title": "dünyadaki en çok mülteciye ev sahibi yapan ülke",
+      "entry_id": "164634620",
+      "author": "7714714",
+      "date": "22.05.2024 00:52",
+      "content": "geçmiş olsun. atalarımızın kanıyla canıyla aldığı toprakları ellerinizle araplara peşkeş çektiniz. verdiğiniz oyların faturasını çocuklarımız torunlarımız ödeyecek. siz yerli ve milli diye diye vatanı satmaya devam edin",
+      "has_external_url": false
+    }
+  ]
+}

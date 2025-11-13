@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:11:04.482798",
+    "total_entries": 3,
+    "input": "ukrayna'ya cihatçı sevkiyatı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukrayna'ya cihatçı sevkiyatı",
+      "entry_id": "38874224",
+      "author": "kivanco",
+      "date": "11.12.2013 19:10 ~ 19:23",
+      "content": "sadece bir tesadüf mü bilmiyorum ama dün wechat uygulaması ile ukrayna'dan telefonunu sallayan ve bana ulaşan kız konuşunca suriyeli çıktı. şimdi de bu başlığı görünce şaşırdım. kendi kendime \"suriyeli ne arar la ukrayna'da\" tepkisi verdim ilk söylediğinde. 4 aydır oradalarmış ve ailesiyle birlikteymiş. okumak için ukrayna'da olduğunu söyledi. bir de suriye'yi çok özlediğini. türkiye'de pek çok şehirde bulunmuşlar. mersin, izmir ve istanbul. ben de suriye'de yaşananlardan dolayı acılı ve sıkıntılı olduğunu düşünüp bu konuda daha detaylı sorular sormadım. profil sayfasında bir tane musri fotosu vardı, özelden yolladığı fotoğrafta ise kendisi gayet açık ve modern görünüşlü biri idi.",
+      "has_external_url": false
+    },
+    {
+      "title": "ukrayna'ya cihatçı sevkiyatı",
+      "entry_id": "38874286",
+      "author": "utanan ayi",
+      "date": "11.12.2013 19:12",
+      "content": "palavralığı bir yana, mantıksal altyapısı da anlaşılamayan haber.\ncihatçılar ab taraftarına ders verince bundan kendileri ne kazanacak? rusya'nın kaybetmesinin cihatçılara yarayacağı mı düşünülüyor arka planda? bu yönde hiç bir ima-bilgi paylaşılmadan bu \"şeyler\" nasıl haber diye yazılabiliyor?",
+      "has_external_url": false
+    },
+    {
+      "title": "ukrayna'ya cihatçı sevkiyatı",
+      "entry_id": "38874408",
+      "author": "turk eli",
+      "date": "11.12.2013 19:19",
+      "content": "cihatçıların \"cennete geldik lan galiba bırakın beyler cihatı mihatı artık gerek kalmadı\" sanrısıyla cozutmasıyla sonuçlanacak eylem.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:45:47.310252",
+    "total_entries": 3,
+    "input": "suriyeli mültecinin gözünden vatandaşlık verilmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeli mültecinin gözünden vatandaşlık verilmesi",
+      "entry_id": "61640759",
+      "author": "balthasar van der ast",
+      "date": "10.07.2016 14:51 ~ 15:43",
+      "content": "ama erdoğan’ın halkımı kullanmak istediğini düşünüyorum. türk vatandaşlığı önerseler, bunu istemem, kabul etmem. çünkü tüm bu sürecin ardında bir art niyet olduğunu düşünüyorum. eğitim seviyesi düşük ve dindar olan suriyelileri doğu ve güneydoğu illerine yerleştirerek, oradaki sünni-alevi, arap-kürt dengesini değiştirmeye çalışıyorlar.\n\nlink: http://www.hurriyet.com.tr/…geri-donecegiz-40138220",
+      "has_external_url": true
+    },
+    {
+      "title": "suriyeli mültecinin gözünden vatandaşlık verilmesi",
+      "entry_id": "61640919",
+      "author": "karizmatik bir nick olsun",
+      "date": "10.07.2016 15:00 ~ 15:11",
+      "content": "link olsa daha çok inceleyebileceğimiz beyanatlar içeren başlık.\n\nlink sonrası edit:\n\ntanım 1: 3 milyon suriye'linin içinden en fazla %1'i temsil edecek bir örneklem kullanılarak yapılmaya çalışan dezenformasyon gibi kokan haber. (malum doğan medyası da artık havuz medyasından sayılır)\n\ntanım 2: \"beyaz türk\"lerin gazını almak ve suriye'li mültecileri sevimli göstermek için binbir güçlükle bulunan 3-5 kişi üstünden sipariş usulü yapılmış gibi görünen haber.",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyeli mültecinin gözünden vatandaşlık verilmesi",
+      "entry_id": "61641009",
+      "author": "kurtadam316",
+      "date": "10.07.2016 15:07",
+      "content": "arkadaş ne güzel yazmış. \"oyunu boz\" diyenlere gelsin.",
+      "has_external_url": false
+    }
+  ]
+}

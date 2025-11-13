@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:47:12.170696",
+    "total_entries": 3,
+    "input": "afrikalı mülteciler vs suriyeli sığınmacılar",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "afrikalı mülteciler vs suriyeli sığınmacılar",
+      "entry_id": "54223000",
+      "author": "yakbenivatankurtulsun",
+      "date": "22.08.2015 22:30",
+      "content": "afrikalı mülteciler daha cana yakın, aza kanaat eden insanlardır. dilendikleri pek görülmez. halkı fazla rahatsız etmezler. devletten durmadan yardım beklemezler. suriyeli mülteciler ise, tam tersi.\n\nallah hepsine yardım etsin.",
+      "has_external_url": false
+    },
+    {
+      "title": "afrikalı mülteciler vs suriyeli sığınmacılar",
+      "entry_id": "162266378",
+      "author": "umitsizseniz umit sizsiniz",
+      "date": "08.03.2024 20:07",
+      "content": "gelişmemiş bir ülkeden gelen erkek mülteci her türlü tehlikelidir:\n\nhttps://twitter.com/…ldz/status/1766023522525106604",
+      "has_external_url": true
+    },
+    {
+      "title": "afrikalı mülteciler vs suriyeli sığınmacılar",
+      "entry_id": "162266408",
+      "author": "umitsizseniz umit sizsiniz",
+      "date": "08.03.2024 20:09",
+      "content": "\"biraz uzun bir mention olacak ama, insan hakları vs diye diye dünyanın en tehlikeli, tecavüzü tacizi kültür olarak benimsemiş eğitimsiz insanları dünyanın dört bir yanına yaydılar. bu insanların insan hakları filan yoktur. çabalayıp kendi ülkelerini güzel bir yer haline getirecekler, ya da çöplüklerinde öleceklerdi. tüm dünyanın demografik yapısıyla oynadılar. günümüzde artık kötülük bile kalmadı. kötülük diye bir şey duymuyoruz. cinnet geçirdi, sinir hastası, gözü karardı, pedofili zaten hastalık. tüm kötülükler artık hastalık oldu. dünyaya ayak uydurabilen insanlar yaşamalı, diğerleri ölmeli hiçbir sakınca görmüyorum. ya kendi ülkelerini yaşanır hale getirecek ya öleceklerdi. biz tuttuk gelip bizim ülkemizin de içine sıçın dedik. en çok biz dedik. çok ama çok büyük yazık ettik insanlığa.\"",
+      "has_external_url": false
+    }
+  ]
+}

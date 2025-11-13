@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:14:30.755211",
+    "total_entries": 1,
+    "input": "ukrayna'da görücü usulü evlenen erkek",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukrayna'da görücü usulü evlenen erkek",
+      "entry_id": "24935376",
+      "author": "tuthsick iyannachek",
+      "date": "13.08.2011 12:41",
+      "content": "ilk olarak; çok şanslı bir erkektir.\n\nbiliyordur ki, evleneceği kişinin dünyalar güzeli olması olasılığı ile belirli bir kültürel seviyeye sahip olma olasılığı çok yüksektir.\n\nyapılacak iş ise çok basittir; aileye gerekli talimat verilir ve beklemeye başlanır.",
+      "has_external_url": false
+    }
+  ]
+}

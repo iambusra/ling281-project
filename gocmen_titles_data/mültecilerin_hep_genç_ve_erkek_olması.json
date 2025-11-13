@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:55:09.792751",
+    "total_entries": 1,
+    "input": "mültecilerin hep genç ve erkek olması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "mültecilerin hep genç ve erkek olması",
+      "entry_id": "142342264",
+      "author": "umitsizseniz umit sizsiniz",
+      "date": "07.09.2022 02:34 ~ 02:48",
+      "content": "nerede boş ve sapık ortadoğulu var, bizim ülkeye geliyor.\n\nhttps://mobile.twitter.com/…tus/1567117090695389184\n\n\"genç erkekler, akın akın ülkeye getiriliyor. bakın bu çok tehlikeli bir gidiş. akp ülkeye çok kötü bir plan hazırlıyor.\n\nkonu ne mülteci, ne insanlık, ne yardım bunlarla hiç ilgisi yok. akp bilinçli şekilde, bu insanları getiriyor.\n\nbunu nasıl zor durumda kalmış insan profili, bu ülkede kadın yok mu, yaşlı yok mu, çocuk yok mu, sadece genç erkekler. ülkelerinde savaşması gereken asker olması gereken insanlar buralara niye taşınıyor?\"\nnasuh bektaş'ın yorumu",
+      "has_external_url": true
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:02:57.019707",
+    "total_entries": 2,
+    "input": "suriyeli sığınmacılara ne oldu sorunsalı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeli sığınmacılara ne oldu sorunsalı",
+      "entry_id": "103760903",
+      "author": "redlabel",
+      "date": "19.03.2020 08:51",
+      "content": "yaklaşık iki- üç hafta öncesine kadar suriye'li sığınmacıların yunanistan'a geçişi, sınır kapılarının açılması, göçmenlerin mağduriyeti vs. gündemi meşgul ederken.\nmalum salgın hastalık söz konusu olunca, bu insanlara ne oldu, hala ülkemizdeler mi,\nsınır kapılarında bekleyişe devam mı ediyorlar? sorunsalı ile karantina günlerinde karşı karşıyayım .\ndüzensiz göç ve yaşamlarının coronavirüsün ülkemizde yayılmasında etkili olduğunu düşünüyorum.\n\n(bkz: imla)",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyeli sığınmacılara ne oldu sorunsalı",
+      "entry_id": "103784845",
+      "author": "silver apples",
+      "date": "19.03.2020 17:48",
+      "content": "hepsi öldü. gruplaşmalar tek tek tespit edilip imha edildi.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:22:06.680263",
+    "total_entries": 1,
+    "input": "edirne halki gocmenlere yardim et",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "edirne halki gocmenlere yardim et",
+      "entry_id": "102970571",
+      "author": "esofmanli tehlike",
+      "date": "03.03.2020 19:49",
+      "content": "orada ne yemek ne yatacak yerleri var.umarim yardim gidiyordur.cok acı bir durum.icim parçalanıyor.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:26:07.739424",
+    "total_entries": 4,
+    "input": "habertürk'ün rus şakşakçılığı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "habertürk'ün rus şakşakçılığı",
+      "entry_id": "19005164",
+      "author": "ernest everhard",
+      "date": "11.05.2010 10:38",
+      "content": "özellikle ciner'in nükleer saplantısı ile ortaya çıkan, habertürk'ün durmadan rusya süper, rusya büyük, ruslar geliyor, rusya bilmem ne bakanı açıklama yapıyor, rusya büyüdü, rusların bilmem nesi şeklinde hiç durmadan verdiği haberler ile bir anda gözümdeki ntv'nin yanındaki yerini kaybetmek üzere.",
+      "has_external_url": false
+    },
+    {
+      "title": "habertürk'ün rus şakşakçılığı",
+      "entry_id": "30276223",
+      "author": "mai hasegawa",
+      "date": "20.09.2012 18:10",
+      "content": "(bkz: ruslar 35 santim)",
+      "has_external_url": false
+    },
+    {
+      "title": "habertürk'ün rus şakşakçılığı",
+      "entry_id": "30276238",
+      "author": "diazepam",
+      "date": "20.09.2012 18:12",
+      "content": "(bkz: ruslar 1.7 milyon adam arıyor)",
+      "has_external_url": false
+    },
+    {
+      "title": "habertürk'ün rus şakşakçılığı",
+      "entry_id": "30276284",
+      "author": "dreamkeeper",
+      "date": "20.09.2012 18:17",
+      "content": "yalnizca haberturk'le sinirli olmayan canak tutma eylemi.\n\n(ara: rus kizlari)",
+      "has_external_url": false
+    }
+  ]
+}

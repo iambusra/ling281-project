@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:02:19.250990",
+    "total_entries": 4,
+    "input": "sığınmacıları bahane edip ev kiralarını artırmak",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "sığınmacıları bahane edip ev kiralarını artırmak",
+      "entry_id": "43725869",
+      "author": "somek kafali",
+      "date": "24.06.2014 20:45",
+      "content": "bazı şehirlerde görülen omurgasızlık ya da omurgalılık. ne bilim ya.",
+      "has_external_url": false
+    },
+    {
+      "title": "sığınmacıları bahane edip ev kiralarını artırmak",
+      "entry_id": "43726148",
+      "author": "epistemofili",
+      "date": "24.06.2014 21:01",
+      "content": "(bkz: insan insana bunu yapar mı)\n(bkz: hicret)",
+      "has_external_url": false
+    },
+    {
+      "title": "sığınmacıları bahane edip ev kiralarını artırmak",
+      "entry_id": "43950698",
+      "author": "sigortali isyankar",
+      "date": "04.07.2014 14:12",
+      "content": "sığınmacıların sığınmadığı muhitlerde bile geçerli olan mazeret.",
+      "has_external_url": false
+    },
+    {
+      "title": "sığınmacıları bahane edip ev kiralarını artırmak",
+      "entry_id": "43983754",
+      "author": "somek kafali",
+      "date": "05.07.2014 21:17",
+      "content": "(bkz: sığınmacılar ev kiralayacak parayı nerden buluyor)",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:27:17.520193",
+    "total_entries": 3,
+    "input": "ruslar ilerlemesin diye kendini patlatan asker",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ruslar ilerlemesin diye kendini patlatan asker",
+      "entry_id": "134228425",
+      "author": "weight26",
+      "date": "26.02.2022 05:48",
+      "content": "ukraynalı denizci vitaliy skakun’un, rus tanklarının ilerlemesini durdurmak için kendisiyle birlikte henichesky köprüsü'nü havaya uçurması olayıdır.\n\nkahramanlar can verir, yurdu yaşatmak için…\n\nlink\n\nlink",
+      "has_external_url": true
+    },
+    {
+      "title": "ruslar ilerlemesin diye kendini patlatan asker",
+      "entry_id": "134263782",
+      "author": "piresidente",
+      "date": "27.02.2022 01:30 ~ 01:31",
+      "content": "öldürdün mü sandınız onu 25 şubat'ta? say bakalım o günden bugüne doğan çocukların kaçının adı putin kaçının adı vitaly..",
+      "has_external_url": false
+    },
+    {
+      "title": "ruslar ilerlemesin diye kendini patlatan asker",
+      "entry_id": "134264900",
+      "author": "akm7",
+      "date": "27.02.2022 01:57",
+      "content": "üstte sivri zekanın birisi''rusa köprümü yok, yenisini yapar geçer. yani niyazi olmuştur'' yazmış .\no an geçse tanklar sonuçları farklı olabilir, o kazanılan zaman belki çok önemlidir.\nbunu düşünemiyor niyazi.",
+      "has_external_url": false
+    }
+  ]
+}

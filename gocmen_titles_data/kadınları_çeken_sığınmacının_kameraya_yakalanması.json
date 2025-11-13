@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:59:01.386198",
+    "total_entries": 4,
+    "input": "kadınları çeken sığınmacının kameraya yakalanması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "kadınları çeken sığınmacının kameraya yakalanması",
+      "entry_id": "137937601",
+      "author": "day zero",
+      "date": "26.05.2022 16:57",
+      "content": "şuradan izlenebilir:\n\nvideo\n\nkele göre aslında selfie çekmektedir.",
+      "has_external_url": true
+    },
+    {
+      "title": "kadınları çeken sığınmacının kameraya yakalanması",
+      "entry_id": "137937854",
+      "author": "ashin",
+      "date": "26.05.2022 17:05",
+      "content": "şaşırmıyoruz artık. bu konuda kadınlar da salak olmasın aq. vapurda otobüste tramvayda falan fark edin bunları. hele ki açık saçıksanız daha da dikkatli olun. bakın çevrenize yakınınıza falan. bakıyorsun kadınlar çok rahat aq lan insan etrafına bakar bi endişelenir falan. karşınızda elinde telefonla duran birilerini fark edince sessiz kalmayın, gerekirse bağırıp çağırın utanmayın.",
+      "has_external_url": false
+    },
+    {
+      "title": "kadınları çeken sığınmacının kameraya yakalanması",
+      "entry_id": "137938250",
+      "author": "29 ekim 1923",
+      "date": "26.05.2022 17:17",
+      "content": "televizyonlarda \"kadınları videoya çeken göçmen halk tarafından dövüldü\" haberleri çıkmadıkça bu olaylar bitmez. kanunu beklemek hikaye.",
+      "has_external_url": false
+    },
+    {
+      "title": "kadınları çeken sığınmacının kameraya yakalanması",
+      "entry_id": "137939049",
+      "author": "no free lunch",
+      "date": "26.05.2022 17:39 ~ 17:40",
+      "content": "ne yazık ki sıradan bir olay.\n\nkameraya yakalanmayan %99.9 iğrençliği düşündükçe yüreğim sıkışıyor. aynı şey kamyon kasasından çil yavrusu gibi dağılan kaçakları görünce de oluyor. kim bilir kameraya girmeyen kaç kamyon kaçak her gün ülkeye böyle elini kolunu sallayarak dalıyor.",
+      "has_external_url": false
+    }
+  ]
+}

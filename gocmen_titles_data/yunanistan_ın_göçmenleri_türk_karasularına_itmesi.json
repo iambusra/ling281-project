@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:19:05.073515",
+    "total_entries": 3,
+    "input": "yunanistan'ın göçmenleri türk karasularına itmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "yunanistan'ın göçmenleri türk karasularına itmesi",
+      "entry_id": "140100154",
+      "author": "pratikte mukemmel adam",
+      "date": "17.07.2022 14:06",
+      "content": "helal olsun komşuya. vatanini savunan her ulkeyi tebrik ediyorum.",
+      "has_external_url": false
+    },
+    {
+      "title": "yunanistan'ın göçmenleri türk karasularına itmesi",
+      "entry_id": "140100193",
+      "author": "bu filmin kotu adami",
+      "date": "17.07.2022 14:07",
+      "content": "eyy! milli savunma bakanlığı yunanistan kontrolsüz göçmenleri türk sularına itmiş diyorsun da o kontrolsüz göçmenler oraya nereden gitmiş? oraya gidene kadar ne iş gördünüz?\n\n(bkz: fonlanmamış bir ağızdan türkiye'nin mülteci sorunu)",
+      "has_external_url": false
+    },
+    {
+      "title": "yunanistan'ın göçmenleri türk karasularına itmesi",
+      "entry_id": "140100254",
+      "author": "cokonemlidegilzaten",
+      "date": "17.07.2022 14:09 ~ 16:50",
+      "content": "akla ve bilime ölesiye düşman sol gericilerin \"ab sığınmacıları göndermemize izin vermez.\" propagandasındaki ab'nin sığınmacıları itmesi durumu.\n\nbu sol gericileri akp'den sonra gelecek iktidardan uzak tutmayı başarabilirsek sığınmacıları hiçbir sorun yaşamadan ülkelerine gönderebiliriz.",
+      "has_external_url": false
+    }
+  ]
+}

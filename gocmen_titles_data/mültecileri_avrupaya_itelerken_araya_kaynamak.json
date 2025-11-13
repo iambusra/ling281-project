@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:48:28.654408",
+    "total_entries": 1,
+    "input": "mültecileri avrupaya itelerken araya kaynamak",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "mültecileri avrupaya itelerken araya kaynamak",
+      "entry_id": "165932715",
+      "author": "budevrandonecekyavrum",
+      "date": "02.07.2024 18:57 ~ 18:58",
+      "content": "yunan sınırında devletini ve milletini önemseyen bir polis memurunun sizi yakalayıp götünüze meşe budağı sokarak çırıl çıplak bir halde meriç nehrinin serin sularına bırakmasıyla sonlanacak kaynamadır.\n\nedit: başlık başa.",
+      "has_external_url": false
+    }
+  ]
+}

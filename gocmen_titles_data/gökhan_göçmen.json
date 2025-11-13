@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:06:52.816735",
+    "total_entries": 2,
+    "input": "gökhan göçmen",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "gökhan göçmen",
+      "entry_id": "167699925",
+      "author": "jughead",
+      "date": "24.08.2024 22:21 ~ 22:27",
+      "content": "sen türkünü söyle yarışmasında bu sene şampiyon olmuş. youtube da söylediği türküleri,deyişleri dinliyorum. çok iyi bir sesi var gerçekten. harika.",
+      "has_external_url": false
+    },
+    {
+      "title": "gökhan göçmen",
+      "entry_id": "170138815",
+      "author": "sendmeangel",
+      "date": "13.11.2024 21:01",
+      "content": "özel insan. özel bir ses. her icrası pek pek özel. ruhsuz bir türküye, şarkıya da ruh katar.",
+      "has_external_url": false
+    }
+  ]
+}

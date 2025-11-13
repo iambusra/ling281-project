@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:13:06.090819",
+    "total_entries": 1,
+    "input": "tanrı dağları göçmeni",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "tanrı dağları göçmeni",
+      "entry_id": "34055276",
+      "author": "diplomaatti",
+      "date": "24.05.2013 09:18",
+      "content": "özbekistan, kazakistan, kırgızistan ve sincan özerk bölgesi sırası içinde bulunan sıradağlar dan büyük ihtimalle rusya yada çin'e göçmüş insandır. eğer türk ise tanrı dağı kadar türk tür. ülkü ocağı reisi olma ihtimali yüksektir. rus akımından etkilenip komünist olursa tanrı dağı kadar komünist olur.",
+      "has_external_url": false
+    }
+  ]
+}

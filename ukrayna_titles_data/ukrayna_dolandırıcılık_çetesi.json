@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:07:25.708140",
+    "total_entries": 1,
+    "input": "ukrayna dolandırıcılık çetesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukrayna dolandırıcılık çetesi",
+      "entry_id": "161600434",
+      "author": "iyiliksever",
+      "date": "16.02.2024 11:59",
+      "content": "bugün youtube'da tasarımcı dayı kanalı vasıtasıyla öğrendiğim dünya çapında \"profesyonel\" dolandırıcılık yapan bir çete.\n\nborsa vs. yatırım işlerinden pek anlamam ama bunlarla uğraşanların mağdur olmaması için bir başlık açmak istedim.\n\nbuyrun link:\nhttps://www.youtube.com/watch?v=euziehy810k",
+      "has_external_url": true
+    }
+  ]
+}

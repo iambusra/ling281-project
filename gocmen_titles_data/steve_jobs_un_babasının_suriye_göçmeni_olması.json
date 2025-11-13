@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:10:21.961710",
+    "total_entries": 2,
+    "input": "steve jobs'un babasının suriye göçmeni olması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "steve jobs'un babasının suriye göçmeni olması",
+      "entry_id": "125824900",
+      "author": "crectore team",
+      "date": "17.07.2021 20:31",
+      "content": "yetmez,bir de o meşhur garaja sahip olmamız gerekir. afganlardan da bir freddie mercury'imizi çıkartırız. grubun adı da king olsun, queen değil..",
+      "has_external_url": false
+    },
+    {
+      "title": "steve jobs'un babasının suriye göçmeni olması",
+      "entry_id": "125847355",
+      "author": "frigatebird",
+      "date": "18.07.2021 13:01",
+      "content": "“hayallerde yaşıyor bazı i*neler...” lafı geldi aklıma...",
+      "has_external_url": false
+    }
+  ]
+}

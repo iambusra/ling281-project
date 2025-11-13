@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:27:35.388723",
+    "total_entries": 4,
+    "input": "ruslarla savaşırsak yazın ruslar tatile gelir mi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ruslarla savaşırsak yazın ruslar tatile gelir mi",
+      "entry_id": "102750354",
+      "author": "non mi avete fatto niente",
+      "date": "28.02.2020 11:16 ~ 11:18",
+      "content": "her yaz antalya'ya calismaya giden genclerin az once aralarinda konusurken duydugum cumle. buyuk bir endise var. seyahat acentalari da buyuk stres altinda.",
+      "has_external_url": false
+    },
+    {
+      "title": "ruslarla savaşırsak yazın ruslar tatile gelir mi",
+      "entry_id": "102750736",
+      "author": "sportmance",
+      "date": "28.02.2020 11:23",
+      "content": "cumaya gittiğimde hutbe dinlerken cemaate soracağım",
+      "has_external_url": false
+    },
+    {
+      "title": "ruslarla savaşırsak yazın ruslar tatile gelir mi",
+      "entry_id": "102751175",
+      "author": "celebriantasartir",
+      "date": "28.02.2020 11:32",
+      "content": "ruslarla savaşırsak ellerindeki silahlara nasıl savunma yaparızı değil de tatil olayını düşünmek nasıl bir tuhaflık gerçekten diyecek söz bulamadım.",
+      "has_external_url": false
+    },
+    {
+      "title": "ruslarla savaşırsak yazın ruslar tatile gelir mi",
+      "entry_id": "102751188",
+      "author": "invector",
+      "date": "28.02.2020 11:32",
+      "content": "o zaman rusyayla savaşmayacaksın, rusyanın müttefiği suriye ile de savaşmayacaksın. karşısında savaşmaktan çekindiğin ülkeyi kendi safına çekmeye çalışacaksın.\n\nülkemiz suriye'ye hiç karışmasaydı ve sınırlarını kapatsaydı, ne rusya ile savaş riski olurdu, ne şehit verirdik, ne de mülteci sorunu yaşardık.",
+      "has_external_url": false
+    }
+  ]
+}

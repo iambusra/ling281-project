@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:04:17.948148",
+    "total_entries": 4,
+    "input": "sığınmacıların kısırlaştırılması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "sığınmacıların kısırlaştırılması",
+      "entry_id": "157109335",
+      "author": "teknikparti",
+      "date": "25.09.2023 13:16",
+      "content": "madem gönderemiyoruz, madem halk da son seçim ile sığınmacılara ok dedi, o halde azınlık durumuna düşmememiz için 1 çocuk izni ile, kısırlaştırma programı başlatılmalıdır.",
+      "has_external_url": false
+    },
+    {
+      "title": "sığınmacıların kısırlaştırılması",
+      "entry_id": "157109371",
+      "author": "olumsuzdusunenadam",
+      "date": "25.09.2023 13:17",
+      "content": "battal gazi gibi bunlar. tek atışta 5 adam vuruyorlar. istediğini yap. yine çoğalırlar.",
+      "has_external_url": false
+    },
+    {
+      "title": "sığınmacıların kısırlaştırılması",
+      "entry_id": "157109589",
+      "author": "likya krali",
+      "date": "25.09.2023 13:27",
+      "content": "50 senedir sokak hayvanlarını aşılayıp kısırlaştır(a)madı bu devlet bu kadar insanı kısırlaştıracak he?",
+      "has_external_url": false
+    },
+    {
+      "title": "sığınmacıların kısırlaştırılması",
+      "entry_id": "165452994",
+      "author": "smyrnoff",
+      "date": "18.06.2024 10:16",
+      "content": "saat sabah 07:00. yer izmir inciraltı kent ormanı. ben nöbete gidiyorum ve sabahın bu saatinde arapça konuşan 3-4 tane aile gözüme ilişiyor. istisnasız hepsinde 4-5 tane çocuk vardı. varın bu işin sonunu siz düşünün.",
+      "has_external_url": false
+    }
+  ]
+}

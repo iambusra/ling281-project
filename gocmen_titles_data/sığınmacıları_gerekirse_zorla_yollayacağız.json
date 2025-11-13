@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:00:50.177409",
+    "total_entries": 2,
+    "input": "sığınmacıları gerekirse zorla yollayacağız",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "sığınmacıları gerekirse zorla yollayacağız",
+      "entry_id": "145660907",
+      "author": "eurasia",
+      "date": "28.11.2022 13:36 ~ 13:42",
+      "content": "zafer partisi genel başkanı ümit özdağ, hatay'ın antakya ve samandağ ilçelerinde ziyaretler gerçekleştirdi. özdağ yaptığı konuşmada, \"biz sığınmacıları gerekirse zorla yollayacağız\" ifadesini kullandı. haber",
+      "has_external_url": true
+    },
+    {
+      "title": "sığınmacıları gerekirse zorla yollayacağız",
+      "entry_id": "145660952",
+      "author": "rreggullarr",
+      "date": "28.11.2022 13:37",
+      "content": "ya onlar bizi zorla yollayacak ya biz onları harbi ya yüzyıl önce de böyle olmamış mıydı?",
+      "has_external_url": false
+    }
+  ]
+}

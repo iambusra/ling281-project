@@ -1,0 +1,52 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:08:21.439125",
+    "total_entries": 3,
+    "input": "bütün metropollerin göçmen çöplüğüne dönüşmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "bütün metropollerin göçmen çöplüğüne dönüşmesi",
+      "entry_id": "162488116",
+      "author": "se7ven07",
+      "date": "15.03.2024 22:15 ~ 22:22",
+      "content": "bütün metropolleri gezmiş değilim ama barcelona, madrid, londra, düsseldorf,istanbul gibi şehirleri gezip dolaştığımda gördüğüm şey bu. biz sadece bizden ibaret sanıyoruz ama sanırım tüm büyük şehirler artık kimliğini kaybediyor. londrada ingiliz barcelonada katalan görmek için belli yerlere gitmeniz gerekiyor. bir başlık altında 2. kavimler göçü entry sini pandemi henüz başlamışken yazmıştım korkarım ki gerçek oluyor. (bkz: #103470056)",
+      "referenced_content": [
+        {
+          "type": "entry",
+          "title": "dunyada-su-an-film-gibi-seylerin-yasandigi-gercegi",
+          "entry_id": "103470056",
+          "author": "se7ven07",
+          "date": "13.03.2020 22:45",
+          "content": "2. kavimler göçü...\ncovid 19 yüzünden çinden yapılan ticaret durma noktasına gelecek. kimse risk almak istemeyecek ve çinde ki fabrikalar bir bir farklı merkezlere kayacak. bu merkezler ise öyle sanıldığı gibi ucuz işçi gücünün bulunduğu üçüncü dünya ülkeleri olmayacak . avrupa ve abd’nin kalbinde olacak çünkü insan gücünün yeri artık tamamen yapay zekayla desteklenmiş robot makineler alacak. bu da çin, malezya, endonezya gibi ülkelerdeki insan gücüne duyulan ihtiyacı bitirecek. özellikle çin de miluonlarca işsiz 2. kavimler göçünü başlatacak. bu göç de öyle suriye lilerin basit ve düzensiz göç hareketi gibi olmayacak. bir istilaya dönüşecek. yoğun insan toplulukları doğuya, güneye ve özellikle batıya yönelecek. belki de ülkeler yıkıp ülkeler kuracak. avrupanın demografik yapısı 1650 yıl sonra yeniden değişecek. merkezi hükümetler çökecek. özellikle rusya yerle bir olacak. doğu avrupa devletleri birleşip federasyonlar kurmaya çalışacak. abd iyice güçlenip tek hakim güç olacak.",
+          "has_external_url": false
+        }
+      ],
+      "referenced_entry_ids": [
+        "103470056"
+      ],
+      "has_external_url": false
+    },
+    {
+      "title": "bütün metropollerin göçmen çöplüğüne dönüşmesi",
+      "entry_id": "162488180",
+      "author": "sahurkolasi",
+      "date": "15.03.2024 22:17",
+      "content": "türkiye küçük bir amerika olamaz ama amerika büyük bir türkiye olabilir.",
+      "referenced_content": [],
+      "has_external_url": false
+    },
+    {
+      "title": "bütün metropollerin göçmen çöplüğüne dönüşmesi",
+      "entry_id": "162488435",
+      "author": "bigbrother",
+      "date": "15.03.2024 22:27",
+      "content": "dünyayı üçüncü dünya savaşına hazırlamak ve faşizmi tırmandırmak için uygulanan büyük planın etaplarından biri...\nher ülkede faşizm tırmanırsa olan göçmenlere olacak, çoğu hak ediyor ama kurunun yanında yaş da yanacak...",
+      "referenced_content": [],
+      "has_external_url": false
+    }
+  ]
+}

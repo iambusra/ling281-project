@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:29:35.856045",
+    "total_entries": 1,
+    "input": "22 haziran 2021 türk otellerinin ruslara tahsisi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "22 haziran 2021 türk otellerinin ruslara tahsisi",
+      "entry_id": "124892569",
+      "author": "kayitsiz ol",
+      "date": "22.06.2021 11:09 ~ 11:59",
+      "content": "ruslara tahsis edildiğini nereden anlıyoruz peki?\n\nedit: başlık başa kalmış. arkadaşın biri ilk entry'de rezervasyonlarının iptal edilmiş olduğunu belirtmiş ama nedense ruslara bağlamış bunu sebep olarak.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:01:51.999484",
+    "total_entries": 1,
+    "input": "sığınmacıları sınır dışı eden akp'ye oy vermek",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "sığınmacıları sınır dışı eden akp'ye oy vermek",
+      "entry_id": "126765959",
+      "author": "uweyc i",
+      "date": "10.08.2021 21:37",
+      "content": "bence yanlış bir davranıştır. ülkemizin başının belası çoğunlukçu demokrasi nedeniyle hükümetler, her beş ya da dört yılda her türlü manipülasyonla hükmetme yetkisini eline aldıktan sonra aklının gerisinde sakladığı zorbacı ve yağmacı planları adım adım hayata geçirdiği için böyle bir yeme kapılmak en basit dille safdillik olur. düşüncesini temsil imkanı bulamayan vatandaşın güçlüyü tökezletmesi daha akıllıca olacaktır. ayrıca yalan söylediğini bildiğiniz birine emanet olursanız uğradığınız ihanetten şikayete hakkınız olmaz.",
+      "has_external_url": false
+    }
+  ]
+}

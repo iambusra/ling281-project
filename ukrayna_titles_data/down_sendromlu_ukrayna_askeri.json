@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:07:31.560041",
+    "total_entries": 1,
+    "input": "down sendromlu ukrayna askeri",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "down sendromlu ukrayna askeri",
+      "entry_id": "160186324",
+      "author": "ramakes",
+      "date": "30.12.2023 17:56",
+      "content": "ukrayna down sendromlu erkekleri de orduya almaya başlamış. ukrayna zenginleri avrupada gününü gün ederken down sendromlu evlatlar bile vatanını savunuyor umarım hiç bir milletin ordusu böyle bir duruma düşmez resmen bir ülkenin çöküşü ulus bilinci yok olmuş\n\nhttps://twitter.com/…?t=x2aql-dfmy45_xdrui27fa&s=19",
+      "has_external_url": true
+    }
+  ]
+}

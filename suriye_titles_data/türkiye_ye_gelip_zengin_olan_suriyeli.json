@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:11:45.648275",
+    "total_entries": 4,
+    "input": "türkiye'ye gelip zengin olan suriyeli",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türkiye'ye gelip zengin olan suriyeli",
+      "entry_id": "69823677",
+      "author": "mentem incomitata",
+      "date": "29.07.2017 09:10 ~ 09:13",
+      "content": "zenginliğinin kaynağı dilencilik, gasp, hırsızlık, pezevenklik olmadığı sürece tebrik ve teşvik edilmesi gereken suriyeli.\n\nbütün suriyeli boş beleş lümpenleri bunun üzerinden aklamaya kalkan çomarlara en başta kendisi gülecektir.",
+      "has_external_url": false
+    },
+    {
+      "title": "türkiye'ye gelip zengin olan suriyeli",
+      "entry_id": "69823765",
+      "author": "nagy szent miklos",
+      "date": "29.07.2017 09:20",
+      "content": "zengin olduktan sonra çalışanlarını malum kesimden seçecektir. sonra bu malum kesimin mesupları da \"elin suriyelisine çalışıyoruz meh meh...\" gibilerinden söylenmeye başlayacaktır. ama yapacak bir şey yok değil mi? çünkü o sizin kardeşiniz ve zengin.",
+      "has_external_url": false
+    },
+    {
+      "title": "türkiye'ye gelip zengin olan suriyeli",
+      "entry_id": "69823851",
+      "author": "bardaktaki dudak payi",
+      "date": "29.07.2017 09:27",
+      "content": "muhtemelen zaten suriye de de zengin olan kişidir. ve yatırım yapma imkanı vermiştir.",
+      "has_external_url": false
+    },
+    {
+      "title": "türkiye'ye gelip zengin olan suriyeli",
+      "entry_id": "69823871",
+      "author": "fontdrakula",
+      "date": "29.07.2017 09:30",
+      "content": "suriyeden gelen adam zaten sıfır ile geliyor sonuçta burada 10 lira bile kazansa geçmişe göre zengindir.",
+      "has_external_url": false
+    }
+  ]
+}

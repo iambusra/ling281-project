@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:50:06.742832",
+    "total_entries": 1,
+    "input": "mültecileri geri göndermemek için bir bahane bırak",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "mültecileri geri göndermemek için bir bahane bırak",
+      "entry_id": "137311660",
+      "author": "kaz gelecek yerden tavuk esirgeyen insan",
+      "date": "11.05.2022 13:58 ~ 14:00",
+      "content": "- iran ve suriye sınırına duvar ördük, duvardan atlayıp geri gidemiyorlar maalesef.\n\n- kurulu düzenleri var yeğenim.\n\ntanım: göçmenler pasaport yırttığından sınırdışı olamaz açıklamasını halkımız yeterli bulmadığı için gerekli olan bahaneyi bulmak için açılmış başlıktır.",
+      "has_external_url": false
+    }
+  ]
+}

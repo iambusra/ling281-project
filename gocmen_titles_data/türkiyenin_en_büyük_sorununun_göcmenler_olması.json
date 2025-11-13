@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:17:06.856148",
+    "total_entries": 3,
+    "input": "türkiyenin en büyük sorununun göcmenler olması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türkiyenin en büyük sorununun göcmenler olması",
+      "entry_id": "137244927",
+      "author": "taran baba",
+      "date": "09.05.2022 21:50",
+      "content": "koca bir yalandir. türkiye'nin en büyük sorununu iktidardakiler, otoriter yönetim ve dogal olarak hukuksuzluktur.",
+      "has_external_url": false
+    },
+    {
+      "title": "türkiyenin en büyük sorununun göcmenler olması",
+      "entry_id": "137245277",
+      "author": "netflix1",
+      "date": "09.05.2022 21:57",
+      "content": "türkiyenin en büyük sorunu, göçmenleri ülkeye sokup onlara bu gücü veren insanlar tarafından yönetilmesi..",
+      "has_external_url": false
+    },
+    {
+      "title": "türkiyenin en büyük sorununun göcmenler olması",
+      "entry_id": "137380515",
+      "author": "roseeennd",
+      "date": "13.05.2022 04:54",
+      "content": "öncelikle düzensiz göç sosyo-kültürel ve ekonomik yapıyı değiştirmeye sebebiyet veriyor. sadece göçmen sorunu olsa iyi yine de ama burada birçok farklı farklı sebep sayılabilir; fikir ayrılıkları, ekonomik bunalım, hür irade beraberinde görüşlerin belirtilememesi, insanlar arası belirsiz sosyoekonomik düzey, mevcut siyasi süreç içerisinde liyakatsizlik, ve pek çok dahası içimden gelen söylemeyi istediğim tek şey geçerli durumun özeti niteliğinde olabileceğine inandığım sözün bittiği yerdeyiz...",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:11:04.420089",
+    "total_entries": 3,
+    "input": "sevişmek için 403'le ukrayna'ya giden kayserililer",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "sevişmek için 403'le ukrayna'ya giden kayserililer",
+      "entry_id": "39692284",
+      "author": "597",
+      "date": "15.01.2014 13:21 ~ 17.01.2014 02:39",
+      "content": "sebep: sevişmek\nnereye: ukrayna\nkim: kayserililer\nneyle: 403'le.\n\nbir başlık bu kadar mı net olur? çoğul ekini saymazsan tüm heceler, tüm harfler bile kendi başına bir şey ifade ediyor. tamamı kayserililerle dolu bir mercedes 0403 otobüsün içindeki yolcular ukraynalı kadınlarla sevişsinler diye kiev'e gittiğini hanginiz bu kadar kısa ve net anlatabilirsiniz.\n\n(bkz: götür beni gittiğin yere)\n\neditto: arkadaş gene başlık başa kalmış. kardeşim dursana açtığın başlığın arkasında, iki makara yapılınca hemen sil entryi vay amk.",
+      "has_external_url": false
+    },
+    {
+      "title": "sevişmek için 403'le ukrayna'ya giden kayserililer",
+      "entry_id": "39693029",
+      "author": "kotukedi",
+      "date": "15.01.2014 14:00",
+      "content": "(bkz: başlık açarken dikkat edilecek hususlar)\n\n(bkz: kiev orospu nasihatları)",
+      "has_external_url": false
+    },
+    {
+      "title": "sevişmek için 403'le ukrayna'ya giden kayserililer",
+      "entry_id": "39693371",
+      "author": "girit1980",
+      "date": "15.01.2014 14:18",
+      "content": "evde zor tutulan %50'nin artık tutulamadığının kanıtlarıdır.\n(bkz: %50'yi 403'te zor tutuyoruz)",
+      "has_external_url": false
+    }
+  ]
+}

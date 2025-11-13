@@ -1,0 +1,52 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:48:07.451486",
+    "total_entries": 5,
+    "input": "geminin dümeninde seyehat eden mülteciler",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "geminin dümeninde seyehat eden mülteciler",
+      "entry_id": "145703503",
+      "author": "bir masal",
+      "date": "29.11.2022 14:46",
+      "content": "mültecilik adına sınır tanımayan ve filmlere konu olabilecek bir olaydır. 3 kişi 11 gün boyunca lagos'tan las palmas'a kadar geminin dümeni üzerinde seyahat etmişler.\n\nhaber detayı",
+      "has_external_url": true
+    },
+    {
+      "title": "geminin dümeninde seyehat eden mülteciler",
+      "entry_id": "145703661",
+      "author": "hannibaly",
+      "date": "29.11.2022 14:51",
+      "content": "gelecekte bu duruma düşmeye çok müsaitiz. üzücü olay.",
+      "has_external_url": false
+    },
+    {
+      "title": "geminin dümeninde seyehat eden mülteciler",
+      "entry_id": "145703698",
+      "author": "makarna ya ekmek banan",
+      "date": "29.11.2022 14:52 ~ 30.11.2022 20:11",
+      "content": "11 gün yaşamışlar vay be",
+      "has_external_url": false
+    },
+    {
+      "title": "geminin dümeninde seyehat eden mülteciler",
+      "entry_id": "145703798",
+      "author": "cadillacman",
+      "date": "29.11.2022 14:56",
+      "content": "baskı, zulüm, imkansızlıklar ve çaresizlik o dereceye geliyor ki insanlar hayatları pahasına kaçmayı göze alıyorlar. neler yaşadılarsa artık düşünün neyi göze alıyorlar. düşünmesi bile korkunç.\ndünyanın neresinde olursa olsun, insanları hayatına mal olacak kadar bezdiren, yıldıran, korkutan baskıcı her türlü sisteme lanetler olsun.",
+      "has_external_url": false
+    },
+    {
+      "title": "geminin dümeninde seyehat eden mülteciler",
+      "entry_id": "145704204",
+      "author": "muhasebeden anlayan suser",
+      "date": "29.11.2022 15:09",
+      "content": "gerçekliğini sorguladığım haberdir. nitekim yabancı kaynaklardan da aynı haberi sorguladım; hipotermi, susuzluk, vb. gibi sorunlara maruz kaldıkları belirtilmiş. gerçekliği sorgulama sebebim ise 11 gün susuz nasıl hayatta kaldıkları. nitekim 3 gün susuz kalınsa zaten vücut direncini kaybeder ve hareket kabiliyetleriniz kısıtlanır ki haraketli bir parça üzerinde 11 gün kaldıkları yazılmış. detaylarında eminim ki farklı durumların olduğu; tamamıyla medyaya servis edildiği gibi bir olayın olmadığını düşündüğüm durumdur.",
+      "has_external_url": false
+    }
+  ]
+}

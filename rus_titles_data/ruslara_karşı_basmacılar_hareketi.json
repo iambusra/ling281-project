@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:29:30.979007",
+    "total_entries": 2,
+    "input": "ruslara karşı basmacılar hareketi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ruslara karşı basmacılar hareketi",
+      "entry_id": "48624528",
+      "author": "mukan",
+      "date": "23.01.2015 00:07 ~ 24.05.2017 15:21",
+      "content": "türkistan'ın bağımsızlığı için mücadele veren aslan parçaları. kızılların deyişiyle''haydutlar''.\nisim de verelim.\n\n(bkz: türkistan islam ordusu başkomutanı enver paşa)\n(bkz: devletment bek)\n(bkz: eşan sultan)\n(bkz: aşurbek kulabi)\n(bkz: tağay baba)\n(bkz: berat bey)\n(bkz: abdülkaim pervaneci)\n(bkz: gencedatha)",
+      "has_external_url": false
+    },
+    {
+      "title": "ruslara karşı basmacılar hareketi",
+      "entry_id": "133899794",
+      "author": "delikurdun ruyasi",
+      "date": "18.02.2022 14:54",
+      "content": "coğrafya ve silah konusunda çok dezavantajlı ve ülkü birliği de olmayan bir hareketti, başarısızlık kaçınılmazdı.\n\nyine de milli şuura katkısı sebebiyle kürşat baskını, çanakkale zaferi gibi tarihi olaylarla aynı grupta yer alır. dolaylı yoldan başarı sağlamıştır.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:17:39.278634",
+    "total_entries": 1,
+    "input": "tırdan çıkan kaçak göçmenler",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "tırdan çıkan kaçak göçmenler",
+      "entry_id": "131794256",
+      "author": "dunboktubugun",
+      "date": "01.01.2022 22:47",
+      "content": "istiklâl caddesindeki yılbaşı kutlamalarını twiterdan bakarken denk geldiğim haber ve haber şöyle;görüntüler istanbul'dan... bayrampaşa'da bulunan forum istanbul avm'nin yakınlarında duran bir tırın dorsesinden yaklaşık 150 kaçak çıktı. kaçaklar, sırtlarında çantalarıyla istanbul'a böyle dağıldı. link",
+      "has_external_url": true
+    }
+  ]
+}

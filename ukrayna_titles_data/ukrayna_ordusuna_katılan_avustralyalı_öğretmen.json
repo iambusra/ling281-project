@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:04:09.065140",
+    "total_entries": 3,
+    "input": "ukrayna ordusuna katılan avustralyalı öğretmen",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukrayna ordusuna katılan avustralyalı öğretmen",
+      "entry_id": "171308265",
+      "author": "dadallius",
+      "date": "24.12.2024 19:01",
+      "content": "\"maaşı yetmediği için noel tatilinde ek iş yapıyor zaar\" deyu değerlendirdiğim, ruslara esir düşmüş bedbaht zat.\n\nbkz.\n\nbu anzaklar ne zaman akıllanacak...",
+      "has_external_url": true
+    },
+    {
+      "title": "ukrayna ordusuna katılan avustralyalı öğretmen",
+      "entry_id": "171308392",
+      "author": "tounela",
+      "date": "24.12.2024 19:07",
+      "content": "olm bu saf bir adam be. salın gitsin. giderken mayına bir şeye basıp kendi ölür zaten garibim.",
+      "has_external_url": false
+    },
+    {
+      "title": "ukrayna ordusuna katılan avustralyalı öğretmen",
+      "entry_id": "171309074",
+      "author": "kurekci ismail",
+      "date": "24.12.2024 19:37",
+      "content": "captain john h. miller'a (saving private ryan) özenmiş olabilir mi?\n\no da öğretmendi.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:45:21.537721",
+    "total_entries": 1,
+    "input": "afgan mültecinin polis tarafından darp edilmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "afgan mültecinin polis tarafından darp edilmesi",
+      "entry_id": "102463207",
+      "author": "uzunbacakli edward",
+      "date": "22.02.2020 14:27",
+      "content": "yalnizca ınternette paylasimi yapan hesabin adi pöh, yani eleman polis olmayabilir. genci de kara kurulugu ve yesil kirmizi ortuden dolayi ya kurt ya suriyeli sandi muhtemelen. sacma sapan bir olay ozetle.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:44:04.809839",
+    "total_entries": 6,
+    "input": "metroda sigara içen suriyelinin dövülmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "metroda sigara içen suriyelinin dövülmesi",
+      "entry_id": "137210716",
+      "author": "erekeremurokere",
+      "date": "09.05.2022 00:58",
+      "content": "bursa'da gerçekleşmiştir.\nvideo",
+      "has_external_url": true
+    },
+    {
+      "title": "metroda sigara içen suriyelinin dövülmesi",
+      "entry_id": "137210858",
+      "author": "abihadi",
+      "date": "09.05.2022 01:01",
+      "content": "dayağı göremediğim için eriyemedim içimde kaldı.",
+      "has_external_url": false
+    },
+    {
+      "title": "metroda sigara içen suriyelinin dövülmesi",
+      "entry_id": "137211002",
+      "author": "egoist84",
+      "date": "09.05.2022 01:04",
+      "content": "videoda dayak yok, sigara yok, suriyeli var mı? ondan bile emin değilim.\nvideoyu başlığı açan yazar çekmiş heralde. 20 görüntüleme nedir?\nikna olmadığım videoya sahip olay.",
+      "has_external_url": false
+    },
+    {
+      "title": "metroda sigara içen suriyelinin dövülmesi",
+      "entry_id": "137238392",
+      "author": "askin dili farsca albayim",
+      "date": "09.05.2022 19:24 ~ 19:27",
+      "content": "acemler istasyonu diyince maç sonrası kavga zannettim ama olay farklıymış, kan gövdeyi iyi ki götürmemiş, suriyeli değil türk'müş. valilik açıklamasıymış haberde öyle dedi tabi yersen:)\n\nedit: ekleme ve düzeltme",
+      "has_external_url": false
+    },
+    {
+      "title": "metroda sigara içen suriyelinin dövülmesi",
+      "entry_id": "137238579",
+      "author": "rockndolly",
+      "date": "09.05.2022 19:29",
+      "content": "dayak yok.nasil video kaydı bu ya.",
+      "has_external_url": false
+    },
+    {
+      "title": "metroda sigara içen suriyelinin dövülmesi",
+      "entry_id": "137238640",
+      "author": "salak yemin ederim gerizekali bu cocuk",
+      "date": "09.05.2022 19:31",
+      "content": "ellerine sağlık ama keşke daha güzel dayak atsalarmış. güvenlikler öpüşen çiftten rahatsız olup kavga çıkartan insanlara karışmaz müdahale etmez ama böyle tipleri hemen arkalarına alır ülke çok garip bir yer.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:58:32.682368",
+    "total_entries": 2,
+    "input": "ahmet davutoğlu'nun suriyeli sığınmacıya sarılması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ahmet davutoğlu'nun suriyeli sığınmacıya sarılması",
+      "entry_id": "54922768",
+      "author": "fairytale gone bad",
+      "date": "19.09.2015 23:41",
+      "content": "(bkz: reklamları izlediniz)\n(bkz: kusmuk poşeti nerdeydi kardeş)",
+      "has_external_url": false
+    },
+    {
+      "title": "ahmet davutoğlu'nun suriyeli sığınmacıya sarılması",
+      "entry_id": "54924243",
+      "author": "gergedaneli",
+      "date": "20.09.2015 00:25",
+      "content": "bazı solcuların kafası sürekli güzel heralde amına koyim adam ne yaparsa yapsın beğenmiyorlar eleştir kardeşim eleştirme diyen mi var? iyi yaptığınada kötü yaptığınada bok atılmaz ama dimi? sarılmamış olsa tiksiniyor derdiniz sarılınca reklam yapıyor diyorsunuz ne yapsın adam. sözde okumuş ilerisiniz ya insana hayvana her canlıya saygınız var ya kolpasını siktiklerim sözde her canlıya saygı duyan egoist insanlar. gece gece neden sinirlendiriyorsunuz ki beni lütfen.",
+      "has_external_url": false
+    }
+  ]
+}

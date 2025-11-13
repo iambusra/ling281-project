@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:07:34.685432",
+    "total_entries": 2,
+    "input": "suriyeliye benzetilen sözlük yazarları",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeliye benzetilen sözlük yazarları",
+      "entry_id": "161838551",
+      "author": "drowze",
+      "date": "23.02.2024 23:00",
+      "content": "sözlükte pek süriyeliye benzetilen yazar yok sanırım bir entry var sadece\n\ngeçen atm den para çekiyorum genç bir süriyeli geldi abi süri mi diyor bende hayır dedim\n\nben beyaz tenli biriyim nasıl süriyeliye benzetildim anlamadım.",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyeliye benzetilen sözlük yazarları",
+      "entry_id": "161838637",
+      "author": "renksiz hayat",
+      "date": "23.02.2024 23:02",
+      "content": "ben biri benzetirse sıra beklememek için evet suriyeliyim diyorum. ben suri ahmad sıra yok ben deyip dalıyorum içeri.",
+      "has_external_url": false
+    }
+  ]
+}

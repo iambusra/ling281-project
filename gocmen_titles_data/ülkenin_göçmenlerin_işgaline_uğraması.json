@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:26:25.731824",
+    "total_entries": 1,
+    "input": "ülkenin göçmenlerin işgaline uğraması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ülkenin göçmenlerin işgaline uğraması",
+      "entry_id": "124627937",
+      "author": "fakiredebiyatininustakalemi",
+      "date": "15.06.2021 23:29 ~ 23:30",
+      "content": "göçmen değil, mülteci veya sığınmacı diyeceksin.",
+      "has_external_url": false
+    }
+  ]
+}

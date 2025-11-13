@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:23:21.109605",
+    "total_entries": 3,
+    "input": "kaçak göçmenlerden rahatsızız oyumuz erdoğan'a",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "kaçak göçmenlerden rahatsızız oyumuz erdoğan'a",
+      "entry_id": "152612194",
+      "author": "kendime nick bulamadim yahu",
+      "date": "20.05.2023 19:37",
+      "content": "böyle insanların düşünce yapısını, olayları nasıl algıladıklarını, neler düşündüklerini, hayallerini, günlük olayları nasıl baktığını, mesela çocuklarının eğitimi, aile bütçesi hakkında neler planladıklarını çok merak ediyorum.\nkendimce uzun uzun düşündüm ama herhangi bir şey bulamadım.\nbilen veya bu hakkında düşünen varsa ve paylaşırsa çok sevineceğim.",
+      "has_external_url": false
+    },
+    {
+      "title": "kaçak göçmenlerden rahatsızız oyumuz erdoğan'a",
+      "entry_id": "152612653",
+      "author": "wannagoforaride",
+      "date": "20.05.2023 19:49",
+      "content": "beyin yakar tahminen, gerek yok, izlemeyeceğim video.\n\nbeyni mesanesinden küçük adamlarla aynı memleket için oy veriyoruz, hepimizin oyu da bir.",
+      "has_external_url": false
+    },
+    {
+      "title": "kaçak göçmenlerden rahatsızız oyumuz erdoğan'a",
+      "entry_id": "152612807",
+      "author": "baskaserumyokhekimbey",
+      "date": "20.05.2023 19:52 ~ 19:54",
+      "content": "kaçak göçmenlerimizin kaçmamasını diliyoruz, ülkede kayıt altına alınmasını istiyoruz, sayılarının azalmasından rahatsızız.\nancak bu şeklide anlamlı hale getirebildiğim görüş.",
+      "has_external_url": false
+    }
+  ]
+}

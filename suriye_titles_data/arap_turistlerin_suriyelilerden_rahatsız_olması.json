@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:40:06.267368",
+    "total_entries": 2,
+    "input": "arap turistlerin suriyelilerden rahatsız olması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "arap turistlerin suriyelilerden rahatsız olması",
+      "entry_id": "70847201",
+      "author": "newplanet",
+      "date": "17.09.2017 10:19",
+      "content": "son zamanlarda beni en çok dumura uğratan hikayelerden birisidir.\nherhangi birisi anlatsa abartıyor derim ama milliyet gazetesinin haberinde (http://m.milliyet.com.tr/…fez-akini-gundem-2520906/) geçince oha dedim amk!\n\nadamlar kendi ulkelerine almiyor ve hatta turist olarak gittikleri turkiye'de bile gormek istemiyorlar ama lafa gelince muslumanlar kardestir!\n\npeki sizi kim gormek istiyor be ot kafalilar?\ntum dunyada bu bok cukuru kiliklilarla ayni kategoride degerlendirilmek de en kotu kaderimiz olsa gerek!",
+      "has_external_url": true
+    },
+    {
+      "title": "arap turistlerin suriyelilerden rahatsız olması",
+      "entry_id": "70847217",
+      "author": "patatesinlaneti",
+      "date": "17.09.2017 10:22",
+      "content": "babannemin söylediği \"sümüklü (böcek olan) kabuğunda çıkmış beğenmemiş\" hadisesi",
+      "has_external_url": false
+    }
+  ]
+}

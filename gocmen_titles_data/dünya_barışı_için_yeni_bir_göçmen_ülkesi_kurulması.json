@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:07:36.327886",
+    "total_entries": 4,
+    "input": "dünya barışı için yeni bir göçmen ülkesi kurulması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "dünya barışı için yeni bir göçmen ülkesi kurulması",
+      "entry_id": "165370171",
+      "author": "odoriko",
+      "date": "15.06.2024 10:54",
+      "content": "(bkz: liberya)\n\ngerçi o serbest kalan köleler içindi...",
+      "has_external_url": false
+    },
+    {
+      "title": "dünya barışı için yeni bir göçmen ülkesi kurulması",
+      "entry_id": "165370178",
+      "author": "aegnor42",
+      "date": "15.06.2024 10:55",
+      "content": "türkiye olmasında...",
+      "has_external_url": false
+    },
+    {
+      "title": "dünya barışı için yeni bir göçmen ülkesi kurulması",
+      "entry_id": "165370228",
+      "author": "odoriko",
+      "date": "15.06.2024 10:57",
+      "content": "(bkz: yalantalanland)\n\nöyle bir ülke var zaten...\nülkeyi bir ekonomist yönetiyor ama yıllardır ekonomisi batık...\nbu aralar bol bol karşılıksız para basıyor...",
+      "has_external_url": false
+    },
+    {
+      "title": "dünya barışı için yeni bir göçmen ülkesi kurulması",
+      "entry_id": "165370260",
+      "author": "oric",
+      "date": "15.06.2024 10:59 ~ 11:00",
+      "content": "18 - 19. yy'da göçmenler çiftçiydi, onlara yerleşecek toprak vermek yeterliydi, 21. yy göçmeni hazır altyapı (konut, okul, iş) var diye göç ediyor. o yüzden o iş öyle çözül(e)mez dedirten öneri.",
+      "has_external_url": false
+    }
+  ]
+}

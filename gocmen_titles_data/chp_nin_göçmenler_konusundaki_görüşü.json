@@ -1,0 +1,70 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:16:57.745103",
+    "total_entries": 5,
+    "input": "chp'nin göçmenler konusundaki görüşü",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "chp'nin göçmenler konusundaki görüşü",
+      "entry_id": "136285447",
+      "author": "safcocuk",
+      "date": "16.04.2022 19:04",
+      "content": "merak ettiğim görüştür.\n\niktidar olduklarında sokakları terörize eder hale gelen afgan ve suriyelileri ülkelerine geri gönderecekler midir?\n\nchp seçimi kazanmak istiyorsa ortaya halkın menfaatine uygun net bir politika koymalı ve söylem geliştirmelidir.\n\nben şahsen ekonomik kriz konusunda somut çözüm önerileri ortaya koyan ve 10 yıldır ev sahipliği yaptığımız bu misafirleri evine yollayacağını söyleyen bir parti arıyorum oy vermek için.",
+      "referenced_content": [],
+      "has_external_url": false
+    },
+    {
+      "title": "chp'nin göçmenler konusundaki görüşü",
+      "entry_id": "136285735",
+      "author": "dugunlerde kosusturan cocuk",
+      "date": "16.04.2022 19:14",
+      "content": "\"son derece yanlış buluyor ve kaygılarımızı iletiyoruz.\"",
+      "referenced_content": [],
+      "has_external_url": false
+    },
+    {
+      "title": "chp'nin göçmenler konusundaki görüşü",
+      "entry_id": "136287089",
+      "author": "okudum okudum mutlu olamadim",
+      "date": "16.04.2022 20:00",
+      "content": "zafer partisi reklamı yapanların göremeyeceği görüş.\n\nülkelerine geri göndermektir. link",
+      "referenced_content": [],
+      "has_external_url": true
+    },
+    {
+      "title": "chp'nin göçmenler konusundaki görüşü",
+      "entry_id": "136287396",
+      "author": "willy nilly",
+      "date": "16.04.2022 20:09",
+      "content": "karşıymış gibi görünüyorlardır. ama iktidar olsalar ağababaları(abd) ne derse onu yapacaklarına eminim.\nnot:akp dışında bir partiliyim. chp de olur, iyi parti de olur, zafer de olur, hepiciği olur.",
+      "referenced_content": [],
+      "has_external_url": false
+    },
+    {
+      "title": "chp'nin göçmenler konusundaki görüşü",
+      "entry_id": "141478265",
+      "author": "andrew wyke",
+      "date": "18.08.2022 17:49 ~ 17:52",
+      "content": "(bkz: #141476898)\n\n(bkz: geçmişten günümüze kknin suriyeli açıklamaları)\n\n2011'den bu yana kılıçdaroğlu'nun suriyelilerle ilgili konuşması - https://twitter.com/…?s=20&t=ewq2ezz_4ap4tdzpn1le0q\n\nedit: düzeltme",
+      "referenced_content": [
+        {
+          "type": "entry",
+          "title": "kemal-kilicdaroglunun-afganlarla-ilgili-konusmasi",
+          "entry_id": "141476898",
+          "author": "andrew wyke",
+          "date": "18.08.2022 17:12 ~ 17:51",
+          "content": "\"afganlara gelince, onlar sığınmacı değil onlar kaçak. onları uluslararası hukuka göre alıp iran'a teslim edeceğiz, çünkü ordan geldiler, onlar ne yaparlarsa bilmiyorum.\n\nhttps://twitter.com/…?t=n7r22u__uwtq8fh8rpwj0w&s=19\n\nedit: kılıçdaroğlu'nun 2011'den bu yana göçmenlerle ilgili söylemlerinin videosu;\n\nhttps://twitter.com/…?s=20&t=ewq2ezz_4ap4tdzpn1le0q",
+          "has_external_url": true
+        }
+      ],
+      "referenced_entry_ids": [
+        "141476898"
+      ],
+      "has_external_url": true
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:13:46.575593",
+    "total_entries": 1,
+    "input": "yakaladığımız her 5 göçmenden 4'ü bizde kalıyor",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "yakaladığımız her 5 göçmenden 4'ü bizde kalıyor",
+      "entry_id": "93019502",
+      "author": "chapulmaster",
+      "date": "24.07.2019 15:25",
+      "content": "suç işleri bakanı beyanıdır.",
+      "has_external_url": false
+    }
+  ]
+}

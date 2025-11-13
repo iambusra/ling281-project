@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:16:04.768614",
+    "total_entries": 2,
+    "input": "14 temmuz 2014 rusya'nın ukrayna uçağını düşürmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "14 temmuz 2014 rusya'nın ukrayna uçağını düşürmesi",
+      "entry_id": "44217362",
+      "author": "mehendiz",
+      "date": "14.07.2014 20:09 ~ 20:12",
+      "content": "(bkz: oo savaş sebebi)\n\nnormal ülkelerde ortalığı karıştıracak olay. türkiye'nin düşürülünce mesela...neyse.\n\ninşallah tünelin ucu bombok bir yere çıkmaz.",
+      "has_external_url": false
+    },
+    {
+      "title": "14 temmuz 2014 rusya'nın ukrayna uçağını düşürmesi",
+      "entry_id": "44217406",
+      "author": "yasafenerbahce",
+      "date": "14.07.2014 20:11",
+      "content": "bazı kişilerce (bkz: abd'nin ukrayna'da yaptığı ağır provokasyon)'a bağlanabilir. uçağı amerika düşürüp rusya'nın üstüne de atmış olabilir. kesin öyledir zaten rusya orada emperyalistlere karşı kızıl bayrak için mücadele ediyor.",
+      "has_external_url": false
+    }
+  ]
+}

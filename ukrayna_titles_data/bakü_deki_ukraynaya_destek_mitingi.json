@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:09:07.012803",
+    "total_entries": 1,
+    "input": "bakü'deki ukraynaya destek mitingi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "bakü'deki ukraynaya destek mitingi",
+      "entry_id": "134281278",
+      "author": "en az 1 kucuk harf",
+      "date": "27.02.2022 15:22 ~ 15:23",
+      "content": "edit: ukrayna’ya olacaktı.\n\nciddi kalabalığın ukrayna büyükelçiliği önüne toplandığı, polisin henüz müdahele etmediği, şu saatlerde devam eden gösteri.\n\nhttps://mobile.twitter.com/…xt=hhwwkmc5kbsi0mkpaaaa",
+      "has_external_url": true
+    }
+  ]
+}

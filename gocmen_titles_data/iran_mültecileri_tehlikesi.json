@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:49:39.314308",
+    "total_entries": 2,
+    "input": "iran mültecileri tehlikesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "iran mültecileri tehlikesi",
+      "entry_id": "142991413",
+      "author": "genelevdeki polis",
+      "date": "22.09.2022 02:51",
+      "content": "(bkz: gel gel panayır var gel)",
+      "has_external_url": false
+    },
+    {
+      "title": "iran mültecileri tehlikesi",
+      "entry_id": "142991945",
+      "author": "post tenebras lux",
+      "date": "22.09.2022 03:37 ~ 03:40",
+      "content": "suriyeliler - check\nafganlar - check\ntürkmenistanlılar - check\npakistanlılar - check\ngürcistanlılar - check\nafrikalılar - check\nukraynalılar - check\nruslar - check\niranlılar - loading",
+      "has_external_url": false
+    }
+  ]
+}

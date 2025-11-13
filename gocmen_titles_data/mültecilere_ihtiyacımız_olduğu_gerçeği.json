@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:51:37.014981",
+    "total_entries": 4,
+    "input": "mültecilere ihtiyacımız olduğu gerçeği",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "mültecilere ihtiyacımız olduğu gerçeği",
+      "entry_id": "127299982",
+      "author": "mikroplukek",
+      "date": "25.08.2021 01:05",
+      "content": "(bkz: lan bırak)",
+      "has_external_url": false
+    },
+    {
+      "title": "mültecilere ihtiyacımız olduğu gerçeği",
+      "entry_id": "127300303",
+      "author": "ormanchi",
+      "date": "25.08.2021 01:14",
+      "content": "yandaşların uydurduğu büyük bir yalandır.",
+      "has_external_url": false
+    },
+    {
+      "title": "mültecilere ihtiyacımız olduğu gerçeği",
+      "entry_id": "127300513",
+      "author": "tepedeki sinirler",
+      "date": "25.08.2021 01:20",
+      "content": "(bkz: yan ben lan neyse bir şey demiyorum)",
+      "has_external_url": false
+    },
+    {
+      "title": "mültecilere ihtiyacımız olduğu gerçeği",
+      "entry_id": "127300719",
+      "author": "gearbox ag",
+      "date": "25.08.2021 01:27",
+      "content": "zırvadır.\n\n(bkz: mültecileri geri postalıyoruz kampanyası)",
+      "has_external_url": false
+    }
+  ]
+}

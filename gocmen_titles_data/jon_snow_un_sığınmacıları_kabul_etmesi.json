@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:00:39.007021",
+    "total_entries": 2,
+    "input": "jon snow'un sığınmacıları kabul etmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "jon snow'un sığınmacıları kabul etmesi",
+      "entry_id": "155116127",
+      "author": "klavyekitap",
+      "date": "30.07.2023 21:41 ~ 21:41",
+      "content": "bugünlerde tekrar izlerken fark ettiğim,\ngece nöbetinin komutanı jon snow, kara kale'ye görevi sırasında sırf ak gezenler geliyor diye ne kadar it kopuk yabani varsa duvarın kapısını açarak ülkeye sokmuştur.\nbu vatan hainliğinin sonucunda gece nöbeti kardeşleri tarafından bıçaklanarak öldürülse de kızıl cadı geri getirmiştir.\n\nilk izlediğimde üzüldüğüm jon snow için bugünlerde ben de traitor damgasını yapıştırıyorum.",
+      "has_external_url": false
+    },
+    {
+      "title": "jon snow'un sığınmacıları kabul etmesi",
+      "entry_id": "155116197",
+      "author": "tekelamasivasli",
+      "date": "30.07.2023 21:42",
+      "content": "aldığı sığınmacılar daha sonra jon snow uğruna savaştı ve öldü. buradaki sığınmacılar anası bacısı için bile kılını kıpırdatmaz milletinkine sulanır",
+      "has_external_url": false
+    }
+  ]
+}

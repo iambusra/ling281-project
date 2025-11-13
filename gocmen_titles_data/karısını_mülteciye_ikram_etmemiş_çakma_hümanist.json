@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:42:36.580239",
+    "total_entries": 1,
+    "input": "karısını mülteciye ikram etmemiş çakma hümanist",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "karısını mülteciye ikram etmemiş çakma hümanist",
+      "entry_id": "125980255",
+      "author": "radikalkemalist",
+      "date": "22.07.2021 00:45",
+      "content": "hümanist değil olsa olsa faşistin tekidir.\nnot: ironi.",
+      "has_external_url": false
+    }
+  ]
+}

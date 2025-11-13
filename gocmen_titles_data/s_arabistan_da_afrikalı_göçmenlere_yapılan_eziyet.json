@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:22:01.616395",
+    "total_entries": 3,
+    "input": "s.arabistan'da afrikalı göçmenlere yapılan eziyet",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "s.arabistan'da afrikalı göçmenlere yapılan eziyet",
+      "entry_id": "112323259",
+      "author": "guerra",
+      "date": "30.08.2020 23:24",
+      "content": "dua etsinler, kuşbaşı da yapılabilirlerdi",
+      "has_external_url": false
+    },
+    {
+      "title": "s.arabistan'da afrikalı göçmenlere yapılan eziyet",
+      "entry_id": "112323432",
+      "author": "akrep yelkovan",
+      "date": "30.08.2020 23:27",
+      "content": "kendi ülkelerinin değerini anladıklarını düşündüğüm olay..",
+      "has_external_url": false
+    },
+    {
+      "title": "s.arabistan'da afrikalı göçmenlere yapılan eziyet",
+      "entry_id": "112323969",
+      "author": "younameit",
+      "date": "30.08.2020 23:37",
+      "content": "islamda kölelik, cariyeclik serbest olduğuna göre, tarafımca kesinlikle onaylanmamasına rağmen şaşkınlığa da düşemediğim görüntülerdir ki, daha birkaç yıl öncesine kadar orada, kadınların, ehlyet alması bile mucize olduğunu düşündüğünüzde, gerilkte sınır tanımayan bu ülkede pek de şaşılacak durumlar değildr.",
+      "has_external_url": false
+    }
+  ]
+}

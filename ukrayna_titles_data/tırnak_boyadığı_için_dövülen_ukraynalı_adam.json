@@ -1,0 +1,60 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:18:56.431181",
+    "total_entries": 6,
+    "input": "tırnak boyadığı için dövülen ukraynalı adam",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "tırnak boyadığı için dövülen ukraynalı adam",
+      "entry_id": "161246706",
+      "author": "heykellere ufleyen adam",
+      "date": "04.02.2024 12:05",
+      "content": "cepheden izne gelen ukraynalı askerler tarafından dövülmüştür.\n\nukrayna\n\nhaketmiştir .",
+      "has_external_url": true
+    },
+    {
+      "title": "tırnak boyadığı için dövülen ukraynalı adam",
+      "entry_id": "161246875",
+      "author": "soapgarden",
+      "date": "04.02.2024 12:13",
+      "content": "hak etmiştir mi? ulan zır cahil. isteyen istediğini giyer yaşar. kimi özgür ruhludur, kimisi hippidir, kimisi geleneklerine bağlı bir tarz sürer. ama sizin gibi hiyarlar her şeyi dayakla çözebileceğini düşünür.\n\nayrıca videoda kavganın giyim konusundan çıktığına dair bir kanıt yok.",
+      "has_external_url": false
+    },
+    {
+      "title": "tırnak boyadığı için dövülen ukraynalı adam",
+      "entry_id": "161246966",
+      "author": "se a sesss",
+      "date": "04.02.2024 12:17",
+      "content": "şiddete alkış tutan cahil yazar beyanıdır.",
+      "has_external_url": false
+    },
+    {
+      "title": "tırnak boyadığı için dövülen ukraynalı adam",
+      "entry_id": "161247019",
+      "author": "dots",
+      "date": "04.02.2024 12:19",
+      "content": "yalan haber. zira kaynağı olmayan her haber yalandın. olayın ne öncesini biliyoruz ne sonrasını ne de nedenini.",
+      "has_external_url": false
+    },
+    {
+      "title": "tırnak boyadığı için dövülen ukraynalı adam",
+      "entry_id": "161247316",
+      "author": "pegasusonly",
+      "date": "04.02.2024 12:32",
+      "content": "bizim bedelliye laf atan tayfadan farkı yoktur.",
+      "has_external_url": false
+    },
+    {
+      "title": "tırnak boyadığı için dövülen ukraynalı adam",
+      "entry_id": "161247538",
+      "author": "lucasarts",
+      "date": "04.02.2024 12:43",
+      "content": "döven ukraynalıyı daha samimi buldum.\n\n(bkz: görmek istenen sahneler)",
+      "has_external_url": false
+    }
+  ]
+}

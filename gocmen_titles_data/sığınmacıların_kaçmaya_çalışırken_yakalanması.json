@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:04:31.130503",
+    "total_entries": 4,
+    "input": "sığınmacıların kaçmaya çalışırken yakalanması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "sığınmacıların kaçmaya çalışırken yakalanması",
+      "entry_id": "155757047",
+      "author": "hania",
+      "date": "17.08.2023 22:33",
+      "content": "kahraman türk.polisinin kırklareli'nde yaptığı operasyon sonrası başardığı hadise.\n\nhttps://twitter.com/…?t=natl-vzjcuj7gd54tqr-rw&s=19\n\nbu işte bir terslik var ama ne anlayamadım.",
+      "has_external_url": true
+    },
+    {
+      "title": "sığınmacıların kaçmaya çalışırken yakalanması",
+      "entry_id": "155757684",
+      "author": "tubibybi",
+      "date": "17.08.2023 22:46",
+      "content": "ne güzel ülkede yaşıyoruz ama o kadar fakirleştik ki. ne alaka diyeceksiniz ama bana bunu düşündürttü .",
+      "has_external_url": false
+    },
+    {
+      "title": "sığınmacıların kaçmaya çalışırken yakalanması",
+      "entry_id": "155757770",
+      "author": "renksiz hayat",
+      "date": "17.08.2023 22:48",
+      "content": "giderlerse fayansçı kalmazmış. tam da fayans işim vardı, bir an korktum kaçacaklar diye.",
+      "has_external_url": false
+    },
+    {
+      "title": "sığınmacıların kaçmaya çalışırken yakalanması",
+      "entry_id": "155757793",
+      "author": "oyuncocugu",
+      "date": "17.08.2023 22:49",
+      "content": "az kalsın bine yakın adamdan kurtulacakmışız aq. neyse artık, bir dahaki sefere sığınmacı kardeşlerimize bu yolda başarılar…",
+      "has_external_url": false
+    }
+  ]
+}

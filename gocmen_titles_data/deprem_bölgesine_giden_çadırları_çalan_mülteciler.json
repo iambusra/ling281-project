@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:48:00.326180",
+    "total_entries": 1,
+    "input": "deprem bölgesine giden çadırları çalan mülteciler",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "deprem bölgesine giden çadırları çalan mülteciler",
+      "entry_id": "149023129",
+      "author": "galiyeva",
+      "date": "10.02.2023 20:46",
+      "content": "yağmadan kaçan yağma yapar olmuş bu ülkenin demografik yapısını bozanların allah bin türlü belasını versin.\n\ndepremden sonrada sıfır evlere yerleşirler, hatayı suriyelilere teslim ederiz mis gibi...\n\nvideo",
+      "has_external_url": true
+    }
+  ]
+}

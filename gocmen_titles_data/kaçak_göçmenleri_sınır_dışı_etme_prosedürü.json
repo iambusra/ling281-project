@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:20:36.478284",
+    "total_entries": 1,
+    "input": "kaçak göçmenleri sınır dışı etme prosedürü",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "kaçak göçmenleri sınır dışı etme prosedürü",
+      "entry_id": "79363275",
+      "author": "dus sokaginda sakin",
+      "date": "20.07.2018 02:51",
+      "content": "o bu değil de en çok de pakistan’ın bile türkiye’nin vatandaşlarından vize istediğine şaşırdım",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:01:14.340102",
+    "total_entries": 3,
+    "input": "sığınmacıları göndermeye hiçbirinizin gücü yetmez",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "sığınmacıları göndermeye hiçbirinizin gücü yetmez",
+      "entry_id": "137248357",
+      "author": "newsky24",
+      "date": "09.05.2022 23:01 ~ 23:02",
+      "content": "sarayda oturan akp'li siyasetçinin cümlesi.\n\nkılıçdaroğlu'nun \"hepsini tekrar suriye'ye süreceğiz\" ifadelerine yanıt olarak \"bunları yapamayacaksın, bunları yapmaya da hiçbirinizin gücü yetmez. zira biz ensar kültürü ile yetişmişiz. muhacir kültürünün ne olduğunu iyi biliriz. biz sizler gibi bu toprakları hüdainabit bulmadık\" dedi.",
+      "has_external_url": false
+    },
+    {
+      "title": "sığınmacıları göndermeye hiçbirinizin gücü yetmez",
+      "entry_id": "137248650",
+      "author": "nesmatthew",
+      "date": "09.05.2022 23:07",
+      "content": "(bkz: her gün birinizi, bir gün hepinizi)",
+      "has_external_url": false
+    },
+    {
+      "title": "sığınmacıları göndermeye hiçbirinizin gücü yetmez",
+      "entry_id": "137248662",
+      "author": "thunderstorm2029",
+      "date": "09.05.2022 23:08",
+      "content": "kim bilir nasil goturuyorsa gitmelerine bir turlu gonlu el vermiyor. cok duygusal. tamamen duygusal açıklamalar.",
+      "has_external_url": false
+    }
+  ]
+}

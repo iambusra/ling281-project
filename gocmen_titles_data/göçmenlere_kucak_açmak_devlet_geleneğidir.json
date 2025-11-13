@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:22:25.084521",
+    "total_entries": 4,
+    "input": "göçmenlere kucak açmak devlet geleneğidir",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "göçmenlere kucak açmak devlet geleneğidir",
+      "entry_id": "92502017",
+      "author": "caricare",
+      "date": "12.07.2019 10:18",
+      "content": "bak",
+      "has_external_url": true
+    },
+    {
+      "title": "göçmenlere kucak açmak devlet geleneğidir",
+      "entry_id": "92502130",
+      "author": "suclu kalem",
+      "date": "12.07.2019 10:21",
+      "content": "göçmenlere kucak açtığımız yıllardan göçmenlerin bizi kucağa aldığı yıllara.. teşekkürler ak parti.",
+      "has_external_url": false
+    },
+    {
+      "title": "göçmenlere kucak açmak devlet geleneğidir",
+      "entry_id": "92502180",
+      "author": "0 5 ucu olan adam",
+      "date": "12.07.2019 10:22 ~ 10:30",
+      "content": "göçmen dedikleriniz osmanlı'nın toprak kazandıkça sınırlara yolladığı, ülkeyi koruması için görevlendirdiği özbeöz türk soylu türkmenlerdir. (bkz: boşnaklar) (bkz: kırım tatarları) (bkz: pomaklar) (bkz: karakalpaklar)\n\nsenden benden daha türk'türler.\n\ngöçmen diyen kafanıza sıçam.",
+      "has_external_url": false
+    },
+    {
+      "title": "göçmenlere kucak açmak devlet geleneğidir",
+      "entry_id": "92502362",
+      "author": "naculos reloaded",
+      "date": "12.07.2019 10:27 ~ 10:30",
+      "content": "(bkz: ölçü)\n\n(bkz: geçici koruma)\n(bkz: sığınmacı)\n(bkz: göçmen)",
+      "has_external_url": false
+    }
+  ]
+}

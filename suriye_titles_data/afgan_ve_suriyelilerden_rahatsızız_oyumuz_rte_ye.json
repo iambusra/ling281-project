@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:28:56.261999",
+    "total_entries": 4,
+    "input": "afgan ve suriyelilerden rahatsızız oyumuz rte'ye",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "afgan ve suriyelilerden rahatsızız oyumuz rte'ye",
+      "entry_id": "152618744",
+      "author": "paintman",
+      "date": "20.05.2023 22:33 ~ 22:39",
+      "content": "nevşehir'de bir sokak röportajında kullanılan ifadedir. videosu şuradan izlenebilir.\n\nhttps://twitter.com/…mtr/status/1659925687321481217",
+      "has_external_url": true
+    },
+    {
+      "title": "afgan ve suriyelilerden rahatsızız oyumuz rte'ye",
+      "entry_id": "152618880",
+      "author": "lomer",
+      "date": "20.05.2023 22:37",
+      "content": "deveye diken insana s*ken",
+      "has_external_url": false
+    },
+    {
+      "title": "afgan ve suriyelilerden rahatsızız oyumuz rte'ye",
+      "entry_id": "152619006",
+      "author": "dergul",
+      "date": "20.05.2023 22:40",
+      "content": "bu röportaj kurgu için bile olsa, fazla absürt olmuş.",
+      "has_external_url": false
+    },
+    {
+      "title": "afgan ve suriyelilerden rahatsızız oyumuz rte'ye",
+      "entry_id": "152619065",
+      "author": "tabudeviren",
+      "date": "20.05.2023 22:41",
+      "content": "(bkz: a haber'in sandık başı röportajı)",
+      "has_external_url": false
+    }
+  ]
+}

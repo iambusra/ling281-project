@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:23:50.517241",
+    "total_entries": 1,
+    "input": "28 nisan 2022 ukraynalıların rte'den yardım isteği",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "28 nisan 2022 ukraynalıların rte'den yardım isteği",
+      "entry_id": "136778512",
+      "author": "tam bir zenci",
+      "date": "28.04.2022 22:40",
+      "content": "büyük ihtimalle bütün liderlerden yardım istemişlerdir ancak video kırpılmıştır, diyelim ki kırpılmadı başka milleten insanlara yardım edebilmek gururlanabilecek bir şey değildir kapitalist düzende sadece aptallıktır.\n\nkendi memleketindeki sokakta aç olan insanlara bir kez dönüp bakmamış ama milliyetçilik bağlamları dolasıyla bu yardım talebi sayesinde minik kurtçuk krizleri geçirenler için üzülüyorum.\n\nbize kim yardım edecek?",
+      "has_external_url": false
+    }
+  ]
+}

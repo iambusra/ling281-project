@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:27:25.594106",
+    "total_entries": 1,
+    "input": "çamura saplanan türk zırhlısını kurtaran ruslar",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "çamura saplanan türk zırhlısını kurtaran ruslar",
+      "entry_id": "106631036",
+      "author": "herakles07",
+      "date": "05.05.2020 15:41",
+      "content": "ortak devriye sırasında çamura saplanan kirpi zırhlı aracının kurtarılması",
+      "has_external_url": true
+    }
+  ]
+}

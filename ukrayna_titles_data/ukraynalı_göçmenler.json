@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:20:24.500207",
+    "total_entries": 1,
+    "input": "ukraynalı göçmenler",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukraynalı göçmenler",
+      "entry_id": "152632750",
+      "author": "eurasia",
+      "date": "21.05.2023 10:15",
+      "content": "savaştan dolayı türkiye'ye göç eden ukraynalılardır. tabi bunun haricinde daha önce gelenler de vardı.",
+      "has_external_url": false
+    }
+  ]
+}

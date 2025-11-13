@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:59:17.229508",
+    "total_entries": 3,
+    "input": "sağlık sisteminde 10.000 sığınmacının etkidi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "sağlık sisteminde 10.000 sığınmacının etkidi",
+      "entry_id": "132495939",
+      "author": "sefik kedi",
+      "date": "18.01.2022 19:19 ~ 20:04",
+      "content": "suriyelisi, afganı kenyalısı derken bazılarına göre 8.000.000 bazılarına göre 10.000.000 göçmen var. hiç hesapta olmayan bu kadar ciddi nüfus ta 80.000.000 un saglık sistemine ortak oldu. maddi olarak bir yük, mhrs de bir yük acilde bir yük. ancak kimse bu sorunu konuşmuyor anlaşmışcasına ağzına kimse almıyor.\n\nedit rakamlara üç 000 daha ekleyin\nmodlardan ricam rezil türkçeme bir el atabilirler mi?",
+      "has_external_url": false
+    },
+    {
+      "title": "sağlık sisteminde 10.000 sığınmacının etkidi",
+      "entry_id": "132496001",
+      "author": "hurmaci lemur alan muneccim",
+      "date": "18.01.2022 19:21",
+      "content": "katılmıyorum, herkes bu durumun farkında ve sırf bu yüzden -suriyelilerin gönderilmesi- kılıçdaroğlu'na oy verecek tonla insan var.",
+      "has_external_url": false
+    },
+    {
+      "title": "sağlık sisteminde 10.000 sığınmacının etkidi",
+      "entry_id": "132496101",
+      "author": "celebi efendi",
+      "date": "18.01.2022 19:25",
+      "content": "türkçe'ye etkileri başlık sahibi yazarınki kadar değildir. türkçe ağlıyor şu an.\n\nnot: işin sadece türkçe tarafındayım.",
+      "has_external_url": false
+    }
+  ]
+}

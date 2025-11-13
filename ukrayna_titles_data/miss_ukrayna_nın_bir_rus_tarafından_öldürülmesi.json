@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:16:13.489890",
+    "total_entries": 1,
+    "input": "miss ukrayna'nın bir rus tarafından öldürülmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "miss ukrayna'nın bir rus tarafından öldürülmesi",
+      "entry_id": "40853451",
+      "author": "seviyorsevmiyorseviyorsevmiyorseviyor",
+      "date": "03.03.2014 19:00",
+      "content": "üçüncü dünya savaşı'nın başlaması için bir kıvılcım.",
+      "has_external_url": false
+    }
+  ]
+}

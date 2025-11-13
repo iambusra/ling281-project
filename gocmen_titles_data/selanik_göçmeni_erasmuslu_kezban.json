@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:12:59.759527",
+    "total_entries": 1,
+    "input": "selanik göçmeni erasmuslu kezban",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "selanik göçmeni erasmuslu kezban",
+      "entry_id": "39081023",
+      "author": "ktulu",
+      "date": "20.12.2013 14:13",
+      "content": "çok pis bi kombo. duyduğunuz yerde kaçın.",
+      "has_external_url": false
+    }
+  ]
+}

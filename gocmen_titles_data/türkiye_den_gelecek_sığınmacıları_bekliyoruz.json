@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:02:08.966705",
+    "total_entries": 1,
+    "input": "türkiye'den gelecek sığınmacıları bekliyoruz",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türkiye'den gelecek sığınmacıları bekliyoruz",
+      "entry_id": "56008500",
+      "author": "keci surat",
+      "date": "04.11.2015 02:39",
+      "content": "hali hazirda avrupa'da kacak kalirken ve param bitmek uzereyken bana umut veren haber.\n\nulan gene bos umut ama neyse.",
+      "has_external_url": false
+    }
+  ]
+}

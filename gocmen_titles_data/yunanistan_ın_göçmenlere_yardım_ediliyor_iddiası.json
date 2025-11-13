@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:22:08.973665",
+    "total_entries": 1,
+    "input": "yunanistan'ın göçmenlere yardım ediliyor iddiası",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "yunanistan'ın göçmenlere yardım ediliyor iddiası",
+      "entry_id": "102853010",
+      "author": "kaz gelecek yerden tavuk esirgeyen insan",
+      "date": "01.03.2020 14:08",
+      "content": "karakter sınırına takılan bir başlık daha. doğrusu \"yunanistan savunma bakanı'nın türkiye düzensiz göçmenlere yardım ediyor iddası\" olmalıydı.\n\ngarip olacak ama adam haklı. düzensiz göçmenlere rota gösteren, canlı yayında göçmenlerin bota binişlerini, karşı adalara ayak basışlarını yayınlayan, insan kaçakçılarıyla röportaj yapan medyamız var.\n\nhaber siteleri bir de bu olayı \"skandal suçlama\" başlığıyla vermiş.\n\nson olarak da ilgili haberi şöyle bırakalım.\n\n--- spoiler ---\n\nyunanistan savunma bakanı stefanis, \"türkiye onları durdurmamakla kalmıyor aynı zamanda onlara yardım da ediyor\" ifadeleriyle skandal bir suçlamada bulundu.\n\n--- spoiler ---",
+      "has_external_url": true
+    }
+  ]
+}

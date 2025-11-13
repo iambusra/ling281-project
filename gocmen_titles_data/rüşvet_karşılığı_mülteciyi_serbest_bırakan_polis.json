@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:41:06.206550",
+    "total_entries": 3,
+    "input": "rüşvet karşılığı mülteciyi serbest bırakan polis",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rüşvet karşılığı mülteciyi serbest bırakan polis",
+      "entry_id": "141611545",
+      "author": "sex123",
+      "date": "21.08.2022 20:45",
+      "content": "videoda rüşvet aldığı tam belli degil ama düzgün analiz edilip ortaya çıkarılır. doğruysa yeni is bakmaya baslasa iyi olur.",
+      "has_external_url": false
+    },
+    {
+      "title": "rüşvet karşılığı mülteciyi serbest bırakan polis",
+      "entry_id": "141611868",
+      "author": "sciarrino",
+      "date": "21.08.2022 20:53",
+      "content": "kimseyi zan altında bıralmamak lazım, rüşvet aldığı görünmüyor… ama aldıysa kesinlikle ortaya çıkması gereken bir durumdur.",
+      "has_external_url": false
+    },
+    {
+      "title": "rüşvet karşılığı mülteciyi serbest bırakan polis",
+      "entry_id": "141612185",
+      "author": "tiber septim",
+      "date": "21.08.2022 21:01",
+      "content": "araba güvenip rüşvet aldın, o da seni kayda alıp taşak geçti. ben yapmadım başkası yaparmış. arabın eline verdiği 20 dolarla temiz don al kendine hadi. içerde lazım olur.",
+      "has_external_url": false
+    }
+  ]
+}

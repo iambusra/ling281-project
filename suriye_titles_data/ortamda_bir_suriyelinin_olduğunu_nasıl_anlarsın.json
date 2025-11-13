@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:44:22.994285",
+    "total_entries": 1,
+    "input": "ortamda bir suriyelinin olduğunu nasıl anlarsın",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ortamda bir suriyelinin olduğunu nasıl anlarsın",
+      "entry_id": "132018708",
+      "author": "nakrem",
+      "date": "07.01.2022 15:52",
+      "content": "yüksek sesle konuşmaları, telefonu hoparlöre alarak konuşmaları, telefonda video izlerken kulaklık takmamalarından",
+      "has_external_url": false
+    }
+  ]
+}

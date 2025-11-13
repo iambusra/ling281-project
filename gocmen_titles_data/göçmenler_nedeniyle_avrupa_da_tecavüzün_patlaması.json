@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:17:21.054385",
+    "total_entries": 3,
+    "input": "göçmenler nedeniyle avrupa'da tecavüzün patlaması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "göçmenler nedeniyle avrupa'da tecavüzün patlaması",
+      "entry_id": "57602708",
+      "author": "niktir et nicktir de olur",
+      "date": "09.01.2016 19:49",
+      "content": "pis sapiklar, hadim esip oyle almak lazim ulkeye demek ki",
+      "has_external_url": false
+    },
+    {
+      "title": "göçmenler nedeniyle avrupa'da tecavüzün patlaması",
+      "entry_id": "137050736",
+      "author": "jottar",
+      "date": "05.05.2022 17:05",
+      "content": "cinsel açlığın göbeğinden gelip uçkuruna hakim olamayan medeniyet görmemiş insanlar kadar #metoo benzeri akımlardan sonra kadınların taciz ve tecavüz olaylarını bildirmek konusunda daha cesaretli oluşları da kayıtlara geçen rakamların artmasında etkili.",
+      "has_external_url": false
+    },
+    {
+      "title": "göçmenler nedeniyle avrupa'da tecavüzün patlaması",
+      "entry_id": "137050955",
+      "author": "gameoverclocker",
+      "date": "05.05.2022 17:11",
+      "content": "gerçekten hayalinizde nasıl bir avrupa var şaşırmaya başlıyorum. hani sanırsın bu avrupa bir nevi aden cenneti halinde imiş de başka bölgelerden gelenlerden sonra dünyaya dönmüşler gibi.",
+      "has_external_url": false
+    }
+  ]
+}

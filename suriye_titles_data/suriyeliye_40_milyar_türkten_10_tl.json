@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:07:31.555948",
+    "total_entries": 1,
+    "input": "suriyeliye 40 milyar türkten 10 tl",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeliye 40 milyar türkten 10 tl",
+      "entry_id": "104451441",
+      "author": "yorgun kovboy",
+      "date": "30.03.2020 22:53",
+      "content": "bizbiyeyiz kampanyası ile vatandaştan para istenirken, suriyeli mültecilere 40 milyar dolar para harcanıp, gerekirse bir 40 milyar daha harcarız diyen akp genel başkanı recep tayyip erdoğan icraatleri.\n\nsormazlar mı milletin altında ezilerek ödediği vergiler nerede? merkez bankasının bu gibi zamanlarda kullanmak üzere kenarda tuttuğu, ana muhalefetin \"dokunmayın bu paraya\" diyerek yalvarıp yakardığı ihtiyat akçesi nerede diye?",
+      "has_external_url": false
+    }
+  ]
+}

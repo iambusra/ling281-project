@@ -1,0 +1,60 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:04:49.276165",
+    "total_entries": 6,
+    "input": "sığınmacıların bavul toplama akımı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "sığınmacıların bavul toplama akımı",
+      "entry_id": "151850870",
+      "author": "hedonistbaudelaire",
+      "date": "01.05.2023 15:24",
+      "content": "organize işler'den çok sevdiğim bir replikle suriyeli sığınmacı dostlarımızı uğurlamak isterim, bay bay hepiniz:)",
+      "has_external_url": true
+    },
+    {
+      "title": "sığınmacıların bavul toplama akımı",
+      "entry_id": "151850981",
+      "author": "nickimi verin bana",
+      "date": "01.05.2023 15:28",
+      "content": "(bkz: burası değerlenir)",
+      "has_external_url": false
+    },
+    {
+      "title": "sığınmacıların bavul toplama akımı",
+      "entry_id": "151851222",
+      "author": "onemli isler muduru",
+      "date": "01.05.2023 15:36",
+      "content": "bu çöl farelerine bavul toplama fırsatı dahi verilmeden, damperli kamyonlara doldurulup hafriyat döker gibi suriye'ye dökülmelidir.",
+      "has_external_url": false
+    },
+    {
+      "title": "sığınmacıların bavul toplama akımı",
+      "entry_id": "151851460",
+      "author": "shadyworld",
+      "date": "01.05.2023 15:45",
+      "content": "(bkz: bak şurdan siktir git)",
+      "has_external_url": false
+    },
+    {
+      "title": "sığınmacıların bavul toplama akımı",
+      "entry_id": "151851608",
+      "author": "sagliginiz icin",
+      "date": "01.05.2023 15:50",
+      "content": "(bkz: geldikleri gibi giderler)",
+      "has_external_url": false
+    },
+    {
+      "title": "sığınmacıların bavul toplama akımı",
+      "entry_id": "151851667",
+      "author": "motununizinde",
+      "date": "01.05.2023 15:52",
+      "content": "15 mayıs sabahından itibaren hepsini göndereceğiz. ülkemde sığınmacı ve kaçak istemiyorum.",
+      "has_external_url": false
+    }
+  ]
+}

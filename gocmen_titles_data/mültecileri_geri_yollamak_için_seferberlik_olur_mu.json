@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:49:41.638564",
+    "total_entries": 2,
+    "input": "mültecileri geri yollamak için seferberlik olur mu",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "mültecileri geri yollamak için seferberlik olur mu",
+      "entry_id": "141093916",
+      "author": "burayakacharfsigiyor",
+      "date": "09.08.2022 18:50",
+      "content": "ben bedellli askerlik yaptım. yeni geldim, 5 ay olmadı. şimdi olası bir zafer partisi iktidarlığında böyle bir şey olabilir mi. kurulu düzenim falan var demeyeceğim elbette, bu kaçakları tabii ki köy köy gezip yerlerinden yurtlarından aramak için bayağı fazla polis ve asker gücü olması gerekiyor. böyle bir şey olması % kaçtır sizce. böyle bir askere çağırma konusunda %kaçı tutuluyor 19 ve 35 yaş için mi geçerli sadece. veya sadece 65 yaş için mi. bir sınır var mı. çok merak ediyorum.",
+      "has_external_url": false
+    },
+    {
+      "title": "mültecileri geri yollamak için seferberlik olur mu",
+      "entry_id": "141094041",
+      "author": "jendem",
+      "date": "09.08.2022 18:54",
+      "content": "görsel",
+      "has_external_url": true
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:22:32.896941",
+    "total_entries": 1,
+    "input": "rus kızlarına ilgisi olmayan türk erkeği",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rus kızlarına ilgisi olmayan türk erkeği",
+      "entry_id": "175590801",
+      "author": "radikalkemalist",
+      "date": "26.05.2025 13:56",
+      "content": "benimdir bu. benim turanid kızlara ilgim var azeri, özbek, tatar, kazak, gagavuz gibi.",
+      "has_external_url": false
+    }
+  ]
+}

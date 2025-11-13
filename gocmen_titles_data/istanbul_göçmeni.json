@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:09:06.014340",
+    "total_entries": 1,
+    "input": "istanbul göçmeni",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "istanbul göçmeni",
+      "entry_id": "167229951",
+      "author": "demekle olsaydi",
+      "date": "10.08.2024 22:17",
+      "content": "işte bir yunan övünme biçimi göçmeni. zamanında göçmüşler falan. yedi göbek koslu kardeşime köylü muameleleri -falan",
+      "has_external_url": false
+    }
+  ]
+}

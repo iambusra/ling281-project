@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:14:23.109071",
+    "total_entries": 4,
+    "input": "yunanistan'ın surilere karşı yüzen bariyer yapması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "yunanistan'ın surilere karşı yüzen bariyer yapması",
+      "entry_id": "101256806",
+      "author": "son gunlerin gozde bekari",
+      "date": "29.01.2020 18:26 ~ 18:43",
+      "content": "sınıra yüzen bariyer yapacaklarmış kaça suriyelileri önlemek için.\nhttps://www.washingtonpost.com/…4241a2fe_story.html\n\nbariyere takılan suriyelileri de zaten anlaşma gereği türkiye'ye geri gönderiyorlar ve sağolsun devletimiz hemen geri kapıyor.",
+      "has_external_url": true
+    },
+    {
+      "title": "yunanistan'ın surilere karşı yüzen bariyer yapması",
+      "entry_id": "101256907",
+      "author": "crossbourne",
+      "date": "29.01.2020 18:27",
+      "content": "(bkz: neden washington post'a erişemiyorsunuz)",
+      "has_external_url": false
+    },
+    {
+      "title": "yunanistan'ın surilere karşı yüzen bariyer yapması",
+      "entry_id": "101257571",
+      "author": "sheriff78",
+      "date": "29.01.2020 18:42",
+      "content": "washington post'a da bariyer koymuşlar.",
+      "has_external_url": false
+    },
+    {
+      "title": "yunanistan'ın surilere karşı yüzen bariyer yapması",
+      "entry_id": "101257731",
+      "author": "activator",
+      "date": "29.01.2020 18:45",
+      "content": "haberde suriyeli kelimesi bile geçmiyor. sürekli türkiye’den gelen göçmenler denmiş. bilinçli seçildiğini düşünüyorum. türkiye’yi bilmeyen bir yabancı olsam zavallı türkler sürekli yüzerek kaçmaya çalışıyorlar derim.",
+      "has_external_url": false
+    }
+  ]
+}

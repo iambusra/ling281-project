@@ -1,0 +1,52 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:25:35.904670",
+    "total_entries": 5,
+    "input": "zirveye 50 dolar vereceğime rusa 100 dolar veririm",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "zirveye 50 dolar vereceğime rusa 100 dolar veririm",
+      "entry_id": "15429894",
+      "author": "crown",
+      "date": "13.02.2009 15:02",
+      "content": "zirveye geliş amacını afişe eden bir açıklama...",
+      "has_external_url": false
+    },
+    {
+      "title": "zirveye 50 dolar vereceğime rusa 100 dolar veririm",
+      "entry_id": "15429931",
+      "author": "mock caterpillar",
+      "date": "13.02.2009 15:05",
+      "content": "(bkz: türk yazarlar gitsin rus yazarlar gelsin)",
+      "has_external_url": false
+    },
+    {
+      "title": "zirveye 50 dolar vereceğime rusa 100 dolar veririm",
+      "entry_id": "15430017",
+      "author": "turcopolis",
+      "date": "13.02.2009 15:14",
+      "content": "(bkz: ok zirve)",
+      "has_external_url": false
+    },
+    {
+      "title": "zirveye 50 dolar vereceğime rusa 100 dolar veririm",
+      "entry_id": "15430222",
+      "author": "mrtksn",
+      "date": "13.02.2009 15:32",
+      "content": "onuncu nesil zengin ve guzel sabirtasi dilber den habersiz asosyal yazarların mottosu. çok yanlış.",
+      "has_external_url": false
+    },
+    {
+      "title": "zirveye 50 dolar vereceğime rusa 100 dolar veririm",
+      "entry_id": "15430339",
+      "author": "kokomichu",
+      "date": "13.02.2009 15:41",
+      "content": "ucuz rus tercihini ifşa eden açıklama.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:57:44.205337",
+    "total_entries": 1,
+    "input": "başıboş sığınmacı sorunu",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "başıboş sığınmacı sorunu",
+      "entry_id": "160560922",
+      "author": "manti acan yemek yapan kedi seven erkek",
+      "date": "12.01.2024 11:48",
+      "content": "başıboş köpek ve kedi sorunundan daha büyük bir sorun.\n\nbaşıboş ite, köpeğe yemek verip başını okşadığın zaman kadir kıymet biliyor en azından. bu sığınmacı denen mutant tür ise tam tersine, senin canına, malına, namusuna göz dikiyor. sanırım bunlarda aşısı henüz bulunmamış bir kuduz virüsü var. devletimizin bir an önce çözüm bulması lazım.",
+      "has_external_url": false
+    }
+  ]
+}

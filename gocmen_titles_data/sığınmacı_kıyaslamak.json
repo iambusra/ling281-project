@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:57:58.863761",
+    "total_entries": 1,
+    "input": "sığınmacı kıyaslamak",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "sığınmacı kıyaslamak",
+      "entry_id": "157925598",
+      "author": "kaplamakan",
+      "date": "20.10.2023 15:26",
+      "content": "ekşi sözlükte sık görülen garip bir davranış\nsığınmacının memleketi ne olursa olsun topluca gelip işgal edemeyeceğini anlayamamış kişilerden oluşur\n\nsiyasal islamcılar 13 milyon orc'un girmesine ses etmeyip, yahudilerin girmesine ses eder\nbir diğeri gelir \"arap olmaz ama zenci okey\" der\n\nbir diğeri alanyadaki rus nüfusuna sırf beyaz diye medeni der\n\nekşiciler desen yahudi girse ses etmez, orc istilasına da zaten yeni yeni ses etmeye başladılar\n\nhani herkes başka bir milledin gavadı oluyor yeterince pazarlık varsa",
+      "has_external_url": false
+    }
+  ]
+}

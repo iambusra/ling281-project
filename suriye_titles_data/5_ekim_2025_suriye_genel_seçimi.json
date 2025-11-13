@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:18:06.478440",
+    "total_entries": 4,
+    "input": "5 ekim 2025 suriye genel seçimi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "5 ekim 2025 suriye genel seçimi",
+      "entry_id": "178576210",
+      "author": "tahta tava",
+      "date": "21.09.2025 19:38",
+      "content": "merakla sonuçlarını beklediğimiz seçim.\n\n210 milletvekilinden 140'ının seçileceği seçimdir. 70 tanesini ise cumhurbaşkanı atıyor. ypg'nin bulunduğu kuzeydoğu illeri ve suveyda illerinde seçim yapılamaması nedeniyle 121 koltuk için seçim olacak.\n\nmerak edenler için wikipedia sayfası",
+      "has_external_url": true
+    },
+    {
+      "title": "5 ekim 2025 suriye genel seçimi",
+      "entry_id": "178913729",
+      "author": "tahta tava",
+      "date": "05.10.2025 16:56",
+      "content": "kesin sonuçlar 7 ekim'de yayınlanacakmış.",
+      "has_external_url": false
+    },
+    {
+      "title": "5 ekim 2025 suriye genel seçimi",
+      "entry_id": "178937462",
+      "author": "rosas",
+      "date": "06.10.2025 16:12 ~ 16:31",
+      "content": "şam'da sadece 500 seçmen oy kullanabilmiş. ne oldu g yemedi tabi. esad'ın %90 lık oy oranı görünmesin diye yaptıkları dümene bak.\nşimdi suriye'ye amerika demokrasi getirmiş oldu. demokrasinizi s.sinler.",
+      "has_external_url": false
+    },
+    {
+      "title": "5 ekim 2025 suriye genel seçimi",
+      "entry_id": "178944446",
+      "author": "o son cigara",
+      "date": "06.10.2025 21:58",
+      "content": "tam bir demokrasi eğitimi olarak gerçekleşen seçimlerdir.\n\ndemokrasinin en fazla çıkacağı seviye bu olmalıdır. milyonlarca ıq fakirinin pusulaya mühür vurduğu saçma sistem gerçekliğe ve akla aykırıdır. umarım en yakın zamanda ülkemiz de bu sisteme geçer.\n\nülkeler eli beli dili doymuş ve ülküsü olan elitler tarafından yönetilmelidir. bunu böyle yapan milletler başarılı olmuştur. dünyada aksini yapıp başarı gösteren herhangi bir ülke yoktur. tiktok - reels kaydıran şempanzeler ülke yönetimine karar veremez vermemelidir. can ve mal güvenliği sağlandıktan sonra avam yönetime karıştırılmamalı.\n\nönemi yok ama söylemek lazım seçilenlerin büyük çoğunluğu türkiye dostu.",
+      "has_external_url": false
+    }
+  ]
+}

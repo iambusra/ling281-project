@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:07:58.182687",
+    "total_entries": 2,
+    "input": "saakaşvili'nin ukrayna'yı karıştırması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "saakaşvili'nin ukrayna'yı karıştırması",
+      "entry_id": "72616565",
+      "author": "sonradananlayanadam",
+      "date": "05.12.2017 21:03 ~ 21:20",
+      "content": "eski gürcistan devlet başkanı sıfatı taşıyan bir adamın sonradan vatandaşı olduğu ukrayna’da önce vali olarak atanması, ardından muhalefet partisi kurması ile başlayan tuhaflıklar zincirinin vatandaşlıktan çıkarılma, ülkeye sınır kapısından zorla girme, iktidara karşı halkı sokak eylemlerine davet etmesi gibi olaylardan sonra bugün yaşanan çatıya çıkıp kendini atmakla tehdit etme ve gözaltına alındıktan sonra taraftarları tarafından güvenlik güçlerinin elinden zorla alınması eylemleri ile zirveye ulaşan durumdur. inanılmaz ama gerçek!\n\nkırım haber ajansı",
+      "has_external_url": true
+    },
+    {
+      "title": "saakaşvili'nin ukrayna'yı karıştırması",
+      "entry_id": "72617010",
+      "author": "obstinate",
+      "date": "05.12.2017 21:21",
+      "content": "haberleri izlerken beni de gülümseten, trajikomik olaylar silsilesi. adam sınıfın en yaramaz çocuğu gibi, durduramıyoruz.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T14:54:34.274696",
+    "total_entries": 1,
+    "input": "suriler ve evlerine dair",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriler ve evlerine dair",
+      "entry_id": "131607478",
+      "author": "brian degil cabin diyeceksin",
+      "date": "27.12.2021 17:37",
+      "content": "fr. des souris et des hommes\n\ndair derken daire yani dönüş manasında, dönecekler mi dönmeyecekler mi?",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:06:48.502431",
+    "total_entries": 2,
+    "input": "şirin payzın'ın gazze ukrayna ikiyüzlülüğü",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "şirin payzın'ın gazze ukrayna ikiyüzlülüğü",
+      "entry_id": "165292264",
+      "author": "heykellere ufleyen adam",
+      "date": "12.06.2024 18:44",
+      "content": "chp’li gazeteci şirin payzın ukrayna ile ilgili yüzlerce paylaşım yaparken gazze’deki soykırım hakkında bugüne kadar hiç paylaşım yapmamış.\n\nşirin payzın",
+      "has_external_url": true
+    },
+    {
+      "title": "şirin payzın'ın gazze ukrayna ikiyüzlülüğü",
+      "entry_id": "165312913",
+      "author": "yetkin99",
+      "date": "13.06.2024 11:58",
+      "content": "chp zihniyetinin tezahürü olan birisinin yaptığıdir.\nbu kadın 28 şubat döneminin en azılı kalemşörlerinden birisiydi. farklı bir davranış beklemek hata olur zaten.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:31:32.079706",
+    "total_entries": 2,
+    "input": "ruslarla bir millet iki devlet olmaya başladık",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ruslarla bir millet iki devlet olmaya başladık",
+      "entry_id": "21271237",
+      "author": "tetteh",
+      "date": "24.12.2010 11:29",
+      "content": "bir ertuğrul günay tespiti . söylenecek tek şey var: amanin bo ...",
+      "has_external_url": true
+    },
+    {
+      "title": "ruslarla bir millet iki devlet olmaya başladık",
+      "entry_id": "21271296",
+      "author": "are you talking to me",
+      "date": "24.12.2010 11:33",
+      "content": "anlaşılan türk kızları gitti ve rus kızları ülkemize yerleşti. en sonunda, hele şükür...\n\n(bkz: türk kızları gitsin rus kızları gelsin)",
+      "has_external_url": false
+    }
+  ]
+}

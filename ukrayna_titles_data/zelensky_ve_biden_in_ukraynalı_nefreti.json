@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:21:19.097043",
+    "total_entries": 1,
+    "input": "zelensky ve biden'in ukraynalı nefreti",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "zelensky ve biden'in ukraynalı nefreti",
+      "entry_id": "145135506",
+      "author": "balixs",
+      "date": "15.11.2022 15:23",
+      "content": "amerika'nın rusya, çin, kuzey kore gibi kendisine net düşman olan ülkeler dışında kimseye nefreti yok.\n\namerika bütün müttefiklerini harcanabilir piyon olarak görür. kendisi okyanus ötesinde güvendedir. onun tek derdi ulaşılmaz olmaktır.",
+      "has_external_url": false
+    }
+  ]
+}

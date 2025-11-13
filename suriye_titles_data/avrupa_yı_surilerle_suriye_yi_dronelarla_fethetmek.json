@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:40:17.562491",
+    "total_entries": 2,
+    "input": "avrupa'yı surilerle suriye'yi dronelarla fethetmek",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "avrupa'yı surilerle suriye'yi dronelarla fethetmek",
+      "entry_id": "102862484",
+      "author": "kofte seven insan",
+      "date": "01.03.2020 18:35",
+      "content": "avrupa'ya gidenler suriler değil afganlar bu bir.\natılan video eski bir video, güncel değil bu iki.\n\nsiha'ların suriye'nin içinden geçtiği bilgisi ise doğru.",
+      "has_external_url": false
+    },
+    {
+      "title": "avrupa'yı surilerle suriye'yi dronelarla fethetmek",
+      "entry_id": "102862619",
+      "author": "itsikecekparamyok",
+      "date": "01.03.2020 18:39",
+      "content": "başından beri plan buydu demek",
+      "has_external_url": false
+    }
+  ]
+}

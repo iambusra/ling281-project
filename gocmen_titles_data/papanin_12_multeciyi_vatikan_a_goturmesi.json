@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:41:36.546126",
+    "total_entries": 1,
+    "input": "papanin 12 multeciyi vatikan'a goturmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "papanin 12 multeciyi vatikan'a goturmesi",
+      "entry_id": "59965539",
+      "author": "anti freud",
+      "date": "16.04.2016 15:43",
+      "content": "papa francis'in yunanistan'daki 12 multeciyi kendisiyle birlikte vatikan'a goturmesi olayi.\n\nmigrant crisis: pope returns from greece with 12 refugees\nhttp://www.bbc.co.uk/news/world-europe-36063300",
+      "has_external_url": true
+    }
+  ]
+}

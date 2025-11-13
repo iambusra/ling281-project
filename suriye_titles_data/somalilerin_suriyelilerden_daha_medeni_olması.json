@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:45:33.463375",
+    "total_entries": 2,
+    "input": "somalilerin suriyelilerden daha medeni olması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "somalilerin suriyelilerden daha medeni olması",
+      "entry_id": "126774757",
+      "author": "dementorb",
+      "date": "11.08.2021 00:55",
+      "content": "ankara'da fark ettiğim durum en azından türkiye'de kurallara uyuyorlar. bu zamana kadar medyada hiç somaliler hakkında kötü bir haber görmedim. demek ki sorun ırkçılık değil.",
+      "has_external_url": false
+    },
+    {
+      "title": "somalilerin suriyelilerden daha medeni olması",
+      "entry_id": "126776003",
+      "author": "popopopo",
+      "date": "11.08.2021 01:29",
+      "content": "siyahi abilerimizin hepsi adamdır, daha bu zamana kadar hiçbir kötü olaylarını görmedim.\nadamlar çok sempatik be:) hepimiz zenciyiz:)",
+      "has_external_url": false
+    }
+  ]
+}

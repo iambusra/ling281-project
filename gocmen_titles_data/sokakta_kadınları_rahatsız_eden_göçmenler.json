@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:17:55.072089",
+    "total_entries": 2,
+    "input": "sokakta kadınları rahatsız eden göçmenler",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "sokakta kadınları rahatsız eden göçmenler",
+      "entry_id": "126371997",
+      "author": "ubersonic",
+      "date": "01.08.2021 00:21",
+      "content": "bu kişilerin hangi ırktan, memleketten olduklarını nereden biliyoruz?",
+      "has_external_url": false
+    },
+    {
+      "title": "sokakta kadınları rahatsız eden göçmenler",
+      "entry_id": "126372206",
+      "author": "reisul katip",
+      "date": "01.08.2021 00:25",
+      "content": "sokakta ben yürümeye çekinir oldum. kadınlar ne yapsın.\nadamlar yirmişerli gruplar halinde geziyorlar.\ndurum hiç iç açıcı değil.",
+      "has_external_url": false
+    }
+  ]
+}

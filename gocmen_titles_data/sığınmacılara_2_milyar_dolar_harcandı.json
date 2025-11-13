@@ -1,0 +1,97 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:03:25.331791",
+    "total_entries": 8,
+    "input": "sığınmacılara 2 milyar dolar harcandı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "sığınmacılara 2 milyar dolar harcandı",
+      "entry_id": "36882528",
+      "author": "its a sign",
+      "date": "12.09.2013 19:15 ~ 28.01.2015 01:53",
+      "content": "kendini çok hümanist sanan eziklerin biraz sonra damlayıp \"ama onlar savaştan kaçtılar, yardım etmek boynumuzun borcu:(((\" diye tepki vereceği açıklama.\n\n(ara: ayranı yok içmeye)",
+      "referenced_content": [],
+      "has_external_url": false
+    },
+    {
+      "title": "sığınmacılara 2 milyar dolar harcandı",
+      "entry_id": "36882537",
+      "author": "confession",
+      "date": "12.09.2013 19:15",
+      "content": "bugünkü ağlama kervanına ahmed'imin de katıldığını gösterir.\n\n(bkz: suriye'ye müdahale imkanı maalesef ortadan kalktı/#36880024)",
+      "referenced_content": [
+        {
+          "type": "entry",
+          "title": "suriyeye-mudahale-ihtimali-maalesef-ortadan-kalkti",
+          "entry_id": "36880024",
+          "author": "confession",
+          "date": "12.09.2013 17:21 ~ 17:36",
+          "content": "canım ya.\n\nbülent arınç söylemiş bugün bunu. mağdur mu olmuş kuzum benim:(\n\no kadar içten ki bir an suriye'ye ölmeye gidecektim: foto\n\n\"suriye'ye müdahale konusuna ilişkin açıklamalar yapan bülent arınç,'kerry'nin kimyasal silahların teslimiyle ilgili sözleri maalesef müdahale imkanını ortadan kaldırdı' dedi\"\n\nlink",
+          "has_external_url": true
+        }
+      ],
+      "referenced_entry_ids": [
+        "36880024"
+      ],
+      "has_external_url": false
+    },
+    {
+      "title": "sığınmacılara 2 milyar dolar harcandı",
+      "entry_id": "36882691",
+      "author": "gaspetizm",
+      "date": "12.09.2013 19:23",
+      "content": "kimin parasi ile derler adama\ntamam adamlar savastan kacti ama neyin savasi eger kacmasalar belki de suriye icin savas cigirtkanligi yapmayacaktik neden elin suriyelisi burada ulkesini neden savunmuyor",
+      "referenced_content": [],
+      "has_external_url": false
+    },
+    {
+      "title": "sığınmacılara 2 milyar dolar harcandı",
+      "entry_id": "36882843",
+      "author": "skib60",
+      "date": "12.09.2013 19:31",
+      "content": "bir de çok büyük marifetmiş gibi anlatmazlar mı, insanı aptal yerine koyarcasına.\n\n- ya işte şimdi sizi sikiyoruz biz, sizden sike sike aldığımız paraları da dışarılara çarçur ediyoruz.\n\n(bkz: götünüzü helal edin)",
+      "referenced_content": [],
+      "has_external_url": false
+    },
+    {
+      "title": "sığınmacılara 2 milyar dolar harcandı",
+      "entry_id": "36883056",
+      "author": "byhnvc",
+      "date": "12.09.2013 19:42",
+      "content": "yakında''5 milyar dolar gezi eylemcilerine harcandı, para lazım x(x('' şeklinde devamı gelecek beyanat.",
+      "referenced_content": [],
+      "has_external_url": false
+    },
+    {
+      "title": "sığınmacılara 2 milyar dolar harcandı",
+      "entry_id": "36883170",
+      "author": "kara gone",
+      "date": "12.09.2013 19:47",
+      "content": "(bkz: el kaide'nin öso'ya savaş açması)",
+      "referenced_content": [],
+      "has_external_url": false
+    },
+    {
+      "title": "sığınmacılara 2 milyar dolar harcandı",
+      "entry_id": "36883210",
+      "author": "hasanikisalakosmandort",
+      "date": "12.09.2013 19:50 ~ 19:50",
+      "content": "benzini 6 lira yaparlarsa finanse edilecek harcama. bizim göt deliği maşallah soba borusu gibi, ne soksan alıyor. bunu da alırız merak etmeyin. benzin gerekirse 10 lira olsun, yeter ki stratejik dehamızın gönlü hoş olsun.",
+      "referenced_content": [],
+      "has_external_url": false
+    },
+    {
+      "title": "sığınmacılara 2 milyar dolar harcandı",
+      "entry_id": "36883583",
+      "author": "be na mi",
+      "date": "12.09.2013 20:07 ~ 20:09",
+      "content": "sığınmacılara değil, sığınmacı adı altında teröristlere harcanan para.\n\neğer türkiye'de yaşayan insanlar, o 2 milyar doların sadece milyonlarla telaffuz edilecek bir kısmını mültecilere, milyarlarını ise orda savaşan terörist grupların silahlarına harcandığını bilmese asla amma çok para harcadık suriye'ye yazıklar olsun demezdi.\n\ninsanların türkiye ekonomisi güven vermezken bu kadar para harcanmasına kızmasının altında yatan sebep insani yardıma değil, o paraların insani yardım adı altında teröre yardım olarak kullanılmasınadır.\n\nşaşırtıcı değil herkesin malumuydu, inanılmaz paralar döktüğümüz suriye'deki teröristlere. ama bunu pişkin pişkin söyleyip, bir de mazlum mültecilere harcandı denmesi, şaşırılcak bir yüzsüzlük örneğidir.",
+      "referenced_content": [],
+      "has_external_url": false
+    }
+  ]
+}

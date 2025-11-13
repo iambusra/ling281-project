@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:23:23.467182",
+    "total_entries": 2,
+    "input": "kaçak göçmenlerden kılıçdaroğlu'nu sorumlu tutmak",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "kaçak göçmenlerden kılıçdaroğlu'nu sorumlu tutmak",
+      "entry_id": "136473689",
+      "author": "devil trigger dante",
+      "date": "21.04.2022 08:57",
+      "content": "yandaş medya en sonunda bunu da iddia etmiştir. yazıklar olsun.\n\nhttps://streamable.com/v1i2gn",
+      "has_external_url": true
+    },
+    {
+      "title": "kaçak göçmenlerden kılıçdaroğlu'nu sorumlu tutmak",
+      "entry_id": "136474191",
+      "author": "nicksiz kalam",
+      "date": "21.04.2022 09:18",
+      "content": "saray avanelerinin avelliği",
+      "has_external_url": false
+    }
+  ]
+}

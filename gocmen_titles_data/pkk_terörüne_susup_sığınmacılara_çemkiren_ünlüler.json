@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:02:41.061083",
+    "total_entries": 1,
+    "input": "pkk terörüne susup sığınmacılara çemkiren ünlüler",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "pkk terörüne susup sığınmacılara çemkiren ünlüler",
+      "entry_id": "140288924",
+      "author": "suskun zamanlar",
+      "date": "21.07.2022 20:19",
+      "content": "sanat, sinema ve müzik dünyasının ezici çoğunluğunu oluşturan iki yüzlü, popülist ve korkak tayfa.\n\n40 yıla yakın bir süredir türkiye'nin mücadele ettiği, binlerce masum insanın canına kıyan (bkz: bebek katili pkk) terör örgütünün katliamlarına, terör saldırılarına ve türkiye'ye verdiği zarara karşı bireysel ya da birlik olup ne bir kınama, ne bir yürüyüş ne de başka türlü bir protesto eylemi ve söylemi ortaya koymayan bu tipler popülizm ve prim yapma fırsatı bulduğunda sığınmacı düşmanlığı ve provokasyon yapmaktan geri durmuyorlar.",
+      "has_external_url": false
+    }
+  ]
+}

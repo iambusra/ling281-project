@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:44:31.069855",
+    "total_entries": 1,
+    "input": "pttcel'in suriyelilere özel indirimli interneti",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "pttcel'in suriyelilere özel indirimli interneti",
+      "entry_id": "140224613",
+      "author": "345trimetilheptan",
+      "date": "20.07.2022 10:23 ~ 10:24",
+      "content": "devlet kurumu ptt'nin göçmenlere özel indirimli tarife yapması olayı.\n\n--- spoiler ---\n\nilgili tarifeye göçmen belgesi, yabancı tanıtma belgesi veya pasaport ibraz etmek suretiyle ptt merkez'lerinden kayıt yaptırılabilecektir.\n--- spoiler ---",
+      "has_external_url": true
+    }
+  ]
+}

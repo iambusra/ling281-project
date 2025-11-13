@@ -1,0 +1,60 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:41:08.589800",
+    "total_entries": 6,
+    "input": "mülteciyi rüşvetle serbest bırakan polis",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "mülteciyi rüşvetle serbest bırakan polis",
+      "entry_id": "141605260",
+      "author": "devil trigger dante",
+      "date": "21.08.2022 17:46",
+      "content": "istanbul zeytinburnu’nda bir polis, kaçak göçmeni serbest bırakıyor.\n\nbir ülke için ekonomi işte bu yüzden önemlidir çünkü iflas ederse yozlaşma başlar.\n\nkaynak",
+      "has_external_url": true
+    },
+    {
+      "title": "mülteciyi rüşvetle serbest bırakan polis",
+      "entry_id": "141605345",
+      "author": "irogovski",
+      "date": "21.08.2022 17:49",
+      "content": "yakalanma gibi dertleri yok. yakalanırlarsa da rüşvet veriyorlar demek ki. bu ülke bitmiş.",
+      "has_external_url": false
+    },
+    {
+      "title": "mülteciyi rüşvetle serbest bırakan polis",
+      "entry_id": "141605404",
+      "author": "ldreamer",
+      "date": "21.08.2022 17:50",
+      "content": "(bkz: benim memurum işini bilir)",
+      "has_external_url": false
+    },
+    {
+      "title": "mülteciyi rüşvetle serbest bırakan polis",
+      "entry_id": "141605410",
+      "author": "summeroberts",
+      "date": "21.08.2022 17:51",
+      "content": "aldığı para 100 lira. şu ihanet 100 lira için yapılır mı ya",
+      "has_external_url": false
+    },
+    {
+      "title": "mülteciyi rüşvetle serbest bırakan polis",
+      "entry_id": "141605505",
+      "author": "terminus yerlisi",
+      "date": "21.08.2022 17:54 ~ 17:56",
+      "content": "içeriğe falan kimse bakmayacağı için ufak bir bilgilendirme; video iki yıl öncesine ait.\niki yıl önceyse ne olmuş diyecekler için; bi şey olacağından değil, ufak bir bilgi sadece.",
+      "has_external_url": false
+    },
+    {
+      "title": "mülteciyi rüşvetle serbest bırakan polis",
+      "entry_id": "141605634",
+      "author": "2303nnn",
+      "date": "21.08.2022 17:57",
+      "content": "ülkenin özetidir.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:13:11.474174",
+    "total_entries": 1,
+    "input": "komünizmden kaçıp komünizmi öven balkan göçmeni",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "komünizmden kaçıp komünizmi öven balkan göçmeni",
+      "entry_id": "28127813",
+      "author": "harispilton",
+      "date": "12.04.2012 16:55",
+      "content": "ırkçı ve asimilasyon politikası yüzünden kaçıp sosyal düzeni özleyen balkan göçmenidir.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:15:39.070147",
+    "total_entries": 1,
+    "input": "700 milyon göçmenin türkiye'ye gelecek olması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "700 milyon göçmenin türkiye'ye gelecek olması",
+      "entry_id": "103125083",
+      "author": "seylann",
+      "date": "06.03.2020 20:44",
+      "content": "iklim değişikliği yüzünden gerçekleşecek olay.\n\nhttps://youtu.be/tlu8qbdob8w",
+      "has_external_url": true
+    }
+  ]
+}

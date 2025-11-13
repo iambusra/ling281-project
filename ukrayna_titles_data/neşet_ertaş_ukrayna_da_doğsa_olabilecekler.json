@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:13:32.156943",
+    "total_entries": 2,
+    "input": "neşet ertaş ukrayna'da doğsa olabilecekler",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "neşet ertaş ukrayna'da doğsa olabilecekler",
+      "entry_id": "57315943",
+      "author": "lawyermih",
+      "date": "29.12.2015 11:05",
+      "content": "(bkz: başlık entry ve nick uyumu)",
+      "has_external_url": false
+    },
+    {
+      "title": "neşet ertaş ukrayna'da doğsa olabilecekler",
+      "entry_id": "57316033",
+      "author": "arboga nehrinin kiyisinda uyuyan adam",
+      "date": "29.12.2015 11:09 ~ 11:12",
+      "content": "(bkz: şirin kharkiv)\n(bkz: svetlana gurbanim nolacak halım)",
+      "has_external_url": false
+    }
+  ]
+}

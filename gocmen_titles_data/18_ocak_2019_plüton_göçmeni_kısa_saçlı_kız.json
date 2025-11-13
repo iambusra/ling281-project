@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:10:55.527938",
+    "total_entries": 1,
+    "input": "18 ocak 2019 plüton göçmeni kısa saçlı kız",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "18 ocak 2019 plüton göçmeni kısa saçlı kız",
+      "entry_id": "85723402",
+      "author": "cozulemeyen adam",
+      "date": "20.01.2019 15:58",
+      "content": "bir ara bana da denk gelen kızdır.\nkonuştum. jüpiterli olduğunu söyledi inanmadım. \"nasıl olur? aynı pluton göçmenlerine benziyorsunuz ama\" dedim. açtı telefonu, hemen ispatladı",
+      "has_external_url": true
+    }
+  ]
+}

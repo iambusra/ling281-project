@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:23:25.776163",
+    "total_entries": 2,
+    "input": "göçmenlerden sonra türk kürt ayrımının kalmaması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "göçmenlerden sonra türk kürt ayrımının kalmaması",
+      "entry_id": "132985156",
+      "author": "nakrem",
+      "date": "28.01.2022 23:23",
+      "content": "suriyeli ve afganların gelmesinden sonra bu ülkenin gerçek sahipleri olan türk ve kürtlerin birbirine daha fazla kenetlenmesidir",
+      "has_external_url": false
+    },
+    {
+      "title": "göçmenlerden sonra türk kürt ayrımının kalmaması",
+      "entry_id": "132987583",
+      "author": "isim bulmaya useniom",
+      "date": "29.01.2022 00:06",
+      "content": "bence beterin beteri var denmesindendir. (ben böyle düşünmüyorum)",
+      "has_external_url": false
+    }
+  ]
+}

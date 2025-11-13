@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:55:00.413064",
+    "total_entries": 1,
+    "input": "mültecilerin suriye'ye gönderilmesini savunamam",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "mültecilerin suriye'ye gönderilmesini savunamam",
+      "entry_id": "152241330",
+      "author": "paintman",
+      "date": "11.05.2023 23:42",
+      "content": "erdoğan'ın bu akşam kendisine sorulan bir soruya verdiği yanıt.\n\n--- spoiler ---\n\ncumhurbaşkanı erdoğan: suriyeli mültecilerin suriye’ye gönderilmesini savunamam. bu zulüm olur.\nhttps://twitter.com/…dco/status/1656731267491037193\n--- spoiler ---",
+      "has_external_url": true
+    }
+  ]
+}

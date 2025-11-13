@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:19:50.884173",
+    "total_entries": 1,
+    "input": "kürtleri ötekileştirip göçmenleri normalleştirme",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "kürtleri ötekileştirip göçmenleri normalleştirme",
+      "entry_id": "126209279",
+      "author": "kedi mart dedi cik su dala bak dedi",
+      "date": "27.07.2021 23:55",
+      "content": "normalleştirme?",
+      "has_external_url": false
+    }
+  ]
+}

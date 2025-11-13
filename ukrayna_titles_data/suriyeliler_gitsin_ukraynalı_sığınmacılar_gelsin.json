@@ -1,0 +1,52 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:21:18.408284",
+    "total_entries": 5,
+    "input": "suriyeliler gitsin ukraynalı sığınmacılar gelsin",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeliler gitsin ukraynalı sığınmacılar gelsin",
+      "entry_id": "145173496",
+      "author": "nasil eksici oldum",
+      "date": "16.11.2022 13:10",
+      "content": "son zamanlarda köy kahvesinde sıklıkla dile getirilen durum.",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyeliler gitsin ukraynalı sığınmacılar gelsin",
+      "entry_id": "145173818",
+      "author": "nasizm",
+      "date": "16.11.2022 13:20",
+      "content": "çünkü cahil olan kesim insan haklarından, savaş mağduru olmaktan vs anlama, onlar s*kinin keyfine göre gider.",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyeliler gitsin ukraynalı sığınmacılar gelsin",
+      "entry_id": "145173979",
+      "author": "hektorun torunu",
+      "date": "16.11.2022 13:26",
+      "content": "onlar da siktir olup gitsin.",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyeliler gitsin ukraynalı sığınmacılar gelsin",
+      "entry_id": "145174039",
+      "author": "branbar",
+      "date": "16.11.2022 13:27",
+      "content": "kimse gelmesin amk, biz kendimize yetemiyoruz. sikerim savaş mağdurlarını, insan haklarını eskisi gibi sağ-sol kavgası yapalım, fener-gs kavgası yapalım bu amkdum mağdurları geldiğinden beri herkes ekmek kavgasında.",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyeliler gitsin ukraynalı sığınmacılar gelsin",
+      "entry_id": "145174130",
+      "author": "quest",
+      "date": "16.11.2022 13:30",
+      "content": "akp gitsin her problem en kısa sürede çözüme kavuşur.\n\naksini iddia eden ya fetöcüdür ya akpli",
+      "has_external_url": false
+    }
+  ]
+}

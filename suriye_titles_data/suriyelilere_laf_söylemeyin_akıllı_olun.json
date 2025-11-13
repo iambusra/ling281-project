@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:59:12.451811",
+    "total_entries": 2,
+    "input": "suriyelilere laf söylemeyin akıllı olun",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelilere laf söylemeyin akıllı olun",
+      "entry_id": "153622552",
+      "author": "speciale aperta",
+      "date": "17.06.2023 13:01",
+      "content": "kendi ülkesinde bir b.k olmayıp bir de yetmezmiş gibi kaçan ve burada gelip efelenen bir soğan efesinin boş sözüdür.",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyelilere laf söylemeyin akıllı olun",
+      "entry_id": "153622912",
+      "author": "camdan bakinca gordugun adam",
+      "date": "17.06.2023 13:17",
+      "content": "bence adam haklı. sonuçta ülkenin %52'si bunlar kalsın, sayısı ve güçleri artsın diye oy verdi. o yüzden suriyelilere laf söylemek milli iradeye laf söylemektir.",
+      "has_external_url": false
+    }
+  ]
+}

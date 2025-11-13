@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:15:46.089618",
+    "total_entries": 1,
+    "input": "ukrayna'nın en değerli markaları",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukrayna'nın en değerli markaları",
+      "entry_id": "72266679",
+      "author": "sonradananlayanadam",
+      "date": "20.11.2017 23:45",
+      "content": "ilk 100’e girenlerinin toplam değeri 5,4 milyar usd olan markalardır. turkcell’in iştiraki olan mobil operatör lifecell markası ile 99 milyon usd değer ile listede 17. sırada yer almış.\n\nliste",
+      "has_external_url": true
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T15:02:50.938469",
+    "total_entries": 1,
+    "input": "dibini suriyeliye dövdüren hümanist",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "dibini suriyeliye dövdüren hümanist",
+      "entry_id": "52417981",
+      "author": "bunu mu demek istediniz",
+      "date": "18.06.2015 21:44 ~ 19.06.2015 01:06",
+      "content": "yuru be kocum nidalarıyla dövdürme olasılığı yüksektir.\n\nedit: anlamı bozmayan harf değişikliği. değil mi koç?",
+      "has_external_url": false
+    }
+  ]
+}

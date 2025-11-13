@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T16:02:14.314748",
+    "total_entries": 1,
+    "input": "gaziantep'te suriyelilerden çocuğa taciz",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "gaziantep'te suriyelilerden çocuğa taciz",
+      "entry_id": "54391131",
+      "author": "80 e 4",
+      "date": "29.08.2015 11:57",
+      "content": "dört yaşındaki bir erkek çocuğunu camiye götürüp çırılçıplak soyarak dilini ısırma şeklinde vuku bulan rezalet, iğrençlik. kaynak\n\nşimdi, biri çıkar \"bu sadece iddia\" der. gerçi bunu bile savunan çıkar lan. şaşırmam yani.\n\n\"suriyelileri istemiyoruz\" diyen o babaya da sormak lazım \"kime oy verdin?\" diye!",
+      "has_external_url": true
+    }
+  ]
+}

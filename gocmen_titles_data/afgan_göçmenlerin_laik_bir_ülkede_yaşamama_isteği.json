@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:26:06.487903",
+    "total_entries": 3,
+    "input": "afgan göçmenlerin laik bir ülkede yaşamama isteği",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "afgan göçmenlerin laik bir ülkede yaşamama isteği",
+      "entry_id": "128652220",
+      "author": "hayalprensi",
+      "date": "02.10.2021 14:05",
+      "content": "afganı da arabı da kürdistan isteyeni de s***** olup gidebilir mi ya kimseyi memlekette zorla tutmuyoruz y**** kafalılar",
+      "has_external_url": false
+    },
+    {
+      "title": "afgan göçmenlerin laik bir ülkede yaşamama isteği",
+      "entry_id": "128652273",
+      "author": "fifa 08 ingiliz spikeri",
+      "date": "02.10.2021 14:08",
+      "content": "\"katılımcılar, yüzde 96 gibi yüksek bir oranda laik bir ülkede yaşamak istiyorlar. özellikle mezhepsel ve dinsel ayrımın yapılmadığı, yaşam ve giyim tarzlarına müdahale edilmeyen laik bir devlet ve herkesin korkusuzca rahat davranabileceği bir ülkede yaşamanın özlemini çekiyorlar.\"\n\nbu ifadeyi barındıran haberin hatalı başlığı. \"yaşama isteği\" olacak doğrusu.",
+      "has_external_url": false
+    },
+    {
+      "title": "afgan göçmenlerin laik bir ülkede yaşamama isteği",
+      "entry_id": "128653513",
+      "author": "nedemekfelsefe",
+      "date": "02.10.2021 15:00",
+      "content": "ah be güzel kardeşim baştan söylesenize inanın bizde aynı şeyi istiyoruz yanlış adrese geldiğiniz.....",
+      "has_external_url": false
+    }
+  ]
+}

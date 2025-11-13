@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:03:12.421259",
+    "total_entries": 1,
+    "input": "belçika'nın sığınmacılara flört kursu vermesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "belçika'nın sığınmacılara flört kursu vermesi",
+      "entry_id": "57897423",
+      "author": "shamanistic rage",
+      "date": "21.01.2016 11:48",
+      "content": "bize de verseler keşke, eğitim şart sonuçda...",
+      "has_external_url": false
+    }
+  ]
+}

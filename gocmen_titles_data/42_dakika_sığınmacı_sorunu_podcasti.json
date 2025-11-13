@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-10T23:55:30.938820",
+    "total_entries": 1,
+    "input": "42 dakika sığınmacı sorunu podcasti",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "42 dakika sığınmacı sorunu podcasti",
+      "entry_id": "136986615",
+      "author": "decoding",
+      "date": "04.05.2022 06:40",
+      "content": "fularsız entellik podcast'inin yayıncısı immanuel ile hazırladıkları harika bir yayın. dinleyin dinlettirin arkadaşlar. hümanist, liboş, yetmez ama evetçi tanıdığınız varsa onlarla da paylaşın.\n\nhttps://open.spotify.com/…si=ylp9jv9crlkbg7r6yksmxw\n\nmemleket taliban, işid'li doldu. pakş ve afgan'ın burada ne işi var. bu adamlara hayvan demek hayvanlara hakaret olur. açın bakın pakistan'da sokakta kadınlar yürüyebilir mi? geçiçi sığınmacılar, kaçaklar hepsi gidecek başka yolu yok",
+      "has_external_url": true
+    }
+  ]
+}

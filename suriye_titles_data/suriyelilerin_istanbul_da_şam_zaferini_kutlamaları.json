@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:04:40.821520",
+    "total_entries": 2,
+    "input": "suriyelilerin istanbul'da şam zaferini kutlamaları",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelilerin istanbul'da şam zaferini kutlamaları",
+      "entry_id": "170833512",
+      "author": "renc i bi genc",
+      "date": "08.12.2024 08:59",
+      "content": "şam'ın muhaliflerce ele geçirilmesi üzerine istanbuldaki suriler tarafindan konvoylarla kutlanması hadisesi.\n\nbugün sabah erken saatlerden beri korna sesinden uyuyamadım, bir türlü ne olduğunu anlamayinca çıkıp kontrol ettim. konvoylarla zafer işaretleri yaparak tur atıyorlar.\ndeğişik duygular içerisinde izledim. gözlerindeki gurur hissi bana geçmedi pek.",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyelilerin istanbul'da şam zaferini kutlamaları",
+      "entry_id": "170834451",
+      "author": "tekinsiz ve tedirgin",
+      "date": "08.12.2024 10:09",
+      "content": "sevgili suriyeli \"din kardeşlerimiz\" bu tarihi zaferi ülkenize siktir olup giderek orada kutlamaya ne dersiniz?",
+      "has_external_url": false
+    }
+  ]
+}

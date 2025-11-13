@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:02:56.515875",
+    "total_entries": 1,
+    "input": "siginmacilara virus testi yapiliyor mu",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "siginmacilara virus testi yapiliyor mu",
+      "entry_id": "104166662",
+      "author": "galloper",
+      "date": "26.03.2020 02:07",
+      "content": "ulkemizdeki milyonlarca kontrolsuz suriyeli,afgan,ozbek vs.multecilerden pozitif vaka var midir?test yapiliyor mudur?sagliksiz sartlarda yasadiklarindan potansiyel tasiyicilar midir?nedense hicbir sekilde yetkililer tarafindan bahsedilmiyor.",
+      "has_external_url": false
+    }
+  ]
+}

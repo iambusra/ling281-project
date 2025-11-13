@@ -1,0 +1,52 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:48:04.034672",
+    "total_entries": 5,
+    "input": "mülteciler gönderilsin",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "mülteciler gönderilsin",
+      "entry_id": "148795269",
+      "author": "nostaljininzevki",
+      "date": "08.02.2023 06:45",
+      "content": "böylesine yaşanan bir depremde zaten kaynaklar az. gelen yardımları bunlar alıyor. ülkenin kendi halkı zor durumda birde mülteci bakacak durumda değiliz. ne cehheneme gidiyorlarsa gitsinler ama gitsinler.",
+      "has_external_url": false
+    },
+    {
+      "title": "mülteciler gönderilsin",
+      "entry_id": "148795502",
+      "author": "buyukoynugorenadam",
+      "date": "08.02.2023 07:04",
+      "content": "mültecilerin yağma yaptığına dair somut bir kaynak yok, ülkeyi iyice karıştırmak için yapılan dezenformasyondan ibaret. daha önemli konular varken devamlı suçlu arama psikolojisinden kurtulup çözüm odaklı olun biraz.",
+      "has_external_url": false
+    },
+    {
+      "title": "mülteciler gönderilsin",
+      "entry_id": "148795655",
+      "author": "betveren",
+      "date": "08.02.2023 07:16",
+      "content": "bizim de evlerimiz boş, ateş başında evimiz yağmalanmasın diye beklemiyoruz... yağmalandığı da yok zaten...\n\nmültecilerin iddia edilenleri yaptığına dair somut bir kanıt yok ki zaten yazılmış...\n\nşu anda dert mültecilerin gönderilmesi değil zaten...\n\nolan hırsızlık ve yağma olaylarının geneli mülteciler değil bu ülkenin vatandaşları...\n\nmülteciler elbette gönderilsin ancak bu sebeple değil ülkelerinde savaş bittiği için gönderilsinler artık...",
+      "has_external_url": false
+    },
+    {
+      "title": "mülteciler gönderilsin",
+      "entry_id": "148795753",
+      "author": "asmatavan",
+      "date": "08.02.2023 07:22",
+      "content": "depremle ilgisiz olarak zaten gönderilmeliler. bu ülkenin gereksiz insan yüküne ihtiyacı yok. bu kadar niteliksiz nüfus bize yükten başka bir şey değil. o şehirlerin nüfusunu da gereksiz sisirmislerdir.",
+      "has_external_url": false
+    },
+    {
+      "title": "mülteciler gönderilsin",
+      "entry_id": "148795765",
+      "author": "yerli google",
+      "date": "08.02.2023 07:23",
+      "content": "6'lı masa mutabakat metninde olmayan konu.",
+      "has_external_url": false
+    }
+  ]
+}

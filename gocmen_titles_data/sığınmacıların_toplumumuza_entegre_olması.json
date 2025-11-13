@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:05:08.567748",
+    "total_entries": 1,
+    "input": "sığınmacıların toplumumuza entegre olması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "sığınmacıların toplumumuza entegre olması",
+      "entry_id": "139193631",
+      "author": "parismeneksesi",
+      "date": "25.06.2022 10:18",
+      "content": "toplum dinamikleri kirildigi icin entegrasyonun basarili olacagina inanmiyor asimilasyonu savunuyorum. burada kalacaklar icin yoksa gitmeleri en iyisi",
+      "has_external_url": false
+    }
+  ]
+}

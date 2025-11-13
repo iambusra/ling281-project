@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:45:14.500468",
+    "total_entries": 1,
+    "input": "dinci solcu kürtçü ve mültecinin olmadığı ülke",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "dinci solcu kürtçü ve mültecinin olmadığı ülke",
+      "entry_id": "122404956",
+      "author": "el hombre biscolata",
+      "date": "25.04.2021 14:26 ~ 14:28",
+      "content": "cennet gibi ülkedir.\n\nümmetçi, arapçı, dinci, yobaz ekibin de; mezhepçi, kürtçü, pkkcı, dhkpci solcu ekibin de bulunmadığı, üstüne mültecinin de kendi ülkesinde yaşadığı adam gibi adam ülkedir. 60ların, 70lerin türkiyesidir. özlemle andığımız; kentli, seküler, eğitimli insanların söz sahibi olduğu ülkedir.",
+      "has_external_url": false
+    }
+  ]
+}

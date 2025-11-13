@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:07:16.058597",
+    "total_entries": 1,
+    "input": "27 temmuz 2024 londra'da gocmen karsiti gosteri",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "27 temmuz 2024 londra'da gocmen karsiti gosteri",
+      "entry_id": "166715313",
+      "author": "siju",
+      "date": "27.07.2024 18:41",
+      "content": "tum birlesik krallik(ingiltere, iskocya,galler, kuzey irlanda) lilarin trafalgar square de yaptigi ayaklanma. ülkelerinin demografik yapisinin bozulmasi, suc oranlarindaki artis, tabiiki hristiyan-muslumanlik vb sebeplerden yeter artik demisler. londraya seriat diye bagiranlara guzel bir cevap olmus:)",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:01:59.413775",
+    "total_entries": 2,
+    "input": "ukrayna grivnasının tl'den daha değerli olması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukrayna grivnasının tl'den daha değerli olması",
+      "entry_id": "178247005",
+      "author": "wallswhisperer",
+      "date": "09.09.2025 00:53",
+      "content": "bugün itibariyle şubat 2022'den beri savaşta olan ukraynanın para birimi tl'den daha değerli hale geldi.\n\n1 tl: 0,9951 ukrayna grivnası\n\ngörsel",
+      "has_external_url": true
+    },
+    {
+      "title": "ukrayna grivnasının tl'den daha değerli olması",
+      "entry_id": "178247223",
+      "author": "nothingface",
+      "date": "09.09.2025 01:04",
+      "content": "evet, bir fiil 3 yıldır cephe savaşı veren ukrayna’nın parası.\n\nben ekonomistim dedi ve hortumu kendine bağladı.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:52:17.516593",
+    "total_entries": 2,
+    "input": "suriyeli mültecilerden gönüllü askerlik başvurusu",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeli mültecilerden gönüllü askerlik başvurusu",
+      "entry_id": "102953449",
+      "author": "haciz mahallinde tango",
+      "date": "03.03.2020 12:56 ~ 13:30",
+      "content": "eee madem buysa, niye o kadar zahmete girip türkiye'ye geldiniz; yetmedi taaa samsun'a kadar gidip yerleştiniz?\n\nkendi memleketinden topukları götüne vura vura kaçmış, gelmiş burada şov yapıyor. vatan senin vatanın, gitmek için tsk'nın onayına ihtiyacın mı var? yürü, git, elini kolunu sallaya sallaya gir memleketine, savaş; pasaportun yok mu? niye illa tsk'ya yazılma derdindesin bunun için? destekse destek; git savaş hadi, tutan da yok, engel de yok.\n\ngönderin abi, gönderin şunları. aferiiin, teşekkür ederiz deyip salın cepheye; bakın bakalım ne yapacaklar...",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyeli mültecilerden gönüllü askerlik başvurusu",
+      "entry_id": "102959761",
+      "author": "nle",
+      "date": "03.03.2020 15:25",
+      "content": "ırkçılık almış yürümüş,insan değilsiniz.",
+      "has_external_url": false
+    }
+  ]
+}

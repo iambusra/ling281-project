@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:04:22.787580",
+    "total_entries": 1,
+    "input": "olası 3. dünya savaşında sığınmacıların durumu",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "olası 3. dünya savaşında sığınmacıların durumu",
+      "entry_id": "163435387",
+      "author": "telstar",
+      "date": "14.04.2024 03:07",
+      "content": "örneğin, savaştan kaçıp, türkiye'ye gelen bir sığınmacıyı ele alalım.\n-eğer türkiye ile suriye aynı safta yer alırsa, sığınmacının ya türkiye'de orduya katılıp savaşta alması ya da ülkesine dönüp suriyedeki orduya katılıp savaşta yer alması beklenir.\nzaten kendi ülkesindeki savaştan kaçıp başka ülkeye gelmiş birisinin, başka ülkesinin ordusuna, katılıp savaşmak istemesi düşük bir beklenti, bu durumda kendi ülkelerine de dönmeyi hiç istemeyeceklerdir.\n\n-eğer türkiye ile suriye karşı tarafta yer alırsa,\n\n-bi kısım, can korkusundan, türkiye'de kendini tehlikede hissettiğinden, ülkesine döner.\n-bir kısım, ben artık can korkusundan bu vatanın evladı oldum, türk ordusunda savaşırım der.\n-bir kısım da ihanet ve ajanlık yapar, türkiye'ye verebildiği kadar zarar verir.\n\nşahsi görüşüm, olası bir savaş durumunda, sığınmacıların çoğunluğunun, türkiye'de kalıp, etliye sütlüye karışmadan, savaşa da katılmadan, türkler savaşıp ölürken, onların kanatları altında, bu zamana kadar geçindikleri gibi, arada kaynayıp gitmeye çabalayacağıdır.",
+      "has_external_url": false
+    }
+  ]
+}

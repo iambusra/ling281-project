@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T16:50:42.990903",
+    "total_entries": 4,
+    "input": "10 milyon suriyelinin oy kullanaması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "10 milyon suriyelinin oy kullanaması",
+      "entry_id": "133631212",
+      "author": "sallama kan icen vampir",
+      "date": "12.02.2022 10:27",
+      "content": "aktrol zırvalaması. 10 milyon suruyeli tc vatandaşı mı da oy kullansın birader? seçimi kaybedeceğinizi bildiğiniz için iyice saçmalamaya başladınız. iflah olmazsınız.",
+      "has_external_url": false
+    },
+    {
+      "title": "10 milyon suriyelinin oy kullanaması",
+      "entry_id": "133631282",
+      "author": "karni kasinan bidon kafa",
+      "date": "12.02.2022 10:30",
+      "content": "10 milyon da sizi kurtaramayacak bu gidişle.",
+      "has_external_url": false
+    },
+    {
+      "title": "10 milyon suriyelinin oy kullanaması",
+      "entry_id": "133631537",
+      "author": "zenciyle at karisimi",
+      "date": "12.02.2022 10:42 ~ 10:44",
+      "content": "seçimlere kadar bir khk ile oy kullanmalarına izin verilmesinden korktuğum durum.\nayrıca suriyeli kardeşimin yazdığı \"kullanaması\" kelimesini kanzuk arkadaş \"kullanamaması\" şeklinde düzeltirse sevinirim.",
+      "has_external_url": false
+    },
+    {
+      "title": "10 milyon suriyelinin oy kullanaması",
+      "entry_id": "133631576",
+      "author": "samsongkelokshi",
+      "date": "12.02.2022 10:43",
+      "content": "10 milyon avrupalı alalım ülkeye aklı hür vicdanı hür. demokrasiyi özümsemiş, insan haklarına saygılı.. ve onlara da oy kullandıralım var mısın sevgili aktroll? başlatmayın lan suriyelilerinize.. suriyeliler oy kullanamaz.",
+      "has_external_url": false
+    }
+  ]
+}

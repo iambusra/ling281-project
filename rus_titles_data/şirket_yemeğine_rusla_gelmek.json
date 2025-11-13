@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:26:17.065155",
+    "total_entries": 4,
+    "input": "şirket yemeğine rusla gelmek",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "şirket yemeğine rusla gelmek",
+      "entry_id": "10218389",
+      "author": "raptor",
+      "date": "01.11.2006 18:46",
+      "content": "rusya da cok normal bır davranışken türkiye de rusun tipine gore degisebilecek bir hadisedir\nkültürlerin ne kadar da farklı olduğunu gösterir bize\n(bkz: ukte dolduruyorum)",
+      "has_external_url": false
+    },
+    {
+      "title": "şirket yemeğine rusla gelmek",
+      "entry_id": "10218414",
+      "author": "lae",
+      "date": "01.11.2006 18:58",
+      "content": "turkce meali: kidem tazminatimi da verip beni isten atin.",
+      "has_external_url": false
+    },
+    {
+      "title": "şirket yemeğine rusla gelmek",
+      "entry_id": "10225774",
+      "author": "catherine dervis",
+      "date": "03.11.2006 19:47",
+      "content": "kapidan giriste zaten show baslayacaktir. erkek is arkadaslarinizin agzi acik bakislarinin yanisira kizlarin, gicik bakislari kafadan dikkat cekecektir. mudurlerinizin bir kismi olayin soku ile bir halt edemeecek, diger kismi da herifte ne rahatlik ne tasak var kardesim diye dusunecek hatta bu cesaretinizden dolayi icten ice sizi takdir edeceklerdir.\n\ntanistirma fasli da harika olacaktir:\n\nrusla gelen cesur erkek (rgce): herkese selamlaaaar, afiyet olsun, cemal abi nasilsin? haluk bey iyi aksamlar, burcu naaber? svetlana, these are my collegaues cemal abi, burcu and my boss mr. haluk.\n\nsvetlana (s): hi, hello\n\nmasadaki ekip: (laflar biraz agza dolanaraktan) hi, hello, welcome vs.\n\nbirden ortamda center of attraction olmayi basardiniz. bakislar uzerinizde. havadan sudan konusmalarin ardindan;\n\nburcu: siz ikiniz nasıl tanıştınız?\n\nrgce: valla svetlanayla aksarayda majestik muzikholde tanistik. svetalana dansci, gece isinin bitmesini bekledim falan filan\ndiye yuzsuzce bir de hikaye anlatilir.\n\nsirket yemegi samimi bir fasil ortamiysa, ilk oynak sarkida svetlanannin kalkip oynamasi, sizin de neseyle alkis tutmaniz harika olur.\n\nyaa dur ilerde istifa falan edecek olursam ben bunu bi yapayim...",
+      "has_external_url": false
+    },
+    {
+      "title": "şirket yemeğine rusla gelmek",
+      "entry_id": "16314415",
+      "author": "dharmabum",
+      "date": "11.06.2009 17:04",
+      "content": "aslında sanıldığından sıkça karşılaşılan bir durumdur. genelde rus hatunlar, \"a şirketi\" temsilcileri tarafından kendilerinden iş kapmak istedikleri \"b şirketi\" kalantorlarına ikram edilmek üzere getirilir iş yemeğine.",
+      "has_external_url": false
+    }
+  ]
+}

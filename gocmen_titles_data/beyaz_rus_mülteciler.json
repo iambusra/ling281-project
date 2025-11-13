@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:48:06.607241",
+    "total_entries": 1,
+    "input": "beyaz rus mülteciler",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "beyaz rus mülteciler",
+      "entry_id": "146180557",
+      "author": "badhoven",
+      "date": "10.12.2022 18:27 ~ 18:28",
+      "content": "100 yıl evvel işgal sırasında istanbul’a sığınmışlardır. bilge ar’ın kaleme aldığı ve istanbul’da değişime uğrayan mekânların izinin sürüldüğü \"işgal istanbul’unun kentsel dönüşümünü beyaz ruslar üzerinden okumak\" başlıklı bir makalesinde incelenmiştir. şurada ise kadıköy'deki yaşantıları incelenmiş.",
+      "has_external_url": true
+    }
+  ]
+}

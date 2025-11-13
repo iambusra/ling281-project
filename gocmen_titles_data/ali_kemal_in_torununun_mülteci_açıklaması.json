@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:38:20.913426",
+    "total_entries": 3,
+    "input": "ali kemal'in torununun mülteci açıklaması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ali kemal'in torununun mülteci açıklaması",
+      "entry_id": "169390787",
+      "author": "serbesti",
+      "date": "19.10.2024 20:47 ~ 20:51",
+      "content": "gayet doğru ve yerinde açıklamadır, t\n\ntürkiye'nin demografik çöküşü çoktan başladı, tek çaremiz göçmenler. vasıflı göçmenler toparlanabilmeli.\n\naksi takdirde, hiç bir ekşici emekli olamaz, sağlık hastane ilaç parası vs ancak hayalinde ruyasında görür.\n\nayrıca sigortalı çalışma imkanı bulabilecek olan her bir ekşici, sırtında 2 emekliyi taşıyacak.",
+      "has_external_url": false
+    },
+    {
+      "title": "ali kemal'in torununun mülteci açıklaması",
+      "entry_id": "169391453",
+      "author": "ulumanitununkardesi",
+      "date": "19.10.2024 21:04",
+      "content": "bu sitenin türk milletinin yararına bir makale yazacağını düşünmüyorum. çok büyük olasılıkla fon alıyorlar. büyük olasılıkla geçmişte ki bir yapıyla da bağları var.",
+      "has_external_url": false
+    },
+    {
+      "title": "ali kemal'in torununun mülteci açıklaması",
+      "entry_id": "169391851",
+      "author": "olfucktorius",
+      "date": "19.10.2024 21:11",
+      "content": "ne yapıyorsanız yapın amk ben gidiyorum.",
+      "has_external_url": false
+    }
+  ]
+}

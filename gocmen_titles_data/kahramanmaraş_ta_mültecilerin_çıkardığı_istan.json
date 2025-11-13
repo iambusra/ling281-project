@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:55:29.356008",
+    "total_entries": 2,
+    "input": "kahramanmaraş'ta mültecilerin çıkardığı istan",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "kahramanmaraş'ta mültecilerin çıkardığı istan",
+      "entry_id": "138821454",
+      "author": "dunyayagecgelenkisi",
+      "date": "16.06.2022 06:31",
+      "content": "fistan'dır o.",
+      "has_external_url": false
+    },
+    {
+      "title": "kahramanmaraş'ta mültecilerin çıkardığı istan",
+      "entry_id": "138821522",
+      "author": "lucklucki",
+      "date": "16.06.2022 06:42",
+      "content": "muazzam.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:02:26.790200",
+    "total_entries": 1,
+    "input": "geçici sığınmacılara göçmen diyen tip",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "geçici sığınmacılara göçmen diyen tip",
+      "entry_id": "164343170",
+      "author": "likya krali",
+      "date": "12.05.2024 18:37",
+      "content": "bilinçli olarak ülkenin kıt imkanlarının hiçbir kültürel bağımız ve geçmişimiz olmayan ülkelerin vatandaşlarına peşkeş çekilmesine göz yuman tiptir.\naynı zamanda bunlara mülteci diyen modelleri de vardır. halkın gerçeklerinden uzak bu şımarıklar güvenlikli plazalarından ayrılamazlar, kolay kolay bir suriyeli afgan ya da pakistanlıyla komşuluk dahi edemezler etmezler ancak türkiye cumhuriyetinin geçici sığınmacı ve kaçaklara her şeylerini feda etmesini bekler. savaş falan yok hiçbir yerde yallah ülkenize",
+      "has_external_url": false
+    }
+  ]
+}

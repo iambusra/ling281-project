@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:08:40.346269",
+    "total_entries": 1,
+    "input": "sp'nin ukrayna'yı reyiz ilan etmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "sp'nin ukrayna'yı reyiz ilan etmesi",
+      "entry_id": "40587984",
+      "author": "zaman makinasi operatoru",
+      "date": "21.02.2014 10:51",
+      "content": "kredi notunu ccc ilan ederek bu hareketi gerçekleştirmiştir.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:27:08.521977",
+    "total_entries": 2,
+    "input": "nazilerden kaçıp ruslar yüzünden ölmek",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "nazilerden kaçıp ruslar yüzünden ölmek",
+      "entry_id": "135224928",
+      "author": "stenella",
+      "date": "21.03.2022 16:34",
+      "content": "zamanında nazilerin toplama kamplarından kaçıp kurtulan adamın rus bombalaması sonucu ukrayna'da ölmesi olayı. alman medyası, ukrayna'nın harkov kentinde düzenlenen bombalı saldırıda 96 yaşındaki holokost toplama kampından sağ kurtulan bir kişinin hayatını kaybettiğini bildirdi.\n\ntorununa göre, boris romantschenko cuma günü evine mermi isabet etmesi sonucu öldü.\n\nromantschenko, 2. dünya savaşında buchenwald, peenemünde, mittelbau-dora ve bergen-belsen toplama kamplarından kurtulan biriydi.\n\nbuchenwald ve mittelbau-dora memorials vakfı bugün yaptığı açıklamada, haberlerden “derin bir şekilde dehşete düştüğünü” söyledi.\n\nvakıf, romantschenko'nun nazi suçlarının anısına \"yoğun bir şekilde\" kampanya yürüttüğünü ve uluslararası komite buchenwald-dora'nın başkan yardımcısı olduğunu da ekledi.",
+      "has_external_url": false
+    },
+    {
+      "title": "nazilerden kaçıp ruslar yüzünden ölmek",
+      "entry_id": "135225231",
+      "author": "deutsche am meer",
+      "date": "21.03.2022 16:42",
+      "content": "rusya'nın ukrayna'yı nazilerden temizlemek için operasyon yapıyoruz iddiasının neden olduğu trajik bir son.",
+      "has_external_url": false
+    }
+  ]
+}

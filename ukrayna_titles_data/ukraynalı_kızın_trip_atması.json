@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:21:31.730774",
+    "total_entries": 2,
+    "input": "ukraynalı kızın trip atması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukraynalı kızın trip atması",
+      "entry_id": "143375249",
+      "author": "gocumanirabbim",
+      "date": "01.10.2022 18:32",
+      "content": "bunun nesi trip ula",
+      "has_external_url": false
+    },
+    {
+      "title": "ukraynalı kızın trip atması",
+      "entry_id": "143375357",
+      "author": "okan56",
+      "date": "01.10.2022 18:35",
+      "content": "e cicek istemis gayet açık.cicekleri severim demiş.bi zahmet paraya kiyacan cicek yollayacan ukraynaya kargo calismiyorsa da durumu izah edersin bi sekilde.gel hele sen bak ben sana ciceklerden tac yaparim basina.erol evgin sarkisi.ah be kuzum",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:58:33.247521",
+    "total_entries": 1,
+    "input": "sığınmacıya asalak diyen ırkçı muhalif",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "sığınmacıya asalak diyen ırkçı muhalif",
+      "entry_id": "50979043",
+      "author": "dogmatik degil ozgur dusunce",
+      "date": "02.05.2015 11:55",
+      "content": "ırkçı olmadığım için mevcut haliyle beni bağlamayan başlıktır. sığınmacıya asalak derim. muhalifim de. ne zaman ki bana uyacak şekilde \"sığınmacıya asalak diyen xxx muhalif\" denk gelir o zaman döşerim laminant parkenin metrekaresini uygun bir fiyata.",
+      "has_external_url": false
+    }
+  ]
+}

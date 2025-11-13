@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:18:54.156985",
+    "total_entries": 1,
+    "input": "göçmen kaçakçısının kaçak göçmenleri ihbar etmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "göçmen kaçakçısının kaçak göçmenleri ihbar etmesi",
+      "entry_id": "142968455",
+      "author": "demirj2",
+      "date": "21.09.2022 16:19",
+      "content": "olay tam da türkiyede olacak bir olaydır. göçmen kaçakçısı 2000 euro karşılığında suriyelilerle kendilerini bulgaristan'a kaçırma konusunda anlaşıyor, parayı alıyor. sonrasında bir konum veriyor kaçaklar bu konumda toplanıyor. sonra bizim göçmen kaçakçısı jandarmayı arayıp konum verip suriyelileri ihbar ediyor. jandarma gidip hepsini topluyor.\n\ngüzel ülkem. kaçakçısı bile trol:) kaynak",
+      "has_external_url": true
+    }
+  ]
+}

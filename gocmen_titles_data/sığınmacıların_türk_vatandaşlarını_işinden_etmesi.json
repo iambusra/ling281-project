@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:05:54.795259",
+    "total_entries": 1,
+    "input": "sığınmacıların türk vatandaşlarını işinden etmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "sığınmacıların türk vatandaşlarını işinden etmesi",
+      "entry_id": "126271074",
+      "author": "crowder",
+      "date": "29.07.2021 14:57",
+      "content": "ampule basarak çözülebilecek olay.\nzira 20 küsür yıldır irfanlı imanlı anadolu bunu yapıyor.\nhem artık ampule basmak için ihraç malı yeni talib ... vatandaşlar da mevcut.",
+      "has_external_url": false
+    }
+  ]
+}

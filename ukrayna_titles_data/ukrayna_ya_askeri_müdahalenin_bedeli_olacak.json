@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:11:00.604669",
+    "total_entries": 2,
+    "input": "ukrayna'ya askeri müdahalenin bedeli olacak",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukrayna'ya askeri müdahalenin bedeli olacak",
+      "entry_id": "40832228",
+      "author": "nevadia",
+      "date": "02.03.2014 22:26",
+      "content": "(bkz: başımıza savaş çıkardılar durduk yere)",
+      "has_external_url": false
+    },
+    {
+      "title": "ukrayna'ya askeri müdahalenin bedeli olacak",
+      "entry_id": "40832303",
+      "author": "kilici olmayan jedi",
+      "date": "02.03.2014 22:29",
+      "content": "nato'dan flaş karar",
+      "has_external_url": true
+    }
+  ]
+}

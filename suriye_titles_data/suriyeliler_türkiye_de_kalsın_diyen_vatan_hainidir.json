@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:56:56.535370",
+    "total_entries": 2,
+    "input": "suriyeliler türkiye'de kalsın diyen vatan hainidir",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeliler türkiye'de kalsın diyen vatan hainidir",
+      "entry_id": "160991753",
+      "author": "faytonfayt",
+      "date": "26.01.2024 20:13",
+      "content": "bir ümit özdağ beyanıdır.\n\nilk kez bu kadar doğrudan konuşmuştur.",
+      "has_external_url": true
+    },
+    {
+      "title": "suriyeliler türkiye'de kalsın diyen vatan hainidir",
+      "entry_id": "160997069",
+      "author": "rafadankontak",
+      "date": "26.01.2024 23:28",
+      "content": "kesinlikle katılıyorum. sığınmacı sorunu amerika'yı bile iç savaşın eşiğine getirecek kadar mühim bir sorundur. ülkemize bunları dolduranlar ileride lanetle anılacaktır.",
+      "has_external_url": false
+    }
+  ]
+}

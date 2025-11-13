@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:57:00.886818",
+    "total_entries": 1,
+    "input": "sanat ve magazin dünyasının sığınmacı suskunluğu",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "sanat ve magazin dünyasının sığınmacı suskunluğu",
+      "entry_id": "164998203",
+      "author": "istebuarimaya",
+      "date": "02.06.2024 22:38",
+      "content": "daha doğrusu sığınmacı istilası suskunluğu.\n\nkamera arkasında hepsi rahatsız, hepsi de bu konuda dertli şahan gökbakar, mustafa sandal hariç bu ülkede hiçbir ünlü sima açıktan sığınmacı istilasına karşı durmadı.\n\naraplara satılan dizilerde rol alamayız diye korkuyorlar.",
+      "has_external_url": false
+    }
+  ]
+}

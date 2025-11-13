@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:24:33.596330",
+    "total_entries": 2,
+    "input": "avrupa'da göçmenlerin suça iştiraki",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "avrupa'da göçmenlerin suça iştiraki",
+      "entry_id": "159072554",
+      "author": "yanniyugu",
+      "date": "24.11.2023 03:25",
+      "content": "avrupa'da sağın yükselmesinin önemli nedenlerinden biri olarak, göçmenlerin suçla ilişkilendirilmesi gösteriliyor. sağ partiler, bu durumu'göçmenler suça meyillidir' şeklinde basitleştirerek oylarını artırmaya çalışsa da, aslında bu durumun arkasında eğitim ve istihdam gibi sosyal entegrasyonu etkileyen birçok faktör bulunmaktadır.\n\nayrıca, türklerin, yoğun nüfusa ve uzun süreli sosyal dışlanmaya rağmen diğer ülke göçmenlerine göre daha düşük suç oranına sahip olması, bugüne kadar gurbetçilerin yeterince entegre olamadığı iddiasını bir noktada geçersiz kılıyor.\n\nişte bazı ülkelere ait istatistikler:\n\nhollanda görsel\n\nalmanya, italya, ispanya görsel\n\ndanimarka görsel",
+      "has_external_url": true
+    },
+    {
+      "title": "avrupa'da göçmenlerin suça iştiraki",
+      "entry_id": "161451802",
+      "author": "summerof69",
+      "date": "11.02.2024 16:26",
+      "content": "(bkz: göçmenlerin gasp edip döverek öldürdüğü ispanyol)",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:04:39.915859",
+    "total_entries": 2,
+    "input": "suriyeli sığınmacıların oylarıyla seçim kazanmak",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeli sığınmacıların oylarıyla seçim kazanmak",
+      "entry_id": "152921105",
+      "author": "silayor",
+      "date": "28.05.2023 19:27",
+      "content": "düşün; bir tarafın göndermek istediği suriyeli ve afganların oylarıyla diğer taraf seçim kazanıyor. ülkeyi mahvedecek ayrıntı, o ülkenin geleceğini belirliyor.\n\nbu kadar trajik olmak zorunda mı arkadaş, bu kadar acı verici olmak zorunda mı?",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyeli sığınmacıların oylarıyla seçim kazanmak",
+      "entry_id": "152921899",
+      "author": "engineerdolma",
+      "date": "28.05.2023 19:34",
+      "content": "(bkz: ağlama melis)",
+      "has_external_url": false
+    }
+  ]
+}

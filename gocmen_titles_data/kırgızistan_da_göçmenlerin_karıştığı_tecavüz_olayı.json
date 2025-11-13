@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:24:27.546892",
+    "total_entries": 1,
+    "input": "kırgızistan'da göçmenlerin karıştığı tecavüz olayı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "kırgızistan'da göçmenlerin karıştığı tecavüz olayı",
+      "entry_id": "164616172",
+      "author": "entelektuel ogretmen",
+      "date": "21.05.2024 13:19 ~ 13:20",
+      "content": "3 gün önce başlayan ve hala bitmek bilmeyen olaylardır. pakistanlı bir grup gencin genç bir kırgız kız çocuğuna tecavüz etmesi ile başlayan ve ülkedeki kırgız vatandaşların göçmen öğrencilere yönelik şiddet olayları ile artan olaylar göçmen öğrencilerin ülkeyi terk etmesi ile sonuçlanmış.\n\nhttps://www.instagram.com/…n/?igsh=cmxqbwdvnwrhyxc3\n\nhttps://twitter.com/…?t=qec8skvcgoyuyugjw4pw7q&s=19",
+      "has_external_url": true
+    }
+  ]
+}

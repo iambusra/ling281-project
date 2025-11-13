@@ -1,0 +1,34 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:13:08.009875",
+    "total_entries": 1,
+    "input": "türklere imtihan yapıyoruz suriyelilere yapmıyoruz",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türklere imtihan yapıyoruz suriyelilere yapmıyoruz",
+      "entry_id": "151312291",
+      "author": "atgozu",
+      "date": "15.04.2023 17:36 ~ 16.04.2023 05:28",
+      "content": "daha önce şu entryde (#150154514) belirttiğim gibi tam da bu başlıkta bahsedilen suriyelilerden birini tanıyordum. çok detaya girmeye gerek yok balına üniversiteye girip haydan yere kontenjan almış işte. karaktersizin, hainin ve beceriksizin tekiydi.\n\navrupa'daki gurbetçiler gibi, adam kilis üzerinden suriye'ye geçiyor, akrabalarını ziyaret edip geliyordu. evli ve karısı da üniversitede öğrencisiydi.",
+      "referenced_content": [
+        {
+          "type": "entry",
+          "title": "3-milyon-313-bin-701-suriyeli-vatandas",
+          "entry_id": "150154514",
+          "author": "atgozu",
+          "date": "09.03.2023 08:17 ~ 10:47",
+          "content": "önceki çalıştığım yere suriyeli personel almışlardı dış ticaret departmanına. teferruata girmeden elemanın nasıl vatandaşlığı aldığını anlatacağım. bunları kendisi anlatmıştı:\n\nsuriye'de ortalık karıştığında bu hemen kaçak yollarla türkiye'ye gelmiş. yaklaşık 1 yıl kalmış. sonra bakmış ki kayıtlı girenlere para veriliyor, suriye'ye kaçak olarak geldiği yoldan geri dönüp kimlikle sınırdan yeniden giriş yapmış türkiye'ye; maaş bağlanmış, üniversiteye başlamış ve 1 yıl türkçe hazırlık görmüş. hazırlık bitiminde göç idaresinden vatandaşlık almak ister misin diye bunu aramışlar. eleman 2014 den beri türkiye cumhuriyeti vatandaşı.\n\nedit: okuduğu bölümü eklemek istedim: şehir ve bölge planlama.\nbir üniversite mezunu düşünün ki excel bilgisi sıfır, bir dış ticaret personeli düşünün ki konteynerın ne olduğunu bilmiyor. sırf arapça bildiği için yanıma yetiştirmem için verdikleri elemanın elle tutulur bir iş yapması 4 ay almıştı. o kadar dil dökmüştüm zamanında üniversiteden yeni mezun birini alalım yetiştiririm ben diye ama bizim gençlerimizin yerine arapça biliyor üstüne vatandaşlığı da var diye tercih edilmişti bu kişi.",
+          "has_external_url": false
+        }
+      ],
+      "referenced_entry_ids": [
+        "150154514"
+      ],
+      "has_external_url": false
+    }
+  ]
+}

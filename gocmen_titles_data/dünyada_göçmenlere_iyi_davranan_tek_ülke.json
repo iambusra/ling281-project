@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:23:15.603909",
+    "total_entries": 4,
+    "input": "dünyada göçmenlere iyi davranan tek ülke",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "dünyada göçmenlere iyi davranan tek ülke",
+      "entry_id": "40544062",
+      "author": "filling in the blanks",
+      "date": "19.02.2014 12:39",
+      "content": "mevcut duruma bakıldığında bu ülke türkiye'dir. zira suriyelilere, kendi milletimize davrandığımızdan daha iyi davranmaktayız! öyle ki, bir 500.000 kadarı daha giriş yapacakmış haberlere göre. o derece seviliyoruz iyi davrandığımız için.\n\n(bkz: bir akp klasiği)\n(bkz: bi siz eksiktiniz)",
+      "has_external_url": false
+    },
+    {
+      "title": "dünyada göçmenlere iyi davranan tek ülke",
+      "entry_id": "40544127",
+      "author": "crown prince of veblen",
+      "date": "19.02.2014 12:44",
+      "content": "yoktur öyle bir ülke. göçmen diye bahsedilenlerin büyük çoğunluğunun aslında o ülkede aslen göçmen olmadığından ortaya çıkan yanlış sonuca varmadır.",
+      "has_external_url": false
+    },
+    {
+      "title": "dünyada göçmenlere iyi davranan tek ülke",
+      "entry_id": "43250309",
+      "author": "biyiksiz kedi mahmut",
+      "date": "04.06.2014 10:06",
+      "content": "tüm göçmenlere iyi davranan değil, kimi göçmenlere kendi vatandaşından daha iyi olanaklar sunan tutarsız bir ülkedir.\n\ndiğer taraftan, nedense avrupa'ya musallat ettiği kendi göçmenleri hakkında bir yorum yapılmamaktadır.\n\nsonuç olarak savaşı yaşamayan bilemez, ve kimse göçmek istemez. ülkenin tutarsız politikaları yüzünden göçmenleri ezmek yanlıştır.",
+      "has_external_url": false
+    },
+    {
+      "title": "dünyada göçmenlere iyi davranan tek ülke",
+      "entry_id": "43251428",
+      "author": "dergul",
+      "date": "04.06.2014 11:13",
+      "content": "göçmenleri, ucuz iş gücü olarak gören ülkedir. mülteci sorunu bir insanlık dramı olduğu kadar, kölelik düzeninin, evrim geçirmiş halidir. eskiden köleler, yerli işbirlikçiler yardımıyla topraklarından kaçırılıp, zorla çalıştırılırlardı.\n\ngünümüzdeki işleyiş ise, önce insanları yaşam standartlarını ve güvenlikleri düşürülerek, kendi istekleriyle göç etmeleri sağlanır.(göçmenler ulaşım masraflarını, kendi ceplerinden ödediklerinden, nakliye ile uğraşmaya gerek yok.) ülkeye yasadışı girdikleri için, devlet güvencesinden ve sosyal haklarından feragat ederek çalışırlar.(işverenler, kendi vatandaşlarını işe alsalardı, vermeleri gereken yüksek maaşın yanı sıra, iş güvenliği ve sosyal haklarının getireceği mali külfeti de göze alacaklardı.) bir iş kazası olursa, mülteciler ağız sıkı tutmaları ve gözden kaybolmaları nedeniyle avantaj sağlarlar.(kendi vatandaşları hukuki yöntemlerle, tazminatlarını çatır çatır alırlar.) mülteci seven ülkelerin, gerçek yüzü budur.",
+      "has_external_url": false
+    }
+  ]
+}

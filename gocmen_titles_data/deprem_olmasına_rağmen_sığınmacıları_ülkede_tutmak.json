@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:00:47.646983",
+    "total_entries": 1,
+    "input": "deprem olmasına rağmen sığınmacıları ülkede tutmak",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "deprem olmasına rağmen sığınmacıları ülkede tutmak",
+      "entry_id": "149634072",
+      "author": "faytonfayt",
+      "date": "21.02.2023 23:19",
+      "content": "türkiye'de türklere karşı yapılan bir hamledir.\n\nayrıca sığınmacılar 6 şubat 2023 kahramanmaraş depremi'nde yağma olaylarında ön saflarda olmalarına rağmen.\n\n(bkz: 20 yıldır türklere karşı yapılan sistematik baskı)",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-10T23:30:52.082453",
+    "total_entries": 1,
+    "input": "1 ekim 2018 suriyeli rezaleti",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "1 ekim 2018 suriyeli rezaleti",
+      "entry_id": "81831463",
+      "author": "archilla",
+      "date": "01.10.2018 10:16",
+      "content": "konu dışı olabilir ama şöyle bir olayı hatırlattı.\n\nüniversitede bir arkadaşım elinde olmadan, (bakın gerçekten elinde olmadan istem dışı yaptığını düşünüyorum) yapmadığı ve toplum tarafından takdir gösterilecek olayları yapmış gibi anlatırdı.\n\nörneğin, birisi bir ortamda ayakkabı ve tasarımdan bahsetmiş olsun. o arkadaş bir anda zıplardı, \"benim nike tasarım yarışmasında birinciliğim var vs\" diye. sonra müthiş bir sessizlik olurdu.\n\nbaşlık sahibi arkadaşı aklıma gelen bu anımdan ayrı tutuyorum. tuttuğu gibi fırlatıp hakkını savunmuştur güzel kardeşim.",
+      "has_external_url": false
+    }
+  ]
+}

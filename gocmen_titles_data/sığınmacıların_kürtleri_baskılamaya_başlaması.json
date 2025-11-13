@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:05:19.667340",
+    "total_entries": 1,
+    "input": "sığınmacıların kürtleri baskılamaya başlaması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "sığınmacıların kürtleri baskılamaya başlaması",
+      "entry_id": "136910560",
+      "author": "notredamea",
+      "date": "02.05.2022 11:28",
+      "content": "savunduğu zihniyete bak savunduğu saçmalığa bak.. sanırsın kürtler bu ülkenin vatandaşı değil. ırkçılık cidden bir hastalık.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:01:39.405967",
+    "total_entries": 2,
+    "input": "japonya'da doğup sığınmacıları kovacağız demek",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "japonya'da doğup sığınmacıları kovacağız demek",
+      "entry_id": "136099228",
+      "author": "stiglitz",
+      "date": "12.04.2022 02:08",
+      "content": "sığınmacı karşıtı aklıma gelen ilk isim(bkz: ümit özdağ) oldu ve kendisi tokyo doğumlu çıktı.japonyada doğması ile sığınmacı karşıtı olmasının arasındaki bağlantıyı başlık sahibi açıklasın.",
+      "has_external_url": false
+    },
+    {
+      "title": "japonya'da doğup sığınmacıları kovacağız demek",
+      "entry_id": "136099421",
+      "author": "akrep yelkovan",
+      "date": "12.04.2022 02:16",
+      "content": "türk vatandaşıysa yerden göğe kadar haklı bir söylemdir.",
+      "has_external_url": false
+    }
+  ]
+}

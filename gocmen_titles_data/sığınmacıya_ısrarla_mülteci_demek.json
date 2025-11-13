@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:58:26.328261",
+    "total_entries": 1,
+    "input": "sığınmacıya ısrarla mülteci demek",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "sığınmacıya ısrarla mülteci demek",
+      "entry_id": "137009541",
+      "author": "justsmile59",
+      "date": "04.05.2022 19:44 ~ 20:08",
+      "content": "foncuların tezgahlarından biridir.\n\nmültecilik, hukuki bir statüdür.\nsığınmacı, mülteci olduğu iddiasıyla ülkesini terk eden ama mültecilik statüsü başvurusu sonuçlanmamış kişiyken, mülteci sığınma başvurusu kabul edilen kişidir.\n\n(bkz: mülteci&göçmen&sığınmacı&geçici koruma)\n\nedit:\n\narkadaşlar bir yerlerde \"mülteci\" ifadesi görüyorsanız bilin ki o kişi foncu ya da bu düzensiz göç ve sığınmacılar onun işine geliyor.",
+      "has_external_url": false
+    }
+  ]
+}

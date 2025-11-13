@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:21:40.921905",
+    "total_entries": 1,
+    "input": "bolu'da göçmenlere uyarı listesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "bolu'da göçmenlere uyarı listesi",
+      "entry_id": "128323972",
+      "author": "umitsizseniz umit sizsiniz",
+      "date": "22.09.2021 19:27",
+      "content": "https://www.bbc.com/…custom2=twitter&at_campaign=64\n\n\"bolu valiliği'nden göçmenlere uyarı listesi: kadınlara karşı sabit bakışlardan uzak durun, aşırı baharat kullanarak komşuları rahatsız etmeyin\nbolu valisi ahmet ümit, ırak, suriye, afganistan ve iran'dan şehre göç eden temsilcilerle yaptığı toplantının ardından kamusal alanda nasıl davranmaları gerektiğine ilişkin göçmenlere bir dizi uyarıda bulundu.\n\n\"türk halkının tepkisini çeken, yabancılara karşı antipati uyandıran eylem ve hareketleriyle ilgili bazı araştırmalar yaptırdık” diyen vali ahmet ümit'in uyarı listesi, bolu valiliği'nin internet sitesinde yer aldı.\n\n\"kadınlara karşı sabit bakışlardan uzak durulması\", \"kamusal alanda grup halinde dolaşılmaması\", \"siyasi tartışmalardan uzak durulması\", \"mutfaklarda aşırı baharatlar kullanılarak koku sebebiyle komşuların rahatsız edilmemesi\" gibi başlıklar dikkat çekti.\n\nöne çıkan bazı diğer başlıklar şöyle:\n\nkendi aranızda bireyler arasında meydana gelen münferit olayların büyütülmemesi,\niş yeri sahiplerinin iş yerlerinin isimlerinin türkçe konulması,\ntürk bayrağı’nın dışında herhangi bir bayrak, flama, afiş ve benzeri sembollerin taşınmaması,\nsaat 21:00’den itibaren zorunluluklar dışında herkesin evinde olması.\ntemmuz ayında bolu belediye başkanı tanju özcan hakkında, yabancı uyrukluların su faturası ve katı atık vergilerine 10 kat zam yapacağına dair açıklamaları nedeniyle'görevi kötüye kullanma' ve'nefret ve ayrımcılık' suçlamalarıyla soruşturma başlatılmıştı.\"",
+      "has_external_url": true
+    }
+  ]
+}

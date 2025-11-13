@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:18:35.571636",
+    "total_entries": 2,
+    "input": "göçmenleri sorun olarak görenlerin yüzde 2 olması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "göçmenleri sorun olarak görenlerin yüzde 2 olması",
+      "entry_id": "162780476",
+      "author": "ferhundetekin",
+      "date": "24.03.2024 23:51",
+      "content": "türkiye her bakımdan refah,huzur ve medeniyet içinde bir topluma dönüşse,sorunlar bitse ve dünyadaki cennet olsa yine de etrafımda rusça,arapça ya da zottirikçe konuşan herhangi bir insan görmek istemiyorum. bu sadece ekonomik olarak sırtımıza binen kamburla alakalı değil. insanlar ailelerini gecindirip evlatlatırı için endişelenirken öncelikleri ekonomi olabilir. ama kontrolsüz göç ve aramıza salınmış bu insanların sebep oldukları ekonomiden çok daha büyük bir sorun.",
+      "has_external_url": false
+    },
+    {
+      "title": "göçmenleri sorun olarak görenlerin yüzde 2 olması",
+      "entry_id": "162780477",
+      "author": "ozozgu",
+      "date": "24.03.2024 23:51",
+      "content": "daha büyük dertler bazı dertleri geride bıraktığından normal bir durum. çoktan seçmeli anketlerde en kötüsü seçilince sonuç bu şekilde çıkıyor.",
+      "has_external_url": false
+    }
+  ]
+}

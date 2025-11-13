@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:02:58.509248",
+    "total_entries": 2,
+    "input": "yunanistandan sığınmacılara tarım ilacı sıkılması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "yunanistandan sığınmacılara tarım ilacı sıkılması",
+      "entry_id": "103265921",
+      "author": "nutku tutuk",
+      "date": "09.03.2020 20:05",
+      "content": "zehirlemeye başladılar\n\ninsanlığın öldüğünün kanıtıdır.",
+      "has_external_url": true
+    },
+    {
+      "title": "yunanistandan sığınmacılara tarım ilacı sıkılması",
+      "entry_id": "103266419",
+      "author": "alles im wasser tiefer",
+      "date": "09.03.2020 20:16",
+      "content": "çekirge gibi yayılmaları sonucu çok da saçma bir müdehale olmayabilir.",
+      "has_external_url": false
+    }
+  ]
+}

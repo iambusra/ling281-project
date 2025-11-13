@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T16:55:57.422086",
+    "total_entries": 1,
+    "input": "150 bin suriyeli adresinde yok",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "150 bin suriyeli adresinde yok",
+      "entry_id": "170727640",
+      "author": "provenzano",
+      "date": "04.12.2024 15:39",
+      "content": "kaynak\n\nbulamazsanız bizim burada 1 milyon tane var sn bakanım. eksikleri de diğer yazarlar bulurlar.",
+      "has_external_url": true
+    }
+  ]
+}

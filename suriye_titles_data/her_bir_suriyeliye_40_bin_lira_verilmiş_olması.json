@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T15:03:13.964571",
+    "total_entries": 1,
+    "input": "her bir suriyeliye 40 bin lira verilmiş olması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "her bir suriyeliye 40 bin lira verilmiş olması",
+      "entry_id": "72467602",
+      "author": "jimmy76",
+      "date": "29.11.2017 11:30",
+      "content": "hakkımı helal etmiyorum .",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:05:01.059081",
+    "total_entries": 1,
+    "input": "sığınmacıların kamu hastanelerini işgali",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "sığınmacıların kamu hastanelerini işgali",
+      "entry_id": "141905997",
+      "author": "gordonmilne",
+      "date": "28.08.2022 12:38 ~ 12:39",
+      "content": "son 6 aydır arşa çıkan durum.\n\ne-nabızdan en yakın 1-2 aya randevu alabiliyorsunuz. o arada ya ölün ya da özel hastaneye gidip tüm birikimlerinizi bırakın.\n\nözellikle bazı bölümlere randevu yok, 6 aya falan bile yok.\n\nha diyeceksiniz ki doktorlar kaçıyor, niye kaçıyor? sığınmacılar ve sığınmacı sevdalısı hükümet yüzünden.\n\nbiz vergi ödeyelim, sgk, gss allah ne verdiyse yatıralım, sığınmacılar bizim paramızla gününü gün etsin. ben böyle zulüm görmedim.",
+      "has_external_url": false
+    }
+  ]
+}

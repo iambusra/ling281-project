@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:55:29.246625",
+    "total_entries": 3,
+    "input": "suriyeliler harp okullarında eğitilecek",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeliler harp okullarında eğitilecek",
+      "entry_id": "179497442",
+      "author": "abdurrahman duman",
+      "date": "31.10.2025 14:44",
+      "content": "milli savunma bakanlığı'ndan yapılan açıklamaya göre suriyeli öğrenciler 31 ekim itibariyle kara, deniz ve harp okullarında eğitim görmeye başlayacak.\n\nkaynak bbc",
+      "has_external_url": true
+    },
+    {
+      "title": "suriyeliler harp okullarında eğitilecek",
+      "entry_id": "179497632",
+      "author": "jedilost",
+      "date": "31.10.2025 14:54",
+      "content": "linkteki haberde suriyeli öğrencilere eğitim verildiği üç kere falan söylenmiş ama eğitim protokülünün ne olduğuna, eğitimden sonra ne olacağına dair hiçbir şey yazılmamış.\n\nama sorsan süper gezetecidir hepsi.\n\nbunlara da kendi ordumuzda görev vermeyeceksek etki alanımızın genişlemesi açısından güzel haber. ama bunlara kendi ordumuzda göre vereceksek sıçtık.",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyeliler harp okullarında eğitilecek",
+      "entry_id": "179497712",
+      "author": "devrimcijedi",
+      "date": "31.10.2025 14:59",
+      "content": "misafir askeri personel statüsünde olacaktır diye tahmin ediyorum. bildiğim kadarıyla açıklayayım:\n\nbizim gibi ülkelerin okullarında yabancı devlet öğrencileri eğitim alır ve kendi ülkesine geri döner. askeri ataşeleri de bunları takip eder.\n\nyıllardan beri ara sıra güney kore de dahil kırgızistan'dan arnavutluk'a somali'den katar'a çok sayıda ülkeden personel gelir ve eğitim alır. bizden daha geride olan ülkelere destek olmuş oluyoruz sözde.\n\nbizden de abd'nin çeşitli sınıf okullarında eğitim görmüş olan çokça subay vardır.\n\nbu bir anlamda askeri işbirliği anlaşması gibidir ve askeri kültürünü ihraç etmektir.\n\nbu öğrenciler türkçe hazırlık sınıfını okumaya müteakip bizim kendi harbiyelilerimizin arasına serpiştirilir.\n\nsuriye gibi karaktersiz bir kabile devletinin ordumsu çetesine türk askeri eğitimi görmüş “subaylar” serpmek ne derece iyidir bilemem. bu arada kaddafi'nin de türkiye'de eğitim geçmişi vardır. ve hala libya'lı öğrencilerden bizim okulumuzda okuyanlar var.",
+      "has_external_url": false
+    }
+  ]
+}

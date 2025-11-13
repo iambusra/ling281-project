@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:54:45.305145",
+    "total_entries": 2,
+    "input": "almanya'da mültecilerin toplu tacizi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "almanya'da mültecilerin toplu tacizi",
+      "entry_id": "57554151",
+      "author": "mutlu tuccar",
+      "date": "07.01.2016 18:03",
+      "content": "(bkz: mültecilerin köln'de kadınlara saldırmaları)",
+      "has_external_url": false
+    },
+    {
+      "title": "almanya'da mültecilerin toplu tacizi",
+      "entry_id": "152872362",
+      "author": "kafein yok mu kafein",
+      "date": "27.05.2023 17:47",
+      "content": "maalesef bugün twitter'da bir yenisine rastladım. bu cehalet dalgasının sonu yok.\n\n--- spoiler ---\n\n+18\n\ntwitter\n\n--- spoiler ---",
+      "has_external_url": true
+    }
+  ]
+}

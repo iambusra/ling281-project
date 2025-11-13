@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:58:15.665608",
+    "total_entries": 2,
+    "input": "sığınmacıyı gurbetçiyi sevmeyen türk",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "sığınmacıyı gurbetçiyi sevmeyen türk",
+      "entry_id": "136953281",
+      "author": "goklerdengeleneksici",
+      "date": "03.05.2022 13:36",
+      "content": "sevmek zorunda mı?",
+      "has_external_url": false
+    },
+    {
+      "title": "sığınmacıyı gurbetçiyi sevmeyen türk",
+      "entry_id": "136953391",
+      "author": "omerfamd",
+      "date": "03.05.2022 13:39",
+      "content": "seven alsın evine, ekmeğini yatağını paylaşsın!\nbenim vergimi, ekmeğimi, toprağımı değil …",
+      "has_external_url": false
+    }
+  ]
+}

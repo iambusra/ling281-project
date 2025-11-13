@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:42:16.717156",
+    "total_entries": 1,
+    "input": "uganda'nın 1.5 milyon mülteciye kucak açması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "uganda'nın 1.5 milyon mülteciye kucak açması",
+      "entry_id": "139929459",
+      "author": "k hikayecisi",
+      "date": "13.07.2022 14:47",
+      "content": "neyse parası verelim gitsinler ugandaya da olur ruandaya da olur",
+      "has_external_url": false
+    }
+  ]
+}

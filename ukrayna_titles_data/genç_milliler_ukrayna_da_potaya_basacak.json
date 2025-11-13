@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:14:32.597281",
+    "total_entries": 4,
+    "input": "genç milliler ukrayna'da potaya basacak",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "genç milliler ukrayna'da potaya basacak",
+      "entry_id": "24483610",
+      "author": "kadit",
+      "date": "12.07.2011 18:05",
+      "content": "(bkz: biz kisaca ona pota diyoruz)",
+      "has_external_url": false
+    },
+    {
+      "title": "genç milliler ukrayna'da potaya basacak",
+      "entry_id": "24483702",
+      "author": "cemtakifriedchicken",
+      "date": "12.07.2011 18:14",
+      "content": "(bkz: arabada beş potada onbeş)",
+      "has_external_url": false
+    },
+    {
+      "title": "genç milliler ukrayna'da potaya basacak",
+      "entry_id": "24483726",
+      "author": "babamin sanatoryumu var",
+      "date": "12.07.2011 18:16",
+      "content": "(bkz: genç milliler ukrayna'da kılçıksız sokacak)",
+      "has_external_url": false
+    },
+    {
+      "title": "genç milliler ukrayna'da potaya basacak",
+      "entry_id": "24483763",
+      "author": "coolcrazy",
+      "date": "12.07.2011 18:19 ~ 18:20",
+      "content": "urfa'da yerel bir gazetede \" ukrayna takımını mını ha \" başlığıyla verilen haberdir.",
+      "has_external_url": false
+    }
+  ]
+}

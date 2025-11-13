@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:25:24.190387",
+    "total_entries": 3,
+    "input": "göçmenlerin beka sorunu haline gelmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "göçmenlerin beka sorunu haline gelmesi",
+      "entry_id": "148987456",
+      "author": "fak dedi sanirim",
+      "date": "10.02.2023 11:18",
+      "content": "depremde yasanan yagmalama, tehdit olaylari bir kez daha gosteriyor ki bu kural tanimaz, kaydi kuydu olmayan yasam formlari ulkemiz icin beka sorunu haline gelmistir.\n\nenkaz altindan insanlari kurtarmak ne kadar onemliyse, bunlardan kurtulmak da bir o kadar onemli. en kucuk bir otorite boslugunda gercek yuzlerini gosteriyorlar. umarim asker ve polisin gercekten vur emri vardir ve bu akbabalara gerekli sekilde muamele ederler.\n\nnevsinler hala pembe gotlu humanistik yapmaya devam etsinler.",
+      "has_external_url": false
+    },
+    {
+      "title": "göçmenlerin beka sorunu haline gelmesi",
+      "entry_id": "148987634",
+      "author": "nesedenyana",
+      "date": "10.02.2023 11:21",
+      "content": "artık görmezden gelinecek bir tarafı kalmamıştır.",
+      "has_external_url": false
+    },
+    {
+      "title": "göçmenlerin beka sorunu haline gelmesi",
+      "entry_id": "148988034",
+      "author": "korkusuz",
+      "date": "10.02.2023 11:28 ~ 11:30",
+      "content": "sorunu çözmek için önce doğru tanım yapmak ve teşhis etmek gerekir. göçmen ne, mülteci ne sığınmacı nedir? önce bunu çöz. suriyeliler, geçici koruma altındaki kişilerdir. o da yasal olarak burada bulunanlar. diğerlerine yasadışı mülteci/göçmen hatta işgalci diyebiliriz.",
+      "has_external_url": false
+    }
+  ]
+}

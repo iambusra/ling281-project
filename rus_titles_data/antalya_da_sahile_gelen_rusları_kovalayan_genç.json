@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:28:38.339185",
+    "total_entries": 1,
+    "input": "antalya'da sahile gelen rusları kovalayan genç",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "antalya'da sahile gelen rusları kovalayan genç",
+      "entry_id": "36775623",
+      "author": "cok kara kislar gordum",
+      "date": "08.09.2013 19:15",
+      "content": "eğer kendisi tek başına kovaladığı rusların yerine ülkeye döviz katkısı yapacaksa destek verdiğim genç.",
+      "has_external_url": false
+    }
+  ]
+}

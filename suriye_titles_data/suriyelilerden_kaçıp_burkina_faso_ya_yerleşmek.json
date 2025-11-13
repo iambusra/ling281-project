@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T16:04:56.720846",
+    "total_entries": 1,
+    "input": "suriyelilerden kaçıp burkina faso'ya yerleşmek",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelilerden kaçıp burkina faso'ya yerleşmek",
+      "entry_id": "93208448",
+      "author": "gunduzyuzlukadin",
+      "date": "29.07.2019 01:27",
+      "content": "bizim kaçaklarla korkaklarla işimiz yok. giden defolsun gitsin. bu ülke bize boşuna verilmedi. gerekirse suriyelilerle de kapışırız gücümüz yettiğince evelallah.",
+      "has_external_url": false
+    }
+  ]
+}

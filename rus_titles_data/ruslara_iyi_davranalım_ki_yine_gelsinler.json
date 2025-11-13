@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:29:50.598727",
+    "total_entries": 2,
+    "input": "ruslara iyi davranalım ki yine gelsinler",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ruslara iyi davranalım ki yine gelsinler",
+      "entry_id": "58687952",
+      "author": "angry engineer",
+      "date": "22.02.2016 12:03",
+      "content": "şu çağrıdan sonra apaçi kardeşlerimize büyük görevler düşüyor.",
+      "has_external_url": false
+    },
+    {
+      "title": "ruslara iyi davranalım ki yine gelsinler",
+      "entry_id": "58687993",
+      "author": "pageplant",
+      "date": "22.02.2016 12:05",
+      "content": "--- spoiler ---\n\nsen sorun yaşamasan daha kolay olmaz mıydı?\n\n--- spoiler ---",
+      "has_external_url": false
+    }
+  ]
+}

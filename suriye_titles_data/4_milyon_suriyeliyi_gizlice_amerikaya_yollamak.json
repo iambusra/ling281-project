@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:16:54.267511",
+    "total_entries": 4,
+    "input": "4 milyon suriyeliyi gizlice amerikaya yollamak",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "4 milyon suriyeliyi gizlice amerikaya yollamak",
+      "entry_id": "80337014",
+      "author": "tskitishvili",
+      "date": "16.08.2018 19:40",
+      "content": "mancınıkla mı fırlatıyoruz?\n\ngizli kismina takildigim fikir.",
+      "has_external_url": false
+    },
+    {
+      "title": "4 milyon suriyeliyi gizlice amerikaya yollamak",
+      "entry_id": "80337277",
+      "author": "gisaro",
+      "date": "16.08.2018 19:50",
+      "content": "konyalı bilim adamları insan ışınlamayı bulduğunda, gerçekleşek inşallah...",
+      "has_external_url": false
+    },
+    {
+      "title": "4 milyon suriyeliyi gizlice amerikaya yollamak",
+      "entry_id": "80337310",
+      "author": "zartparazurtpara",
+      "date": "16.08.2018 19:51",
+      "content": "gizliliğe takılanlar için tüp geçit öneriyorum. yapmayı öğrendik nede olasa izmirden başladıkmı tünelin ucu amerika.",
+      "has_external_url": false
+    },
+    {
+      "title": "4 milyon suriyeliyi gizlice amerikaya yollamak",
+      "entry_id": "80338810",
+      "author": "s3minili",
+      "date": "16.08.2018 20:43",
+      "content": "menşeimi hemen suriye yapma enter",
+      "has_external_url": false
+    }
+  ]
+}

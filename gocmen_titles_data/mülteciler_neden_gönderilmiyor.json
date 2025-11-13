@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:48:10.277417",
+    "total_entries": 1,
+    "input": "mülteciler neden gönderilmiyor",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "mülteciler neden gönderilmiyor",
+      "entry_id": "144794872",
+      "author": "enginaltanamudakalkan",
+      "date": "06.11.2022 22:55 ~ 22:56",
+      "content": "son zamanlardaki günden güne artan vatandaşlara hayatı zindan eden enflasyon, ev kiraları, gıda fiyatlarının mülteciler kendi ülkelerine gönderildikten sonra az da olsa düşeceğini biraz daha rahat nefes alacağımızı düşünüyorum. ülkede yüzlerce muhalif siyasetçi var ve sürekli bu durumu dillendiriliyorlar fakat hükümet tarafından mültecilerin gönderilmesi konusunda herhangi bir çözüm bulunmuyor. ülkedeki olumsuz olayların neredeyse tümünün altında yatan sebep bu olmasına rağmen ayda bir gündeme gelip kayboluyor. muhalefet liderlerinin bu konuda birleşip hükümete baskı uygulamaları gerekiyor ayrıca seçim öncesi ülkedeki sorunların çözümünü kolaylaştırmak adına muhalefet liderlerinin tek gündeminin bu olması gerek",
+      "has_external_url": false
+    }
+  ]
+}

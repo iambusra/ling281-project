@@ -1,0 +1,52 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:19:17.654266",
+    "total_entries": 5,
+    "input": "göçmenleri savunan türk vatandaşı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "göçmenleri savunan türk vatandaşı",
+      "entry_id": "138159199",
+      "author": "ssmm",
+      "date": "31.05.2022 18:52",
+      "content": "bu aralar çok denk gelmeye başladım babasını savunur gibi suri,afgan,paki savunuyor. siz aynı şartlarda onların ülkesine gitseniz bir kaşık suda boğarlar aptiler neyi savunuyorsunuz. türk'ün türk'ten başka dostu yoktur.",
+      "has_external_url": false
+    },
+    {
+      "title": "göçmenleri savunan türk vatandaşı",
+      "entry_id": "138160387",
+      "author": "superdede",
+      "date": "31.05.2022 19:23",
+      "content": "(bkz: vatan haini)",
+      "has_external_url": false
+    },
+    {
+      "title": "göçmenleri savunan türk vatandaşı",
+      "entry_id": "138160408",
+      "author": "marx i tecavuz eden redkit",
+      "date": "31.05.2022 19:23",
+      "content": "sonradan vatandaş olmuştur.",
+      "has_external_url": false
+    },
+    {
+      "title": "göçmenleri savunan türk vatandaşı",
+      "entry_id": "138160434",
+      "author": "martin sikertel",
+      "date": "31.05.2022 19:23",
+      "content": "adalet ve kalkınma partysine oy vermiş vatan sevdalısı turancı ve osmanlıcı, elinde türkiye bayrağı, dilinde vatan, gönlünde arapça yatan vatan fedaileri.\nreisleri için her an ölmeye hazır kahramanlar.",
+      "has_external_url": false
+    },
+    {
+      "title": "göçmenleri savunan türk vatandaşı",
+      "entry_id": "138160565",
+      "author": "ebekulak",
+      "date": "31.05.2022 19:27",
+      "content": "ahlaki ve insani olarak doğru şeyi yapmanın ulus, ırk, din gibi kafadan atma şeylerle alakası olmadığının farkında olan vatandaştır.",
+      "has_external_url": false
+    }
+  ]
+}

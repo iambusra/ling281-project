@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:30:23.410477",
+    "total_entries": 1,
+    "input": "ruslardaki tek adam aşkı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ruslardaki tek adam aşkı",
+      "entry_id": "134204139",
+      "author": "cengoverlerden",
+      "date": "25.02.2022 17:02",
+      "content": "adamların tarihi hep böyle olmuş, çarlar, deli petrolar, lenin, stalin, şimdi de putin. tabii her rus böyle düşünmüyordur ancak nedir bu votkacıların tek adam aşkı? kaynağı nedir?",
+      "has_external_url": false
+    }
+  ]
+}

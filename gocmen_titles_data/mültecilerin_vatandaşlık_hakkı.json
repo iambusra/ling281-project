@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:55:23.786621",
+    "total_entries": 3,
+    "input": "mültecilerin vatandaşlık hakkı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "mültecilerin vatandaşlık hakkı",
+      "entry_id": "139297359",
+      "author": "laparoma alba",
+      "date": "27.06.2022 21:26",
+      "content": "özellikle ırak ve suriyeden gelen mülteciler yıllardır bu ülkede misafir statüsünde yaşıyorlar ve bu iki ülke de pek normale dönecek gibi görünmüyor. ülkemize sığınan bu mülteciler burada çocuk sahibi oluyor, evlenip boşanıyor, iş kuruyor, işçi çalıştırıyor, ticari faaliyetlerde bulunuyor fakat bu insanların çok büyük bir kesiminin vatandaşlığı yok.\nayrıca bu insanlar tüketimleri yoluyla birçok dolaylı vergi ödeyerek ülkeye katkıda da bulunuyor.\n\nartık türkiye’nin en azından suriye ve ırak kökenli kişilere vatandaşlık vermeyi düşünmesi gerektiği kanısındayım. sonuçta bugüne kadar 400 bin doları olana verilebilen bu kimlik bugün de parası olmayan ama bu ülkeye inanan insanlara da sunulmalı. kaldı ki bu insanlar türkiye’nin bu jestini asla unutmayacaktır.",
+      "has_external_url": false
+    },
+    {
+      "title": "mültecilerin vatandaşlık hakkı",
+      "entry_id": "139297656",
+      "author": "senersongur",
+      "date": "27.06.2022 21:34",
+      "content": "yoktur.\n\ntürkiye'de son 20 senede havadan vatandaş yapılanların da hepsi iptal edilmelidir.",
+      "has_external_url": false
+    },
+    {
+      "title": "mültecilerin vatandaşlık hakkı",
+      "entry_id": "139301096",
+      "author": "sahte bioteknolog",
+      "date": "27.06.2022 22:53",
+      "content": "mülteci istiyor vatandaşlık.\nbiz diyoruz nau nau.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:05:03.730864",
+    "total_entries": 4,
+    "input": "7 ağustos 2022 sığınmacıların asker şehit etmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "7 ağustos 2022 sığınmacıların asker şehit etmesi",
+      "entry_id": "141008231",
+      "author": "zamanin otesinden gelen seyyah",
+      "date": "07.08.2022 21:19",
+      "content": "(bkz: 7 ağustos 2022 maraş sığınmacı isyanı)",
+      "has_external_url": false
+    },
+    {
+      "title": "7 ağustos 2022 sığınmacıların asker şehit etmesi",
+      "entry_id": "141008341",
+      "author": "amerikan popechku",
+      "date": "07.08.2022 21:22",
+      "content": "kötüdür",
+      "has_external_url": false
+    },
+    {
+      "title": "7 ağustos 2022 sığınmacıların asker şehit etmesi",
+      "entry_id": "141008471",
+      "author": "ziplayankaplan",
+      "date": "07.08.2022 21:25",
+      "content": "(bkz: vur emri)",
+      "has_external_url": false
+    },
+    {
+      "title": "7 ağustos 2022 sığınmacıların asker şehit etmesi",
+      "entry_id": "141008707",
+      "author": "franzprometh",
+      "date": "07.08.2022 21:30",
+      "content": "allah sığınmacısının da sebep olanlarının da belasını versin!!",
+      "has_external_url": false
+    }
+  ]
+}

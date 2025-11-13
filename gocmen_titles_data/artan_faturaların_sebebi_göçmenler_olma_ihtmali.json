@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:17:48.647625",
+    "total_entries": 1,
+    "input": "artan faturaların sebebi göçmenler olma ihtmali",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "artan faturaların sebebi göçmenler olma ihtmali",
+      "entry_id": "127142368",
+      "author": "gregorpanpa",
+      "date": "20.08.2021 20:43",
+      "content": "artan elektrik faturalarının sebebinin göçmenler olma ihtimali olacaktı başlık sığmadı, neyse siz anladınız.\n\nson zamanlar artan göçmenler, kayıt dışı yaşayanlar dolayısı ile kaçak elektrik kullanımının artması sonucu olma ihtimalini düşündüğüm hadisedir öyledir demiyorum, sadece mantık kurdum.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:02:11.479380",
+    "total_entries": 1,
+    "input": "uruguay'ın türk sığınmacıları kabul etmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "uruguay'ın türk sığınmacıları kabul etmesi",
+      "entry_id": "54321361",
+      "author": "betada don bebegim yok diye uye oldum",
+      "date": "26.08.2015 16:38",
+      "content": "gerçekleşmesi rüya haberdir. alsanıza lan bizi. şş.",
+      "has_external_url": false
+    }
+  ]
+}

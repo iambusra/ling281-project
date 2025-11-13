@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:16:14.363459",
+    "total_entries": 4,
+    "input": "rusya-ukrayna savaşına almanya'nın safında girmek",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rusya-ukrayna savaşına almanya'nın safında girmek",
+      "entry_id": "40837163",
+      "author": "yasafenerbahce",
+      "date": "03.03.2014 01:02",
+      "content": "çekirgenin üçüncü kere sıçramasında başarısız olmasından dolayı doğru bir eylemdir. bir yenilir, iki yenilir üçüncüde almanlar yenilmez. böbreği sat, almanlara bas.",
+      "has_external_url": false
+    },
+    {
+      "title": "rusya-ukrayna savaşına almanya'nın safında girmek",
+      "entry_id": "40837183",
+      "author": "alternative4",
+      "date": "03.03.2014 01:03",
+      "content": "almanya'nın savaşı kaybetmesi durumunda otomatik olarak bizim de kaybedeceğimiz durumdur.",
+      "has_external_url": false
+    },
+    {
+      "title": "rusya-ukrayna savaşına almanya'nın safında girmek",
+      "entry_id": "40837458",
+      "author": "drsoldier",
+      "date": "03.03.2014 01:14 ~ 01:18",
+      "content": "biz ne gireceğiz almanya'nın safında; o bizim safımızda girsin dediğim savaştır. zira biz über, fantastik, acayip bir süper gücüz.\nreklamları izlemiyorsunuz galiba",
+      "has_external_url": false
+    },
+    {
+      "title": "rusya-ukrayna savaşına almanya'nın safında girmek",
+      "entry_id": "40837476",
+      "author": "le fougueux",
+      "date": "03.03.2014 01:15",
+      "content": "(bkz: yurtdışında türk olduğunu belli etmenin yolları)",
+      "has_external_url": false
+    }
+  ]
+}

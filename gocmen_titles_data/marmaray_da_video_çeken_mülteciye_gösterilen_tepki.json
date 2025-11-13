@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:42:19.416697",
+    "total_entries": 4,
+    "input": "marmaray'da video çeken mülteciye gösterilen tepki",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "marmaray'da video çeken mülteciye gösterilen tepki",
+      "entry_id": "137438630",
+      "author": "bana yapma deme",
+      "date": "14.05.2022 19:19 ~ 19:42",
+      "content": "link\nyıllarca yurt dışında yaşadım, böyle ilkel yaratıklar görmedim. video çekmek nedir ya? bir ülkede yabancıysan hareketlerine yerlisinden daha çok dikkat edersin. bunlardaki fütursuzluk gerçekten enteresan.\n“suç olduğunu bilmiyorlar” diyorlar ya, madem suç olduğunu bilmiyorlar, neden gizli gizli çekiyorlar?",
+      "has_external_url": true
+    },
+    {
+      "title": "marmaray'da video çeken mülteciye gösterilen tepki",
+      "entry_id": "137438728",
+      "author": "esse classic",
+      "date": "14.05.2022 19:22",
+      "content": "(bkz: yetmez ama evet)\n\nolm madem güvenliğe teslim edeceksiniz ne diye artislik yapıyorsunuz?",
+      "has_external_url": false
+    },
+    {
+      "title": "marmaray'da video çeken mülteciye gösterilen tepki",
+      "entry_id": "137438739",
+      "author": "akrep yelkovan",
+      "date": "14.05.2022 19:23",
+      "content": "inşallah bizim gençlere suç isnat etmezler.",
+      "has_external_url": false
+    },
+    {
+      "title": "marmaray'da video çeken mülteciye gösterilen tepki",
+      "entry_id": "137438807",
+      "author": "lucaspero",
+      "date": "14.05.2022 19:25",
+      "content": "bir iki tane vursaydınız keşke aq cocuğuna",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:16:43.271930",
+    "total_entries": 1,
+    "input": "kamyonlarla bağdat caddesine bırakılan göçmenler",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "kamyonlarla bağdat caddesine bırakılan göçmenler",
+      "entry_id": "148705777",
+      "author": "o durusa bir vurus kac kurus",
+      "date": "06.02.2023 22:55",
+      "content": "istanbulda oturduğumuz site yöneticisinden gelen mesaj üzerine öğrendiğim durum. bir yandan depreme üzülürken bir yandan bağdat caddesinin göbeğinde suadiye de böyle bir riskle burun buruna olmaya diyecek bir şey bulamıyorum. bu bölgede oturup yarın çocuğu okula gidecek herkes dikkatli olsun… yarın bir gün olması muhtemel istanbul depreminde başımıza gelebilecekleri düşünmek bile istemiyorum.\n\ngelen mesaj; “bostancı köprüsü bağdat caddesi yönü plakasız 3 tırdan 150 civarı afgan uyruklu göçmen bırakılmıştır.35 kadarı yakalanmış olup geri kalanı kaçmıştır.yakalanan göçmenlerin çoğu apartmanların giriş katlarındaki dairelere girmeye çalışırken yakalanmıştır.civarda oturan arkadaşlarımdan dikkatli olmasını rica ederim.\"",
+      "has_external_url": false
+    }
+  ]
+}

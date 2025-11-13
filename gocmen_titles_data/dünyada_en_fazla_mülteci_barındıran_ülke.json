@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:39:47.752782",
+    "total_entries": 1,
+    "input": "dünyada en fazla mülteci barındıran ülke",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "dünyada en fazla mülteci barındıran ülke",
+      "entry_id": "165913853",
+      "author": "seven years in tibet",
+      "date": "02.07.2024 02:00 ~ 02:10",
+      "content": "yavaş yavaş ısıtılan kurbağa misali, başına gelen bütün felaketlere rağmen ses çıkartmamaya alıştırılmış bir halkın ülkesidir.\n\nülkesinin kadınları, çocukları ve hatta hayvanları bile işgalciler yüzünden sokakta rahat yürüyemezken, başını kuma gömen bir topluma dönüşmüş insanların yaşadığı ülkedir aynı zamanda.\n\nancak tüm uyuyanları uyandırmak için bir uyanık yeter. türk bayrağına tekbirlerle saldıran hainlerin görüntüsü asla unutulmayacaktır. link",
+      "has_external_url": true
+    }
+  ]
+}

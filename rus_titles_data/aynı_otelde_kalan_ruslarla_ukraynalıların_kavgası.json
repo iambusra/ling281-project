@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:30:56.490347",
+    "total_entries": 1,
+    "input": "aynı otelde kalan ruslarla ukraynalıların kavgası",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "aynı otelde kalan ruslarla ukraynalıların kavgası",
+      "entry_id": "149358487",
+      "author": "no christ requires",
+      "date": "16.02.2023 13:46",
+      "content": "antalya'daki aynı otele yerleştirilen rus ve ukraynalı futbolcuların arasında kemik kırmalı kavga çıkması olayı.\n\notele ve acentaya nobel barış ödülü verilmeli\n\nhttps://twitter.com/…?t=1nu9_2d4tliigdxmbngtxw&s=19",
+      "has_external_url": true
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T13:49:16.697939",
+    "total_entries": 1,
+    "input": "11 aralık 2017 rusya'nın suriye'den çekilmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "11 aralık 2017 rusya'nın suriye'den çekilmesi",
+      "entry_id": "72743342",
+      "author": "kirik sandalye",
+      "date": "11.12.2017 14:48 ~ 14:49",
+      "content": "taşların yerine oturmaya başladığının habercisi olan çekilme. afrin'e girip amerikan itlerini oradan atmamız yakındır.\n\nhttp://www.haberturk.com/…e-surpriz-ziyaret-1750254",
+      "has_external_url": true
+    }
+  ]
+}

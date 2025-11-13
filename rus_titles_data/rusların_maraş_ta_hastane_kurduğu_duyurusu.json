@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:33:49.721243",
+    "total_entries": 1,
+    "input": "rusların maraş'ta hastane kurduğu duyurusu",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rusların maraş'ta hastane kurduğu duyurusu",
+      "entry_id": "148928067",
+      "author": "may76",
+      "date": "09.02.2023 17:13",
+      "content": "lütfen yayalım herkes bilgilensin",
+      "has_external_url": false
+    }
+  ]
+}

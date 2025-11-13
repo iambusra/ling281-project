@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:52:29.525091",
+    "total_entries": 3,
+    "input": "mültecilerle evlenenlerin sınır dışı edilmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "mültecilerle evlenenlerin sınır dışı edilmesi",
+      "entry_id": "170109658",
+      "author": "chabalala",
+      "date": "12.11.2024 19:27",
+      "content": "trump seçildikten sonra sınır çarı (border czar) olarak görevlendirdiği (bkz: tom homan)'a mültecileri göndereceksiniz ama bunlardan bazıları amerikan vatandaşlarıyla evli. aileleri bölecek misiniz diye soruyorlar. adam aileleri bölmeyiz \"aileleriyle birlikte gönderebiliriz.\" diyor. kahkaha attım.\nhaber linki şurada",
+      "has_external_url": true
+    },
+    {
+      "title": "mültecilerle evlenenlerin sınır dışı edilmesi",
+      "entry_id": "170109837",
+      "author": "mountain view",
+      "date": "12.11.2024 19:34",
+      "content": "ümit özdağ'ın abd şubesi heralde tom reis.",
+      "has_external_url": false
+    },
+    {
+      "title": "mültecilerle evlenenlerin sınır dışı edilmesi",
+      "entry_id": "170109867",
+      "author": "komedya",
+      "date": "12.11.2024 19:36",
+      "content": "tr'de yapılacak sandım. afganlarla evlenen kızlar üzülürdü.",
+      "has_external_url": false
+    }
+  ]
+}

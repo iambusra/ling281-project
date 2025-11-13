@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:04:12.783244",
+    "total_entries": 1,
+    "input": "sığınmacıların gönderilmeme inadının sebebi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "sığınmacıların gönderilmeme inadının sebebi",
+      "entry_id": "165888459",
+      "author": "kececiazmi",
+      "date": "01.07.2024 13:11",
+      "content": "ülkemiz yönetiminin ve karar vericilerin ısrarla sürdürdüğü davranış modeline yol açan etkenlerdir. sebepler hakkında tanım yapılmamıştır çünkü bu sebeplerin ne olduğunun normal bir vatandaş ekseninde hiçbir mantıklı açıklaması yoktur. ab'den alınan fonlar, destekler gibi unsurlar da durumu açıklamak için yeterli değildir çünkü bir ülkenin demografik yapısı ve kültürel kodları para karşılığı bozulamayacak kadar değerlidir.\n\nelimizde bu kadar koz varken, bardağı taşıran son damlalar cereyan etmişken tam olarak neyi bekliyorsunuz? hala neyin imtiyazı bu?",
+      "has_external_url": false
+    }
+  ]
+}

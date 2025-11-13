@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:22:20.695282",
+    "total_entries": 1,
+    "input": "7 temmuz 2022 suriyelinin röportaji",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "7 temmuz 2022 suriyelinin röportaji",
+      "entry_id": "139704536",
+      "author": "intotherain",
+      "date": "07.07.2022 18:42",
+      "content": "ya şunları görünce halen bir insan nasıl akp ye oy verebilir diyorsun sonra mikrofona bundan daha beter türk vatandaşı geliyor, o an anlıyorsun ki bunlar olması gerektikleri yerdeler ben yanlış yerdeyim amk.",
+      "has_external_url": false
+    }
+  ]
+}

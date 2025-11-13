@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:15:38.303549",
+    "total_entries": 2,
+    "input": "san marino'nun ukrayna'dan 9 gol yemesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "san marino'nun ukrayna'dan 9 gol yemesi",
+      "entry_id": "36729143",
+      "author": "cepsiz kanguru",
+      "date": "06.09.2013 23:18",
+      "content": "satılmış medyanın hemen takımımız üstünde oyunlar oynamaya başlamasına neden oldu. giampaolo mazza'yı bu takımdan koparamazlar.",
+      "has_external_url": false
+    },
+    {
+      "title": "san marino'nun ukrayna'dan 9 gol yemesi",
+      "entry_id": "36729210",
+      "author": "spss",
+      "date": "06.09.2013 23:20",
+      "content": "(bkz: köpeğin insanı ısırması haber değildir)",
+      "has_external_url": false
+    }
+  ]
+}

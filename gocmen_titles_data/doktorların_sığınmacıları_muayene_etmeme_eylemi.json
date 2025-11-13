@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:01:04.239176",
+    "total_entries": 4,
+    "input": "doktorların sığınmacıları muayene etmeme eylemi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "doktorların sığınmacıları muayene etmeme eylemi",
+      "entry_id": "139665739",
+      "author": "boslama",
+      "date": "06.07.2022 20:26",
+      "content": "asıl yapılması gereken eylem.\n\nsığınmacılara karşı topyekûn eylemler gerçekleşmedikçe sorun derinleşecek ve hükümet kimseyi sallamadan sığınmacıları ülkeye doldurmaya devam edecek.\n\nben şahsım adına kendi sektörümde bunu yapacağım. belki atılırım ama yapacağım. sadece söylenmek istemiyorum, haber olursam editlerim.",
+      "has_external_url": false
+    },
+    {
+      "title": "doktorların sığınmacıları muayene etmeme eylemi",
+      "entry_id": "139665848",
+      "author": "uykusuzbiri",
+      "date": "06.07.2022 20:30",
+      "content": "bir doktordan bunu yapmasını istemek çok saçma. doktor vazifesi gereği insan ayrımı yapamaz. bunu çözmesi gerekenler bu sorunu yaratanlar olmalı.",
+      "has_external_url": false
+    },
+    {
+      "title": "doktorların sığınmacıları muayene etmeme eylemi",
+      "entry_id": "139665925",
+      "author": "sedat kapamayanoglu",
+      "date": "06.07.2022 20:32",
+      "content": "allah kimseyi bu başlığı açacak kadar mal etmesin. oldu olacak auschwitz gibi bir toplama kampı kuralım diri diri yakalım insanları?",
+      "has_external_url": false
+    },
+    {
+      "title": "doktorların sığınmacıları muayene etmeme eylemi",
+      "entry_id": "139666388",
+      "author": "nickulaniste",
+      "date": "06.07.2022 20:46",
+      "content": "yapamaz, yapmamalı. etik değil. meslek yeminine aykırı. bunu istemek de etik değil.\n\nha yapanı çıkar mı? kendi bilir. önce yargıya sonra mesleki etik kuruluna (tabip odası) hesap verir.",
+      "has_external_url": false
+    }
+  ]
+}

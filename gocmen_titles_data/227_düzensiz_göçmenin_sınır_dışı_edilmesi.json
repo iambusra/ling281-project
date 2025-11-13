@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:14:42.828051",
+    "total_entries": 2,
+    "input": "227 düzensiz göçmenin sınır dışı edilmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "227 düzensiz göçmenin sınır dışı edilmesi",
+      "entry_id": "138951587",
+      "author": "duodenum ulseri",
+      "date": "19.06.2022 12:57 ~ 13:01",
+      "content": "beynimize kazınan mülteci kelimesini kelime dağarcığımızdan çıkarmak için akp ve medya el ele verip düzensiz göçmen yaptılar. resmen eğitimsiz kesimin bilinç altına sanki daha farklı bişeymiş gibi lanse ettirmeye çalışıyorlar.",
+      "has_external_url": false
+    },
+    {
+      "title": "227 düzensiz göçmenin sınır dışı edilmesi",
+      "entry_id": "138951591",
+      "author": "kesinlikle dengesizim",
+      "date": "19.06.2022 12:57 ~ 12:58",
+      "content": "çoban değillermiş herhalde.\n\n(bkz: süleyman soylu'nun tarım devrimi projesi)",
+      "has_external_url": false
+    }
+  ]
+}

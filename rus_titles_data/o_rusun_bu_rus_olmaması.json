@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:25:43.292090",
+    "total_entries": 1,
+    "input": "o rusun bu rus olmaması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "o rusun bu rus olmaması",
+      "entry_id": "163519056",
+      "author": "nowaja zemlja",
+      "date": "16.04.2024 20:17",
+      "content": "acayip bir durum.",
+      "has_external_url": false
+    }
+  ]
+}

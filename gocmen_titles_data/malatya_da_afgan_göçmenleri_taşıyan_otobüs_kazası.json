@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:19:53.310560",
+    "total_entries": 2,
+    "input": "malatya'da afgan göçmenleri taşıyan otobüs kazası",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "malatya'da afgan göçmenleri taşıyan otobüs kazası",
+      "entry_id": "125965291",
+      "author": "andrew wyke",
+      "date": "21.07.2021 19:13 ~ 22.07.2021 00:44",
+      "content": "kaynak: https://www.ntv.com.tr/…andi,6q8ekon600o6dxwaoco1wg\n\nedit/yeni kaynaklar: https://www.haberturk.com/…nler-kaza-yerinden-kacti\n\nhttps://www.hurriyet.com.tr/…-yakalandilar-41857411\n\nntv'den kaynak vermek pek hoşuma gitmiyor ama burada dikkat çekmek istediğim husus başka. fotoğrafları birazcık incelediğinizde otobüsün (bkz: metro turizm)'e ait olduğu görülebiliyor. hadi afganlar sınırdan iranlıların yardımıyla bir şekilde geçiyor dedik, kabul ettik diyelim (bkz: demiyoruz elbette), ülke içinde bu afganları iç anadoluya, batıya, marmaya taşıyanlar kim? göründüğü üzere metro turizm bunlardan biri.\n\nedit: google'dan kısa bir aramayla siz de bulabilirsiniz ama buyrun metro suits yazan araçlar; görsel\n\nnot: arkadaşların belirttiği üzere, kimliksiz ve hatta türkçe bile konuşamayan yolcuların van sınırlarından alınıp iç anadoluya taşınması olayı. burada asıl suçlu şoför ve muavindir diyeceklerine %100 eminim, aksini de zaten kanıtlayamam ama bu firmadan her şeyin beklenebileceğini de zaten hepimiz biliyoruz.",
+      "has_external_url": true
+    },
+    {
+      "title": "malatya'da afgan göçmenleri taşıyan otobüs kazası",
+      "entry_id": "125966389",
+      "author": "akrep yelkovan",
+      "date": "21.07.2021 19:53",
+      "content": "şimdi biz otobüs bileti almak istesek tc kimlik numarası olmadan bize bilet kesemiyorlar. bu kişileri kaçak olarak taşıyanların ceza alması gereken oley.",
+      "has_external_url": false
+    }
+  ]
+}

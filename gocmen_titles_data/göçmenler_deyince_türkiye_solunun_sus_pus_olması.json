@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:17:18.222710",
+    "total_entries": 1,
+    "input": "göçmenler deyince türkiye solunun sus pus olması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "göçmenler deyince türkiye solunun sus pus olması",
+      "entry_id": "137060103",
+      "author": "serbesti",
+      "date": "05.05.2022 21:04",
+      "content": "öğretici bir çelişkidir. ibretliktir\n\n(ancak birkaç istisnası var, haksızlık olmasın)",
+      "has_external_url": false
+    }
+  ]
+}

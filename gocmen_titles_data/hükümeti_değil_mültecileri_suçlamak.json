@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:50:10.560506",
+    "total_entries": 1,
+    "input": "hükümeti değil mültecileri suçlamak",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "hükümeti değil mültecileri suçlamak",
+      "entry_id": "137224906",
+      "author": "hem siz ne bilirsiniz ki",
+      "date": "09.05.2022 12:57",
+      "content": "kendisini bu ülkenin umudu olarak pazarlayan küçük siyasi partilerce gerçekleştirilen faaliyet.\n\noysa akp'ye yahut akp'nin küçük ortağı mhp'ye yönelik hiçbir tepki göstermeden ve hatta karşılarında saygıyla eğilerek, sadece mültecileri suçlamanın hiçbir anlamı yok. mülteciler bu ülkeye zorla girmedi, iktidar ortaklarının onayı ve hatta çağrısı ile geldiler. taciz, tecavüz, hırsızlık gibi suçlara karışanlar elbette cezalandırılmalı ancak ayırmadan tüm mültecileri şeytanlaştırmak, ortamı gererek iktidarın isteği siyasi koşulları oluşturmaya hizmet etmektir.",
+      "has_external_url": false
+    }
+  ]
+}

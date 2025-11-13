@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:43:07.637827",
+    "total_entries": 1,
+    "input": "datça'da 22 mültecinin denizden kurtarılması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "datça'da 22 mültecinin denizden kurtarılması",
+      "entry_id": "176635683",
+      "author": "yakin mesafe",
+      "date": "07.07.2025 23:12",
+      "content": "\"sahil güvenlik komutanlığı ekipleri, dün saat 03.30 sıralarında içerisinde düzensiz göçmenlerin olduğu lastik botun motor arızası nedeniyle sürüklendiği ve yardım talebinde bulunulduğu ihbarını aldı. ihbar üzerine bölgeye hareket eden sahil güvenlik komutanlığı ekipleri tarafından bot içerisindeki 22 düzensiz göçmen kurtarıldı. kıyıya çıkartılan düzensiz göçmenler işlemlerinin ardından muğla il göç idaresi müdürlüğü'ne teslim edildi.\"\n\nhttps://www.dha.com.tr/…z-gocmen-kurtarildi-2674020",
+      "has_external_url": true
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:10:10.258206",
+    "total_entries": 1,
+    "input": "bulgaristan göçmeni düğünleri",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "bulgaristan göçmeni düğünleri",
+      "entry_id": "128288101",
+      "author": "k 1 f",
+      "date": "21.09.2021 19:12 ~ 19:13",
+      "content": "azis şarkıları başta olmak üzere bol bol hareketleri müziklerin çaldığı düğünler. genelde fena içiyorlar ve oynuyorlar bulgaristan göçmenleri düğünlerinde. payduşka diye bir halayları var onu sevmedim ama. zaten ilk defa gittim düğünlerine, genel itibariyle eğlenceliydi.",
+      "has_external_url": false
+    }
+  ]
+}

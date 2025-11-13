@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:17:02.078500",
+    "total_entries": 1,
+    "input": "göçmenler sayesinde yemek seçeneklerinin artması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "göçmenler sayesinde yemek seçeneklerinin artması",
+      "entry_id": "138498952",
+      "author": "kingkrule",
+      "date": "08.06.2022 16:09 ~ 16:12",
+      "content": "ülkemize misafir olarak gelen göçmen misafirlerimiz sayesinde yıllardır aynı şeyleri yemekten kurtulduk artık. mantısı olsun falafeli humusu birbirinden sağlıklı ve besleyici ürünler giriyor midemize. umarım pakistan ve hindistanlı misafirlerimiz de sayıca artarsa dünyanın bu en güzel mutfaklarını da doya doya tüketebiliriz. evet belki new york'a gidemedik ama new york bizim ayağımıza geldi artık bize kalansa bu multiculti şehrin tadını çıkarmak.",
+      "has_external_url": false
+    }
+  ]
+}

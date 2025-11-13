@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:24:43.406534",
+    "total_entries": 4,
+    "input": "abd'ye gitmek isteyen göçmenlerin yola çıkması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "abd'ye gitmek isteyen göçmenlerin yola çıkması",
+      "entry_id": "158531046",
+      "author": "sanchez morales",
+      "date": "07.11.2023 00:38 ~ 00:39",
+      "content": "venezuela, küba, meksika ve houndras gibi çok sayıda güvey amerika ülkesinde yaşayan ve yoksulluk, enflasyon ve kötü yaşam koşulları nedeniyle abd'de kendine yeni bir hayat kurmak isteyen binlerce muhacirin amerikan hudutuna doğru harekete geçmesi durumudur.\n\n--- spoiler ---\n\nküba, el salvador, guatemala, haiti, honduras ve venezuela halkı ülkelerindeki yoksulluk ve siyasi istikrarsızlık nedeniyle meksika'nın güneyinden abd'ye gitmek üzere yola çıktı. göçmen akınıyla karşı karşıya kalan abd, durumu kontrol altına almaya çalışıyor.\n\n--- spoiler ---\n\nkaynak burada",
+      "has_external_url": true
+    },
+    {
+      "title": "abd'ye gitmek isteyen göçmenlerin yola çıkması",
+      "entry_id": "158531150",
+      "author": "khal joe",
+      "date": "07.11.2023 00:41",
+      "content": "onlara kötü bir haber vermek istemem ama bu yoldan bir göçle hayatlarında bulundukları konum dışında pek bir değişim gerçekleşmeyecek.",
+      "has_external_url": false
+    },
+    {
+      "title": "abd'ye gitmek isteyen göçmenlerin yola çıkması",
+      "entry_id": "158531243",
+      "author": "eurasia",
+      "date": "07.11.2023 00:44",
+      "content": "biden başta iken çok rahat sınırdan geçerler.\ntrump başta olsa idi o iş zordu. çeker vururdu trump.",
+      "has_external_url": false
+    },
+    {
+      "title": "abd'ye gitmek isteyen göçmenlerin yola çıkması",
+      "entry_id": "158531879",
+      "author": "dergul",
+      "date": "07.11.2023 01:06",
+      "content": "yeni birşey değil. karteller, yıllardır bunun ekmeğini çok güzel yiyorlar.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:27:53.916601",
+    "total_entries": 3,
+    "input": "motosikletle ayı taşıyan ruslar",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "motosikletle ayı taşıyan ruslar",
+      "entry_id": "69538087",
+      "author": "dreamfactory",
+      "date": "16.07.2017 19:03",
+      "content": "ailecek misafirliğe gidiyorlar, motorla gitmekle en doğrusunu yapıyorlar. hiçbir taksi almaz bunları.\n\n(bkz: bir soğuk ayranını içmeye geldik)",
+      "has_external_url": false
+    },
+    {
+      "title": "motosikletle ayı taşıyan ruslar",
+      "entry_id": "69538116",
+      "author": "mockdeath",
+      "date": "16.07.2017 19:04",
+      "content": "3 tane ayı gördüğüm, rusları göremediğim taşıma.",
+      "has_external_url": false
+    },
+    {
+      "title": "motosikletle ayı taşıyan ruslar",
+      "entry_id": "69564409",
+      "author": "gercekelektronik",
+      "date": "17.07.2017 20:46",
+      "content": "o da ne güzel uslu uslu duruyor. kerata nasıl da sevimli...",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:45:31.003983",
+    "total_entries": 2,
+    "input": "mültecinin gelişmişlik göstergesi olması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "mültecinin gelişmişlik göstergesi olması",
+      "entry_id": "93290826",
+      "author": "casasola",
+      "date": "31.07.2019 00:04",
+      "content": "vallah de gurban, essah mı diyisen!",
+      "has_external_url": false
+    },
+    {
+      "title": "mültecinin gelişmişlik göstergesi olması",
+      "entry_id": "93291244",
+      "author": "demoksil",
+      "date": "31.07.2019 00:12",
+      "content": "yanlış önerme.\n\njordan times gazetesinin 2016 tarihli haberine göre, ürdün'de 2.9 milyon burda; lübnan'da da birleşmiş milletler mülteciler yüksek komiserliğine göre 1 milyon dolayında kayıtlı mülteci var.\n\nkayıtsızlardan bahsedilmiyor bile. götümüzden gelişmişlik uydurmayan bireyler olmalıyız.",
+      "has_external_url": true
+    }
+  ]
+}

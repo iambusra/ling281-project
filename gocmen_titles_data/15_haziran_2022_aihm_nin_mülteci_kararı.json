@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T00:00:19.395809",
+    "total_entries": 1,
+    "input": "15 haziran 2022 aihm'nin mülteci kararı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "15 haziran 2022 aihm'nin mülteci kararı",
+      "entry_id": "138799899",
+      "author": "egeyam",
+      "date": "15.06.2022 18:16 ~ 18:23",
+      "content": "dün gerçekleşendir. aihm ingiltere'nin sığınmacıları ruanda'ya gönderme uygulaması kapsamında dün kalkacak olan ilk uçağı durdurdu.\n\nhaberin ilgili kısmı:\n\n\"a ruling by the european court of human rights effectively halted the deportations, dealing a significant blow to a new migration plan outlined by prime minister boris johnson, whose government has been embarrassed by the arrival of asylum seekers crossing into britain from france on small boats.\n\nan aircraft, chartered at a cost of £500,000, according to british media reports, had been readied to take off from a military airport late tuesday. but after a series of legal judgments, it did not leave on the 4,000-mile journey to rwanda.\n\nalthough britain is no longer a member of the european union, it is a member of the council of europe and a signatory to the european convention on human rights, and therefore accepts judgments from the european court of human rights, which is based in strasbourg, france.\"\n\nhttps://www.nytimes.com/…asylum-seekers-rwanda.html",
+      "has_external_url": true
+    }
+  ]
+}

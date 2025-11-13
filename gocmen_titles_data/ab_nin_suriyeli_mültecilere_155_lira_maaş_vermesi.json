@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:51:16.159004",
+    "total_entries": 1,
+    "input": "ab'nin suriyeli mültecilere 155 lira maaş vermesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ab'nin suriyeli mültecilere 155 lira maaş vermesi",
+      "entry_id": "137837037",
+      "author": "bicibicici",
+      "date": "24.05.2022 08:01",
+      "content": "içişleri bakan yardımcısı ismail çataklı, dün gece katıldığı tv programında açıklamalarda bulundu. avrupa birliği kişi başı 155 tl veriyor. 1.200 tl iddiaları gerçek değil, yalan! öyle bir şey yok. hiç kimseye maaş falan verilmiyor. biz kimseye toki'den ev vermiyoruz, kimse ayrıcalıklı olarak sağlık hizmetlerinden yararlanmıyor.\n\nhaber",
+      "has_external_url": true
+    }
+  ]
+}

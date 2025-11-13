@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:26:26.302782",
+    "total_entries": 2,
+    "input": "göçmenlerin dünyanın başına bela olması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "göçmenlerin dünyanın başına bela olması",
+      "entry_id": "103365014",
+      "author": "denizekiyisiolan",
+      "date": "11.03.2020 19:58",
+      "content": "dünyanın göçmenlerin başına bela olması*",
+      "has_external_url": false
+    },
+    {
+      "title": "göçmenlerin dünyanın başına bela olması",
+      "entry_id": "119744174",
+      "author": "thedepressedperson",
+      "date": "18.02.2021 23:10",
+      "content": "bela olan göçmenler değildir. asıl bela, doymak bilmeyen zenginlerdir. artık bu yüzyılda göçmen sorunu değil, sınırların varlığını tartışmalıyız. eğer kaynaklar herkese adaletli dağıtılsa, insanlar çalışıp kazanıp, insani koşullarda yaşayabilseydi; ne ülkeler arası sınırlara, ne vize, ne göçmenlik hiçbiri olmazdı. insanlar sadece daha iyi bir hayat için ülke değiştirme ihtiyacı hissetmezdi. vizesiz istediğimiz ülkeye seyahat edebilirdik. başka bir ülkede yaşamak istediğimizde, doğduğumuz ülke nedeniyle küçük görülmezdik. yani asıl sorun, dünyayı yöneten koca başların insanları göçmenliğe zorlamasıdır.",
+      "has_external_url": false
+    }
+  ]
+}

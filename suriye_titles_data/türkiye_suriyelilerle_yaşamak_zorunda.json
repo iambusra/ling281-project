@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T16:10:32.178153",
+    "total_entries": 1,
+    "input": "türkiye suriyelilerle yaşamak zorunda",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türkiye suriyelilerle yaşamak zorunda",
+      "entry_id": "126160895",
+      "author": "deanmc",
+      "date": "26.07.2021 21:01",
+      "content": "yaşamak zorunda değiliz. istemiyoruz da. bizi kimse şeyine takmadığı için herkes bildiğini yapacak. galiba onlar istedi diye yaşamak zorundayız. adam haklıymış!",
+      "has_external_url": false
+    }
+  ]
+}

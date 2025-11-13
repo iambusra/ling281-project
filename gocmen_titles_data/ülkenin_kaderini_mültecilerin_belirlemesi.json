@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:54:43.835937",
+    "total_entries": 1,
+    "input": "ülkenin kaderini mültecilerin belirlemesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ülkenin kaderini mültecilerin belirlemesi",
+      "entry_id": "152913873",
+      "author": "k 1 f",
+      "date": "28.05.2023 17:28",
+      "content": "maalesef sosyal medyada da gördüğümüz olay. afganlar, suriler, pakistanlılar hepsi recep tayyip erdoğan'a oy verdiği fotoğrafı paylaşıyor.\ndaha yeni pakistan'da 7 yaşındaki kıza toplu tecavüz edilip kafası taşla ezilerek öldürüldü. bu orospu çocukları da oradan kaçıp bizim memlekete geliyor ve oy kullanıyor. memeleketin kaderini bunlar belirliyor.",
+      "has_external_url": false
+    }
+  ]
+}

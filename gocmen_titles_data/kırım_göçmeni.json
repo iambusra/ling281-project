@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:09:02.260511",
+    "total_entries": 2,
+    "input": "kırım göçmeni",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "kırım göçmeni",
+      "entry_id": "167248018",
+      "author": "the man stands alone",
+      "date": "11.08.2024 13:43",
+      "content": "adana ve eskişehir taraflarında bolca bulunan kırım'dan göç eden yurttaşlarımız.",
+      "has_external_url": false
+    },
+    {
+      "title": "kırım göçmeni",
+      "entry_id": "167248986",
+      "author": "proletarya diktatoru",
+      "date": "11.08.2024 14:18",
+      "content": "izmir'de de bulunan göçmen çeşidi. %50 oranında sahip olduğum köken.",
+      "has_external_url": false
+    }
+  ]
+}

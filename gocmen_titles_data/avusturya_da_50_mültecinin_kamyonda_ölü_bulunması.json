@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:45:53.602441",
+    "total_entries": 1,
+    "input": "avusturya'da 50 mültecinin kamyonda ölü bulunması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "avusturya'da 50 mültecinin kamyonda ölü bulunması",
+      "entry_id": "54344498",
+      "author": "montiare",
+      "date": "27.08.2015 14:30",
+      "content": "nerede hümanistler ...",
+      "has_external_url": false
+    }
+  ]
+}

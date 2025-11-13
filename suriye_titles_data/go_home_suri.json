@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:42:33.328900",
+    "total_entries": 2,
+    "input": "go home suri",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "go home suri",
+      "entry_id": "90933093",
+      "author": "exlot",
+      "date": "06.06.2019 00:57",
+      "content": "\"go home yanki\" nin az değişiği ama çok isteneni.\n24 yıldır istanbul'da yaşıyorum. kadıköy'de taksim'de caddebostan'da hiç bu kadar keyifsiz gezmedim. 20 kişilik gruplar halinde bağıra bağıra sohbet eden. deniz kenarlarında her boş alanda nargile yakıp karı kız kesen adamları istemiyorum. yakinda bu sloganı bir çarşafa yazıp moda sahile asmayı bile düşünüyorum. yeter artık siktir olup gidin ülkenize. go home suri!",
+      "has_external_url": false
+    },
+    {
+      "title": "go home suri",
+      "entry_id": "165893966",
+      "author": "henkan",
+      "date": "01.07.2024 16:53",
+      "content": "türkiyenin yeni sloganı.",
+      "has_external_url": false
+    }
+  ]
+}

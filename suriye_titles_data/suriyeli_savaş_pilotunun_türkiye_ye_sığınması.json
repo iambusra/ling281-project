@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:52:04.417309",
+    "total_entries": 2,
+    "input": "suriyeli savaş pilotunun türkiye'ye sığınması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeli savaş pilotunun türkiye'ye sığınması",
+      "entry_id": "41385647",
+      "author": "sfist",
+      "date": "23.03.2014 17:28",
+      "content": "bugun dusurulen mig olma ihtimali bulunan ucaktir.\nhabere gore mig'in dusurulmesinin ardindan turk jeti flare atarak bolgeden uzaklasmisti.\nsuriyeli siginmaci pilot'a turk jeti ile sinirimiz uzerinde ucma emri verilmis ardindan yerden havaya roketlerle mig vurulmus bizim jet flare ile kendini korumaya almis olma ihtimalini dusunuyorum.",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyeli savaş pilotunun türkiye'ye sığınması",
+      "entry_id": "41402219",
+      "author": "efes darth",
+      "date": "24.03.2014 05:20 ~ 06:20",
+      "content": "pilotsuz inmiş olacak ki paraşütle atlayan pilot suriye de açıklama yapabiliyor.\n\nhttp://www.cnnturk.com/…rdugu-ucagin-pilotu-konustu\n\nedit: dun dusen ucak olma iddiasi soz konusudur buna istinaden yazilmistir",
+      "has_external_url": true
+    }
+  ]
+}

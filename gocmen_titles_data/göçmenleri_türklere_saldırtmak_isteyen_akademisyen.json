@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:18:15.909198",
+    "total_entries": 3,
+    "input": "göçmenleri türklere saldırtmak isteyen akademisyen",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "göçmenleri türklere saldırtmak isteyen akademisyen",
+      "entry_id": "126226345",
+      "author": "gul ektim talan oldu",
+      "date": "28.07.2021 12:53 ~ 12:54",
+      "content": "neşe özgen adlı sosyolog.\n\ngörsel\n\nbu kin, bu öfke, bu nefret ne ile izah edilir bilmiyorum. kendisinin elinden binlerce türk öğrenci geçmiştir belki, hepsini öldürmek mi istiyordu?\n\niyice azıttınız ha. kimin ülkesinde kimi tehdit ediyorsun ulan sen?",
+      "has_external_url": true
+    },
+    {
+      "title": "göçmenleri türklere saldırtmak isteyen akademisyen",
+      "entry_id": "126227259",
+      "author": "turk bilge kagan",
+      "date": "28.07.2021 13:17",
+      "content": "\"yapabilirsek\" diyerek suça ortak olduğunu da itiraf eden şahıstır.",
+      "has_external_url": false
+    },
+    {
+      "title": "göçmenleri türklere saldırtmak isteyen akademisyen",
+      "entry_id": "166028931",
+      "author": "zakir",
+      "date": "05.07.2024 13:40 ~ 13:42",
+      "content": "memleketimizin tuhaf gerçeklerinden sadece biri. aleni şekilde biz türk milletine düşman, eline geçtiği ilk fırsatta bizi yok etmek istediği ayan-beyan ortada. buna rağmen kimbilir halen belki de türk vatandaşı, batılıları türkiye'de yayın yapan yazılı ve görsel medyasında yer alabiliyor. daha da ilginci geçmişte türk akademilerinde yöneticilik yapmış. türk akademilerinde halen bunun gibi onlarcası var emin olun. ama işte bu konuda refleks göstermekte geç kalıyoruz. sebebi belli türk milleti ve devleti birden fazla meseleyle meşgul ediliyor, düşünsel bütünlüğü bozuluyor bilinçli şekilde. sırf bu gölgede saklanan 5. kolcular saklanabilsin diye.\n\nedit: imla.",
+      "has_external_url": false
+    }
+  ]
+}

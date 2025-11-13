@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:00:19.994791",
+    "total_entries": 1,
+    "input": "genç kadını istismar etmeye çalışan sığınmacılar",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "genç kadını istismar etmeye çalışan sığınmacılar",
+      "entry_id": "155512898",
+      "author": "nephos",
+      "date": "11.08.2023 00:09",
+      "content": "yanılmıyorsam dublin'de yaşanan olay. burada bir yazar bunlar savaştan kaçmıyor, gittikleri ülkelerde kadınlara ve çocuklara tecavüz etmek için kaçıyorlar demişti. ne kadar doğruymuş. https://twitter.com/…tatus/1685548642621411329?s=46",
+      "has_external_url": true
+    }
+  ]
+}

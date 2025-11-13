@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:50:49.808009",
+    "total_entries": 3,
+    "input": "polislerin mültecilere karşı tutumu",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "polislerin mültecilere karşı tutumu",
+      "entry_id": "126786658",
+      "author": "martynmystere",
+      "date": "11.08.2021 11:55",
+      "content": "başkan babamızınkinden farksız bir tutumdur. anne şefkatiyle eş değerdir.",
+      "has_external_url": false
+    },
+    {
+      "title": "polislerin mültecilere karşı tutumu",
+      "entry_id": "126786706",
+      "author": "amerikan popechku",
+      "date": "11.08.2021 11:56 ~ 11:57",
+      "content": "https://www.hizliresim.com/mh1qoho\n\nşu çamlıcadaki türk bayrağını indirip afgan bayrağı dikse, yaa çok pardon napıyosunuz acaba beyfendi bile diyemez\n\nsen parkta kulaklıkla müzik dinlerken kitap okusan 6-7 tanesi gelir teker teker gbt yapar sorguya çeker, üstünü arar, vatandaş olduğuna pişman olursun",
+      "has_external_url": true
+    },
+    {
+      "title": "polislerin mültecilere karşı tutumu",
+      "entry_id": "154218060",
+      "author": "beter mi",
+      "date": "05.07.2023 12:09",
+      "content": "üsküdar meydanda 3 minibüsle mülteci avlıyor polis. normal şartlar altında böyle bir şey olmaz idi. talimat kimden geldi merak konusu.",
+      "has_external_url": false
+    }
+  ]
+}

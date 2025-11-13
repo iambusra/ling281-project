@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:58:30.001278",
+    "total_entries": 1,
+    "input": "hiçbir sığınmacıya göz yumulmaması gereği",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "hiçbir sığınmacıya göz yumulmaması gereği",
+      "entry_id": "98085976",
+      "author": "tatil kufesi",
+      "date": "21.11.2019 13:03 ~ 18:39",
+      "content": "idlib'ten akın akın ışid'linin halen ülkemize sızdığını\niç savaş çıkmak üzere olan iran'ın topraklarında en az 40 milyon mültecinin\n(ki içlerinde afgan peştunlar-pakistan'ın ne idüğü belirsizleri bütün zararlıları,\nülkemizde çıkacak bir iç savaşta ışid eğitiminden geçip kafa kesene dönüştrülmüş\ndin devleti savaşçısı olarak yan tutaca orta asya kökenliler, olmak üzere)\ntürkiye'ye akın etmesi çok yakın olduğu düşünülürse şimdiden yapılan uyarıdır.\nyabancı gazeteler, raporlar trkiye'ye 40 milyon mülteci'nin\nakın edeceği bunu kontrol altına alamayan hükümetin yetersiz olduğunu ve\nsığınmacıların avrupa'ya geçmesini bahane eden emperyallerin de türkiye'ye müdahale edeceği konuşulup yazılmasıyle hükümete tavsiyedir.\naslında nihayetinde küresel ısınmayla tüm afrika'nın kuzeye çıkacağı da öngörülüyor.",
+      "has_external_url": false
+    }
+  ]
+}

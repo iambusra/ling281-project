@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:42:03.791628",
+    "total_entries": 1,
+    "input": "fetö apo maydonoz meritking suriyeli",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "fetö apo maydonoz meritking suriyeli",
+      "entry_id": "173065429",
+      "author": "markasiz",
+      "date": "24.02.2025 00:40",
+      "content": "hepsi birbirinden alakasız, fakat hepsi en sonunda tek yerde birleşen bağımsız kelimeler bütünü.",
+      "has_external_url": false
+    }
+  ]
+}

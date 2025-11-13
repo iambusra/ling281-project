@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:20:12.986261",
+    "total_entries": 1,
+    "input": "yunanlıların göçmenleri yarı çıplak göndermesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "yunanlıların göçmenleri yarı çıplak göndermesi",
+      "entry_id": "103107830",
+      "author": "fikritakipp",
+      "date": "06.03.2020 13:19 ~ 15:40",
+      "content": "karakter sınırı nedeniyle'yunanlı askerlerin göçmenleri dövüp yarı çıplak geri göndermesi' olarak yazılamamış başlıktır.\nolay ise şu şekilde; yunanlı askerler türkiye'den yunanistan'a geçmeye çalışan bir grup göçmeni önce dövmüş ardından da üzerindeki eşyaları da dahil tüm eşyalarını alarak yarı çıplak şekilde geri göndermiştir.",
+      "has_external_url": false
+    }
+  ]
+}

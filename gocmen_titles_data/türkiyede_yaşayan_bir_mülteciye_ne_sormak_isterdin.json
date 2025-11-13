@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:42:12.582024",
+    "total_entries": 1,
+    "input": "türkiyede yaşayan bir mülteciye ne sormak isterdin",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türkiyede yaşayan bir mülteciye ne sormak isterdin",
+      "entry_id": "143498968",
+      "author": "amerikan popechku",
+      "date": "04.10.2022 19:12",
+      "content": "hiçbir şey sormazdım. bu durumun sorumlusu suriyeliler değil. tek bir kişi.",
+      "has_external_url": false
+    }
+  ]
+}

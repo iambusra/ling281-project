@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:25:16.523966",
+    "total_entries": 4,
+    "input": "psikoloğa gitmek vs rusa gitmek",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "psikoloğa gitmek vs rusa gitmek",
+      "entry_id": "84853795",
+      "author": "braincooller",
+      "date": "27.12.2018 23:41",
+      "content": "çok mu aradın bu başlığı",
+      "has_external_url": false
+    },
+    {
+      "title": "psikoloğa gitmek vs rusa gitmek",
+      "entry_id": "84853979",
+      "author": "kibariye canavari",
+      "date": "27.12.2018 23:46",
+      "content": "(bkz: sen istiyor tedavi verjek yüz dolar)",
+      "has_external_url": false
+    },
+    {
+      "title": "psikoloğa gitmek vs rusa gitmek",
+      "entry_id": "84855313",
+      "author": "eatpraylaw",
+      "date": "28.12.2018 00:16",
+      "content": "yıl 2018 hala psikolo ğ a, huku ğ u falan yazıyorsunuz. bi de virgül falan koymuş ne anlıyorsa?",
+      "has_external_url": false
+    },
+    {
+      "title": "psikoloğa gitmek vs rusa gitmek",
+      "entry_id": "84855498",
+      "author": "coksakatvar",
+      "date": "28.12.2018 00:21",
+      "content": "ikisinde de paranız boşa gitmez.",
+      "has_external_url": false
+    }
+  ]
+}

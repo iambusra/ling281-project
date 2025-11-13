@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:22:15.269702",
+    "total_entries": 2,
+    "input": "pazarkule'de göçmenlere gaz bombası atılması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "pazarkule'de göçmenlere gaz bombası atılması",
+      "entry_id": "102767627",
+      "author": "geldin mi godot",
+      "date": "28.02.2020 16:52",
+      "content": "şu an cnn’in yaptığı haberdir. yüksek ihtimal yunanların attığını söylüyorlar, iki defa patlama olmuş.",
+      "has_external_url": false
+    },
+    {
+      "title": "pazarkule'de göçmenlere gaz bombası atılması",
+      "entry_id": "102767764",
+      "author": "senersongur",
+      "date": "28.02.2020 16:55",
+      "content": "bundan bize ne olması. çok da şeyimizdeydi dediğimiz durum.",
+      "has_external_url": false
+    }
+  ]
+}

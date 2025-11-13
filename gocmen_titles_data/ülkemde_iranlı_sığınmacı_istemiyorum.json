@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:55:40.907383",
+    "total_entries": 4,
+    "input": "ülkemde iranlı sığınmacı istemiyorum",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ülkemde iranlı sığınmacı istemiyorum",
+      "entry_id": "163429221",
+      "author": "gordonmilne",
+      "date": "13.04.2024 23:54",
+      "content": "akp hükümeti müthiş bir kararla iran sınırındaki mayınları temizlemişti. şimdi iran - israil savaşı başladı. iranlılar akın edebilir.\n\nherkesin yüksek sesle dile getirmesi lazım. peşinen eylemi bile yapılabilir. ortadoğu çöplüğü değiliz biz.",
+      "has_external_url": false
+    },
+    {
+      "title": "ülkemde iranlı sığınmacı istemiyorum",
+      "entry_id": "163429301",
+      "author": "boyoz getir gelirken",
+      "date": "13.04.2024 23:56",
+      "content": "millet ne zengin lan! ülkeleri falan var. benim evim bile yok mk.",
+      "has_external_url": false
+    },
+    {
+      "title": "ülkemde iranlı sığınmacı istemiyorum",
+      "entry_id": "163429321",
+      "author": "ilyus",
+      "date": "13.04.2024 23:56",
+      "content": "iranlılar egitimli ve daha medeni suriyeliden iyidir .",
+      "has_external_url": false
+    },
+    {
+      "title": "ülkemde iranlı sığınmacı istemiyorum",
+      "entry_id": "176080240",
+      "author": "engineerdolma",
+      "date": "15.06.2025 20:17",
+      "content": "ortadoğunun toplama kampı gibiyiz. afganı, pakisi, suriyelisi, ıraklısı, somalilisinden sonra sıra şimdi iranlı mültecilerde.\n\nülkenin fabrika ayarları ile oynayanlar büyük ortadoğu projesinin bezirganlığını yapıyor.\n\n(bkz: bop)",
+      "has_external_url": false
+    }
+  ]
+}

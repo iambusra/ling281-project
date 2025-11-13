@@ -1,0 +1,52 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:02:04.066620",
+    "total_entries": 5,
+    "input": "ülkelerine tatile giden sığınmacıları ihbar edin",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ülkelerine tatile giden sığınmacıları ihbar edin",
+      "entry_id": "70025458",
+      "author": "betada don bebegim yok diye uye oldum",
+      "date": "07.08.2017 13:04",
+      "content": "işte aklı başında ülke dedirten durum.\n\nbiz ise sınırı açıyoruz, gidin hadi bayram kutlayın, ama geri gelin diyoruz. neden? çünkü sığırız. aşağısı yok. sığırız.",
+      "has_external_url": false
+    },
+    {
+      "title": "ülkelerine tatile giden sığınmacıları ihbar edin",
+      "entry_id": "70025891",
+      "author": "thelongnickart",
+      "date": "07.08.2017 13:23 ~ 13:25",
+      "content": "havalimanlarında ve hudut kapılarında kayıt tutup da bir tane memur görevlendirememişler mi ki ihbar mihbar anonsu yapıyorlar.\n\nnorveç falan fark etmiyor, bakan olunca saçmalayası geliyor insanoğlunun.",
+      "has_external_url": false
+    },
+    {
+      "title": "ülkelerine tatile giden sığınmacıları ihbar edin",
+      "entry_id": "70025944",
+      "author": "renksiz hayat",
+      "date": "07.08.2017 13:26",
+      "content": "bizdekilerin kaydı falan var mı ki dedirten.",
+      "has_external_url": false
+    },
+    {
+      "title": "ülkelerine tatile giden sığınmacıları ihbar edin",
+      "entry_id": "70027041",
+      "author": "atesikus",
+      "date": "07.08.2017 14:19",
+      "content": "türkiye'de bir işe yaramaz. biz ihbar edince \"kimliği olmadığı için işlem yapamıyoruz\" deyip telefonu kapatıyorlar.\n\nha tabi beni sokakta kimliksiz yakalasa götümden kan alır, o başka.",
+      "has_external_url": false
+    },
+    {
+      "title": "ülkelerine tatile giden sığınmacıları ihbar edin",
+      "entry_id": "70027501",
+      "author": "aradeth",
+      "date": "07.08.2017 14:41",
+      "content": "(bkz: bakanlarin nedense sacma sapan insanlar olmasi)",
+      "has_external_url": false
+    }
+  ]
+}

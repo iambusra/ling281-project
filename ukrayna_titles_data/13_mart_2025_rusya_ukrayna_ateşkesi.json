@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:02:37.031425",
+    "total_entries": 2,
+    "input": "13 mart 2025 rusya ukrayna ateşkesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "13 mart 2025 rusya ukrayna ateşkesi",
+      "entry_id": "173563349",
+      "author": "hem hanciyim hem yolcu",
+      "date": "13.03.2025 18:52 ~ 18:54",
+      "content": "muhtemelen gerceklesecek olan ateskestir. gelen son bilgiler rusya'nin kabul ettigi yonunde. umarim bu anlamsiz savas artik biter. 3 yildir sacma sapan oluyor insanlar.\n\nel cezire",
+      "has_external_url": true
+    },
+    {
+      "title": "13 mart 2025 rusya ukrayna ateşkesi",
+      "entry_id": "173567178",
+      "author": "koducalismayanyazilimci",
+      "date": "13.03.2025 21:16",
+      "content": "savaş bitsin de lviv jazz fest tekrar başlasın",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:22:50.150642",
+    "total_entries": 2,
+    "input": "birbirlerini rus sanan ukraynalılar kavga etti",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "birbirlerini rus sanan ukraynalılar kavga etti",
+      "entry_id": "142752756",
+      "author": "mva",
+      "date": "16.09.2022 13:39",
+      "content": "xavi futbolu bıraktıktan sonra savcı olmuş, helal olsun",
+      "has_external_url": false
+    },
+    {
+      "title": "birbirlerini rus sanan ukraynalılar kavga etti",
+      "entry_id": "142752763",
+      "author": "olfucktorius",
+      "date": "16.09.2022 13:40",
+      "content": "olay fransa'da eski bir ukrayna askeri tarafından yapıldığı için bu olayın aslında fransızların bir planı sonucu gerçekleçtigini göremeyen kördür.",
+      "has_external_url": false
+    }
+  ]
+}

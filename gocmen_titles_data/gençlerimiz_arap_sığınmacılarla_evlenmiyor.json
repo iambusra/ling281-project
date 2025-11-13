@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:03:48.980979",
+    "total_entries": 2,
+    "input": "gençlerimiz arap sığınmacılarla evlenmiyor",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "gençlerimiz arap sığınmacılarla evlenmiyor",
+      "entry_id": "146878722",
+      "author": "obispo",
+      "date": "27.12.2022 14:05",
+      "content": "gerici tarikatçı hüseyin mella basri kod adlı kim olduğu belli olmayan adamın şikayeti!\n\nşerefsize bak, benim genç kardeşlerim ne yapsın senin işsiz güçsüz boş heriflerini, karılarını.",
+      "has_external_url": false
+    },
+    {
+      "title": "gençlerimiz arap sığınmacılarla evlenmiyor",
+      "entry_id": "146878794",
+      "author": "xyclonb",
+      "date": "27.12.2022 14:08 ~ 14:09",
+      "content": "onu da mı türk gençliği düşünsün amk. gitsin afganlar ile evlensinler. hatta afganlar ile pakistan'da evlenip somaliye yerleşsinler.\n\ntanım: bir beyan.",
+      "has_external_url": false
+    }
+  ]
+}

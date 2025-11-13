@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:00:31.644699",
+    "total_entries": 1,
+    "input": "suriyelileri gönderirsek allah bizi yakar",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelileri gönderirsek allah bizi yakar",
+      "entry_id": "152813804",
+      "author": "perobotelho",
+      "date": "25.05.2023 23:28",
+      "content": "millet olarak balık hafızalı olduğumuz hepimizin malumu. ara sıra hafızalarımızı tazelemekte fayda var:\n\nakp'li içişleri bakanının yakın zamanda yaptığı açıklama.\n\nkaynak: youtube",
+      "has_external_url": true
+    }
+  ]
+}

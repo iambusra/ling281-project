@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:26:00.626375",
+    "total_entries": 1,
+    "input": "göçmenlerin gitmesini isteyen orta asyalı göçmen",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "göçmenlerin gitmesini isteyen orta asyalı göçmen",
+      "entry_id": "132435122",
+      "author": "machete klonu",
+      "date": "17.01.2022 11:06",
+      "content": "demek istediğini demek istediği gibi söylemeyip kırk takla attırarak laf sokmaya çalışılan tipler tarafından uydurulmuştur.\n\nbahsedilen kişi anadoluda yaşayan türkse ataları bu topraklara göçmen olarak değil fatih olarak gelmiştir. avrupada yaşayanlarin çoğu ise o ülkelerin hükümetleri tarafından iş gücü olarak davet edilmiştir.\n\nbir de kapağı avrupaya atmak için türkiye'yi şikayet edip mağdur edebiyatı yapanlar var ki onların etnik kökeni hakkında yorum yapmıyorum.",
+      "has_external_url": false
+    }
+  ]
+}

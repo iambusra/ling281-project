@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:23:39.329594",
+    "total_entries": 3,
+    "input": "avrupa'nın afgan göçmenlerle imtihanı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "avrupa'nın afgan göçmenlerle imtihanı",
+      "entry_id": "126830337",
+      "author": "azimly",
+      "date": "12.08.2021 13:19",
+      "content": "https://envolay.com/kaccak-tabi-napcak-kaccak\n\nyazı inanılmaz. ve türkiye'yi bekleyen tehlikeye dair büyük ipuçları veriyor. kesinlikle okumalı. pişman olmazsınız.",
+      "has_external_url": true
+    },
+    {
+      "title": "avrupa'nın afgan göçmenlerle imtihanı",
+      "entry_id": "126830399",
+      "author": "fularlarlar",
+      "date": "12.08.2021 13:21 ~ 13:25",
+      "content": "dün açtığım başlıkta yer alan yazıdır. (bkz: avrupa'daki genç afgan erkeklere dair yazı) yazar arkadaş okumayı kolaylaştırmak için yaptığım çeviriyi paylaşmış sağ olsun fakat dikkat etmemiştim nevşin mengü'nün fotoğrafları mı var sayfada? eğer böyleyse bir kadın olarak bunun doğru olduğunu düşünmüyorum. belirteyim.",
+      "has_external_url": false
+    },
+    {
+      "title": "avrupa'nın afgan göçmenlerle imtihanı",
+      "entry_id": "126830435",
+      "author": "tovbekar tospaa",
+      "date": "12.08.2021 13:22",
+      "content": "hüsnü mahalli'nin tespitlerini takip etmekte fayda var.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:42:53.670612",
+    "total_entries": 2,
+    "input": "her suriyeliyi mağdur sanan hümanist",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "her suriyeliyi mağdur sanan hümanist",
+      "entry_id": "61626860",
+      "author": "corona borealis",
+      "date": "09.07.2016 17:38 ~ 17:41",
+      "content": "10 evinden 8'ini suriyeliye satan hümanisttir.",
+      "has_external_url": false
+    },
+    {
+      "title": "her suriyeliyi mağdur sanan hümanist",
+      "entry_id": "61626999",
+      "author": "ulquiorra17",
+      "date": "09.07.2016 17:49",
+      "content": "ver suriyeli mağdur değil korkaktır",
+      "has_external_url": false
+    }
+  ]
+}

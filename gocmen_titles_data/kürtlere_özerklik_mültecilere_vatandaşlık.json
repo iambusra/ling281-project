@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:51:19.383865",
+    "total_entries": 3,
+    "input": "kürtlere özerklik mültecilere vatandaşlık",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "kürtlere özerklik mültecilere vatandaşlık",
+      "entry_id": "136922607",
+      "author": "jose raul capablanca",
+      "date": "02.05.2022 18:04",
+      "content": "bekledigim flash haber.\nistenen kaosu ekonomi ya da diger provokasyonlar getirmedi, bu getirecek.",
+      "has_external_url": false
+    },
+    {
+      "title": "kürtlere özerklik mültecilere vatandaşlık",
+      "entry_id": "136922986",
+      "author": "ayuttudum",
+      "date": "02.05.2022 18:17",
+      "content": "siyasal islamcının ıslak rüyasıdır.",
+      "has_external_url": false
+    },
+    {
+      "title": "kürtlere özerklik mültecilere vatandaşlık",
+      "entry_id": "136923813",
+      "author": "derdinipaylasmayanadam",
+      "date": "02.05.2022 18:47",
+      "content": "e siktir olup gidelim o zaman ama nereye...",
+      "has_external_url": false
+    }
+  ]
+}

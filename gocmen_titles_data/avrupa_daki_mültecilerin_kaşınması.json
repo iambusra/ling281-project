@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:54:34.694082",
+    "total_entries": 1,
+    "input": "avrupa'daki mültecilerin kaşınması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "avrupa'daki mültecilerin kaşınması",
+      "entry_id": "154137651",
+      "author": "kediprofesoru",
+      "date": "03.07.2023 01:09",
+      "content": "bundan sonra kim kaşınırsa türkiye'ye postalanacağı için ne avrupalının ne de avrupa'da yaşayan mültecilerin çok da dert etmediği durumdur bu. öyle soy kırmakmış, hapishanede beslemekmiş falan geçti o günler. türkiye var huzur var.",
+      "has_external_url": false
+    }
+  ]
+}

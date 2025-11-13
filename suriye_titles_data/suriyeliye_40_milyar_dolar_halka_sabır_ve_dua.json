@@ -1,0 +1,43 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:07:30.899585",
+    "total_entries": 2,
+    "input": "suriyeliye 40 milyar dolar halka sabır ve dua",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeliye 40 milyar dolar halka sabır ve dua",
+      "entry_id": "103766874",
+      "author": "nyx ulric",
+      "date": "19.03.2020 11:33",
+      "content": "(bkz: #103730712)",
+      "referenced_content": [
+        {
+          "type": "entry",
+          "title": "bir-40-milyar-dolar-daha-harcariz",
+          "entry_id": "103730712",
+          "author": "nyx ulric",
+          "date": "18.03.2020 19:01",
+          "content": "'işlerine giden vatandaşlarımız mesai bitiminde hemen evlerine giderek kimseyle temas etmeden ilk iş sabunla ellerini yüzünü yıkamalıdır'\n\nrecep tayyip erdoğan\n18 mart 2020\n\nbu arada fransa 300 milyar euroluk fon açıkladı...",
+          "has_external_url": false
+        }
+      ],
+      "referenced_entry_ids": [
+        "103730712"
+      ],
+      "has_external_url": false
+    },
+    {
+      "title": "suriyeliye 40 milyar dolar halka sabır ve dua",
+      "entry_id": "103767020",
+      "author": "valiscent",
+      "date": "19.03.2020 11:36",
+      "content": "sermayeye de 100 milyar lira",
+      "referenced_content": [],
+      "has_external_url": false
+    }
+  ]
+}

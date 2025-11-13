@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:53:18.561958",
+    "total_entries": 1,
+    "input": "3 tarafı mültecilerle çevrili ülke",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "3 tarafı mültecilerle çevrili ülke",
+      "entry_id": "125906890",
+      "author": "koprufakilar",
+      "date": "19.07.2021 23:58",
+      "content": "bakınız: türkiye cumhuriyeti.",
+      "has_external_url": false
+    }
+  ]
+}

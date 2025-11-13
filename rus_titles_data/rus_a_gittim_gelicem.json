@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:24:59.157918",
+    "total_entries": 1,
+    "input": "rus'a gittim gelicem",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rus'a gittim gelicem",
+      "entry_id": "40248965",
+      "author": "illuminatinin basindaki adam",
+      "date": "06.02.2014 22:51",
+      "content": "bir dükkan yazısı.",
+      "has_external_url": false
+    }
+  ]
+}

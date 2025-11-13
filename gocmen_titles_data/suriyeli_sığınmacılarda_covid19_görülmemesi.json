@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:03:27.654444",
+    "total_entries": 1,
+    "input": "suriyeli sığınmacılarda covid19 görülmemesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeli sığınmacılarda covid19 görülmemesi",
+      "entry_id": "108419311",
+      "author": "hayaldede",
+      "date": "06.06.2020 04:19",
+      "content": "evet suriyeli olanlarda vakaa sayısının açıklanmaması şeklinde de olabilirdi başlık.\nbakanlıktan böyle bir veri açıklaması gelmiyor. bu adamlar şerbetli mi coronaya???",
+      "has_external_url": false
+    }
+  ]
+}

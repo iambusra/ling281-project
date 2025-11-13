@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:08:29.229413",
+    "total_entries": 3,
+    "input": "24 nisan 2014 rusya'nın ukrayna'yı işgali",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "24 nisan 2014 rusya'nın ukrayna'yı işgali",
+      "entry_id": "42242317",
+      "author": "zdravstvite",
+      "date": "24.04.2014 19:35",
+      "content": "yalandır. sınırda tatbikat yapıyorlar an itibariyle.",
+      "has_external_url": false
+    },
+    {
+      "title": "24 nisan 2014 rusya'nın ukrayna'yı işgali",
+      "entry_id": "42242337",
+      "author": "cilli horozun intikami",
+      "date": "24.04.2014 19:36",
+      "content": "(bkz: cem uzan'a hapis soku)",
+      "has_external_url": false
+    },
+    {
+      "title": "24 nisan 2014 rusya'nın ukrayna'yı işgali",
+      "entry_id": "42242357",
+      "author": "glaucus atlanticus",
+      "date": "24.04.2014 19:36",
+      "content": "kaynağı yine twitter olan hırvat iddiası. gülerek izliyoruz.",
+      "has_external_url": false
+    }
+  ]
+}

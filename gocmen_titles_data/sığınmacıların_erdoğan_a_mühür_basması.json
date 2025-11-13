@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:04:42.259700",
+    "total_entries": 2,
+    "input": "sığınmacıların erdoğan'a mühür basması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "sığınmacıların erdoğan'a mühür basması",
+      "entry_id": "152628241",
+      "author": "bu nick bulunamadi",
+      "date": "21.05.2023 02:43",
+      "content": "sığınmacıların yurtiçinde yönetimimizde etkin rol oynamaları yetmiyormuş gibi yurtdışından bile oy kullanarak ülkeyi bataklığa sürüklediğini gözler önüne seren durum.\n\nhttps://twitter.com/…?t=nbk4086ces5qeisfmhznva&s=19",
+      "has_external_url": true
+    },
+    {
+      "title": "sığınmacıların erdoğan'a mühür basması",
+      "entry_id": "152628475",
+      "author": "korganov",
+      "date": "21.05.2023 02:55 ~ 03:07",
+      "content": "bunlar daha iyi günler. yakın bir gelecekte türk kadınları ve çocukları sokakta yürüyemeyecek hale gelecek. ülkemiz dört bir koldan, medeniyet olarak dünyanın en çukur ülkelerinden gelen sığınmacılar tarafından istila ediliyor. birçok ilde demografi bozuldu. sığınmacılar en kısa sürede geri gönderilmezse türkiye cumhuriyeti'nin geleceği tehlikede demektir.",
+      "has_external_url": false
+    }
+  ]
+}

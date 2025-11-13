@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T16:58:18.671304",
+    "total_entries": 1,
+    "input": "192 bin suriyeliye vatandaşlık verilmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "192 bin suriyeliye vatandaşlık verilmesi",
+      "entry_id": "136413565",
+      "author": "turkona",
+      "date": "19.04.2022 19:09",
+      "content": "bakan soylu'nun açıklamasıdır.\nbakan soylu; türkiye'de 2021 yılı sonu itibariyle 120 bin reşit (karı - koca) ve diğerleri çocuk olmak üzere 192 bin suriyeliye vatandaşlık verildiğini bildirdi..\n19.04.2022 tarihli suriyeli sayısı kim bilir kaçtır. afgan, ıraklı sayısını da açıklasaydınız. bu rakamlara asla inanmıyorum. 1 milyon 920 bin kişiye vatandaşlık verildiğini düşünüyorum. bir o kadar da diğer yabancılar var. bu sayı tahminen 3 milyon civarıdır..\ngerçek rakamları seçimden sonra siz gidince göreceğiz..\nkaynak",
+      "has_external_url": true
+    }
+  ]
+}

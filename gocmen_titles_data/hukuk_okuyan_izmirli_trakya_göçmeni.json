@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:10:36.341237",
+    "total_entries": 2,
+    "input": "hukuk okuyan izmirli trakya göçmeni",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "hukuk okuyan izmirli trakya göçmeni",
+      "entry_id": "112350200",
+      "author": "aynshinqaf iki",
+      "date": "31.08.2020 16:18",
+      "content": "üçlemeyi anlamak için tanımaya gerek olmayan kişidir. zaten megafonla söyleye söyleye gezmektedir.\n\n- merhaba\n+ hukuk okuyorum.\n- peki kardeş. ben selami bulvarına gidecektim de...\n+ trakya göçmeniyiz biz.\n- pekiiiii. nasıl gidebilirim?\n+ biz pekiye teki deriz. izmirliyiz.\n- teki kardeş. biliyor musun yolu?\n+ hukuk okuduğum için biliyorum.\n- nasıl gidebilirim?\n+ biz nasıla fasıl deriz. izmirliyim.\n- olduuuu. kolay gelsin.\n+ trakya göçmeniyim.",
+      "has_external_url": false
+    },
+    {
+      "title": "hukuk okuyan izmirli trakya göçmeni",
+      "entry_id": "112350356",
+      "author": "deveyehendekatlatanadam",
+      "date": "31.08.2020 16:21",
+      "content": "ne anlatıyon amk",
+      "has_external_url": false
+    }
+  ]
+}

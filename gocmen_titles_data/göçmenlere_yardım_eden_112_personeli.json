@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:22:05.549259",
+    "total_entries": 3,
+    "input": "göçmenlere yardım eden 112 personeli",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "göçmenlere yardım eden 112 personeli",
+      "entry_id": "103061676",
+      "author": "olgun caliskan liseli asosyal",
+      "date": "05.03.2020 14:55",
+      "content": "geleceğin kriminallerine,ekstremistlerine yardım eden personeldir.",
+      "has_external_url": false
+    },
+    {
+      "title": "göçmenlere yardım eden 112 personeli",
+      "entry_id": "103061730",
+      "author": "eyimis",
+      "date": "05.03.2020 14:56",
+      "content": "vicdanın \"ama\"sız ne kadar güzel ve önemli olduğunu hatırlatan sağlık personelidir. helal olsun.",
+      "has_external_url": false
+    },
+    {
+      "title": "göçmenlere yardım eden 112 personeli",
+      "entry_id": "103061836",
+      "author": "larkperka",
+      "date": "05.03.2020 14:59",
+      "content": "gözlerim dolarak izledim, gel prensesim diyo ya o küçük yavruya ...",
+      "has_external_url": false
+    }
+  ]
+}

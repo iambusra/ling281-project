@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:49:49.318014",
+    "total_entries": 2,
+    "input": "ingiltere'nin mültecileri bize kakalaması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ingiltere'nin mültecileri bize kakalaması",
+      "entry_id": "140078141",
+      "author": "adada",
+      "date": "16.07.2022 23:28",
+      "content": "https://tr.euronews.com/…isleri-bakanindan-gocmen-c\ngeliyor gelmekte olan",
+      "has_external_url": true
+    },
+    {
+      "title": "ingiltere'nin mültecileri bize kakalaması",
+      "entry_id": "140078216",
+      "author": "hacktor",
+      "date": "16.07.2022 23:29",
+      "content": "(bkz: parayla mülteci alınır)",
+      "has_external_url": false
+    }
+  ]
+}

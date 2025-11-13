@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:01:16.719894",
+    "total_entries": 1,
+    "input": "akp'nin sığınmacıları koruyup kollamasının nedeni",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "akp'nin sığınmacıları koruyup kollamasının nedeni",
+      "entry_id": "136986587",
+      "author": "perdido street station",
+      "date": "04.05.2022 06:35",
+      "content": "mülteci kendi ağzıyla söylemiş işte\n(bkz: antalya'ya cihat için silah getirdik)",
+      "has_external_url": false
+    }
+  ]
+}

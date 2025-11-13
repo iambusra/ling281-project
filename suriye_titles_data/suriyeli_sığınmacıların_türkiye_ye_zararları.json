@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:52:51.000679",
+    "total_entries": 2,
+    "input": "suriyeli sığınmacıların türkiye'ye zararları",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeli sığınmacıların türkiye'ye zararları",
+      "entry_id": "43942539",
+      "author": "somek kafali",
+      "date": "04.07.2014 03:21",
+      "content": "halihazırda fazladır.",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyeli sığınmacıların türkiye'ye zararları",
+      "entry_id": "43957771",
+      "author": "somek kafali",
+      "date": "04.07.2014 19:14",
+      "content": "(bkz: patronunu döven suriyeli işçi)\n(bkz: suriyelilerin izmirli kıza saldırması)\n\nhttp://www.hurriyet.com.tr/gundem/26375256.asp\nhttp://www.kanalb.com.tr/…aberno=51670#.u5g_mcj-nse\nhttp://www.etrafhaber.com/…si-duragini-basti/45690/\nhttp://www.hurriyet.com.tr/gundem/26724979.asp\n\nmültecilere karşı ‘nefret’ giderek büyüyor\nhttp://www.agos.com.tr/…iderek-buyuyor&haberid=7588",
+      "has_external_url": true
+    }
+  ]
+}

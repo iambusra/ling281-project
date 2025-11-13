@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:54:26.968003",
+    "total_entries": 1,
+    "input": "filistinli mültecilerin türkiye'ye gelme ihtimali",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "filistinli mültecilerin türkiye'ye gelme ihtimali",
+      "entry_id": "157711141",
+      "author": "kurtarin kendinizi",
+      "date": "13.10.2023 21:35",
+      "content": "bence erdoğan'ın son açıklamalarından sonra hayli yüksektir. savaş bu hızıyla devam ederse, 1 milyona yakın filistinlinin yurtlarını terk etmek zorunda kalacağı iddia ediliyor. hiçbir arap ülkesi bu insanları kabul etmeyeceğine göre, türkiye'ye sığınmaları hayli güçlü ihtimal bence.",
+      "has_external_url": false
+    }
+  ]
+}

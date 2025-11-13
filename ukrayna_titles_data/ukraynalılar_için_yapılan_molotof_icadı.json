@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:23:04.332953",
+    "total_entries": 1,
+    "input": "ukraynalılar için yapılan molotof icadı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukraynalılar için yapılan molotof icadı",
+      "entry_id": "134684635",
+      "author": "davincinin vincii",
+      "date": "08.03.2022 23:07",
+      "content": "ilk gördüğümde şaka falan sanmıştım bu ülkede elektrik elektronik profunun yaptığı ve twitterdan paylaştığı akıllara durgunluk veren adeta dosta korku düşmana güven veren bu icadın linki için tıklayınız\n\narkadaşlar bunu yapan bir prof ve hesabında akıllara durgunluk veren icatları var.",
+      "has_external_url": true
+    }
+  ]
+}

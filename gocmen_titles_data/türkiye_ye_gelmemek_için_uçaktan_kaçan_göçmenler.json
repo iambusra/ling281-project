@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:16:45.619927",
+    "total_entries": 2,
+    "input": "türkiye'ye gelmemek için uçaktan kaçan göçmenler",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türkiye'ye gelmemek için uçaktan kaçan göçmenler",
+      "entry_id": "146055260",
+      "author": "hdma",
+      "date": "07.12.2022 17:29",
+      "content": "fas'tan türkiye'ye gelecek olan göçmenleri taşıyan uçak yolculardan birinin doğum sancısı nedeniyle barcelona'ya acil iniş yapıyor. yolcularda bu kargaşa esnasında uçaktan kaçıyorlar. (bkz: yakalanmamışlar)\n\nkadının doğum sancısı olmadığı numaraya yaptığı iddia ediliyor.\n\nkaynak",
+      "has_external_url": true
+    },
+    {
+      "title": "türkiye'ye gelmemek için uçaktan kaçan göçmenler",
+      "entry_id": "146055500",
+      "author": "dexteradressoranadam",
+      "date": "07.12.2022 17:35 ~ 18:17",
+      "content": "bu kadar göçmenin bir arada olduğu yere ben olsam ben de gitmem. üstelik bir süre türkiye de kalınca zorla vatandaş yapıyorlar.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:19:55.352474",
+    "total_entries": 1,
+    "input": "fas'ın göçmenleri şantaj olarak kullanması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "fas'ın göçmenleri şantaj olarak kullanması",
+      "entry_id": "123568135",
+      "author": "ivanov",
+      "date": "21.05.2021 16:24",
+      "content": "ispanya ile fas arasında devam eden gerginlikte göçmenlerin kullanıldığı iddia ediliyor.\niddianın kaynağı trt haber .\nbana bu olay başka bir hadiseyi hatırlattı ama her neyse.\nkaynak",
+      "has_external_url": true
+    }
+  ]
+}

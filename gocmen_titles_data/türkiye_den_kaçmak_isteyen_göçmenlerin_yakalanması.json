@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:25:28.992928",
+    "total_entries": 2,
+    "input": "türkiye'den kaçmak isteyen göçmenlerin yakalanması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türkiye'den kaçmak isteyen göçmenlerin yakalanması",
+      "entry_id": "145574331",
+      "author": "wildopium",
+      "date": "26.11.2022 10:31",
+      "content": "bu konuda artık hislerim o kadar karmakarışık ki. ülkeye girişi engellenmeyenlerin ülkeden çıkarken yakalanması üzerine distopik bir korku senaryosu yazilabilecek abest bir durum. yani içerisi de korku filminden hallice olunca kaçıp kurtulmasınlar pek tabi diyesim geliyor.",
+      "has_external_url": false
+    },
+    {
+      "title": "türkiye'den kaçmak isteyen göçmenlerin yakalanması",
+      "entry_id": "145575093",
+      "author": "modestdreams",
+      "date": "26.11.2022 11:01",
+      "content": "ülkeden kaçıp giden mültecileri bir de \"durun gidemezsiniz\" diye yakalayıp geri mi alıyoruz! allah'ım ne günlere kaldık!",
+      "has_external_url": false
+    }
+  ]
+}

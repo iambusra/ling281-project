@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:02:49.650935",
+    "total_entries": 2,
+    "input": "suriye'li sığınmacılara yapılan 50bin konut",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriye'li sığınmacılara yapılan 50bin konut",
+      "entry_id": "136397819",
+      "author": "guuschmoel",
+      "date": "19.04.2022 11:07",
+      "content": "özet:\nülkemizde ki sığınmacıların yanı sıra suriye'nin idlib kentinde savaştan etkilenen din kardeşlerimiz için türk kızılayı ve afad’ın yanı sıra yardım kuruluşlarının da yer aldığı hatta ve hatta sayın cumhurbaşkanımız ve eşi emine erdoğan hanımefendi'nin de maddi desteği ile 700 milyon lirayı aşkın para toplandı.\n\nevet türkiye'de ki sığınmacılar haricinde suriye'de bulunan bu insanlar içinde cumhurbaşkanımız önderliğinde resmi kurumlarımız ve yardım kuruluşları aracılığıyla 700 milyon lira toplanarak 50bin konut yapımına başlanmıştı. planlanan 52 bin 772 briket evden 27 bin 665'inin inşası tamamlandı ve suriye vatandaşlarına teslim edildi.\n\ngöç idaresi başkalığı resmi sitesi linki\n\nbölgedeki sivillerin yaşam koşullarının iyileştirilmesi amacıyla, geçen yıl türkiye’de'bir aradayız, idlib’in yanındayız' sloganıyla başlayan bu hareketin benzerlerini aynı sloganı kullanarak afganistan, pakistan, ırak, ve bunun gibi nerede yardıma ihtiyaç duyan birileri var ise onlara da ulaşmalıyız. çünkü türkiyemiz gönül zenginliğiyle bu çalışmaları üstlenmeyi iyi bilir.\n\nmerak ettiğim, bir insan kendi ülkesine kendi vatandaşına nasıl bunu hak görür ve nasıl bu kadar düşman olabilir?",
+      "has_external_url": true
+    },
+    {
+      "title": "suriye'li sığınmacılara yapılan 50bin konut",
+      "entry_id": "136397937",
+      "author": "vayaqoylemi",
+      "date": "19.04.2022 11:10",
+      "content": "osmanlı da türklerle mücadele etmişti zamanında, tarih tekerrür ediyor.",
+      "has_external_url": false
+    }
+  ]
+}

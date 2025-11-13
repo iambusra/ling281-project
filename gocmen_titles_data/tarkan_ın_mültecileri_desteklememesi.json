@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:50:09.093466",
+    "total_entries": 2,
+    "input": "tarkan'ın mültecileri desteklememesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "tarkan'ın mültecileri desteklememesi",
+      "entry_id": "137245479",
+      "author": "henkan",
+      "date": "09.05.2022 22:02 ~ 22:03",
+      "content": "milli sjw'miz olan tarkan yaşattığı hayal kırıklığı. savunmadığı şey kalmamıştı ama mültecilere gelince sen başkasın .",
+      "has_external_url": false
+    },
+    {
+      "title": "tarkan'ın mültecileri desteklememesi",
+      "entry_id": "137246276",
+      "author": "bugunolmadiamayarinkesinolacak",
+      "date": "09.05.2022 22:18",
+      "content": "parti kur oy verelim tarkan",
+      "has_external_url": false
+    }
+  ]
+}

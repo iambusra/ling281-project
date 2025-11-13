@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:23:46.082682",
+    "total_entries": 1,
+    "input": "göçmenlerle ilgili sınırdışı süreci başlatılması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "göçmenlerle ilgili sınırdışı süreci başlatılması",
+      "entry_id": "126290893",
+      "author": "betada don bebegim yok diye uye oldum",
+      "date": "29.07.2021 23:54",
+      "content": "yürekli bir bürokratın acilen yapmaya başlaması gereken süreç.",
+      "has_external_url": false
+    }
+  ]
+}

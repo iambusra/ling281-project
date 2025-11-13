@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:00:22.530780",
+    "total_entries": 2,
+    "input": "kaçak sığınmacıları gönderiyor gibi yapmak",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "kaçak sığınmacıları gönderiyor gibi yapmak",
+      "entry_id": "166103464",
+      "author": "faytonfayt",
+      "date": "07.07.2024 13:24",
+      "content": "şu an yapılan şey. maç falan derken gümbürtüye gitti ülkenin en önemli meselesi.\n\nmhp, tsk ve stk'ların sığınmacılar hakkındaki açıklamalarından sonra bazı mahalleler göç idaresi aracı koyuldu ya da artırıldı. toplanan kaçaklar gönderilse dahi oran olarak bir şey ifade etmiyor. hatta gönderilse dahi geri gelmesi uzun zaman almıyor.\n\nşu an yine uyutulma sürecindesiniz.",
+      "has_external_url": false
+    },
+    {
+      "title": "kaçak sığınmacıları gönderiyor gibi yapmak",
+      "entry_id": "166103651",
+      "author": "serbesti",
+      "date": "07.07.2024 13:31",
+      "content": "gerek olmayan girişim, t\n\ngöçmen ve sığınmacı, hiç kimse bunların kılına bile dokunamaz.\n\nbunlar türkiye toplumunun bir parçası, herkes alışacak.",
+      "has_external_url": false
+    }
+  ]
+}

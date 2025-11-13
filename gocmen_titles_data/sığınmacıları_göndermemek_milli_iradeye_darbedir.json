@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:01:37.246187",
+    "total_entries": 1,
+    "input": "sığınmacıları göndermemek milli iradeye darbedir",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "sığınmacıları göndermemek milli iradeye darbedir",
+      "entry_id": "136153299",
+      "author": "siir okuyan cocugun sakiz olmus tukurugu",
+      "date": "13.04.2022 13:18",
+      "content": "halkın sığınmacılar konusunda kararı net . bir ülkede halkın %82'si bir konuda ortak bir karara vardıysa, o karar tartışmasız şekilde uygulanır . türkiye bir demokrasi ve cumhuriyetse halkın dediği olur. halk da gitsinler diyor. o zaman gi-de-cek-ler.\n\naksi; demokrasiden çıkıp halkın iradesine karşı küçük bir zümrenin keyfi kararlar aldığı otoriter bir rejime geçtiğimizin ilanıdır.\n\neğer ülkeyi yönetenler; bu kadar kritik bir konuda kendi kararlarını halkın kararınından üstte görüyor ve uygulamayı reddediyorsa, bunun adı milli iradeye darbedir .\n\n(bkz: sığınmacılardan kurtulmak için izlenecek yol)",
+      "has_external_url": true
+    }
+  ]
+}

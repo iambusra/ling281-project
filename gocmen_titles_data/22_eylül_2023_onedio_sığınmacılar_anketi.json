@@ -1,0 +1,52 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:00:12.775239",
+    "total_entries": 5,
+    "input": "22 eylül 2023 onedio sığınmacılar anketi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "22 eylül 2023 onedio sığınmacılar anketi",
+      "entry_id": "157005273",
+      "author": "pelerinli123",
+      "date": "22.09.2023 10:57",
+      "content": "link\n\nümit özdağ ve zafer partisi'nin açıklamaları ile tutuklanmalar sonrasında yapılan anket.",
+      "has_external_url": true
+    },
+    {
+      "title": "22 eylül 2023 onedio sığınmacılar anketi",
+      "entry_id": "157005501",
+      "author": "dorduncu boyuttan biri",
+      "date": "22.09.2023 11:05",
+      "content": "instagram gibi bir platformda bile 2023 yılında, ayrıntılar profilimizdeki linkte tarzı gerzekçe haber yapan ve azalarak kaybolması gereken bir platformun anketi!\nstrawpolls'a ne oldu bilader?\nneyin reklamı bu?",
+      "has_external_url": false
+    },
+    {
+      "title": "22 eylül 2023 onedio sığınmacılar anketi",
+      "entry_id": "157005548",
+      "author": "badtimestories",
+      "date": "22.09.2023 11:06",
+      "content": "anketin son 3 sorusu fondü ler tarafından yapılmış sanırım",
+      "has_external_url": false
+    },
+    {
+      "title": "22 eylül 2023 onedio sığınmacılar anketi",
+      "entry_id": "157006276",
+      "author": "beyninalgiladi",
+      "date": "22.09.2023 11:31",
+      "content": "provokatif ya da iyi düşünülmemiş çocukça zihniyetle yapılmış bir ankettir.\n\nnormalde ülkemize turist olarak gelemeyecek tipler kaçak olarak gelip yaşamaya çalışıyor. 18-25 yaş aralığında ailesi olmayan, eşyası olmayan, kültürü farklı, eğitimi olmayan bekar genç erkeklerin akın akın gelmesinin savunulacak bir yanı yok. kadınların gelmesi veya eğitim düzeyi olan bir mühendis, doktor,öğretmen vs. olan aile ya da tek insanların gelmesinde bile her mantıklı ülkede olduğu gibi belli bir kotası sayısı olmalı. gelgelelim bizim insanımıza sıkıntılı gözlerle fırsatı olsa sorun çıkartacak eğitilemeyecek tiplerle yaşamak istememek suç mu amk.",
+      "has_external_url": false
+    },
+    {
+      "title": "22 eylül 2023 onedio sığınmacılar anketi",
+      "entry_id": "157007006",
+      "author": "imladan elenen zat",
+      "date": "22.09.2023 11:53 ~ 14:53",
+      "content": "anket denmiş ama son sorular itibari ile muhataba ızdırap yaşatarak kendini acındırma politikası gütmeyi amaçlayan bir anket olmuş\nçakallık diz boyu, empatiye zoraki sevk ediyor ki haksız gözükelim\n\ngitsinler hepsi, kanla kazanılmş bir toprak yine kanla feda edilebilir ama para ile satıldığı için bundan memnun olanlar çok",
+      "has_external_url": false
+    }
+  ]
+}

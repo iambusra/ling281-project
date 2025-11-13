@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:10:45.403465",
+    "total_entries": 2,
+    "input": "türkiye'den suriyeli muhaliflere silah yardımı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türkiye'den suriyeli muhaliflere silah yardımı",
+      "entry_id": "38951136",
+      "author": "kaynak kicim",
+      "date": "15.12.2013 10:52",
+      "content": "(bkz: adana'da ele geçirilen bomba yüklü tır)\n(bkz: buzdağının görünen kısmı)",
+      "has_external_url": false
+    },
+    {
+      "title": "türkiye'den suriyeli muhaliflere silah yardımı",
+      "entry_id": "38951512",
+      "author": "gulerzeki",
+      "date": "15.12.2013 11:25",
+      "content": "silahların ne için kullanıldığını düşününce başlık türkiye'nin suriye'de insanların ölümüne katkısı olarak değiştirilebilir.",
+      "has_external_url": false
+    }
+  ]
+}

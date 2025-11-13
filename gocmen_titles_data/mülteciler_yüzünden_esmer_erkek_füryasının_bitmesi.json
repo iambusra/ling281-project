@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:46:05.378881",
+    "total_entries": 3,
+    "input": "mülteciler yüzünden esmer erkek füryasının bitmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "mülteciler yüzünden esmer erkek füryasının bitmesi",
+      "entry_id": "168024868",
+      "author": "o nick buraya gelecek aga",
+      "date": "03.09.2024 20:22",
+      "content": "- hello, where are you from\n\n- ı'm from istanbul\n\n- but you don't look like arabic!",
+      "has_external_url": false
+    },
+    {
+      "title": "mülteciler yüzünden esmer erkek füryasının bitmesi",
+      "entry_id": "168024954",
+      "author": "raybanzib",
+      "date": "03.09.2024 20:25",
+      "content": "hayır ben esmer değil buğday tenliyim ama amele yanığı hem yüzümde hem kolumda var uzun süredir de geçmedi.\n\n4-5 yıl önce ne güzel açık ten duruyordum şimdi iyice esmer duruyorum hoşnut değilim bu durumdan. tavsiyelere açığım.",
+      "has_external_url": false
+    },
+    {
+      "title": "mülteciler yüzünden esmer erkek füryasının bitmesi",
+      "entry_id": "168025068",
+      "author": "outdoor",
+      "date": "03.09.2024 20:30",
+      "content": "papatya çayıyla kumral olur, mavi lens de takarsak al sana brad pitt oluruz amk.",
+      "has_external_url": false
+    }
+  ]
+}

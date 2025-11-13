@@ -1,0 +1,52 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:08:10.909035",
+    "total_entries": 5,
+    "input": "ukrayna'yı sallayan tatar kızı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukrayna'yı sallayan tatar kızı",
+      "entry_id": "50521368",
+      "author": "jihat",
+      "date": "12.04.2015 19:46",
+      "content": "şurada göreceğiniz üzere ukrayna'nın o ses yarışmasında doktor civanım ı söyleyen kızdır.",
+      "has_external_url": true
+    },
+    {
+      "title": "ukrayna'yı sallayan tatar kızı",
+      "entry_id": "50521792",
+      "author": "egiboy",
+      "date": "12.04.2015 20:06",
+      "content": "(bkz: aliye bekirova)",
+      "has_external_url": false
+    },
+    {
+      "title": "ukrayna'yı sallayan tatar kızı",
+      "entry_id": "50521885",
+      "author": "vanqusih",
+      "date": "12.04.2015 20:10",
+      "content": "paralel tatardır",
+      "has_external_url": false
+    },
+    {
+      "title": "ukrayna'yı sallayan tatar kızı",
+      "entry_id": "50522007",
+      "author": "barabas",
+      "date": "12.04.2015 20:15",
+      "content": "türkçe'nin ne kadar güzel bir dil olduğunu tekrar göstermiştir.",
+      "has_external_url": false
+    },
+    {
+      "title": "ukrayna'yı sallayan tatar kızı",
+      "entry_id": "50588254",
+      "author": "kahvenindibindekitelve",
+      "date": "15.04.2015 15:33",
+      "content": "güzel tatar kızım benim nede güzel söylemiş\nburada o - veren arkadaş kim niye verdi o kadar kişi izleyip beğenirken?",
+      "has_external_url": true
+    }
+  ]
+}

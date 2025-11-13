@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:44:24.577326",
+    "total_entries": 2,
+    "input": "oy kullanan suriyelileri yakalayıp deşifre etmek",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "oy kullanan suriyelileri yakalayıp deşifre etmek",
+      "entry_id": "41561265",
+      "author": "heraldino",
+      "date": "29.03.2014 14:31",
+      "content": "arap kökenliyim, arapçayı da türkçe kadar iyi biliyorum. bir arabı tipinden, bakışlarından, hal ve hareketlerinden şak diye tanırım. gördüğüm anda lafa tutup görüntüsünü çekeceğim. bu ülkeyi çapsızlara ve satılmışlara bırakmayız.",
+      "has_external_url": false
+    },
+    {
+      "title": "oy kullanan suriyelileri yakalayıp deşifre etmek",
+      "entry_id": "152374091",
+      "author": "sinsisinir",
+      "date": "14.05.2023 22:26",
+      "content": "nasıl deşifre edilecekmiş biri bilale anlatır gibi anlatabilir mi?",
+      "has_external_url": false
+    }
+  ]
+}

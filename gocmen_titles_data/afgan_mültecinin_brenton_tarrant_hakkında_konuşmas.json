@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:45:15.175655",
+    "total_entries": 2,
+    "input": "afgan mültecinin brenton tarrant hakkında konuşmas",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "afgan mültecinin brenton tarrant hakkında konuşmas",
+      "entry_id": "112085302",
+      "author": "minusci",
+      "date": "25.08.2020 18:34 ~ 18:37",
+      "content": "geçtiğimiz yıl yeni zeland'nın christchurch kasabasında 51 müslüman'ı camide ibadet sırasında katleden aşırı sağcı katil zanlısı brenton tarrant hakkınaki tüm deliller toplandıktan ve iddianamesi hazırlandıktan sonra yargılanmak üzere mahkeme önüne çıkarılıyor. o gün camide bulunan ve yaralanan afgan mülteci mirwais waziri tarihe geçecek bir açıklama yapıyor.\n\nkonuşma\n\naa haberi",
+      "has_external_url": true
+    },
+    {
+      "title": "afgan mültecinin brenton tarrant hakkında konuşmas",
+      "entry_id": "112159867",
+      "author": "uweyk",
+      "date": "27.08.2020 10:30",
+      "content": "tüm dünyanın bildiğini, ancak görmezden geldiğini bir kez daha söylemiştir. terörün, teröristin dili, dini, ırkı olmaz.",
+      "has_external_url": false
+    }
+  ]
+}

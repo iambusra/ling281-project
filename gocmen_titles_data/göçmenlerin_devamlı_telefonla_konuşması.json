@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:26:27.938412",
+    "total_entries": 2,
+    "input": "göçmenlerin devamlı telefonla konuşması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "göçmenlerin devamlı telefonla konuşması",
+      "entry_id": "116722584",
+      "author": "oku da madam ol",
+      "date": "11.12.2020 11:17 ~ 11:18",
+      "content": "avrupa ülkelerindeki göçmenleri gözlemledikten sonra kolayca varılabilinecek kanıdır. bu göçmenler; toplu taşımada, sağlık ocağında, alışveriş merkezlerinde, kısacası her yerde durmadan kendi dillerinde telefonla konuşmaktadırlar.\n\ngurbette olmanın getirdiği yalnızlık hissinden midir ya da uzaktaki akrabalara duyulan özlemden midir bilinmez ama özellikle bu pandemi zamanında hemen her yerde durmadan konuşan ve bu yolla muhtemelen etrafa tükürükler saçan göçmenler korona virüsü yaymada mutlaka büyük rol oynamaktadır.\n\nbiz de gurbette olan insanlar olarak ailemizle konuşuyoruz ama 5 dakika sonra konuşacak bir şey bulamayıp kapatıyoruz. bunlar nasıl saatlerce telefonda ne konuşuyorlar gerçekten de insan merak ediyor.\n\nek bir gözlem ise telefonda konuşma süresinin eğitim seviyesi ile ters orantılı olduğudur.",
+      "has_external_url": false
+    },
+    {
+      "title": "göçmenlerin devamlı telefonla konuşması",
+      "entry_id": "116722662",
+      "author": "anarkoholding",
+      "date": "11.12.2020 11:19",
+      "content": "is yapacagina cok konusanlarin, göcmen olarak yasayacagina delalet eden davranis.",
+      "has_external_url": false
+    }
+  ]
+}

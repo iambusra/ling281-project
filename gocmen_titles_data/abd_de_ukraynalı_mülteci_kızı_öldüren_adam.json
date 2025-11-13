@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:28:40.907324",
+    "total_entries": 2,
+    "input": "abd'de ukraynalı mülteci kızı öldüren adam",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "abd'de ukraynalı mülteci kızı öldüren adam",
+      "entry_id": "178188416",
+      "author": "cag atlanirken arada kalan adam",
+      "date": "07.09.2025 10:41",
+      "content": "abd’de 23 yaşındaki ukraynalı mülteci kızı, metroda arkasında bulunan adam sebepsiz yere boğazından bıçaklayarak öldürdü\n\nşaka gibi ya, metro gibi ihtimal verilmeyen yerlerde bile yaratıklar peydah oluyor\n\nkıyma makinesine atılması gereken yaratık",
+      "has_external_url": true
+    },
+    {
+      "title": "abd'de ukraynalı mülteci kızı öldüren adam",
+      "entry_id": "178188619",
+      "author": "kayit formu s 42",
+      "date": "07.09.2025 10:54",
+      "content": "olduren kisi homless'mis ve duzinlerce suc kaydi varmis. ve tabiki usual suspects: #blacklivesmatter\n\ncinayetin islenme saati 22:00 bu arada, oyle gece saatleri degil.\n\ndunya gercekten rezil bir yere dogru gidiyor. multeciler, kacaklar, evsizlik tehlike saciyor ve hukumetlerde bunu durduracak guc yok",
+      "has_external_url": false
+    }
+  ]
+}

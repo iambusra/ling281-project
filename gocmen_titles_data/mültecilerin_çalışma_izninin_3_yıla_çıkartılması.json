@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:53:56.419280",
+    "total_entries": 1,
+    "input": "mültecilerin çalışma izninin 3 yıla çıkartılması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "mültecilerin çalışma izninin 3 yıla çıkartılması",
+      "entry_id": "169324687",
+      "author": "soranasokanyus",
+      "date": "17.10.2024 14:06",
+      "content": "\"ülkeye katkıda bulunacak nitelikli kişilerin\" 3 yıla, niteliksiz olanların ise çalışma izni almadan 6 ay çalışabilmesine müsade eden izindir.\n\nekonomik krizin olduğu dönemde mültecilere verilen 6 aylık bu izinsiz çalışma, var olan krizi daha da derinleştirecektir.",
+      "has_external_url": false
+    }
+  ]
+}

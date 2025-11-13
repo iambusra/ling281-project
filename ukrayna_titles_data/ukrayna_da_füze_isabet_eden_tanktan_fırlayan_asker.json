@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:13:56.090550",
+    "total_entries": 1,
+    "input": "ukrayna'da füze isabet eden tanktan fırlayan asker",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukrayna'da füze isabet eden tanktan fırlayan asker",
+      "entry_id": "45432700",
+      "author": "kenjin",
+      "date": "03.09.2014 15:54",
+      "content": "'ölümün de güzeli olur mu' lafını tekrar düşündürten asker. bu nasıl bahtsız bir kadermiş ki tankla beraber parçalanan cesedin yetmiyor bilmem kaç metre havalanıp bir gerilim hattına takılıp kavrulmaya devam ediyor. korkunç bir manzara. insanoğlu hakkında umut vermiyor.",
+      "has_external_url": false
+    }
+  ]
+}

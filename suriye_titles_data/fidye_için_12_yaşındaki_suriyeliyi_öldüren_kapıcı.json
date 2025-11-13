@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:42:06.157896",
+    "total_entries": 2,
+    "input": "fidye için 12 yaşındaki suriyeliyi öldüren kapıcı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "fidye için 12 yaşındaki suriyeliyi öldüren kapıcı",
+      "entry_id": "152170845",
+      "author": "windowswizard",
+      "date": "10.05.2023 09:34",
+      "content": "okuyunca kanım dondu. allah belanı versin be adam, çocuk öldürmek nedir?\n\nkaynak",
+      "has_external_url": true
+    },
+    {
+      "title": "fidye için 12 yaşındaki suriyeliyi öldüren kapıcı",
+      "entry_id": "152170942",
+      "author": "h3lldreamer",
+      "date": "10.05.2023 09:38",
+      "content": "ahlaksız insan. aksiyon filminde yaşıyor sanki. ne cesaret böyle bir işe kalkışıyorsun? hadi tamam şeytana uydun. paraya ihtiyacın vardı. bu haltı yedin. yakalanacağını anlayınca çocuğu niye öldürüyorsun? yakalanacaksın işte. niye kendini daha kötü duruma sokuyorsun?",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:00:05.662585",
+    "total_entries": 2,
+    "input": "suriyelileri avrupaya gönderelim kampanyası",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelileri avrupaya gönderelim kampanyası",
+      "entry_id": "137460672",
+      "author": "mstnobody",
+      "date": "15.05.2022 06:19",
+      "content": "bize göndermeyin diye para ödüyorlar:).bir ara ödeme yapmıyorlar diye edirne sınır kapısını açmışlardı da yunanlar keklik avlar gibi suriyeli avlamıştı ya, hatırlatayım dedim.",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyelileri avrupaya gönderelim kampanyası",
+      "entry_id": "137461267",
+      "author": "genelevdeki polis",
+      "date": "15.05.2022 07:49",
+      "content": "(bkz: şerefsizim benim aklıma gelmişti)",
+      "has_external_url": false
+    }
+  ]
+}

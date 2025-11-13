@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:03:39.106828",
+    "total_entries": 1,
+    "input": "aleyna tilki ve sığınmacılardan rahatsız olan tip",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "aleyna tilki ve sığınmacılardan rahatsız olan tip",
+      "entry_id": "136298391",
+      "author": "hosvelkam",
+      "date": "17.04.2022 00:21",
+      "content": "başlığın silinen ilk entrysine aşağıdaki görsel linkinden ulaşılabilen, abi ne alaka diye sorduran, anlamsız yazar beyanıdır.\n\ngörsel",
+      "has_external_url": true
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:14:18.507178",
+    "total_entries": 1,
+    "input": "ukrayna'da angry birds oynayan göstericiler",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukrayna'da angry birds oynayan göstericiler",
+      "entry_id": "40541051",
+      "author": "workingdays",
+      "date": "19.02.2014 09:27",
+      "content": "mancınık yapmış adamlardır. lan!",
+      "has_external_url": false
+    }
+  ]
+}

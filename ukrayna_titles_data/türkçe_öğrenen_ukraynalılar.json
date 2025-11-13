@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:22:54.868396",
+    "total_entries": 1,
+    "input": "türkçe öğrenen ukraynalılar",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türkçe öğrenen ukraynalılar",
+      "entry_id": "136697690",
+      "author": "lale devrinde yasayan dilenci",
+      "date": "26.04.2022 21:18",
+      "content": "olaya iyi yaninda bakmak gerekirse; gerek turizm, ticaret, gerekse çalışmak için türkiye'ye gelen ve milyonlarca sığınmacının türkçe öğrenmesi sayesinde türkçe yaygın bir dil haline gelecek. bugün ve yakın gelecekte hem yukarida saydugim sebepler hem de dizi ve internet kulturu sayesinde balkanlar, ukrayna, kafkasya, orta asya ve ortadoğu coğrafyasında türkçe konusulan hakim olacak. bu durumu ticarete dökmeniz gerektiği bir gerçekliktir. türkiye'nin jeo-konumu gerçekliğinde hareket ederek kültür ve saglik turizmi, egitim, meyvecilik, organik tarım, enerji koridoru olma ve katma değer üreten nitelikli ürünlerin üretildiği zengin bir ülke haline gelmesi hayal değil.",
+      "has_external_url": false
+    }
+  ]
+}

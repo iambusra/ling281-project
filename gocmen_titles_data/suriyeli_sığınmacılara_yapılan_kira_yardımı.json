@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:03:01.095733",
+    "total_entries": 1,
+    "input": "suriyeli sığınmacılara yapılan kira yardımı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeli sığınmacılara yapılan kira yardımı",
+      "entry_id": "89797844",
+      "author": "nightmarechild",
+      "date": "07.05.2019 14:55",
+      "content": "yapılan yardım miktarı açıklanmasa da akp tarafından suriyelileri çadır kentlerden yerleşik düzene geçirmek için halkın vergilerini çarçur ettiği bütçemizdeki yeni kara deliktir.\n\nyardımı alan ailelerin kiralık ev tutarak çadır kenti terk ettiği haber de verilmiş. sonrasında artık kızılay üzerinden kendi şirketlerinizden fahiş fiyata temin ettiğiniz ramazan kolilerin i kamyon kamyon dağıtırsınız. bir kez de milleti ramazan ayı üzerinden sömürürsünüz.",
+      "has_external_url": true
+    }
+  ]
+}

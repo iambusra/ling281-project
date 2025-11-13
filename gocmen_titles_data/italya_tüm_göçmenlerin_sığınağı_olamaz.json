@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:25:35.416717",
+    "total_entries": 1,
+    "input": "italya tüm göçmenlerin sığınağı olamaz",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "italya tüm göçmenlerin sığınağı olamaz",
+      "entry_id": "144782079",
+      "author": "donald john trump",
+      "date": "06.11.2022 17:52",
+      "content": "tam hali: (bkz: almanya insani bir sorun olduğuna inanıyorsa, bununla ilgilenmeli, italya tüm göçmenlerin sığınağı olamaz)\n\nsource: https://www.zerohedge.com/…vt-refuses-dock-migrants",
+      "has_external_url": true
+    }
+  ]
+}

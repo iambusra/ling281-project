@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:55:01.154157",
+    "total_entries": 2,
+    "input": "mersin'de mültecilerin denizden giriş yapması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "mersin'de mültecilerin denizden giriş yapması",
+      "entry_id": "152050325",
+      "author": "alexdemesouza",
+      "date": "07.05.2023 09:50",
+      "content": "kaynak\n\nülke resmen ve fiilen yol geçen hanına dönmüş durumda. dünyanın hiçbir ülkesine bu kadar rahat giriş yapamazsınız. dünyanın hiçbir ülkesi bu kadar sahipsiz ve sınırları yok edilmiş değildir. buna göz yumanlar yargılanıp hesap vermelidir.",
+      "has_external_url": true
+    },
+    {
+      "title": "mersin'de mültecilerin denizden giriş yapması",
+      "entry_id": "152050438",
+      "author": "alexo",
+      "date": "07.05.2023 09:56",
+      "content": "başlık daha önce açıldı:\n\n(bkz: 7 mayıs 2023 tekneyle mersin'e taşınan mülteciler)",
+      "has_external_url": false
+    }
+  ]
+}

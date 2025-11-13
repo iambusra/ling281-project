@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:13:27.316489",
+    "total_entries": 1,
+    "input": "ukrayna'da yapılabilecek kazançlı meslekler",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukrayna'da yapılabilecek kazançlı meslekler",
+      "entry_id": "66235914",
+      "author": "ayb",
+      "date": "11.02.2017 23:10",
+      "content": "vizesiz kalma süresinin arttırılması ve kimlikle girişlerin gündeme geldiği bu günlerde turist türkler hedef kitlesine yapıldığında hem ukrayna standartlarının üzerinde para kazanıp hemde ukrayna ucuzluğundan yararlanılabilmesini sağlayacak mesleklerdir.\n(bkz: ticari danışmanlık)\n(bkz: taksicilik)\nnot: ukrayna'da taksi plakası ve taksimetre yoktur.",
+      "has_external_url": false
+    }
+  ]
+}

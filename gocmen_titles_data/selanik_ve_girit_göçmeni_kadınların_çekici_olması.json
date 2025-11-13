@@ -1,0 +1,88 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:10:37.148918",
+    "total_entries": 7,
+    "input": "selanik ve girit göçmeni kadınların çekici olması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "selanik ve girit göçmeni kadınların çekici olması",
+      "entry_id": "35035049",
+      "author": "somek kafali",
+      "date": "05.07.2013 17:34 ~ 17:35",
+      "content": "(bkz: güneyden kuzeye çıktıkca kadınların güzelleşmesi)",
+      "referenced_content": [],
+      "has_external_url": false
+    },
+    {
+      "title": "selanik ve girit göçmeni kadınların çekici olması",
+      "entry_id": "35035528",
+      "author": "toshibi kitano",
+      "date": "05.07.2013 17:56",
+      "content": "on numara dedirten tespittir. çok başarılı!",
+      "referenced_content": [],
+      "has_external_url": false
+    },
+    {
+      "title": "selanik ve girit göçmeni kadınların çekici olması",
+      "entry_id": "35036572",
+      "author": "vera pavlovnanin hayaleti",
+      "date": "05.07.2013 18:58",
+      "content": "(bkz: bu başlıkta göçmen kızları tespit ediyoruz)\n\nhttp://img228.imageshack.us/…8/9624/tara0001sf9.jpg",
+      "referenced_content": [],
+      "has_external_url": true
+    },
+    {
+      "title": "selanik ve girit göçmeni kadınların çekici olması",
+      "entry_id": "35036896",
+      "author": "el salsero",
+      "date": "05.07.2013 19:19",
+      "content": "içeriğini kavrayamadan selin girit i çağrıştıran, ne olduğunu bile anlamadan şuursuzca kabul ettiğim önerme.",
+      "referenced_content": [],
+      "has_external_url": false
+    },
+    {
+      "title": "selanik ve girit göçmeni kadınların çekici olması",
+      "entry_id": "35037129",
+      "author": "space shuttle commander",
+      "date": "05.07.2013 19:37",
+      "content": "(bkz: türk kızlarının hepsinin göçmen olması/#34003451)",
+      "referenced_content": [
+        {
+          "type": "entry",
+          "title": "turk-kizlarinin-hepsinin-gocmen-olmasi",
+          "entry_id": "34003451",
+          "author": "space shuttle commander",
+          "date": "21.05.2013 18:41",
+          "content": "(bkz: ben küçükken sarışınmışım sonradan esmer olmuşum)",
+          "has_external_url": false
+        }
+      ],
+      "referenced_entry_ids": [
+        "34003451"
+      ],
+      "has_external_url": false
+    },
+    {
+      "title": "selanik ve girit göçmeni kadınların çekici olması",
+      "entry_id": "52374154",
+      "author": "smyrian mug",
+      "date": "17.06.2015 12:48",
+      "content": "benim ya benim işte. anneanne tarafım girit, dede tarafım selanik oradan önce moldovya. anneannem 98 yaşında vefat etti. erkeğe köle olmadı kendi ayaklarının üzerinde durup 6 çocuğunu da savaş döneminde okuttu. dedem selanik'ten mübadele zamanında geldiğinde gurur yapmayıp işçi olarak çalıştı bornova yolundaki ağaçları dikmiş hatta. sonra nato'daki işine geri dönmüş sefalet yıllarından sonra. gerçek savaşı yaşayan büyüklerim oldu benim. dinle devlet işlerini dengeleyip 10 kasım'da bayrağını asıp atatürk'e yasin okuyan güzel insanların torunuyum ben. erkeğin ve kadının ayrılmaz bir bütün olduğuna inanırım ben. saygımı eksik etmez ve karşılığında beklerim. aldatmaya tenezzül etmem seviyorsam onunlayımdır sevmiyorsam zaten yokum. kimseye muhtaç değilim. yalnızlığımı da severim ilişkide bir olmayı da. karşımdakine hayır demeyi bilirim oyun oynamam ya da yedekte dursun hiç tarzım değildir. ondan derim ki kolay değil bu erkek egosunun tavan yaptığı bir ülkede göçmen kızı olmak..",
+      "referenced_content": [],
+      "has_external_url": false
+    },
+    {
+      "title": "selanik ve girit göçmeni kadınların çekici olması",
+      "entry_id": "99355591",
+      "author": "olmaz olsun boyle dunya",
+      "date": "20.12.2019 00:22 ~ 29.07.2020 19:15",
+      "content": "annem tarafı selanik göçmeni,üç kardeşiz sarışın yeşil gözler genetik ama annemin gözleri kahverengi saçlar siyah,biz babama çekmişiz babam göçmen değil sarı saçlı gözleri yeşil olan babamın genleri baskın çıkmış yani şansa bak...",
+      "referenced_content": [],
+      "has_external_url": false
+    }
+  ]
+}

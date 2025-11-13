@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:15:42.669529",
+    "total_entries": 1,
+    "input": "şu anda bile akın akın göçmenin gelmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "şu anda bile akın akın göçmenin gelmesi",
+      "entry_id": "78751228",
+      "author": "tatil kufesi",
+      "date": "02.07.2018 13:15 ~ 13:17",
+      "content": "türki cumhuriyetler, afganistan'dan\nsuriye'den akın akın göçün sürdüğünü bilmeden (akape ne yapmak istiyor) suriyeliler gönderilsin diye kendimizi parçalamamızdır.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:23:58.032790",
+    "total_entries": 1,
+    "input": "göçmenlerle beraber avrupa'ya kaçmak",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "göçmenlerle beraber avrupa'ya kaçmak",
+      "entry_id": "102863043",
+      "author": "cikilops",
+      "date": "01.03.2020 18:52",
+      "content": "ver elini nice, st.tropez, hadi buralar olmadı diyelim leş marsilya.",
+      "has_external_url": false
+    }
+  ]
+}

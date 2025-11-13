@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T00:02:06.162398",
+    "total_entries": 1,
+    "input": "100 bin göçmen psikolojik sınırı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "100 bin göçmen psikolojik sınırı",
+      "entry_id": "142503619",
+      "author": "sadoo",
+      "date": "10.09.2022 19:35",
+      "content": "helal olsun kripto haricinde farklı bir konu da daha 100x yapılabileceğini görmüş olduk.",
+      "has_external_url": false
+    }
+  ]
+}

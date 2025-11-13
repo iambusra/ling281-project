@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:00:15.176274",
+    "total_entries": 1,
+    "input": "eğitimde sığınmacılar sorunu",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "eğitimde sığınmacılar sorunu",
+      "entry_id": "156720987",
+      "author": "turk bilge kagan",
+      "date": "13.09.2023 22:19 ~ 22:19",
+      "content": "kimsenin sözünü etmediği büyük sorun.\n\nşu an kimi sınıflarda sığınmacı nüfusu %90'ları geçmiş durumda ve öğretmenler bu sınıflarda türk edebiyatı, türk tarihi, atatürkçülük gibi dersler anlatmaya çalışıyor.\n\ntarih dersinde, birinci dünya savaşı ve arap isyanlarını bu sığınmacıların doldurduğu sınıflarda anlatmaya çalışan öğretmenlerin vay hâline.\n\nbu durum kimselerin de umurunda değil.\n\naslında bu ülkenin vay hâline.\n\nnot: al bu da bir örnek:\n\n(bkz: sığınmacıların milli marş isyanı)",
+      "has_external_url": false
+    }
+  ]
+}

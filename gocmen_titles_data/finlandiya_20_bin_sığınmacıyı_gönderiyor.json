@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:58:20.393847",
+    "total_entries": 2,
+    "input": "finlandiya 20 bin sığınmacıyı gönderiyor",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "finlandiya 20 bin sığınmacıyı gönderiyor",
+      "entry_id": "58104999",
+      "author": "kumrengi",
+      "date": "29.01.2016 11:43 ~ 04.02.2016 16:27",
+      "content": "(bkz: finlandiya'yı sıkıcı bularak terkeden göçmenler)",
+      "has_external_url": false
+    },
+    {
+      "title": "finlandiya 20 bin sığınmacıyı gönderiyor",
+      "entry_id": "58105072",
+      "author": "drogbawashere",
+      "date": "29.01.2016 11:46",
+      "content": "restini görüyor ve arttırıyorum",
+      "has_external_url": false
+    }
+  ]
+}

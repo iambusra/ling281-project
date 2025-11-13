@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:08:25.325169",
+    "total_entries": 4,
+    "input": "göcmen ejderha",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "göcmen ejderha",
+      "entry_id": "124485872",
+      "author": "ben sana geldim",
+      "date": "12.06.2021 12:23",
+      "content": "entelektüel, ne istediğini bilen ve yardımsever güzel yazar. doğum gününüz kutlu olsun (bkz: swh)",
+      "has_external_url": false
+    },
+    {
+      "title": "göcmen ejderha",
+      "entry_id": "142669869",
+      "author": "bu simdi ucuyor mu",
+      "date": "14.09.2022 16:06",
+      "content": "house of the dragon başlığını şenlendiren dolu dolu entryler giren yazar. yazsın şenlendirsin sözlüğü.",
+      "has_external_url": false
+    },
+    {
+      "title": "göcmen ejderha",
+      "entry_id": "157028171",
+      "author": "vesionari",
+      "date": "23.09.2023 00:36",
+      "content": "bir süredir kadın milli voleybol takımının maç başlıklarının kalitesini arttıran yazar. özellikle fivb sıralama puanlarının nasıl değişebileceğiyle ilgili bilgileri çok değerli.\n\numarım ki sıkılmadan bu bilgileri bizimle paylaşmaya devam edecek.",
+      "has_external_url": false
+    },
+    {
+      "title": "göcmen ejderha",
+      "entry_id": "162089124",
+      "author": "tamamabisensin",
+      "date": "02.03.2024 23:02",
+      "content": "hayal diyarların güzin ablası.\nkeyif aldığım diziler hakkında kapsamlı araştırma yapan ve paylaşan kaliteli yazar.",
+      "has_external_url": false
+    }
+  ]
+}

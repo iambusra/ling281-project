@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:14:25.484055",
+    "total_entries": 1,
+    "input": "ukrayna'da almana takılmak",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukrayna'da almana takılmak",
+      "entry_id": "32886897",
+      "author": "karayan",
+      "date": "26.03.2013 00:29",
+      "content": "telegol programinda 25.03.2013 tarihli programin ilerleyen saatlerinde galatasaray stat sorumlularinin ukrayna gezisinde yaptiklarini anlatan bir e-mail'in programda sunulmasi uzerine erman toroglu ve diger elemanlardan birkacinin turettigi terim.",
+      "has_external_url": false
+    }
+  ]
+}

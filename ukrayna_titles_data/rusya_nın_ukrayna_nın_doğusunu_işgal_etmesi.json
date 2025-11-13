@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:15:51.062846",
+    "total_entries": 1,
+    "input": "rusya'nın ukrayna'nın doğusunu işgal etmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rusya'nın ukrayna'nın doğusunu işgal etmesi",
+      "entry_id": "65998157",
+      "author": "hayyamgibisi",
+      "date": "01.02.2017 00:10",
+      "content": "rusya ile amerika kapışması putin dünyanın amerika'ya ait olmadığını gösteriyor malesef modern insanların savaşı.",
+      "has_external_url": false
+    }
+  ]
+}

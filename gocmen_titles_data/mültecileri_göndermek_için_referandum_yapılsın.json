@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:48:30.977411",
+    "total_entries": 1,
+    "input": "mültecileri göndermek için referandum yapılsın",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "mültecileri göndermek için referandum yapılsın",
+      "entry_id": "165906220",
+      "author": "maslow apartmani cati kat",
+      "date": "01.07.2024 23:05 ~ 02.07.2024 01:43",
+      "content": "evet, ben bir vatandaş olarak yaşanılanlardan duyduğum üzüntüyü demokratik hakkımla bir nebze olsun gidermek istiyorum. ülke demografisi için büyük bir yıkım olan afgan, suriyeli ve envai çeşit mülteci, sığınmacı, kaçak her neyse halka danışılarak gönderilmeli. ülkemize gelen bu insanlar seçilmiyor, rehabilite edilmeleri, toplumumuza ayak uydurmaları güç. değerlerimizi ve vicdanımızı kaybediyoruz karşılaştığımız her olayda. rica ediyorum kamuoyu oluşsun ve en az %85 oyla gönderilmek istediklerini hep birlikte görelim.\n\nedit: %15 lik dilim de 250 bin dolara ev alıp vatandaşlık elde edenler.",
+      "has_external_url": false
+    }
+  ]
+}

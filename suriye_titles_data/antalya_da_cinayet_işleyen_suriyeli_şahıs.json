@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:34:28.923246",
+    "total_entries": 4,
+    "input": "antalya'da cinayet işleyen suriyeli şahıs",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "antalya'da cinayet işleyen suriyeli şahıs",
+      "entry_id": "177282983",
+      "author": "cag atlanirken arada kalan adam",
+      "date": "02.08.2025 17:18",
+      "content": "antalya'da trans birey nida nazlıer'i öldüren suriyeli a.ö.e.h. (28) ifadesinde \"ilişki konusunda anlaştık ama onun trans birey olduğunu bilmiyordum. aramızda tartışma çıktı. onu ittirdiğim esnada aynaya çarptı ve kırıldı. ben de cam parçalarını alıp ona vurdum.\" demiş\n\nihbarla olay yerine gelen ekipler, ilk belirlemelere göre boğazına, sağ ve sol yüzüne bıçak darbesi alan nazlıer'in öldüğünü belirledi.\n\nhaber",
+      "has_external_url": true
+    },
+    {
+      "title": "antalya'da cinayet işleyen suriyeli şahıs",
+      "entry_id": "177283081",
+      "author": "topkapili",
+      "date": "02.08.2025 17:24",
+      "content": "ya kardeşim a.e.ö.h. nedir allasen? bizi kimlerle yüz göz ediyorsun sevgili devlet erkanım? bizim sapığımız bize yetiyordu zaten. bizim manyağımız bize kadar vardı zaten. ithal a.e.ö.h. diye manyak mı olur aq",
+      "has_external_url": false
+    },
+    {
+      "title": "antalya'da cinayet işleyen suriyeli şahıs",
+      "entry_id": "177283172",
+      "author": "kara alerjisi olan kardan adam",
+      "date": "02.08.2025 17:29",
+      "content": "bu insanlara artık müebbet verilmeli, gün yüzü gösterilmemelidir.\n\nmilletin ülkesine suriyelilerin bile seçkin insanları giderken, bize ortadoğunun en geri kalmışları ve suça meyillileri gelmiş.",
+      "has_external_url": false
+    },
+    {
+      "title": "antalya'da cinayet işleyen suriyeli şahıs",
+      "entry_id": "177283414",
+      "author": "kendihalindebircingen",
+      "date": "02.08.2025 17:42",
+      "content": "bence sınırları kapatsınlar ve artık insanlar elini kolunu sallayarak ülkemize giremesin, suç işleyenler sınır dışı edilsin ülkeye ömür boyu girişi yasaklansın... elalemin sapıkları, katilleri, hırsızlarıyla niye biz uğraşıyoruz...",
+      "has_external_url": false
+    }
+  ]
+}

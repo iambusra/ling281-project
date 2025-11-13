@@ -1,0 +1,52 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:43:23.358950",
+    "total_entries": 5,
+    "input": "kayseri suriyeliler ensar derneği",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "kayseri suriyeliler ensar derneği",
+      "entry_id": "108869045",
+      "author": "minimalistdev",
+      "date": "15.06.2020 08:15",
+      "content": "misafirlerimiz hiç gitmeyeceklermiş gibi yerleşiyorlar dedirten dernektir.\n\nhttp://www.kayserigundem.com.tr/…ilendi-h36994.html",
+      "has_external_url": true
+    },
+    {
+      "title": "kayseri suriyeliler ensar derneği",
+      "entry_id": "108885263",
+      "author": "illegalstar",
+      "date": "15.06.2020 16:12 ~ 16:14",
+      "content": "derneği kuran suriyeliler değil. derneğin amacı suriyelilere ensar olmak adına açılmıştır.\n\n(bkz: ensar olmak)\n\n\"suriye'yi anlayabilmek için ensar olmak! arapçada ensar; \"yardım edenler, yardımcılar\" demektir. sıfat olarak, \"herkesi seven, herkese yardım eden\" anlamına gelir. terim olarak, islam dininin tarihsel gelişimi açısından büyük bir öneme sahip olan hicret olayı ile bir topluluğa kimlik olarak terimleşmiştir.\"",
+      "has_external_url": false
+    },
+    {
+      "title": "kayseri suriyeliler ensar derneği",
+      "entry_id": "108886381",
+      "author": "arcticlight",
+      "date": "15.06.2020 16:41",
+      "content": "inanmayin. opecekler...",
+      "has_external_url": false
+    },
+    {
+      "title": "kayseri suriyeliler ensar derneği",
+      "entry_id": "108886544",
+      "author": "jessejeyms",
+      "date": "15.06.2020 16:45",
+      "content": "(bkz: ay hadi insallah)",
+      "has_external_url": false
+    },
+    {
+      "title": "kayseri suriyeliler ensar derneği",
+      "entry_id": "165916191",
+      "author": "mahavishnu",
+      "date": "02.07.2024 07:17 ~ 07:30",
+      "content": "türkiye, istihbarat örgütleri için müthiş uygulama alanlarından biridir.\n\nsuriler dernek kurdurmuşlar türklere. kendileri de kurmamış, türklere kurdurmuşlar. istihbarat örgütleri için bu tür durumlar çok büyük başarıdır.\n\nkonunun anlaşılması adına biraz daha açayım durumu; istihbarat teşkilatımızın, iran zerdüştlerinin bulunduğu bölgede, \"ateşine soktuklarım\" isimli derneği zerdüşt birey'e kurdurması ifadesi, nasıl fantastik geliyor değil mi, olmayacak karikatür gibi adeta. ancak ülkemizde bu başarılmış işte.",
+      "has_external_url": false
+    }
+  ]
+}

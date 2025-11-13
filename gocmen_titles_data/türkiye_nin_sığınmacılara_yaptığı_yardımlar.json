@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:03:25.269182",
+    "total_entries": 3,
+    "input": "türkiye'nin sığınmacılara yaptığı yardımlar",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türkiye'nin sığınmacılara yaptığı yardımlar",
+      "entry_id": "43958385",
+      "author": "somek kafali",
+      "date": "04.07.2014 19:50",
+      "content": "baya vardır.",
+      "has_external_url": false
+    },
+    {
+      "title": "türkiye'nin sığınmacılara yaptığı yardımlar",
+      "entry_id": "43958412",
+      "author": "psychiatry",
+      "date": "04.07.2014 19:52",
+      "content": "sıcacık evinde sabah akşam hayvan gibi tıkınan danaları rahatsız etmiştir.\n\n(bkz: empati)",
+      "has_external_url": false
+    },
+    {
+      "title": "türkiye'nin sığınmacılara yaptığı yardımlar",
+      "entry_id": "43958427",
+      "author": "somek kafali",
+      "date": "04.07.2014 19:53",
+      "content": "(bkz: suriyeli sığınmacıların kelle başı 800 lira alması)",
+      "has_external_url": false
+    }
+  ]
+}

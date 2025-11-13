@@ -1,0 +1,52 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:24:27.164505",
+    "total_entries": 5,
+    "input": "rus'a gitmek isteyenlere destek platformu",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rus'a gitmek isteyenlere destek platformu",
+      "entry_id": "38173209",
+      "author": "burasi les gibi gol kokuyor",
+      "date": "08.11.2013 15:36",
+      "content": "(bkz: rus numarasi var mi abi)",
+      "has_external_url": false
+    },
+    {
+      "title": "rus'a gitmek isteyenlere destek platformu",
+      "entry_id": "38173238",
+      "author": "sefil kefil",
+      "date": "08.11.2013 15:37",
+      "content": "(bkz: lenin'den rus numarası istemek)",
+      "has_external_url": false
+    },
+    {
+      "title": "rus'a gitmek isteyenlere destek platformu",
+      "entry_id": "38173284",
+      "author": "komando kani var bende",
+      "date": "08.11.2013 15:40",
+      "content": "antalya erkeği için sorun olmayan platform. amına kodumun köylüleri düşünsün.",
+      "has_external_url": false
+    },
+    {
+      "title": "rus'a gitmek isteyenlere destek platformu",
+      "entry_id": "38173693",
+      "author": "zirvelerin aranan ismi",
+      "date": "08.11.2013 16:02",
+      "content": "herkes bir lira verse guneydogulu genclerimizi yoksunluktan kurtarmakla baslayabiliriz mottosuya yola cikan platform",
+      "has_external_url": false
+    },
+    {
+      "title": "rus'a gitmek isteyenlere destek platformu",
+      "entry_id": "134365785",
+      "author": "seviyorsevmiyorseviyorsevmiyorseviyor",
+      "date": "01.03.2022 14:02",
+      "content": "askıya alınması gereken platformdur.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:25:36.764049",
+    "total_entries": 3,
+    "input": "suriyeli göçmenlerin türkiye'den şikayet etmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeli göçmenlerin türkiye'den şikayet etmesi",
+      "entry_id": "143779189",
+      "author": "0game",
+      "date": "11.10.2022 16:49",
+      "content": "çıktığınız yere kadar yolunuz var.",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyeli göçmenlerin türkiye'den şikayet etmesi",
+      "entry_id": "143779387",
+      "author": "nedemekfelsefe",
+      "date": "11.10.2022 16:55",
+      "content": "gidebilirsiniz kapıya doğru",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyeli göçmenlerin türkiye'den şikayet etmesi",
+      "entry_id": "143782436",
+      "author": "pokemonski",
+      "date": "11.10.2022 18:23",
+      "content": "azalarak yok olmanız dileğiyle...",
+      "has_external_url": false
+    }
+  ]
+}

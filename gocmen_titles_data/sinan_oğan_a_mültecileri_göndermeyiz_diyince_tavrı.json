@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:49:09.181548",
+    "total_entries": 3,
+    "input": "sinan oğan'a mültecileri göndermeyiz diyince tavrı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "sinan oğan'a mültecileri göndermeyiz diyince tavrı",
+      "entry_id": "152702382",
+      "author": "markasiz",
+      "date": "22.05.2023 23:06",
+      "content": "mültecileri tabiki de gönderemeyiz. gönderirsek üstad süleyman soylu'nun da söylediği gibi allah bizi yakar diye vereceği tepkidir. allah'ın sözü üstüne söz söyleyebilecek biri değildir sinan oğan. o yüzden kusura bakmayın sinan oğan allah yolunda olmayı tercih etmiştir.",
+      "has_external_url": false
+    },
+    {
+      "title": "sinan oğan'a mültecileri göndermeyiz diyince tavrı",
+      "entry_id": "152703358",
+      "author": "david jon gilmour",
+      "date": "22.05.2023 23:28",
+      "content": "sinan oğan durur mu yapıştırmış cevabı: \"hiç mi?\"",
+      "has_external_url": false
+    },
+    {
+      "title": "sinan oğan'a mültecileri göndermeyiz diyince tavrı",
+      "entry_id": "152703478",
+      "author": "aklinizdanevarsa",
+      "date": "22.05.2023 23:31",
+      "content": "kandirildim ey halkım der en fazla",
+      "has_external_url": false
+    }
+  ]
+}

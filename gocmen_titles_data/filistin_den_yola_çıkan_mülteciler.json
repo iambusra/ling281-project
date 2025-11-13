@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:46:07.664963",
+    "total_entries": 1,
+    "input": "filistin'den yola çıkan mülteciler",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "filistin'den yola çıkan mülteciler",
+      "entry_id": "167187498",
+      "author": "sanchez morales",
+      "date": "09.08.2024 21:29",
+      "content": "cnn türk ekranlarında tesadüf ettiğim habere konu olan insanlardır. israil'in orantısız güç kullanımına sekonder olarak birçok filistinli insan evsiz, barksız ve mektepsiz kaldı. altyapı, hastane, mektep falan her şey yerle yeksan oldu.\n\nbu insanlar viraneye dönen şehirlerini kafile hâlinde terk ederken, hiçbir arap ülkesi tarafından kabul görmüyorlar. mısır ve ürdün'deki kamplar tamamen geçici. kalıcı olarak iskan edilmelerine müsaade edilmiyor.\n\ngaliba türkiye'ye gelecekler. umarım yanılırım ama havuz medyasındaki haberler öyle bir intiba uyandırdı bende",
+      "has_external_url": false
+    }
+  ]
+}

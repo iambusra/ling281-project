@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:26:09.932886",
+    "total_entries": 1,
+    "input": "pek çok rus'un türkçe öğrenmeye başlaması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "pek çok rus'un türkçe öğrenmeye başlaması",
+      "entry_id": "27220119",
+      "author": "contrails",
+      "date": "31.01.2012 09:06",
+      "content": "vatan gazetesinin haberine göre; rusya'da domaşnıy kanalında yayınlanan muhteşem yüzyıl dizisinin bazı gerekçelerle yayından kalkmasının ardından diziyi orjinal diliyle seyretmek isteyen pek çok rus'un gerçekleştirdiği eylem.\n\nhttp://fotogaleri.gazetevatan.com/…galeri/21600/1/1",
+      "has_external_url": true
+    }
+  ]
+}

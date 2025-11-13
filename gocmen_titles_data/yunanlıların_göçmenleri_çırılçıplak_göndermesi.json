@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:20:13.360174",
+    "total_entries": 1,
+    "input": "yunanlıların göçmenleri çırılçıplak göndermesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "yunanlıların göçmenleri çırılçıplak göndermesi",
+      "entry_id": "103107600",
+      "author": "haciz mahallinde tango",
+      "date": "06.03.2020 13:13",
+      "content": "başlıkta ilgi çekmek için \"çırılçıplak\" deyip, entry içeriğinde \"yarı çıplak\" şeklinde tanım vermek de, ne bileyim...",
+      "has_external_url": false
+    }
+  ]
+}

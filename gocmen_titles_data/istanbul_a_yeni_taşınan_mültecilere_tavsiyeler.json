@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:51:36.511898",
+    "total_entries": 1,
+    "input": "istanbul'a yeni taşınan mültecilere tavsiyeler",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "istanbul'a yeni taşınan mültecilere tavsiyeler",
+      "entry_id": "127508322",
+      "author": "lucidreamz",
+      "date": "30.08.2021 19:43",
+      "content": "ilk olarak en kısa sürede geldiğiniz gibi gitmenizi temenni ediyorum.\n\ngidemeyenler için ilk tavsiyem, uyum sağlamaya çalışın, insanlar zaten çeşitli zorluklar ile mücadele ediyor, bir de insanlara siz sorun çıkarmayın.\n\ndiğer tavsiyem, bir adrese gitmek için taksiye binince taksicilere istanbul'da yeni olduğunuzu belirtin.",
+      "has_external_url": false
+    }
+  ]
+}

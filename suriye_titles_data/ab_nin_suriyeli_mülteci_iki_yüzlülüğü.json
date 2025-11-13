@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:26:51.232836",
+    "total_entries": 1,
+    "input": "ab'nin suriyeli mülteci iki yüzlülüğü",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ab'nin suriyeli mülteci iki yüzlülüğü",
+      "entry_id": "58972774",
+      "author": "dergul",
+      "date": "05.03.2016 20:18",
+      "content": "bu yeni bir şey değil. kimyasal silah bahanesiyle, saddam'ı indirenler, halepçe'ye sessiz kalmışlardı.",
+      "has_external_url": false
+    }
+  ]
+}

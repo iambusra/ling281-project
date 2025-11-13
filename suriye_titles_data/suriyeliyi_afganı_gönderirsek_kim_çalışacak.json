@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:07:49.838397",
+    "total_entries": 4,
+    "input": "suriyeliyi afganı gönderirsek kim çalışacak",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeliyi afganı gönderirsek kim çalışacak",
+      "entry_id": "136152674",
+      "author": "akrep yelkovan",
+      "date": "13.04.2022 12:57",
+      "content": "tük vatandaşı taş yesin isteyen birilerinin sorusu.",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyeliyi afganı gönderirsek kim çalışacak",
+      "entry_id": "136152834",
+      "author": "dergul",
+      "date": "13.04.2022 13:02 ~ 13:07",
+      "content": "yarın kendi işletmelerini açıp, kayıt dışı şekilde çalıştırırlarsa, aynı şekilde ağlayacak olan kesimin yakınmasıdır.",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyeliyi afganı gönderirsek kim çalışacak",
+      "entry_id": "136152889",
+      "author": "willforsaken",
+      "date": "13.04.2022 13:04",
+      "content": "cümle yanlış olmuş: \"suriyelileri afganlıları göndersek bu paralara ssk sız kim çalışacak\"",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyeliyi afganı gönderirsek kim çalışacak",
+      "entry_id": "136153259",
+      "author": "boranbaker",
+      "date": "13.04.2022 13:16",
+      "content": "sanki ülkede kimsenin iş sıkıntısı yok, dedikleri gibi kimse iş beğenmiyor. yok kardeşim yok. her türlü çalışır bu millet işi ne.",
+      "has_external_url": false
+    }
+  ]
+}

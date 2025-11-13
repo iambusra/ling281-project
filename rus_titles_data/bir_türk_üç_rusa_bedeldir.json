@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:25:37.544231",
+    "total_entries": 4,
+    "input": "bir türk üç rusa bedeldir",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "bir türk üç rusa bedeldir",
+      "entry_id": "7264942",
+      "author": "actionary",
+      "date": "08.04.2005 04:07",
+      "content": "vakt-i zamanında şakacı programında yapılmış bir şakada geçen unutulmaz cümle. çetin çiftçioğlu, bakırköy meydanı'nda bir amcayı feci gaza getirmiş, amca coştukça coşmuş, ve neticede böyle bir cümleyi adeta haykırmıştır:\n\n\"bir türk... üç... rus'a bedeldir!\"\n\nhaykırmıştır haykırmasına da, hani bir türk dünyaya bedeldi yahu? durumlar değişti mi yoksa, yani üç rus da dünyaya bedel midir? yoksa türk'ün değeri dünya karşısında azalmış mıdır?\n\ntürk'ten sıfır atılmalı mıdır?",
+      "has_external_url": false
+    },
+    {
+      "title": "bir türk üç rusa bedeldir",
+      "entry_id": "7264951",
+      "author": "imaloserbabysowhydontukillme",
+      "date": "08.04.2005 04:22",
+      "content": "kültür bakanımıza göre ekstra görgüsüzlükle cezalandırılmamıza yol açacak cümledir.",
+      "has_external_url": false
+    },
+    {
+      "title": "bir türk üç rusa bedeldir",
+      "entry_id": "10047440",
+      "author": "skybreak",
+      "date": "16.09.2006 12:22",
+      "content": "(bkz: foursome)",
+      "has_external_url": false
+    },
+    {
+      "title": "bir türk üç rusa bedeldir",
+      "entry_id": "10047475",
+      "author": "crown",
+      "date": "16.09.2006 12:40",
+      "content": "\" turk kizlari tedavulden kalksin rus kizlar gelsin \" kampanyası dahilinde parametre olarak alınırsa türk erkeği başına üç rus kızı düşecektir allah muhafaza...",
+      "has_external_url": false
+    }
+  ]
+}

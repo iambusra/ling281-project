@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:14:16.488709",
+    "total_entries": 2,
+    "input": "faiz lobisinin ukrayna'da kazandığı para",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "faiz lobisinin ukrayna'da kazandığı para",
+      "entry_id": "40553635",
+      "author": "temmuz sogugu",
+      "date": "19.02.2014 20:36",
+      "content": "fuhuş lobisinden fazla olan paradır.",
+      "has_external_url": false
+    },
+    {
+      "title": "faiz lobisinin ukrayna'da kazandığı para",
+      "entry_id": "40553686",
+      "author": "akuttonsllit",
+      "date": "19.02.2014 20:39",
+      "content": "kiev de yapilacak 3. havaalanini engellemeye calisan lufthansa dan biraz fazladir.",
+      "has_external_url": false
+    }
+  ]
+}

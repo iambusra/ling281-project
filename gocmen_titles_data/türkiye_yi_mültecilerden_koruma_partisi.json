@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:52:10.243267",
+    "total_entries": 1,
+    "input": "türkiye'yi mültecilerden koruma partisi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türkiye'yi mültecilerden koruma partisi",
+      "entry_id": "126237291",
+      "author": "u1076652",
+      "date": "28.07.2021 17:47",
+      "content": "kısa adı tmkp olan, gerçekte var olmasını dilediğimiz hayali parti. bugün kurulsa, başka hiçbir vaadi olmasa, bu tek vaad ile en az %51'i garantidir.\n\nbakalım ilk kim uyanacak da bu isi gerçekleştirecek. kurun şunu oyum sizin.",
+      "has_external_url": false
+    }
+  ]
+}

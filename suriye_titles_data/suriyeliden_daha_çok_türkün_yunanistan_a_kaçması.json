@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:53:21.872020",
+    "total_entries": 2,
+    "input": "suriyeliden daha çok türkün yunanistan'a kaçması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeliden daha çok türkün yunanistan'a kaçması",
+      "entry_id": "103133905",
+      "author": "buyuyup buyuk adam olacaktim",
+      "date": "06.03.2020 23:31",
+      "content": "yunanistana geçmeyi başarıp yakalanaın 252 mültecinin kökenleri:\n\nafghanistan: 64%\npakistan: 19%\nturkey: 5%\nsyria: 4%\nsomalia: 2.6%\nıraq, ıran, ethiopia, morocco, bangladesh, egypt: 5.4%\n\nhttps://twitter.com/…tatus/1235630402221543425?s=21",
+      "has_external_url": true
+    },
+    {
+      "title": "suriyeliden daha çok türkün yunanistan'a kaçması",
+      "entry_id": "103135643",
+      "author": "buyuyup buyuk adam olacaktim",
+      "date": "07.03.2020 00:01",
+      "content": "biraz daha kaynak verelim: https://www.protothema.gr/…o-deka-apo-ti-suria/amp/\n\nyunanlılar kesmediyse fikir vermesi açısından kriz başlamadan öncesi için istatistikleri verelim: https://data2.unhcr.org/…editerranean/location/5179\n\nerdoğan sığınmacıları sınıra sürmeden önce suriyeliler sadece %20'yi oluşturuyormuş. 1.ci sırada yine afganlar var. fetöcülerin geçtiği de bilinen bir şey ancak tabi onlar bm istatistiklerinde yok.",
+      "has_external_url": true
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T13:48:45.459787",
+    "total_entries": 1,
+    "input": "10 mayıs 2018 suriye israil savaşı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "10 mayıs 2018 suriye israil savaşı",
+      "entry_id": "76823157",
+      "author": "pronotorquadratus",
+      "date": "10.05.2018 02:39",
+      "content": "an itibariyle karşılıklı atışlarla başlamış olaydır.",
+      "has_external_url": false
+    }
+  ]
+}

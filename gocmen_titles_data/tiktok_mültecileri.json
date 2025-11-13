@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:48:13.587570",
+    "total_entries": 1,
+    "input": "tiktok mültecileri",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "tiktok mültecileri",
+      "entry_id": "172019317",
+      "author": "patates yiyen uzayli",
+      "date": "19.01.2025 14:47",
+      "content": "amerika'da tiktokun kapatılması ile hayatımıza girmiş olan güzide kavram. tiktok mültecileri, xiaohongshu adında tiktok muadilini kullanmak için çince öğrenmeye başlamışlar.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:03:48.258175",
+    "total_entries": 1,
+    "input": "türklerin sığınmacılarla yaşamaya zorlanması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türklerin sığınmacılarla yaşamaya zorlanması",
+      "entry_id": "165902847",
+      "author": "sefilmudur",
+      "date": "01.07.2024 21:35",
+      "content": "sığınmacı sıfatıyla durumu legalleştirmeseniz nasıl olur?\nbunlar düpedüz işgalci dir.",
+      "has_external_url": false
+    }
+  ]
+}

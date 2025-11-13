@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:13:12.908068",
+    "total_entries": 1,
+    "input": "ukrayna da bitcoin",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukrayna da bitcoin",
+      "entry_id": "89401153",
+      "author": "fraudkafasi",
+      "date": "27.04.2019 09:22",
+      "content": "merhaba arkadaşlar. ukraynada bitcoin kullanımı üretilmesi ve borsası hakkında bilgisi olan varsa yeşillendirirse sevinirim. yeşil biraları aldım bekliyorum",
+      "has_external_url": false
+    }
+  ]
+}

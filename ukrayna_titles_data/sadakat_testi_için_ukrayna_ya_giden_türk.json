@@ -1,0 +1,52 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:11:14.789665",
+    "total_entries": 5,
+    "input": "sadakat testi için ukrayna'ya giden türk",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "sadakat testi için ukrayna'ya giden türk",
+      "entry_id": "25580387",
+      "author": "aero dynamik",
+      "date": "02.10.2011 03:14",
+      "content": "vefa sadakat ve sevgi peşindedir. yanlış yapıyordur.",
+      "has_external_url": false
+    },
+    {
+      "title": "sadakat testi için ukrayna'ya giden türk",
+      "entry_id": "25580409",
+      "author": "psikopatik tikli sazanik fok",
+      "date": "02.10.2011 03:19",
+      "content": "(bkz: ölecek miyim acaba diye 50. kattan atlamak)",
+      "has_external_url": false
+    },
+    {
+      "title": "sadakat testi için ukrayna'ya giden türk",
+      "entry_id": "25580437",
+      "author": "pis pisi",
+      "date": "02.10.2011 03:23",
+      "content": "kaydirma yapip testten kalacagi garanti olan turktur.",
+      "has_external_url": false
+    },
+    {
+      "title": "sadakat testi için ukrayna'ya giden türk",
+      "entry_id": "25580459",
+      "author": "sertmertdert",
+      "date": "02.10.2011 03:26",
+      "content": "karadenizli ise avukat gider gitmez aranabilir.",
+      "has_external_url": false
+    },
+    {
+      "title": "sadakat testi için ukrayna'ya giden türk",
+      "entry_id": "26526708",
+      "author": "uyumaz",
+      "date": "12.12.2011 23:33 ~ 23:34",
+      "content": "sadakat ile beceriksizlik arasındaki ince çizginin de farkında olması gereken türk.\ntırım tırım tırmaladıktan sonra, ben zati yapmam öyle şeyler dememesi gerekir.",
+      "has_external_url": false
+    }
+  ]
+}

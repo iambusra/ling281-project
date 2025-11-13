@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:34:03.620997",
+    "total_entries": 2,
+    "input": "rusların 21. yüzyılda attila'ya savaş açması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rusların 21. yüzyılda attila'ya savaş açması",
+      "entry_id": "144028618",
+      "author": "liveinferno",
+      "date": "17.10.2022 19:55",
+      "content": "gerçekleşendir\n\nyer: antalya'da bir apartman, kaynak: reddit.",
+      "has_external_url": true
+    },
+    {
+      "title": "rusların 21. yüzyılda attila'ya savaş açması",
+      "entry_id": "144031354",
+      "author": "liveinferno",
+      "date": "17.10.2022 21:00",
+      "content": "fena mizah değildi ama yine kıymetini bilmediniz saolun:d",
+      "has_external_url": false
+    }
+  ]
+}

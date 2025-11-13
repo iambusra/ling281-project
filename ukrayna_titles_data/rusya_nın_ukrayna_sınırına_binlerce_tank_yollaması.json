@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:16:09.454213",
+    "total_entries": 2,
+    "input": "rusya'nın ukrayna sınırına binlerce tank yollaması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rusya'nın ukrayna sınırına binlerce tank yollaması",
+      "entry_id": "42244553",
+      "author": "ugrassive",
+      "date": "24.04.2014 21:19",
+      "content": "videoda görülen araçların zırhlı personel taşıyıcı olması dolayısıyla ters köşeye yatan başlık.\n\nha onlarla da insan öldürülür mü, öldürülür bak. ama tank diil aga.\n\n(bkz: bi alex değil)",
+      "has_external_url": false
+    },
+    {
+      "title": "rusya'nın ukrayna sınırına binlerce tank yollaması",
+      "entry_id": "42244634",
+      "author": "motions",
+      "date": "24.04.2014 21:23",
+      "content": "dünya'da suların ısındığının göstergesidir. sanırım adım adım yeni bir dünya savaşına doğru sürükleniyoruz. ortadoğu'da yaşananlar, rusya'nın ukrayna ile durumu ve bm ile abd'nin sanki durumu kendi lehlerine çevirmeye çalışıyormuş gibi tavırları... yaptırımlar, restleşmeler, gereğini yaparızlar.",
+      "has_external_url": false
+    }
+  ]
+}

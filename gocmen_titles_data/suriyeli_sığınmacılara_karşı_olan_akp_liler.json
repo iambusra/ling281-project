@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:03:23.052349",
+    "total_entries": 1,
+    "input": "suriyeli sığınmacılara karşı olan akp'liler",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeli sığınmacılara karşı olan akp'liler",
+      "entry_id": "44090965",
+      "author": "somek kafali",
+      "date": "10.07.2014 00:06",
+      "content": "sanıldığından çoktur. evet.",
+      "has_external_url": false
+    }
+  ]
+}

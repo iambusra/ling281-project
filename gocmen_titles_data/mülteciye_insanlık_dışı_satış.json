@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:42:40.228640",
+    "total_entries": 1,
+    "input": "mülteciye insanlık dışı satış",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "mülteciye insanlık dışı satış",
+      "entry_id": "102955762",
+      "author": "nordka",
+      "date": "03.03.2020 13:52",
+      "content": "12 yaşındaki suriyeli ne demişti?",
+      "has_external_url": false
+    }
+  ]
+}

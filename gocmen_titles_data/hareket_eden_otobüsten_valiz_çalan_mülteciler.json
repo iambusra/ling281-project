@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:48:07.386432",
+    "total_entries": 1,
+    "input": "hareket eden otobüsten valiz çalan mülteciler",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "hareket eden otobüsten valiz çalan mülteciler",
+      "entry_id": "145895743",
+      "author": "federal",
+      "date": "03.12.2022 23:40",
+      "content": "fransa'da muhtemelen paris'te flixbus'a ait otobüsten valizleri peynir ekmek gibi götüren mültecilerdir. insan gerçekten hayret ediyor.\n\nhttps://www.instagram.com/reel/clje20upk6e\n\nhttps://streamable.com/eyr618",
+      "has_external_url": true
+    }
+  ]
+}

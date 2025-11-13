@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:22:17.558623",
+    "total_entries": 1,
+    "input": "rus hamlet",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rus hamlet",
+      "entry_id": "175803317",
+      "author": "athena21",
+      "date": "03.06.2025 23:45 ~ 23:49",
+      "content": "rus tarihinin en gizemli ve tartışmalı karakterlerinden biri olan ve ingiliz oyun yazarı william shakespeare’in ünlü tragedya kahramanı hamlet’in kaderiyle çarpıcı bir benzerlik taşımasından yola çıkarak prens ı. pavel figürü beethoven müzikleri ile sahneye taşınmıştır.\n\nçok sayıda ülkede sahnelenen bahse konu gösteri, bu gece de atatürk kültür merkezi'nde ilk kez seyirci ile buluşmuştur.\n\ndevlet opera ve balesinin genel müdürü ve sanat yönetmeni tan sağtürk'ün açılış konuşması ile sahnelenen bale gösterimi, kostümler, kareografi ile büyülemiştir.\n\nşahsen ben çok beğendim, bundan böyle daha sık bale gösterimine gideceğim.",
+      "has_external_url": false
+    }
+  ]
+}

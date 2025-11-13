@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T16:04:36.650237",
+    "total_entries": 1,
+    "input": "suriyelilerden bulaşan hastalıklar",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelilerden bulaşan hastalıklar",
+      "entry_id": "100035795",
+      "author": "maruldeth",
+      "date": "04.01.2020 08:41",
+      "content": "bir arkadaşımın oğluna bulaşan hastalıklardan biri... el ayak bölgelerinde şişmeler oluşturan hastalık... yanlış anlaşılmasın ırkçı değilim doktorun arkadaşıma suriyelilerden bulaşan bir hastalık olarak belirtmesinden dolayı yazıyorum...",
+      "has_external_url": false
+    }
+  ]
+}

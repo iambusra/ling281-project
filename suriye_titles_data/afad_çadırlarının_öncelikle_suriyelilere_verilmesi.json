@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:27:48.939663",
+    "total_entries": 2,
+    "input": "afad çadırlarının öncelikle suriyelilere verilmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "afad çadırlarının öncelikle suriyelilere verilmesi",
+      "entry_id": "148904730",
+      "author": "kocermio",
+      "date": "09.02.2023 11:52",
+      "content": "önce ümmet, sonra millet.",
+      "has_external_url": false
+    },
+    {
+      "title": "afad çadırlarının öncelikle suriyelilere verilmesi",
+      "entry_id": "148904878",
+      "author": "dood",
+      "date": "09.02.2023 11:54",
+      "content": "(bkz: akp hükümetinin deprem basiretsizliği)",
+      "has_external_url": false
+    }
+  ]
+}

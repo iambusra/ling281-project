@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:10:23.202053",
+    "total_entries": 3,
+    "input": "ukrayna'ya karşı oturup çekirdek çitlemek",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukrayna'ya karşı oturup çekirdek çitlemek",
+      "entry_id": "64616614",
+      "author": "candyline",
+      "date": "10.12.2016 18:40",
+      "content": "istanbul'da yapılabilecek en zevkli aktivite.",
+      "has_external_url": false
+    },
+    {
+      "title": "ukrayna'ya karşı oturup çekirdek çitlemek",
+      "entry_id": "64618013",
+      "author": "rhan",
+      "date": "10.12.2016 19:56",
+      "content": "muhabbetin konusu belli olan eylem.\n(bkz: ulan ne karılar var be)",
+      "has_external_url": false
+    },
+    {
+      "title": "ukrayna'ya karşı oturup çekirdek çitlemek",
+      "entry_id": "64618213",
+      "author": "bilgez",
+      "date": "10.12.2016 20:05",
+      "content": "umut sarikaya karikaturlerinden baslik devsirmek kadar kabiz bir aktivite.",
+      "has_external_url": true
+    }
+  ]
+}

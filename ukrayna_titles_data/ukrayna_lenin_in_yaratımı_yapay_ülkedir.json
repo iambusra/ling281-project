@@ -1,0 +1,55 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:02:07.030255",
+    "total_entries": 3,
+    "input": "ukrayna lenin'in yaratımı yapay ülkedir",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukrayna lenin'in yaratımı yapay ülkedir",
+      "entry_id": "134172923",
+      "author": "hgzr",
+      "date": "24.02.2022 21:40 ~ 21:43",
+      "content": "vladimir putin sözü. bu sırada lenin'i gerçeklere dayanmayan temellerle ülke tasarlamak ve rusya'yı kaynaklardan mahrum etmekle suçlamıştır.\n\nve putin'in bu konuşmasından hemen sonra hala putin savunan ve ukrayna zaten ayrı bir devlet olamaz demeye getiren sosyalist insanlar var.\n\ndemek artık stalin değil, lenin'in de yıldızı sönüyor.\n\n(bkz: #134173026)",
+      "referenced_content": [
+        {
+          "type": "entry",
+          "title": "vladimir-putin",
+          "entry_id": "134173026",
+          "author": "hgzr",
+          "date": "24.02.2022 21:42",
+          "content": "(bkz: ukrayna lenin'in yaratımı yapay ülkedir)\n\n\"ı am not trying to put the blame on anyone. the situation in the country at that time, both before and after the civil war, was extremely complicated; it was critical. the only thing ı would like to say today is that this is exactly how it was. ıt is a historical fact. actually, as ı have already said, soviet ukraine is the result of the bolsheviks’ policy and can be rightfully called “vladimir lenin’s ukraine.” he was its creator and architect. this is fully and comprehensively corroborated by archival documents, including lenin’s harsh instructions regarding donbass, which was actually shoved into ukraine. and today the “grateful progeny” has overturned monuments to lenin in ukraine. they call it decommunization.\"\n\n(bkz: #134161106)",
+          "referenced_entry_ids": [
+            "134161106"
+          ],
+          "has_external_url": false
+        }
+      ],
+      "referenced_entry_ids": [
+        "134173026"
+      ],
+      "has_external_url": false
+    },
+    {
+      "title": "ukrayna lenin'in yaratımı yapay ülkedir",
+      "entry_id": "179362618",
+      "author": "downing street",
+      "date": "25.10.2025 15:46",
+      "content": "doğru olmayan başlıktır. ukrayna halkı saygıdeğer bir halktır.",
+      "referenced_content": [],
+      "has_external_url": false
+    },
+    {
+      "title": "ukrayna lenin'in yaratımı yapay ülkedir",
+      "entry_id": "179362692",
+      "author": "one time",
+      "date": "25.10.2025 15:51",
+      "content": "(bkz: bu da benim sikim hüsnü)",
+      "referenced_content": [],
+      "has_external_url": false
+    }
+  ]
+}

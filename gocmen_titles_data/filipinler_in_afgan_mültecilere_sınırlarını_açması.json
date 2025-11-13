@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:51:37.913914",
+    "total_entries": 2,
+    "input": "filipinler'in afgan mültecilere sınırlarını açması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "filipinler'in afgan mültecilere sınırlarını açması",
+      "entry_id": "127047680",
+      "author": "west thrace",
+      "date": "18.08.2021 10:49",
+      "content": "link filipinler devlet baskaninin resmi kanallar uzerinden duyurdugu olay.",
+      "has_external_url": true
+    },
+    {
+      "title": "filipinler'in afgan mültecilere sınırlarını açması",
+      "entry_id": "127048239",
+      "author": "tsubasa ohzora",
+      "date": "18.08.2021 11:07",
+      "content": "rodrigo duterte kendisi filipinler devlet başkanı ve uyuşturucu satıcılarına savaş açmıştı, paramiliter bir tim kurup bu timden uyuşturucu satıcılarını gördükleri yerde katletmelerini istiyordu. bu doğrultuda binlerce insan katledilmişti.\n\nee bu afganların da ne denli uyuşturucu müptelası olduğu bilinirken eskaza filipinler'e gidip de eski alışkanlıklarını sürdürürlerse uyuşturucu davasına katledilebilirler.",
+      "has_external_url": false
+    }
+  ]
+}

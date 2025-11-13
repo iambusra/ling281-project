@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:24:21.364897",
+    "total_entries": 2,
+    "input": "suça bulaşmış göçmenlerin türkiye'ye gönderilmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suça bulaşmış göçmenlerin türkiye'ye gönderilmesi",
+      "entry_id": "169429400",
+      "author": "serdarrah",
+      "date": "21.10.2024 00:56 ~ 01:03",
+      "content": "bir gazetecinin sorusu üzerine tesadüfen öğrendiğimiz mesele x\n\nözet: almanya'nın bize göçmen gönderdiğini biliyorduk. ama öncelikle suça bulaşmış göçmenleri gönderiyorlarmış anladığım kadarıyla.\n\nedit: umarım akp seçmenleriyle buluşur bu arkadaşlar bir şekilde..",
+      "has_external_url": true
+    },
+    {
+      "title": "suça bulaşmış göçmenlerin türkiye'ye gönderilmesi",
+      "entry_id": "169430080",
+      "author": "gameofgirl",
+      "date": "21.10.2024 01:28",
+      "content": "türkiye'nin ırzına geçsinler diye mi? kesinlikle öyle.\n\nbüyük ortadoğu projesi zaten türkiye'nin ırzına geçilme projesi. işte projeyi uyguluyorlar.",
+      "has_external_url": false
+    }
+  ]
+}

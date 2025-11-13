@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:03:18.046723",
+    "total_entries": 4,
+    "input": "suriyeli sığınmacılara duyulan nefret",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeli sığınmacılara duyulan nefret",
+      "entry_id": "54011572",
+      "author": "yapistir yapistir nereye kadar",
+      "date": "14.08.2015 12:08",
+      "content": "nefret duymayanlar açın kapılarınızı, odalarınızı. besleyin ve büyütün. büyütün ki yarın \"acıma yetime döner koyar götüne\" repliğinde olduğu gibi koysunlar size.",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyeli sığınmacılara duyulan nefret",
+      "entry_id": "54011929",
+      "author": "buiyidimi",
+      "date": "14.08.2015 12:23 ~ 13:01",
+      "content": "geçen akşam otobüste aldıkları parfümleri birbirlerine koklatıp duruyorlardı, sonra bim'e girdiler, su almak için peşlerinden girdim, artık kim veriyorsa bimkartları varmış bedava alışveriş yaptılar, muz, tavuk,kaşar sucuk falan aldılar kikirdeye kikirdeye evlerine gittiler. yani hiçte sığıntı bir halleri yoktu, hatta bu vatanın öz evladından bile rahatlardı.üzüldüm, kirada oturan, günde 15 tl kazanmak için 70 yaşında bu sıcakta pazarda sebzecinin yanında tezgahta akşama kadar ayakta çalışan osman dedeyi hatırladım, yazık bize ya. bu memlekete zerre hayrı dokunmayacak asalakları sen getir milletin tepesine sıçırt, arsız arsız her yerde karşına çıksınlar ondan sonra kardeşsiniz falan falan, yok benim öyle bir kardeşim, siktirsinler gitsinler amına koduklarım",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyeli sığınmacılara duyulan nefret",
+      "entry_id": "54012129",
+      "author": "magic johnson",
+      "date": "14.08.2015 12:33 ~ 12:34",
+      "content": "ağızlarından allah ve onunla ilgili duaları düşürmeyen esnaflar tarafından mütemadiyen hor görülen duruma göre darp edilen, bir kısmı istiklal caddesinde ellerinde marka poşetlerle alışveriş yaparken bir kısmı genellikle metrobüs merdivenlerinde dilencilik yapan mültecilere duyulan nefrettir",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyeli sığınmacılara duyulan nefret",
+      "entry_id": "54012894",
+      "author": "aylak k",
+      "date": "14.08.2015 13:09",
+      "content": "nefret değil ama tepkim var.\nsahilde balık keyfi yapıyor, mekanlarda kızları kesiyor, yüzme dersleri alıp sörf yapıyorlar,gülüp eğleniyorlar. insanoğlu değişik bir mahluk. suriyeli, türk şu ya da bu fark etmiyor ki.",
+      "has_external_url": false
+    }
+  ]
+}

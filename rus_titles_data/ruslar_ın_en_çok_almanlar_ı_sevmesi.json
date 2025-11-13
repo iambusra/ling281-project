@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:28:45.357517",
+    "total_entries": 3,
+    "input": "ruslar'ın en çok almanlar'ı sevmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ruslar'ın en çok almanlar'ı sevmesi",
+      "entry_id": "56790701",
+      "author": "urlacher",
+      "date": "07.12.2015 18:54",
+      "content": "ruslar, almanlar için \" çok işgalcisin keşke ölsen \" diyerek bu savı perçinlemiştir.",
+      "has_external_url": true
+    },
+    {
+      "title": "ruslar'ın en çok almanlar'ı sevmesi",
+      "entry_id": "56790728",
+      "author": "rusen ali",
+      "date": "07.12.2015 18:56",
+      "content": "(bkz: 4s kuralı)",
+      "has_external_url": false
+    },
+    {
+      "title": "ruslar'ın en çok almanlar'ı sevmesi",
+      "entry_id": "56790818",
+      "author": "mutlu tuccar",
+      "date": "07.12.2015 19:01 ~ 19:03",
+      "content": "tersi de geçerli olan durum.\n\nalmanlar da ruslar'ı sever. bu öyle bir boyuttadır ki ukrayna krizi, alman diline putinversteher (alm. \"putin'i anlayan\", kısacası putin sempatizanı) diye bir kavram kazandırmıştır.",
+      "has_external_url": false
+    }
+  ]
+}

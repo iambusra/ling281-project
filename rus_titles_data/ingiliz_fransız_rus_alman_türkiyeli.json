@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:18:36.876259",
+    "total_entries": 1,
+    "input": "ingiliz fransız rus alman türkiyeli",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ingiliz fransız rus alman türkiyeli",
+      "entry_id": "179085193",
+      "author": "kallavici",
+      "date": "13.10.2025 06:43",
+      "content": "bunu diyen de...",
+      "has_external_url": false
+    }
+  ]
+}

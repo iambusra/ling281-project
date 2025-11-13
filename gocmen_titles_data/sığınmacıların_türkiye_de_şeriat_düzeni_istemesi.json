@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:04:56.209633",
+    "total_entries": 1,
+    "input": "sığınmacıların türkiye'de şeriat düzeni istemesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "sığınmacıların türkiye'de şeriat düzeni istemesi",
+      "entry_id": "146384090",
+      "author": "el hombre biscolata",
+      "date": "15.12.2022 12:27",
+      "content": "suri, paki, afgan sığınmacıların türkiye'de şeriat düzeni istemesi durumudur.\n\nkaçtıkları yerlerde yaşadıkları yetmezmiş gibi burayı da geldikleri yerlere benzeterek bitirmek istiyorlar herhalde. çok kadınla evlenmenin yasal zemini olmadığı için, resmi dil arapça olmadığı için söylenen surilerle dolu ülke...\n\nsiz onları biraz daha çoğalıp arsızlaştıkları zaman görün bir de...",
+      "has_external_url": false
+    }
+  ]
+}

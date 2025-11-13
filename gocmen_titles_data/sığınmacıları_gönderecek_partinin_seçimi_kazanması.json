@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:01:53.222828",
+    "total_entries": 1,
+    "input": "sığınmacıları gönderecek partinin seçimi kazanması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "sığınmacıları gönderecek partinin seçimi kazanması",
+      "entry_id": "126238715",
+      "author": "kozadaki tirtil",
+      "date": "28.07.2021 18:31 ~ 19:00",
+      "content": "(bkz: ümit özdağ)\n\nedit: kazanır mı? sanmam! ama gönderirse o gönderir diyorlar.",
+      "has_external_url": false
+    }
+  ]
+}

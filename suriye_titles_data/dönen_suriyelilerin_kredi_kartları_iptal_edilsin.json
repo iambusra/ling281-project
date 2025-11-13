@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:41:33.500712",
+    "total_entries": 2,
+    "input": "dönen suriyelilerin kredi kartları iptal edilsin",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "dönen suriyelilerin kredi kartları iptal edilsin",
+      "entry_id": "170884686",
+      "author": "lhalil",
+      "date": "09.12.2024 20:46",
+      "content": "adam ülkesine kesin dönüş yapıyor, ne var ne yok limitine kadar kartla alıyor.\n\nhatta cezayı vergi borcunu kartla ödüyor.\n\nnasılsa dönünce banka icraya da verse suriye'ye hacize gidecek değil ya.\n\ngider ayak bize kart borcunu kitleyip gidiyor.",
+      "has_external_url": false
+    },
+    {
+      "title": "dönen suriyelilerin kredi kartları iptal edilsin",
+      "entry_id": "170884827",
+      "author": "peynirrakikavun",
+      "date": "09.12.2024 20:51",
+      "content": "bunu bankalar düşünsün biz değil kredi kartı bankanın değil mi?????",
+      "has_external_url": false
+    }
+  ]
+}

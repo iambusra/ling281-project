@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:42:28.245410",
+    "total_entries": 1,
+    "input": "sınırı tutamayanlar yerine mülteciye nefret kusmak",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "sınırı tutamayanlar yerine mülteciye nefret kusmak",
+      "entry_id": "136208211",
+      "author": "bulentpackline",
+      "date": "14.04.2022 20:07",
+      "content": "(bkz: suriye sınırındaki mayınların temizlenmesi) hadisesiyle birlikte zaten bizim ülkeye göçmeyecek adamın bile aklına düştü. biz vize derdine sınırdan çıkamıyoruz adamlar mahalle gezmesine gider gibi bizim ülkeye giriyor",
+      "has_external_url": false
+    }
+  ]
+}

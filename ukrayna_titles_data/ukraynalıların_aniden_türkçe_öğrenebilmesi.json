@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:23:40.153929",
+    "total_entries": 1,
+    "input": "ukraynalıların aniden türkçe öğrenebilmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukraynalıların aniden türkçe öğrenebilmesi",
+      "entry_id": "172735218",
+      "author": "sinner mirza",
+      "date": "13.02.2025 00:04",
+      "content": "yıllardır ingilizce ve almancayı öğrenememiş bir primat olarak:\n\ninsanlar ülkeye girer girmez sanki yıllardır burdaymış gibi türkçe konuşmaya başladılar.\n\nben 1 sene filan orda kalsaydım öğrenemezdim kesin.\n\nilginç bulduğum hede.",
+      "has_external_url": false
+    }
+  ]
+}

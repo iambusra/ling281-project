@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:55:09.792928",
+    "total_entries": 3,
+    "input": "mültecilerin ülkeye getirdiği para",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "mültecilerin ülkeye getirdiği para",
+      "entry_id": "141836174",
+      "author": "jose raul capablanca",
+      "date": "26.08.2022 18:49 ~ 18:51",
+      "content": "gunun sonunda sanki pozitif olma ihtimali olan para gibi duruyor.\n\nsunu bir hesaplamak lazim\na: avrupa'dan aldigimiz paralar\nb: multecilerin ulkeye getirdigi para: ev alarak, normal para harcayarak vs. bir suru multecinin dolar birikimi var.\nc: bizim multecilere harcadigimiz para (acikcasi avrupa'yi kandirmak icin bunu biraz abarti rapor ettigimizi dusunuyorum)\n\na + b - c negatifse bize girmis olabilir de, pozitifse ekonomiye pozitif etkisi olmus olabilir.\nmultecileri geri gondermeyi basarirsak -ki cok zor duruyor- su 3-4 senede milyarlarca dolar ihracat yapmis gibi olabiliriz.\n\nnot: isbu entry politik degildir.\nimza: non-ampulspor yazar",
+      "has_external_url": false
+    },
+    {
+      "title": "mültecilerin ülkeye getirdiği para",
+      "entry_id": "141836253",
+      "author": "zaman makinasi operatoru",
+      "date": "26.08.2022 18:52",
+      "content": "mültecilerin getirdiği para karşılığında götürdüğü sosyal düzen, bozduğu asayiş, bozduğu ekonomi diye bakılması gereken veri.",
+      "has_external_url": false
+    },
+    {
+      "title": "mültecilerin ülkeye getirdiği para",
+      "entry_id": "141836304",
+      "author": "peugeot206wrc",
+      "date": "26.08.2022 18:53",
+      "content": "götürdüğünden azdır.",
+      "has_external_url": false
+    }
+  ]
+}

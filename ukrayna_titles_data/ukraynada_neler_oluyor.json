@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:11:52.078439",
+    "total_entries": 1,
+    "input": "ukraynada neler oluyor",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukraynada neler oluyor",
+      "entry_id": "40573634",
+      "author": "aristotelesin berberi",
+      "date": "20.02.2014 17:40",
+      "content": "harbi ne oluyor bu güzel kızlarımıza sokaklarda ellerinde taş molotof kokteyler ile ne yapmaya çalışıyorlar özeniyoruz da millet olarak biz yapamadık",
+      "has_external_url": false
+    }
+  ]
+}

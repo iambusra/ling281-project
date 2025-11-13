@@ -1,0 +1,52 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:09:03.255303",
+    "total_entries": 3,
+    "input": "shellin rus petrolu karını ukraynaya bağışlaması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "shellin rus petrolu karını ukraynaya bağışlaması",
+      "entry_id": "134562289",
+      "author": "ikinci mudur",
+      "date": "06.03.2022 01:35",
+      "content": "başlığın orjinali \"6 mart 2022 shellin rus petrolü satışından elde ettiği kâri ukraynalı mültecilere bagislamasi\" olacaktı.\n\n(bkz: 4 mart 2022 shell'in rusya'dan petrol satın alması) başlığında rusyadan petrol satin aldığıni ogrendigimiz shell her ne hikmetse bu ticaretten elde ettiği kârı ukraynalı mültecilere dağıtma karari almis. bu durumda dolaylı olarak rusyanin parası ile ukraynalılara yardim etmiş olmuyor mu. veya batının tepkilerini azaltmak için, bak ticaret yapıyorum ama ukrayna icin yapıyorum diyor.\n\ncnn\npmnews",
+      "referenced_content": [],
+      "has_external_url": true
+    },
+    {
+      "title": "shellin rus petrolu karını ukraynaya bağışlaması",
+      "entry_id": "134562649",
+      "author": "hakki sert",
+      "date": "06.03.2022 01:45",
+      "content": "karı kaç dolar acaba? sonuçta rusya mı daha çok kazandı, shell mi daha çok kazandı.\ninsan 1 dolar yardım yapmak için 20 dolar rusyaya kazandırır mı?\n\nbunlar da dünyayı keriz yerine koyuyorlar. sen petrol almasan zaten ukraynaya yardım etmiş olmuyor musun? herkes çakal olmuş.",
+      "referenced_content": [],
+      "has_external_url": false
+    },
+    {
+      "title": "shellin rus petrolu karını ukraynaya bağışlaması",
+      "entry_id": "134563021",
+      "author": "swordsman was here",
+      "date": "06.03.2022 01:57",
+      "content": "shell in bile ayar manyağı edildiği durumdur.\n\npetrol konusunda şurada yazmıştım: (#134501203)\n\n20 $ bile indirim yaptıkları halde kimse almamıştı. indirim 28 $ olunca shell dayanamamış almış. zaten shell'den başka firma da cesaret edip alamazdı.\n\nevet petrol ve doğalgaza yaptırım yok ama artık rusya'dan petrol ya da gaz alanın içinden geçerler! fena bilenmişler.\n\nshell bundan sonra %99.99 indirim bile görse gene de cesaret alıp alamaz, geri kalanlara da ders olur. hani klasiktir sallandıracaksın üç-beşini bak bidaa yapıyorlar mı derler ya hani işte o kısım doğrudur. shell tövbe-istiğfar etmiş özür dilemiş, bir daha da yapmaz. başkaları da cesaret edemez!\n\nolur da tekrar yapmaya kalkarsa shell'e dokunmazlar ama o kararı veren yöneticileri fena üzerler. önce shell özür metni yayınlayıp ilgili kişileri kovar! kimse de onlara bir daha iş vermez!",
+      "referenced_content": [
+        {
+          "type": "entry",
+          "title": "rusya-ukrayna-savasi",
+          "entry_id": "134501203",
+          "author": "swordsman was here",
+          "date": "04.03.2022 16:43",
+          "content": "maddi etkilerinin rusya'yı sağlam vurmaya başladığı savaştır aynı zamanda.\n\njpmorgan: “rus petrolünün neredeyse %70'i alıcı bulmakta zorlanıyor. mart sevkiyatı için her biri 100 bin tonluk dokuz kargo çarşamba günü alıcı bulamadı. rekor seviyede 20$ iskonto yapılıyor ama gene de kimse sallamıyor! \"\n\nkesin bunu da hesaplamıştır putin, panik yok. oturduğu yerden adım tomas bunlar bana komaz diyordur (bkz: swh)\ntwitter kaynak:",
+          "has_external_url": true
+        }
+      ],
+      "referenced_entry_ids": [
+        "134501203"
+      ],
+      "has_external_url": false
+    }
+  ]
+}

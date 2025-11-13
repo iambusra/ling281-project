@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:08:41.453652",
+    "total_entries": 1,
+    "input": "hürriyet'in ukrayna'yı avrupa birliği'nde sanması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "hürriyet'in ukrayna'yı avrupa birliği'nde sanması",
+      "entry_id": "38656920",
+      "author": "rasyonel perspektif",
+      "date": "01.12.2013 23:23 ~ 02.12.2013 01:48",
+      "content": "http://www.hurriyet.com.tr/dunya/25253580.asp haberinde rastladığım hede.\n\nama bu başlığı açana kadar bi 10 dakika geçirdim resmen. uluslararası öğrencisiyim ama şüpheye düştüm arkadaş. açtım eu haritasına baktım, ukraynanınkini açtım nerde diye tekrar kontrol ettim. eu listesine baktım ardından. yetinmedim türkçesiyle de baktım. olmadı üstüne haberi birkaç kez daha okudum. ama harbiden durum buymuş..\n\nedit: halen bir yerde hata yaptığımı düşünüyorum.",
+      "has_external_url": true
+    }
+  ]
+}

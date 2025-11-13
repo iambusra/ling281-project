@@ -1,0 +1,68 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:59:26.573785",
+    "total_entries": 7,
+    "input": "suriye'li sığınmacının isteği",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriye'li sığınmacının isteği",
+      "entry_id": "79300253",
+      "author": "ondokuzelli",
+      "date": "18.07.2018 12:46",
+      "content": "ister inanın, ister inanmayın hiç bir suriyeli mülteciye binlerce lira maaş verilmiyor.",
+      "has_external_url": false
+    },
+    {
+      "title": "suriye'li sığınmacının isteği",
+      "entry_id": "79300324",
+      "author": "fantom slx",
+      "date": "18.07.2018 12:48",
+      "content": "tamamen yalan, provokasyon amaçlı bir görsel.\n\ngoogle aramasında öyle bir gazeteci, öyle bir yazı dizisi bulunamıyor.",
+      "has_external_url": false
+    },
+    {
+      "title": "suriye'li sığınmacının isteği",
+      "entry_id": "79300466",
+      "author": "quas",
+      "date": "18.07.2018 12:52 ~ 12:53",
+      "content": "olmayan gazetecinin olmayan yazı dizisinde geçen muhtemelen var olmayan bir suriyeli'nin ifadeleri. tam bir sabahtan akşama kadar facebook'da siyasi gönderi paylaşan emekli öğretmen müberra teyze paylaşımı olmuş. tamam suriyeliler siktirsin gitsin de böyle amatörce yalan dolanlara gerek yok. böyle uyduruk facebook paylaşımlarını gerçekmiş gibi buraya taşımaya hiç gerek yok.",
+      "has_external_url": false
+    },
+    {
+      "title": "suriye'li sığınmacının isteği",
+      "entry_id": "79300614",
+      "author": "modu chanyu",
+      "date": "18.07.2018 12:56",
+      "content": "(bkz: suriye vatandaşlık bürosu)\n(bkz: ahmed-i şerifi)",
+      "has_external_url": false
+    },
+    {
+      "title": "suriye'li sığınmacının isteği",
+      "entry_id": "79300979",
+      "author": "egoist84",
+      "date": "18.07.2018 13:09",
+      "content": "olmayan istektir.\nbu da yeni moda oldu. bir resim koy. altına aklına ne geliyorsa döşe gitsin. sonra bir de yalandan kaynak uydurdun mu tamam. kaynak:götüm desen daha samimi gelirdi.",
+      "has_external_url": false
+    },
+    {
+      "title": "suriye'li sığınmacının isteği",
+      "entry_id": "79301052",
+      "author": "illegalliler",
+      "date": "18.07.2018 13:12",
+      "content": "açmayın asparagas.\n\nkaynak' https://www.google.com/search?q=alain dunlioff'",
+      "has_external_url": true
+    },
+    {
+      "title": "suriye'li sığınmacının isteği",
+      "entry_id": "79301353",
+      "author": "denedim semsiye acilmiyormus gercekten",
+      "date": "18.07.2018 13:22",
+      "content": "(bkz: ketçap mayonez de olsun mu)",
+      "has_external_url": false
+    }
+  ]
+}

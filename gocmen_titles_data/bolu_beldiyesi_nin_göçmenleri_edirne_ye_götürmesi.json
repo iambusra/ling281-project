@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:20:15.771858",
+    "total_entries": 1,
+    "input": "bolu beldiyesi'nin göçmenleri edirne'ye götürmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "bolu beldiyesi'nin göçmenleri edirne'ye götürmesi",
+      "entry_id": "102864615",
+      "author": "cinali",
+      "date": "01.03.2020 19:30",
+      "content": "ne zaman sıkışsa yardımına koşan muhalefet partileri akp'nin en büyük destekçisi durumunda. 7 yıldır akp ne zaman sıkışsa akp'ye destek veren sözde muhalefet bu konuda da akpcilik yapma fırsatını kaçırmadı.",
+      "has_external_url": false
+    }
+  ]
+}

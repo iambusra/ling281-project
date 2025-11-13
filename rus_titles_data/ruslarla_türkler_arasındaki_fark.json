@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:31:02.083684",
+    "total_entries": 1,
+    "input": "ruslarla türkler arasındaki fark",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ruslarla türkler arasındaki fark",
+      "entry_id": "126394275",
+      "author": "degisikbiri98",
+      "date": "01.08.2021 16:43",
+      "content": "\"ruslarla türkler arasında bir tek fark vardır, ruslar kadınlara asla değer vermez; türkler, kadınlar için ölür.\"\n\n(bkz: tilki andrei)\n\nkaynak",
+      "has_external_url": true
+    }
+  ]
+}

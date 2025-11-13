@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:47:27.985889",
+    "total_entries": 1,
+    "input": "mülteciler tarafından dövülen engelli genç",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "mülteciler tarafından dövülen engelli genç",
+      "entry_id": "156647371",
+      "author": "yorukoglan",
+      "date": "11.09.2023 17:50",
+      "content": "suriye uyruklu şahıslar, bursa'da 20 yaşındaki %60 engelli gencin önce kız arkadaşını taciz etmiş, sonra da kendisini dövüp, ayaklarını öptürüp yalvartmışlar, birine anlatırsan öldürürüz diyerek silahla da tehdit etmişler.\n\nengelli genci döverken video çekip \"bu ülkede türklere ve kürtlere huzur yok\" yazıp paylaşmışlar.\n\nkaynak",
+      "has_external_url": true
+    }
+  ]
+}

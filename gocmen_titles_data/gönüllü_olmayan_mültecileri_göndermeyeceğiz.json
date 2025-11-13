@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:48:14.982851",
+    "total_entries": 1,
+    "input": "gönüllü olmayan mültecileri göndermeyeceğiz",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "gönüllü olmayan mültecileri göndermeyeceğiz",
+      "entry_id": "167865532",
+      "author": "day zero",
+      "date": "29.08.2024 20:08",
+      "content": "bir hakan fidan beyanı.\n\nvideo\n\nniye gönderesiniz ki zaten? hazır ülkenin demografisi bozulmuş, araptan daha arap olmuşuz, gönderilir mi hiç amk?",
+      "has_external_url": true
+    }
+  ]
+}

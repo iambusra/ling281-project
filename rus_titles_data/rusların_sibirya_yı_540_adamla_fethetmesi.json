@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:32:15.390584",
+    "total_entries": 3,
+    "input": "rusların sibirya'yı 540 adamla fethetmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rusların sibirya'yı 540 adamla fethetmesi",
+      "entry_id": "56842632",
+      "author": "efe",
+      "date": "09.12.2015 19:55",
+      "content": "ilginc bir gercektir.\nyermak timofeyevich adinda bir cossack komutasindaki 540 adam 1580'lerde sibir hanligini isgal etmis. tabi o kadarcik adamla butun bolgeyi kontrol edememisler ama cossacklarin isgali hanligi oyle bir sarsmis ki bir daha toparlayamamislar. daha sonra ruslar bolgede kaleler insa etmisler (bkz: ostrog), tomsk ve krasnoyarsk gibi ostroglar ki bunlar bugun birer sehir. o kaleler sayesinde bolgede kontrolu ele gecirmisler. hanligin tamamen cokmesi dolayisiyla da herhangi bir direnisle de karsilasmamislar.\nyani o kadar genis bir toprak parcasi alti ustu bu yermak denilen adam ve 540 adami sayesinde ele gecirilmis.\n\nhani hep anlatilir ya, dedem zamaninda suradan bi arsa cevirseydi simdi koseydik diye. zamaninda osmanli alti ustu 1000 atli gonderseymis sibirya'ya, simdi oralar komple turk yurduydu, ya... ya...",
+      "has_external_url": false
+    },
+    {
+      "title": "rusların sibirya'yı 540 adamla fethetmesi",
+      "entry_id": "145238856",
+      "author": "okundugu gibi yazilan adam",
+      "date": "18.11.2022 00:49",
+      "content": "yermak timofeyevich'in komutasındaki rus ordusunun gerçekleştirdiği sibirya seferinin tasviri - 16. yüzyıl.",
+      "has_external_url": true
+    },
+    {
+      "title": "rusların sibirya'yı 540 adamla fethetmesi",
+      "entry_id": "175927196",
+      "author": "hevamfuskiki",
+      "date": "09.06.2025 13:14",
+      "content": "bazı kaynaklar 1000 diyor.\n\nne değişiyorsa\n\nsinir hanlığınin ne rezil durumda olduğunu gösteriyor. ama yermak da sinirler tarafından öldürüldü sayılır, ağır yaralı halde boğuldu.",
+      "has_external_url": false
+    }
+  ]
+}

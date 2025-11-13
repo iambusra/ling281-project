@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:08:30.303849",
+    "total_entries": 3,
+    "input": "tiktok'ta paylaşılan suriyelilere ölüm ilanı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "tiktok'ta paylaşılan suriyelilere ölüm ilanı",
+      "entry_id": "155894714",
+      "author": "apostelbrau",
+      "date": "21.08.2023 21:56",
+      "content": "bu kadar kontrolsüz gücün gideceği yer buydu.\ntasvip ettiğimden demiyorum ama ipten kazıktan kopan onca adamı demagojik yapıyı bozma pahasına ülkeye doldurur ve bunların yaptığı pek çok şeye ses çıkarmazsan maalesef görseldekiler zamanla gerçek olacak maalesef.",
+      "has_external_url": false
+    },
+    {
+      "title": "tiktok'ta paylaşılan suriyelilere ölüm ilanı",
+      "entry_id": "155895003",
+      "author": "hania",
+      "date": "21.08.2023 22:02",
+      "content": "bu aptalca ve tehlikeli afişi sözlükte paylaşan da popcorncu bir troll.\n\nona göre yazın. bu ülkeye bu kadar çok ne idugu belirsiz kişiyi doldurmak anarşiye ve iç savaşa davetiye çıkarmaktır.\n\nbu tür paylaşımlar tehlikeli paylasimlardir. kimse türk yurdunda türk'ün huzurunu bozamaz.",
+      "has_external_url": false
+    },
+    {
+      "title": "tiktok'ta paylaşılan suriyelilere ölüm ilanı",
+      "entry_id": "155895094",
+      "author": "devletbizeyardimetsin",
+      "date": "21.08.2023 22:04",
+      "content": "tipik ortadoğu zihniyetinde olan birinin paylaştığı erkeğe daha fazla fiyat biçmesinden belli olan saçma ilan",
+      "has_external_url": false
+    }
+  ]
+}

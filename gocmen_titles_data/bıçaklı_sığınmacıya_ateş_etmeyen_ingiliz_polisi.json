@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:58:22.915956",
+    "total_entries": 2,
+    "input": "bıçaklı sığınmacıya ateş etmeyen ingiliz polisi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "bıçaklı sığınmacıya ateş etmeyen ingiliz polisi",
+      "entry_id": "157154752",
+      "author": "okuyup",
+      "date": "26.09.2023 21:36",
+      "content": "saçma bir hareket olmuş, polisler de tirsiyor",
+      "has_external_url": false
+    },
+    {
+      "title": "bıçaklı sığınmacıya ateş etmeyen ingiliz polisi",
+      "entry_id": "157155081",
+      "author": "lord of street",
+      "date": "26.09.2023 21:44 ~ 21:52",
+      "content": "ingiliz kanunları bilinmeden değerlendirilemeyecek olay.\n\nvideonun öncesini bilmeden yorum yapmak anlamsız olacaktır.\n\nsadece video da görünen itibariyle silah kullanma şartları oluşmamış. bıçakla doğrudan polise veya üçüncü şahıslara tehdit oluşturmamış. öncesinde ne yaptığı o andan bağımsızdır.\n\ningiliz polisi elektroşok silahı kullanıyor. ülkemizdeki kanunlar buna müsait olsa, yapılması gereken müdahale elektrik tabancasıdır. biber gazı ve cop aşaması geçilmiş silah için de henüz erken. bence bu aşamada kullanılacak bir ara güç ihtiyacı kesinlikle var.",
+      "has_external_url": false
+    }
+  ]
+}

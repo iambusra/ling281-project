@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:40:40.097355",
+    "total_entries": 3,
+    "input": "bursada 2 suriyelinin yaşlı kadını dolandırması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "bursada 2 suriyelinin yaşlı kadını dolandırması",
+      "entry_id": "145171967",
+      "author": "sdmria",
+      "date": "16.11.2022 12:22 ~ 12:26",
+      "content": "burada görülebilecek haberdir. adamlar türkçeyi sökmüşler, üzerine klasik \"adınız teröre karıştı\" dolandırması ile 300.000tl parasını çalmışlar. maşallah diyorum.",
+      "has_external_url": true
+    },
+    {
+      "title": "bursada 2 suriyelinin yaşlı kadını dolandırması",
+      "entry_id": "145172070",
+      "author": "volya",
+      "date": "16.11.2022 12:26",
+      "content": "yakında ülkenin yerli hırsızları bile işsiz kalacak amk. bu nasıl bir coğrafya şansı böyle",
+      "has_external_url": false
+    },
+    {
+      "title": "bursada 2 suriyelinin yaşlı kadını dolandırması",
+      "entry_id": "145172129",
+      "author": "milamber",
+      "date": "16.11.2022 12:28",
+      "content": "kimse kusura bakmasın ama bu kadar mal ve cahil insanın olduğu ülkede bu tarz olaylar bitmez. haber kanalları bas bas bağırıyor, egm arada da olsa mesaj atıp bilgilendirme yapıyor, konu komşu eş dost anlatıyor. hala kalkıp bu tür zırvalara inanan varsa hakediyor soyulmayı.",
+      "has_external_url": false
+    }
+  ]
+}

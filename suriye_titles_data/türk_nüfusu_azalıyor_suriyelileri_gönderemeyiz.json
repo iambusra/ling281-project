@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:09:26.916584",
+    "total_entries": 1,
+    "input": "türk nüfusu azalıyor suriyelileri gönderemeyiz",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türk nüfusu azalıyor suriyelileri gönderemeyiz",
+      "entry_id": "175518793",
+      "author": "faytonfayt",
+      "date": "23.05.2025 18:53",
+      "content": "başımızdakiler herkesi bu mantığa getirmek için yol yapıyor. türkler maalesef bunu da yiyecek.\n\n(bkz: refah seviyesi yükseldikçe doğurganlık azaldı)\n\n(bkz: enflasyon yüzünden türk nüfusunun azalması)",
+      "has_external_url": false
+    }
+  ]
+}

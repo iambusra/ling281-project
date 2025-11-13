@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:05:34.518228",
+    "total_entries": 1,
+    "input": "krizden çıkmanın yolu sığınmacıların gitmeleridir",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "krizden çıkmanın yolu sığınmacıların gitmeleridir",
+      "entry_id": "130244517",
+      "author": "zertana",
+      "date": "19.11.2021 17:09",
+      "content": "tam hali “ekonomik krizden çıkmanın tek yolu sığınmacıların ülkelerine geri gitmeleridir.” şeklindeki ümit özdağ beyanıdır.\n\ntabi canım yoksa saray, örtülü ödenek, merkez bankası yönetimi, hazine yönetimi falan hep fasafiso..\n\nekonomiden anlamıyorum dese daha iyiydi. bir de bu popülist adamı övenler vardı.\n\nülkeden gidince ekonomi düzelecekse bu sadece bir ailenin gidişiyle olabilir ancak.",
+      "has_external_url": false
+    }
+  ]
+}

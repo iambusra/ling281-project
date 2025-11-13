@@ -1,0 +1,52 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:42:56.079204",
+    "total_entries": 5,
+    "input": "idamdan son anda kurtulan suriyeli mahkum",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "idamdan son anda kurtulan suriyeli mahkum",
+      "entry_id": "170840327",
+      "author": "bitterschokolade",
+      "date": "08.12.2024 14:38",
+      "content": "muhaliflerin şam'a girişinin ardından sidnaya hapishanesinden salınan mahkumlardan birinin iddiası.\n\nx",
+      "has_external_url": true
+    },
+    {
+      "title": "idamdan son anda kurtulan suriyeli mahkum",
+      "entry_id": "170840432",
+      "author": "mentolin",
+      "date": "08.12.2024 14:43",
+      "content": "ipten kazıktan kurtulmuş ucubeler için burada sevinenler var. her şey çok yazık ettik. yazıklar olsun.",
+      "has_external_url": false
+    },
+    {
+      "title": "idamdan son anda kurtulan suriyeli mahkum",
+      "entry_id": "170840512",
+      "author": "oglak oglani",
+      "date": "08.12.2024 14:47",
+      "content": "türkiye'ye gelip suç hayatlarına kaldığı yerden devam edebilirler. burada idam olmadığı gibi aynı zamanda cezalarda da damping uyguluyoruz.",
+      "has_external_url": false
+    },
+    {
+      "title": "idamdan son anda kurtulan suriyeli mahkum",
+      "entry_id": "170840631",
+      "author": "osmancik57",
+      "date": "08.12.2024 14:51",
+      "content": "türk solu hümanist tir çok üzülmüşlerdir neyseki devrim olunca sınırlar ve sınıflar kalkacaktır",
+      "has_external_url": false
+    },
+    {
+      "title": "idamdan son anda kurtulan suriyeli mahkum",
+      "entry_id": "170840674",
+      "author": "tranquilizan",
+      "date": "08.12.2024 14:53",
+      "content": "eee?\nne suç işlemişti acaba?\nona da bi bakmak gerekmiyor mu?",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:03:16.438605",
+    "total_entries": 2,
+    "input": "avrupa'da sığınmacılara karşı duvar örülüyor",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "avrupa'da sığınmacılara karşı duvar örülüyor",
+      "entry_id": "54550177",
+      "author": "guesswhosback",
+      "date": "04.09.2015 20:27",
+      "content": "bbc de bu konuyu gündeme almış gibi gözüküyor. artık türkiye'yi geçtiler, sıra avrupa'da.",
+      "has_external_url": true
+    },
+    {
+      "title": "avrupa'da sığınmacılara karşı duvar örülüyor",
+      "entry_id": "54551233",
+      "author": "gloryy",
+      "date": "04.09.2015 21:22",
+      "content": "avrupanın insanlığa karşı duvar örüşüdür.",
+      "has_external_url": false
+    }
+  ]
+}

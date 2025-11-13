@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:14:45.188871",
+    "total_entries": 4,
+    "input": "2.6 milyon göçmenin ülkeye girişinin engellenmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "2.6 milyon göçmenin ülkeye girişinin engellenmesi",
+      "entry_id": "137391991",
+      "author": "inat edip saunada terlemeyen adam",
+      "date": "13.05.2022 13:53",
+      "content": "(bkz: küsuratlı sayı vereyim de salladığım anlaşılmasın)",
+      "has_external_url": false
+    },
+    {
+      "title": "2.6 milyon göçmenin ülkeye girişinin engellenmesi",
+      "entry_id": "137392431",
+      "author": "kafayi kurtaran adam",
+      "date": "13.05.2022 14:06",
+      "content": "olm içerdekinin sayısını doğru düzgün bilmiyoruz, almadıklarını nasıl saydın?",
+      "has_external_url": false
+    },
+    {
+      "title": "2.6 milyon göçmenin ülkeye girişinin engellenmesi",
+      "entry_id": "138697788",
+      "author": "antisosyalpsikopatgorunumludonjuan",
+      "date": "13.06.2022 11:32",
+      "content": "peki benim merak ettiğim şey şu;\n\n10 milyonuncu kaçak göçmene gelindiğinde seni ne durdu? niye devam etmedin?",
+      "has_external_url": false
+    },
+    {
+      "title": "2.6 milyon göçmenin ülkeye girişinin engellenmesi",
+      "entry_id": "138698552",
+      "author": "sciguy",
+      "date": "13.06.2022 11:54",
+      "content": "adamlar çok sıradan bir görevi bile çok büyük bir olaymış, hizmetmiş, cehape döneminde yapılamıyormuş gibi satıyor.\n\nsınırın lan bu! koruyacaksın tabi.\n\nalmanya diyor mu bu sene 100 milyon 200 milyon neyse göçmenin ülkeye girişini engelledik diye.\n\no kadar alıştırdılar ki yol yaptık köprü yaptık diye anlatmaya, görevin yerine getirilmesini lütuf olarak sunuyorlar.",
+      "has_external_url": false
+    }
+  ]
+}

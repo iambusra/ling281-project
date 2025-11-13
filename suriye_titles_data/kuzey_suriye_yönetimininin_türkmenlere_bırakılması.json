@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:43:50.682478",
+    "total_entries": 1,
+    "input": "kuzey suriye yönetimininin türkmenlere bırakılması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "kuzey suriye yönetimininin türkmenlere bırakılması",
+      "entry_id": "174634434",
+      "author": "maimetu",
+      "date": "18.04.2025 11:46",
+      "content": "tanım: x (gzt) haberine göre suriye'nin kuzeyinde askeri yönetiminin ve savunma bakan yardımcılığının türkmen komutana bırakılması olayı.\n\n--- spoiler ---\n\nsuriye yönetiminde türkmenlere yer verilmemesi sebebiyle ahmet eş-şaraa çokça eleştirilmesi üzerine böyle bir karar aldığı söyleniyor.\n--- spoiler ---\n\nsuriye'nin yeni yönetimi, 2024 sonunda ypg ile yönetimde kesinlikle olmayacaklarını türkiye'ye deklare etmesinin hemen ardından 2025 başında suriye-ypg görüşmesi sonrası bu karar çıkması ne anlama geliyor?\n\nsuriye'de ypg ile türkmen çatışması mı isteniyor? yoksa türkiye'nin desteğiyle artan uluslararası gerilimden faydalanarak önümüzdeki aylarda donald trump asker çekmesinin hemen ardından pyd-ypg ortadan kaldırılıp terörsüz türkiye hedefi için adım mı atılacak?",
+      "has_external_url": true
+    }
+  ]
+}

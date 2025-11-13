@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T16:02:33.649886",
+    "total_entries": 1,
+    "input": "izmir'de yardım kolilerinin suriyelilerden çıkması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "izmir'de yardım kolilerinin suriyelilerden çıkması",
+      "entry_id": "115118421",
+      "author": "beyaz kurecik",
+      "date": "03.11.2020 18:40",
+      "content": "herkes aç.\nsu saatten sonra kimseyi yargılamaya hakkim olduğunu düşünmüyorum.\nne battaniye çalan o iki kadını, ne de malzemeleri istifleyen suriyelileri..\n\nboyle giderse zaten bu görüntüler fragman kalacak.",
+      "has_external_url": false
+    }
+  ]
+}

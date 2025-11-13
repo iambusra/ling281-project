@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:41:04.017312",
+    "total_entries": 1,
+    "input": "chp'ye laf edip suriyeli muhaliflerle görüşmek",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "chp'ye laf edip suriyeli muhaliflerle görüşmek",
+      "entry_id": "36880014",
+      "author": "insan donuna girmis telli turna",
+      "date": "12.09.2013 17:21",
+      "content": "başbakan erdoğan,''siz hangi sıfatla mısır'da görüşmeler yaparsınız?'' şeklinde'kendince' ülkenin ana muhalefet partisini eleştirmekte.\n\nironik şey ise, iktidar 1 yıldır istanbul'da suriye'li muhaliflerle görüşme içerisindedir...\n\ntanım: dediğim gibi, ironik bir durum.",
+      "has_external_url": false
+    }
+  ]
+}

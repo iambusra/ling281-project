@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:04:32.884144",
+    "total_entries": 1,
+    "input": "sığınmacıların geri gönderilmesinin matematiği",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "sığınmacıların geri gönderilmesinin matematiği",
+      "entry_id": "154925088",
+      "author": "oz dunyasi",
+      "date": "25.07.2023 12:39 ~ 12:40",
+      "content": "aslında basit bir matematik.\nbu ülkede tahmini 15 milyon mülteci var. teşvik için yapılacak olan iş yeri tuhsatlarının iptali, fahiş elektrik su zamları, vatandaşlıktan çıkarılma, yüksek sigorta bedeli, ve seyehat kısıtlamasından sonra bu miktar azalacaktır.\n\nvelev ki azalmadı.\notobüs başına 100 kişi binse (alışkınlardır bişey olmaz) ve 1 yıla yayılsa\n\n1.500.000/100 /365\n\nihtiyacımız olan otobüs sayısı 411:)\n\nki onu geçtim bu halka fırsatını versen bireysel arabalarıyla ve kamyonlarıyla o 1 yılı inanın 3 aya indirir.\n(bkz: zafer partisi)",
+      "has_external_url": false
+    }
+  ]
+}

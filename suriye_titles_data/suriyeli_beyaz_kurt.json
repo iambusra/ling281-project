@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:48:33.862501",
+    "total_entries": 2,
+    "input": "suriyeli beyaz kurt",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeli beyaz kurt",
+      "entry_id": "175993596",
+      "author": "titiraprap",
+      "date": "12.06.2025 02:30 ~ 02:35",
+      "content": "şu kaydı görünce sinirlenen yazar.",
+      "has_external_url": true
+    },
+    {
+      "title": "suriyeli beyaz kurt",
+      "entry_id": "175993776",
+      "author": "suriyeli beyaz kurt",
+      "date": "12.06.2025 02:41 ~ 02:42",
+      "content": "ulan oğlum, nickaltı başlığımı kendim açmak istiyordum. gittik elemanın tekine kaptırdık.\n\ntanım: gece vakti daha çok ekşiye bakan yazar kişi.\n\nekleme: bu kısma daha sonra ekleme yapacağım.",
+      "has_external_url": false
+    }
+  ]
+}

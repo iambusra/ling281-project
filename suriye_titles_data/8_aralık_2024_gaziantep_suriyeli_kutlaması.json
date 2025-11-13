@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:22:44.215481",
+    "total_entries": 1,
+    "input": "8 aralık 2024 gaziantep suriyeli kutlaması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "8 aralık 2024 gaziantep suriyeli kutlaması",
+      "entry_id": "170834027",
+      "author": "muffinman",
+      "date": "08.12.2024 09:40",
+      "content": "an itbariyle gerçekleşen tuhaf olaylar. sokaklarda polisler, her yerde tuhaf tuhaf tekinsiz tipler. polis araçlarının yanında durup el kol yapanlar… acaba diğer şehirlerde durum nedir dedirten hadiseler…",
+      "has_external_url": false
+    }
+  ]
+}

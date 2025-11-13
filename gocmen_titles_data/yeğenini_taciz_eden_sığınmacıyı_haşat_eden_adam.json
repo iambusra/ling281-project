@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:58:13.950046",
+    "total_entries": 1,
+    "input": "yeğenini taciz eden sığınmacıyı haşat eden adam",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "yeğenini taciz eden sığınmacıyı haşat eden adam",
+      "entry_id": "144568282",
+      "author": "day zero",
+      "date": "01.11.2022 00:56",
+      "content": "çift vurup tek saymıştır:\n\nvideo\n\n\"istanbul sultangazi'de bir sığınmacı, 9 yaşındaki kız çocuğunu annesinin yanında taciz etti!\n\ndurumu fark eden anne ortalığı ayağa kaldırınca korkup kaçan tacizciyi, çocuğun dayısı bir manavın önünde yakaladı. öfkeli dayı, tacizci kaçağı çevredekiler elinden alana kadar dövdü.\"",
+      "has_external_url": true
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:42:28.060210",
+    "total_entries": 2,
+    "input": "kıza şaka yapan mülteciye italyan'ın patlatması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "kıza şaka yapan mülteciye italyan'ın patlatması",
+      "entry_id": "136377654",
+      "author": "oyun kac kac",
+      "date": "18.04.2022 22:03",
+      "content": "(bkz: italya'da kadınlara şaka yapan hırtın sonu)",
+      "has_external_url": false
+    },
+    {
+      "title": "kıza şaka yapan mülteciye italyan'ın patlatması",
+      "entry_id": "136378051",
+      "author": "culgen",
+      "date": "18.04.2022 22:11",
+      "content": "ellerine sağlık. dikkat çekici olan tepki aldığında direkt siniyor olması. ortadoğu felsefesini bu kadar güzel ortaya koyan video zor bulunur.",
+      "has_external_url": false
+    }
+  ]
+}

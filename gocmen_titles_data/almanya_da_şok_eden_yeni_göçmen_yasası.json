@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:06:34.781560",
+    "total_entries": 1,
+    "input": "almanya'da şok eden yeni göçmen yasası",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "almanya'da şok eden yeni göçmen yasası",
+      "entry_id": "172321103",
+      "author": "paoyou",
+      "date": "29.01.2025 21:21",
+      "content": "hep olan şey, yeni birseymiş gibi sunuluyor. ayrıca almanya değil, hollanda, belçika, ingiltere, fransa, ispanya, italya, amerika, japonya, brezilya, meksika ve kalan diğer tüm ülkelerde de işleyiş aynıydı… bi şekilde girersin sonra gocmen bürosu tarafından gözaltına alinirsin, başvurun degelendirilir, sonrasında ya geri postalanırsın yada iltica talebin kabul edilir.",
+      "has_external_url": false
+    }
+  ]
+}

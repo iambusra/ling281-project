@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:33:02.709406",
+    "total_entries": 1,
+    "input": "rusların istanbul'da rus yargılaması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rusların istanbul'da rus yargılaması",
+      "entry_id": "160397323",
+      "author": "lordum",
+      "date": "07.01.2024 00:45",
+      "content": "osmanlı'nın güçsüz olduğu dönemlerde osmanlı ile yapılan anlaşma gereği rusya kendi vatandaşımı kendim yargılarım diyerek kendisi yargılama işlemini yapıyormuş. youtube'dan talha bey'in paylaşımı izleyerek istanbul'un tarihini yerinde görebilirsiniz. güçsüz kalmanın hali işte budur, dünyada herhalde eşine nadir rastlanır bir rezalet yani bu. rus işgalinden kars'ı ve o bölgeyi kurtardığımız güne de şükürler olsun.",
+      "has_external_url": true
+    }
+  ]
+}

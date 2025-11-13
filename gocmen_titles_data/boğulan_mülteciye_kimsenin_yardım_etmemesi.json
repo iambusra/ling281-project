@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:42:47.217488",
+    "total_entries": 3,
+    "input": "boğulan mülteciye kimsenin yardım etmemesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "boğulan mülteciye kimsenin yardım etmemesi",
+      "entry_id": "65888335",
+      "author": "ecrof",
+      "date": "27.01.2017 11:52",
+      "content": "intihar etmiştir",
+      "has_external_url": false
+    },
+    {
+      "title": "boğulan mülteciye kimsenin yardım etmemesi",
+      "entry_id": "65888424",
+      "author": "gofi winie",
+      "date": "27.01.2017 11:55",
+      "content": "cahiliye devri.",
+      "has_external_url": false
+    },
+    {
+      "title": "boğulan mülteciye kimsenin yardım etmemesi",
+      "entry_id": "65888460",
+      "author": "merkuryel vapur",
+      "date": "27.01.2017 11:57",
+      "content": "konu avrupa olunca artık bana pek inanılmaz gelmeyen, içimi yakan olay. klasik avrupa'dan insanlık manzaraları işte. bosna'da insanlık katledilirken nerede duruyorlardıysa suriye'de katledilirken de aynı yerdeler, kendi denizlerinde mülteciler boğulurken de aynı yerdeler.",
+      "has_external_url": false
+    }
+  ]
+}

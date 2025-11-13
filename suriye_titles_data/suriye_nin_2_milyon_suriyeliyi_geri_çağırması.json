@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:47:56.281059",
+    "total_entries": 3,
+    "input": "suriye'nin 2 milyon suriyeliyi geri çağırması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriye'nin 2 milyon suriyeliyi geri çağırması",
+      "entry_id": "55293837",
+      "author": "timbirlak castin",
+      "date": "05.10.2015 15:59",
+      "content": "hatalı üretim oldukları için olabilir ama olmayabilir de.\n\n(bkz: ay olabilir mi öyle bir şey lütfen olsun çünkü)",
+      "has_external_url": false
+    },
+    {
+      "title": "suriye'nin 2 milyon suriyeliyi geri çağırması",
+      "entry_id": "55293891",
+      "author": "there is no such thing",
+      "date": "05.10.2015 16:01",
+      "content": "rte'ye gore turkiye'de yasamaya uygundurlar.\n\n(bkz: doğuş otomotiv'in volkswagen açıklaması)",
+      "has_external_url": false
+    },
+    {
+      "title": "suriye'nin 2 milyon suriyeliyi geri çağırması",
+      "entry_id": "55294210",
+      "author": "trajiklambasi",
+      "date": "05.10.2015 16:17",
+      "content": "(bkz: emisyon sorunu)\n(bkz: karbon salınımı)",
+      "has_external_url": false
+    }
+  ]
+}

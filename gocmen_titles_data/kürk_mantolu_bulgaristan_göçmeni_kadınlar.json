@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:10:48.458841",
+    "total_entries": 1,
+    "input": "kürk mantolu bulgaristan göçmeni kadınlar",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "kürk mantolu bulgaristan göçmeni kadınlar",
+      "entry_id": "91019668",
+      "author": "minnoklokumcuk",
+      "date": "08.06.2019 11:40 ~ 11:42",
+      "content": "life dergisi fotoğrafçısı jack birns tarafından 1950 yılında edirne tren garı'nda çekilmiş ve arkasında bir dram saklayan fotoğrafın öznesi olan kadınlar. buruk\n\n''kadınların hepsinin üzerinde kürk olmasının nedeni ise; bulgaristan'ın göç eden türklerin yanlarına sadece elbiselerini almalarına izin vermesi.\n\nömürlerinde hiçbir zaman kürk giyme fırsatı bulamayacak olan bu kadınlar, ellerindekini satıp parasıyla kürk alıyorlardı ki; türkiye'ye geçtiklerinde kürkü satarak en azından bir miktar paralarını kurtarmış olabilsinler.\n\nbu süreçte taşınmaz mallarının bir çoğunu arkasında bırakan bulgaristan türkleri taşınabilir mülklerini yanlarında götürmek istemiştir, ancak bulgar hükümeti türklerin yalnızca kıyafetleri ile gitmesine izin vermiştir. gidecekleri yurtta kendilerini neyin beklediğini bilmeyen bulgaristan türkleri hem daha sıcak tutması hem de her yerde satıldığında iyi para etmesi hasebiyle kürk satın alarak türkiye'ye gelmişlerdir.\nkürklerle zengin bir hanım portresi çizilse de aslında fotoğrafın ardında bir dram vardır (bkz: alıntı) .'",
+      "has_external_url": true
+    }
+  ]
+}

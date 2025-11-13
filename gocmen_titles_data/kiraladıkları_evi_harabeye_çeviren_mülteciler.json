@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:47:37.641134",
+    "total_entries": 2,
+    "input": "kiraladıkları evi harabeye çeviren mülteciler",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "kiraladıkları evi harabeye çeviren mülteciler",
+      "entry_id": "155533452",
+      "author": "guerra",
+      "date": "11.08.2023 16:37",
+      "content": "3 senelik evi içine sıçan suriyeli muhacir kardeşlerimiz duvarları bile yemişler.\n\nhttps://twitter.com/…lar/status/1689960226680684544",
+      "has_external_url": true
+    },
+    {
+      "title": "kiraladıkları evi harabeye çeviren mülteciler",
+      "entry_id": "155533729",
+      "author": "dijital amele",
+      "date": "11.08.2023 16:47",
+      "content": "mültecilerden önce nemden ölmüş ev amk.",
+      "has_external_url": false
+    }
+  ]
+}

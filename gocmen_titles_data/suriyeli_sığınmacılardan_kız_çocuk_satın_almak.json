@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:03:46.921258",
+    "total_entries": 1,
+    "input": "suriyeli sığınmacılardan kız çocuk satın almak",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeli sığınmacılardan kız çocuk satın almak",
+      "entry_id": "36562783",
+      "author": "mesut muyum",
+      "date": "31.08.2013 20:45",
+      "content": "ötesi berisi, ilerisi gerisi yok tur şerefsizlik tir.",
+      "has_external_url": false
+    }
+  ]
+}

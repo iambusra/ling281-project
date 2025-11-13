@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:47:52.031773",
+    "total_entries": 1,
+    "input": "mülteciler referanduma göre yerleştirilsin",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "mülteciler referanduma göre yerleştirilsin",
+      "entry_id": "152669115",
+      "author": "hutginsmith",
+      "date": "22.05.2023 10:35",
+      "content": "formülün basit olduğu uygulamadır. şöyle ki, mülteciler ile ilgili referandum yapılacak, gitsinler mi kalsınlar mı?\nbu referandum iller bazında yapılacak. mesela izmir' de gitsinler çıktı, yozgatta kalsınlar çıktı. izmir' deki mülteciler de oraya postalanacak. antalya' da gitsinler çıktı, erzurumda kalsınlar çıktı, antalya' da ne kadar başıboş sığınmacı varsa erzuruma yığılıcak.\no zaman göreceğim ben bu mülteci politikasını.\nha bütün illerde gitsinler çıktı, o zaman siktir edip yollayacağız ülkelerine hepsini.",
+      "has_external_url": false
+    }
+  ]
+}

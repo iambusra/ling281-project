@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:11:35.609360",
+    "total_entries": 1,
+    "input": "dedesi polonya göçmeni tiki kız",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "dedesi polonya göçmeni tiki kız",
+      "entry_id": "68666683",
+      "author": "hickimsehayattansagkurtulamaz",
+      "date": "06.06.2017 23:52",
+      "content": "nişantaşlıdır, ta amerikalarda okumuştur ama kafası çok çalışmaz.",
+      "has_external_url": false
+    }
+  ]
+}

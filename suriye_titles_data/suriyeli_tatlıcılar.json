@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:52:55.216913",
+    "total_entries": 1,
+    "input": "suriyeli tatlıcılar",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeli tatlıcılar",
+      "entry_id": "172028443",
+      "author": "gargulos",
+      "date": "19.01.2025 20:35 ~ 20:52",
+      "content": "efsane hafif tatlıları olan tatlıcılardır. ayrıca türk tatlıcıların bizi sağlam düdüklediğini anladığım tatlıcılar.\nbunların peynir ve kaymak gibi bişeyden tatlıları var çok hafif fiyatı da 400tl gibi bişey kilosu. bir peynirli kadayıfları var inanılmaz. türk tatlıcılarda şeker komasına sokar adamı. bunlar kadayıfı az içindeki peynir ya da kaymak gibi şeyi kalın yapıyorlar inanılmaz hafif. bir sıcak sütlü değişik baharat karışımları var chai tea lattenin anası olabilir muhtemelen ordan araklanmış olabilir. ben istanbul yusufpaşa tramvay durağındakilerin hepsini denedim. sultan tatlısı mı ne var en kralı o. ikramlık mutlaka bir dilim tattırıyorlar türkler dilimine 100tl istiyor.",
+      "has_external_url": false
+    }
+  ]
+}

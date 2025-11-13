@@ -1,0 +1,97 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:02:20.816379",
+    "total_entries": 8,
+    "input": "suriyelileri yunanistan'a göndermek",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelileri yunanistan'a göndermek",
+      "entry_id": "91714726",
+      "author": "gogacan",
+      "date": "25.06.2019 22:37",
+      "content": "suriyeliler de zaten hadi gidek dicek:d",
+      "referenced_content": [],
+      "has_external_url": false
+    },
+    {
+      "title": "suriyelileri yunanistan'a göndermek",
+      "entry_id": "91714793",
+      "author": "mada",
+      "date": "25.06.2019 22:38 ~ 22:39",
+      "content": "en mantıklısı. daha önceki girdilerimde yazmıştım. zorla niye besliyoruz. avrupa mı istiyorlar yardımcı olup gönderelim. biraz da avrupa uğraşsın.",
+      "referenced_content": [],
+      "has_external_url": false
+    },
+    {
+      "title": "suriyelileri yunanistan'a göndermek",
+      "entry_id": "91715281",
+      "author": "suburb",
+      "date": "25.06.2019 22:47",
+      "content": "aklıma özer aydoğan'ın şu karikatürünü getirmistir:)\n\nhttps://eksiup.com/p/7w40782ynkvx",
+      "referenced_content": [],
+      "has_external_url": true
+    },
+    {
+      "title": "suriyelileri yunanistan'a göndermek",
+      "entry_id": "91715474",
+      "author": "kirkhammet34",
+      "date": "25.06.2019 22:51",
+      "content": "yunanistan sahillerini pire gibi kemirirler vallahi.",
+      "referenced_content": [],
+      "has_external_url": false
+    },
+    {
+      "title": "suriyelileri yunanistan'a göndermek",
+      "entry_id": "91716516",
+      "author": "taksi kime",
+      "date": "25.06.2019 23:11 ~ 23:16",
+      "content": "bir dönem gayri resmi devlet politikası olmuştur. türk devletinin istese kuş dahi uçurtmayacağı bölgelerden akın akın belki de milyonlarca insan hayatını tehlikeye atarak bedava yaşadıkları el üstünde tutuldukları müslüman türkiyeyi bırakıp gavur avrupaya gitmeye çalışmıştır.\n\nbu devirde birileri (sığınmacıları taşıyan kişiler ve onlara göz yumanlar), sığınmacıların sırtından milyonlarca tl kazanmıştır.\n\navrupa birliği'nin vermeyi önerdiği birkaç milyar avro karşılığında bu politika değiştirilmiştir.\n\ninsan hayatı üzerinden ticaret yapmak, ne desem bilemedim.",
+      "referenced_content": [],
+      "has_external_url": false
+    },
+    {
+      "title": "suriyelileri yunanistan'a göndermek",
+      "entry_id": "91716714",
+      "author": "vitreae",
+      "date": "25.06.2019 23:14",
+      "content": "plan suriyelileri tatil gönderiyoruz adıyla adalara götüreceğiz sonra beyler siz eğlenin biz gelip sizi alırız deyip geri döneceğiz . sonrada sınırları kapattık mı olay tamamdır.",
+      "referenced_content": [],
+      "has_external_url": false
+    },
+    {
+      "title": "suriyelileri yunanistan'a göndermek",
+      "entry_id": "106486396",
+      "author": "foucauldian",
+      "date": "03.05.2020 03:58",
+      "content": "içişleri bakanı sayılar paylaşıyordu en son şu kadar gönderdik diye ama bu planlar patladı sanırım. içişleri bakanı da istifa etti ve geri döndü ama pek sesi çıkmıyor artık.\n\ntanım: milletin unuttuğu hadise.",
+      "referenced_content": [],
+      "has_external_url": false
+    },
+    {
+      "title": "suriyelileri yunanistan'a göndermek",
+      "entry_id": "138381811",
+      "author": "gordonmilne",
+      "date": "05.06.2022 22:55",
+      "content": "yunanistan'a tarihi bir ayar olur. daha da doğrulamazlar.\n\n(bkz: #138381627)",
+      "referenced_content": [
+        {
+          "type": "entry",
+          "title": "yunanistan",
+          "entry_id": "138381627",
+          "author": "gordonmilne",
+          "date": "05.06.2022 22:52",
+          "content": "yaşlı nüfusu çok yüksek olan ülke. nüfusu 2020'de 11 milyonken 2021'de 10 milyona düşmüştür.\n\nsanayisi güçsüz, tembel millet, ab ve abd'nin yardımlarıyla aşırı tembelleşmişler.\n\n2010'da ekonomisi çökünce ab ve imf 300 milyar euro kredi verdi. bunu sırf yunanistan'ın ekonomisini canlandırmak için verdi.\n\nfakat bu tembel ülke tüm endüstri yatırımlarına rağmen üretim ekonomisine geçemedi.\n\nadamlarda öyle bir yetenek yok.\n\ngaliba imf parasını da geri alamadı ki abd ülkeye üstleriyle çöktü.\n\nbunları neden anlatıyorum.\n\nyeni iktidar gelince, bunlara suriyelileri salın aga, öyle 5-10 tane değil yüzbinlerce. birkaç atar yaparlar sonra tıss. salın gitsin.",
+          "has_external_url": false
+        }
+      ],
+      "referenced_entry_ids": [
+        "138381627"
+      ],
+      "has_external_url": false
+    }
+  ]
+}

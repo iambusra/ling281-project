@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:13:42.943333",
+    "total_entries": 2,
+    "input": "saakaşvili'nin ukrayna'da başkan yardımcısı olması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "saakaşvili'nin ukrayna'da başkan yardımcısı olması",
+      "entry_id": "49170434",
+      "author": "colde kutupayisi",
+      "date": "14.02.2015 15:25",
+      "content": "gürcistan'ı 2008'de savaşa sürüklemiş, sonrasında stresten kravatını yemeye başlamış, halen hakkındaki yolsuzluk iddaiaları nedeniyle ülkesine adım attığı anda tutuklanacak gürcistan'ın eski devlet başkanı saakaşvili'nin ukrayna'da devlet başkan yardımcısı olarak atanması vakası. acaba tayyib için de boş kadroları var mıdır?\nbkz. http://haber.sol.org.tr/…rdimciligina-atandi-107723",
+      "has_external_url": true
+    },
+    {
+      "title": "saakaşvili'nin ukrayna'da başkan yardımcısı olması",
+      "entry_id": "49170747",
+      "author": "zarif philips",
+      "date": "14.02.2015 15:40",
+      "content": "kendisi ukrayna'nın “yolsuzluk ve adaletsizliklerden arındırılmış, daha iyi bir geleceği hak ettiğini\" filan söylemiş. şahsen yolsuzluk yapmasam dahi, kumpas olduğu gün gibi ortada olsa dahi yolsuzluktan yargılansam yinede bu cümleleri kurmam.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:48:11.233721",
+    "total_entries": 2,
+    "input": "mülteciler için referandum düzenlensin",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "mülteciler için referandum düzenlensin",
+      "entry_id": "144293589",
+      "author": "gozlerindekisir",
+      "date": "24.10.2022 20:46 ~ 20:47",
+      "content": "akp, milletin iradesini her şeyin üstünde tuttuğu için, bence mülteci meselesini halkın oyuna sunsun.",
+      "has_external_url": false
+    },
+    {
+      "title": "mülteciler için referandum düzenlensin",
+      "entry_id": "144294014",
+      "author": "kerelen adam",
+      "date": "24.10.2022 20:57",
+      "content": "mülteciler, istanbul sözleşmesi, hayvan hakları, eyt bu konular ülkedeki her vatandaşın hayatını, geleceğini etkiliyor ama nedendir bilinmez hiç biri hakkında ne iktidar ne de iktidara gelmek isteyenler hiç bir şekilde bu konuları vatandaşa sormuyor, sormayı aklından bile geçirmiyor, lafta milli irade, demokrasi, her parti başkanın ağzında, parti programlarında ama uygulama da hepsi biz karar veririz siz karışmayın modunda.\n\ntanım: ne zaman ülkede gerçek demokrasi, milli iradeye saygı olur, ne zaman vatandaşlar her boku da siz bilemezsiniz bu bizimde hayatımız, ülke bizimde ülkemiz vergiyi biz veriyoruz, bize soracaksınız der işte o zaman olacak olan refarandum.",
+      "has_external_url": false
+    }
+  ]
+}

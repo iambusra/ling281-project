@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:33:41.598250",
+    "total_entries": 1,
+    "input": "rusların seçime müdahale edeceği gerçeği",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rusların seçime müdahale edeceği gerçeği",
+      "entry_id": "152262160",
+      "author": "aydayasayanaslan",
+      "date": "12.05.2023 15:07",
+      "content": "putin kendi koltuğunu sağlama alsın önce. öyle fotoşopla ayı üzerine binmekle dünya lideri olunmuyor. bir van münüts demişliği bile yok henüz.",
+      "has_external_url": false
+    }
+  ]
+}

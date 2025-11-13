@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:16:47.936936",
+    "total_entries": 1,
+    "input": "yunanlılar'ın işkence ettiği fas'lı göçmenler",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "yunanlılar'ın işkence ettiği fas'lı göçmenler",
+      "entry_id": "145302867",
+      "author": "bana her yer cehennem",
+      "date": "19.11.2022 18:37",
+      "content": "vatan savunmasına yunanistan'dan çok güzel bir örnek\nkeşke biz de sınırlarımızı böyle güzel koruyabilsek de kimse kaçak gelmeye cesaret edemese\n\nyunanistan'ı tebrik ediyorum. helal olsun adamlar ülkelerini çok güzel şekilde koruyorlar.",
+      "has_external_url": false
+    }
+  ]
+}

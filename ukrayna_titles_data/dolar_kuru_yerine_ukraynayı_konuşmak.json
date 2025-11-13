@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:08:45.217092",
+    "total_entries": 1,
+    "input": "dolar kuru yerine ukraynayı konuşmak",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "dolar kuru yerine ukraynayı konuşmak",
+      "entry_id": "153307642",
+      "author": "cift yanak riza",
+      "date": "07.06.2023 21:42",
+      "content": "az önce dolar 23 lira olmuş diye arkadaşım tarafından uyarılınca bir bakayım dedim ve ayağa kalıkıp habertürk ü açtım. bir de ne göreyim arkadaşlar oturmuş ukrayna savaşı konuşuyor. oh neyseki bizim bir problemimiz yokmuş diyip rahat bir nefes aldım. tekli koltuğuma tekrar oturup buzlu viskimle katarina denen orospunun moskova trenindeki maceralarını okumaya devam ettim.",
+      "has_external_url": false
+    }
+  ]
+}

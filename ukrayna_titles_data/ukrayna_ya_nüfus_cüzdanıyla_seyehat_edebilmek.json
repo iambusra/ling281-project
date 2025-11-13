@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:10:18.640992",
+    "total_entries": 1,
+    "input": "ukrayna'ya nüfus cüzdanıyla seyehat edebilmek",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukrayna'ya nüfus cüzdanıyla seyehat edebilmek",
+      "entry_id": "66208948",
+      "author": "itsubishi",
+      "date": "10.02.2017 16:56",
+      "content": "habere göre \"halkların arasında daha fazla temaz olması\" istemine paralel atılmaya çalışılan ukrayna'ya vizesiz seyahat adımıdır. temastan kastın ne olduğunu yetkililerin açıklamasını bekliyoruz.",
+      "has_external_url": false
+    }
+  ]
+}

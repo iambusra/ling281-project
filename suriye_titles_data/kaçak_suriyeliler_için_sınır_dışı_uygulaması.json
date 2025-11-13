@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:43:20.471769",
+    "total_entries": 2,
+    "input": "kaçak suriyeliler için sınır dışı uygulaması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "kaçak suriyeliler için sınır dışı uygulaması",
+      "entry_id": "165376917",
+      "author": "needwoolfudella",
+      "date": "15.06.2024 16:17 ~ 23:54",
+      "content": "an itibariyle başlamış uygulama, uygulamaya dahil olmasam inanmazdım. yapılmaz öylesine yapılıyor derdim ama polisi ayrı bekçisi ayrı uğraştı. hatta kişi kaçar diye nöbet bile tutuldu.\nsevindiğim uygulama.\nbilgilendirme\nuygulama ülkeye kaçak girip hastaneye doğum için gelen bir suriye vatandaşına uygulandı. (bu deportu vicdansızlık olarak görmüyorum, olması gereken bu zaten). daha önce bu tür durumlarda kişinin eline doğum belgesi verip reçete ile birlikte bir kuruş ödemeden hastaneden ayrılıyorlardı. müdehale edilmiyordu.",
+      "has_external_url": false
+    },
+    {
+      "title": "kaçak suriyeliler için sınır dışı uygulaması",
+      "entry_id": "165377188",
+      "author": "datroth",
+      "date": "15.06.2024 16:28",
+      "content": "daha detaylı bilgi verilirse daha anlaşılabilir olur. hangi ilde, hangi emirle, toparlanan şahıslara yapılan işlem ne, bir kitle gözetiliyor mu yoksa rastgele mi seçiliyor vs.\n\nböyle bir işlem başladıysa bahçeli'nin sözünün ardına denk gelmesi tesadüf değildir.\n\numarım artık sınır dışı edilirler ama bu düzende hiçbir umudum yok.",
+      "has_external_url": false
+    }
+  ]
+}

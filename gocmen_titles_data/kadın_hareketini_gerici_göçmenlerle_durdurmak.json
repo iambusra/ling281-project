@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:23:37.572035",
+    "total_entries": 1,
+    "input": "kadın hareketini gerici göçmenlerle durdurmak",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "kadın hareketini gerici göçmenlerle durdurmak",
+      "entry_id": "137040466",
+      "author": "tus takimi",
+      "date": "05.05.2022 12:13",
+      "content": "bazı ülkelerde uygulanan bir yöntem.",
+      "has_external_url": false
+    }
+  ]
+}

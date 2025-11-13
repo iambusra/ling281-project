@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:26:23.479068",
+    "total_entries": 1,
+    "input": "afgan göçmenlerin türkiye'ye taşıdığı hastalıklar",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "afgan göçmenlerin türkiye'ye taşıdığı hastalıklar",
+      "entry_id": "125937945",
+      "author": "benkacincimurattimlandiyebagiranpadisah",
+      "date": "20.07.2021 22:40",
+      "content": "şüphesiz ki akplilerin etkilenmeyeceği hastalıklardır.",
+      "has_external_url": false
+    }
+  ]
+}

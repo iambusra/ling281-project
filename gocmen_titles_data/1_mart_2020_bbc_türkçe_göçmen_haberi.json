@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T00:01:32.943369",
+    "total_entries": 1,
+    "input": "1 mart 2020 bbc türkçe göçmen haberi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "1 mart 2020 bbc türkçe göçmen haberi",
+      "entry_id": "102863007",
+      "author": "mnyk51",
+      "date": "01.03.2020 18:51",
+      "content": "başlık; 1 mart 2020 bbc nevs türkçe edirne:'sınırdaki' göçmenler olacaktı ancak malum karakter sınırı.\n\ngider ayak hepsinin türkiye'yi götülediği bir haber olmuş. haklı olanlar da var. ancak hiçbiri türkiye'yi sevdiği için kalmıyormuş belli ki. ilk fırsatta gidiyorlar. giderken de türkiye'yi kötülemeyi ihmal etmiyorlar. özellikle 8. dakikan sonra konuşanı iyi dinleyin.\n\nhaber linki",
+      "has_external_url": true
+    }
+  ]
+}

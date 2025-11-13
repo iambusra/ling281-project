@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:50:57.379738",
+    "total_entries": 4,
+    "input": "suriyeli mültecilere oy hakkı vermek",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeli mültecilere oy hakkı vermek",
+      "entry_id": "31835050",
+      "author": "skybreak",
+      "date": "21.01.2013 21:39",
+      "content": "2013 seçimlerinde beklediğim durum.\n\nmülteci kamplarından birini alakasız şekilde izmir' e kurduklarında ben bütün naifliğimle \"piçliğine\" yaptıklarını düşünmüştüm. ancak yaklaşık 11 yıldır tecrübe etmeye devam ettiğimiz ahlaksız ve kendine müslüman uygulamaların ışığında bunun gayet bilinçli bir hareket olduğunu düşünüyorum.\n\nson referandum öncesinde ölen kişilerin bile seçmen olarak gösterildiği düşünülürse bu olasılık hiç uzak değil. verirler el altından vatandaşlıklarını, yazdırırlar isimlerini, olur sana seçmen.\n\nbazen bu adamlar yüzünden öteki tarafa (bkz: otherside) inanmak istiyorum: geçecem karşılarına \"yedin benim hakkımı, nah geçersin bu sırat köprüsünden\" diyeceğim.",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyeli mültecilere oy hakkı vermek",
+      "entry_id": "31842266",
+      "author": "skybreak",
+      "date": "22.01.2013 12:40",
+      "content": "http://www.chp.org.tr/…ve-oy-hirsizliginin-pesinde…",
+      "has_external_url": true
+    },
+    {
+      "title": "suriyeli mültecilere oy hakkı vermek",
+      "entry_id": "37245179",
+      "author": "dolphins were monkeys",
+      "date": "27.09.2013 12:57 ~ 12:58",
+      "content": "cumhuriyet halk partisi hatay milletvekili mehmet ali edipoğlu'nun suriyeli bir sığınmacıya verilen tc kimlik belgesini ifşa etmesiyle iyiden iyiye gerçeklik kazanan. bu konuda hassasiyet gösterenleri, \"akp'ye bok atmak için bahane aramayın\" diyen tiplere de kapak olsun.\n\nhttp://www.gercekgundem.com/?p=568682",
+      "has_external_url": true
+    },
+    {
+      "title": "suriyeli mültecilere oy hakkı vermek",
+      "entry_id": "152237450",
+      "author": "normal pretisyen",
+      "date": "11.05.2023 22:20",
+      "content": "(bkz: vatana ihanet)",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:53:09.849737",
+    "total_entries": 1,
+    "input": "suriyeli'nin taşıdığı malatya'nın askeri haritası",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeli'nin taşıdığı malatya'nın askeri haritası",
+      "entry_id": "38670052",
+      "author": "dust",
+      "date": "02.12.2013 16:30",
+      "content": "kardeşlikte yeni bir boyut. öyle bir sevmek ki, kardeş vatan'ın bir parçasını ceplerinde gezdirmek.\n\nhttp://sozcu.com.tr/…yelinin-ustunden-cikti-417195/",
+      "has_external_url": true
+    }
+  ]
+}

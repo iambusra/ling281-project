@@ -1,0 +1,84 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:12:50.029102",
+    "total_entries": 9,
+    "input": "hem çerkes hem de selanik göçmeni olan kız",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "hem çerkes hem de selanik göçmeni olan kız",
+      "entry_id": "38337602",
+      "author": "canima degsin",
+      "date": "16.11.2013 14:04",
+      "content": "uluslararası gibi kadın",
+      "has_external_url": false
+    },
+    {
+      "title": "hem çerkes hem de selanik göçmeni olan kız",
+      "entry_id": "38503744",
+      "author": "brawler",
+      "date": "24.11.2013 21:04",
+      "content": "anam cerkes, babam selanik (iskece) gocmeni oldugundan ben olmadigim kiz. erkegim lan ben. ablam olabilir ama",
+      "has_external_url": false
+    },
+    {
+      "title": "hem çerkes hem de selanik göçmeni olan kız",
+      "entry_id": "38504880",
+      "author": "cloudious",
+      "date": "24.11.2013 21:54",
+      "content": "herkes mi göçmen a.q.",
+      "has_external_url": true
+    },
+    {
+      "title": "hem çerkes hem de selanik göçmeni olan kız",
+      "entry_id": "38504957",
+      "author": "somek kafali",
+      "date": "24.11.2013 21:57",
+      "content": "(bkz: göçmen kızların yüz hatlarının erkeksi olması)",
+      "has_external_url": false
+    },
+    {
+      "title": "hem çerkes hem de selanik göçmeni olan kız",
+      "entry_id": "38504967",
+      "author": "kokorolokko",
+      "date": "24.11.2013 21:57",
+      "content": "etrafımdaki örneklerinden yola çıkarak çok güzel olduğunu düşündüğüm kızdır. bacak, boy, pos hepsi mevcut maşallah.",
+      "has_external_url": false
+    },
+    {
+      "title": "hem çerkes hem de selanik göçmeni olan kız",
+      "entry_id": "38505749",
+      "author": "yuzmebilmeyenbalik",
+      "date": "24.11.2013 22:34",
+      "content": "(bkz: bence siz kıskanıyorsunuz)",
+      "has_external_url": false
+    },
+    {
+      "title": "hem çerkes hem de selanik göçmeni olan kız",
+      "entry_id": "38505933",
+      "author": "nickyy",
+      "date": "24.11.2013 22:43",
+      "content": "baba tarafı kafkas anne tarafı selanık'ın yan komuşusu kavala göçmeni olan kızın akrabası. (bkz: swh)",
+      "has_external_url": false
+    },
+    {
+      "title": "hem çerkes hem de selanik göçmeni olan kız",
+      "entry_id": "38506409",
+      "author": "denwilldo",
+      "date": "24.11.2013 23:00 ~ 23:02",
+      "content": "büyük olasılıkla;1864 büyük kafkas sürgününde,o zamanlar sığınılan osmanlı imparatorluğuna ait olan balkanlar ve batı trakya bölgesine iskan edilen,sonra da 1914 balkan savaşı sonrası veya 1924 büyük mübadele sonucu 2.kez selanik'den türkiyeye göç ettirilen ailenin torunudur.",
+      "has_external_url": false
+    },
+    {
+      "title": "hem çerkes hem de selanik göçmeni olan kız",
+      "entry_id": "38506522",
+      "author": "lesvos",
+      "date": "24.11.2013 23:04",
+      "content": "yenilmez yanında yatılır.",
+      "has_external_url": false
+    }
+  ]
+}

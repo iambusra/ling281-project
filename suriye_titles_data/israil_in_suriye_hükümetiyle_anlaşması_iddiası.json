@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:43:07.415072",
+    "total_entries": 2,
+    "input": "israil’in suriye hükümetiyle anlaşması iddiası",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "israil’in suriye hükümetiyle anlaşması iddiası",
+      "entry_id": "176687442",
+      "author": "akyaky",
+      "date": "10.07.2025 00:17",
+      "content": "israil ve suriye medyalarında dillendirilen iddialardır. eğer gerçekse 1918 mondros ateşkes anlaşmasından daha beter bir durum suriyeyi beklerken türkiye'yi de sınırında yeni doğmuş bir kriz bebek bekliyor.\n\niktidar tarafında bir fokurdama başlamış gibi halihazırda şamil tayyarın isyanı\n\nkaynak",
+      "has_external_url": true
+    },
+    {
+      "title": "israil’in suriye hükümetiyle anlaşması iddiası",
+      "entry_id": "178627785",
+      "author": "skybreak",
+      "date": "23.09.2025 20:33",
+      "content": "akp hukumeti'nin kontrolunde gerceklesen ve de (bkz: davud koridoru)'nu hayata gecirecek anlasmadir.\n\nhttps://www.indyturk.com/…aşması-temelinde-güvenlik",
+      "has_external_url": true
+    }
+  ]
+}

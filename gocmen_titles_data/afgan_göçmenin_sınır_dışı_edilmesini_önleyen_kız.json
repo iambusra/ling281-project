@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:15:41.596462",
+    "total_entries": 4,
+    "input": "afgan göçmenin sınır dışı edilmesini önleyen kız",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "afgan göçmenin sınır dışı edilmesini önleyen kız",
+      "entry_id": "79554513",
+      "author": "stpetersburg",
+      "date": "25.07.2018 15:52",
+      "content": "olay isveç’in başkenti göteborg’da, göteborg-istanbul seferini gerçekleştirecek olan thy uçağında gerçekleşiyor. isveçli kız elin ersson, thy uçağını durduruyor ve \"afganistan'da savaş var. bu sığınmacıyı ölüme gönderiyorlar, buna izin vermeyeceğim\" diyerek mültecinin sınır dışı edilmesini engelliyor. türk yolcular da alkışlarıyla destek veriyor.\n\nthy kabin memurunun; “şu an bizim yolcumuzsunuz. davranmanız gerektiği gibi davranmıyoruz” sözlerine karşılık elin “ben bir insanın hayatını kurtarabilmek için ne yapabileceksem onu yapıyorum.” diyor. “çocuklar korkuyor” diyen alçak bir ingiliz’in fiziki saldırısına uğruyor. mültecinin isveç’ten sınır dışı edilmesini engelleyen elin ersson, isveç’te gündeme oturuyor.\n\nolayın yaşandığı anlar",
+      "has_external_url": true
+    },
+    {
+      "title": "afgan göçmenin sınır dışı edilmesini önleyen kız",
+      "entry_id": "79582459",
+      "author": "othervoices",
+      "date": "26.07.2018 11:07 ~ 11:10",
+      "content": "baya baya cesur bir insan tarafından yapılmış doğru bir eylemdir.\n\nvelakin muhtemel devamındaki uçakla adamı gönderme ihtimalleri yüksektir",
+      "has_external_url": false
+    },
+    {
+      "title": "afgan göçmenin sınır dışı edilmesini önleyen kız",
+      "entry_id": "79583016",
+      "author": "mrgovernor",
+      "date": "26.07.2018 11:24",
+      "content": "umarım bir afgan göçmen tarafından tecavüze uğramaz dediğim kızdır.",
+      "has_external_url": false
+    },
+    {
+      "title": "afgan göçmenin sınır dışı edilmesini önleyen kız",
+      "entry_id": "79584697",
+      "author": "lock11load",
+      "date": "26.07.2018 12:18",
+      "content": "birgün bu yaptığı iyilik için çok pişman olma ihtimali olan kızdır.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:02:06.661045",
+    "total_entries": 2,
+    "input": "suriyeli sığınmacıları türk vatandaşı yapma planı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeli sığınmacıları türk vatandaşı yapma planı",
+      "entry_id": "37248213",
+      "author": "aslan2",
+      "date": "27.09.2013 15:18 ~ 15:26",
+      "content": "seçimler yaklaştıkça hız kazanan uygulama\nbenzer bir başlık (bkz: suriyeli mültecilerin seçimlerde oy kullanması)\n(bkz: http://www.muhalifgazete.com/…andasi-yapiliyor.html)",
+      "has_external_url": true
+    },
+    {
+      "title": "suriyeli sığınmacıları türk vatandaşı yapma planı",
+      "entry_id": "61702907",
+      "author": "unutulan replik",
+      "date": "13.07.2016 18:48",
+      "content": "bugün inanılmaz akp savunucusu olan ve asla başka partiye oy vermez dediğim iki koyu seçmenin''bu kadar olmaz'' diyerek vazgeçtiklerine kulak misafiri oldum.\nkonut verilmesi konusunu konuşuyorlardı ve ben şaşırdım.\nekşiye açılan başlıklardan''ne olursa olsun oylar yine akp nin olacaktır'' diyen başlıkların amacını ve etkisini sorguladım.\nbu başlıklar yanılıyor arkadaşlar.\nbilmenizi istedim.",
+      "has_external_url": false
+    }
+  ]
+}

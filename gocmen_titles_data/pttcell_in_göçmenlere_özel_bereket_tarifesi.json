@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:21:09.210509",
+    "total_entries": 4,
+    "input": "pttcell'in göçmenlere özel bereket tarifesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "pttcell'in göçmenlere özel bereket tarifesi",
+      "entry_id": "138363932",
+      "author": "345trimetilheptan",
+      "date": "05.06.2022 15:19 ~ 15:20",
+      "content": "adresinden ulaşılabilen, pttcell'in sadece göçmenlere verdiği ucuz tarifedir.\n\n--- spoiler ---\n\npttcell’ den göçmenler’e özel bereket’li tarife!\n\ndetaylar\n\npttcell bereket tarifesi'nden yeni aktivasyon, numara taşıma ve şirketimizce sunulmakta olan diğer faturalı veya faturasız tarifelerden geciş yolu ile faydalanılabilecektir. ilgili tarifeye göçmen belgesi, yabancı tanıtma belgesi veya pasaport ibraz etmek suretiyle ptt merkez'lerinden kayıt yaptırılabilecektir.\n--- spoiler ---",
+      "has_external_url": true
+    },
+    {
+      "title": "pttcell'in göçmenlere özel bereket tarifesi",
+      "entry_id": "141047319",
+      "author": "no free lunch",
+      "date": "08.08.2022 18:46",
+      "content": "dünyada başka nerelerde göçmenlere böyle kolaylık yapılıyor diye merak etmeme neden olan tarife.\n\ndevlet yardımı al, ücretsiz sağlık hizmeti al, avantajlı paket al. neden gitsin ki bu sığınmacılar. ülkelerinde tehlike olmasa bile hangi motivasyonla dönecek?",
+      "has_external_url": false
+    },
+    {
+      "title": "pttcell'in göçmenlere özel bereket tarifesi",
+      "entry_id": "141047435",
+      "author": "nyx ulric",
+      "date": "08.08.2022 18:50",
+      "content": "(bkz: sürüsüne bereket)",
+      "has_external_url": false
+    },
+    {
+      "title": "pttcell'in göçmenlere özel bereket tarifesi",
+      "entry_id": "141047668",
+      "author": "to vbe or not to vbe",
+      "date": "08.08.2022 18:56",
+      "content": "(bkz: öz yurdunda garipsin öz vatanında parya)",
+      "has_external_url": false
+    }
+  ]
+}

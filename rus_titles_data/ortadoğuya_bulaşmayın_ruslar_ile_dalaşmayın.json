@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:27:37.810580",
+    "total_entries": 2,
+    "input": "ortadoğuya bulaşmayın ruslar ile dalaşmayın",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ortadoğuya bulaşmayın ruslar ile dalaşmayın",
+      "entry_id": "102473859",
+      "author": "machete klonu",
+      "date": "22.02.2020 19:30",
+      "content": "büyük elçilere mi söylüyormuş mustafa kemal bunları? ilginç. demek o zamanlar ülkenin dış politikasını büyükelçiler belirliyormuş bak sen.",
+      "has_external_url": false
+    },
+    {
+      "title": "ortadoğuya bulaşmayın ruslar ile dalaşmayın",
+      "entry_id": "102473941",
+      "author": "kocakafa0",
+      "date": "22.02.2020 19:33",
+      "content": "fsb iş başında.\n\nata'ya ait olmayan söz.",
+      "has_external_url": false
+    }
+  ]
+}

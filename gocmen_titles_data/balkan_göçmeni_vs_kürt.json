@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:11:47.829850",
+    "total_entries": 1,
+    "input": "balkan göçmeni vs kürt",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "balkan göçmeni vs kürt",
+      "entry_id": "44140361",
+      "author": "somek kafali",
+      "date": "11.07.2014 20:41",
+      "content": "biri muhacirdir diğeri değil.",
+      "has_external_url": false
+    }
+  ]
+}

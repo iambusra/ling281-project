@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:23:15.863588",
+    "total_entries": 2,
+    "input": "metro istasyonuna sığınan ukraynalılar",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "metro istasyonuna sığınan ukraynalılar",
+      "entry_id": "134178893",
+      "author": "raskolnikov baltasi",
+      "date": "24.02.2022 23:38",
+      "content": "video\n\nyazık çok yazık. putin denen şerefsiz yüzünden binlerce insan bu soğuk havada evlerini terk edip metro istasyonuna sığınmış.\n\nsavaşı oyun zanneden gerizekalılar iyi izlesin bu videoyu.",
+      "has_external_url": true
+    },
+    {
+      "title": "metro istasyonuna sığınan ukraynalılar",
+      "entry_id": "134179278",
+      "author": "kam adam",
+      "date": "24.02.2022 23:46",
+      "content": "bkz. metro 2033, metro 2034, metro 2035-dimitry glukovsky",
+      "has_external_url": false
+    }
+  ]
+}

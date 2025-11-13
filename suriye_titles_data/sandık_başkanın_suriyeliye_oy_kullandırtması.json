@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:45:04.331756",
+    "total_entries": 3,
+    "input": "sandık başkanın suriyeliye oy kullandırtması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "sandık başkanın suriyeliye oy kullandırtması",
+      "entry_id": "78451548",
+      "author": "nesedenyana",
+      "date": "24.06.2018 17:14",
+      "content": "bu millet kafayı yedi.\nsandık başkanıyım deyip, kabine girmeye çalışmak, oy veren kişiye ima yapmak,\nakp nin 16 yılda şahsiyetsiz insanları nasıl cüretli hale getirdiğinin belgesi bu videodur.",
+      "has_external_url": false
+    },
+    {
+      "title": "sandık başkanın suriyeliye oy kullandırtması",
+      "entry_id": "78452008",
+      "author": "neverhide",
+      "date": "24.06.2018 17:25 ~ 02.07.2018 11:48",
+      "content": "ülkenin düştüğü durum bir kere daha utandırdı. daha 2 parça kağıda bakıp, bir isim ve amblem ezberleyip, resimdeki bir yüzü tanıyamayacak kapasitedeki tipler gelmiş geleceğimizi belirleyecek bir seçimde oy kullanıyor. düşünün, o ne idüğü belirsiz beyinsizin oyu sizin bir oyunuzu elimine etti.",
+      "has_external_url": false
+    },
+    {
+      "title": "sandık başkanın suriyeliye oy kullandırtması",
+      "entry_id": "78452044",
+      "author": "yarim kalan gufte",
+      "date": "24.06.2018 17:26",
+      "content": "göz göre göre suç işleniyor. bunun bir yaptırımı yok mudur? pes!!",
+      "has_external_url": false
+    }
+  ]
+}

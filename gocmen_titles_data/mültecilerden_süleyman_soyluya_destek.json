@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:52:00.162440",
+    "total_entries": 1,
+    "input": "mültecilerden süleyman soyluya destek",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "mültecilerden süleyman soyluya destek",
+      "entry_id": "137094157",
+      "author": "machete klonu",
+      "date": "06.05.2022 15:41",
+      "content": "sayın bakanın \"bu işte bir yanlışlık var.\" diye düşünmesini sağlamayacak destektir.",
+      "has_external_url": false
+    }
+  ]
+}

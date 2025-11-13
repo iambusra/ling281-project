@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:49:31.496034",
+    "total_entries": 3,
+    "input": "ab'nin mültecileri kafeslerde tutması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ab'nin mültecileri kafeslerde tutması",
+      "entry_id": "146172233",
+      "author": "dyatlovusevenyazar",
+      "date": "10.12.2022 13:56",
+      "content": "başıma ne geleceği belli olmadığından susuyorum.",
+      "has_external_url": false
+    },
+    {
+      "title": "ab'nin mültecileri kafeslerde tutması",
+      "entry_id": "146172332",
+      "author": "sosisci sergio",
+      "date": "10.12.2022 14:00",
+      "content": "yapılan muamele doğru degil ama bizimde bunları şehirlere dağıtmak yerine sınırlarda kurulacak bir cadırkent tarzı oluşumlarda tutmamız gerekiyordu.\n\nvalla kusura bakmasın kimse ama ben uyurken evimin kapısını kilitliyorsam dışarıdakileri sevmediğim için değil evde yaşanyanları sevdiğim içindir. maalesef bu ülkede evde yaşayanları sevmeyenler kapıyı kilitlemedi hatta kapıyı açık bıraktı.",
+      "has_external_url": false
+    },
+    {
+      "title": "ab'nin mültecileri kafeslerde tutması",
+      "entry_id": "146172676",
+      "author": "tuesta",
+      "date": "10.12.2022 14:12 ~ 17:17",
+      "content": "yalandir.\n\nyalan olmasa geri donup ulkesine giderdi. avrupaya kacip ayyy ne igrenc yermis deyip ulkesine geri donen var mi?\n\nbunlarin tamami insan kacakcilarina 10 binlerce dolar verip gelen tipler.\n\nsimdi avrupada bedava ev, issizlik maasi, cocuk maasi vs ile bu parayi cikarma pesindeler.\n\niskence gordum diyerek tazminat kovalayan boyle tipler de mevcut.",
+      "has_external_url": false
+    }
+  ]
+}

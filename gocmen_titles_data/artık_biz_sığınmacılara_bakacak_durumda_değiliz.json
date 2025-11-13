@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:02:36.510342",
+    "total_entries": 3,
+    "input": "artık biz sığınmacılara bakacak durumda değiliz",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "artık biz sığınmacılara bakacak durumda değiliz",
+      "entry_id": "149008850",
+      "author": "kaptanceksparrow",
+      "date": "10.02.2023 16:53",
+      "content": "ittifak çabuk benimsenmiş bakıyorum. hayırlı işler.",
+      "has_external_url": false
+    },
+    {
+      "title": "artık biz sığınmacılara bakacak durumda değiliz",
+      "entry_id": "149010200",
+      "author": "lidyadakilodos",
+      "date": "10.02.2023 17:15 ~ 17:16",
+      "content": "zaten değildik kimse kusura bakmasın yağmacılara kucak açmaya devam mı edeceğiz gerçekten?ben merhametimi çoktan yitirdim ..",
+      "has_external_url": false
+    },
+    {
+      "title": "artık biz sığınmacılara bakacak durumda değiliz",
+      "entry_id": "149010485",
+      "author": "carnivora lupus",
+      "date": "10.02.2023 17:19",
+      "content": "upp upp upp",
+      "has_external_url": false
+    }
+  ]
+}

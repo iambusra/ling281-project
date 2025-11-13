@@ -1,0 +1,79 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:02:22.946355",
+    "total_entries": 6,
+    "input": "15 ekim 2024 sığınmacılara çalışma izni muafiyeti",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "15 ekim 2024 sığınmacılara çalışma izni muafiyeti",
+      "entry_id": "169264754",
+      "author": "toris",
+      "date": "15.10.2024 11:51",
+      "content": "6 aya çıkarılmıştır.\n\nkaynak",
+      "referenced_content": [],
+      "has_external_url": true
+    },
+    {
+      "title": "15 ekim 2024 sığınmacılara çalışma izni muafiyeti",
+      "entry_id": "169264807",
+      "author": "uydunet",
+      "date": "15.10.2024 11:53 ~ 11:54",
+      "content": "kendi ülkenin vatandaşı işsiz dolaşırken sen hala saçma sapan kanunlar getiriyorsun.",
+      "referenced_content": [],
+      "has_external_url": false
+    },
+    {
+      "title": "15 ekim 2024 sığınmacılara çalışma izni muafiyeti",
+      "entry_id": "169264844",
+      "author": "aslagelmeyecektelefonubekleyenadam",
+      "date": "15.10.2024 11:54",
+      "content": "(bkz: savunma sanayi parasinin bitmesinin esas nedeni/#169264460)",
+      "referenced_content": [
+        {
+          "type": "entry",
+          "title": "savunma-sanayi-parasinin-bitmesinin-esas-nedeni",
+          "entry_id": "169264460",
+          "author": "aslagelmeyecektelefonubekleyenadam",
+          "date": "15.10.2024 11:39",
+          "content": "diğer tarafta ise;\n\n(bkz: suriyelilere 40 milyar dolar harcadık)\n(bkz: suriyelilere harcanan 7.6 milyar dolar)\n(bkz: suriyelilere 40 milyar dolar harcanması)\n(bkz: suriyeliler için 20 milyar dolar harcadık)\n(bkz: suriyeliler için 5-6 milyar dolar harcadık)\n(bkz: suriye'lilere 110 milyar dolar harcanmış olması)",
+          "has_external_url": false
+        }
+      ],
+      "referenced_entry_ids": [
+        "169264460"
+      ],
+      "has_external_url": false
+    },
+    {
+      "title": "15 ekim 2024 sığınmacılara çalışma izni muafiyeti",
+      "entry_id": "169264848",
+      "author": "manukyanin oglu",
+      "date": "15.10.2024 11:54",
+      "content": "(bkz: they took our jobs)",
+      "referenced_content": [],
+      "has_external_url": false
+    },
+    {
+      "title": "15 ekim 2024 sığınmacılara çalışma izni muafiyeti",
+      "entry_id": "169264861",
+      "author": "sagliginiz icin",
+      "date": "15.10.2024 11:55",
+      "content": "(bkz: akp döneminde gerçekleşmiştir)",
+      "referenced_content": [],
+      "has_external_url": false
+    },
+    {
+      "title": "15 ekim 2024 sığınmacılara çalışma izni muafiyeti",
+      "entry_id": "169264890",
+      "author": "cyrano de berjerac",
+      "date": "15.10.2024 11:56",
+      "content": "kendi ülkeme sığınabiliyor muyum?",
+      "referenced_content": [],
+      "has_external_url": false
+    }
+  ]
+}

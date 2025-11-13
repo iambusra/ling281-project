@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:31:30.625424",
+    "total_entries": 1,
+    "input": "yeni yıla ruslarla beraber giriyoruz zirvesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "yeni yıla ruslarla beraber giriyoruz zirvesi",
+      "entry_id": "31472822",
+      "author": "elven",
+      "date": "26.12.2012 15:42",
+      "content": "saat farkından dolayı mümkün değildir.",
+      "has_external_url": false
+    }
+  ]
+}

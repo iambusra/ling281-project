@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:23:18.781494",
+    "total_entries": 3,
+    "input": "akp'nin göçmenlerde gördüğü cevher",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "akp'nin göçmenlerde gördüğü cevher",
+      "entry_id": "164963288",
+      "author": "head off time",
+      "date": "01.06.2024 21:08",
+      "content": "euro",
+      "has_external_url": false
+    },
+    {
+      "title": "akp'nin göçmenlerde gördüğü cevher",
+      "entry_id": "164963331",
+      "author": "engineerdolma",
+      "date": "01.06.2024 21:10 ~ 21:12",
+      "content": "sağlam oy kaybı yaşadıkları için uçaklar dolusu ruandalıyı binlerce kilometre öteden devşiriyor.\n\nsiyasal islamcıların oy kaygısı ülkeyi uçuruma sürüklüyor.",
+      "has_external_url": false
+    },
+    {
+      "title": "akp'nin göçmenlerde gördüğü cevher",
+      "entry_id": "164963488",
+      "author": "neyinibegenmedin",
+      "date": "01.06.2024 21:15",
+      "content": "bir şey gördüğü yok.batı bunları alıp turkiye'de tutacaksın diyor akp de bu talimatı yerine getiriyor.",
+      "has_external_url": false
+    }
+  ]
+}

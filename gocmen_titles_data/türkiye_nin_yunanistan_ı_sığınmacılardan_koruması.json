@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:03:36.710601",
+    "total_entries": 1,
+    "input": "türkiye'nin yunanistan'ı sığınmacılardan koruması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türkiye'nin yunanistan'ı sığınmacılardan koruması",
+      "entry_id": "139290139",
+      "author": "c7v8k",
+      "date": "27.06.2022 18:11",
+      "content": "doğrudur.",
+      "has_external_url": false
+    }
+  ]
+}

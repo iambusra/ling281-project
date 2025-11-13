@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:53:42.446295",
+    "total_entries": 3,
+    "input": "mültecilerin dedesinin tutuklanması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "mültecilerin dedesinin tutuklanması",
+      "entry_id": "179297207",
+      "author": "susundelikonusuyo",
+      "date": "22.10.2025 19:20",
+      "content": "kaynak\nankara’da bulunan umut hayır mağazası’nda mültecilere yardım ettiğini iddia eden saadettin karagöz suriyeli taciz ve istismar suçlamasıyla tutuklandı.\n\n\"mültecilerin dedesi” ve “ensar ağabey” lakaplarıyla tanınan umut hayır mağazası’nın sahibi saadettin karagöz’ün faaliyetleri pek çok kez yandaş medya tarafından haberleştirilmişti.\n\nyeni şafak geçen yıl “ankara’nın ‘ensar ağabeyi’ 7 bin 357 aileye yardım eli uzatıyor” başlığıyla iha kaynaklı bir haber yapmıştı. haberde konuşan karagöz, türkiye’ye sığınan mültecilere kapılarını açmanın insani bir görev olduğunu ifade ederek, “suriye’de savaş sona erdi. birçok ailemiz ülkelerine dönmeye başladı. ancak biz, misafirlerimizi ağırlamaya devam edeceğiz. çünkü biz misafirperver bir milletiz” demişti.",
+      "has_external_url": true
+    },
+    {
+      "title": "mültecilerin dedesinin tutuklanması",
+      "entry_id": "179297407",
+      "author": "ibrahima61",
+      "date": "22.10.2025 19:31",
+      "content": "torununu da mülteciler silkerse zevkten dört köşe olabilirim.",
+      "has_external_url": false
+    },
+    {
+      "title": "mültecilerin dedesinin tutuklanması",
+      "entry_id": "179297505",
+      "author": "twentyfive",
+      "date": "22.10.2025 19:36",
+      "content": "içinde ensar kelimesi geçmesi şaşırtmamıştır.",
+      "has_external_url": false
+    }
+  ]
+}

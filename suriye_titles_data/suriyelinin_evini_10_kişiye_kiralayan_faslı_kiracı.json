@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:07:08.331044",
+    "total_entries": 3,
+    "input": "suriyelinin evini 10 kişiye kiralayan faslı kiracı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelinin evini 10 kişiye kiralayan faslı kiracı",
+      "entry_id": "163270505",
+      "author": "steril agent",
+      "date": "08.04.2024 18:12",
+      "content": "suriye uyruklu ev sahibinin daireyi kiraladığı, fas uyruklu karim q.’nin de evi 10 kişiye daha kişi başı 2 bin 500 tl’den kiraladığı tespit edildi.\nlink\n\nnereden nereye…\n(bkz: mezuniyetten 15 gün sonra d. memuru olan suriyeli)\n(bkz: suriyelilere tüp bebek tedavisinin ücretsiz olması)\n(bkz: suriyelilere 40 milyar dolar harcadık)\n\n--- spoiler ---\nbursa’nın inegöl ilçesi sinanbey mahallesi letafet sokak’taki 5 katlı binada oturan bir askeri personel, binanın 1’inci katındaki daireden gelen gürültü üzerine, binaya girip çıkanları takibe aldı.\n\ndairede kaçak gömenlerin kaldığını tespit eden askerin ihbarıyla, adrese polis ekipleri sevk edildi. dairede kaldıkları belirlenen 5'i mısır, 5'i suriye, 1’i fas uyruklu, 5’i çocuk 11 kaçak göçmen yakalandı.\n--- spoiler ---",
+      "has_external_url": true
+    },
+    {
+      "title": "suriyelinin evini 10 kişiye kiralayan faslı kiracı",
+      "entry_id": "163270852",
+      "author": "klingonlu zombi",
+      "date": "08.04.2024 18:26",
+      "content": "o da evi uganda'lıdan devralmıştır.",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyelinin evini 10 kişiye kiralayan faslı kiracı",
+      "entry_id": "163270959",
+      "author": "enaypidi",
+      "date": "08.04.2024 18:30",
+      "content": "(bkz: ülkemde mülteci istemiyorum)",
+      "has_external_url": false
+    }
+  ]
+}

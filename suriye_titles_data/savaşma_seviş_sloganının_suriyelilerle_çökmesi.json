@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:45:20.542389",
+    "total_entries": 2,
+    "input": "savaşma seviş sloganının suriyelilerle çökmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "savaşma seviş sloganının suriyelilerle çökmesi",
+      "entry_id": "92064990",
+      "author": "outdoor",
+      "date": "02.07.2019 23:44",
+      "content": "ülkemizdeki suriyeliler savaştan kaçıp ülkemize yerleştiler. sevişip çoğalıyorlar. yani savaşmayıp sevişiyorlar. bu sloganı kim icat ettiyse onun amk.",
+      "has_external_url": false
+    },
+    {
+      "title": "savaşma seviş sloganının suriyelilerle çökmesi",
+      "entry_id": "92065892",
+      "author": "uzayliyla birebir sevisen arkadas",
+      "date": "02.07.2019 23:59",
+      "content": "kendi ülke sınırların içinde kalmak koşuluyla hala geçerli olabilme şansı olan slogan:)",
+      "has_external_url": false
+    }
+  ]
+}

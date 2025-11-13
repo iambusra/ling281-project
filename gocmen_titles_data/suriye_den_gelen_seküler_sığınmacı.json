@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:56:17.327492",
+    "total_entries": 2,
+    "input": "suriye'den gelen seküler sığınmacı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriye'den gelen seküler sığınmacı",
+      "entry_id": "167516877",
+      "author": "selim alai",
+      "date": "19.08.2024 10:47 ~ 10:48",
+      "content": "hiç görmedim. olsa iyi olurdu, ama yok gibi sanki.\n\nbenim gördüğüm sığınmacıların hepsi din kardeşlerimiz gibi sanki. aynı bizim malum kesim gibi giyinip öyle davranıyorlar.\n\nilginç.",
+      "has_external_url": false
+    },
+    {
+      "title": "suriye'den gelen seküler sığınmacı",
+      "entry_id": "167517400",
+      "author": "kendibilir",
+      "date": "19.08.2024 11:08 ~ 11:10",
+      "content": "bir tanesi ailesiyle birlikte almanya nın doğrudan davetiyle almanya ya gitti. kısa sürede vatandaşlık verdiler.\nfizik profesörüydü, karısı da ressamdı.",
+      "has_external_url": false
+    }
+  ]
+}

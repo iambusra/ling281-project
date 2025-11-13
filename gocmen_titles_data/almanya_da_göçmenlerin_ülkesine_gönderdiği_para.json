@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:24:45.880791",
+    "total_entries": 3,
+    "input": "almanya'da göçmenlerin ülkesine gönderdiği para",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "almanya'da göçmenlerin ülkesine gönderdiği para",
+      "entry_id": "158091587",
+      "author": "muhtarneyaptin",
+      "date": "25.10.2023 11:24",
+      "content": "oooo kurulu düzen,alırım bi dal...",
+      "has_external_url": false
+    },
+    {
+      "title": "almanya'da göçmenlerin ülkesine gönderdiği para",
+      "entry_id": "158091850",
+      "author": "sygjp",
+      "date": "25.10.2023 11:33",
+      "content": "türklerin bi o kadarda kaçak yollarla ülkeye sokmaya çalışırken yakalattıkları var:))",
+      "has_external_url": false
+    },
+    {
+      "title": "almanya'da göçmenlerin ülkesine gönderdiği para",
+      "entry_id": "158092253",
+      "author": "xyclonb",
+      "date": "25.10.2023 11:48",
+      "content": "sözde 3 milyon türk var alamancı ama gönderdikleri paraya bak düdük kadar. ulan paraların hepsini yemeyin...",
+      "has_external_url": false
+    }
+  ]
+}

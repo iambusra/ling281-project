@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:41:13.507880",
+    "total_entries": 2,
+    "input": "30'dan fazla mülteciyi misafir eden kadın",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "30'dan fazla mülteciyi misafir eden kadın",
+      "entry_id": "125905205",
+      "author": "terminus yerlisi",
+      "date": "19.07.2021 23:21",
+      "content": "yalancıyı sikmedikleri için şanslı olan kadındır. zira öyle olsa hoplatıla hoplatıla organik bir enerji kaynağı ortaya çıkarırdı.",
+      "has_external_url": false
+    },
+    {
+      "title": "30'dan fazla mülteciyi misafir eden kadın",
+      "entry_id": "125905251",
+      "author": "fabrikaiscisi",
+      "date": "19.07.2021 23:22 ~ 23:23",
+      "content": "tamam ikna olduk 4.5 milyon suriyeli üstüne 10 milyon afgan erkek alabiliriz. çünkü biz salağız.",
+      "has_external_url": false
+    }
+  ]
+}

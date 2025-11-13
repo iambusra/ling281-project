@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:51:08.861146",
+    "total_entries": 1,
+    "input": "hastane basanlarin multecilere ses çıkartmaması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "hastane basanlarin multecilere ses çıkartmaması",
+      "entry_id": "139911690",
+      "author": "dumurhan",
+      "date": "13.07.2022 01:14",
+      "content": "okadar erkeksiniz madem hodri meydan. dövün sunlari sizde rahatlayin bizde.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:02:16.190388",
+    "total_entries": 5,
+    "input": "suriyeli sığınmacıları beyaz türklere tercih etmek",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeli sığınmacıları beyaz türklere tercih etmek",
+      "entry_id": "45171988",
+      "author": "solitary man",
+      "date": "23.08.2014 12:33",
+      "content": "(bkz: panpa hüloğ demeyi unutmuşsun)",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyeli sığınmacıları beyaz türklere tercih etmek",
+      "entry_id": "45172403",
+      "author": "mentem incomitata",
+      "date": "23.08.2014 12:57",
+      "content": "(bkz: aferin iyi düşünmüşsün)",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyeli sığınmacıları beyaz türklere tercih etmek",
+      "entry_id": "45172512",
+      "author": "bilgili birisi",
+      "date": "23.08.2014 13:03",
+      "content": "yazmak istediğim: kim bizi seçmezse zamanın ötesinden gelip onun ağzına sıçayım.\nancak nezaketen yazdığım: çokta umrumuzdaydı yani tercik etmezseniz etmeyin napalım feryat figan bağıralım mı?",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyeli sığınmacıları beyaz türklere tercih etmek",
+      "entry_id": "45172685",
+      "author": "41 karakterli nick isteyen adam",
+      "date": "23.08.2014 13:13 ~ 13:15",
+      "content": "anasını beyaz türkler zikmiş kişilerce de gösterilen davranıştır. dahi anlamındaki de ekini sanal ortamdan kişilik tahlilinde yüzde yüz doğruluğa ulaşamamış olduğumuzdan koyuyorum. yanlış anlaşılmasın, kesin emin olamadığım şey zikilenin kişinin annesi olup olmadığı.",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyeli sığınmacıları beyaz türklere tercih etmek",
+      "entry_id": "45172721",
+      "author": "dergul",
+      "date": "23.08.2014 13:16 ~ 13:17",
+      "content": "cesaretin varsa,bu lafı gaziantep'te, mersin'de, iskendurunda söyle. ellerinde sopalarla suriyeli avına çıkanlar ne beyaz türklerdir, ne onları dinleyecek olanlardır. bugün suriyelilere karşı yükselen öfke, beyaz türklerin şımarıklıklarından değil, haksız rekabetten dolayı işsiz kalan veya dükkanlarını kapatan, rahatsız edici davranışlara maruz kalan insanlardan kaynaklanıyor. mağdur olan kişilere, tuzu kuru bir şekilde öğütler vererek, ırkçılığı engelleyemezsiniz.\n\nbu arada ben suriyelilerin sığınmasına karşı değilim. ama kontrolsüz bir şekilde, ülkeye dağılmalarına karşıyım. sizlerin kucak açma diye nitelendirdiğiniz şey, ucuz iş gücünün,(köle gücünün medeni birhali.) kayıt dışı ekonominin ve her iki taraf içinde, çeşitli istismarların artmasıdır. burada en az mağdur olanlar ise, nitelikli iş gücünün bir kısmını oluşturan beyaz türklerdir.",
+      "has_external_url": false
+    }
+  ]
+}

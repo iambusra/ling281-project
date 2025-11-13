@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:02:05.915643",
+    "total_entries": 3,
+    "input": "suriyelileri ve afganları koruma derneği",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelileri ve afganları koruma derneği",
+      "entry_id": "178385025",
+      "author": "vazdet",
+      "date": "14.09.2025 17:19",
+      "content": "acilen açılması gereken olarak dernektir. üstelik her şehirde bir şubesi olması gerekir.",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyelileri ve afganları koruma derneği",
+      "entry_id": "178385092",
+      "author": "tanrinin alfabesi",
+      "date": "14.09.2025 17:23",
+      "content": "derneğe düzenli olarak türk milletinin her ferdinin maaşlarından kesinti yapılarak maddi destek olunması da elzemdir.",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyelileri ve afganları koruma derneği",
+      "entry_id": "178385166",
+      "author": "naesse",
+      "date": "14.09.2025 17:26",
+      "content": "acilen koruma altına alınmalı ve toplumsal tehlikelere karşı izole bir hayata geçirilmelidirler.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:33:54.348487",
+    "total_entries": 2,
+    "input": "antalya sporun rusların eline geçmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "antalya sporun rusların eline geçmesi",
+      "entry_id": "147594162",
+      "author": "dacikle dacik olmayan hayk",
+      "date": "13.01.2023 16:49",
+      "content": "beceriksiz kizinin secilmelere katilamadigi icin aglayan „benim cocugum bir dahi“ sendromlu velinin irkci paylasimi.\n\nbasarisizligi gormek yerine „turk oldugum icin“ diye baskalarini suclamak bunlarda default sanirim.",
+      "has_external_url": false
+    },
+    {
+      "title": "antalya sporun rusların eline geçmesi",
+      "entry_id": "147626416",
+      "author": "erazur",
+      "date": "14.01.2023 10:43",
+      "content": "olayın gerçeklik payı var. şu tweet'de mesela, konu bahisi edilen bir cimnastik dersinden video paylaşılmış: tweet\n\nşu da antalyaspor kulübü derneğinin rusça cimnastik okulu ilanı: tweet paylaşıldığı tarihte türkçe bir benzeri diğer tweetler arasında yok. üstelik yüzme takımına yönelik şu tweet'in de türkçe olanı kullanıcı hesabında görülemiyor.",
+      "has_external_url": true
+    }
+  ]
+}

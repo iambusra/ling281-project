@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T16:55:05.093225",
+    "total_entries": 2,
+    "input": "122 bin suriyeliyi aradık taradık bulamadık",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "122 bin suriyeliyi aradık taradık bulamadık",
+      "entry_id": "139029475",
+      "author": "i m flying",
+      "date": "21.06.2022 10:50 ~ 10:51",
+      "content": "içişleri bakanlığı sözcüsünün yaptığı açıklama:\n122 bin suriyeli kayıp; aradık, taradık, hiçbir yerde bulamadık\n\nlink\n\ntakip edilemeyen 122 bin mülteci. kim bilir kaç tanesi daha önce bir suça karıştı ve tespit edilemedi. bu ülkede şansa yaşıyoruz.",
+      "has_external_url": true
+    },
+    {
+      "title": "122 bin suriyeliyi aradık taradık bulamadık",
+      "entry_id": "139029634",
+      "author": "karni kasinan bidon kafa",
+      "date": "21.06.2022 10:54",
+      "content": "arka bahçeye baksaydınız belki oradadır.",
+      "has_external_url": false
+    }
+  ]
+}

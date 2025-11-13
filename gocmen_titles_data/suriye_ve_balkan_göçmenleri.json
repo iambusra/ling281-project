@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:20:46.336660",
+    "total_entries": 2,
+    "input": "suriye ve balkan göçmenleri",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriye ve balkan göçmenleri",
+      "entry_id": "37577690",
+      "author": "aziz vefa",
+      "date": "12.10.2013 10:06",
+      "content": "göçmenlik nedir bilmeyenlerin bol keseden salladığı bir durumla karşı karşıyayız.\nister balkanlar'dan gel, ister arap diyarından, istersen de sen başka bir ülkeye göç et; zordur, çok zordur, en zorudur...\n\nşehir efsaneleri ile, ucuz yalanlarla, dedikodularla iş yapılmaz, fikir beyan edilmez!\nvatanlarından kopmak zorunda kalmış insanların bir elleri balda bir elleri yağda bir hayat sürdükleri yalan.\nyaşadığı ülkede zengin ise, ve parasını da yanında getirdi ise burada da kendince zengindir.\nama bu durum tüm göçmenlere, muhacirlere, sığınmacılara genellenemez.\n\nvelhasılı kendi ülkenden, vatanından, şehrinden, evinden başka bir ülkeye, şehre göçmek zordur...\nallah kimseye böyle bir imtihan vermesin...\nallah tüm göçmenlerin, muhacirlerin, sığınmacıların yardımcısı olsun...",
+      "has_external_url": false
+    },
+    {
+      "title": "suriye ve balkan göçmenleri",
+      "entry_id": "63617019",
+      "author": "bestseb",
+      "date": "21.10.2016 14:07 ~ 14:08",
+      "content": "kendilerinin olmayan savaşlardan kaçıp daha güvenli yerlere, kendilerinin olan tek hayatlarını yaşamaya çalışan insanların tartışılmasıdır..\ninsanlar yaşamak istiyor, ölmek değil..\nölmek isteyenler için her zaman savaş bulunur ve ölmek isteyenler yaşamak isteyenleri de öldürmeyerek gidip ölebilirler..",
+      "has_external_url": false
+    }
+  ]
+}

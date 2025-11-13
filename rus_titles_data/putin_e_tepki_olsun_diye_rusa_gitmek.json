@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:25:19.116778",
+    "total_entries": 2,
+    "input": "putin'e tepki olsun diye rusa gitmek",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "putin'e tepki olsun diye rusa gitmek",
+      "entry_id": "55354121",
+      "author": "alwayschargeneverbend",
+      "date": "07.10.2015 23:54",
+      "content": "bir kasa coca cola alıp sokağa dökmek gibi bir şey.\n\n(bkz: rusa gitmek)",
+      "has_external_url": false
+    },
+    {
+      "title": "putin'e tepki olsun diye rusa gitmek",
+      "entry_id": "55354294",
+      "author": "jacksonx",
+      "date": "08.10.2015 00:00",
+      "content": "bknz; abazan türk erkeklerimiz.",
+      "has_external_url": false
+    }
+  ]
+}

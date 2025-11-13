@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:24:17.763003",
+    "total_entries": 1,
+    "input": "9 eylül suriye olayları",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "9 eylül suriye olayları",
+      "entry_id": "178247534",
+      "author": "turkistihbaratgencligi",
+      "date": "09.09.2025 01:20",
+      "content": "bi bu var kanka (bkz: https://x.com/brs2643/status/1965167038886027686)\n\ndeprem diyo biri (bkz: https://x.com/…onflicttr/status/1965170600135319566)\n\nneler oluyo (bkz: https://x.com/…hreporttr/status/1965159250801594733)",
+      "has_external_url": true
+    }
+  ]
+}

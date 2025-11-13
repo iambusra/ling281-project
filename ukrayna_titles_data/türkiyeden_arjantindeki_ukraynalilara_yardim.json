@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:23:37.762828",
+    "total_entries": 1,
+    "input": "türkiyeden arjantindeki ukraynalilara yardim",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türkiyeden arjantindeki ukraynalilara yardim",
+      "entry_id": "106750428",
+      "author": "piterskiyvakzal",
+      "date": "07.05.2020 17:43",
+      "content": "1 kuruş hakkım varsa haram zıkkım olsun. daha kendi ülkesinde ki insanlara maske vermekten aciz onu geçtim 1000 tl gibi yardımı bile yapamayan devlete dobro pojalovat blyad.",
+      "has_external_url": false
+    }
+  ]
+}

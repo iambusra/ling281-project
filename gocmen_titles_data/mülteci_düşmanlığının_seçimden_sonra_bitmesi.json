@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:27:04.731921",
+    "total_entries": 2,
+    "input": "mülteci düşmanlığının seçimden sonra bitmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "mülteci düşmanlığının seçimden sonra bitmesi",
+      "entry_id": "179380856",
+      "author": "nuhun jetskisi",
+      "date": "26.10.2025 12:48",
+      "content": "bizim \"bunlar provokatör oe, oy geleceğini bilseler analarını mültecilerin altına yatırırlar.\" derken ne kadar haklı olduğumuzu gösteren durum.",
+      "has_external_url": false
+    },
+    {
+      "title": "mülteci düşmanlığının seçimden sonra bitmesi",
+      "entry_id": "179381036",
+      "author": "macchinadelsesso",
+      "date": "26.10.2025 12:58",
+      "content": "bir trol başlığı daha.",
+      "has_external_url": false
+    }
+  ]
+}

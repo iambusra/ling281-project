@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:42:35.377725",
+    "total_entries": 1,
+    "input": "mülteci politikasına değil mülteciye kızmak",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "mülteci politikasına değil mülteciye kızmak",
+      "entry_id": "125988545",
+      "author": "eminmisin ki",
+      "date": "22.07.2021 10:19",
+      "content": "ben ikisine de kızıyorum.\n\nne yapalım, politikaya kızıyoruz da ne değişiyor. ne kadar eleştiri yaparsak yapalım mezhep takıntısı olan birileri bu politikayı değiştirmeyecek değil mi?\n\no halde mültecilere kızmak kalıyor bize. zaten politikaya tepkimizi seçimde koyacağız.",
+      "has_external_url": false
+    }
+  ]
+}

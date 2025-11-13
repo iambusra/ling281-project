@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-10T23:57:01.983539",
+    "total_entries": 1,
+    "input": "10 milyon iranlı mülteci",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "10 milyon iranlı mülteci",
+      "entry_id": "145237766",
+      "author": "check up2",
+      "date": "18.11.2022 00:21",
+      "content": "iran'daki karışıklıktan dolayı muhtemel göç dalgası.\n\nev ve kira fiyatları düşecek diyen bir daha düşünsün derim.\n\nvasili",
+      "has_external_url": true
+    }
+  ]
+}

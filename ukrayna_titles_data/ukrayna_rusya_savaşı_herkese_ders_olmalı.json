@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:04:18.856045",
+    "total_entries": 1,
+    "input": "ukrayna rusya savaşı herkese ders olmalı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukrayna rusya savaşı herkese ders olmalı",
+      "entry_id": "170960417",
+      "author": "bado",
+      "date": "12.12.2024 12:55",
+      "content": "dünya genelinde her insanın kesinlikle dikkate alması gereken derstir. diğer ülkelerin ya batının doğunun gazıyla haddinizden büyük işlere kalkışmayın. bakın başka ülkelerin desteklemesiyle savaşa karışan hiçbir ülkenin durumu düzelmedi.\n\nlibya,mısır,ırak,suriye, ukrayna. gürcistan ve daha bir çoğu.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:07:36.110129",
+    "total_entries": 3,
+    "input": "15 aralık ukrayna köy meclisindeki saldırı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "15 aralık ukrayna köy meclisindeki saldırı",
+      "entry_id": "159750911",
+      "author": "seviyorsevmiyorseviyorsevmiyorseviyor",
+      "date": "15.12.2023 15:14",
+      "content": "(bkz: cerrahpaşa kahvehane baskını)",
+      "has_external_url": false
+    },
+    {
+      "title": "15 aralık ukrayna köy meclisindeki saldırı",
+      "entry_id": "159750978",
+      "author": "groove and funk",
+      "date": "15.12.2023 15:17",
+      "content": "amerikan kuklası zelensky rejiminin milletvekiliymiş, şaşırmadım.",
+      "has_external_url": false
+    },
+    {
+      "title": "15 aralık ukrayna köy meclisindeki saldırı",
+      "entry_id": "159751059",
+      "author": "fenasi kerler",
+      "date": "15.12.2023 15:20",
+      "content": "adam tavuk yemler gibi bombaladı amk. korkunç olay.",
+      "has_external_url": false
+    }
+  ]
+}

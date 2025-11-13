@@ -1,0 +1,52 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:16:17.010216",
+    "total_entries": 5,
+    "input": "ukrayna olaylarında almanya'nın parmağı var",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukrayna olaylarında almanya'nın parmağı var",
+      "entry_id": "40614086",
+      "author": "somek kafali",
+      "date": "22.02.2014 13:36",
+      "content": "bir burhan kuzu açıklaması değil. (bkz: gezi olaylarında almanya'nın parmağı var)",
+      "has_external_url": false
+    },
+    {
+      "title": "ukrayna olaylarında almanya'nın parmağı var",
+      "entry_id": "40614459",
+      "author": "somek kafali",
+      "date": "22.02.2014 13:55",
+      "content": "(bkz: gezideki alman piyanist)",
+      "has_external_url": false
+    },
+    {
+      "title": "ukrayna olaylarında almanya'nın parmağı var",
+      "entry_id": "40614497",
+      "author": "tuzbaba",
+      "date": "22.02.2014 13:57",
+      "content": "(bkz: ukrayna yenilince biz de yenilmiş sayıldık mı)",
+      "has_external_url": false
+    },
+    {
+      "title": "ukrayna olaylarında almanya'nın parmağı var",
+      "entry_id": "40615117",
+      "author": "gastiro",
+      "date": "22.02.2014 14:25",
+      "content": "merkel ukraynalı güzel hatunları kıskandığı içindir.",
+      "has_external_url": false
+    },
+    {
+      "title": "ukrayna olaylarında almanya'nın parmağı var",
+      "entry_id": "40620792",
+      "author": "somek kafali",
+      "date": "22.02.2014 19:03",
+      "content": "(bkz: almanya'nın karıştırdığı ülkeler)",
+      "has_external_url": false
+    }
+  ]
+}

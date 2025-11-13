@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:04:01.358548",
+    "total_entries": 1,
+    "input": "sığınmacıların kaçakların yolunda olması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "sığınmacıların kaçakların yolunda olması",
+      "entry_id": "169828675",
+      "author": "byborian",
+      "date": "03.11.2024 11:49",
+      "content": "yine kürt türk meselesi, futbol meseleleri pompalandı gündeme. ülkenin tüm mülteci, kaçak, sığınmacı problemi unutuldu. 100 yaşındaki ihtiyar devlet bahçeli tüm ülkenin gündemini değiştirdi. tüm ülke kafasını başka tarafa çevirdi.\nekonomi, çocuk katilleri ve gerçek problemlerin hepsi unutuldu.",
+      "has_external_url": false
+    }
+  ]
+}

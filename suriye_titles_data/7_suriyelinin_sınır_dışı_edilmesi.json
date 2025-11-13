@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:22:14.947170",
+    "total_entries": 4,
+    "input": "7 suriyelinin sınır dışı edilmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "7 suriyelinin sınır dışı edilmesi",
+      "entry_id": "129512230",
+      "author": "cumburlop123",
+      "date": "28.10.2021 06:01",
+      "content": "içişleri bakanlığı tarafından “provokatif amaçlı muz yeme eylemi” gerçekleştirdikleri gerekçesiyle 7 suriyeli hakkında sınır dışı edilme kararı alındı.\n\nkaynak: https://twitter.com/…tatus/1453466182296690691?s=21",
+      "has_external_url": true
+    },
+    {
+      "title": "7 suriyelinin sınır dışı edilmesi",
+      "entry_id": "129512265",
+      "author": "salitis",
+      "date": "28.10.2021 06:08",
+      "content": "etseler ne olacak burdan atacaklar diğer taraftan girecek.",
+      "has_external_url": false
+    },
+    {
+      "title": "7 suriyelinin sınır dışı edilmesi",
+      "entry_id": "129512512",
+      "author": "uzaktan algilama",
+      "date": "28.10.2021 07:02",
+      "content": "bayrama geri gelirler.",
+      "has_external_url": false
+    },
+    {
+      "title": "7 suriyelinin sınır dışı edilmesi",
+      "entry_id": "129512515",
+      "author": "baksanabisen",
+      "date": "28.10.2021 07:02",
+      "content": "hani yalan haberdi hani halkı provake etmek için başkaları yapıyodu hani lan yine dış mihraklardı hani bu fetönün oyunuydu ne zaman halk duyarlı olmaya başlasa bu saydıklarımdan yola çıkıp zaman kazanma kurnazlığınızı artık halk yemiyor bir tutarsızlığınız daha ifşa oldu",
+      "has_external_url": false
+    }
+  ]
+}

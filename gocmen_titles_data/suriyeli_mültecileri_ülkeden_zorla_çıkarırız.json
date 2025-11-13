@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:49:56.498337",
+    "total_entries": 1,
+    "input": "suriyeli mültecileri ülkeden zorla çıkarırız",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeli mültecileri ülkeden zorla çıkarırız",
+      "entry_id": "139078483",
+      "author": "bulamadim bir nick",
+      "date": "22.06.2022 14:08",
+      "content": "20.06.2022\n\narap ülkesi lübnan'ın arap asıllı başbakanı'nın dünyaya bir demeci:\n\n--- spoiler ---\n\nlübnan başbakanı mikati: uluslararası destek olmazsa suriyeli mültecileri ülkeden zorla çıkarırız\n\nlübnan başbakanı necip mikati, ülkedeki yaklaşık 1,5 milyon suriyeli mülteciler için uluslararası destek çağrısında bulundu. mikati, aksi takdirde onları zorla ülkeden çıkaracaklarını söyledi.\n--- spoiler ---\n\n[www.gazeteduvar.com.tr/amp/lubnan-basbakani-mikati-uluslararasi-destek-olmazsa-suriyeli-multecileri-ulkeden-zorla-cikaririz-haber-1570211?espv=1 haber]",
+      "has_external_url": false
+    }
+  ]
+}

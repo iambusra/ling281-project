@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:04:40.574915",
+    "total_entries": 3,
+    "input": "sıgınmacıların oy kullanması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "sıgınmacıların oy kullanması",
+      "entry_id": "152774308",
+      "author": "tounela",
+      "date": "24.05.2023 21:37 ~ 21:38",
+      "content": "ya arkadaşlar. bunu düşününce siz de kafayı yiyecek gibi olmuyor musunuz?\n\nnerede bu muhalefet! nerede bununla ilgili yaptıkları araştırmalar?!\n\n-bu suriyeliler sığınmacı olarak gelmedi mi?\n\n-şimdi kaç suriyeli, kaç afgan, kaç pakistanlı türk vatandaşı yapıldı ve bunların tam olarak kaçı oy kullanıyor?\n\nşimdi sorarım size!\n\nbu ortadoğu yamyamları nasıl oluyor da benim nasıl yönetileceğime karar verebiliyor?\n\nbu amkdumun istilacıları nasıl çölünden gelip benim kaderimi belirliyor?\n\ntürk kimliği nasıl bu kadar ucuza verilebiliyor, türklük nasıl bu kadar ucuza yok edilebiliyor?\n\nen başa dönecek olursak bu yamyamların tam olarak kaçı oy kullanıyor, bunu muhaletin araştırmalarından duymak istiyorum. basın açıklaması ile isyan eşliğinde açıklanması lazım. çok net.",
+      "has_external_url": false
+    },
+    {
+      "title": "sıgınmacıların oy kullanması",
+      "entry_id": "152809799",
+      "author": "yandan apostrof",
+      "date": "25.05.2023 21:54",
+      "content": "sığınmacıların oy kullanması gibi absürd bir olay olamaz, bu kabul edilebilir bir durum değildir, gün gelecek hesabı sorulacaktır.",
+      "has_external_url": false
+    },
+    {
+      "title": "sıgınmacıların oy kullanması",
+      "entry_id": "152810015",
+      "author": "renksiz hayat",
+      "date": "25.05.2023 21:58 ~ 22:00",
+      "content": "seçime iki gün kala artık hiçbir anlamı olmayan şey. kemal bey sıkıntı yok demişti. kaç yabancının oy kullanacağını biliyormuş. öyle 400-500 bin olamazmış. bakın bu da kılıçdaroğlu seçimi satıyor demişti hemen ardından. şimdi beraberler. sözün özü yalnızsınız. büyük bir tiyatro oynanıyor.",
+      "has_external_url": true
+    }
+  ]
+}

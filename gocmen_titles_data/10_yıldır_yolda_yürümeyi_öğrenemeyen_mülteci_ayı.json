@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-10T23:57:15.694422",
+    "total_entries": 1,
+    "input": "10 yıldır yolda yürümeyi öğrenemeyen mülteci ayı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "10 yıldır yolda yürümeyi öğrenemeyen mülteci ayı",
+      "entry_id": "131291345",
+      "author": "purple purpose",
+      "date": "18.12.2021 22:56",
+      "content": "bahsi geçenler herhalde avrupa'daki türkler. çünkü istanbul dahil türkiye'de malesef kimse kaldırımın veya yolun sağından yürünmesini gerektiğini bilmiyor. geçen yaz kalabalıkta millet karman çorman yürüdüğü için birbirne girip kitlenmesin diye alaçatıda jandarmanın insan trafiği yönlendirdiğini görmüşlüğüm var.",
+      "has_external_url": false
+    }
+  ]
+}

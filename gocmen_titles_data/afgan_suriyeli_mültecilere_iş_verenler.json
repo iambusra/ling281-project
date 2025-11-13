@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:50:52.131029",
+    "total_entries": 3,
+    "input": "afgan suriyeli mültecilere iş verenler",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "afgan suriyeli mültecilere iş verenler",
+      "entry_id": "126948368",
+      "author": "nurcu biyigi",
+      "date": "15.08.2021 18:03",
+      "content": "başlığın aslı “afgan ve suriyeli mültecilere ev ve iş verenler” olacaktı ancak harf sınırına takıldık.\n\nbunların hepsi vatan hainidir. halk tarafından da böyle bilinmeli ve boykot edilmelidir diye düşünüyorum. parayı seven bir milletiz. türklere 500 liraya kiraya veremeyeceği evi bu kokuşmuş insan paçavralarına 1000-1500 liraya kiraya vermeye niyetli olanların, gündelik işi 50-100 liraya bunlara yaptıranlara acilen tavır almamız lazım yoksa hepsi bu ülkede barınacaklar.",
+      "has_external_url": false
+    },
+    {
+      "title": "afgan suriyeli mültecilere iş verenler",
+      "entry_id": "126948629",
+      "author": "randyrhoads 90",
+      "date": "15.08.2021 18:12",
+      "content": "modern zamanların köle tüccarlarıdır.",
+      "has_external_url": false
+    },
+    {
+      "title": "afgan suriyeli mültecilere iş verenler",
+      "entry_id": "153397592",
+      "author": "imladan elenen zat",
+      "date": "10.06.2023 16:52 ~ 16:53",
+      "content": "türk işçi bulamıyoruz diyerek ucuzdan eleman çalıştıran şark kurnazlarıdır\npatronunu öldüren mülteci haberleri geldikçe gülüyorum",
+      "has_external_url": false
+    }
+  ]
+}

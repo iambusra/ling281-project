@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:24:58.178187",
+    "total_entries": 1,
+    "input": "göçmenlerin belçikalı çocuğa ayak öptürmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "göçmenlerin belçikalı çocuğa ayak öptürmesi",
+      "entry_id": "155747478",
+      "author": "shah caspian",
+      "date": "17.08.2023 17:19",
+      "content": "avrupa göçmen politikasının çöktüğünün ispatı gibi olaydır. link\n\nonlarca arap istilacı, belçikalı bir çocuğu kenara kıstırmış ayaklarını öptüruyorlar.\n\narap istilası sonrası türkiye'nin de olacağı bu.\n\n\"orduya ilk katıldığım günlerde, bir arap binbaşısının'kavm-i necip evladına sen nasıl kötü muamele yaparsın' diye tokatladığı bir anadolu çocuğunun iki damla gözyaşında türklük şuuruna erdim. onda gördüm ve kuvvetle duydum. ondan sonra türklük benim derin kaynağım, en derin övünç membaım oldu. benim hayatta yegane fahrim, servetim, türklükten başka bir şey değildir.\" (mustafa kemal atatürk)",
+      "has_external_url": true
+    }
+  ]
+}

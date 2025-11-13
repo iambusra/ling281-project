@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:54:08.862306",
+    "total_entries": 4,
+    "input": "mültecilerin vatandaşlıkları iptal edilsin",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "mültecilerin vatandaşlıkları iptal edilsin",
+      "entry_id": "165903702",
+      "author": "los angeles zencisi",
+      "date": "01.07.2024 22:00",
+      "content": "orta doğulu olan(suriye, afgan vb) türkiye cumhuriyeti hudutları dahilinde yaşayan, oturma izni, çalışma izni ve vatandaşlık hakkına sahip olan tüm kişilerin vatandaşlıkları ve resmi oturum kartlarının iptal edilmesi için kampanyasıdır!\nbunları ülkemizden göndermek için en hızlı ve katı şekilde kararlar alınması gerekmektedir!",
+      "has_external_url": false
+    },
+    {
+      "title": "mültecilerin vatandaşlıkları iptal edilsin",
+      "entry_id": "165904342",
+      "author": "fxuu",
+      "date": "01.07.2024 22:18",
+      "content": "hukuk herkese lazim, gerci bize uygulanmiyor o ayri.\n\nnormail bir hukuk ulkesinde incelensinler, usulsuz olanlari iptal edilsin, bundan sonrasi icinde daha kati reguasyonlar gelmeli denmesi lazim.",
+      "has_external_url": false
+    },
+    {
+      "title": "mültecilerin vatandaşlıkları iptal edilsin",
+      "entry_id": "165904481",
+      "author": "serbesti",
+      "date": "01.07.2024 22:21",
+      "content": "(bkz: mal beyanı)",
+      "has_external_url": false
+    },
+    {
+      "title": "mültecilerin vatandaşlıkları iptal edilsin",
+      "entry_id": "165904739",
+      "author": "historian crab",
+      "date": "01.07.2024 22:29",
+      "content": "biz haklı çıktık",
+      "has_external_url": false
+    }
+  ]
+}

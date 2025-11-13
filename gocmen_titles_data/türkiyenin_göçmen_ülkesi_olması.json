@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:06:25.876944",
+    "total_entries": 1,
+    "input": "türkiyenin göçmen ülkesi olması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türkiyenin göçmen ülkesi olması",
+      "entry_id": "173670092",
+      "author": "sevsenolmaznicksengonulrazidegil",
+      "date": "17.03.2025 08:43 ~ 08:44",
+      "content": "bir balkan göçmeni olarak, katılmadığım önerme.",
+      "has_external_url": false
+    }
+  ]
+}

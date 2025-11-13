@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:40:09.997981",
+    "total_entries": 1,
+    "input": "sığınmacı ve mülteci farkı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "sığınmacı ve mülteci farkı",
+      "entry_id": "165893162",
+      "author": "forester",
+      "date": "01.07.2024 16:25",
+      "content": "vikipediden....\nmültecilik, hukuki bir statüdür.\n\nmülteci olduğu iddiasıyla ülkesini terk eden ama mültecilik statüsü başvurusu sonuçlanmamış kişiler \"sığınmacı\" olarak adlandırılır. mülteci ise sığınma başvurusu kabul edilen kişidir.[1] sığınma talebi geri çevrilen kimseler sığınmacı olarak nitelendirilemeyeceğinden, sığınmacı sıfatını kullanabilmek için kişi endişelerinde, korkularında haklı bulunmuş olmalıdır. bu iki kavram günlük hayatta sık sık karıştırılmakta ve yanlış kullanılmaktadır.",
+      "has_external_url": true
+    }
+  ]
+}

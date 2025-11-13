@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T15:57:20.102246",
+    "total_entries": 1,
+    "input": "atatürk'ün şahsi meselesinin suriyelilere kalması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "atatürk'ün şahsi meselesinin suriyelilere kalması",
+      "entry_id": "149227041",
+      "author": "napstrike",
+      "date": "14.02.2023 02:15",
+      "content": "kalmaz. gün gelir ve tüm suriyeliler geldikleri gibi giderler .",
+      "has_external_url": false
+    }
+  ]
+}

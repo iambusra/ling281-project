@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:02:18.533138",
+    "total_entries": 4,
+    "input": "suriyeli sığınmacıları hor gören antepli",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeli sığınmacıları hor gören antepli",
+      "entry_id": "42310237",
+      "author": "somek kafali",
+      "date": "27.04.2014 22:27",
+      "content": "ak partiye oy vermemiştir. belkide vermiştir.",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyeli sığınmacıları hor gören antepli",
+      "entry_id": "44081788",
+      "author": "somek kafali",
+      "date": "09.07.2014 16:47",
+      "content": "(bkz: gaziantep'te suriyelileri istemiyoruz eylemi)",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyeli sığınmacıları hor gören antepli",
+      "entry_id": "44081841",
+      "author": "arabin var mi",
+      "date": "09.07.2014 16:49",
+      "content": "(bkz: baklava çalıp 25 yıl yiyen suriyeli mülteci)",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyeli sığınmacıları hor gören antepli",
+      "entry_id": "44090739",
+      "author": "tin tabaat",
+      "date": "09.07.2014 23:59",
+      "content": "ne yapsa haklıdır. kamplar hariç 165 bin kişi varmış. 150 den fazla işletme. 3-5 fabrika. fuhuş,kapkaç,taciz,hırsızlık artmış durumda. iş bulunamıyor çünkü her yerde suriyeli var ucuz ucuz. parklarda bahçelerde dolaşılamıyor korkudan. ev kiraları almış başını gitmiş. en kötü evler 1000 lira. devlet her türlü imkanı suriyelilere sağlamış. sağlık bedava,ilaç bedava ceplerine harçlık ta konuluyor. ee esas fakir olan öz vatandaşımız bu haklardan yararlanmıyor.\n\nantepli haklıdır kardeşim. boş yere ayaklanmaz hiç bir zaman. bir kere ayaklandı mı da zamanında olduğu gibi fransızlar bile karşısında duramaz\n\nhttp://gaziantep27.net/…x.php?islem=detay&id=478450",
+      "has_external_url": true
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:49:40.140816",
+    "total_entries": 1,
+    "input": "kılıçdaroğlu'nun mültecileri göndereceğine inanmak",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "kılıçdaroğlu'nun mültecileri göndereceğine inanmak",
+      "entry_id": "141560322",
+      "author": "terminus yerlisi",
+      "date": "20.08.2022 17:00 ~ 17:02",
+      "content": "yanlış bir inanıştır çünkü istilacıları (mülteci değil istilacı) gönderecek olan 13. cumhurbaşkanı ekrem imamoğlu' dur.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:51:41.617053",
+    "total_entries": 1,
+    "input": "polisin mültecilere müdahaleden kaçınma nedenleri",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "polisin mültecilere müdahaleden kaçınma nedenleri",
+      "entry_id": "126805564",
+      "author": "deanmc",
+      "date": "11.08.2021 21:21",
+      "content": "elinde patlayacağını başına bela olacağını bildiği içindir.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:44:22.864539",
+    "total_entries": 3,
+    "input": "mültecinin türk polisine hareket çekmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "mültecinin türk polisine hareket çekmesi",
+      "entry_id": "137365521",
+      "author": "aquablaster",
+      "date": "12.05.2022 20:54",
+      "content": "ee sen yüz verirsen çöl bedevisine o da koyar böyle hareketi",
+      "has_external_url": false
+    },
+    {
+      "title": "mültecinin türk polisine hareket çekmesi",
+      "entry_id": "137365536",
+      "author": "variskantarciyan",
+      "date": "12.05.2022 20:55",
+      "content": "bana hareketi ekip otosunun arka koltuğundaki potansiyel bir suçluya çekiyormuş gibi geldi. aksi bir durumda onu oracıkta lime lime ederler.",
+      "has_external_url": false
+    },
+    {
+      "title": "mültecinin türk polisine hareket çekmesi",
+      "entry_id": "137365557",
+      "author": "iskenderkebap ii",
+      "date": "12.05.2022 20:55",
+      "content": "polise mi cekiyor, yoksa polisin aldigi, arabanin icindeki birine mi?\n\nyine bilgi sahibi olmadan fikir sahibi mi oluyoruz nedir? sirf paylasilan videoya bakarak polise hareket cekiyor demek zor. en azindan ben diyemiyorum.",
+      "has_external_url": false
+    }
+  ]
+}

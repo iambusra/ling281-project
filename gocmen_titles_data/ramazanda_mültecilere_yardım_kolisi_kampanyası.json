@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:51:28.133598",
+    "total_entries": 1,
+    "input": "ramazanda mültecilere yardım kolisi kampanyası",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ramazanda mültecilere yardım kolisi kampanyası",
+      "entry_id": "135984650",
+      "author": "ibeddebi",
+      "date": "09.04.2022 11:34 ~ 11:37",
+      "content": "duyarlı ve vicdanlı tüm vatandaşların yapması gereken hayır işi. 5 kilo pirinç, 5 kilo un, 5 lt yağ, birer kilo nohut, kuru fasulye, 1 kilo salça ve zeytin örnek paket olabilir.\n\nedit. tuz eklemeyi unutmuşum. tuz çok büyük sevaptır. olmazsa olmaz.",
+      "has_external_url": false
+    }
+  ]
+}

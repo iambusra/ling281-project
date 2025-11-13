@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:21:57.895070",
+    "total_entries": 2,
+    "input": "7 bin suriyeliye vatandaşlık verilmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "7 bin suriyeliye vatandaşlık verilmesi",
+      "entry_id": "69355176",
+      "author": "aktuelbimurunu",
+      "date": "09.07.2017 12:35",
+      "content": "bedava oy diyecem zati pusulalarıda evde basıp ysk ya veriyorlar. ucuz işçi sanırım amaç.",
+      "has_external_url": false
+    },
+    {
+      "title": "7 bin suriyeliye vatandaşlık verilmesi",
+      "entry_id": "69355624",
+      "author": "polinpolin",
+      "date": "09.07.2017 12:54",
+      "content": "7 bin yine az sayı.\nneye sevinir oldum allam sabır ver",
+      "has_external_url": false
+    }
+  ]
+}

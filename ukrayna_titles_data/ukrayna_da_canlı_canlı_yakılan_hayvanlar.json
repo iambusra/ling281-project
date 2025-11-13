@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:14:30.291541",
+    "total_entries": 2,
+    "input": "ukrayna'da canlı canlı yakılan hayvanlar",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukrayna'da canlı canlı yakılan hayvanlar",
+      "entry_id": "26296002",
+      "author": "refreshing towel",
+      "date": "25.11.2011 12:45",
+      "content": "ukrayna'da düzenlenecek olan euro 2012 final maçı için ukrayna hükümetinin yapmış olduğu hazırlık(!) olarak, sokaklarda gezen başıboş kedi ve köpekleri toplayıp, fırınlara atarak yakan ve maalesef ukrayna halkının pek de umursamadığı bir olaydır. uefa resmi olarak ukrayna'yı uyarmış, ukrayna geri adım atmış denilmekte.\n\nmobil yakma üniteleri kullanarak katliamda çığır açan bu insanımsılar sırf para gelsin, gelir olsun diyerek ne kadar aşağılık olabileceklerini kanıtlayarak nazarımda bütün insan ırkları arasında insan diyemeyeceğim bir kategoride yer almışlardır.\n\nsanal ortamda tepki olarak imza kampanyası başlatılmış durumda. ne kadar etkili olur bilinmez ama bu ve şu sitelerden sanal imza kampanyasına katılabilirsiniz.",
+      "has_external_url": true
+    },
+    {
+      "title": "ukrayna'da canlı canlı yakılan hayvanlar",
+      "entry_id": "26296024",
+      "author": "bu konu cok sevimsiz",
+      "date": "25.11.2011 12:48 ~ 12:49",
+      "content": "(bkz: ukrayna'nın sokak hayvanlarını fırınlarda yakması)\n\nve tabii ki:\n\n(bkz: aramaya inanmak)",
+      "has_external_url": false
+    }
+  ]
+}

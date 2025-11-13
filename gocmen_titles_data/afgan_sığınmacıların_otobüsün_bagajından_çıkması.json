@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:05:56.140463",
+    "total_entries": 3,
+    "input": "afgan sığınmacıların otobüsün bagajından çıkması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "afgan sığınmacıların otobüsün bagajından çıkması",
+      "entry_id": "126053064",
+      "author": "don diablo",
+      "date": "24.07.2021 00:45 ~ 01:23",
+      "content": "durum öyle bir hal aldı ki, benim arabanın bagajından çıksalar şaşırmayacağım.\n\nedit: dur bi inip bakayım ben..\n\nbaşlık başa kaldı editi: link",
+      "has_external_url": true
+    },
+    {
+      "title": "afgan sığınmacıların otobüsün bagajından çıkması",
+      "entry_id": "126054075",
+      "author": "bizdegilben",
+      "date": "24.07.2021 01:11",
+      "content": "dün gelen trendyol kargo paketimi açmaya korkuyorum afgan mülteci çıkacak diye.",
+      "has_external_url": false
+    },
+    {
+      "title": "afgan sığınmacıların otobüsün bagajından çıkması",
+      "entry_id": "126055540",
+      "author": "akrep yelkovan",
+      "date": "24.07.2021 02:01",
+      "content": "otobüs şoförününen birkaç sene cezaevine atılması gereken olay. para alırken almasını biliyorsa cezasını da yatmasını bilmeli.",
+      "has_external_url": false
+    }
+  ]
+}

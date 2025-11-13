@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:04:26.294024",
+    "total_entries": 2,
+    "input": "sığınmacıların beyanla sağlıkçı olması skandalı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "sığınmacıların beyanla sağlıkçı olması skandalı",
+      "entry_id": "160487787",
+      "author": "intense world",
+      "date": "09.01.2024 22:17",
+      "content": "bunu duymuştum feci bir durum",
+      "has_external_url": false
+    },
+    {
+      "title": "sığınmacıların beyanla sağlıkçı olması skandalı",
+      "entry_id": "160488277",
+      "author": "gratis",
+      "date": "09.01.2024 22:32",
+      "content": "dünyanın hiçbir yerinde böyle aklısızca bir şey yapılmaz,yapılamaz. düşünsene amk adam ıraktan,mısırdan,filistinden,israilden suriye üzerinden girip ben suriyeliyim diyip ülkeye girdi yıllarca. ve sen akılsızca bunları sırf 3 kuruş uğruna (ab fonları) devlet içine soktun. yıllarca uyardılar içlerinde ajan olabilir, sokmayın ülkeye dediler ama para hep cazip geldi bazı çıkarcılar için. bak işte beyanla ne güzel (!) devlet içine sokmuşuz bu hainleri,ajanları.\nvallahi hakkım haram zıkkım olsun.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:39:56.511134",
+    "total_entries": 2,
+    "input": "birgün gazetesinin mülteci sevici olması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "birgün gazetesinin mülteci sevici olması",
+      "entry_id": "165905198",
+      "author": "maslow apartmani cati kat",
+      "date": "01.07.2024 22:40 ~ 22:55",
+      "content": "siz ne olursan ol yine gel felsefesiyle nereye varacaksınız? bırakın romantik solculuğu artık. erdemli görüneceksiniz diye iyi niyetli anılacaksınız diye komik duruma düşüyorsunuz. hakikat denen olgu bu iyi niyeti parmağında oynatır ey birgün gazetesi. ideallerinizi anlıyorum, destekliyorum ancak duruşunuzda en azından bu anlamda bir eleştirellik görmek istiyorum.\n\nedit: ezilenin yanında olması gerek denmiş. iyi niyetli sol daha çok eziliyor ey dolaysız tümleç, söylesene kim yanlarında?",
+      "has_external_url": false
+    },
+    {
+      "title": "birgün gazetesinin mülteci sevici olması",
+      "entry_id": "165905276",
+      "author": "dolaysiztumlec",
+      "date": "01.07.2024 22:42",
+      "content": "olması gerekendir. sol dediğin ezilenin yanında durur.",
+      "has_external_url": false
+    }
+  ]
+}

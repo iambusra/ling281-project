@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:30:38.614471",
+    "total_entries": 4,
+    "input": "brezilyalıların ruslardan iyi dövüşmesinin sebebi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "brezilyalıların ruslardan iyi dövüşmesinin sebebi",
+      "entry_id": "91784171",
+      "author": "haziran 1998",
+      "date": "27.06.2019 12:09",
+      "content": "daha kıvraklardır. hem küçük yaştan beri sokaklarda büyümeleri hem de genetik olarak hareketliliğe daha yatkın olmalarından kaynaklanmaktadır.",
+      "has_external_url": false
+    },
+    {
+      "title": "brezilyalıların ruslardan iyi dövüşmesinin sebebi",
+      "entry_id": "91784254",
+      "author": "solariss",
+      "date": "27.06.2019 12:10",
+      "content": "daha hareketliler.",
+      "has_external_url": false
+    },
+    {
+      "title": "brezilyalıların ruslardan iyi dövüşmesinin sebebi",
+      "entry_id": "91784460",
+      "author": "sosyalsabotaj",
+      "date": "27.06.2019 12:14",
+      "content": "sıcak abi sıcak\nadamlar kafayı yiyor\nbir adanalı muhtemelen bir çok şehirin adamına göre daha iyi dövüşür\nbunun gibi birşey bu",
+      "has_external_url": false
+    },
+    {
+      "title": "brezilyalıların ruslardan iyi dövüşmesinin sebebi",
+      "entry_id": "91784731",
+      "author": "nikimniktir",
+      "date": "27.06.2019 12:19",
+      "content": "spider vs emilianko",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:13:11.922882",
+    "total_entries": 2,
+    "input": "türklere iş vermeyen suriyelinin tiyatrocu çıkması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türklere iş vermeyen suriyelinin tiyatrocu çıkması",
+      "entry_id": "155997702",
+      "author": "tahta tava",
+      "date": "24.08.2023 16:57 ~ 16:57",
+      "content": "evet yine bir haberin altından tiyatro ve dezenformasyon çıkması hadisesi bakalım bu videonun altında ırkçı yorumlarda bulunanlar özür dileyecek yüzü kendilerinde bulabilecek mi?\naçıklama\nedit: typo",
+      "has_external_url": true
+    },
+    {
+      "title": "türklere iş vermeyen suriyelinin tiyatrocu çıkması",
+      "entry_id": "155998008",
+      "author": "eq",
+      "date": "24.08.2023 17:07 ~ 17:19",
+      "content": "ne yani bir tanesi tiyatrocu çıktı diye 10 yaşındaki erkek çocuğuna tecavüz eden suriyeli de mi tiyatrocuydu? ya da sokaklarımızda fink atan 25 yaşlarındaki olay çıkartan suriyeli, afgan gençler de mi tiyatro? ayrıca diyelim ki bunlar provakasyon için yapılıyor. bunun böyle olacağı en baştan belli değil miydi?\n\ndünyadaki hangi ulus devleti nüfusunun etnik yapısını bozacak sayıda göçmen alır? bir de aldıkları mülteciler terörün gündelik hayatta rutinleştiği ülkelerden geliyor. yani bu durumun zaten ileride kaos çıkaracağı belliydi. kaos çıkarmak isteyen ülkeler, şirketler veya örgütler tarafından kullanılmasına bile gerek yok. hiçbir dış etki olmasa bile azınlıklar bir ülke için her zaman sorun olur. bunu \"a\" devletinin yapmasına veya \"b\" devletinin yapmasına da gerek yok. onlar zaten bunu ileride kullanacaklar.",
+      "has_external_url": false
+    }
+  ]
+}

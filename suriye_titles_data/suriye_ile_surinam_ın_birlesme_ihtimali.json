@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:46:40.512905",
+    "total_entries": 4,
+    "input": "suriye ile surinam’ın birlesme ihtimali",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriye ile surinam’ın birlesme ihtimali",
+      "entry_id": "176377860",
+      "author": "dr shephard ameliyathaneye",
+      "date": "27.06.2025 18:35",
+      "content": "ikisi de suri parantezine alinabildigi icin bence mantikli.",
+      "has_external_url": false
+    },
+    {
+      "title": "suriye ile surinam’ın birlesme ihtimali",
+      "entry_id": "176380628",
+      "author": "cagliari",
+      "date": "27.06.2025 20:58",
+      "content": "ismini random ülkelerle birleşme ihtimalini gözeterek koymuş yemen dururken biraz zor.",
+      "has_external_url": false
+    },
+    {
+      "title": "suriye ile surinam’ın birlesme ihtimali",
+      "entry_id": "176381039",
+      "author": "handcrafted",
+      "date": "27.06.2025 21:17",
+      "content": "surinamiye\nsuri(yenam)\nsurisuri",
+      "has_external_url": false
+    },
+    {
+      "title": "suriye ile surinam’ın birlesme ihtimali",
+      "entry_id": "176381116",
+      "author": "panopticons",
+      "date": "27.06.2025 21:21",
+      "content": "zamanında ben kritik bir meselede birleştirmiştim. nasıl olduğunu sormayın, büyük cezalar çıkabilir meselenin altından.",
+      "has_external_url": false
+    }
+  ]
+}

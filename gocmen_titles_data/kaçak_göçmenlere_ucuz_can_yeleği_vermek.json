@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:22:17.957137",
+    "total_entries": 1,
+    "input": "kaçak göçmenlere ucuz can yeleği vermek",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "kaçak göçmenlere ucuz can yeleği vermek",
+      "entry_id": "96336266",
+      "author": "cn dr",
+      "date": "09.10.2019 12:38",
+      "content": "bir cnn türk haberi. kişi basi 3 bin euro alan insan kaçakçılarının göçmenlere 14 liralık can yeleği vermelerine belli ki cnn türk çok bozulmuş.\n\nhaber linki\n\nresmen kaçakçıları kınamışlar sebebi ise yasa dışı yollarla insanları kaçırdıklari için degil, o kadar para alıp kaliteli bi yelek vermedikleri için kınamışlar. o kadar para alıyonuz işinizi adam gibi yapın diyerek kaçakcıları uyarmıştır.\n\nkaçakcılar sendikası ise kesin bunu dikkate alır. göçmenlerin sağlıgı sanki çok önemli onlar için.",
+      "has_external_url": true
+    }
+  ]
+}

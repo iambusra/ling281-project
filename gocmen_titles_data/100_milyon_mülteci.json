@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-10T23:57:21.150295",
+    "total_entries": 1,
+    "input": "100 milyon mülteci",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "100 milyon mülteci",
+      "entry_id": "125944830",
+      "author": "koprufakilar",
+      "date": "21.07.2021 01:35",
+      "content": "türkiye’ye 100 milyon mülteci gelse ki teorik olarak mümkün. bu mülteci severler ve uluslararası hukuk aldatmacasına kanan tayfa yine de savunacak ve insan haklarından bahsedip 100 milyon mülteciye de hoşgeldiniz diyecek sanırım.\nbir ülke daha kendi vatandaşlarını tam olarak doyuramıyorsa o ülkeye 1000 mülteci de fazladır. ve o ülkede zaten insan hakları sistematik olarak ihlal ediliyorsa bırakın mültecilerin insan haklarını da ihlal ediverelim.\ngelen mülteciler yüzünden benim vatandaşım olumsuz etkileniyorsa bu konu tartışmaya kapalıdır.\nbütün mülteciler insan gibi yaşayabilecekleri avrupa’ya sığınmalıdırlar.",
+      "has_external_url": false
+    }
+  ]
+}

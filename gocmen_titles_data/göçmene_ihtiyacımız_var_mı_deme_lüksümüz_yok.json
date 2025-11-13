@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:13:20.585711",
+    "total_entries": 3,
+    "input": "göçmene ihtiyacımız var mı deme lüksümüz yok",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "göçmene ihtiyacımız var mı deme lüksümüz yok",
+      "entry_id": "169084403",
+      "author": "fatagnus",
+      "date": "09.10.2024 11:17 ~ 11:29",
+      "content": "istanbul ticaret odası başkanı şekip avdagiç tarafından dile getirilmiştir. doğurganlık hızının düştüğünden ve boşanmaların artmasından şikayet etmiş beyefendi. klasik türk kafası. sebeplerle değil sonuçlarla ilgilenir her zaman.\n\nçözüm için de ülkeyi sığınmacılarla doldurmayı öneriyor. akbabalar sizi. ülkenin kendi üniversite mezunları bile işsiz kalırken, çalışanı da geçimini zor sağlarken, sigortasız işçi çalıştırmak işinize geliyor tabi. her şeyi geçtim şu açıklamayı yaparken hiç mi utanmadı acaba kendileri?\n\nayrıca her ülkenin göçmen politikası vardır ve bizim de olmalıdır. ancak aç kapıyı veysel efendi şeklinde değildir bu. belirli bir limit dahilinde ihtiyaca ve nitelikli iş gücüne yönelik bir şekilde yapılır. medeni ülkelerde olduğu gibi.\n\nhaber",
+      "has_external_url": true
+    },
+    {
+      "title": "göçmene ihtiyacımız var mı deme lüksümüz yok",
+      "entry_id": "169084560",
+      "author": "jedilost",
+      "date": "09.10.2024 11:23 ~ 11:29",
+      "content": "sermaye her zaman iktidarla iş birliği yapar.\n\nhani olmaz ya, iktidar değişse, devletin göçmen politikası radikal bir şekilde değişse bu söylemler anında değişir. hakkını vereyim, bazen iktidar değişse bile eski söylediklerini değiştirmeyen insanlar çıkar. o zaman da o kişiyi değiştirirler.\n\nedit: yazmayayım diyordum da dayanamadım. bugün doğan bir insanın vasıflı iş gücüne katılması en az 20 - 25 yıl, vasıfsız iş gücüne katılması 15 yıl sürer. kimse martaval okumasın, bu ülkede 20 yıl sonrasını planlayacak kapasite yok. sermaye başta olmak üzere herkes günü kurtarmak peşinde. bu laflar da sermaye 20 yıl sonrasını dert ettiği için değil, bugünü kurtarmak için ediliyor.\n\nkaldı ki, gelecek için gerçekten dertleniyor olsanız yapay zekanın her şeyi yapmaya talip olduğu bir dönemde aşırı nüfusu ne yapacağız diye dertlenirsiniz.",
+      "has_external_url": false
+    },
+    {
+      "title": "göçmene ihtiyacımız var mı deme lüksümüz yok",
+      "entry_id": "169084588",
+      "author": "cokonemlidegilzaten",
+      "date": "09.10.2024 11:24 ~ 12:04",
+      "content": "göçmene ihtiyaç varsa her medeni devlet gibi hangi meslekten kaç kişiye ihtiyaç olduğunu, bu göçmenlerin hangi niteliklere sahip olması gerektiğini belirlersin, ona göre farklı ülkelerden belirli kontenjanlarla göçmen alırsın.\n\nçoğu genç erkeklerden oluşan, iç savaş içinde büyümüş, düzgün bir eğitim almamış, aynı ülkeden gelen milyonlarca sığınmacı ve kaçağı ülkeye doldurmak göç ihtiyacı ile açıklanamaz.\n\nsapla samanı karıştırmamak lazım. göçmen farklı şey, sığınmacı farklı. ırkçılık farklı şey, ekonomik, demografik ve güvenlik gerekçeleriyle milyonlarca sığınmacı ve kaçağın ülkeye girmesine karşı olmak farklı.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:04:06.131379",
+    "total_entries": 2,
+    "input": "suriyelilerin gidişiyle enflasyonun düşecek olması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelilerin gidişiyle enflasyonun düşecek olması",
+      "entry_id": "170868290",
+      "author": "tertibibend",
+      "date": "09.12.2024 07:44",
+      "content": "içişleri bakanlığının rakamlarına göre türkiye'de 3,7 milyon suriyeli yaşıyor. dile kolay, 4 milyona yakın insan buraya sığınmış halde.\n\nbunların memleketlerine geri dönmeleri halinde piyasadaki ciddi şekilde azalacak. sadece benim oturduğum apartmanda 4 dairede araplar oturuyor. bunların gitmeleri demek kiraların hızlıca aşağı inmesi demek. sadece konut değil, gıda fiyatlarında da düşüş olacak zira büyük bir grup tüketiciyi piyasadan çekiyorsunuz.\n\nayrıca sağlık sisteminin, bilhassa da kadın doğum bölümlerinin üzerindeki yük azalacak. türkler rutin sağlık hizmetlerinden çok daha rahat faydalanabilecek.\n\nhasılı suriyelilerin memleketlerine dönmesi memlekete çok iyi gelecek. inşallah ülkelerini en kısa sürede imar ederler, onlar da rahata ererler, biz de.",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyelilerin gidişiyle enflasyonun düşecek olması",
+      "entry_id": "170868339",
+      "author": "argekumandan",
+      "date": "09.12.2024 07:50",
+      "content": "1) 3.7 milyon'un tamami geri donmez birak onu yarisi bile donmez\n2) 3.7 degil 10 milyon'a yakin multeci var bunlarin tamami suriyeli degil afgan ve pakiler var.\n\nayrica 7 milyon suriyeli bile olsa yine en fazla 1 milyon falan ancak doner.",
+      "has_external_url": false
+    }
+  ]
+}

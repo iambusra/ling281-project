@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:18:42.607248",
+    "total_entries": 1,
+    "input": "erdoğan'ın göçmenleri göndereceği gerçeği",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "erdoğan'ın göçmenleri göndereceği gerçeği",
+      "entry_id": "153461861",
+      "author": "fakdasiz tem",
+      "date": "12.06.2023 13:38",
+      "content": "şimdiye kadar kullandıktan sonra artık işe yaramadığını düşünüp r dönüşü yaptığı bir çok olayda olduğu gibi\n(bkz: mavi marmara)\n(bkz: fetö)\n(bkz: kürt açılımı)",
+      "has_external_url": false
+    }
+  ]
+}

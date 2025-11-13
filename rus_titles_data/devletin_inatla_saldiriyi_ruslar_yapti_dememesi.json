@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:27:36.843897",
+    "total_entries": 2,
+    "input": "devletin inatla saldiriyi ruslar yapti dememesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "devletin inatla saldiriyi ruslar yapti dememesi",
+      "entry_id": "102744277",
+      "author": "paverengers",
+      "date": "28.02.2020 09:18",
+      "content": "bu dondurmanın parasını sen ödüyosun demi",
+      "has_external_url": false
+    },
+    {
+      "title": "devletin inatla saldiriyi ruslar yapti dememesi",
+      "entry_id": "102744312",
+      "author": "yamis",
+      "date": "28.02.2020 09:19",
+      "content": "rusya’ya sırt yaslamalarımız henüz bitmemiştir. daha alınacak s400’ler vardır. doğalgaz mevzusu vardır. gelecek turistler vardır.\nkısacası rusya’ya daha “yaaaa yuuuu çekeceğiz”dir.\nkolay değil bu işler.",
+      "has_external_url": false
+    }
+  ]
+}

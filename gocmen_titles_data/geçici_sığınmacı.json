@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:55:42.096357",
+    "total_entries": 3,
+    "input": "geçici sığınmacı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "geçici sığınmacı",
+      "entry_id": "134099628",
+      "author": "ben size inanmistim",
+      "date": "23.02.2022 05:20 ~ 05:23",
+      "content": "daha önce bbc'nin yaptığı bir haberde ve zafer partisi kurucusu ümit özdağ sayesinde duyduğum ilginç statü.\n\ntarihsel bakımdan türkiye'ye göç eden insanların hukuki profilinin gelişimi ve geçmişi bolu belediye başkanı tarafından bir belediye meclis konuşmasında az ve öz bir biçimde anlatılmıştır. current time'dan itibaren izleyin, söz konusu video\n\nedit: video current time ayarı",
+      "has_external_url": true
+    },
+    {
+      "title": "geçici sığınmacı",
+      "entry_id": "137238719",
+      "author": "there it begins",
+      "date": "09.05.2022 19:32",
+      "content": "türkiye'de yaşayan suriyelilerin sahip olduğu statü. bildiğim kadarıyla vatandaşlık verilmesi de yasal değil.\n\ntemporary asylum seeker. resmi olarak ingilizcede geçen tanımı bilen var mıdır?",
+      "has_external_url": false
+    },
+    {
+      "title": "geçici sığınmacı",
+      "entry_id": "173342267",
+      "author": "kececiazmi",
+      "date": "05.03.2025 20:09",
+      "content": "ismiyle çelişen oldukça paradoksal bir sığınmacı statüsü. süresi dolmayan, sonu gelmeyen geçici sığınmacı statüsü de ancak bizden çıkardı zaten (bkz: swh) .\n\"gitmenizi kesinlikle istemiyoruz ama türk milleti hoşnut olmadığı için geçici diyip sakinleştiriyoruz\" ismi çok uzun gelince böyle kısaltılmış olabilir.\n\nsavaş bitti ama statü hala bitmedi. herhalde dünya'ya göktaşı çarpmasını falan bekliyorlar bitirmek için.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:08:18.372452",
+    "total_entries": 4,
+    "input": "22 ağustos 2014 rusya'nın doğu ukrayna'yı işgali",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "22 ağustos 2014 rusya'nın doğu ukrayna'yı işgali",
+      "entry_id": "45159493",
+      "author": "hear me roar",
+      "date": "22.08.2014 19:11",
+      "content": "(bkz: #44250040)",
+      "referenced_entry_ids": [
+        "44250040"
+      ],
+      "has_external_url": false
+    },
+    {
+      "title": "22 ağustos 2014 rusya'nın doğu ukrayna'yı işgali",
+      "entry_id": "45159526",
+      "author": "kavimler gocunde evi yagmalanan adam",
+      "date": "22.08.2014 19:13",
+      "content": "demin cnn'den telefonuma breaking news geldi\n\"abd rusya'nın ukrayna sınırında 18000 mortal troops'u olduğunu bildirdi\"\nmortal troops ne anlamadim ama savaşa hazır birlik olduğunu tahmin ediyorum . çatışma çıkmış olabilir, ama bir işgal midir zaman gösterir. ruslar zaten ayrılıkçılar eliyle ukrayna'ya müdahale ediyor . hazır avrupa'ya uyguladığı gıda ambargosunu gevşetmişken neden tansiyonu tekrar yükseltin? çok mantıklı gelmedi bana .",
+      "has_external_url": false
+    },
+    {
+      "title": "22 ağustos 2014 rusya'nın doğu ukrayna'yı işgali",
+      "entry_id": "45160652",
+      "author": "infantilopati",
+      "date": "22.08.2014 20:23",
+      "content": "bu işgal doğru ise japonların çin'i işgaline benziyor.",
+      "has_external_url": false
+    },
+    {
+      "title": "22 ağustos 2014 rusya'nın doğu ukrayna'yı işgali",
+      "entry_id": "45161170",
+      "author": "wad",
+      "date": "22.08.2014 20:54 ~ 20:59",
+      "content": "putin'in bir sonraki başarısı olarak tesilecek olaydır. putin gibi zeki ve iyi yürekli bir diktatör sayesinde rusya, kırım'dan sonra doğru ukraynayı da ilhak edecek ve kimse sesini çıkaramayacaktır. ah be, rte yerine putin gibi bir başkanımız olsaydı keşke.",
+      "has_external_url": false
+    }
+  ]
+}

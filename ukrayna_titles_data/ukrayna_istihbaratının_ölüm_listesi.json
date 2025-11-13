@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:07:13.427383",
+    "total_entries": 1,
+    "input": "ukrayna istihbaratının ölüm listesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukrayna istihbaratının ölüm listesi",
+      "entry_id": "162634086",
+      "author": "anarep",
+      "date": "20.03.2024 01:05",
+      "content": "aşırı sağcı bir örgütün sitesi. ukrayna istihbaratıyla bağı olduğu iddia ediliyor.",
+      "has_external_url": false
+    }
+  ]
+}

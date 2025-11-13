@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:53:54.907971",
+    "total_entries": 1,
+    "input": "abd'deki türk mültecilerin 15 bini geçmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "abd'deki türk mültecilerin 15 bini geçmesi",
+      "entry_id": "169601251",
+      "author": "dacikle dacik olmayan hayk",
+      "date": "26.10.2024 18:14",
+      "content": "mülteci ya da sığınmacı türklerin sadece birleşik devletlerdeki sayısının 15 bini geçtiği belirlendi.\nkaynak\n\ntürk ırkı mülteci, sığınmacı olmaz diyenleri piste alalım.",
+      "has_external_url": true
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:01:01.872832",
+    "total_entries": 1,
+    "input": "sığınmacıları türkiye'ye gönderme planı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "sığınmacıları türkiye'ye gönderme planı",
+      "entry_id": "140054759",
+      "author": "ben seven biriyim",
+      "date": "16.07.2022 13:48",
+      "content": "ingiltere brexit ile avrupa birliği'nden ayrıldı ama sığınmacıları türkiye'ye gönderme konusunda ab ile aynı noktaya gelme planı olduğu iddia ediliyor. the times haberine göre şu an dış işleri bakanı olan liz truss'ın başbakan olması halinde sığınmacıları ruanda'ya deport etme sürecini türkiye'yi de içine alan başka ülkelere de genişletme planı olduğundan söz ediliyor.\nhaber linki",
+      "has_external_url": true
+    }
+  ]
+}

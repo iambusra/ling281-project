@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T13:45:55.691422",
+    "total_entries": 1,
+    "input": "1 aralık 2024 suriye rejiminin teslim",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "1 aralık 2024 suriye rejiminin teslim",
+      "entry_id": "170636540",
+      "author": "amba karambita",
+      "date": "01.12.2024 13:34",
+      "content": "28 kasim da idlib bolgesinden baslayan hareketliligin cok kisa surede halepi ele gecirip şam'ın kapısına dayanmasi sonucu burnundan kıl aldırmayan suriye rejiminin bir anda teslim şartları için antalya ya heyet göndermesine sebep olan hadiseler zincirinin son halkası",
+      "has_external_url": false
+    }
+  ]
+}

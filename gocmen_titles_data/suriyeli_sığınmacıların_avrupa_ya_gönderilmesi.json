@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:04:23.715129",
+    "total_entries": 1,
+    "input": "suriyeli sığınmacıların avrupa'ya gönderilmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeli sığınmacıların avrupa'ya gönderilmesi",
+      "entry_id": "161014943",
+      "author": "faytonfayt",
+      "date": "27.01.2024 17:25",
+      "content": "türkiye'nin bunu ertelediği her gün geleceğimizden gitmektedir.\n\neğer avrupa zoru görürse suriye'nin güneyindeki güvenli koridora silke silke destek verir. artı bize duralım diye silke silke ödeme yaparlar.",
+      "has_external_url": false
+    }
+  ]
+}

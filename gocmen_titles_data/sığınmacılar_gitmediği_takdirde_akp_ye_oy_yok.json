@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:00:03.502724",
+    "total_entries": 1,
+    "input": "sığınmacılar gitmediği takdirde akp'ye oy yok",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "sığınmacılar gitmediği takdirde akp'ye oy yok",
+      "entry_id": "163153882",
+      "author": "gordonmilne",
+      "date": "04.04.2024 23:23",
+      "content": "31 mart 2024 seçimlerinde akp seçmeninin akp'ye verdiği açık mesaj.\n\nben akp fatih teşkilatına yıllarımı verdim. önce fetöcüler, onlar gidince de (ki çok da gitmediler) imam hatipliler ve ihh'cılar akp teşkilatını sığınmacı vakfına çevirdi.\n\nböylece merkez sağ üyeler dışlandı, bırak fikrimizi dinlemeyi varlığımıza tahammül edemediler.\n\nbu belli ki sadece fatih ilçesiyle sınırlı kalmadı, tüm teşkilatlar sığınmacılara tapındılar.\n\nsonuç 8 milyon kayıp oy, 8 milyon 8...\n\neeeyy akp, ekonomi de bir gün düzelir ama bu sığınmacı işgalinin önü alınmazsa genel seçimde oy kaybın 10 milyonun üzerinde olur. bu saçma politika seni tarih sayfalarına gönderir.",
+      "has_external_url": false
+    }
+  ]
+}

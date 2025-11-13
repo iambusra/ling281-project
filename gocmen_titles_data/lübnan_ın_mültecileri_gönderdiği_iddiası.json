@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:49:33.889281",
+    "total_entries": 3,
+    "input": "lübnan'ın mültecileri gönderdiği iddiası",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "lübnan'ın mültecileri gönderdiği iddiası",
+      "entry_id": "144368027",
+      "author": "umitsizseniz umit sizsiniz",
+      "date": "26.10.2022 20:13",
+      "content": "https://mobile.twitter.com/…tus/1585295069636349953\n\n\"lübnan suriyelileri göndermeye başladı. her ay 15 bin sığınmacı gönderilecek. lübnan cumhurbaşkanı avn, entegreyi'suç' olarak ifade etmişti. bizde ise'ümmet' ambalajıyla kalıcı yapılmaya çalışılıyorlar! kimse'gitmezler' demesin, biz de göndeririz. yeter ki önce akp gitsin!\"",
+      "has_external_url": true
+    },
+    {
+      "title": "lübnan'ın mültecileri gönderdiği iddiası",
+      "entry_id": "144390994",
+      "author": "duodenum ulseri",
+      "date": "27.10.2022 12:55",
+      "content": "bizim yıllardır yapamadığımızı yapmışlar helal olsun.",
+      "has_external_url": false
+    },
+    {
+      "title": "lübnan'ın mültecileri gönderdiği iddiası",
+      "entry_id": "144391179",
+      "author": "oglak oglani",
+      "date": "27.10.2022 13:00",
+      "content": "ülkenin ne olduğu bir faktör değil. önemli olan ülkeni işbirlikçiler mi, yoksa vatanseverler mi yönetiyor? bütün mesele bu. tabi ki bizim ülke için konuşmuyorum. biz süperiz",
+      "has_external_url": false
+    }
+  ]
+}

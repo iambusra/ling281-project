@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T15:01:33.709004",
+    "total_entries": 1,
+    "input": "7 bin suriyeliye istihdam sağlanması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "7 bin suriyeliye istihdam sağlanması",
+      "entry_id": "86055485",
+      "author": "onceguldumsonrabastimsifiri",
+      "date": "29.01.2019 01:28",
+      "content": "birçoğu istihdam edildi bile.\nmesela suriyeli öğretmenler okullara dağıtıldı. aylık 2000 tl maaş alıp derslere girmiyorlar, nöbet tutmuyorlar. kafalarına göre gelip çay kahve içip gidiyorlar.\n\n(bkz: suriyeli öğretmenlerin 12 ay tatil yapması)",
+      "has_external_url": false
+    }
+  ]
+}

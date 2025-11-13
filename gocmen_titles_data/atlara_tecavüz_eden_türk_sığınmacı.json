@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:55:43.224136",
+    "total_entries": 1,
+    "input": "atlara tecavüz eden türk sığınmacı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "atlara tecavüz eden türk sığınmacı",
+      "entry_id": "172514961",
+      "author": "dirensar",
+      "date": "05.02.2025 12:50",
+      "content": "olay almanya'nin bavyera eyaletinde yasanmis ve yuh dedirtmistir:\n\nhttps://www.bild.de/….outbrain.desktop.ar_2.ff.bild\n\nmulteci merkezinde devlet destegi ile yasayan 52 yasindaki turk siginmaci bir tay ciftligine giriyor ve birden fazla disi taya 25 dakika boyunca tecavuz ediyor. bunlarin tamami kamera kaydi ile sabit olmasina ragmen abimiz su anda serbestmis ve koyde dolasmaya devam ediyormus.",
+      "has_external_url": true
+    }
+  ]
+}

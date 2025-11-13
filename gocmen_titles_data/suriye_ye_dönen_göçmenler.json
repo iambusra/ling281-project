@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:16:51.064712",
+    "total_entries": 3,
+    "input": "suriye'ye dönen göçmenler",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriye'ye dönen göçmenler",
+      "entry_id": "143777582",
+      "author": "lezboslu sappho11",
+      "date": "11.10.2022 16:00",
+      "content": "kaldı 9.999.943",
+      "has_external_url": false
+    },
+    {
+      "title": "suriye'ye dönen göçmenler",
+      "entry_id": "143777685",
+      "author": "picgurusu",
+      "date": "11.10.2022 16:04",
+      "content": "\"ruslar geldi kiralar arttı.\" diyordur büyük olasılık.\n\n\"pazara markete çıkamıyoruz, sınırdan giren günü birlikçi gürcüsü bulgarı ermenisi iranlısı fiyatları arttırdı\" diyor da olabilir.\n\nülkemiz don giymesine gerek kalmayan genelev sermayesine döndü. tutan skiyor ayak üstü.",
+      "has_external_url": false
+    },
+    {
+      "title": "suriye'ye dönen göçmenler",
+      "entry_id": "143778214",
+      "author": "bugsbunnyvehavucu",
+      "date": "11.10.2022 16:21",
+      "content": "sadece 57 kişi bu ay ve genel toplamda 3500 kişinin kendi ülkelerine gitmesidir. gelen milyonlara bakılınca komik bir sayı olmuş.",
+      "has_external_url": false
+    }
+  ]
+}

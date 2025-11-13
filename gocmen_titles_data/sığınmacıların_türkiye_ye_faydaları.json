@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:05:11.669037",
+    "total_entries": 2,
+    "input": "sığınmacıların türkiye'ye faydaları",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "sığınmacıların türkiye'ye faydaları",
+      "entry_id": "137416526",
+      "author": "corivar",
+      "date": "14.05.2022 01:35",
+      "content": "yoktur. maddi, manevi ve sosyal anlamda hiçbir faydaları yok.\n\nbazları ıkınarak faydalarını anlatmaya çalışıyorlar ama kimse yemiyor.\n\ntürkiye’de farklı görüşten insanların buluştuğu tek nokta sığınmacıların ülkeye zararı.\n\ndaha önce türkiye’de insanlar hiç bu kadar aynı fikirde olmamıştı.\n\nhükümet kanadı ısrarla faydalarını sayıyor, saydıkça oyları düşüyor.",
+      "has_external_url": false
+    },
+    {
+      "title": "sığınmacıların türkiye'ye faydaları",
+      "entry_id": "137416710",
+      "author": "pinkythebear",
+      "date": "14.05.2022 01:40",
+      "content": "insanların geç de olsa kim olduklarını hatırlamasini. ümmetcilikten türk milletine kayan birçok insan tanıdım son zamanlarda. bu düşünce toplumun büyük bir kısmı tarafından benimsenecek. z kuşağı çoktan benimsedi bile.",
+      "has_external_url": false
+    }
+  ]
+}

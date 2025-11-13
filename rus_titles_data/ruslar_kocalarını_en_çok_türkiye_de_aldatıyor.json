@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:27:22.568990",
+    "total_entries": 1,
+    "input": "ruslar kocalarını en çok türkiye'de aldatıyor",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ruslar kocalarını en çok türkiye'de aldatıyor",
+      "entry_id": "111290559",
+      "author": "serbroserk",
+      "date": "08.08.2020 17:52",
+      "content": "sanki biraz propaganda kokuyor.",
+      "has_external_url": false
+    }
+  ]
+}

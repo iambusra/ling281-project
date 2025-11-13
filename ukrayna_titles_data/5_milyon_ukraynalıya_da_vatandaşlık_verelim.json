@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:22:16.763426",
+    "total_entries": 3,
+    "input": "5 milyon ukraynalıya da vatandaşlık verelim",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "5 milyon ukraynalıya da vatandaşlık verelim",
+      "entry_id": "61615005",
+      "author": "01502106",
+      "date": "08.07.2016 22:34",
+      "content": "madem suriye karışık diye 5 milyon kişiye vatandaşlık verilecek, ukraynadan da bi 5 milyon kişiyi vatandaş yapalım denen tespit. rahmetli hakkı abinin hatırına de da eklerine dikkat edilmiştir, okurken siz de dikkat edin.",
+      "has_external_url": false
+    },
+    {
+      "title": "5 milyon ukraynalıya da vatandaşlık verelim",
+      "entry_id": "61615130",
+      "author": "nicholai hell",
+      "date": "08.07.2016 22:43",
+      "content": "bu gidişle dünya hakikaten türk olacak. hadi hayırlısı.\n\n(bkz: sevim koş)",
+      "has_external_url": false
+    },
+    {
+      "title": "5 milyon ukraynalıya da vatandaşlık verelim",
+      "entry_id": "61615214",
+      "author": "yozgatta makine okumak",
+      "date": "08.07.2016 22:50",
+      "content": "verelim olum ukrayna rusya yunanistan gibi ülkeden gelenlere hemen vatandaşlık verilsin",
+      "has_external_url": false
+    }
+  ]
+}

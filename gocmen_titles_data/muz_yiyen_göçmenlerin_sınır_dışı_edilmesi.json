@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:26:04.137482",
+    "total_entries": 2,
+    "input": "muz yiyen göçmenlerin sınır dışı edilmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "muz yiyen göçmenlerin sınır dışı edilmesi",
+      "entry_id": "130004336",
+      "author": "hepimiz1iz",
+      "date": "12.11.2021 14:19",
+      "content": "sosyal medyada muz paylaşımı yapan 45 yabancı uyruklunun sınır dışı edilmek üzere geri gönderme merkezlerine sevk edilmesi. umarım kaçak yollarla tekrar geri gelmezler.\n\nkaynak",
+      "has_external_url": true
+    },
+    {
+      "title": "muz yiyen göçmenlerin sınır dışı edilmesi",
+      "entry_id": "130004454",
+      "author": "alexvegoll",
+      "date": "12.11.2021 14:24 ~ 14:25",
+      "content": "hangi ülkeye gönderildi sınır dışıdan kasıt neresi götürüp idlibe değil gidip esad'a teslim edeceksin bunları muz nasıl yenir görsünler",
+      "has_external_url": false
+    }
+  ]
+}

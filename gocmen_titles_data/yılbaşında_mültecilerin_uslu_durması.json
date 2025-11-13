@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:55:05.068381",
+    "total_entries": 1,
+    "input": "yılbaşında mültecilerin uslu durması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "yılbaşında mültecilerin uslu durması",
+      "entry_id": "147099948",
+      "author": "henkan",
+      "date": "02.01.2023 00:08",
+      "content": "ne taciz ne taşkınlık haberi var. zavallılar erken uyudu herhalde işe gitmek için.",
+      "has_external_url": false
+    }
+  ]
+}

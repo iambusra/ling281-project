@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:55:02.198641",
+    "total_entries": 1,
+    "input": "suriyeliler gidiyor diye ağlayan çakal patron",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeliler gidiyor diye ağlayan çakal patron",
+      "entry_id": "170863569",
+      "author": "yorgunfilozof",
+      "date": "09.12.2024 00:28 ~ 00:29",
+      "content": "insan değil köle çalıştıranların ağlamaya başlaması. istiyorlar ki günlük 200 lira yevmiye veriyim, sigorta ödemeyeyim, iş kazası olursa ne halin varsa gör diyip kapının önüne koyayım.",
+      "has_external_url": false
+    }
+  ]
+}

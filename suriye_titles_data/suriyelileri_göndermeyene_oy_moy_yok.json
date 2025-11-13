@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:01:16.268078",
+    "total_entries": 3,
+    "input": "suriyelileri göndermeyene oy moy yok",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelileri göndermeyene oy moy yok",
+      "entry_id": "129507718",
+      "author": "turk bilge kagan",
+      "date": "28.10.2021 00:21",
+      "content": "tüm gücümle haykırdığım söz.\n\nister suriye'ye gönderin, ister avrupa'ya. umurumda değil. kim çok seviyorsa onlar baksın. 5 litre yağı 80 liraya alan bu ulusun değil 80 milyar dolar, bu sömürgecilere verecek tek kuruş parası yoktur artık.\n\nisterseniz ağzınızla kuş tutun. bunu garanti etmeyene oy moy yok kardeşim.",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyelileri göndermeyene oy moy yok",
+      "entry_id": "137084390",
+      "author": "akrep yelkovan",
+      "date": "06.05.2022 11:28 ~ 11:29",
+      "content": "\"hepsini\" ibaresi eklenirse daha doğru olacağını düşündüğüm bir kampanya.",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyelileri göndermeyene oy moy yok",
+      "entry_id": "148970641",
+      "author": "canturkoglu",
+      "date": "10.02.2023 02:17",
+      "content": "desteklediğim kampanyadir",
+      "has_external_url": false
+    }
+  ]
+}

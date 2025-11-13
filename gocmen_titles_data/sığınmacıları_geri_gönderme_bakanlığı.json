@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:01:49.654883",
+    "total_entries": 1,
+    "input": "sığınmacıları geri gönderme bakanlığı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "sığınmacıları geri gönderme bakanlığı",
+      "entry_id": "132471737",
+      "author": "olyannur",
+      "date": "18.01.2022 04:02",
+      "content": "patronların ucuz işgücü talebine kimse meydan okuyamaz.\n\nne oldu sayın kılıçdaroğlu, suriyelileri gönderiyordun?\n\nekonomik krizin, akp'yi götüreceğini, yükü yükleneceğini anladın, bop'çuların planına kafa tutmanın ölüm demek olduğunu gördün ve sustun.",
+      "has_external_url": false
+    }
+  ]
+}

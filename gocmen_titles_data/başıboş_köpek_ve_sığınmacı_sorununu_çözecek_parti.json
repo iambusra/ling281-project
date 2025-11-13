@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:57:53.955491",
+    "total_entries": 1,
+    "input": "başıboş köpek ve sığınmacı sorununu çözecek parti",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "başıboş köpek ve sığınmacı sorununu çözecek parti",
+      "entry_id": "159512074",
+      "author": "el hombre biscolata",
+      "date": "08.12.2023 01:07",
+      "content": "net bir şekilde oyumu alacak partidir. öyle görünüyor ki her iki sorun da ne akp'nin ne chp'nin ne iyip'in, mhp'nin ne hdp'nin, tip'in umrunda...\n\nsokakta rahat yürüyemiyorsak ve ülkemiz güvenli değilse bunun iki büyük nedeni var. birisi kaçak göçek sığınmacılar, diğeri de başıboş köpeklerdir.\n\nözellikle çocuklarımız, kadınlarımız, engellilerimiz için her ikisi de çok tehlikeli. tehlikeden arınmış sokaklar istiyoruz. bunun için sığınmacılardan da sokak köpeklerinden de kurtulmamız şart.",
+      "has_external_url": false
+    }
+  ]
+}

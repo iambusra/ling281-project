@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:50:12.932996",
+    "total_entries": 1,
+    "input": "mültecileri ucuza çalıştıranların suçlu olması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "mültecileri ucuza çalıştıranların suçlu olması",
+      "entry_id": "137051610",
+      "author": "yermiyimyemem",
+      "date": "05.05.2022 17:29",
+      "content": "ne hacılar biliyoruz türk kiracıların çıkartıp yabancıya dolarla kiraya verdiler evlerini. yatacak yeriniz inşallah olmaz.",
+      "has_external_url": false
+    }
+  ]
+}

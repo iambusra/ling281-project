@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:06:06.570513",
+    "total_entries": 2,
+    "input": "göçmen sağlığı merkezi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "göçmen sağlığı merkezi",
+      "entry_id": "145288732",
+      "author": "macapapaz",
+      "date": "19.11.2022 10:34",
+      "content": "suriyelilerin aile sağlığı merkezi. akp hükümeti tarafindan kurulmuştur. ülkemize entegre olmak istemeyen araplar için arapça bilen personeller de istihdam edilmektedir. suriyeli nüfusunun 20 bini geçtiği yerlerde de bunun \"güçlendirilmiş\"i kuruluyormus. çocuk, kadın doğum, dahiliye gibi uzmanlar da görev yapıyormuş bu çok değerli araplarimiza.\n\nhttps://hsgm.saglik.gov.tr/…sağlığı-merkezleri.html",
+      "has_external_url": true
+    },
+    {
+      "title": "göçmen sağlığı merkezi",
+      "entry_id": "177533909",
+      "author": "berkalettin",
+      "date": "12.08.2025 16:24",
+      "content": "türkiye'de çalışan yabancıların aile hekimi hizmeti iptal edilip, \"göçmen\" statüsünde gönderildiği merkez.\n\neşim 8 yıldır türkiye'de. 8 yıldır sgk ödüyor. ben 20 yıldır sgk ödüyorum.\n\ndağ başındaki \"göçmen\" sağlığı merkezine sülalesine bedava bakılan suriyelilerin yanına gönderiliyorum.\n\nsebep? suriyelilere bedava verdiğimiz anlaşılmasın...\n\n\"aile hekimi\" dediğin şey aile için değil miydi arkadaş???\n\nsizin adaletinize ben!!!",
+      "has_external_url": false
+    }
+  ]
+}

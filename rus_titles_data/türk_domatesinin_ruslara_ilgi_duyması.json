@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:29:48.630047",
+    "total_entries": 2,
+    "input": "türk domatesinin ruslara ilgi duyması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türk domatesinin ruslara ilgi duyması",
+      "entry_id": "71538777",
+      "author": "sagliginiz icin",
+      "date": "21.10.2017 16:41",
+      "content": "rus enerji bakaninin aciklamasi\n\nhttp://www.ntv.com.tr/…verdi,rfgjajewlkwx6ew1y4allw\n\n-ne alakaysa, ruslar domatesten enerji uretiyor olabilir mi?-\n\nve bugun pazara -evet bazar- gidince gordugum domates fiyatlarindan cikardigim sonuc. gecen hafta diyelim 1 liraydi, bu hafta 3 lira, 5 lira...\n\nbence turk domatesinin ruslara karsi bi' ilgisi var.\n\nateistler bunu aciklasin. evet...",
+      "has_external_url": true
+    },
+    {
+      "title": "türk domatesinin ruslara ilgi duyması",
+      "entry_id": "71539086",
+      "author": "handcrafted",
+      "date": "21.10.2017 16:57",
+      "content": "(bkz: rusların türk domatesine ilgi duyması)\n\n(bkz: f/p si iyi)",
+      "has_external_url": false
+    }
+  ]
+}

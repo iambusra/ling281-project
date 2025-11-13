@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:25:47.059885",
+    "total_entries": 2,
+    "input": "köle gibi çalışan göçmenlerin 3 günlük tatili",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "köle gibi çalışan göçmenlerin 3 günlük tatili",
+      "entry_id": "137057277",
+      "author": "markasiz",
+      "date": "05.05.2022 19:55",
+      "content": "günde belki de 15-16 saat çalışıp sadece uyumak için zaman bulan göçmenler, 3 gün bayram tatilinde sanıyorum ki ilk tatillerini yaptılar. kendilerini sokaklara attılar ve ilk defa görünür oldular. bakın bu göçmen sorunu ilk defa bu sebeple görünür oldu. genelde insanlar sayıları gözlerinde canlandiramaz. 3-4 milyon göçmen denildiğinde 3 ile 4 milyon arasında neredeyse küçük bir avrupa ülkesi nüfusu olduğunu bilmezler.\n\nsosyal medyada çekilen videolar, askerlerin çarşı iznine çıkma heyecanları gibi heyecanlar yaşayan göçmenler bir günlük tatilde ayyuka çıktı bence.\n\nşimdi muhtemelen köle çalıştıran işletmelerin sahipleri akp'ye verdikleri zararı yeni yeni anlıyorlar ve belki de bir daha köle caliatiramayip batacak işletmeleri. şu 3 günlük tatil resmen ülkenin kırılma anı.\n\nteşekkürler sevgili haklarını alamadan kaçak çalışan göçmen dostlarımız.",
+      "has_external_url": false
+    },
+    {
+      "title": "köle gibi çalışan göçmenlerin 3 günlük tatili",
+      "entry_id": "137060271",
+      "author": "markasiz",
+      "date": "05.05.2022 21:08",
+      "content": "ülkemde çöp ayıklama işlerini, lağım temizleme işlerini suriyelilere afganlata verdikleri için işsiz kalıyoruz diyen kimse yoktur sanırım. ama yine de önemli bir 3 günlük tatildir.",
+      "has_external_url": false
+    }
+  ]
+}

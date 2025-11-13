@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:29:58.151380",
+    "total_entries": 1,
+    "input": "abdülhamit'in batum'u ruslara bedava bırakması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "abdülhamit'in batum'u ruslara bedava bırakması",
+      "entry_id": "49522064",
+      "author": "barisunver",
+      "date": "28.02.2015 22:53 ~ 22:54",
+      "content": "bu bilgiyi abdülkadir selvi veya nagehan alçı'yla paylaşacak olursanız hemen darbeci ve paralel ilan edilebilirsiniz.",
+      "has_external_url": false
+    }
+  ]
+}

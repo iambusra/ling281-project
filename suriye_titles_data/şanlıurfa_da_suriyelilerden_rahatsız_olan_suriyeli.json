@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:45:08.251508",
+    "total_entries": 4,
+    "input": "şanlıurfa'da suriyelilerden rahatsız olan suriyeli",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "şanlıurfa'da suriyelilerden rahatsız olan suriyeli",
+      "entry_id": "141682574",
+      "author": "bu nick bulunamadi",
+      "date": "23.08.2022 11:19",
+      "content": "yanlış okumadınız, ülkemize gelip (gerçi anası-babası gelmiş, o burada doğmuş) kendi vatandaşından rahatsız olan ve bunu da urfa şivesiyle dile getiren bir kız. yorumsuz.\n\nhttps://twitter.com/…?t=mqmh77oixif_vf05xowwyw&s=19",
+      "has_external_url": true
+    },
+    {
+      "title": "şanlıurfa'da suriyelilerden rahatsız olan suriyeli",
+      "entry_id": "141682650",
+      "author": "terminus yerlisi",
+      "date": "23.08.2022 11:21",
+      "content": "(bkz: adamın gol diyo)",
+      "has_external_url": false
+    },
+    {
+      "title": "şanlıurfa'da suriyelilerden rahatsız olan suriyeli",
+      "entry_id": "141683313",
+      "author": "mr ldg",
+      "date": "23.08.2022 11:39",
+      "content": "\"almanya'da türkleri istemeyen türk\"\n\n\"türkiye'de suriyelileri istemeyen suriyeli\"\n\nsame shit.\n\ngörsel",
+      "has_external_url": true
+    },
+    {
+      "title": "şanlıurfa'da suriyelilerden rahatsız olan suriyeli",
+      "entry_id": "141683816",
+      "author": "ucarperest",
+      "date": "23.08.2022 11:54",
+      "content": "almanya'da yaşayıp türkler gelmesin diyenlerle aynı olaydır.",
+      "has_external_url": false
+    }
+  ]
+}

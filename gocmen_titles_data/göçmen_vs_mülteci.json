@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:39:05.596979",
+    "total_entries": 3,
+    "input": "göçmen vs mülteci",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "göçmen vs mülteci",
+      "entry_id": "61732733",
+      "author": "porphyry",
+      "date": "15.07.2016 10:38 ~ 10:43",
+      "content": "yasadıgınız ulkeden baska bir ulkeye, ornegin turkiye'den almanya'ya, yasamayi planladigiz ulkeye giris yapmak icin aldiginiz vize ve pasaportunuzla seyahat ederseniz - olasilikla ekonomik sinifta ucarsiniz, ucakta koltugunuza yaslanip film izlersiniz. giysilerinizi, sevdiginiz bazi yiyecekleri bavulunuzdadir. ulkeye vardiginizda kalacak yeriniz bellidir, akrabalariniz vardir size destek olcak, is bulursunuz vs - bu durumda siz gocmensinizdir.\nbir gocmen saatlerce diyelim ormanda yuruyorsa, yine ormanda ya da sahilde uyuyorsa, tum sahip oldugu seyleri bir cantanin icinde sigdirmissa, kendi yasami, cocuklarinin ve ailesinin yasami icin korkuyorsa, cocugu sirtinda tasiyorsa; bombalanmis evini, ulkesini geride birakmissa; iskence ve tecavuzden, kadin sunnetinden, acliktan vs. kaciyorsa artik bir gocmen degil multecidir.\nve gocmenin daha iyi bir yasam kurmak amaciyla gittigi yere multeci olmemek icin gider.\nbu dunyada her bir birey iyi bir yasami hak eder.",
+      "has_external_url": false
+    },
+    {
+      "title": "göçmen vs mülteci",
+      "entry_id": "166717586",
+      "author": "aykoliye",
+      "date": "27.07.2024 20:20 ~ 20:34",
+      "content": "fark vardır ama fatih altaylı niye göçmen sorunu demiş, mülteci sorunu dememiş çok bilmişler.\n\nhttps://x.com/…mbargo_tv/status/1781225749594227187",
+      "has_external_url": true
+    },
+    {
+      "title": "göçmen vs mülteci",
+      "entry_id": "166717752",
+      "author": "elitist",
+      "date": "27.07.2024 20:28",
+      "content": "fatih altayli'yi turkce konusunda referans almak da ne bileyim.",
+      "has_external_url": false
+    }
+  ]
+}

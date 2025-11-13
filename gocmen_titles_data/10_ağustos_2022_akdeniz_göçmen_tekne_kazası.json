@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T00:01:50.450409",
+    "total_entries": 1,
+    "input": "10 ağustos 2022 akdeniz göçmen tekne kazası",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "10 ağustos 2022 akdeniz göçmen tekne kazası",
+      "entry_id": "141137096",
+      "author": "dead application",
+      "date": "10.08.2022 19:09",
+      "content": "yunan sahil güvenliğinin aktardığına göre antalyadan yola çıkan göçmenleri taşıyan tekne kerpe adası yakınlarında battı. 51 kişinin kayıp olduğu bildirildi.\nonedio haberi",
+      "has_external_url": true
+    }
+  ]
+}

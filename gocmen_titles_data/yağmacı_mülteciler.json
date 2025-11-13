@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:48:02.635992",
+    "total_entries": 4,
+    "input": "yağmacı mülteciler",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "yağmacı mülteciler",
+      "entry_id": "148794214",
+      "author": "cello ogrenmek ne zor",
+      "date": "08.02.2023 05:19",
+      "content": "gündemde tutulması gereken başlık. güvenlik sağlanmalı.",
+      "has_external_url": false
+    },
+    {
+      "title": "yağmacı mülteciler",
+      "entry_id": "148794392",
+      "author": "nicknamebuldum",
+      "date": "08.02.2023 05:31",
+      "content": "zafer turizme gerek yok biz zafer cenaze hizmetleri istiyoruz",
+      "has_external_url": false
+    },
+    {
+      "title": "yağmacı mülteciler",
+      "entry_id": "148794663",
+      "author": "ni merci",
+      "date": "08.02.2023 05:51",
+      "content": "yalnız bu kriminal suriyelileri ulkemize buyur eden akp'nin değil,\nychp'nin sesi halktvnin de laf söyletmediği kutsal hırsızların marifetidir.\n\nne yazık ki, örtmenim ayetullah silgimi aldi vermiyo gibi şikayetle olacak gibi değil. orada hakemlik yapacak kimse yok ne yazık ki.\n\ndepremzedeler aralarında anlaşıp, hepbirlikte tekme tokat hırsızlara haddini bildirmedikçe yalnızca mallara değil, kadınlara, çocuklara da dadanabilirler.",
+      "has_external_url": false
+    },
+    {
+      "title": "yağmacı mülteciler",
+      "entry_id": "148803436",
+      "author": "durbidakka",
+      "date": "08.02.2023 10:57",
+      "content": "\"acıma yetime döner koyar götüne\" lafının ete kemiğe bürünmüş halidir.",
+      "has_external_url": false
+    }
+  ]
+}

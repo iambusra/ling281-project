@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:35:21.866344",
+    "total_entries": 1,
+    "input": "13 mart rusların ny times muhabirini öldürmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "13 mart rusların ny times muhabirini öldürmesi",
+      "entry_id": "134883771",
+      "author": "porselenadam",
+      "date": "13.03.2022 16:28 ~ 16:29",
+      "content": "üst edit: başlık açılmış sanırım oraya taşınabilir.\n\nbaşlığın tam hali: “13 mart 2022 rusların ny times muhabirini kontrol noktasında öldürmesi olacaktı”\n\nkaynağa göre ny times muhabiri rus güçleri tarafından öldürülmüş. gazetecinin abd pasaportuna sahip olduğu görülüyor.\n\n“bir new york times muhabiri irpen'de vurularak öldürüldü. bir gazeteci daha yaralandı\n\n“kiev bölge polisi başkanı andriy nebitov, \"işgalciler, rus birliklerinin ukrayna'daki vahşeti hakkında gerçeği göstermeye çalışan uluslararası medya gazetecilerini bile alaycı bir şekilde öldürüyor\" diyor.”\n\n+18\n\nkaynak\n\n+18",
+      "has_external_url": true
+    }
+  ]
+}

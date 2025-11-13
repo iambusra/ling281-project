@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:13:02.380442",
+    "total_entries": 1,
+    "input": "türkiyedeki suriyelileri dönmeye motive edecek şey",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türkiyedeki suriyelileri dönmeye motive edecek şey",
+      "entry_id": "170863773",
+      "author": "sawbinjip",
+      "date": "09.12.2024 00:34",
+      "content": "düşünüp bulamadığım şey.\nülkesinde savaş var diye türkiyeye göçmüş, bir şekilde düzenini kurmuş suriyeli biri şam düşer düşmez geri ne için döner düşündüm bulamadım.\nyani bir günde bir ülke kendileri için güvenli bir hale gelmiş olamaz gibi.\neğer motive oldukları birşey varsa bilelim de elden ele yayalım. belki birkaç kişinin daha ülkelerine kavuşmasına vesile oluruz",
+      "has_external_url": false
+    }
+  ]
+}

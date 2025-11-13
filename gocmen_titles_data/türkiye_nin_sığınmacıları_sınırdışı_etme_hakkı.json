@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:01:59.083504",
+    "total_entries": 1,
+    "input": "türkiye'nin sığınmacıları sınırdışı etme hakkı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türkiye'nin sığınmacıları sınırdışı etme hakkı",
+      "entry_id": "93216017",
+      "author": "0 5 ucu olan adam",
+      "date": "29.07.2019 09:31",
+      "content": "böyle bir hakkın olmadığı uzundur türk halkının zihnine, ab ve abd kaynaklı örgütlerce kazınmaya çalışılıyor.\n\nancak bu hak türkiye'nin yasal hakkıdır.\n\nprof. dr. ümit özdağ: türkıye'nin sığınmacıları sınırdışı etme hakkı geçici koruma yönetmeliği'nin 8. md,(link: http://11.md/) 11.md, md. 12,md, md 14 ve md 15'de verilmiştir. ulusal güvenlik ve kamu güvenliği sınırdışı etme için gerekçe olarak sayılmış .",
+      "has_external_url": true
+    }
+  ]
+}

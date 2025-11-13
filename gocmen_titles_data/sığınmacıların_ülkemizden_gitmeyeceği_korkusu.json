@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:04:56.403001",
+    "total_entries": 4,
+    "input": "sığınmacıların ülkemizden gitmeyeceği korkusu",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "sığınmacıların ülkemizden gitmeyeceği korkusu",
+      "entry_id": "144588070",
+      "author": "istebuarimaya",
+      "date": "01.11.2022 16:59",
+      "content": "toplumun üstüne karabulut gibi çöken korku.\n\nsığınmacılar hem toplumsal düzeni hem güvenliğimizi tehdit ediyor, hem de ekonomik sıkışma ile geleceğimizi tehdit ediyor.\n\nsığınmacılar gitmeyecek gibi rahatlar, her gün artarak vatandaşlık alıyorlar. bu korku ile yaşamak kolay değil. bir kadın için hiç kolay değil.",
+      "has_external_url": false
+    },
+    {
+      "title": "sığınmacıların ülkemizden gitmeyeceği korkusu",
+      "entry_id": "144588174",
+      "author": "korganov",
+      "date": "01.11.2022 17:03 ~ 17:08",
+      "content": "öyle bir güzel gidecekler ki tüm dünya hayran kalacak. yok öyle “esad ile anlaşalım davul zurna ile gönderelim” diyen tatlı su solcularının söylemleri ile değil elbette. her birinin ikameti belli. güvenlik güçleri tek tek, kapı kapı toplayacak ve türk silahlı kuvvetleri'nin suriye'nin kuzeyinde oluşturduğu (ve oluşturacağı) güvenli bölgeye kara yoluyla nakil edilecekler.\n\nülke dört bir yandan, yedi kollu millet tarafından istila edilmektedir. bozulan demografik yapı geri dönülmez şekilde türkiye cumhuriyeti'nin temeline dinamit koymaktadır.\n\nya bu ülkeyi muasır medeniyetler seviyesinin üstüne çıkaracağız ya da orta doğu çöplüğünde boğulacağız. seçim senin türk halkı!",
+      "has_external_url": false
+    },
+    {
+      "title": "sığınmacıların ülkemizden gitmeyeceği korkusu",
+      "entry_id": "144588608",
+      "author": "yakinmisin",
+      "date": "01.11.2022 17:17",
+      "content": "sadece bu sebepten tek seferlik zafer partisine oy vermemi sağlayacak korkudur.",
+      "has_external_url": false
+    },
+    {
+      "title": "sığınmacıların ülkemizden gitmeyeceği korkusu",
+      "entry_id": "144589836",
+      "author": "obispo",
+      "date": "01.11.2022 17:57",
+      "content": "(bkz: sığınkalofobi)",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:24:41.061729",
+    "total_entries": 7,
+    "input": "rus borsasındaki kaybın yüzde 9'a ulaşması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rus borsasındaki kaybın yüzde 9'a ulaşması",
+      "entry_id": "56685577",
+      "author": "obikapbubikap",
+      "date": "03.12.2015 13:08",
+      "content": "anadolu ajansı verilerine göre %9cuk düşüşün şaşkınlığa sebep olduğu hadise.\n\nkendilerinden en az %51 düşüş haberi beklerdim.",
+      "has_external_url": false
+    },
+    {
+      "title": "rus borsasındaki kaybın yüzde 9'a ulaşması",
+      "entry_id": "56685616",
+      "author": "sinirli anima geldi",
+      "date": "03.12.2015 13:10",
+      "content": "en dipten kum çıkartmaları dileklerimle. beter olsunlar.",
+      "has_external_url": false
+    },
+    {
+      "title": "rus borsasındaki kaybın yüzde 9'a ulaşması",
+      "entry_id": "56685791",
+      "author": "arthon",
+      "date": "03.12.2015 13:19 ~ 13:23",
+      "content": "ne kaybı? 15 günde %3 artmıştır...\nlink (yandaş medya değil borsa linkidir)\nneyse canım banane. ustanız çile çekmeye alışığız diyip sarayında para yakarak ısınırken tezek yakan siz olacaksınız.",
+      "has_external_url": true
+    },
+    {
+      "title": "rus borsasındaki kaybın yüzde 9'a ulaşması",
+      "entry_id": "56686222",
+      "author": "recond1te",
+      "date": "03.12.2015 13:39 ~ 13:43",
+      "content": "bir insan, kendi verdiği linki okuyamayacak kadar beyinsiz olabilir mi? bizim ülkemizde olabilir..\n\n24 kasım açılış (894)\n2 aralık kapanış (834)\n\nuçak vurulma olayından beri kayıp = -%7\n\nbist 100 için bu rakam = -%4.5\n\nözetle, bu gerilimin kazananı olmaz.",
+      "has_external_url": false
+    },
+    {
+      "title": "rus borsasındaki kaybın yüzde 9'a ulaşması",
+      "entry_id": "56686458",
+      "author": "mikado1216",
+      "date": "03.12.2015 13:49",
+      "content": "rus votkası içen türkün borsaları şasırması sonucu g.tü kaybetmesi",
+      "has_external_url": false
+    },
+    {
+      "title": "rus borsasındaki kaybın yüzde 9'a ulaşması",
+      "entry_id": "56686919",
+      "author": "peaceathome",
+      "date": "03.12.2015 14:10",
+      "content": "batsın pezevenkler, tohumlarına para mı saydık diyeceğim kayıptır..",
+      "has_external_url": false
+    },
+    {
+      "title": "rus borsasındaki kaybın yüzde 9'a ulaşması",
+      "entry_id": "56691643",
+      "author": "arthon",
+      "date": "03.12.2015 17:55",
+      "content": "hülooğcuları sevindirir. sanırsın ki onların kaybettiği %9'u biz kazandık. farkında değil ki biz de %5 kaybettik.",
+      "has_external_url": false
+    }
+  ]
+}

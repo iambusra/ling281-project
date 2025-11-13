@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:54:58.109501",
+    "total_entries": 1,
+    "input": "mültecilerin kuracağı parti",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "mültecilerin kuracağı parti",
+      "entry_id": "152408843",
+      "author": "road to red",
+      "date": "15.05.2023 12:40 ~ 12:43",
+      "content": "artık 2. turda erdoğanın kazanacak olmasıyla buna doğru gidilecektir. arapçada eğitim özerk bir arap devleti türk ifadesine ilişkin yeni rahatsızlıklar istiklal marşının kaldırılması beklentilerim arasında. acaba kürtlerle araplar ittifak yapar mı sonraki seçimde diye de düşünüyorum. hadi canım diyenler isveç'e bakabilir",
+      "has_external_url": false
+    }
+  ]
+}

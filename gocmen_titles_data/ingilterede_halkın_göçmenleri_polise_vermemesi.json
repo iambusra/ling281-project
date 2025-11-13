@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:19:55.651746",
+    "total_entries": 3,
+    "input": "ingilterede halkın göçmenleri polise vermemesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ingilterede halkın göçmenleri polise vermemesi",
+      "entry_id": "123227477",
+      "author": "bi mevzu var da",
+      "date": "14.05.2021 10:09",
+      "content": "iskoçya'nın glaskov şehrinde göçmenleri sınır dışı etmek için gelen polise 8 saat direndikten sonra komşularını kurtarmışlar.\ntwitterda #kenmurestreet hashtagiyle bir çok paylaşım var.\n\nhttps://twitter.com/…en1/status/1392883317188481026",
+      "has_external_url": true
+    },
+    {
+      "title": "ingilterede halkın göçmenleri polise vermemesi",
+      "entry_id": "123227658",
+      "author": "beersheva",
+      "date": "14.05.2021 10:17",
+      "content": "(bkz: birleşik krallık'a ingiltere demek)\n(bkz: iskoçya)\n(bkz: glasgow)",
+      "has_external_url": false
+    },
+    {
+      "title": "ingilterede halkın göçmenleri polise vermemesi",
+      "entry_id": "123534832",
+      "author": "stonewall",
+      "date": "20.05.2021 21:40 ~ 21:41",
+      "content": "ingiltere gibi sömürgeci bir ülkenin, insan hakları na değer verdiğini iddia edenleri gördüğümüz başlık. ayrıca haberde yer alan söz konusu ülke iskoçya .",
+      "has_external_url": false
+    }
+  ]
+}

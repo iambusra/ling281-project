@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:25:16.557895",
+    "total_entries": 2,
+    "input": "bir türk on rusa bedeldir",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "bir türk on rusa bedeldir",
+      "entry_id": "81397680",
+      "author": "hashim",
+      "date": "18.09.2018 07:51",
+      "content": "tersidir:)",
+      "has_external_url": false
+    },
+    {
+      "title": "bir türk on rusa bedeldir",
+      "entry_id": "81397696",
+      "author": "logged7234",
+      "date": "18.09.2018 07:52",
+      "content": "kadınları için ise tam tersi durumdur.",
+      "has_external_url": false
+    }
+  ]
+}

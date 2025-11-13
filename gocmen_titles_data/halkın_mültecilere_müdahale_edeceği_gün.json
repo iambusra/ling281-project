@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:51:24.038220",
+    "total_entries": 1,
+    "input": "halkın mültecilere müdahale edeceği gün",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "halkın mültecilere müdahale edeceği gün",
+      "entry_id": "136165471",
+      "author": "musclemania",
+      "date": "13.04.2022 19:39",
+      "content": "merakla ve sabırsızlıkla beklediğimdir.",
+      "has_external_url": false
+    }
+  ]
+}

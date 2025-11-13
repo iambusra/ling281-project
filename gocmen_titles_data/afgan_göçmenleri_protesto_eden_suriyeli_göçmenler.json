@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:20:33.023852",
+    "total_entries": 3,
+    "input": "afgan göçmenleri protesto eden suriyeli göçmenler",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "afgan göçmenleri protesto eden suriyeli göçmenler",
+      "entry_id": "75892585",
+      "author": "medetres",
+      "date": "10.04.2018 17:50",
+      "content": "dolu minibüse kendinden sonra binenlere mülteci muamelesi yapan insanlarımızdan sonra hiç garip gelmedi.",
+      "has_external_url": false
+    },
+    {
+      "title": "afgan göçmenleri protesto eden suriyeli göçmenler",
+      "entry_id": "75901297",
+      "author": "murat yuzyirmidordunu satan bilge",
+      "date": "10.04.2018 22:55",
+      "content": "yedikleri milyonlara ortak geliyor diye korkmuşlardır. gelin gelin, hepiniz gelin amk, türkiye cumhuriyeti'nin malı deniz (yi)yemeyen zaten türk... osmanlı bile bu kadar aşağılamamıştı bu türk adını ve türk'ü...",
+      "has_external_url": false
+    },
+    {
+      "title": "afgan göçmenleri protesto eden suriyeli göçmenler",
+      "entry_id": "75901443",
+      "author": "vercingetorixxi",
+      "date": "10.04.2018 22:59",
+      "content": "yalandır. ilgili sıçmıktaki görselin hakikisi;\n\nhttps://img.haberler.com/…protesto--7856729_x_o.jpg\n\nhaber;\n\nhttps://www.haberler.com/…esto-etti-7856729-haberi/",
+      "has_external_url": true
+    }
+  ]
+}

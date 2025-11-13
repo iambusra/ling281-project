@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:17:47.873513",
+    "total_entries": 1,
+    "input": "bakanlıkta kayıtlı ama kayıtsız afgan göçmenler",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "bakanlıkta kayıtlı ama kayıtsız afgan göçmenler",
+      "entry_id": "127383529",
+      "author": "guerra",
+      "date": "27.08.2021 10:43",
+      "content": "içişleri bakanlığında kayıtlı ama kayıtsız nasıl olunuyor anlaşılması zor bir durum. içişlerinde kayıtlıysa nerede kayıtlı değiller?\n\n\"cumhurbaşkanı erdoğan, içişleri bakanlığının kayıtlarında kayıtlı, kayıtsız, afganistan'dan mevcut göçmen sayısının 300 bin olduğunu söyleyerek, \"bizler göç olayında çok hassasız. iran sınırından ırak ve suriye sınırına kadar neredeyse her yeri duvarlarla örüyoruz.\" diye konuştu. \"\n\nhttps://www.aa.com.tr/…ocmen-sayisi-300-bin/2347600",
+      "has_external_url": true
+    }
+  ]
+}

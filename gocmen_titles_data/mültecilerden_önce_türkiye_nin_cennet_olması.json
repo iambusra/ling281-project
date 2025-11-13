@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:51:58.355655",
+    "total_entries": 2,
+    "input": "mültecilerden önce türkiye'nin cennet olması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "mültecilerden önce türkiye'nin cennet olması",
+      "entry_id": "138752103",
+      "author": "ottoviii",
+      "date": "14.06.2022 16:18 ~ 16:19",
+      "content": "bu ülkenin en büyük sorunu mülteciler değildir. öğrenin bunu artık.",
+      "has_external_url": false
+    },
+    {
+      "title": "mültecilerden önce türkiye'nin cennet olması",
+      "entry_id": "138868416",
+      "author": "jengrace",
+      "date": "17.06.2022 10:15",
+      "content": "her ne kadar başlığı açan ironi yapıyor olsa da, ırkçıların kafası aynen bu şekilde çalışıyor. üzücü, bunca kritik sorun var iken dertleri yabancı düşmanlığı tabii.",
+      "has_external_url": false
+    }
+  ]
+}

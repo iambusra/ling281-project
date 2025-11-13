@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:40:30.781260",
+    "total_entries": 3,
+    "input": "böbreğini 10 bin tl ye satan satan suriyeli",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "böbreğini 10 bin tl ye satan satan suriyeli",
+      "entry_id": "92117497",
+      "author": "sosyalsabotaj",
+      "date": "04.07.2019 00:47",
+      "content": "ülkesini satmıştır\nşu saatten sonra\nböbrek pek mühim değildir herhalde.",
+      "has_external_url": false
+    },
+    {
+      "title": "böbreğini 10 bin tl ye satan satan suriyeli",
+      "entry_id": "92117775",
+      "author": "secura",
+      "date": "04.07.2019 00:52",
+      "content": "ucuza satmıştır. organ piyasasında böbreğin ederi takribi 70 bin dolardır.",
+      "has_external_url": false
+    },
+    {
+      "title": "böbreğini 10 bin tl ye satan satan suriyeli",
+      "entry_id": "92118406",
+      "author": "nikimikedi7",
+      "date": "04.07.2019 01:03",
+      "content": "satacak olsam milyondan aşağı olmamalı diye düşünürüm.\n\nallah kimseyi bu durumlara düşürmesin dediğim suriyeli.",
+      "has_external_url": false
+    }
+  ]
+}

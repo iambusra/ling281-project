@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:25:54.129567",
+    "total_entries": 1,
+    "input": "göçmenlerin türkleştirilmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "göçmenlerin türkleştirilmesi",
+      "entry_id": "136705139",
+      "author": "cift l li entellektuel",
+      "date": "27.04.2022 00:00",
+      "content": "ülkemizdeki yaklaşık 10 milyon sığınmacının geri dönüşünün realitede mümkün olmaması nedeniyle ülke menfaati adına yapılması gereken eylem. ilk önerim, göçmenlere türkçe'nin kullanım zorunluluğu getirilmesi.",
+      "has_external_url": false
+    }
+  ]
+}

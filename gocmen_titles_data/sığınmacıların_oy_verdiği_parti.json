@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:05:01.058701",
+    "total_entries": 1,
+    "input": "sığınmacıların oy verdiği parti",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "sığınmacıların oy verdiği parti",
+      "entry_id": "141770695",
+      "author": "hitme",
+      "date": "25.08.2022 10:25",
+      "content": "zafer partisine versinler çünkü başka türlü evlerine dönemeyecekler",
+      "has_external_url": false
+    }
+  ]
+}

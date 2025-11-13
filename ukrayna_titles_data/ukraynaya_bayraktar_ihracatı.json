@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:09:25.221312",
+    "total_entries": 1,
+    "input": "ukraynaya bayraktar ihracatı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukraynaya bayraktar ihracatı",
+      "entry_id": "85433264",
+      "author": "yuzbasi sancar",
+      "date": "12.01.2019 17:37",
+      "content": "ukrayna devlet başkanı antlaşma imzalandığına dair açıklamada bulundu.\n\nhayırlı olsun.\n\n(bkz: bayraktar taktik insansız hava aracı)",
+      "has_external_url": false
+    }
+  ]
+}

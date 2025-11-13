@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:06:11.011940",
+    "total_entries": 3,
+    "input": "porsche 911 turbo ukrayna ve türkiye fiyatı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "porsche 911 turbo ukrayna ve türkiye fiyatı",
+      "entry_id": "166404854",
+      "author": "suvari07",
+      "date": "17.07.2024 11:54",
+      "content": "https://x.com/…aro_ekrem/status/1813497064241689032\n\nsavaşta olan ukraynada 200 bin dolara satılan araba türkiye'de nerdeyse 1 milyon dolar.\n\nvergi alınsın tabi alınmasın demiyorum ama bu neyin vergisi böyle abi. benzer durumlar alt seviye arabalar içinde geçerli.",
+      "has_external_url": true
+    },
+    {
+      "title": "porsche 911 turbo ukrayna ve türkiye fiyatı",
+      "entry_id": "166405009",
+      "author": "benuzun",
+      "date": "17.07.2024 12:01",
+      "content": "geri kalmış ülke nedir? nasıl olunur?",
+      "has_external_url": false
+    },
+    {
+      "title": "porsche 911 turbo ukrayna ve türkiye fiyatı",
+      "entry_id": "166405826",
+      "author": "onubiayarlicam",
+      "date": "17.07.2024 12:34",
+      "content": "metalik boya farkıdır o",
+      "has_external_url": false
+    }
+  ]
+}

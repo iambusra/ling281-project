@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:07:59.858255",
+    "total_entries": 4,
+    "input": "suriyeliyle evlenen türk kızının olmaması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeliyle evlenen türk kızının olmaması",
+      "entry_id": "123473320",
+      "author": "nickeymause",
+      "date": "19.05.2021 16:02",
+      "content": "(bkz: türk kızıyla suriyelinin bile evlenmemesi) de olabilir mi?",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyeliyle evlenen türk kızının olmaması",
+      "entry_id": "123473519",
+      "author": "ssska",
+      "date": "19.05.2021 16:07",
+      "content": "aynı ülkede yaşamak, evlenmeyi gerektirmez. tercih meselesi, böyle bir tercih ise sorgulanamaz. çünkü bu tercihin sonucu sadece evlenecek kadını etkiler.",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyeliyle evlenen türk kızının olmaması",
+      "entry_id": "123473526",
+      "author": "bulutlari bekleyen",
+      "date": "19.05.2021 16:07",
+      "content": "entegrasyon sürüyor. on yıl sonra pek çok evlilik görülecektir türk kızları ve suriyeli erkekler arasında.",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyeliyle evlenen türk kızının olmaması",
+      "entry_id": "123473541",
+      "author": "hacci dayi",
+      "date": "19.05.2021 16:07",
+      "content": "yukarıdaki arkadaşında dediği gibi adamlar manyak mı türk kızıyla evlensin. bu kadar boş kapris, şikayet, memnuniyetsizlik başka hangi toplumun kadınlarında vardır yada varmıdır bilemiyorum.",
+      "has_external_url": false
+    }
+  ]
+}

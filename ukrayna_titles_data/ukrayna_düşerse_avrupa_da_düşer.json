@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:13:06.263832",
+    "total_entries": 1,
+    "input": "ukrayna düşerse avrupa da düşer",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukrayna düşerse avrupa da düşer",
+      "entry_id": "134514376",
+      "author": "tabudeviren",
+      "date": "04.03.2022 22:41",
+      "content": "ukrayna devlet başkanı volodimir zelenskiy açıklaması.\n\n\"ukrayna devlet başkanı, avrupa birliği'ne çağrı yaparak, “ukrayna düşerse avrupa düşer. yaşananları göz ardı etmeyin. dışarı çıkın ve ukrayna’yı elinizden geldiğince destekleyin” dedi.\" ~",
+      "has_external_url": true
+    }
+  ]
+}

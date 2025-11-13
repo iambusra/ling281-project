@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:40:01.159753",
+    "total_entries": 4,
+    "input": "mülteci botu",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "mülteci botu",
+      "entry_id": "131360047",
+      "author": "umitucar",
+      "date": "20.12.2021 18:42 ~ 18:46",
+      "content": "ülkenin gidişatına istinaden yatırım amacıyla almayı düşündüğüm ulaşım aracı.\nmülteci şirketi kurup ege üzerinden yunanistan, ispanya, italya gibi ülkelerin sahillerine gençlerimizi ulaştırma hizmeti vermek gibi bir düşüncem var.\n\nhükümetimizin faizleri biraz daha düşürmesini bekliyorum. kredi çekip şirketi kurarım. güzel ülkemizde imkanlar hiç bitmiyor.\nteşekkürler uzun adam!\n\nedit: umarım fikrimi çalan olmaz.\n1 botu alıyorum\n2 ayla ile aramı düzeltiyorum\n3 şirketi kuruyorum",
+      "has_external_url": false
+    },
+    {
+      "title": "mülteci botu",
+      "entry_id": "137305692",
+      "author": "umitucar",
+      "date": "11.05.2022 10:56 ~ 12:11",
+      "content": "ilk girdiden beri epey yol aldığım proje. deep start up adı altında bir oluşum buldum. yasal olmayan ürünlerin start up'ıymış. aslında mülteci botu şirketi kurmanın neden yasal olmadığını da anlamadım ya neyse.\n\nbelirli düzeyde ekonomik koşulları sağladım ama henüz istediğim seviyede değilim. mülteci misafirlerimizi her hava koşulunda gitmek istedikleri ülkeye taşıyacak güvenli botlar üretip onların naklini sağlamak için biraz daha yatırımcıya ihtiyacım var.\n\nhiç kimse doğduğu yerde yaşamak zorunda değil. ayrıca insanı geliştiren en önemli faktör göçtür. kültürel ve biyolojik olarak insanlığın gelişimine de katkı sağlamak isteyen yatımcılara bir yeşil uzaklıktayım.",
+      "has_external_url": false
+    },
+    {
+      "title": "mülteci botu",
+      "entry_id": "165897105",
+      "author": "babyface61",
+      "date": "01.07.2024 18:41",
+      "content": "çoğu zaman batan ve patlatılan bot türüdür.",
+      "has_external_url": false
+    },
+    {
+      "title": "mülteci botu",
+      "entry_id": "165897243",
+      "author": "rarura",
+      "date": "01.07.2024 18:46",
+      "content": "yunanlılar tarafında batırılan yada türk karasularına dehlenen bot türü. kaçakçılar için niye para veriyorlar anlamıyor bu botlar oldukça ucuz. kısa bir eğitim/araştırma ile yunan adalarına ulaşılabilir de orada da mültecileri pek iyi şeyler beklemiyor.",
+      "has_external_url": false
+    }
+  ]
+}

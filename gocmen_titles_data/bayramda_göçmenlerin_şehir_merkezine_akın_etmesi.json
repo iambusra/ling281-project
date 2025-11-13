@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:25:49.407852",
+    "total_entries": 1,
+    "input": "bayramda göçmenlerin şehir merkezine akın etmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "bayramda göçmenlerin şehir merkezine akın etmesi",
+      "entry_id": "137033335",
+      "author": "ti mani",
+      "date": "05.05.2022 07:06",
+      "content": "ülkemize has bir durum değil. bayramlarda yerli halk metropolleri terk edip memleketlerine, küçük şehirlere giderken ülkedeki göçmenler ise sehir merkezinde toplanır.\nbunu istila diye sunmamak lazım.\ngüney kore ve japonya gibi dünyanın bir ucundaki ülkelerde dahi çin yeni yılı veya chuseok dedikleri hasat bayramlarinda seul ve tokyo'nun merkezi noktalari bildiğin ortadoğu ve afrika şehri gibi oluyor.\nyıllar önce kore'de bayram olduğunu bilmeden chuseok vakti seul'e tatile gitmiştim. ozellikle itaewon denen bölgede inanın 100 kişiden sadece bir ikisi koreliydi. belki onlar da çinliydi de ben koreli zannettim.\ntatil bitince çoğu, çalıştıkları fabrikalara, tarım bölgelerine dönen insanlar.",
+      "has_external_url": false
+    }
+  ]
+}

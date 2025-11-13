@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-10T23:31:51.151222",
+    "total_entries": 1,
+    "input": "1 suriyeli 11 imza",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "1 suriyeli 11 imza",
+      "entry_id": "84465607",
+      "author": "panpito",
+      "date": "17.12.2018 09:13",
+      "content": "böyle muhteşem bir kampanyayı kendi vatandaşının ne tür bir ibne olduğunun farkında olmayan zekalar düşünür zaten, amk devletten aldığı paradan 100 er lira vererek kelle başı adam 1 saat içinde toplar getirir sana o 11 imzayı, raad ol sen",
+      "has_external_url": false
+    }
+  ]
+}

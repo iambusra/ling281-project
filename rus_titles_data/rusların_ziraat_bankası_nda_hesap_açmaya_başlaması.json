@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:35:25.065865",
+    "total_entries": 4,
+    "input": "rusların ziraat bankası'nda hesap açmaya başlaması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rusların ziraat bankası'nda hesap açmaya başlaması",
+      "entry_id": "134710750",
+      "author": "bilirsinizm",
+      "date": "09.03.2022 16:18",
+      "content": "kaynak",
+      "has_external_url": true
+    },
+    {
+      "title": "rusların ziraat bankası'nda hesap açmaya başlaması",
+      "entry_id": "134710848",
+      "author": "manasi olmayan vatandas",
+      "date": "09.03.2022 16:21",
+      "content": "yine bir halkbank faciası yaşatacaklar bak yazıyorum buraya. adamlar ambargo koyar, yaptırıma gider, bizim köylü kurnazları krizden fırsat yaratalım derken ülkeyi reza zarrab gibilerine güvenip içinde çıkılmayacak hadiselere sürükler. sonra abd dava açınca eldeki avuçtaki doları (mesela 128 milyar dolar) gidip yargıçlara rüşvet verir.\n\ntanım: felaket öncesi adımların ayak sesleri olan hadise.",
+      "has_external_url": false
+    },
+    {
+      "title": "rusların ziraat bankası'nda hesap açmaya başlaması",
+      "entry_id": "134711000",
+      "author": "ffmvain",
+      "date": "09.03.2022 16:25",
+      "content": "doğal olan olaydır. ne yapacaktı adamlar, maaşlarını nereden alacaklar? türkiye'de çalışan tonla rus var. sadece nükleer santraldekiler bile daha fazla edecektir.",
+      "has_external_url": false
+    },
+    {
+      "title": "rusların ziraat bankası'nda hesap açmaya başlaması",
+      "entry_id": "134711002",
+      "author": "ben size inanmistim",
+      "date": "09.03.2022 16:25",
+      "content": "sıkı denetlendiği, ve borç alma konusunda rus vatandaşlarına mevcut rusyanın durumu gözetilerek bir reçete sunuldukça facia ya da kötü bir şey olmayacak, olumlu bir gelişmedir.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:43:44.948779",
+    "total_entries": 1,
+    "input": "kocaeli'nde bir kamyon mültecinin yakalanması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "kocaeli'nde bir kamyon mültecinin yakalanması",
+      "entry_id": "147280082",
+      "author": "may76",
+      "date": "06.01.2023 09:58",
+      "content": "ilk seçimde hepsinin postalanması en büyük dileğim",
+      "has_external_url": false
+    }
+  ]
+}

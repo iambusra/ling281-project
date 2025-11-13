@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:05:28.228980",
+    "total_entries": 3,
+    "input": "sığınmacıların şiddet eylemlerindeki artış",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "sığınmacıların şiddet eylemlerindeki artış",
+      "entry_id": "135271600",
+      "author": "soul froze",
+      "date": "22.03.2022 19:13",
+      "content": "devlet duyarsız kaldıkça ve sığınmacıları ülkede tutmaya devam ettikçe vatandaşın inisiyatifi kendi eline alması ile sonuçlanacak süreçtir...",
+      "has_external_url": false
+    },
+    {
+      "title": "sığınmacıların şiddet eylemlerindeki artış",
+      "entry_id": "135271601",
+      "author": "amerikan popechku",
+      "date": "22.03.2022 19:14 ~ 19:17",
+      "content": "bir tane de benden gelsin.\n\n(bkz: 20 sene sonra oy kullanacak milyonlarca arap)\n\nher şeye rağmen ümit özdağ'ın birinci hedefinin muhalefet oylarını bölmek ve söylemlerinin de kuru sıkı olduğu düşünüyorum. muhalefeti iyi bulduğumdan falan da değil.",
+      "has_external_url": false
+    },
+    {
+      "title": "sığınmacıların şiddet eylemlerindeki artış",
+      "entry_id": "135283432",
+      "author": "haydaaa3aile",
+      "date": "22.03.2022 23:56",
+      "content": "failin sığınmacı olduğu şiddet olaylarında artış olduğuna dair bilimsel ve güvenilir bir istatiksel veri yok. yalnızca faili göçmen olan suçların daha fazla dikkat çekmesi ve bu tür olayların haberinin yapılıp paylaşılma oranının failin türk olduğu olaylara göre çok daha fazla olması nedeniyle böyle bir yanlış algı oluşuyor",
+      "has_external_url": false
+    }
+  ]
+}

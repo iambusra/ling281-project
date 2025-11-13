@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:53:25.756426",
+    "total_entries": 2,
+    "input": "avrupa'nın mültecilerle imtihanı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "avrupa'nın mültecilerle imtihanı",
+      "entry_id": "68895851",
+      "author": "mayamikb",
+      "date": "17.06.2017 13:54",
+      "content": "salı günü saat 16:00'da izleyebileceğiniz, ntv tarafından verilecek olan belgesel.\n\nanladığım kadarıyla konu, mültecilerin bakış açısıyla anlatılacak.",
+      "has_external_url": false
+    },
+    {
+      "title": "avrupa'nın mültecilerle imtihanı",
+      "entry_id": "68895893",
+      "author": "sporyazariboksor",
+      "date": "17.06.2017 13:56",
+      "content": "bu sanırım tek belgesel, devamı yok. \"türkiye'nin mültecilerle imtihanı\" diye bir şey çekilmeye çalışılsa seri olur. en az 10 bölüm diyorum ben. suriyelisi, afganı, arabı. biz ne yapalım?",
+      "has_external_url": false
+    }
+  ]
+}

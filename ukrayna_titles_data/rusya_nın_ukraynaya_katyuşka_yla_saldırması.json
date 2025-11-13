@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:09:15.377423",
+    "total_entries": 3,
+    "input": "rusya'nın ukraynaya katyuşka'yla saldırması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rusya'nın ukraynaya katyuşka'yla saldırması",
+      "entry_id": "134180556",
+      "author": "soapgarden",
+      "date": "25.02.2022 00:12",
+      "content": "linkte görülemeyen durumdur.",
+      "has_external_url": false
+    },
+    {
+      "title": "rusya'nın ukraynaya katyuşka'yla saldırması",
+      "entry_id": "134180845",
+      "author": "panpito",
+      "date": "25.02.2022 00:17",
+      "content": "çnra gerilla savaşlarının vazgeçilmez elemanıdır, cehpedeki ekibin arkasında devlet ya da bölgesel otorite desteği oldu mu gayet normaldir. öyle şaşırtacak bir şey değil maalesef.",
+      "has_external_url": false
+    },
+    {
+      "title": "rusya'nın ukraynaya katyuşka'yla saldırması",
+      "entry_id": "134181484",
+      "author": "nickulaniste",
+      "date": "25.02.2022 00:31",
+      "content": "matruşka ile saldırmasına göre daha insancıldır,\n\n1 matruşka 3 hatun\n\n1 katyuşka 1 füze\n\nkatyuşka: küçük katyuşa anlamına gelen rusça uzatma.",
+      "has_external_url": false
+    }
+  ]
+}

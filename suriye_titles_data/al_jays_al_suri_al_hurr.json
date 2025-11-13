@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-10T23:35:46.350391",
+    "total_entries": 2,
+    "input": "al-jays al-suri al-hurr",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "al-jays al-suri al-hurr",
+      "entry_id": "73867702",
+      "author": "polyhymnia",
+      "date": "30.01.2018 14:22",
+      "content": "(bkz: al-jays al suri al-hurr)",
+      "has_external_url": false
+    },
+    {
+      "title": "al-jays al-suri al-hurr",
+      "entry_id": "73867743",
+      "author": "polyhymnia",
+      "date": "30.01.2018 14:24 ~ 14:31",
+      "content": "özgür suriye ordusu'nun asıl ismi...\n\nışid'in öfkeli birkaç genç olmadığını anladıklarında daeş, daiş gibi evirdikleri gibi, öso'nun aynı bokun laciverti olduğunu kabul ettiklerinde ajasah demeye başlarlar...\n\nedit: al-jaysh al-souriyy al-hourr olduğu yönünde mesaj geldi. farketmez, yine önünde sonunda \"eyyy ajasah\" olacaktır.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:14:45.294863",
+    "total_entries": 1,
+    "input": "ukraynadan gelen hava dalgasının getirdikleri",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukraynadan gelen hava dalgasının getirdikleri",
+      "entry_id": "134751155",
+      "author": "bteam",
+      "date": "10.03.2022 15:19 ~ 15:21",
+      "content": "rusya küçük atom bombası atmış arkadaşlar\nokullar tatil edildi\ndışarı çıkmayın bir süre ama ne kadar süre bilmiyorum\n\nkaynak",
+      "has_external_url": true
+    }
+  ]
+}

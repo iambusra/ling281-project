@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:04:54.146899",
+    "total_entries": 1,
+    "input": "türkiye'deki sığınmacıların akp'ye çok güvenmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türkiye'deki sığınmacıların akp'ye çok güvenmesi",
+      "entry_id": "147749718",
+      "author": "gordonmilne",
+      "date": "16.01.2023 22:58 ~ 22:59",
+      "content": "bir gözlem. fatih'te her türlü sığınmacı var. suriyeli, paki, afgan, ıraki, irani, faslı... ne ararsan. hepsi de ak parti'ye çok güveniyor.\n\ngel gelelim ak parti işi bunlarla bitince hepsini yollayıverecek. haberleri yok. ak parti'ye oy verip burada devam edeceklerini düşünüyorlar.\n\nmuhalefet gelse de gideceksiniz, ak parti gelse de gideceksiniz. akıllı olan şimdi gider.",
+      "has_external_url": false
+    }
+  ]
+}

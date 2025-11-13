@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:31:19.504637",
+    "total_entries": 3,
+    "input": "at kafası maskesi takıp ruslarla savaşmak",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "at kafası maskesi takıp ruslarla savaşmak",
+      "entry_id": "56544216",
+      "author": "vidanjorcu aranjor",
+      "date": "27.11.2015 16:33",
+      "content": "(bkz: bordo klavyeliler)",
+      "has_external_url": false
+    },
+    {
+      "title": "at kafası maskesi takıp ruslarla savaşmak",
+      "entry_id": "56544269",
+      "author": "kitarobit",
+      "date": "27.11.2015 16:35",
+      "content": "(bkz: life is drunk)\n\nhttps://www.instagram.com/life_is_drunk/\n\nhttps://twitter.com/life_is_drunk\n\no hadi desin, peşinden koşar giderim.",
+      "has_external_url": true
+    },
+    {
+      "title": "at kafası maskesi takıp ruslarla savaşmak",
+      "entry_id": "56544892",
+      "author": "yusuf tazim",
+      "date": "27.11.2015 17:02",
+      "content": "(bkz: hotline miami)\nbende horoz kafasiyla geliyorum destege.",
+      "has_external_url": false
+    }
+  ]
+}

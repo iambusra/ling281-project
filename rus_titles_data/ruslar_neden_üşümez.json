@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:27:48.042150",
+    "total_entries": 3,
+    "input": "ruslar neden üşümez",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ruslar neden üşümez",
+      "entry_id": "83957547",
+      "author": "ozgur pislik",
+      "date": "03.12.2018 16:56",
+      "content": "(bkz: vodka)",
+      "has_external_url": false
+    },
+    {
+      "title": "ruslar neden üşümez",
+      "entry_id": "83983078",
+      "author": "ketender tepetopuzu",
+      "date": "04.12.2018 10:36 ~ 11:23",
+      "content": "senin de bedenin kutuplar için yaratılsaydı sen de üşümezdin.\ntürkler de onlara kıyasla terlemiyor, sıcakta bunalmıyor. onların erime noktaları 30 dereceyken bizimki 40, yöreye göre 45.\n\nedit: yaşanmış olaylardan alıntılanmıştır. antalya’da ne cinsleri var bilmiyorum ama benim gördüklerim istanbul yazının ılık bir gününde ya da onun başka yer eşleniklerinde gözlerinizin önünde eriyor.",
+      "has_external_url": false
+    },
+    {
+      "title": "ruslar neden üşümez",
+      "entry_id": "83985273",
+      "author": "muratmuradovic",
+      "date": "04.12.2018 11:56",
+      "content": "bir rituel olarak bebekleri dogduktan bir sure sonra kar icine yatirmalari olabilir",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:13:34.504168",
+    "total_entries": 1,
+    "input": "ukrayna'da taksi tutmak",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukrayna'da taksi tutmak",
+      "entry_id": "55432277",
+      "author": "crstssh",
+      "date": "11.10.2015 11:54 ~ 11:56",
+      "content": "ukrayna'yı bilmem ama rusyanın bazı bölgelerinde taksi metre yoktur kafasına göre yolar seni. taksi metresi olanlar da bahşiş vermezseniz olay çıkaracak potansiyelde. para üstü verme gibi bir alışkanlıklarıda yok.",
+      "has_external_url": false
+    }
+  ]
+}

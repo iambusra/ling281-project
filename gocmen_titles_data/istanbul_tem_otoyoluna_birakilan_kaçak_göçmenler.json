@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:16:53.485885",
+    "total_entries": 2,
+    "input": "istanbul tem otoyoluna birakilan kaçak göçmenler",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "istanbul tem otoyoluna birakilan kaçak göçmenler",
+      "entry_id": "142015588",
+      "author": "sol durak",
+      "date": "30.08.2022 19:59 ~ 20:01",
+      "content": "https://www.instagram.com/…v_j/?igshid=ymmymta2m2y=\n\nkamyon kamyon geliyorlar efendim. durduran yok.",
+      "has_external_url": true
+    },
+    {
+      "title": "istanbul tem otoyoluna birakilan kaçak göçmenler",
+      "entry_id": "142015754",
+      "author": "ikipirekareboluyedi",
+      "date": "30.08.2022 20:03",
+      "content": "20 sene sonra torunlarımızın yarısı afgan diğer yarısı türk olacak.\ne aynı oldu yine. bir daha düşüneyim.",
+      "has_external_url": false
+    }
+  ]
+}

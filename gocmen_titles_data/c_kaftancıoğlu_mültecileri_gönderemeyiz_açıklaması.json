@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:49:11.365814",
+    "total_entries": 1,
+    "input": "c.kaftancıoğlu mültecileri gönderemeyiz açıklaması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "c.kaftancıoğlu mültecileri gönderemeyiz açıklaması",
+      "entry_id": "152556970",
+      "author": "yskont",
+      "date": "19.05.2023 00:36",
+      "content": "canan kaftancıoğlu\n\nuluslararası sözleşmeler gereği mültecilerin gönderilemeyeceğini söylemiş.",
+      "has_external_url": true
+    }
+  ]
+}

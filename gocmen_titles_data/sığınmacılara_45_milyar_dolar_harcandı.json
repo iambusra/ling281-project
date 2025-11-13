@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:02:37.002330",
+    "total_entries": 2,
+    "input": "sığınmacılara 45 milyar dolar harcandı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "sığınmacılara 45 milyar dolar harcandı",
+      "entry_id": "145434025",
+      "author": "asiruzgar",
+      "date": "22.11.2022 21:43",
+      "content": "aile ve sosyal politikalar bakanı derya yanık:\n\"türkiye, sığınmacılara yönelik insani yardım çalışmalarına uluslararası toplumun verdiği desteğe nispetle daha yüksek bir oranda katılmış ve kendi öz kaynaklarından yaklaşık 45 milyar dolar harcamıştır. bu bakış açısını sayın cumhurbaşkanımızın ifadeleriyle de özetleyecek olursak; bizler, hiç kimseyi etnik kimliği, dini, kültürü sebebiyle geri çevirmedik.\" link\n\nbu ülkede yardıma muhtaç insanlar, haftalık harçlığı 5 lira olan öğrenciler, işsizlik yüzünden intihar eden babalar varken özkaynakların harcandığı yere bakın. sığınmacı dediğin bir kere çocuk ve kadınlardan oluşur, gittiği ülkede her sene çocuk doğurmaz, adli vakalarda başı çekmez, dağdan gelip bağdakini kovacak kadar yüzsüzleşmez. ülkemize gelenler sığınmacı statüsünden çoktan çıkmıştır!",
+      "has_external_url": true
+    },
+    {
+      "title": "sığınmacılara 45 milyar dolar harcandı",
+      "entry_id": "145434288",
+      "author": "fikir degistirmis adam",
+      "date": "22.11.2022 21:49",
+      "content": "bir türk vatandaşı olarak kendi payıma düşen her bir cent'i haram ediyorum.",
+      "has_external_url": false
+    }
+  ]
+}

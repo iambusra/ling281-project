@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:40:22.873405",
+    "total_entries": 2,
+    "input": "bayram için suriye'ye giden suriyeliler 2024",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "bayram için suriye'ye giden suriyeliler 2024",
+      "entry_id": "163369460",
+      "author": "gooddayss",
+      "date": "11.04.2024 23:16",
+      "content": "gözümüzün içine baka baka bizimle dalga geçiyor hükümet.\n\nbakın savaş var diye akp tarafından ülkemize sokulan suriyeliler, savaşın olmadığı suriye'ye bayram tatili için gidiyorlar, tabi ki bayramdan sonra geri gelecekler.\n\nvideo.",
+      "has_external_url": true
+    },
+    {
+      "title": "bayram için suriye'ye giden suriyeliler 2024",
+      "entry_id": "163420094",
+      "author": "doqmatic",
+      "date": "13.04.2024 19:09",
+      "content": "geri gelmeyesiceler",
+      "has_external_url": false
+    }
+  ]
+}

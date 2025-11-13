@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:16:55.418152",
+    "total_entries": 2,
+    "input": "tem otoyolunda kamyonetten inen göçmenler",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "tem otoyolunda kamyonetten inen göçmenler",
+      "entry_id": "141997021",
+      "author": "sercn",
+      "date": "30.08.2022 11:41",
+      "content": "tem otoyolu ankara istikameti alibeyköy mevkiinde kapalı kasa bir kamyonet, arıza yaparak emniyet şeridinde durdu. arka kapağı bir anda açılan kamyonetten, aralarında çocuk ve bebeklerin de bulunduğu çok sayıda kaçak göçmen inmeye başladı.\n\nkaynak\nhttps://m.haberturk.com/…-kosarak-kacti-3515645-amp\n\nişin daha da kötüsü bu insanlar kısa bir sürede panik halini atlatıp insan içine karıştılar.\nbunlardan o kadar çok var ki kimse sen hayırdır diyip durdurmaz,hesap sormaz.\nbir ülkenin güvenliği ve asayişi ancak bu kadar kevgir haline gelebilirdi,tebrikler.",
+      "has_external_url": true
+    },
+    {
+      "title": "tem otoyolunda kamyonetten inen göçmenler",
+      "entry_id": "141997200",
+      "author": "james brownie",
+      "date": "30.08.2022 11:46 ~ 11:56",
+      "content": "bu insanlar ac susuz, dapdaracik havasiz bir yerde yolculuk ediyorlar. emegiyle caismak icin burada cogu. icinde bebekli olanlarda var.\n\nsonucta bu insanlar vatanlarini birakip geliyorlar.\n\nbu ulkeye faydalari ileride anlasilacak.\n\nhos gelmisler, sefa getirmislerdir. allah yar ve yardimcilari olsun yeni vatanlarinda...",
+      "has_external_url": false
+    }
+  ]
+}

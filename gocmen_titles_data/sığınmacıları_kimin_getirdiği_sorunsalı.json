@@ -1,0 +1,43 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:01:31.699320",
+    "total_entries": 2,
+    "input": "sığınmacıları kimin getirdiği sorunsalı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "sığınmacıları kimin getirdiği sorunsalı",
+      "entry_id": "136403952",
+      "author": "speciale aperta",
+      "date": "19.04.2022 14:06",
+      "content": "(bkz: #136206413)\n(bkz: türkiye'nin demografisinin kasten değiştirilmesi)",
+      "referenced_content": [
+        {
+          "type": "entry",
+          "title": "turkiyenin-demografisinin-kasten-degistirilmesi",
+          "entry_id": "136206413",
+          "author": "speciale aperta",
+          "date": "14.04.2022 19:09 ~ 15.04.2022 21:30",
+          "content": "ottawa sözleşmesi sonucu 2011 yılında suriye sınırındaki yaklaşık 900 km. alan mayınlardan temizlendi.\n\nsuriye karıştırıldı, sonrasında pkk/ypg teröristleri ırak'ın kuzeyinden suriye'ye türkiye üzerinden geçişi sağlandı. hatta bu teröristler peşmerge tarafından ayn el arab'da 29 ekim 2014 tarihinde biji serok obama sloganlarıyla karşılandı. haber\n\nsonra suriye'nin kuzey bölgelerinde ne kadar masum insan varsa roket füze artık allah ne verdiyse bu insanların yaşadığı şehir, kasaba ve köylere atılıp halkın kuzeye, yani türkiye'ye doğru göç ettirilmeleri sağlandı.\n\nsonuç mu? bugün türkiye'de hükümetin bile net olarak sayı veremediği 4,5 - 5 milyon kayıtlı, belki bir bu kadar daha kayıtsız (kayıtsız da ne demekse?) geçici sığınmacı yerleşti. daha doğrusu her ile ve her ilçeye homojen olarak yerleştirildi.\n\nbu yapılırken ensar-muhacir muhabbeti dillerden düşmedi..!\n\nbugün ne zaman gidecekler diye sorulduğunda ne diyor hükümet?\n\ng ö n d e r m e y e c e ğ i z...!\n\nben ülkemde, bilgisiz, cahil, vurdumduymaz, saygısız, kültürsüz, tembel, hain insanlar istemiyorum.\n\nzorunlu edit: debe'ye giren entrylerimi editlemezdim. (bu sefer hariç) ama gelen birkaç özel mesaja istinaden;\n\nayn el-arab ilçesi, (halep'in ilçesi) benim ilkokul zamanlarındaki atlaslarda, tarih atlaslarında ayn el-arab olarak geçmektedir. hâlâ daha resmi adı budur. \"kobani, orasının adı\" diyen yazarlara bildiririm.\n\nişte bu da bir demografik mesele aslında...\n\n2. edit: kaçaklara, (dikkat edin lütfen geçici sığınmacılar da değil) yani sınırlarımızdan elini kolunu sallayarak giren kaçaklara gel gel yapan danışmanlık büroları da varmış. (bkz: istanbul information) biz daha neler göreceğiz acaba türk milleti olarak?",
+          "has_external_url": true
+        }
+      ],
+      "referenced_entry_ids": [
+        "136206413"
+      ],
+      "has_external_url": false
+    },
+    {
+      "title": "sığınmacıları kimin getirdiği sorunsalı",
+      "entry_id": "136404146",
+      "author": "hacktor",
+      "date": "19.04.2022 14:11",
+      "content": "sokak röportajlarında halk ekmeği kuyruğundaki böyük resmi gören tayfaya göre \"gılışdar\" olarak mimlenecek sorunsaldır. hatta o anki kuyruğa girme sebebi de gılışdar'dir.",
+      "referenced_content": [],
+      "has_external_url": false
+    }
+  ]
+}

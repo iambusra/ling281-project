@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:23:44.674039",
+    "total_entries": 4,
+    "input": "rus ve ukraynalıların türkiye işgali",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rus ve ukraynalıların türkiye işgali",
+      "entry_id": "145229474",
+      "author": "faytonfayt",
+      "date": "17.11.2022 21:16",
+      "content": "sessiz sedasız gerçekleşen bir başka işgal.\n\nha diyeceksiniz ki bunlar diğerleri gibi topluma rahatsızlık vermiyor.\n\nhayır veriyor.\n\nfiyatları yükseltip enflasyonu harlıyorlar. ev, kira ve araba fiyatları bu ayarsız sığınmacılar tarafından da artırılıyor.\n\nülkemizde sınır diye bir kavram kalmadı.\n\ntürklere eziyet etmek için her gün yeni bir yöntem geliştiriliyor.",
+      "has_external_url": false
+    },
+    {
+      "title": "rus ve ukraynalıların türkiye işgali",
+      "entry_id": "151895136",
+      "author": "haydan gelen huya giden",
+      "date": "02.05.2023 21:17",
+      "content": "kontrolsüz her göç gibi, hem toplum yapısını, hem de piyasa dinamiklerini bozuyorlar. sarışın mavi gözlü diye, ponçikleşmenin alemi yok.",
+      "has_external_url": false
+    },
+    {
+      "title": "rus ve ukraynalıların türkiye işgali",
+      "entry_id": "151895316",
+      "author": "antenlitavukfreni",
+      "date": "02.05.2023 21:22 ~ 21:24",
+      "content": "savaştan sonra gelen bekar kadınları da türk erkek bulup evlenip yerini garantilemek istiyor. birinci gözden tecrübeyle sabit. ama bunu yaparken türk kültüründen ve türk erkeklerinin abazalığından yakınıyor.\n\nsizi küçümsüyor, ama ülkenize denize kuma güneşe bayılıyor.",
+      "has_external_url": false
+    },
+    {
+      "title": "rus ve ukraynalıların türkiye işgali",
+      "entry_id": "151895477",
+      "author": "raybanzib",
+      "date": "02.05.2023 21:27 ~ 21:29",
+      "content": "kim ne derse desin elin suriyelisi, afganı kendi ülkesinde savaş çıkartıp buraya geliyor, gene elin rus ve ukraynalı kadınları sırf sıcak bir kentte yaşayabilmek için (bkz: amsalak) hemcinslerimi evlilikle kandırıp hayallerine kavuşuyorlar.\nben bunları görmek istemiyorum artık ya. cidden bu ülke'de vatandaşlık almak zorlaşsın, para kazandırmayacak turiste vize zorluğu gelsin istiyorum.",
+      "has_external_url": false
+    }
+  ]
+}

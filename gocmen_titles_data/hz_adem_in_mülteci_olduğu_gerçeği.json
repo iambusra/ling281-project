@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:38:01.655678",
+    "total_entries": 1,
+    "input": "hz. adem'in mülteci olduğu gerçeği",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "hz. adem'in mülteci olduğu gerçeği",
+      "entry_id": "172062189",
+      "author": "tombo07",
+      "date": "20.01.2025 23:24",
+      "content": "cennetten kovularak dünyaya sığınmacı olarak gönderilmiştir",
+      "has_external_url": false
+    }
+  ]
+}

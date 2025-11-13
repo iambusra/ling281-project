@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:11:00.795479",
+    "total_entries": 2,
+    "input": "ukrayna'ya sınırı açtık şimdi türk kızı düşünsün",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukrayna'ya sınırı açtık şimdi türk kızı düşünsün",
+      "entry_id": "40756300",
+      "author": "yazicakbiseybulamiyorum",
+      "date": "27.02.2014 21:03",
+      "content": "saçmalığın daniskasıdır.",
+      "has_external_url": false
+    },
+    {
+      "title": "ukrayna'ya sınırı açtık şimdi türk kızı düşünsün",
+      "entry_id": "40756478",
+      "author": "xoce798",
+      "date": "27.02.2014 21:11",
+      "content": "sadece ukraynali kadinlara mi sınır açıldı diye düşündüren entrydir. ukraynalı erkeklerin giderinin turk erkeklerinden fazla olduğunun unutulmaması gerekir.",
+      "has_external_url": false
+    }
+  ]
+}

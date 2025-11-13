@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:27:54.341626",
+    "total_entries": 4,
+    "input": "afad'ın önce suriyelilere yardım etmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "afad'ın önce suriyelilere yardım etmesi",
+      "entry_id": "148815124",
+      "author": "turk bilge kagan",
+      "date": "08.02.2023 14:11",
+      "content": "biraz önce habertürk'te veyis ipek adlı muhabirin söylediği durum. kulaklarıma inanamadım aynen böyle söyledi.\n\nsonra da dedi ki, kahramanmaraşlı vatandaşlar demiş ki \"suriyeliler zaten felaket yaşamıştı. o yüzden önce onlara verin.\"\n\noğlum buna inanan var mı ya? yağma yapan iti kopuğu böyle mi aklamaya çalışıyorsunuz?",
+      "has_external_url": false
+    },
+    {
+      "title": "afad'ın önce suriyelilere yardım etmesi",
+      "entry_id": "148815308",
+      "author": "verilmeyen mazbata",
+      "date": "08.02.2023 14:14",
+      "content": "ne suriyelilermiş arkadaş dedirten.",
+      "has_external_url": false
+    },
+    {
+      "title": "afad'ın önce suriyelilere yardım etmesi",
+      "entry_id": "148815527",
+      "author": "faytonfayt",
+      "date": "08.02.2023 14:17",
+      "content": "(bkz: afad afm genel müdürü'nün ilahiyatçı olması)\n\n(bkz: suriyelilerin hatayı yağmalaması)",
+      "has_external_url": false
+    },
+    {
+      "title": "afad'ın önce suriyelilere yardım etmesi",
+      "entry_id": "148815549",
+      "author": "cc21",
+      "date": "08.02.2023 14:18",
+      "content": "türkiye'nin işgal edilmesi kanıtlarından sadece biri.",
+      "has_external_url": false
+    }
+  ]
+}

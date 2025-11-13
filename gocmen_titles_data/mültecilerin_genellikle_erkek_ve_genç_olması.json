@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:55:20.338829",
+    "total_entries": 1,
+    "input": "mültecilerin genellikle erkek ve genç olması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "mültecilerin genellikle erkek ve genç olması",
+      "entry_id": "139476817",
+      "author": "her konuda fikri olan yazar",
+      "date": "01.07.2022 23:41",
+      "content": "ajanlık işlerinin daha rahat yürütülebilmesi içindir.\n\ndemografik yapıyı daha rahat bozmak içindir.\n\nelleri silah tutabildiği içindir.\n\ntoplumsal olayları daha yıkıcı yapabilmek içindir.\n\nşeklinde uzatılabilir.",
+      "has_external_url": false
+    }
+  ]
+}

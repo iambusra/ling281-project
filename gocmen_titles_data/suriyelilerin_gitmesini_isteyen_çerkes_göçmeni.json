@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:10:43.387951",
+    "total_entries": 2,
+    "input": "suriyelilerin gitmesini isteyen çerkes göçmeni",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelilerin gitmesini isteyen çerkes göçmeni",
+      "entry_id": "93199120",
+      "author": "derin nefes al",
+      "date": "28.07.2019 22:21",
+      "content": "suriyelilerle ilgili bir konuda orta asya dan gelmiş öz türkler kadar yorum yapma hakkına sahiptir. geldikleri, yurt edindikleri vatanlarinda ordumuza en iyi şekilde hizmet etmişlerdir, devletin en önemli görevlerinde yer almislardir. 7 sülalesi türkmen olan biri olarak başlığı çok gereksiz buldum. türkler ne kadar yorum yapma hakkına sahipse çerkesler de o kadar aynı hakka sahiptir",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyelilerin gitmesini isteyen çerkes göçmeni",
+      "entry_id": "93203452",
+      "author": "tasimaliegitim",
+      "date": "28.07.2019 23:48",
+      "content": "göçmenler ve mülteciler ne alaka lan oç",
+      "has_external_url": false
+    }
+  ]
+}

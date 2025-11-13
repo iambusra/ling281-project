@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:59:50.124482",
+    "total_entries": 1,
+    "input": "suriyelilere yepyeni bir sehir inşa etmek",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelilere yepyeni bir sehir inşa etmek",
+      "entry_id": "149329908",
+      "author": "computernetwork",
+      "date": "15.02.2023 23:19",
+      "content": "hatay yeniden insa edildiginde gerceklesecek.",
+      "has_external_url": false
+    }
+  ]
+}

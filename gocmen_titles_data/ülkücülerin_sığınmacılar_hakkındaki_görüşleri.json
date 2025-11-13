@@ -1,0 +1,52 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:00:20.114942",
+    "total_entries": 5,
+    "input": "ülkücülerin sığınmacılar hakkındaki görüşleri",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ülkücülerin sığınmacılar hakkındaki görüşleri",
+      "entry_id": "143249608",
+      "author": "matador yasar",
+      "date": "28.09.2022 15:47 ~ 18:38",
+      "content": "bu kitleyi sığınmacılar ile ilgili bir görüş beyan ederken hiç görmedim. belki de türkiye'de ideolojileri gereği en net tepkiyi göstermeleri gereken alanda hiç sesleri çıkmıyor.\n\nülkücüler bir ideolojinin mi peşinde? yoksa, liderleri ne derse onu yapmaya, savunmaya kurulmuş bir mekanizma mı?\n\nşimdi çıkıp ben de ülküyüm vs diyenler olacaktır, sizi değil ülkü ocakları altında toplanan güruhu kastediyorum. hatta devlet bahçeli'nin konu hakkındaki fikrini de çok merak ediyorum.",
+      "has_external_url": false
+    },
+    {
+      "title": "ülkücülerin sığınmacılar hakkındaki görüşleri",
+      "entry_id": "143250058",
+      "author": "animus",
+      "date": "28.09.2022 16:00",
+      "content": "bunların herhangi bir konuda görüşü olamaz. kişilik sahibi değildirler. zekaları yoktur. tek bildikleri it sürüsü gibi toplanıp güçsüz insanları dövmektir.",
+      "has_external_url": false
+    },
+    {
+      "title": "ülkücülerin sığınmacılar hakkındaki görüşleri",
+      "entry_id": "143250083",
+      "author": "simdibenburayanicinciktim",
+      "date": "28.09.2022 16:01",
+      "content": "bu arkadaşlarımızın genelde görüşü olmaz. başlarındaki kişi ne derse onu tekrar eder, savunurlar.",
+      "has_external_url": false
+    },
+    {
+      "title": "ülkücülerin sığınmacılar hakkındaki görüşleri",
+      "entry_id": "143250114",
+      "author": "soldierson",
+      "date": "28.09.2022 16:02",
+      "content": "bahçeli,rte'den hesap sormazsam namerdim derken çılgınca alkışlıyolarlardı. bahçeli şimdi adayımızı rte diyor yine alkışlıyorlar. bu hesaba göre sığınmacılar hakkında ülkücülerden bilgi almak istiyorsanız devlet bahçelinin dediklerine bakabilirsiniz.",
+      "has_external_url": false
+    },
+    {
+      "title": "ülkücülerin sığınmacılar hakkındaki görüşleri",
+      "entry_id": "154187321",
+      "author": "faytonfayt",
+      "date": "04.07.2023 14:57",
+      "content": "genellikle olumsuz. ama biat kültüründen ötürü belirtemiyorlar.",
+      "has_external_url": false
+    }
+  ]
+}

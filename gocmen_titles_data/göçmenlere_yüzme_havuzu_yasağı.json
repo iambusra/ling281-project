@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:23:11.507450",
+    "total_entries": 1,
+    "input": "göçmenlere yüzme havuzu yasağı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "göçmenlere yüzme havuzu yasağı",
+      "entry_id": "57752672",
+      "author": "cay iciyorum",
+      "date": "15.01.2016 16:30",
+      "content": "çok güzel karar, burda sokak iti gibi dolaşıp, milletin karısına kızına sarkan,şerefi olmayan tipler içinde aynı şekilde uygulansın.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:13:54.630970",
+    "total_entries": 1,
+    "input": "y-refah partisi'nin suriyelilerden oy istemesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "y-refah partisi'nin suriyelilerden oy istemesi",
+      "entry_id": "162429737",
+      "author": "gordonmilne",
+      "date": "13.03.2024 23:29",
+      "content": "hem de arapça broşürle. burada\n\nyeniden refah partisi her şeyi ile arap milliyetçisi partidir ve türkiye sınırlarında faaliyet göstermemelidir.",
+      "has_external_url": true
+    }
+  ]
+}

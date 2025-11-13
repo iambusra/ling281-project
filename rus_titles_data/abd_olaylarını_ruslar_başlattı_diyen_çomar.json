@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:27:23.612282",
+    "total_entries": 1,
+    "input": "abd olaylarını ruslar başlattı diyen çomar",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "abd olaylarını ruslar başlattı diyen çomar",
+      "entry_id": "108289570",
+      "author": "a book on c",
+      "date": "03.06.2020 17:51",
+      "content": "türkiye'deki her olayı amerika'nın başlattığına inanan çomarın laciverdidir.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:02:23.293243",
+    "total_entries": 3,
+    "input": "sığınmacılara harcanan parayla övünen akpli",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "sığınmacılara harcanan parayla övünen akpli",
+      "entry_id": "164367880",
+      "author": "gordonmilne",
+      "date": "13.05.2024 13:20",
+      "content": "bunu yaparak ne yapmaya çalışıyorlar anlaşılmıyor.\n\nneyin kıvancı lan bu. bizim paramızı ne idüğü belirsiz yabancılara harcayıp övünemezsin. bunla utanmalısın, övünmemelisin.\n\nhayır oy da kaybediyorsun, oyların eriyor, hala bunla utanmadan övünebiliyorsun.\n\nsığınmacılara 30 milyar dolar harcadık, 40 milyar dolar harcadık, 60 milyar dolar harcadık.\n\nharcıdığın para ülkenin vatandaşın parası, 1-2 dalkavuğu saymazsan kimsenin rızası yok.\n\nkiraları artırıyorsun, enflasyonu coştuyorsun, dolarizasyonu artırıyorsun, ahlak bozuluyor, kavga dövüş bitmiyor ve sen bunlarla övünüyorsun ya.",
+      "referenced_content": [],
+      "has_external_url": false
+    },
+    {
+      "title": "sığınmacılara harcanan parayla övünen akpli",
+      "entry_id": "164368357",
+      "author": "nyx ulric",
+      "date": "13.05.2024 13:37",
+      "content": "bana mı sordunuz demesi de an meselesi olduğunun unutulmaması gereken akplidir.\n\n(bkz: kapıları açarız hadi hayırlı yolculuklar deriz)\n\n(bkz: #164206497)",
+      "referenced_content": [
+        {
+          "type": "entry",
+          "title": "2024-dunya-goc-raporunda-turkiyenin-birinci-olmasi",
+          "entry_id": "164206497",
+          "author": "nyx ulric",
+          "date": "08.05.2024 10:36 ~ 10:38",
+          "content": "akp uluslarası alanda ülkenin atacağı adımları ve'ağırlığını' 10 seneden beri mülteciler üzerinden sağlıyor.\n\n2011 yılından beri ab'den gelen para 10 milyar euronun üzerinde... bunun projesi şusu busu ayrı ama esas mesele dış politikada bize'zafer' diye verilen şeylerin esasında kapıları açarız hadi hayırlı yolculuklar deriz tehdidi ile alınan şeylerden ibaret olması...\n\nbunun daha bir 40 milyar dolar daha harcarız kısmı var... ülke içinde başka bir ülke kurulacak kadar sığınmacı olmaz...\n\ndaha yeni ingilterede yerel seçimlerde %30 müslüman (afgan paki vs) nüfusa ulaşan yerlerde seçim kazandılar. elemanların ilk dediği'islam, filistin vs konularda adımlar atacağız bunda sıkıntısı olan istediği yere (az müslüman nüfuslu şehirler) gidebilir, kapı orada' diye açıklama yaptı... kendi ülkesinden kovuyorlar lan adamları? bunu daha ingilterede şeriat yönetimi isteyenleri var...",
+          "has_external_url": false
+        }
+      ],
+      "referenced_entry_ids": [
+        "164206497"
+      ],
+      "has_external_url": false
+    },
+    {
+      "title": "sığınmacılara harcanan parayla övünen akpli",
+      "entry_id": "164368695",
+      "author": "bota nick",
+      "date": "13.05.2024 13:49",
+      "content": "sözlükçülerin işi gücü bırakıp gündemde tutmaları gereken bir konu bu göçmenler konusu. yakında çok geç olacak.",
+      "referenced_content": [],
+      "has_external_url": false
+    }
+  ]
+}

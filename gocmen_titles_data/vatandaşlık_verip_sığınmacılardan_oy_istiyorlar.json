@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:03:40.998901",
+    "total_entries": 1,
+    "input": "vatandaşlık verip sığınmacılardan oy istiyorlar",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "vatandaşlık verip sığınmacılardan oy istiyorlar",
+      "entry_id": "136286442",
+      "author": "sight",
+      "date": "16.04.2022 19:38 ~ 17.04.2022 17:59",
+      "content": "zafer particiler konuşuyordu işte muhalefet bişey demiyor diye, daha ne desin adam",
+      "has_external_url": false
+    }
+  ]
+}

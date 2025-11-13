@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:16:40.868447",
+    "total_entries": 2,
+    "input": "16 mart ukraynanın sınırları kapatması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "16 mart ukraynanın sınırları kapatması",
+      "entry_id": "103476809",
+      "author": "pilotcan82",
+      "date": "14.03.2020 00:52 ~ 00:55",
+      "content": "bugün yapılan açıklamaya göre ukrayna 16 mart itibariyle tüm vatandaşlarına yurtdışına çıkışı yasakladığını ve bu tarihten itibaren 2 hafta süreyle tüm hava ulaşımını coronavirüs önlemlerinden dolayı durdurduğunu bildirmiştir.\n\nişte linki",
+      "has_external_url": true
+    },
+    {
+      "title": "16 mart ukraynanın sınırları kapatması",
+      "entry_id": "103477156",
+      "author": "drbaris",
+      "date": "14.03.2020 01:00",
+      "content": "bizim sanayi ustaları rotayı suriye’ye çevirecekler bu gidişle.",
+      "has_external_url": false
+    }
+  ]
+}

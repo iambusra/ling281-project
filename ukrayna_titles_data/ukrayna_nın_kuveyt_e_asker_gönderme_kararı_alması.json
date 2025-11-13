@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:16:25.072763",
+    "total_entries": 1,
+    "input": "ukrayna'nın kuveyt'e asker gönderme kararı alması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukrayna'nın kuveyt'e asker gönderme kararı alması",
+      "entry_id": "2537158",
+      "author": "spinapubica",
+      "date": "20.03.2003 15:56 ~ 15:57",
+      "content": "saat ve dakika itibarı ile haber ajanslarına düşen bilgidir. ukrayna parlamentosu, kuveyt'e bir birlik gönderme kararı almıştır.\nanlaşılan herkesin gözü siyah altın'da.",
+      "has_external_url": false
+    }
+  ]
+}

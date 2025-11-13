@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:20:05.630125",
+    "total_entries": 4,
+    "input": "almanya'nın reşit olmayan göçmenleri alması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "almanya'nın reşit olmayan göçmenleri alması",
+      "entry_id": "103242919",
+      "author": "merkz",
+      "date": "09.03.2020 09:47 ~ 09:50",
+      "content": "kaynak\n\nyunanistan adalarındaki reşit olmayan göçmenleri almaya karar vermiş alaman hökümeti.\niçinde bebek olan botları batırmaya çalışan yunanlara bir kelime dahi etmeyen alamanya bu. biz de güzel yiyoruz.\n\nşerefsizler bu konuda bile stratejik düşünüyorlar.",
+      "has_external_url": true
+    },
+    {
+      "title": "almanya'nın reşit olmayan göçmenleri alması",
+      "entry_id": "103242973",
+      "author": "mihajlovic",
+      "date": "09.03.2020 09:49",
+      "content": "(bkz: hollanda'nın çocuk mülteci kabulü)",
+      "has_external_url": false
+    },
+    {
+      "title": "almanya'nın reşit olmayan göçmenleri alması",
+      "entry_id": "103254587",
+      "author": "sernevist",
+      "date": "09.03.2020 15:08",
+      "content": "biz bunların yanında resmen mevlana kalıyoruz ya.",
+      "has_external_url": false
+    },
+    {
+      "title": "almanya'nın reşit olmayan göçmenleri alması",
+      "entry_id": "103254589",
+      "author": "super suleyman",
+      "date": "09.03.2020 15:08",
+      "content": "(bkz: ağaç yaşken eğilir)\n\nne alaka demeyin, adamlar altyapı kurmanın derdinde\n\nanlık düşünmüyorlar",
+      "has_external_url": false
+    }
+  ]
+}

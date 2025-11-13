@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:58:59.053169",
+    "total_entries": 3,
+    "input": "suriyeli sığınmacının karakolda ateş açması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeli sığınmacının karakolda ateş açması",
+      "entry_id": "138979298",
+      "author": "ilk and son entry1",
+      "date": "20.06.2022 01:38",
+      "content": "vebal akp'nin akp'ye oy verenlerin...\n\npolisimize geçmiş olsun.",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyeli sığınmacının karakolda ateş açması",
+      "entry_id": "138979357",
+      "author": "winstonsoft",
+      "date": "20.06.2022 01:40 ~ 01:46",
+      "content": "saldırgan suriyelinin bacağından vurularak etkisiz hale getirildiği olay. halen hayati tehlikesi devam ediyormuş,hasbelkader ölürse maalesef vuran polisi polislikten atarlar, konu mürteci (bkz: mülteci) olunca adalet burda tersten saplar.\n\nne günlere kaldık yarabbim...\n\nedit\n\nnacagindan - bacağından olarak duzeltildi.",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyeli sığınmacının karakolda ateş açması",
+      "entry_id": "138979431",
+      "author": "ozpuylat",
+      "date": "20.06.2022 01:42",
+      "content": "istanbul depreminden veya büyük bir felaketten bu ülkeyi allah korusun başka da sözüm yok çünkü ne desem gg.",
+      "has_external_url": false
+    }
+  ]
+}

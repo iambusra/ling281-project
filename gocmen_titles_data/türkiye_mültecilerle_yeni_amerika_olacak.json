@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:53:35.222094",
+    "total_entries": 2,
+    "input": "türkiye mültecilerle yeni amerika olacak",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türkiye mültecilerle yeni amerika olacak",
+      "entry_id": "52345280",
+      "author": "noryth aquanum",
+      "date": "16.06.2015 13:53",
+      "content": "ilginç bi açıklama. incelenmesi..",
+      "has_external_url": false
+    },
+    {
+      "title": "türkiye mültecilerle yeni amerika olacak",
+      "entry_id": "52346044",
+      "author": "deli bi tane olsa yagla balla beslerim",
+      "date": "16.06.2015 14:26",
+      "content": "yeni türkiye olamıyoruz bir de yeni amerika'yı deneyelim!\n\nyenilikçiliği çok yanlış anlamış beyan.",
+      "has_external_url": false
+    }
+  ]
+}

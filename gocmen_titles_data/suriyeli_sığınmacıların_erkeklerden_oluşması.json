@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:05:21.047063",
+    "total_entries": 1,
+    "input": "suriyeli sığınmacıların erkeklerden oluşması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeli sığınmacıların erkeklerden oluşması",
+      "entry_id": "136884683",
+      "author": "kapsonsuz kapsonlu",
+      "date": "01.05.2022 19:46",
+      "content": "suriyeli sığınmacıların kadınları ekseriyetle doğumhanelerde olduğu için katılmadığım iddiadır.\naksini iddia eden en yakın hastanedeki doğumhaneyi ziyaret etsin.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:05:37.638145",
+    "total_entries": 2,
+    "input": "suriyelilerin türk olduğu gerçeği",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelilerin türk olduğu gerçeği",
+      "entry_id": "162283181",
+      "author": "chicagolu mutsuz punk",
+      "date": "09.03.2024 10:56",
+      "content": "arapçanın üstün olduğu saçmalığından sonra eksiyi bastığım iddia.\n\naraplar latin alfabesine geçse belki fikrim değişirdi.",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyelilerin türk olduğu gerçeği",
+      "entry_id": "162283203",
+      "author": "rhadamistus",
+      "date": "09.03.2024 10:57",
+      "content": "tarih bilmeyen veya başkalarının zekasını hafife alıp senaryolar üreten veya mitoman olan bir adet suserin iddiası.",
+      "has_external_url": false
+    }
+  ]
+}

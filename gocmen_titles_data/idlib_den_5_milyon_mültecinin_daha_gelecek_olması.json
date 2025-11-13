@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:45:39.302161",
+    "total_entries": 1,
+    "input": "idlib'den 5 milyon mültecinin daha gelecek olması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "idlib'den 5 milyon mültecinin daha gelecek olması",
+      "entry_id": "80759464",
+      "author": "damador gujarati",
+      "date": "29.08.2018 17:02 ~ 17:08",
+      "content": "idlib'de 5 milyon insan yaşıyor mudur sorusunu akla getiren haberimsi",
+      "has_external_url": true
+    }
+  ]
+}

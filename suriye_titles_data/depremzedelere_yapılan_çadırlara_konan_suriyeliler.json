@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:41:28.873776",
+    "total_entries": 1,
+    "input": "depremzedelere yapılan çadırlara konan suriyeliler",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "depremzedelere yapılan çadırlara konan suriyeliler",
+      "entry_id": "155672540",
+      "author": "mitokondrisi calinmis okaryotik hucre",
+      "date": "15.08.2023 15:28",
+      "content": "orul orul suriyelilerdir.\n\nkaynak",
+      "has_external_url": true
+    }
+  ]
+}

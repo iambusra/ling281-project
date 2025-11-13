@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T14:59:02.148266",
+    "total_entries": 1,
+    "input": "chp'nin 3 milyon suriyeliyi başımıza bela etmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "chp'nin 3 milyon suriyeliyi başımıza bela etmesi",
+      "entry_id": "61064141",
+      "author": "aziznalca",
+      "date": "10.06.2016 22:13",
+      "content": "samsunda neredeyse türkçe tabelalı dükkan kalmadı",
+      "has_external_url": false
+    }
+  ]
+}

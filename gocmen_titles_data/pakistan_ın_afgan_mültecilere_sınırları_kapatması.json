@@ -1,0 +1,60 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:51:42.565092",
+    "total_entries": 6,
+    "input": "pakistan'ın afgan mültecilere sınırları kapatması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "pakistan'ın afgan mültecilere sınırları kapatması",
+      "entry_id": "126802965",
+      "author": "16f877a",
+      "date": "11.08.2021 20:08",
+      "content": "pakistan'ın''yeterli kapasitemiz yok'' diyerek afgan mülteci akınını durdurarak sınırlarını koruması olayıdır.\n\npakistan ordusu''hudut namustur'' diyerek namuslarına sahip çıkmak için işe koyulmuş, kuş uçurtmuyormuş. yani kimse pakistan'ın sahil şehirlerine kamyonla mülteci bırakamıyormuş.\n\nlink",
+      "has_external_url": true
+    },
+    {
+      "title": "pakistan'ın afgan mültecilere sınırları kapatması",
+      "entry_id": "126803155",
+      "author": "istatistikci1903",
+      "date": "11.08.2021 20:15 ~ 20:16",
+      "content": "mesele çiçek gibi türkiye varken pakistana gitmeyecek olmaları değil, mesele kıcı boklu pakistanın bile sınırları kapatabiliyor olması.",
+      "has_external_url": false
+    },
+    {
+      "title": "pakistan'ın afgan mültecilere sınırları kapatması",
+      "entry_id": "126803159",
+      "author": "paintman",
+      "date": "11.08.2021 20:15",
+      "content": "pakistan gibi pakistan bunlara sınırı kapatıyor, 3000 km uzaktaki ülkemiz ise adeta davet ediyor.\n\nbuna sebep olanlarin vebali çok büyük.",
+      "has_external_url": false
+    },
+    {
+      "title": "pakistan'ın afgan mültecilere sınırları kapatması",
+      "entry_id": "126803344",
+      "author": "sokratesinsavunmasinibenyazdim",
+      "date": "11.08.2021 20:20",
+      "content": "pakistan bile hudut konusunda bizden daha dirayetli çıktı.\n\nhelal olsun.\n\ndarısı bizim devletimizin başına",
+      "has_external_url": false
+    },
+    {
+      "title": "pakistan'ın afgan mültecilere sınırları kapatması",
+      "entry_id": "126803359",
+      "author": "behemoth13",
+      "date": "11.08.2021 20:20",
+      "content": "sıkıntı yok her zamanki gibi hepsini biz alırız...",
+      "has_external_url": false
+    },
+    {
+      "title": "pakistan'ın afgan mültecilere sınırları kapatması",
+      "entry_id": "126803392",
+      "author": "antilopbey",
+      "date": "11.08.2021 20:21",
+      "content": "pakistanda iş gücü zaten ucuzmuş diye yorumladım.",
+      "has_external_url": false
+    }
+  ]
+}

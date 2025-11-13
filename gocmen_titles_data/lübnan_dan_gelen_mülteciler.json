@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:46:03.075720",
+    "total_entries": 3,
+    "input": "lübnan'dan gelen mülteciler",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "lübnan'dan gelen mülteciler",
+      "entry_id": "168737946",
+      "author": "zompa",
+      "date": "27.09.2024 14:28",
+      "content": "an itibariyle kıbrıs'a gitmek için taşucu limanında bekliyoruz. feribot 1 saat önceydi ama geçilen bir anonsla, lübnan'dan savaştan kaçanların geldiğini öğrendik, işleri öncelikli olduğundan onları bekliyormuşuz. hayırlısı.",
+      "has_external_url": false
+    },
+    {
+      "title": "lübnan'dan gelen mülteciler",
+      "entry_id": "168738851",
+      "author": "tek arkadasi kiz olan adam",
+      "date": "27.09.2024 15:07",
+      "content": "dünyanın neresinde savaş çıksa insanlar kalkıp türkiye'ye geliyor. lübnan'da savaş mı çıktı? türkiye'nin kucağı lübnanlılara sonuna kadar açık zaten. koşup gelebilirler hemen. haber doğruysa yakında mersin, adana, antalya gibi yerlerde suriyeli afgan paki ıraklı pers ve afrikalıların yanına bir de lübnanlılar eklenir tam olur.",
+      "has_external_url": false
+    },
+    {
+      "title": "lübnan'dan gelen mülteciler",
+      "entry_id": "168927813",
+      "author": "guneslenen adam",
+      "date": "03.10.2024 22:46",
+      "content": "en az 2 milyon mülteci daha hayırlı olsun yanlız lübnanlılar, surilere benzemez daha eğitimli ve daha renkli bireylerden oluşan bir toplumdur.\n\naç kapıyı veysel efendi! lübnanlı kardeşlerimiz geliyor.",
+      "has_external_url": false
+    }
+  ]
+}

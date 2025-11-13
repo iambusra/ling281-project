@@ -1,0 +1,52 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:03:41.726243",
+    "total_entries": 5,
+    "input": "suriyeli sığınmacılardan rahatsız oluyorum",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeli sığınmacılardan rahatsız oluyorum",
+      "entry_id": "53414015",
+      "author": "zubdeialem",
+      "date": "22.07.2015 22:44",
+      "content": "(bkz: suriyeli sığınmacılardan rahatsız olmuyorum)\n\n(bkz: suriyeli sığınmacılara üzülüyorum)",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyeli sığınmacılardan rahatsız oluyorum",
+      "entry_id": "53414016",
+      "author": "unimog",
+      "date": "22.07.2015 22:44",
+      "content": "ekonomiye, seçme seçilme sistemine, eğitim sistemine hiçbir alışma süreci işlemeden oldu bitti ile eklenmelerinden rahatsızlık duyuyorum.\n\nbir baba olarak türkiye'de düzenli aşı programları ile kökü kazınmış çocuk hastalıklarının geri gelmesi olasılığından bildiğin korkuyorum.",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyeli sığınmacılardan rahatsız oluyorum",
+      "entry_id": "53414372",
+      "author": "denek faresi",
+      "date": "22.07.2015 22:57",
+      "content": "geri gidemeyip bizi gönderecekleri zamandan korkuyorum.kendilerine her turlu hakkı görmelerinden acayip rahatsız oluyorum.",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyeli sığınmacılardan rahatsız oluyorum",
+      "entry_id": "129758505",
+      "author": "superdede",
+      "date": "04.11.2021 20:49",
+      "content": "sadece onlar değil, afgan sığınmacılardan da rahatsız oluyoruz. burası türkiye cumhuriyeti, yani türk’lerin ülkesi. evet savaş vardı, mecbur sığınmaları gerekiyordu, ancak savaş bitti. o yüzden misafirlik de bitti.",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyeli sığınmacılardan rahatsız oluyorum",
+      "entry_id": "129760028",
+      "author": "mrpis4gor",
+      "date": "04.11.2021 21:30",
+      "content": "haklısın kardeşim",
+      "has_external_url": false
+    }
+  ]
+}

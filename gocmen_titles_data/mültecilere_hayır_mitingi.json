@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:51:23.918189",
+    "total_entries": 1,
+    "input": "mültecilere hayır mitingi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "mültecilere hayır mitingi",
+      "entry_id": "136171644",
+      "author": "tacettin cuurra",
+      "date": "13.04.2022 22:23",
+      "content": "herhangi bir partiden bağımsız olarak yapılması acilen gereken bir miting.\n\nsosyal medyadan yazıyoruz konuşuyoruz istemediğimizi belirtiyoruz ama herhangi bir icraat yok sayın muhalif partili yöneticilerden. en mülteci karşıtı olan ümit özdağ'dan bile.\n\nsağlam bir organizasyon ve parti bağımsız olursa muhteşem bir kalabalığın olacağını ve tek ses olarak bu durumdan memnun olmadığımızı türk halkı olarak çok net bir şekilde ortaya koyacağımızı düşünüyorum.\n\nallah aşkına aşı karşıtı bir miting bile düzenlendi. bu mitingin düzenlenmesi için kanaat önderleri ve toplum ne bekliyor? bir kurtarıcı mı?",
+      "has_external_url": false
+    }
+  ]
+}

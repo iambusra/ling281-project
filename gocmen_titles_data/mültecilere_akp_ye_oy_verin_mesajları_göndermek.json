@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:50:56.845716",
+    "total_entries": 4,
+    "input": "mültecilere akp'ye oy verin mesajları göndermek",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "mültecilere akp'ye oy verin mesajları göndermek",
+      "entry_id": "152345958",
+      "author": "muhtarbarlas",
+      "date": "14.05.2023 12:58",
+      "content": "twitter da dolanan iddiadır.\n\nkaynak",
+      "has_external_url": true
+    },
+    {
+      "title": "mültecilere akp'ye oy verin mesajları göndermek",
+      "entry_id": "152346014",
+      "author": "tarzanbaba",
+      "date": "14.05.2023 13:00",
+      "content": "mültecilere vatandaşlık ve oy hakkı verilmesi kadar büyük bir ihanet değildir.",
+      "has_external_url": false
+    },
+    {
+      "title": "mültecilere akp'ye oy verin mesajları göndermek",
+      "entry_id": "152346105",
+      "author": "los angeles zencisi",
+      "date": "14.05.2023 13:02",
+      "content": "bunlara oy kullanma hakkını, bu sebeple verdiler zaten. gönderileceklerini bilerek, chp ye vb vermezler diye düşünüyorum.",
+      "has_external_url": false
+    },
+    {
+      "title": "mültecilere akp'ye oy verin mesajları göndermek",
+      "entry_id": "152346131",
+      "author": "20liyasfobisi",
+      "date": "14.05.2023 13:03",
+      "content": "mülteci olduğumu öğrendim. bana da mhp mv adayından geldi dün. 24 saat yasakları bunlara koymamış",
+      "has_external_url": false
+    }
+  ]
+}

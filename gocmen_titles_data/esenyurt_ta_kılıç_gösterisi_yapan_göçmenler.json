@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:16:45.301293",
+    "total_entries": 3,
+    "input": "esenyurt'ta kılıç gösterisi yapan göçmenler",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "esenyurt'ta kılıç gösterisi yapan göçmenler",
+      "entry_id": "146309063",
+      "author": "sozcelyk",
+      "date": "13.12.2022 19:07",
+      "content": "mazlum göçmenler,\n\nyazık geleneksel danslarını yapacak yer bulamamış,\n\niban atsın bakanlığın biri de bunlara rahat rahat kutlama yapacakları bina yapıverelim, sevaptır,\n\nfakir fukara sevindirmek sevap zaten, bakan nebati öyle demişti,",
+      "has_external_url": false
+    },
+    {
+      "title": "esenyurt'ta kılıç gösterisi yapan göçmenler",
+      "entry_id": "146309411",
+      "author": "birliktelik",
+      "date": "13.12.2022 19:18",
+      "content": "onlara göçmen dedikçe göçmen kelimesinin içini boşaltıyorsunuz.\ngöçmenler boşnaklardır, muhacirlerdir.\nbiziz. onlar değil.",
+      "has_external_url": false
+    },
+    {
+      "title": "esenyurt'ta kılıç gösterisi yapan göçmenler",
+      "entry_id": "146309515",
+      "author": "prhoster123",
+      "date": "13.12.2022 19:20",
+      "content": "welcome to the middle east",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:13:12.168251",
+    "total_entries": 1,
+    "input": "bölümdeki sarışın tek kızın bulgar göçmeni olması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "bölümdeki sarışın tek kızın bulgar göçmeni olması",
+      "entry_id": "28094486",
+      "author": "afrodizyak etkisi",
+      "date": "10.04.2012 03:40",
+      "content": "bu durumun içimizdeki irlandalı (bkz: the irlandali) tarafından farkedilmesi de eş miktarda ürkütücüdür.",
+      "has_external_url": false
+    }
+  ]
+}

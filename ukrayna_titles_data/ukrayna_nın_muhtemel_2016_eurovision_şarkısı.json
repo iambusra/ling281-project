@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:15:53.539674",
+    "total_entries": 2,
+    "input": "ukrayna'nın muhtemel 2016 eurovision şarkısı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukrayna'nın muhtemel 2016 eurovision şarkısı",
+      "entry_id": "58531540",
+      "author": "hezinhezin",
+      "date": "15.02.2016 23:58",
+      "content": "buraları değerlendirecek şarkıdır.\n\ndereceye girebilecek potansiyele sahiptir. umarım bizimkiler de sof diplomacy'nin efektif kullanılabileceği eurovision'a güzel ve sosyal mesaj verebilecek bir şarkıyla katılırlar",
+      "has_external_url": false
+    },
+    {
+      "title": "ukrayna'nın muhtemel 2016 eurovision şarkısı",
+      "entry_id": "58531576",
+      "author": "krondast",
+      "date": "15.02.2016 23:59",
+      "content": "link",
+      "has_external_url": true
+    }
+  ]
+}

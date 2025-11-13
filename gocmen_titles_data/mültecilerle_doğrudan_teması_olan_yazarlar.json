@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:53:11.596120",
+    "total_entries": 1,
+    "input": "mültecilerle doğrudan teması olan yazarlar",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "mültecilerle doğrudan teması olan yazarlar",
+      "entry_id": "126885705",
+      "author": "cello ogrenmek ne zor",
+      "date": "13.08.2021 21:43",
+      "content": "merak ediyorum. neler yaşıyorsunuz? ne hissediyorsunuz?",
+      "has_external_url": false
+    }
+  ]
+}

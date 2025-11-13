@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:51:34.390455",
+    "total_entries": 1,
+    "input": "devlet bahçeli'nin mültecilere sessiz kalması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "devlet bahçeli'nin mültecilere sessiz kalması",
+      "entry_id": "132057989",
+      "author": "el hombre biscolata",
+      "date": "08.01.2022 16:12 ~ 16:12",
+      "content": "her fırsatta miliyetçi olduğunu iddia eden ve herkesi çok kolay bir şekilde vatan haini iddia eden bahçelini'nin ülkenin demografik yapısını değiştiren ve bozan envai çeşit mülteci akınına sessiz kalması durumudur.\n\nmilliyetçi hareket partisindeki milliyetçilik; ümmetçilik veya arap milliyetçiliği oluyor sanırım.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:49:43.556931",
+    "total_entries": 3,
+    "input": "mültecileri ters psikolojiyle gönderme teorisi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "mültecileri ters psikolojiyle gönderme teorisi",
+      "entry_id": "140278084",
+      "author": "alexdemesouza",
+      "date": "21.07.2022 15:15",
+      "content": "mülteci krizini çözmek için bulduğum gizli teori. gizli kalması lazım çünkü ortaya çıkarsa teori henüz başlamadan çöp olur.\n\nşimdi şöyle yapıyoruz; bütün muhalefet partileri ve muhailf kesim mülteci güzellemesine başlıyoruz, mültecileri baş tacı ediyoruz, bay kemal her mitinginde daha çok mülteci çağırıp mültecilere vergi indirimi, konaklama, yol, yemek, mülteci yardımcısı atamak gibi birtakım vaadlerde bulunuyor, akabinde diğer muhalif partiler ülkemizi adeta bir mülteci cennetine çevirme projelerini açıklıyorlar, bunları duyan hükümet ivedilikle mültecileri geri göndermeye başlar diye düşünüyorum.",
+      "has_external_url": false
+    },
+    {
+      "title": "mültecileri ters psikolojiyle gönderme teorisi",
+      "entry_id": "140278130",
+      "author": "cumhuriyetinilkkalesi",
+      "date": "21.07.2022 15:16",
+      "content": "hayatım boyunca bundan daha saçma bir şey okumadım.",
+      "has_external_url": false
+    },
+    {
+      "title": "mültecileri ters psikolojiyle gönderme teorisi",
+      "entry_id": "140278213",
+      "author": "sikilanmemur",
+      "date": "21.07.2022 15:18",
+      "content": "mültecilere geçici vatandaşlık gibi bir şey verelim, yeni bir statü uydururuz bi khk ile sıkıntı olmaz, oy kullanmasınlar ama bizim çilemizi onlarda yaşasın.\n%80 i koşarak geldikleri yerden kaçar sanırım.",
+      "has_external_url": false
+    }
+  ]
+}

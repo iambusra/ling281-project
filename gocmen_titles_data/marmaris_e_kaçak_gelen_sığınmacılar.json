@@ -1,0 +1,52 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:00:17.589762",
+    "total_entries": 5,
+    "input": "marmaris'e kaçak gelen sığınmacılar",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "marmaris'e kaçak gelen sığınmacılar",
+      "entry_id": "155765349",
+      "author": "mitokondrisi calinmis okaryotik hucre",
+      "date": "18.08.2023 01:59",
+      "content": "araçtan iner inmez panikle bir anda dağılan sığınmacılardır.\n\nkaynak",
+      "has_external_url": true
+    },
+    {
+      "title": "marmaris'e kaçak gelen sığınmacılar",
+      "entry_id": "155765559",
+      "author": "gunesbulutlarinarasindan",
+      "date": "18.08.2023 02:11",
+      "content": "ülkenin dört bir yanında olan, kayda alınsa da hiçbir şeyi değiştirmeyen durumdur.\n\nbir ülke sadece savaş meydanında ya da masada kaybedilmezmiş, yaşayarak görüyoruz.",
+      "has_external_url": false
+    },
+    {
+      "title": "marmaris'e kaçak gelen sığınmacılar",
+      "entry_id": "155766824",
+      "author": "indirimli camel white",
+      "date": "18.08.2023 03:42",
+      "content": "bu tarz videolar arasında ilk defa kadın ve çocuk görüyorum.",
+      "has_external_url": false
+    },
+    {
+      "title": "marmaris'e kaçak gelen sığınmacılar",
+      "entry_id": "155766892",
+      "author": "aranan mayzah",
+      "date": "18.08.2023 03:49",
+      "content": "herkes suriye'de savaşın çoktan bittiğini biliyor, bunların halen hamamböceği gibi ülkeye kaçak yollarla girmesine izin verenin niyeti çok daha kötüdür.",
+      "has_external_url": false
+    },
+    {
+      "title": "marmaris'e kaçak gelen sığınmacılar",
+      "entry_id": "155766942",
+      "author": "eski deniz feneri",
+      "date": "18.08.2023 03:56",
+      "content": "çantalarını bırakıp da kaçan tuhaf kişilerdir. ne vardı ki o çantalarda?",
+      "has_external_url": false
+    }
+  ]
+}

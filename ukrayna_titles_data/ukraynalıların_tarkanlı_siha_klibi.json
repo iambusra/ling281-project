@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:24:15.815339",
+    "total_entries": 2,
+    "input": "ukraynalıların tarkanlı siha klibi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukraynalıların tarkanlı siha klibi",
+      "entry_id": "102965344",
+      "author": "sayonara",
+      "date": "03.03.2020 17:38",
+      "content": "ukraynalıların tarkan'ın şımarık şarkısıyla türkiye'ye destek verdiği, siha görüntülerinden oluşan klip tir.\n\nşarkının'yakalarsam muck muck' kısımları görüntülerle bayağı bir uyumlu olmuş.\n\nşu ukraynalılar bazen bizden birisi gibiler.",
+      "has_external_url": true
+    },
+    {
+      "title": "ukraynalıların tarkanlı siha klibi",
+      "entry_id": "102965748",
+      "author": "meinkampfz",
+      "date": "03.03.2020 17:48 ~ 17:49",
+      "content": "güzel yapmışlar canlarım. slava ukraine.",
+      "has_external_url": false
+    }
+  ]
+}

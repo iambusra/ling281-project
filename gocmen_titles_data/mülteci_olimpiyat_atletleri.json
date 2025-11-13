@@ -1,0 +1,60 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:38:56.334999",
+    "total_entries": 6,
+    "input": "mülteci olimpiyat atletleri",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "mülteci olimpiyat atletleri",
+      "entry_id": "62489790",
+      "author": "saseskir",
+      "date": "22.08.2016 13:26",
+      "content": "rio 2016'nın mülteci atletleri:\n\nyusra mardini - yüzme\nrami anis - yüzme\npopole misenga - judo\nyonas kinde - atletizm\nyolande bukasa mabika - judo\nyiech pur biel - atletizm\npaulo amotun lokoro - atletizm\njames chiengjiek - atletizm\nanjelina nadai lohalith - atletizm\nrose nathike lokonyen - atletizm\n\nayrıca: (bkz: bağımsız olimpiyat atletleri)",
+      "has_external_url": false
+    },
+    {
+      "title": "mülteci olimpiyat atletleri",
+      "entry_id": "62489899",
+      "author": "le2mentes",
+      "date": "22.08.2016 13:31",
+      "content": "savaşın insanların değil, politikanın eseri olduğunun. spor ve sanatın lobi, eğitim, kültür, güç ayrımı yapmadığının ispatı. hele derece alanlar (mardini) canlı kanıtı bunun.",
+      "has_external_url": false
+    },
+    {
+      "title": "mülteci olimpiyat atletleri",
+      "entry_id": "166689418",
+      "author": "turan saydam",
+      "date": "26.07.2024 20:48",
+      "content": "37 sporcusu ile seine nehrinde geçit yapan takım.\n\nhttps://tr.euronews.com/…t-takimi-paris-2024e-hazir",
+      "has_external_url": true
+    },
+    {
+      "title": "mülteci olimpiyat atletleri",
+      "entry_id": "167126474",
+      "author": "bu filmin kotu adami",
+      "date": "08.08.2024 10:15",
+      "content": "dünya'nın en çok mülteci barındıran ülkesi olmamıza rağmen mülteci takımında türkiye'ye sığınmış 1 tane bile sporcu yok bu da türkiye'deki mültecilerin vasıfsız ve faydasız olduğunun bir başka göstergesidir.\n\nkaynak aa",
+      "has_external_url": true
+    },
+    {
+      "title": "mülteci olimpiyat atletleri",
+      "entry_id": "167128738",
+      "author": "returnoflegend",
+      "date": "08.08.2024 11:27",
+      "content": "bu sonuç ülkemizdeki mültecilerin vasıfsız değil ülkemizin mülteci politikasının aşırı yanlış olduğunu gösterir.",
+      "has_external_url": false
+    },
+    {
+      "title": "mülteci olimpiyat atletleri",
+      "entry_id": "167129030",
+      "author": "objection rejected",
+      "date": "08.08.2024 11:37",
+      "content": "hem ülkemizdeki mültecilerin vasıfsız hem de mülteci politikasının yanlış olduğunu gösterir.\n\nvasıflı mülteciler alınsaydı onların aileleri, çocukları vs. de zaten sporla ilgilenirdi.\n\nmülteciler entegre edilmek istenseydi (bu kadar büyük sayıdaki mülteciyi entegre edemezsin) o zaman da düzgün eğitim, sosyal olanaklar vs. verilirdi.",
+      "has_external_url": false
+    }
+  ]
+}

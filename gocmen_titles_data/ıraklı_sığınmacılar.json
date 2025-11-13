@@ -1,0 +1,60 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:00:00.127905",
+    "total_entries": 6,
+    "input": "ıraklı sığınmacılar",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ıraklı sığınmacılar",
+      "entry_id": "53934454",
+      "author": "punkrock1907",
+      "date": "11.08.2015 13:26",
+      "content": "sözlükte halen başlığının açılmamış olması ilginç. evet gençler, bir de bunlar var ülkemizde. yani sokakta arapça konuşarak bağıranların bir kısmı da ıraklı. bunlar suriyelilerden biraz farklı. medeniyet çerçevesinde bir tık daha iyiler. büyük bir kısmı ingilizce biliyor. bazıları da abd ve kanada'ya gitmek için vize bekliyorlar. umarım hepsi siktirolup giderler.",
+      "has_external_url": false
+    },
+    {
+      "title": "ıraklı sığınmacılar",
+      "entry_id": "63539045",
+      "author": "kartallar yuksek ucar",
+      "date": "17.10.2016 14:07 ~ 14:08",
+      "content": "birleşmiş milletler: türkiye'ye 100 bin mülteci gelebilir demiş. bu sayının 1 milyona kadar çıkabileceği söyleniyor. ancak çeşitli bölgelerde sığınma yerleri yaptıkları için, ilk etapta 100 bini siz alın diyorlar.\n\nbu işin türkçesi şu: arapları size öteleyelim, musul kürtlere kalsın.\n\nsuriye'deki taktiğin aynısı.",
+      "has_external_url": false
+    },
+    {
+      "title": "ıraklı sığınmacılar",
+      "entry_id": "63551606",
+      "author": "muhteremmutsuz",
+      "date": "18.10.2016 01:37",
+      "content": "bence ülkenin ismini orta doğu united koyalım",
+      "has_external_url": false
+    },
+    {
+      "title": "ıraklı sığınmacılar",
+      "entry_id": "63558342",
+      "author": "baskin",
+      "date": "18.10.2016 13:44 ~ 13:45",
+      "content": "turkce ogrendikleri takdirde sorun olmayacak araplar-kurtlerdir.\n\n(bkz: turkce konusan araplar)",
+      "has_external_url": false
+    },
+    {
+      "title": "ıraklı sığınmacılar",
+      "entry_id": "91260528",
+      "author": "developing",
+      "date": "14.06.2019 10:35",
+      "content": "en az suriyeliler kadar huzur kaçırıyorlar, bunlar da para var ama görgü yok. alt daireyi satın almışlar, 5 çocuklu bir aile ve dün gece 3 e kadar kadının balkonda bağırma sesinden uyuyamadım en sonunda çenesi kapandı rahatça uyudum derken 1 saat önce çocuklardan birinin kıyamet koparcasına çığlıkları üzerine uyandım, bu gece aynısı olursa polisi arayacağım ya da katil olacağım.",
+      "has_external_url": false
+    },
+    {
+      "title": "ıraklı sığınmacılar",
+      "entry_id": "164182914",
+      "author": "eurasia",
+      "date": "07.05.2024 15:15 ~ 19:02",
+      "content": "üst edit: müdür ölmüş.\n\nistanbul eyüpsultan'da ırak uyruklu y.k. isimli öğrenci, liseden atılmasından sorumlu tuttuğu okul müdürü ibrahim oktugan'a silahla 5 el ateş etti.\n\nokulda büyük panik yaşanırken, oktugan'ın durumunun ağır olduğu bildirildi.\n\nırak uyruklu öğrencinin okulda öğretmenlerine karşı saygısızlık yaptığı ve birçok defa disiplin cezası aldığı öğrenildi .",
+      "has_external_url": true
+    }
+  ]
+}

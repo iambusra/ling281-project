@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:52:08.572624",
+    "total_entries": 1,
+    "input": "mültecilerden ayırt edilemeyecek kadar esmer olmak",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "mültecilerden ayırt edilemeyecek kadar esmer olmak",
+      "entry_id": "128417872",
+      "author": "multeci",
+      "date": "25.09.2021 15:11",
+      "content": "suriye cennet kurulu düzenim var diye dönemiyorum. bir de multeciye benzemiyorum bu da ayrı bir dert.",
+      "has_external_url": false
+    }
+  ]
+}

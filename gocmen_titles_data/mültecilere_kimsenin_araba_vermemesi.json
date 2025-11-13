@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:51:09.803343",
+    "total_entries": 2,
+    "input": "mültecilere kimsenin araba vermemesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "mültecilere kimsenin araba vermemesi",
+      "entry_id": "139414754",
+      "author": "0602rainman",
+      "date": "30.06.2022 14:32",
+      "content": "araba veren vermiş zaten...",
+      "has_external_url": false
+    },
+    {
+      "title": "mültecilere kimsenin araba vermemesi",
+      "entry_id": "139414835",
+      "author": "azap02",
+      "date": "30.06.2022 14:34",
+      "content": "mültecilere bırak araba vermeyi vatanı verdik vatanı.",
+      "has_external_url": false
+    }
+  ]
+}

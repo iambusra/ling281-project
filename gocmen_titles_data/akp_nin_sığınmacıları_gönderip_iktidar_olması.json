@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:00:58.721280",
+    "total_entries": 4,
+    "input": "akp'nin sığınmacıları gönderip iktidar olması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "akp'nin sığınmacıları gönderip iktidar olması",
+      "entry_id": "141213490",
+      "author": "gagoo",
+      "date": "12.08.2022 14:25",
+      "content": "dolar 18 liradan 13 liraya düşünce oyları artıyorsa, mülteciler gönderilirse de olur aynı durum. ama iktidar olmaya yeter mi? bilemiyorum.\ntanım: kısmen katıldığım tespit.",
+      "has_external_url": false
+    },
+    {
+      "title": "akp'nin sığınmacıları gönderip iktidar olması",
+      "entry_id": "141213634",
+      "author": "anatol1an",
+      "date": "12.08.2022 14:29",
+      "content": "(bkz: multeciler gitmedikce akpye oy vermeyecegim)",
+      "has_external_url": false
+    },
+    {
+      "title": "akp'nin sığınmacıları gönderip iktidar olması",
+      "entry_id": "141213793",
+      "author": "cokliberal",
+      "date": "12.08.2022 14:33",
+      "content": "şu osmanlıcılık fikrinden daha da sert bir tokat yemeden vazgeçseler iyi işler yaparlar ama cemaatlerin içini bildiğim için bunlar yine vaziyeti allaha havale edip kenara çekilir sonra kaosu dıj güjlere atarlar özetle kaygan zeminde bürokrasi değil akrobasi ile gidilir akrobasiyle devlet ancak böyle yönetilir",
+      "has_external_url": false
+    },
+    {
+      "title": "akp'nin sığınmacıları gönderip iktidar olması",
+      "entry_id": "141213926",
+      "author": "asvon",
+      "date": "12.08.2022 14:36",
+      "content": "reis suriyelilere kendini dürtturmedikce göndermez",
+      "has_external_url": false
+    }
+  ]
+}

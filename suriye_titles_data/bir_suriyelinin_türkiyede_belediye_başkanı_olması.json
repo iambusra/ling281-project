@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:40:28.600080",
+    "total_entries": 1,
+    "input": "bir suriyelinin türkiyede belediye başkanı olması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "bir suriyelinin türkiyede belediye başkanı olması",
+      "entry_id": "126226973",
+      "author": "eucitizen",
+      "date": "28.07.2021 13:10",
+      "content": "zaten vardır. çünkü suriyeliler cumhuriyet öncesinde de geldiler ve o gelenlerin çocukları “biz arabız” diyorlarsa ve doğu akdeniz bölgesinde yaşıyorlarsa kesin suriye'den gelmişlerdir.\n\nbu, yeni gelen suriyelilerin dışında, gayrimüslim azınlık topluluğa ait olan birisinin devlet kurumunda çalışması konuşulması lazım bence. çünkü bu yıllardır devlet kurulduğundan beri, bir tabu olmuştur.",
+      "has_external_url": false
+    }
+  ]
+}

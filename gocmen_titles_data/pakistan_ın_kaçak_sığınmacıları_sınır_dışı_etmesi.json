@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:00:36.357764",
+    "total_entries": 3,
+    "input": "pakistan'ın kaçak sığınmacıları sınır dışı etmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "pakistan'ın kaçak sığınmacıları sınır dışı etmesi",
+      "entry_id": "158363406",
+      "author": "protez bacakli kirpi",
+      "date": "02.11.2023 10:18",
+      "content": "yapması gerekeni yapan ülke hareketi.\n\nkaçak sığınmacıları korkunç boyutlara ulaşan pakistan kılıç kuşanıyor ve vatandaşlarının refahını en az şekilde düşünen bir ülke bile olsa yapması gerekeni yapıyor.\n\nülke toplu şekilde deport etme işlemlerine başlamış. kapı kapı dolaşıp sığınmacı avına çıkılmış ve tespit edilen her kimse sınır dışı ediliyor.\n\ndaha önce ülkede kayıtsız yaşayan afganlara ülkelerine geri dönmeleri çağrısında bulunulmuş ve kendilerine 1 kasım 2023'e kadar süre tanınmıştı. bu sürede 200bin kişi kendi kendilerine geri dönmüştü. şu anda bu çağrıya uymayanlar için işlem yapılıyor.\n\npakistan'da şu anda 2milyon kayıtsız afgan olduğu tahmin ediliyor. hükümet yetkilileri tek bir tane kaçak kalmayana kadar işlemlere devam edeceklerini belirtmiş.\n\nyalnız şöyle insani bir durum da mevcut: ülkede yasal olarak mülteci konumunda olanları da göndermeye başlamış pakistan. onlar için durum elbette acı görünüyor. bunun için de ülke, “afganlara insani yardım yaptıklarını ama bu konuda tek başlarına kaldıkları için bunun artık kontrolsüz ilerleme boyutuna vardığını ve bunun için aksiyon aldıklarını” söylüyor. gördükleri afganları sınır dışı ediyorlar gibi görünüyor şu an. hatta abd'de yaşama hakkı elde edebilmeye müsait 25bin afgan (geçici olarak pakistan'da bulunan) dahi sınır dışı ediliyormuş. pakistan herkese yeteri kadar süre tanıdığını söylemiş.\n\nhttps://www.theguardian.com/…f-undocumented-afghans",
+      "has_external_url": true
+    },
+    {
+      "title": "pakistan'ın kaçak sığınmacıları sınır dışı etmesi",
+      "entry_id": "158363471",
+      "author": "sex123",
+      "date": "02.11.2023 10:22",
+      "content": "şimdi ordan kovulan buraya doğru yola çıkacak",
+      "has_external_url": false
+    },
+    {
+      "title": "pakistan'ın kaçak sığınmacıları sınır dışı etmesi",
+      "entry_id": "158363520",
+      "author": "cafeinboy",
+      "date": "02.11.2023 10:23",
+      "content": "bize boşalttıkları kadarını alsalardı bari…\ndiye iç geçirten başlık.",
+      "has_external_url": false
+    }
+  ]
+}

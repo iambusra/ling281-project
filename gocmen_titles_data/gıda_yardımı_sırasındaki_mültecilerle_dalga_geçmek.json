@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:52:48.894733",
+    "total_entries": 1,
+    "input": "gıda yardımı sırasındaki mültecilerle dalga geçmek",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "gıda yardımı sırasındaki mültecilerle dalga geçmek",
+      "entry_id": "137345136",
+      "author": "tik tak tak",
+      "date": "12.05.2022 10:48 ~ 11:41",
+      "content": "reyhanlıda olduğu iddia edilen görüntülerde güvenlik görevlisi olduğu düşünülen kişi, yardım sırasındaki mültecilerle dalga geçmesi ırkçılığın alasıdır.\n\nhttps://twitter.com/…?s=21&t=tirmj6hab6yubldwv1j7xg",
+      "has_external_url": true
+    }
+  ]
+}

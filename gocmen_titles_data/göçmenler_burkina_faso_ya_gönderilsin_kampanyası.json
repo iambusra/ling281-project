@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:17:28.608667",
+    "total_entries": 2,
+    "input": "göçmenler burkina faso'ya gönderilsin kampanyası",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "göçmenler burkina faso'ya gönderilsin kampanyası",
+      "entry_id": "136562848",
+      "author": "noczed",
+      "date": "23.04.2022 15:52",
+      "content": "ingiltere ve danimarka ruanda ile anlaşıp göçmenleri oraya postalıyorsa biz de bizi seven burkina faso ile anlaşıp göçmenleri oraya gönderelim. olması gereken budur.",
+      "has_external_url": false
+    },
+    {
+      "title": "göçmenler burkina faso'ya gönderilsin kampanyası",
+      "entry_id": "136563169",
+      "author": "alayli psikolog",
+      "date": "23.04.2022 16:03",
+      "content": "nereye olduğu hiç fark etmez gönderilmelerini kapsayan her kampanyayı desteklerim.",
+      "has_external_url": false
+    }
+  ]
+}

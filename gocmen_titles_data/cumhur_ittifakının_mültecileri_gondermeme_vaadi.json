@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:49:09.876915",
+    "total_entries": 2,
+    "input": "cumhur ittifakının mültecileri gondermeme vaadi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "cumhur ittifakının mültecileri gondermeme vaadi",
+      "entry_id": "152606444",
+      "author": "her da",
+      "date": "20.05.2023 16:00 ~ 16:01",
+      "content": "bu vaadin iç seçmene değil, batı medyasına bir taahhüt olarak okuyorum.\n\nzaten batı erdoğan'ın gitmesini istemiyor. istedikleri nitelikli insanları alıyorlar ve kendilerini bir mülteci akinindan korumuş oluyorlar.\n\nmillet ittifakı lehine çıkardıkları haberlerde zaten, cumhur seçmenini konsolide etmek içindi ve başardılar",
+      "has_external_url": false
+    },
+    {
+      "title": "cumhur ittifakının mültecileri gondermeme vaadi",
+      "entry_id": "152606519",
+      "author": "paintman",
+      "date": "20.05.2023 16:03",
+      "content": "iç seçmene de vermiştir aynı vaadi. 2. tur seçimde cumhur ittifakı adayı kazanırsa bu ülkede bir daha sığınmacılar çok fazla geldi diye şikayetçi olmayacağıma emin olabilirsiniz..\n\ngelsinler içinden geçsinler ülkenin.. ben yanarım ama benden çok başkaları da yanar.",
+      "has_external_url": false
+    }
+  ]
+}

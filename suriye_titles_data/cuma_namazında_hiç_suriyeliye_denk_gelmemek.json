@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:41:15.849458",
+    "total_entries": 2,
+    "input": "cuma namazında hiç suriyeliye denk gelmemek",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "cuma namazında hiç suriyeliye denk gelmemek",
+      "entry_id": "138759915",
+      "author": "semsipasapasajindasesibuzusmeyen",
+      "date": "14.06.2022 19:54 ~ 19:55",
+      "content": "ulkede icinde bulundugum eylem. senegallisine, misirlisina, sudanlisina, afganina denk geldim ama hakikatten suriyeliye denk gelmedim hic cuma namazlarinda. muhakkak denk gelen olmustur ama ben hic gormedim.",
+      "has_external_url": false
+    },
+    {
+      "title": "cuma namazında hiç suriyeliye denk gelmemek",
+      "entry_id": "138760266",
+      "author": "buda benim nikim husnu",
+      "date": "14.06.2022 20:04",
+      "content": "(bkz: cuma namazında hiç ateiste denk gelmemek.) ile kapışabilir. kazanan ateist olur sanırım.",
+      "has_external_url": false
+    }
+  ]
+}

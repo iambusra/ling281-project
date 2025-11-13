@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:45:31.003894",
+    "total_entries": 1,
+    "input": "şokopop'un suriyelileri kucaklaması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "şokopop'un suriyelileri kucaklaması",
+      "entry_id": "165943283",
+      "author": "slayer09",
+      "date": "02.07.2024 23:06",
+      "content": "adamlar bizim ülkemizde ben arabım, diyor, camilerinizde hocalarınızın arkasında namaz kılmıyor, türklerden alışveriş yapmıyor, ama biz türküz deyince ırkçı şoven oluyoruz. kimsenin saçmalamasına taviz vermeyin. biz türküz burası da türkiye cumhuriyeti. yasal yollara vatandaşlık alana, ülkenin kurucu unsurlarından olan araplara en ufak bir yanlışımız olamaz ama dışardan gelen ülke demografisini bozan herkes evine dönmek zorunda. bir dahaki seçimlerde oyunuzu verirken buna göre oy verin.",
+      "has_external_url": false
+    }
+  ]
+}

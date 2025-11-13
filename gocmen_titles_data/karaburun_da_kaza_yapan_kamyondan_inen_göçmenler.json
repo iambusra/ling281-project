@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:17:41.018088",
+    "total_entries": 1,
+    "input": "karaburun'da kaza yapan kamyondan inen göçmenler",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "karaburun'da kaza yapan kamyondan inen göçmenler",
+      "entry_id": "131353592",
+      "author": "collision course",
+      "date": "20.12.2021 15:21",
+      "content": "izmir karaburun'da bir evin bahçe duvarına çarpan kamyondan yaklaşık 80 afgan ve pakistanlı göçmen çıktı.\n\nhttps://tele1.com.tr/…onlarca-multeci-cikti-529361/\n\nhttps://haber.sol.org.tr/…in-duvarina-carpti-321162",
+      "has_external_url": true
+    }
+  ]
+}

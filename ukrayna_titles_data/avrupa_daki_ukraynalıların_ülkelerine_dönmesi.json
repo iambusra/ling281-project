@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:24:08.700663",
+    "total_entries": 1,
+    "input": "avrupa'daki ukraynalıların ülkelerine dönmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "avrupa'daki ukraynalıların ülkelerine dönmesi",
+      "entry_id": "134329119",
+      "author": "bilemiyorum altan bilemiyorum",
+      "date": "28.02.2022 16:50",
+      "content": "rusya’nın ukrayna’ya işgali sonrası binlerce kişi ülkeyi terk etmek için yola çıkarken, avrupa’nın dört bir yanında yaşayan ukraynalı erkek ve kadınlar, savaşta vatandaşlarını yalnız bırakmamak için ülkelerine geri dönüyor.\n\nyolculuk yapanların açıklamalarına dair euronews videosu .",
+      "has_external_url": true
+    }
+  ]
+}

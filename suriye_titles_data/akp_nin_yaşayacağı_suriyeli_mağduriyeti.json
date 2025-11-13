@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:29:42.946289",
+    "total_entries": 1,
+    "input": "akp nin yaşayacağı suriyeli mağduriyeti",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "akp nin yaşayacağı suriyeli mağduriyeti",
+      "entry_id": "91060917",
+      "author": "ansiy7",
+      "date": "09.06.2019 12:10 ~ 12:12",
+      "content": "çok değil, 5 bilemedin 10 yıl sonra olacaktır. biz bunlara iş verdik, aş verdik ama gelin görün ki bunlar nankör, bunlar hain... şeklinde olması muhtemeldir.",
+      "has_external_url": false
+    }
+  ]
+}

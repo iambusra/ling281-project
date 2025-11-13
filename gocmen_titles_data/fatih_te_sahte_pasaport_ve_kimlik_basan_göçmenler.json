@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:17:48.939853",
+    "total_entries": 2,
+    "input": "fatih'te sahte pasaport ve kimlik basan göçmenler",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "fatih'te sahte pasaport ve kimlik basan göçmenler",
+      "entry_id": "126787120",
+      "author": "vagus579",
+      "date": "11.08.2021 12:09",
+      "content": "bu afganlar ne zaman geldi, ne zaman iletişim kurdunuz, ne zaman ürettiniz? kısa sürede bunu yapanların 3-5 sene sonrasını düşünemiyorum.",
+      "has_external_url": false
+    },
+    {
+      "title": "fatih'te sahte pasaport ve kimlik basan göçmenler",
+      "entry_id": "126787132",
+      "author": "ideadumpster",
+      "date": "11.08.2021 12:10",
+      "content": "sahtekar ithaline dair khk yayını yakındır.",
+      "has_external_url": false
+    }
+  ]
+}

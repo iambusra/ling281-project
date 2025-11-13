@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:54:43.655978",
+    "total_entries": 1,
+    "input": "seçim sonucunu mültecilerin belirlemiş olması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "seçim sonucunu mültecilerin belirlemiş olması",
+      "entry_id": "152921079",
+      "author": "kunteperbaba",
+      "date": "28.05.2023 19:26",
+      "content": "yazık ettiniz memlekete. yazıklar olsun.",
+      "has_external_url": false
+    }
+  ]
+}

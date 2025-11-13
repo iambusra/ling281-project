@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:15:51.088631",
+    "total_entries": 1,
+    "input": "angela merkel'in göçmenler itirafı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "angela merkel'in göçmenler itirafı",
+      "entry_id": "170576242",
+      "author": "kristofsomon",
+      "date": "29.11.2024 02:09 ~ 02:10",
+      "content": "merkel, “özgürlük” adlı kitabında \"kaçak suriyelileri durdurma karşılığında, türklere ab vizesinin kalkması gündeme geldi. biz 3 milyar euro'yu verdik. suriyeliler orada kaldı, ab'ye göç yüzde 95 azaldı“ diye yazdı.\n\nkaynak; https://x.com/…309288?s=46&t=1c7esmftvrgj4wc45m8w2q\n\ngörsel\ngörsel",
+      "has_external_url": true
+    }
+  ]
+}

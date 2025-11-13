@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:11:32.270953",
+    "total_entries": 1,
+    "input": "türkiye'nin suriyeli ılımlı muhalifleri eğitmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türkiye'nin suriyeli ılımlı muhalifleri eğitmesi",
+      "entry_id": "46257920",
+      "author": "keyfinbilir",
+      "date": "10.10.2014 23:53 ~ 23:54",
+      "content": "savaşmayı beceremeyen ve ılımlı muhalif dedikleri paralı eşkıyaların eğit-donat modeliyle eğitilip daha ciddi boyutta esad'a karşı isyan çıkartabilecek vaziyete getirilmesidir.\n\nondan sonra vay efendim rte ve şürekâsının terörle ne alakası var? hep kılıçdaroğlu, hep cehape zihniyeti.",
+      "has_external_url": false
+    }
+  ]
+}

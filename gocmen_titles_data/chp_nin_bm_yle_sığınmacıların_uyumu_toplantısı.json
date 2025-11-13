@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:04:20.278365",
+    "total_entries": 3,
+    "input": "chp'nin bm'yle sığınmacıların uyumu toplantısı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "chp'nin bm'yle sığınmacıların uyumu toplantısı",
+      "entry_id": "164372400",
+      "author": "portekizli forvet",
+      "date": "13.05.2024 16:20",
+      "content": "yakında bir sığınmacı chp'den milletvekili olur.",
+      "has_external_url": false
+    },
+    {
+      "title": "chp'nin bm'yle sığınmacıların uyumu toplantısı",
+      "entry_id": "164372658",
+      "author": "ne rakisi sevim",
+      "date": "13.05.2024 16:29",
+      "content": "isgalcilerin, ekonomik krizin, uluslararasi itibarsizligin ve daha bir cok konunun tek sorumlusunun ak parti olmasina ragmen, eksi sozluk'teki aktrollerden biri olan (bkz: portekizli forvet)'e bu yorumu yapma cesaretini veren chpli yoneticileri aldiklari bu karardan dolayi lanetliyorum.\n\n--- spoiler ---\nyakında bir sığınmacı chp'den milletvekili olur.\n--- spoiler ---\n\nbu yorumda (bkz: portekizli forvet)'in utanmazligi, arsizligi, yuzsuzlugu var elbette ama daha vahim konu chp'nin halka ragmen isgalcileri ulkemize entegre etmeye calismasi.",
+      "has_external_url": false
+    },
+    {
+      "title": "chp'nin bm'yle sığınmacıların uyumu toplantısı",
+      "entry_id": "164372710",
+      "author": "niketese",
+      "date": "13.05.2024 16:31 ~ 16:32",
+      "content": "(bkz: kanser hücrelerinin vücut ile uyumu toplantısı)",
+      "has_external_url": false
+    }
+  ]
+}

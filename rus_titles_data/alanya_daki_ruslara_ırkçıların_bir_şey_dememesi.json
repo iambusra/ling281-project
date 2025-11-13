@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:28:50.012547",
+    "total_entries": 2,
+    "input": "alanya'daki ruslara ırkçıların bir şey dememesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "alanya'daki ruslara ırkçıların bir şey dememesi",
+      "entry_id": "166586707",
+      "author": "corydoras",
+      "date": "23.07.2024 12:16",
+      "content": "ruslar kadınlara laf atmaya başlayıp çocuklara tecavüz ederlerse benzer tepkiler onlara da verilecektir.\n\nbenim tanıştığım yerleşik ruslardan şikayetçi olana denk gelmedim bizden daha medeniler.",
+      "has_external_url": false
+    },
+    {
+      "title": "alanya'daki ruslara ırkçıların bir şey dememesi",
+      "entry_id": "166586886",
+      "author": "kupelimam",
+      "date": "23.07.2024 12:23",
+      "content": "türkiye'de rus mülteci mi varmış?",
+      "has_external_url": false
+    }
+  ]
+}

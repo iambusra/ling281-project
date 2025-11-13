@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:41:16.442439",
+    "total_entries": 2,
+    "input": "afgan mülteciyi tokatlayan şehir eşkiyası",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "afgan mülteciyi tokatlayan şehir eşkiyası",
+      "entry_id": "102458824",
+      "author": "marx i tecavuz eden redkit",
+      "date": "22.02.2020 12:22",
+      "content": "ülkenin şuan ki halinden sorumlu olan ayının eşkıyalığıdır.",
+      "has_external_url": false
+    },
+    {
+      "title": "afgan mülteciyi tokatlayan şehir eşkiyası",
+      "entry_id": "102459290",
+      "author": "adadakikodcu",
+      "date": "22.02.2020 12:37",
+      "content": "milliyetçilik kisvesi altındaki çete artığı birkaç eşkiyanın çekip, polis özel harekat gibi şerefli bir kurumun adı altındaki sahte hesaptan yayınladıkları videodan öğrendiğimiz çirkef ve faşist eylemdir. bkz twitter linki",
+      "has_external_url": true
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:02:26.883602",
+    "total_entries": 1,
+    "input": "enuygun'un sığınmacılara bilet satmaması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "enuygun'un sığınmacılara bilet satmaması",
+      "entry_id": "164187457",
+      "author": "socialfish",
+      "date": "07.05.2024 18:28 ~ 18:29",
+      "content": "enuygun ile alakası olmayan durumdur. şöyle ki; enuygun sitesi bir aracıdır. yapılan sorgulamaya göre birçok firmadan aynı anda seyahat tekliflerini, ilgili firmaların sisteminden anlık olarak çeker ve kullanıcının tercihine sunar. iş modeli olarak ise, yolcu/müşteri bulduğu için satışa aracılık ettiği bilet başına ilgili firmadan komisyon kazanır. müşteriye enuygun sitesi üzerinde gösterilen hata mesajı, ilgili firma sisteminde tanımlanan \"suriye\" uyruk seçimi yapılan yolculara gösterilen hata mesajıdır. doğal olarak, sistem ilgili firma sisteminden gelen hata mesajını ekranda gösterir. firma açıklaması burada .\n\nuzun lafın kısası, tebrik edilmesi gereken yer enuygun değil, ilgili seyahat şirketidir. (bkz: swh)",
+      "has_external_url": true
+    }
+  ]
+}

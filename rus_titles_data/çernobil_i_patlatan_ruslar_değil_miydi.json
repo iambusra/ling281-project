@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:28:49.365547",
+    "total_entries": 1,
+    "input": "çernobil'i patlatan ruslar değil miydi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "çernobil'i patlatan ruslar değil miydi",
+      "entry_id": "14080866",
+      "author": "gxl",
+      "date": "24.09.2008 14:46",
+      "content": "nükleer santral ihalesine teklif veren tek şirketin ruslar olduğunu öğrenince insanın aklına düşen soru. yoksa çernobil ukrayna'da mıydı? ukrayna'da olması ukraynalılar'ın işlettiği anlamına mı geliyor, yoksa oraya kurup işleten ruslar mıydı? sovyetler dağılmadan önce miydi, sonra mıydı? neydi, ne?\n\nhttp://www.hurriyet.com.tr/…11.asp?gid=229&sz=60874",
+      "has_external_url": true
+    }
+  ]
+}

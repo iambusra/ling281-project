@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:11:25.372955",
+    "total_entries": 2,
+    "input": "isveç'in 106 yaşındaki göçmeni sınırdışı etmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "isveç'in 106 yaşındaki göçmeni sınırdışı etmesi",
+      "entry_id": "70284497",
+      "author": "koseli cember",
+      "date": "19.08.2017 17:16",
+      "content": "(bkz: isveç'in 106 yavşak göçmeni sınırdışı etmesi)",
+      "has_external_url": false
+    },
+    {
+      "title": "isveç'in 106 yaşındaki göçmeni sınırdışı etmesi",
+      "entry_id": "70284698",
+      "author": "ahsap dibegin demir tokmagi",
+      "date": "19.08.2017 17:29",
+      "content": "106 yaşında göçmen mi olur lannn....\nneden kaçıyon.... nereye ne yepmaya kaçıyon...\nhuzurevi mi burası demişler ....\nfırçayla götünü mü yıkayacaz demişler ...\ndua etsin krametoryuma göndermemişler...",
+      "has_external_url": false
+    }
+  ]
+}

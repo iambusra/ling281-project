@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:06:19.521873",
+    "total_entries": 2,
+    "input": "suriyelilerle birlikte kaçan fransız gazeteciler",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelilerle birlikte kaçan fransız gazeteciler",
+      "entry_id": "54864805",
+      "author": "pipisiolmayangil",
+      "date": "17.09.2015 16:09",
+      "content": "(bkz: siktir git seni tutan mı var it)\n(bkz: defol git)",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyelilerle birlikte kaçan fransız gazeteciler",
+      "entry_id": "54865802",
+      "author": "matrix",
+      "date": "17.09.2015 16:54",
+      "content": "(bkz: ben koş diyorum gerard depardieu)\n\nyok la, o başka birşeydi sanki.",
+      "has_external_url": false
+    }
+  ]
+}

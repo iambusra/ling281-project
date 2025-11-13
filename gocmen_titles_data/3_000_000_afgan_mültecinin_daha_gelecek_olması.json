@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:45:42.700142",
+    "total_entries": 3,
+    "input": "3.000.000 afgan mültecinin daha gelecek olması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "3.000.000 afgan mültecinin daha gelecek olması",
+      "entry_id": "75706767",
+      "author": "başlık taşıyan",
+      "date": "04.04.2018 17:09",
+      "content": "(bkz: 3 milyon afgan mültecinin daha gelecek olması)",
+      "has_external_url": false
+    },
+    {
+      "title": "3.000.000 afgan mültecinin daha gelecek olması",
+      "entry_id": "75706890",
+      "author": "karagozluesmeralda",
+      "date": "04.04.2018 17:14 ~ 17:15",
+      "content": "bazılarının geri döndürebilir olmasını umduğu göç. sizi sınır dışı edeceğiz dendiğinde bu adamlar da “olur abi” diyip gidecekler mi? bu iş en iyi ihtimalle pkk vari örgütlenmelerle biter, kötü ihtimal iç savaş. yanılmayı umuyorum.",
+      "has_external_url": false
+    },
+    {
+      "title": "3.000.000 afgan mültecinin daha gelecek olması",
+      "entry_id": "75707066",
+      "author": "yokcanimsagoll",
+      "date": "04.04.2018 17:22",
+      "content": "başımızın üstünde yerleri var çünkü bir tek orası boş.",
+      "has_external_url": false
+    }
+  ]
+}

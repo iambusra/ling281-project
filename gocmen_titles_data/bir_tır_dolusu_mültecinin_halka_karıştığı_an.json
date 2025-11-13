@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:44:18.171444",
+    "total_entries": 4,
+    "input": "bir tır dolusu mültecinin halka karıştığı an",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "bir tır dolusu mültecinin halka karıştığı an",
+      "entry_id": "137908409",
+      "author": "sifirinaltindaotuzalti",
+      "date": "25.05.2022 22:48 ~ 23:07",
+      "content": "aramaya inandım ama bulamadım.\n\ngebze'de yaşandığı bildirilen olaya ait görüntülerdir\n\nhttps://twitter.com/…glu/status/1529353727274016770\n\nbir günde kim bilir kaç tır dolusu mülteci nakliyesi yapılıyordur bu şekilde? tez zamanda geldiğiniz deliğe dönmeniz temennisiyle...\n\nedit: başlığı varmış\n\n(bkz: 24 mayıs 2022 mültecilerin gebze çıkarması)",
+      "has_external_url": true
+    },
+    {
+      "title": "bir tır dolusu mültecinin halka karıştığı an",
+      "entry_id": "137908783",
+      "author": "merenwenn",
+      "date": "25.05.2022 22:57",
+      "content": "national geographic belgeseline dönen ülkemden bir videodur.",
+      "has_external_url": false
+    },
+    {
+      "title": "bir tır dolusu mültecinin halka karıştığı an",
+      "entry_id": "137908971",
+      "author": "bluebluesbandb",
+      "date": "25.05.2022 23:00",
+      "content": "sözlüğün ileri gelen akpli trollerinin 3 maymunu oynadığı başlıktır",
+      "has_external_url": false
+    },
+    {
+      "title": "bir tır dolusu mültecinin halka karıştığı an",
+      "entry_id": "137909079",
+      "author": "smyrnian eagle",
+      "date": "25.05.2022 23:02",
+      "content": "açıldı bu başlık ama varsın bir daha açılsın bir an bile gündemden düşmesin ülkenin ne hale düştüğü.",
+      "has_external_url": false
+    }
+  ]
+}

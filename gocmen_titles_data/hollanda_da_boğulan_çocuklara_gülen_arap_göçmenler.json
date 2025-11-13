@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:15:46.032297",
+    "total_entries": 2,
+    "input": "hollanda'da boğulan çocuklara gülen arap göçmenler",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "hollanda'da boğulan çocuklara gülen arap göçmenler",
+      "entry_id": "175670513",
+      "author": "cag atlanirken arada kalan adam",
+      "date": "29.05.2025 18:21",
+      "content": "bir hafta önce emma (8) ve jeffrey (10) adında iki çocuğun boğulmasından sonra yapılan anıt mezarda gülmeleri yetmemiş, bir de oraya bırakılan oyuncakları da dızlamışlar.\n\npaylaşımı yapan adam, bir alt yorumda videokilerin bulunduklarını ve suriyeli olduklarını söylemiş\n\ngörsel\n\nx linki\n\nhaber",
+      "has_external_url": true
+    },
+    {
+      "title": "hollanda'da boğulan çocuklara gülen arap göçmenler",
+      "entry_id": "175671031",
+      "author": "roman yazanski",
+      "date": "29.05.2025 18:46 ~ 19:01",
+      "content": "yakalanırlarsa bize deport edilecek dızoları içeren haber.",
+      "has_external_url": false
+    }
+  ]
+}

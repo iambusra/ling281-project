@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:29:51.030469",
+    "total_entries": 3,
+    "input": "ruslara tepki olarak 5 yıllık rus eşi boşamak",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ruslara tepki olarak 5 yıllık rus eşi boşamak",
+      "entry_id": "56791731",
+      "author": "habemus kakam",
+      "date": "07.12.2015 19:44",
+      "content": "ilginç bir durum.\n\nhttps://twitter.com/…ucom/status/673919734686052352",
+      "has_external_url": true
+    },
+    {
+      "title": "ruslara tepki olarak 5 yıllık rus eşi boşamak",
+      "entry_id": "56791942",
+      "author": "lordofphantom",
+      "date": "07.12.2015 19:55",
+      "content": "bu insanlar neyin kafasını yaşıyor mk dedirten olaydır",
+      "has_external_url": false
+    },
+    {
+      "title": "ruslara tepki olarak 5 yıllık rus eşi boşamak",
+      "entry_id": "56792203",
+      "author": "bilader",
+      "date": "07.12.2015 20:07 ~ 20:09",
+      "content": "(bkz: cem yılmaz'ın beş rus kadınla eğlenmesi)\n\nşimdi bu tepki işini bir standartlaştırsak iyi olacak. boşuyoz mu coşuyoz mu?",
+      "has_external_url": false
+    }
+  ]
+}

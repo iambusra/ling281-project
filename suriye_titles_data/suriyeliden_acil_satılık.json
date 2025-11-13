@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T15:15:48.145004",
+    "total_entries": 1,
+    "input": "suriyeliden acil satılık",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeliden acil satılık",
+      "entry_id": "170934334",
+      "author": "def",
+      "date": "11.12.2024 16:51 ~ 16:54",
+      "content": "kendi seçmenine \"suriyeliler gidiyor\" diye propaganda yapmaya çalışan fahrettin'in servis ettiği haberlerden birisidir. zaten ntv de aynı ahaber gibi kendisinin propaganda kanallarındandır.\n\ngidip gidilmediğini özellikle bayramlarda etrafınıza bakarak rahatlıkla anlayabilirsiniz.",
+      "has_external_url": false
+    }
+  ]
+}

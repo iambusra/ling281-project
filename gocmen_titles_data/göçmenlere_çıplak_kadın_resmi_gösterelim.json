@@ -1,0 +1,52 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:23:17.058038",
+    "total_entries": 5,
+    "input": "göçmenlere çıplak kadın resmi gösterelim",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "göçmenlere çıplak kadın resmi gösterelim",
+      "entry_id": "20891016",
+      "author": "imago",
+      "date": "15.11.2010 23:35",
+      "content": "ntvmsnbc de yer alan bir habere göre danimarka'da kökten dinci göçmenlerin ülkeye göçünü engellemek için ülkeye gelen göçmenlere çıplak kadın resmi gösterilmesi önerisinde bulunulmuş: http://www.ntvmsnbc.com/id/25151448/\n\nburadan danimarka göçmenlik bürosuna sesleniyorum, arkadaşım sen danimarkalı çıplak hatunları gösterirsen kökten dincileri belki biraz caydırırsın da bunun beraberinde getireceği danimarkaya apaçi göçünü nasıl engellersin bilemiyorum. şöyle bi düşünüyorum da:\n\n- olm duydun mu danimarkada göçmenlere çıplak kadın resmi gösteriyolarmış\n+ oha ak ortama gel kim bilir daha sonra neler oluyodur..\n- kesin gidelim lan ilik gibiler zaten..\n+ evet valla burda içimiz kurudu, adamların devlete bak ya olayı bitirmişler kanka!",
+      "has_external_url": true
+    },
+    {
+      "title": "göçmenlere çıplak kadın resmi gösterelim",
+      "entry_id": "20891044",
+      "author": "piirsikli",
+      "date": "15.11.2010 23:38",
+      "content": "danimarka mal müdürlüğü'nün peçete ihalelerini daha sık yapmasını gerektireceğinden masraflı bir öneridir.",
+      "has_external_url": false
+    },
+    {
+      "title": "göçmenlere çıplak kadın resmi gösterelim",
+      "entry_id": "20891051",
+      "author": "weeping guitar",
+      "date": "15.11.2010 23:40",
+      "content": "(bkz: am var dediler geldik)",
+      "has_external_url": false
+    },
+    {
+      "title": "göçmenlere çıplak kadın resmi gösterelim",
+      "entry_id": "20891085",
+      "author": "fosseptic",
+      "date": "15.11.2010 23:43",
+      "content": "işte meclisimizin yaşaması gereken kafa. okullardan atatürk resimlerini kaldırıp dita von teese resimleri as, bir tane türbanlı kalırsa şerefsizim.",
+      "has_external_url": false
+    },
+    {
+      "title": "göçmenlere çıplak kadın resmi gösterelim",
+      "entry_id": "20891097",
+      "author": "cameltosis",
+      "date": "15.11.2010 23:44 ~ 23:45",
+      "content": "ah benim güzel saf avrupalım, gothum, slavım, cermenim dedirten...",
+      "has_external_url": false
+    }
+  ]
+}

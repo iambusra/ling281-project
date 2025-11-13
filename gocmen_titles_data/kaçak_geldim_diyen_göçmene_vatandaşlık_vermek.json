@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:13:23.047931",
+    "total_entries": 4,
+    "input": "kaçak geldim diyen göçmene vatandaşlık vermek",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "kaçak geldim diyen göçmene vatandaşlık vermek",
+      "entry_id": "151056803",
+      "author": "dam ustunde un eleyen adam",
+      "date": "07.04.2023 17:28",
+      "content": "sadece türkiye'de yaşanabilen olaylar'da ilk sıralara oynayabilecek hadise. evet bence sadece türkiye'de olabilir bu olay çünkü diğer ülkeler normal yollarla gelen insanlara bile 10 seneden aşağı vatandaşlık vermezken biz kaçak gelene 5 sene olmadan veriyoruz. süper olay.\n\nhttps://twitter.com/…bir/status/1644324981562654720",
+      "has_external_url": true
+    },
+    {
+      "title": "kaçak geldim diyen göçmene vatandaşlık vermek",
+      "entry_id": "151057090",
+      "author": "serbesti",
+      "date": "07.04.2023 17:42",
+      "content": "16 milyon emeklisi olan ülkede gayet normal işlem\n\nçalışma yaşlarında çok daha fazla göçmene ihtiyaç var.",
+      "has_external_url": false
+    },
+    {
+      "title": "kaçak geldim diyen göçmene vatandaşlık vermek",
+      "entry_id": "151057195",
+      "author": "olricolricolric",
+      "date": "07.04.2023 17:46 ~ 17:49",
+      "content": "(bkz: uluslararası koruma)\n(bkz: zafer partililerin yalancı olması)\n(bkz: yabancı kimliği)",
+      "has_external_url": false
+    },
+    {
+      "title": "kaçak geldim diyen göçmene vatandaşlık vermek",
+      "entry_id": "151057204",
+      "author": "umitsizseniz umit sizsiniz",
+      "date": "07.04.2023 17:47 ~ 17:48",
+      "content": "daha fenası taliban destekçisi bu afganlar. neden bu genç savaşabilecek erkekleri ülkeye alıyorsunuz?",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T16:01:53.868207",
+    "total_entries": 1,
+    "input": "bıktık bu suriyelilerden",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "bıktık bu suriyelilerden",
+      "entry_id": "68223633",
+      "author": "nofix",
+      "date": "18.05.2017 02:28",
+      "content": "nasıl başlığı açılmamış anlamadım.twitter'da arada bi insanların yazıp, isyan ettiği cümle.",
+      "has_external_url": false
+    }
+  ]
+}

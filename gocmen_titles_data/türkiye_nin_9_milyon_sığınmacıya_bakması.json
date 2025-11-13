@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:58:28.565353",
+    "total_entries": 2,
+    "input": "türkiye'nin 9 milyon sığınmacıya bakması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türkiye'nin 9 milyon sığınmacıya bakması",
+      "entry_id": "124870418",
+      "author": "kahverenk",
+      "date": "21.06.2021 20:19",
+      "content": "avrupa'nın talimatıyla yaptırılan iştir. akp dik duramıyor. millete ayrı bir hikaye yutturmaya çalışıyorlar orası ayrı.",
+      "has_external_url": false
+    },
+    {
+      "title": "türkiye'nin 9 milyon sığınmacıya bakması",
+      "entry_id": "124870741",
+      "author": "bu nick kullanimdaysa banane",
+      "date": "21.06.2021 20:27",
+      "content": "önce bu kadar mülteciye bakıyoruz diye avrupa ve abd' den para dileniyoruz, sonra onları bir güzel doyurup vatandaş yaparak oy topluyoruz.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:34:43.257038",
+    "total_entries": 2,
+    "input": "rusların polat alemdar'a kurduğıu pusu",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rusların polat alemdar'a kurduğıu pusu",
+      "entry_id": "139897193",
+      "author": "15 yildir okurum da simdi ne yazacagim",
+      "date": "12.07.2022 19:36 ~ 19:46",
+      "content": "(bkz: kurtlar vadisi 53. bölüm pusu sahnesi)\n\nbaşlığı olan bir konuda üstelik imla hatalı başlık açmak da ne bileyim...\n\nedit: ilk entry uçmuş.",
+      "has_external_url": false
+    },
+    {
+      "title": "rusların polat alemdar'a kurduğıu pusu",
+      "entry_id": "139897314",
+      "author": "gazanfer ruhi supersonicoglu",
+      "date": "12.07.2022 19:39",
+      "content": "(bkz: typo)",
+      "has_external_url": false
+    }
+  ]
+}

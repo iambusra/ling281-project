@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:29:32.139181",
+    "total_entries": 3,
+    "input": "türkiyeden ruslara aşı ve pcr zorunluluğu gelmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türkiyeden ruslara aşı ve pcr zorunluluğu gelmesi",
+      "entry_id": "128098051",
+      "author": "suendenbock",
+      "date": "16.09.2021 12:10 ~ 12:23",
+      "content": "zaten aylardır isteniyordu. temmuzdan bu yana. tweet'i yazan herhalde haberi yanlış anlamış. dedim içimden.\n\nsonra dur bakayım neyi yanlış anlamış diye kaynak olarak gösterilen twiti yazan ham kafanın bahsettiği haberi bulmaya karar verdim.\n\nnasıl bir adam bir haberden bahsedip, o haber sitesini linklemez, o da ayrı mesele.\n\nneyse google'da kısa bir arama ile orijinal habere ulaştım.\n\nhttps://ria.ru/20210916/turtsiya-1750298140.html\n\nne yazıyor haberde? türkiye geçmişte istediği gibi rus turistlerden pcr veyasputnik v aşısı kartı istemeye devam edecek. ne değişmiş? eskiden diğer rus aşılarını (epivaccorona\" veya \"sputnik light\") kabul ederken, artık bu aşılar ile alınan aşı kartları kabul edilmeyecek. zaten o aşıları olan rus var mıdır bilmiyorum.",
+      "has_external_url": true
+    },
+    {
+      "title": "türkiyeden ruslara aşı ve pcr zorunluluğu gelmesi",
+      "entry_id": "128098058",
+      "author": "cmrdlny93",
+      "date": "16.09.2021 12:10",
+      "content": "aylar öncesinden yazdığım, yine double üst tabaka dışında kalan kesimin kısıtlama adı altında esarete ve açlık-sefalet hücresine döndürülecek olmasının ilk adımlarının atıldığı göstergesidir. kasım ayının en geç tarih olacağı inancındayım kapanmalar için. ve bu sefer de hiç yok h.sonrları yok bilmem ne diye olacağını düşünmüyorum, direk 05:00-21:00 arası yasak esnaf sadece paket ama uludağ'da viskili ps5 li turnuva ve eğlenceler double kesime serbest...",
+      "has_external_url": false
+    },
+    {
+      "title": "türkiyeden ruslara aşı ve pcr zorunluluğu gelmesi",
+      "entry_id": "128106683",
+      "author": "taylor durden",
+      "date": "16.09.2021 16:48",
+      "content": "ruslara herhangi bir yaptırımımız yok",
+      "has_external_url": false
+    }
+  ]
+}

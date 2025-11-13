@@ -1,0 +1,52 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:44:21.534231",
+    "total_entries": 5,
+    "input": "olası bir savaş durumunda suriyeliler pozisyonu",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "olası bir savaş durumunda suriyeliler pozisyonu",
+      "entry_id": "165918726",
+      "author": "bu filmin kotu adami",
+      "date": "02.07.2024 09:57",
+      "content": "(bkz: 3. dünya savaşı riski var)\n\ntürkiye'nin herhangi bir ülke ile savaşa girdiğinde suriyelilerin hangi saflarda yer alacağını tahmin edebiliyor musunuz?\n\nşu video fikir verebilir.",
+      "has_external_url": true
+    },
+    {
+      "title": "olası bir savaş durumunda suriyeliler pozisyonu",
+      "entry_id": "165918838",
+      "author": "seven years in tibet",
+      "date": "02.07.2024 10:02",
+      "content": "1. dünya savaşı'nda hangi pozisyonu aldılarsa yine onu yapacaklardır.\n\naraplar hiçbir zaman türkleri dost olarak görmedi. görmeyeceklerdir de.",
+      "has_external_url": false
+    },
+    {
+      "title": "olası bir savaş durumunda suriyeliler pozisyonu",
+      "entry_id": "165918905",
+      "author": "palamut52",
+      "date": "02.07.2024 10:06",
+      "content": "arkanıza dikkat edin",
+      "has_external_url": false
+    },
+    {
+      "title": "olası bir savaş durumunda suriyeliler pozisyonu",
+      "entry_id": "165918990",
+      "author": "yetkin99",
+      "date": "02.07.2024 10:09",
+      "content": "15 temmuz gecesi tankları alkışlayip korkudan atm sırasına koşan sekülerlerden daha onurlu bir pozisyon olacaktır.\nseküler tayfa koşarak yunan sınırına gidecek zaten.",
+      "has_external_url": false
+    },
+    {
+      "title": "olası bir savaş durumunda suriyeliler pozisyonu",
+      "entry_id": "165919080",
+      "author": "hunter06",
+      "date": "02.07.2024 10:13",
+      "content": "vatan hainlerinin ülkeye doldurduğu bu yavşakların tarafını tahmin etmek pekte zor olsamasa gerek.",
+      "has_external_url": false
+    }
+  ]
+}

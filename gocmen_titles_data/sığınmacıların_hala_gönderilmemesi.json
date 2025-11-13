@@ -1,0 +1,52 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:03:52.318087",
+    "total_entries": 3,
+    "input": "sığınmacıların hala gönderilmemesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "sığınmacıların hala gönderilmemesi",
+      "entry_id": "179432477",
+      "author": "bayindirlikveiskan",
+      "date": "28.10.2025 14:29",
+      "content": "akp bunu da herkese yedirdi. kabul ettirdi. kimse artık sığınmacı demiyor.\n\nakp bir şekilde her istediğini hem kendi seçmenine hem de muhalefete yediriyor. helal valla. ben bile unutmuştum uzun zamandır.",
+      "referenced_content": [],
+      "has_external_url": false
+    },
+    {
+      "title": "sığınmacıların hala gönderilmemesi",
+      "entry_id": "179432647",
+      "author": "bozaj",
+      "date": "28.10.2025 14:39",
+      "content": "unutturularak normalleştirilen büyük problem.",
+      "referenced_content": [],
+      "has_external_url": false
+    },
+    {
+      "title": "sığınmacıların hala gönderilmemesi",
+      "entry_id": "179432872",
+      "author": "yorganadam",
+      "date": "28.10.2025 14:51",
+      "content": "(bkz: #164339029)\nsorun yaratmak isteyenler getirdi, sorun çözmek isteyen varsa geri gönderir.",
+      "referenced_content": [
+        {
+          "type": "entry",
+          "title": "gocmenlerin-gonderilmesi-hangi-sorunu-cozecek",
+          "entry_id": "164339029",
+          "author": "yorganadam",
+          "date": "12.05.2024 15:46 ~ 16:18",
+          "content": "çoğu talep azalması nedeniyle çok hızlı ve doğal şekilde olmak üzere, 30 saniyede akla gelenler:\n1. gıda enflasyonu\n2. barınma sorunu (kira/satın alma)\n3. işsizlik\n4. sağlık sistemi\n5. güvenlik\n6. demografik tehdit",
+          "has_external_url": false
+        }
+      ],
+      "referenced_entry_ids": [
+        "164339029"
+      ],
+      "has_external_url": false
+    }
+  ]
+}

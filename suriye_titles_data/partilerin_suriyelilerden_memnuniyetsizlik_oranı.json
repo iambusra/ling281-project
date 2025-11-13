@@ -1,0 +1,52 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:44:26.384470",
+    "total_entries": 5,
+    "input": "partilerin suriyelilerden memnuniyetsizlik oranı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "partilerin suriyelilerden memnuniyetsizlik oranı",
+      "entry_id": "92228382",
+      "author": "turksanatmuzigi",
+      "date": "06.07.2019 13:09",
+      "content": "kadir has üniversitesi'nin yaptığı ankete göre partilerin seçmeni olan vatandaşların ülkemizde bulunan suriyelilerden memnuniyetsizlik oranı şu şekildeymiş:\nak parti %59\niyi parti %61.8\nmhp % 63.6\nhdp %71.3\nchp %82.6\nhttps://twitter.com/…ylu/status/1146847912107945985\nbeklendiği gibi hdp ve chp önde gidiyor.",
+      "has_external_url": true
+    },
+    {
+      "title": "partilerin suriyelilerden memnuniyetsizlik oranı",
+      "entry_id": "92229448",
+      "author": "roman yazanski",
+      "date": "06.07.2019 13:39",
+      "content": "halkın rahatsız olması bir şey ifade etmez. reis seviyorsa bitmiştir. o her zaman bizim yerimize düşünür ve en iyisine karar verir. anlayamazsınız.",
+      "has_external_url": false
+    },
+    {
+      "title": "partilerin suriyelilerden memnuniyetsizlik oranı",
+      "entry_id": "92229629",
+      "author": "halikentli",
+      "date": "06.07.2019 13:44",
+      "content": "memnun olanlarda merdiven altı tekstil atölyesi işletmecileri ile fahiş fiyata evini kiralatacak köylü kurnazi ev sahipleridir.",
+      "has_external_url": false
+    },
+    {
+      "title": "partilerin suriyelilerden memnuniyetsizlik oranı",
+      "entry_id": "92230120",
+      "author": "nizamulmulk",
+      "date": "06.07.2019 14:00",
+      "content": "akp için tehlike çanlarının çalmaya başladığının göstergesidir.\n\nseçmenin %60'ı memnuniyetsiz ve çeşitli ilçelerde patlayan olaylara bakınca bu memnuniyetsizlik daha da artacak gibi görünüyor.\n\nreis bir gecede tüm suriyelileri toplayıp gönderirse hiç şaşırmam.",
+      "has_external_url": false
+    },
+    {
+      "title": "partilerin suriyelilerden memnuniyetsizlik oranı",
+      "entry_id": "92230883",
+      "author": "the guide of your life",
+      "date": "06.07.2019 14:24",
+      "content": "demek ki yakında suriyeli olayı çözülecek.çünkü tayyip erdoğan bunun sonu olacağını görür ve basar tekmeyi..",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:09:42.216666",
+    "total_entries": 1,
+    "input": "polonya'nın ukrayna ya uçak desteği vermesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "polonya'nın ukrayna ya uçak desteği vermesi",
+      "entry_id": "134592460",
+      "author": "ersanbozkurtt",
+      "date": "06.03.2022 20:49",
+      "content": "an itibari ile abd dışişleri bakanı blinken tarafından yapılan açıklamada abd yönetimi nato üyesi olup elinde sovyet dönemine ait savaş uçağı bulunduran ülkelerin ellerindeki sovyet üretimi uçakları ukrayna ya vermesine yeşil ışık yakmış.\n\nkaynak...\nhttps://www.instagram.com/p/caxt11wafjy/",
+      "has_external_url": true
+    }
+  ]
+}

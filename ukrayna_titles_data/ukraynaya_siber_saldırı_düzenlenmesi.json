@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:09:16.452794",
+    "total_entries": 1,
+    "input": "ukraynaya siber saldırı düzenlenmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukraynaya siber saldırı düzenlenmesi",
+      "entry_id": "133795224",
+      "author": "okhako",
+      "date": "16.02.2022 01:31 ~ 01:34",
+      "content": "eş zamanlı şekilde polonya başbakanı da bu geceden itibaren geçerli olacak şekilde ülkedeki tüm kurumlarda siber saldırılara karşı risk seviyesini yükselten bir genelge yayınlamış.\n\nhttps://polishnews.co.uk/…cki-signed-the-ordinance/\n\nhttps://www.dailymail.co.uk/…ussian-hybrid-war.html",
+      "has_external_url": true
+    }
+  ]
+}

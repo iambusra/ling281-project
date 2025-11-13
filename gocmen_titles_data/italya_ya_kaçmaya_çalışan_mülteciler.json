@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:47:42.539158",
+    "total_entries": 1,
+    "input": "italya'ya kaçmaya çalışan mülteciler",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "italya'ya kaçmaya çalışan mülteciler",
+      "entry_id": "154938433",
+      "author": "mitokondrisi calinmis okaryotik hucre",
+      "date": "25.07.2023 19:39",
+      "content": "türkiye'yi bile istemeyen mültecilerdir.\n\ntürkiye'de boş yer var niye gelmediniz ya\n\nlink",
+      "has_external_url": true
+    }
+  ]
+}

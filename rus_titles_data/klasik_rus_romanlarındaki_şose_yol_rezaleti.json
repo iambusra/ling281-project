@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:17:58.121213",
+    "total_entries": 1,
+    "input": "klasik rus romanlarındaki şose yol rezaleti",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "klasik rus romanlarındaki şose yol rezaleti",
+      "entry_id": "179311362",
+      "author": "highhopes",
+      "date": "23.10.2025 10:42",
+      "content": "'bu ülke sadece ve sadece tali yol ve raydan mi oluşuyor amk ya' şeklinde hüzünlendiren vasat bi'rezalet. gerek pavlov'un gerek aleksey'in şose yollarda bi'oraya bi'buraya savrulmasından, it ayağı yemiş gibi gezerken harap olmasından, asla bir ana yola bağlanamamasından ben bezdim amk.\nkeşke bizim reyiz biraz örnek alınsaydı diye düşünüyorum bazen. kanal petersburg projesi vasıtasıyla sıcak denizlere bile inilebilirdi o zaman belki, kim bilir. super bi'olay olurdu bak bu!",
+      "has_external_url": false
+    }
+  ]
+}

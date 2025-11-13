@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:20:43.149259",
+    "total_entries": 1,
+    "input": "ukraynalı askerin türkiye mesajı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukraynalı askerin türkiye mesajı",
+      "entry_id": "149308105",
+      "author": "domuz yutan piton",
+      "date": "15.02.2023 17:28",
+      "content": "arupada bize ön yargısı en az olan millet hangisidir sorusuna cevap verircesine, bakhmut cephesinden bize selam yollayan koca yürekli askerdir.\nkaynak",
+      "has_external_url": true
+    }
+  ]
+}

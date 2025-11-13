@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:29:33.467471",
+    "total_entries": 1,
+    "input": "yangın söndürme uçağı ihalesinin ruslara verilmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "yangın söndürme uçağı ihalesinin ruslara verilmesi",
+      "entry_id": "126271549",
+      "author": "gksnzn",
+      "date": "29.07.2021 15:11",
+      "content": "thk ihaleye katılamaması nedeni\n\nbuyrun rezalet haberin bugünkü yangınlardaki rolü",
+      "has_external_url": true
+    }
+  ]
+}

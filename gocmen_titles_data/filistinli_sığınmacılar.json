@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:59:42.833208",
+    "total_entries": 4,
+    "input": "filistinli sığınmacılar",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "filistinli sığınmacılar",
+      "entry_id": "44305742",
+      "author": "nohut kokusu sacan duduklu tencere",
+      "date": "18.07.2014 00:11",
+      "content": "(bkz: 17 temmuz 2014 israil'in gazze'yi işgali)\n\nyakın gelecekteki ana tartışma konularımızdan biri olması mümkün topluluk. suriyeli sığınmacılar'dan vakit kalırsa tabii. tahminim bunlar birleşerek isyan falan çıkarır yakında. ya da dağ var hali hazırda bekleyen. bilemiyorum altan .\n\n(bkz: suriyeli sığınmacılar)",
+      "has_external_url": false
+    },
+    {
+      "title": "filistinli sığınmacılar",
+      "entry_id": "51358164",
+      "author": "ustumdeki sehir",
+      "date": "15.05.2015 22:29",
+      "content": "(bkz: filistinli mülteciler)",
+      "has_external_url": false
+    },
+    {
+      "title": "filistinli sığınmacılar",
+      "entry_id": "78189246",
+      "author": "lightstorm",
+      "date": "18.06.2018 12:47",
+      "content": "müslümanların koruyucu devletinde görmek istediğimiz sığınmacılardır. ümmet lan bu boru mu.",
+      "has_external_url": false
+    },
+    {
+      "title": "filistinli sığınmacılar",
+      "entry_id": "174508122",
+      "author": "bebegim sende kimsinn",
+      "date": "13.04.2025 11:14",
+      "content": "çok yakında bu başlık gündem olur.",
+      "has_external_url": false
+    }
+  ]
+}

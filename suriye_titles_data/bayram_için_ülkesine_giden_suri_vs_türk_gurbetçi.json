@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:40:23.294966",
+    "total_entries": 2,
+    "input": "bayram için ülkesine giden suri vs türk gurbetçi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "bayram için ülkesine giden suri vs türk gurbetçi",
+      "entry_id": "125421243",
+      "author": "agresif gergedan",
+      "date": "06.07.2021 12:09",
+      "content": "birisi iş gücü olarak devlet anlaşmasıyla gitti . öteki savaş var diye mecburen alındı.",
+      "has_external_url": false
+    },
+    {
+      "title": "bayram için ülkesine giden suri vs türk gurbetçi",
+      "entry_id": "125421320",
+      "author": "atarcan",
+      "date": "06.07.2021 12:11 ~ 12:14",
+      "content": "kasıtlı olarak yaptığınız algıyı alın münasip yerinize monteleyin. suriler bu ülkeye zorla, sınırlara yığılarak haksızca girdiler. her ne kadar çoğunluğunu sevmesem de almanya’daki gurbetçiler ise alman devletinin daveti ile gittiler. bu ikisini aynı kefeye koymak için ya akp’li olmak yada gerizekalı olmak lazım.",
+      "has_external_url": false
+    }
+  ]
+}

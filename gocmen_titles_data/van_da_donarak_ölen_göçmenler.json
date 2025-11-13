@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:17:36.815860",
+    "total_entries": 4,
+    "input": "van'da donarak ölen göçmenler",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "van'da donarak ölen göçmenler",
+      "entry_id": "132409375",
+      "author": "programming language",
+      "date": "16.01.2022 20:26",
+      "content": "üzücü görüntüler ancak videoda dikkatimi çeken köylülerin konuşmaları ne kadar doğru bilmiyorum ama ciddi iddialar araştırılmalı. link",
+      "has_external_url": true
+    },
+    {
+      "title": "van'da donarak ölen göçmenler",
+      "entry_id": "132409461",
+      "author": "dark stone",
+      "date": "16.01.2022 20:28",
+      "content": "az önce göçmenlerin merdiven dayayarak sınırdan geçtiği görüntülere baktım şimdi de bu",
+      "has_external_url": false
+    },
+    {
+      "title": "van'da donarak ölen göçmenler",
+      "entry_id": "132410560",
+      "author": "belqiti",
+      "date": "16.01.2022 20:50",
+      "content": "iyi oldu diyecek kadar aşağılık insan var bu sözlükte, umarım aynı acıyı sizde yaşarsınız\numarım mülteci olacak kadar çaresiz duruma düşersiniz pislik ırkçılar.",
+      "has_external_url": false
+    },
+    {
+      "title": "van'da donarak ölen göçmenler",
+      "entry_id": "132410586",
+      "author": "boschwolf",
+      "date": "16.01.2022 20:50 ~ 20:55",
+      "content": "orada ölen bir insan evet allah rahmet eylesin, ölmek hele böyle donarak ölmek kötü bir durumdur. videoda hangi dilde konuşuyorlar altyazı doğru mu bilmiyorum ama oradaki askerlerin görevi yasadışı göçmen geçişine engel olmaktır. sınırı yasadışı olarak geçmeye çalışan yasa dışı düzensiz göçmenler sınırda engellenir, eğer içeri girmişse deport edilirler. siz devletin hududunu koruyan askerlere böyle görüntü oluşmaması için ellemeyin geçsinler mi diyeceksiniz? oradan gelen adamın pkk, işid ya da taliban mensubu olup olmadığını biliyor musunuz? kaç gündür sözlükte de gündemde suriyeli’sinin, afgan’ının yaptığı tacizler, tecavüzler vs.konusunda herkes ülkemde mülteci istemiyorum diye ağlıyordu. onlar tarifeli uçakla gelmediler böyle geldiler.\nbu videoyu servis edenler insani duygularla mı servis ettiler türk silahlı kuvvetlerinde leke bırakmak için mi? olaya sadece duygusal bakmamalı.\nedit: tekrardan ölen insana allah rahmet etsin.",
+      "has_external_url": false
+    }
+  ]
+}

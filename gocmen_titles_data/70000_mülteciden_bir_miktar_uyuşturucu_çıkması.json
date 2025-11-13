@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:43:01.862605",
+    "total_entries": 1,
+    "input": "70000 mülteciden bir miktar uyuşturucu çıkması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "70000 mülteciden bir miktar uyuşturucu çıkması",
+      "entry_id": "45841103",
+      "author": "fani dunya",
+      "date": "21.09.2014 13:40",
+      "content": "(bkz: eser miktarda esrar)",
+      "has_external_url": false
+    }
+  ]
+}

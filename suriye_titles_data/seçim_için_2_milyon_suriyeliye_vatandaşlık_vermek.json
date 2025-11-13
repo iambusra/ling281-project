@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:45:22.886670",
+    "total_entries": 2,
+    "input": "seçim için 2 milyon suriyeliye vatandaşlık vermek",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "seçim için 2 milyon suriyeliye vatandaşlık vermek",
+      "entry_id": "120538748",
+      "author": "089",
+      "date": "10.03.2021 01:34",
+      "content": "turklerden oy alamazsam suriyelilerden oy alirim diye dumeni kirmis batan geminin kaptani. ihanettir.",
+      "has_external_url": false
+    },
+    {
+      "title": "seçim için 2 milyon suriyeliye vatandaşlık vermek",
+      "entry_id": "120556159",
+      "author": "raybanzib",
+      "date": "10.03.2021 16:18",
+      "content": "2 milyon oy demek %3,33 lük oy demek.\n\nşuan cumhur ittifakının oy oranı max %44 seviyelerinde.\n\nemin olun, suriyeliler bile kurtaramayacak bunları,kaybedecekler seçimi.\n\n%3,33 lük oy gelecek bunlara evet ama zaten halk (akplisi de dahil) suriyelilerden bıkmış durumda .\n%3,33 lük oy gelecekse en az %2 likte oy kaybı olacak yani çok değişen bir şey olmayacak esasında:)",
+      "has_external_url": false
+    }
+  ]
+}

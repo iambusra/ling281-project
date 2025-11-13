@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:48:04.962645",
+    "total_entries": 3,
+    "input": "mülteciler hariç herkese merhaba",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "mülteciler hariç herkese merhaba",
+      "entry_id": "142449547",
+      "author": "symbuzzer",
+      "date": "09.09.2022 15:04 ~ 10.09.2022 01:13",
+      "content": "ümit özdağ'a ait, aniden duyulduğunda istemsiz kahkaha attıran selamlama şekli.\n\nvideoyu isteyerek geniuskender'in youtube kanalından paylaştım. kendisi severek takip ettiğimiz bir delikanlı.\n\nşahsi fikrim sadece komik olduğu. işin siyasi boyutuna girmeyi tercih etmiyorum. sözlükte paylaşılmadığını görünce başlık açmak istedim sadece. let the fight begin:d\n\nedit akbayram: video inci sözlük youtube kanalına ait. kaynağı da belirtelim.",
+      "has_external_url": true
+    },
+    {
+      "title": "mülteciler hariç herkese merhaba",
+      "entry_id": "142450336",
+      "author": "romantik trafik polisi",
+      "date": "09.09.2022 15:26",
+      "content": "ümit özdağ kendisine taraftar buldukça saçmalamaya başladı. ilk zamanlar ben bile oy vermeyi düşündüm. ama şu an asla oy vermeyeceğim kişiler arasına girdi.",
+      "has_external_url": false
+    },
+    {
+      "title": "mülteciler hariç herkese merhaba",
+      "entry_id": "148143649",
+      "author": "popilos",
+      "date": "25.01.2023 18:24",
+      "content": "ümit özdağ'ın inci sözlük videosunda yaptığı ırkçı şaka. ırkçı, ofansif şaka yapılmasına karşı değilim ama en büyük politik hamlesi \"mültecileri göndereceğiz\" olan ümit özdağ'ın böyle bir şaka yapması çok yanlış.",
+      "has_external_url": false
+    }
+  ]
+}

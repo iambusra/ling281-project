@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:31:22.479993",
+    "total_entries": 1,
+    "input": "ruslarla savaşa akp seçmeni katılsın kampanyası",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ruslarla savaşa akp seçmeni katılsın kampanyası",
+      "entry_id": "56501560",
+      "author": "mihralibey",
+      "date": "25.11.2015 20:15",
+      "content": "nolacadı ya? vatan hainlerini mi gönderecektik? çok çok geri hizmete verirler sizi tasalanma.",
+      "has_external_url": false
+    }
+  ]
+}

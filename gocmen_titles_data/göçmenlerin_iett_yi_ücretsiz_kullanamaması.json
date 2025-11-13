@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:25:38.044605",
+    "total_entries": 3,
+    "input": "göçmenlerin iett yi ücretsiz kullanamaması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "göçmenlerin iett yi ücretsiz kullanamaması",
+      "entry_id": "143368694",
+      "author": "sequieros",
+      "date": "01.10.2022 14:38",
+      "content": "yasak olsa ne olur. bir dünya mülteci zaten turnikelerin altından geçiyor, üstünden atlıyor. görevliler de o arada tiktok'la meşgul.",
+      "has_external_url": false
+    },
+    {
+      "title": "göçmenlerin iett yi ücretsiz kullanamaması",
+      "entry_id": "143368837",
+      "author": "renksiz hayat",
+      "date": "01.10.2022 14:44",
+      "content": "sadece kağıt üzerinde iyi durum. büyük çoğu kaçak biniyor zaten. özellikle tramvay görevlilerinin şeyinde değil.",
+      "has_external_url": false
+    },
+    {
+      "title": "göçmenlerin iett yi ücretsiz kullanamaması",
+      "entry_id": "143369217",
+      "author": "tikel biri",
+      "date": "01.10.2022 14:57",
+      "content": "saçma, faşizan bulduğum bir şey. imamoğlu'na yakıştıramadım.",
+      "has_external_url": false
+    }
+  ]
+}

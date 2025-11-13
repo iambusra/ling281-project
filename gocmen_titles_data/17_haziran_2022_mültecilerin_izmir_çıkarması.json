@@ -1,0 +1,60 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:55:28.967043",
+    "total_entries": 6,
+    "input": "17 haziran 2022 mültecilerin izmir çıkarması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "17 haziran 2022 mültecilerin izmir çıkarması",
+      "entry_id": "138879813",
+      "author": "failinmefulu",
+      "date": "17.06.2022 15:50",
+      "content": "izmir torbalı’da polis tarafından durdurulan bir kamyondan onlarca kaçak göçmen atlayarak şehre dağıldı.\n\nvideo",
+      "has_external_url": true
+    },
+    {
+      "title": "17 haziran 2022 mültecilerin izmir çıkarması",
+      "entry_id": "138879955",
+      "author": "ad0rable",
+      "date": "17.06.2022 15:53",
+      "content": "ah benim güzel memleketim ah",
+      "has_external_url": false
+    },
+    {
+      "title": "17 haziran 2022 mültecilerin izmir çıkarması",
+      "entry_id": "138879986",
+      "author": "gobek deliginde olusan pamukcuk",
+      "date": "17.06.2022 15:54",
+      "content": "(bkz: geldikleri gibi giderler)",
+      "has_external_url": false
+    },
+    {
+      "title": "17 haziran 2022 mültecilerin izmir çıkarması",
+      "entry_id": "138880347",
+      "author": "cathars",
+      "date": "17.06.2022 16:04",
+      "content": "ben artık bunların bir şekilde oy kullanacaklarını düşünüyorum. kamyon kamyon taşınmalarının başka bir açıklaması yok çünkü. yapamazlar, kanun, yasa, kıl tüy diyecek olan varsa götümle gülerim.",
+      "has_external_url": false
+    },
+    {
+      "title": "17 haziran 2022 mültecilerin izmir çıkarması",
+      "entry_id": "138880415",
+      "author": "rudder",
+      "date": "17.06.2022 16:06 ~ 16:07",
+      "content": "bir iki kamyonda çeşmeye liboşların oraya gitse fena olmazdı. bizler burada aylar öncesinden bunlar van sınırını geçerken burada yazdık ama ne rkçılığımız kaldı, ne faşistliğimiz. şimdi kaçaklar elit yerlere girince sesler yükselmeye başladı. hiç bir şekilde kovamazsınız da gelecek ve sizlerle birlikte denize girip yüzecekler.",
+      "has_external_url": false
+    },
+    {
+      "title": "17 haziran 2022 mültecilerin izmir çıkarması",
+      "entry_id": "138880673",
+      "author": "zirguleli suzinak",
+      "date": "17.06.2022 16:13",
+      "content": "kamyon şoförünün kamyondan inip sallana sallana uzaklaştığı görüntülerin olduğu çıkarmadır. bu adam suç işlemiş olmuyor mu? polis gözetimi filan gerekmiyor mu?",
+      "has_external_url": false
+    }
+  ]
+}

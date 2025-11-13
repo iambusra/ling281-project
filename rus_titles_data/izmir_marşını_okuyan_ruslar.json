@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:27:54.663898",
+    "total_entries": 1,
+    "input": "izmir marşını okuyan ruslar",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "izmir marşını okuyan ruslar",
+      "entry_id": "68424345",
+      "author": "kimseli",
+      "date": "26.05.2017 20:32",
+      "content": "neden bilmiyorum ama inanılmaz itici bir çalışma olmuş.",
+      "has_external_url": false
+    }
+  ]
+}

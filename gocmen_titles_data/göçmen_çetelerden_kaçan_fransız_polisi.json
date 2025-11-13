@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:06:24.911983",
+    "total_entries": 1,
+    "input": "göçmen çetelerden kaçan fransız polisi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "göçmen çetelerden kaçan fransız polisi",
+      "entry_id": "174131046",
+      "author": "odoriko",
+      "date": "31.03.2025 03:53",
+      "content": "hazin bir durumun resmi olan polislerdir.\ngezegende 57 islam ülkesi var ve hiçbirinde müslümanlar fransa'daki kişi hak ve özgürlüklerine sahip değiller(sahipmiş gibi yapan ülkeler de dahil) lakin yine kaos, kargaşa...\n\nx linki",
+      "has_external_url": true
+    }
+  ]
+}

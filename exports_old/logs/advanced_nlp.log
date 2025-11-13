@@ -1,0 +1,38 @@
+2025-11-12 18:22:58,258 [INFO] === Starting advanced NLP analysis ===
+2025-11-12 18:22:58,259 [INFO] Loading raw JSON data...
+2025-11-12 18:22:58,484 [INFO] Loading 1234 files from suriye_titles_data
+2025-11-12 18:23:24,435 [INFO] Loading 671 files from rus_titles_data
+2025-11-12 18:23:35,124 [INFO] Loading 619 files from ukrayna_titles_data
+2025-11-12 18:23:54,220 [INFO] Loading 1963 files from gocmen_titles_data
+2025-11-12 18:24:41,183 [INFO] Loaded 151,316 raw entries.
+2025-11-12 18:24:41,210 [INFO] Preprocessing entries...
+2025-11-12 18:24:45,265 [INFO] After date parsing, 125,436 entries remain.
+2025-11-12 18:24:45,265 [INFO] Building titles table...
+2025-11-12 18:24:51,709 [INFO] Saved preprocessed entries to exports/data/entries_preprocessed.csv
+2025-11-12 18:24:51,709 [INFO] Saved preprocessed titles to exports/data/titles_preprocessed.csv
+2025-11-12 18:24:51,715 [INFO] Applying lexicon flags to entries and titles...
+2025-11-12 18:25:37,789 [INFO] Adding group flags to entries...
+2025-11-12 18:25:39,892 [INFO] Running sentiment models on entries...
+2025-11-12 18:25:39,912 [INFO] Loading sentiment model savasy: savasy/bert-base-turkish-sentiment-cased
+2025-11-12 18:38:27,205 [INFO] Loading sentiment model akoksal: akoksal/Turkish-Sentiment-Model
+2025-11-12 18:38:27,395 [ERROR] Error running sentiment model akoksal: akoksal/Turkish-Sentiment-Model is not a local folder and is not a valid model identifier listed on 'https://huggingface.co/models'
+If this is a private repository, make sure to pass a token having permission to this repo either by logging in with `huggingface-cli login` or by passing `token=<your_token>`
+2025-11-12 18:38:27,398 [INFO] Loading sentiment model bomayesa: bomayesa/TurkishSentimentBERT
+2025-11-12 18:38:27,494 [ERROR] Error running sentiment model bomayesa: bomayesa/TurkishSentimentBERT is not a local folder and is not a valid model identifier listed on 'https://huggingface.co/models'
+If this is a private repository, make sure to pass a token having permission to this repo either by logging in with `huggingface-cli login` or by passing `token=<your_token>`
+2025-11-12 18:38:31,494 [INFO] Saved enriched entries to exports/data/entries_with_sentiment_and_flags.csv
+2025-11-12 18:38:31,494 [INFO] Analyzing sentiment timelines...
+2025-11-12 18:38:32,776 [INFO] Saved sentiment timeline stats to exports/tables/sentiment_timeline_by_group_year.csv
+2025-11-12 18:38:34,256 [INFO] Saved sentiment timeline figure to exports/figures/sentiment_timeline_mean.png
+2025-11-12 18:38:34,265 [INFO] Analyzing titles creation and sentiment...
+2025-11-12 18:38:34,378 [INFO] Saved titles with sentiment to exports/data/titles_with_sentiment.csv
+2025-11-12 18:38:34,387 [INFO] Saved title creation summary to exports/tables/title_creation_sentiment_by_year_group.csv
+2025-11-12 18:38:34,821 [INFO] Saved title creation figure to exports/figures/titles_new_per_year.png
+2025-11-12 18:38:34,831 [INFO] Analyzing suri vs suriyeli...
+2025-11-12 18:38:34,887 [INFO] Saved suri vs suriyeli descriptives to exports/tables/suri_suriyeli_descriptives.csv
+2025-11-12 18:38:35,627 [INFO] Saved suri vs suriyeli logistic results to exports/tables/suri_suriyeli_logit_results.csv
+2025-11-12 18:38:35,641 [INFO] Saved suri vs suriyeli yearly prop-neg to exports/tables/suri_suriyeli_propneg_by_year.csv
+2025-11-12 18:38:36,080 [INFO] Saved suri vs suriyeli figure to exports/figures/suri_vs_suriyeli_propneg_timeline.png
+2025-11-12 18:38:36,083 [INFO] Exporting extreme sentiment examples...
+2025-11-12 18:38:36,315 [INFO] Saved extreme sentiment examples to exports/tables/extreme_sentiment_examples.csv
+2025-11-12 18:38:36,328 [INFO] === Finished advanced NLP analysis ===

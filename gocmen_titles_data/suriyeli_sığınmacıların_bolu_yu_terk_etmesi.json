@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:05:33.991849",
+    "total_entries": 4,
+    "input": "suriyeli sığınmacıların bolu'yu terk etmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeli sığınmacıların bolu'yu terk etmesi",
+      "entry_id": "130732375",
+      "author": "non mi avete fatto niente",
+      "date": "03.12.2021 18:39",
+      "content": "bolu'daki bir yerel gazetede yer alan haberdir.\n\nchp'li bolu belediye başkanı tanju özcan'ın bolu'da yaşayan sığınmacıların su ücretlerinin dolar üzerinden tarifelendirileceğini ve nikah ücretlerinin 100 bin tl yapılacağını açıklamasının ardından bazı sığınmacılar şehri terk etmeye başladı.\n\nhttp://www.ozgurbolu.com/…oluyu-terk-etmeye-basladi\n\nkonuyla ilgili tanju özcan da şu açıklamayı yaptı:\n\n\"bir kişi bir kişidir. kendi evlerinde mutlu mutlu yaşamalarını diliyorum. gitmek isteyen diğer sığınmacıların otobüs biletlerini kendi cebimden karşılayacağım.\"\n\nhttps://twitter.com/…chp/status/1466758547518201856",
+      "has_external_url": true
+    },
+    {
+      "title": "suriyeli sığınmacıların bolu'yu terk etmesi",
+      "entry_id": "130732465",
+      "author": "bilgisayarmuhendisiyim",
+      "date": "03.12.2021 18:43",
+      "content": "eli öpülecek insansın tanju özcan. vatanseverlik işte böyle olur.",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyeli sığınmacıların bolu'yu terk etmesi",
+      "entry_id": "130733599",
+      "author": "skycafe",
+      "date": "03.12.2021 19:28",
+      "content": "darısı tüm türkiye'nin başına.",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyeli sığınmacıların bolu'yu terk etmesi",
+      "entry_id": "130770858",
+      "author": "dukebell",
+      "date": "04.12.2021 21:14",
+      "content": "turkiyah cannat vatan ama şamın yolları daşdan",
+      "has_external_url": false
+    }
+  ]
+}

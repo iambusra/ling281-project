@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:08:32.589487",
+    "total_entries": 2,
+    "input": "7 nisan 2014 rusya'nın doğu ukrayna'yı işgali",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "7 nisan 2014 rusya'nın doğu ukrayna'yı işgali",
+      "entry_id": "41821409",
+      "author": "abbas isyanda",
+      "date": "07.04.2014 11:35",
+      "content": "(bkz: ukrayna'nın bölünmesi)",
+      "has_external_url": false
+    },
+    {
+      "title": "7 nisan 2014 rusya'nın doğu ukrayna'yı işgali",
+      "entry_id": "41821576",
+      "author": "mrtm",
+      "date": "07.04.2014 11:43",
+      "content": "lenin heykellerinin bir daha yıkılamayacağının garantisidir.",
+      "has_external_url": false
+    }
+  ]
+}

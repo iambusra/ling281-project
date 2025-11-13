@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:42:30.494275",
+    "total_entries": 3,
+    "input": "bir afgan mülteciye aşık olmak",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "bir afgan mülteciye aşık olmak",
+      "entry_id": "127025409",
+      "author": "dungeceyoldagiderkencokkomikbirseyoldu",
+      "date": "17.08.2021 18:41",
+      "content": "a$kin sinir tanimadigini gosterir.\n\nayrica unutmamak gerekir ki her aşk deliliktir .",
+      "has_external_url": false
+    },
+    {
+      "title": "bir afgan mülteciye aşık olmak",
+      "entry_id": "127025497",
+      "author": "paintman",
+      "date": "17.08.2021 18:44",
+      "content": "yarın sana başka adamlar göz koyunca, şimdi karılarını taliban'a bıraktıkları gibi o adamlara peşkeş çekmeleriyle sonuçlanacak olay..\n\nacır mıyım? sikimde bile olmaz.",
+      "has_external_url": false
+    },
+    {
+      "title": "bir afgan mülteciye aşık olmak",
+      "entry_id": "128026347",
+      "author": "hasanhasanhasan",
+      "date": "14.09.2021 12:37",
+      "content": "olabilir neden olmasın,kısmet bu işler bence bi çay için",
+      "has_external_url": false
+    }
+  ]
+}

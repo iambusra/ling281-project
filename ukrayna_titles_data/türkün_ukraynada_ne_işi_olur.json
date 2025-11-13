@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:11:39.881347",
+    "total_entries": 1,
+    "input": "türkün ukraynada ne işi olur",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türkün ukraynada ne işi olur",
+      "entry_id": "134361805",
+      "author": "golgeci",
+      "date": "01.03.2022 12:10",
+      "content": "ukraynadaki hikmet",
+      "has_external_url": true
+    }
+  ]
+}

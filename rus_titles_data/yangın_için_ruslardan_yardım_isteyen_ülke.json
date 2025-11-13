@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:30:33.412106",
+    "total_entries": 1,
+    "input": "yangın için ruslardan yardım isteyen ülke",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "yangın için ruslardan yardım isteyen ülke",
+      "entry_id": "126286596",
+      "author": "16f877a",
+      "date": "29.07.2021 22:08",
+      "content": "akp türkiyesidir.\n\ntayyip erdoğan adlı kişinin 20 yıldır tek başına yönettiği ülkedir.\n\nsarayın 13 uçağı varken, kıbrısa saray yapmak için 8 uçakla yandaş taşırken, yangın söndürmek için tek uçağı olmayan ülkedir.",
+      "has_external_url": false
+    }
+  ]
+}

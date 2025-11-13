@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:29:39.737144",
+    "total_entries": 2,
+    "input": "chp'nin 146 azeriyi ruslara teslim etmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "chp'nin 146 azeriyi ruslara teslim etmesi",
+      "entry_id": "116911854",
+      "author": "ekaitz",
+      "date": "15.12.2020 16:26",
+      "content": "biraz geç açmadınız mı başlığı ya?\n\noysaki dün reyiz konuşmasının henüz 3. dakikasında bahsetmişti.",
+      "has_external_url": false
+    },
+    {
+      "title": "chp'nin 146 azeriyi ruslara teslim etmesi",
+      "entry_id": "116911918",
+      "author": "jashjash",
+      "date": "15.12.2020 16:28",
+      "content": "eyyyy cehape'nin başındaki zat. sen önce buna cevap ver.\n\ntanım: geç gelen açıklama",
+      "has_external_url": false
+    }
+  ]
+}

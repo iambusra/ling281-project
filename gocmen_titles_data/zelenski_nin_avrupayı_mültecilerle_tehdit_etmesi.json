@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:52:40.128578",
+    "total_entries": 1,
+    "input": "zelenski'nin avrupayı mültecilerle tehdit etmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "zelenski'nin avrupayı mültecilerle tehdit etmesi",
+      "entry_id": "156616171",
+      "author": "sevilmeyendilci",
+      "date": "10.09.2023 20:09 ~ 20:12",
+      "content": "the economist dergisinin zelenski ile yaptığı röportajda zelenski avrupa'nın ukrayna'ya olan desteğinde azalma hissettiğini belirtmiş.\n\nbuna ek olarak da, \"olur da avrupa ukrayna'ya olan desteğini keser ve bizi yalnız bırakırsa, ülkelerindeki ukraynalılar buna nasıl tepki verirler bilemiyorum. ukrayna halkı, kendilerini misafir edenlere karşı genelde nazik ve müteşekkirdirler, ama aksi bir durumda bunun söz konusu olamayacağını belirtmek gerekir\" demiş.\n\n\"there is no way of predicting how the millions of ukrainian refugees in european countries would react to their country being abandoned. ukrainians have generally “behaved well” and are “very grateful” to those who sheltered them. they will not forget that generosity. but it would not be a “good story” for europe if it were to “drive these people into a corner”.\n\nukrayna halkının başkanı bile kendi çıkarları doğrultusunda vatandaşlarının sıkıntı çıkarabileceğini söylüyorsa, bizim ülkemizdeki milyonlarca afgan, paki, suriyelilerin \"liderleri\" ne der acaba:)\n\nkaynak: https://www.economist.com/…-interview-with-zelensky",
+      "has_external_url": true
+    }
+  ]
+}

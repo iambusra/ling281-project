@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:20:03.153963",
+    "total_entries": 1,
+    "input": "selanik göçmenleri",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "selanik göçmenleri",
+      "entry_id": "109969096",
+      "author": "trakyabeya",
+      "date": "09.07.2020 17:45 ~ 17:48",
+      "content": "(bkz: mustafa kemal atatürk)\n\nbende bir selanik göçmeni olarak gurur duyarım.",
+      "has_external_url": false
+    }
+  ]
+}

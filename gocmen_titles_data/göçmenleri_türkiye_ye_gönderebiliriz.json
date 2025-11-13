@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:19:07.633002",
+    "total_entries": 2,
+    "input": "göçmenleri türkiye'ye gönderebiliriz",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "göçmenleri türkiye'ye gönderebiliriz",
+      "entry_id": "140058812",
+      "author": "seyhzamanihazretleri",
+      "date": "16.07.2022 15:42",
+      "content": "bu gönderilmemiş hali mi?",
+      "has_external_url": false
+    },
+    {
+      "title": "göçmenleri türkiye'ye gönderebiliriz",
+      "entry_id": "140059007",
+      "author": "el x",
+      "date": "16.07.2022 15:47",
+      "content": "göçmen sorununu görmemezlikten gelen herhangi bir partiye oy veren kişi bana göre vatanını sevmiyordur, hatta daha da ileri gideyim, vatan hainidir.\n\nt: her konuda sıçmış ingilizlerin son sıçmık tadında açıklaması.",
+      "has_external_url": false
+    }
+  ]
+}

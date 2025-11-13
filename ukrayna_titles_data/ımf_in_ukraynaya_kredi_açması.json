@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:09:05.315069",
+    "total_entries": 1,
+    "input": "ımf'in ukraynaya kredi açması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ımf'in ukraynaya kredi açması",
+      "entry_id": "134392763",
+      "author": "sosciology",
+      "date": "02.03.2022 01:12",
+      "content": "ımf ukrayna'ya 3 milyar dolarlık kredi açtı\n\nımf ve dünya bankası rusya'ya yapılan yaptırımlar yüzünden zarar görecek ülkelere kredi verecek",
+      "has_external_url": false
+    }
+  ]
+}

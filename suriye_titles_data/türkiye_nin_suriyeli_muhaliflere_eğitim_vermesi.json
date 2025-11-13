@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:11:34.060493",
+    "total_entries": 1,
+    "input": "türkiye'nin suriyeli muhaliflere eğitim vermesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türkiye'nin suriyeli muhaliflere eğitim vermesi",
+      "entry_id": "46269461",
+      "author": "sick city",
+      "date": "11.10.2014 16:17",
+      "content": "abd ile türkiye arasında varılan anlaşmaya göre ılımlı suriye muhalefetinden 2000 personelin askeri eğitime tabi tutulmasıdır. eğitim türkiye'de gerçekleştirilirken, askeri techizatı büyük oranda abd sağlayacak.\n\nhttp://t24.com.tr/…irlik-gorusmeleri-suruyor,273489",
+      "has_external_url": true
+    }
+  ]
+}

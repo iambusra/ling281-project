@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:13:46.584970",
+    "total_entries": 3,
+    "input": "ümit özdağ'ın suriyelilere vaadi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ümit özdağ'ın suriyelilere vaadi",
+      "entry_id": "151390686",
+      "author": "liono",
+      "date": "18.04.2023 02:07 ~ 02:08",
+      "content": "ahhahaha. sesli güldüren olaydır. hakkaten olm, sana ne bu ülkede seçime giren partilerin vaadinden? muhalefet seçimi kazandığı zaman zaten memleketine gideceksin...",
+      "has_external_url": false
+    },
+    {
+      "title": "ümit özdağ'ın suriyelilere vaadi",
+      "entry_id": "151390696",
+      "author": "therion dinleye dinleye baalist oldum",
+      "date": "18.04.2023 02:07",
+      "content": "bi de vaat istiyor aq. (bkz: swh)\n\n(bkz: sığınıyorsan iyi de sikiyorsan ayıp ediyorsun)",
+      "has_external_url": false
+    },
+    {
+      "title": "ümit özdağ'ın suriyelilere vaadi",
+      "entry_id": "151390718",
+      "author": "dolunayingolgesi",
+      "date": "18.04.2023 02:08",
+      "content": "eğer geçen senede olsaydık çok popüler olurdu bu diyalog.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:15:40.314409",
+    "total_entries": 2,
+    "input": "36 bin 776 göçmenin ülkeden ayrılması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "36 bin 776 göçmenin ülkeden ayrılması",
+      "entry_id": "102834681",
+      "author": "duffzip",
+      "date": "01.03.2020 01:22",
+      "content": "içişleri bakanı süleyman soylu yaptığı açıklamaya göre edirne'den ayrılan göçmen sayısıdır. tabi ne kadar doğru bilinmiyor. bu kadar göçmen ayrıldı diyelim bunların kaçı suriyeli? ülkemizde afgan, gürcü, azeri bir çok göçmen var. o kadar otobüs kaldırdılar belediyeler. 4 milyon bilinen suriyeli var 36 bin bence hiç bir şey. yine de temellim hepsinin ülkeden gitmesi.",
+      "has_external_url": false
+    },
+    {
+      "title": "36 bin 776 göçmenin ülkeden ayrılması",
+      "entry_id": "102835837",
+      "author": "nero forte",
+      "date": "01.03.2020 01:47 ~ 01:48",
+      "content": "(bkz: 36776 sığınmacının avrupaya geçmesi)\n(bkz: aramaya inanmak)",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:04:01.336961",
+    "total_entries": 1,
+    "input": "ülkesine dönmeyen sığınmacıların haklı çıkması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ülkesine dönmeyen sığınmacıların haklı çıkması",
+      "entry_id": "170840264",
+      "author": "kingkrule",
+      "date": "08.12.2024 14:35",
+      "content": "artık itiraf edilmesi gereken durumdur, senelerdir savaş bitti hükümet güçlü hadi ülkenize denen sığınmacıların bir bildiği\nvarmış demek ki gitmemişler, durum ortada hepsi doğru anı bekliyormuş. bizlere düşen ise misafirlerimizin görüşlerine saygı duymak.",
+      "has_external_url": false
+    }
+  ]
+}

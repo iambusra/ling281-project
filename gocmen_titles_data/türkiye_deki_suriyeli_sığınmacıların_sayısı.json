@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:05:31.586294",
+    "total_entries": 2,
+    "input": "türkiye'deki suriyeli sığınmacıların sayısı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türkiye'deki suriyeli sığınmacıların sayısı",
+      "entry_id": "79115741",
+      "author": "memalikimahruse",
+      "date": "13.07.2018 01:17",
+      "content": "türkiye'deki suriyeli sığınmacıların sayısı hürriyetin haberine göre açıklanan suriyeli sayısı",
+      "has_external_url": true
+    },
+    {
+      "title": "türkiye'deki suriyeli sığınmacıların sayısı",
+      "entry_id": "133289535",
+      "author": "volsuzdilkan",
+      "date": "04.02.2022 13:41",
+      "content": "başlığın başındaki 2018 tarihli habere göre 3,5 milyon, bugün içişleri bakanlığı tarafından açıklanan verilere göre ise 3,7 milyon olan sayıdır.\n\nyahu bu devlet kurumlarında hiç mi sayısalcı çalışmıyor dedirten sayılardır aynı zamanda.\n\ntüik'in enflasyonu, afad'ın deprem şiddetini, içişleri bakanlığının ülkedeki terörist ve suriyeli sığınmacı sayısını hesaplarken bu kadar cimrilik yapmasının başka bir açıklaması olamaz zira.",
+      "has_external_url": false
+    }
+  ]
+}

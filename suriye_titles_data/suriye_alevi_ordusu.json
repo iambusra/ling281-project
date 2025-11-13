@@ -1,0 +1,43 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:46:15.327469",
+    "total_entries": 2,
+    "input": "suriye alevi ordusu",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriye alevi ordusu",
+      "entry_id": "30078738",
+      "author": "zakir",
+      "date": "05.09.2012 15:14",
+      "content": "şurdaki aklıkül entryden hayali varlığına dair sinyaller aldık: (bkz: #30078531)\n\nsuriye'de alevi yok bu bir. ordaki ensara ve şia'ya nusayri denir bu iki. suriye arap cumhuriyeti orduya''sünni'' asker sokmamazlık yapmıyor bu da üç. yok eğer aklınızca nusayrilerin çıkarını kolladığı için böyle adlandırdık deseniz de yemez. bu demektir ki; ordu eşittir nusayri, nusayri eşittir esad, e esad eşittir nusayri olunca da nusayri diktatör, diktatörsever, dikta yanlısı olur. bu da bi' ergenin 3500 ışıkyılı hızıyla hedefe koşmasına tekabül eder.",
+      "referenced_content": [
+        {
+          "type": "entry",
+          "title": "ozgur-suriye-ordusu",
+          "entry_id": "30078531",
+          "author": "simurg anka",
+          "date": "05.09.2012 14:57",
+          "content": "kendi halkına çoluk çocuk demeden bomba atan, şebbiha denilen köpeklerini halkının üzerine salarak dehşet rüzgarı estiren bir diktatöre karşı savaşan ordu. bir kısım dallamaların utanmadan savaş hukukundan bahsetmesi eğer dallamalıklarından değilse, islam ve müslüman deyince tüylerinin diken diken olmasındandır. 400 bin mülteci 50 bin ölü, 100 bine yakın yaralı 76 bin kayıp ki onları ölü sayabilirsiniz, umurlarında değildir bu adilerin. bunlara göre rusya ve çin'in köpekliğini yaparsan anti emperyalistsin, diktatöre karşı çıkarsan emperyalistsin. silahlar katardan gelince, nato uşaklığı, rusya ya da iran'dan gelince vatan savunması, şebbiha ve suriye alevi ordusunun katliamları terörle mücadele, özgür ordunun direnişi terör. lan arkadaş bir insan bu kadar ikiyüzlülükle nasıl yaşar nasıl olur da kendinden utanmaz anlamıyorum. bu bir savaş kardeşim, sen camiyi, hastaneyi, evleri, apartmanları füzelerle yıkan adi bir diktatöre sempati duyacaksın sonra utanmadan burada kelam edeceksin bi s.ktir git de saçın başın dağılmasın...",
+          "has_external_url": false
+        }
+      ],
+      "referenced_entry_ids": [
+        "30078531"
+      ],
+      "has_external_url": false
+    },
+    {
+      "title": "suriye alevi ordusu",
+      "entry_id": "173449284",
+      "author": "ahmetcemil1965",
+      "date": "09.03.2025 18:10",
+      "content": "turk devleti ve turk sunnileri arap alevilerini sevmez\narap sunnileri arap alevilerini sevmez, yillarca suriye'de suren alevi terorunden dolayi\nsafi kurtler suriye alevilerini hem arap olduklari icin, hemde alevi olduklari icin sevmez\nısrail araplari hic sevmez.\nsuriye'li araplarin tek sansi kaldi. usa'ya siginmak. usa da rus uslerinin alevi bolgelerinden kaldirilmasi icin alevilere rus karsiti gosteri yapin diyecek.\nruslar\n1- onuncu yuzyildan beri slav olarak sibirya, turk ulkeleri, balkan ulkeleri ve kafkaslari kesiyorlar\n2- stalin zamaninda ulkede yirmi milyon kesildi\n3- en son ukrayna savasi.\nruslar suriye'den cikmamak icin baya alevi keserler. sonra kesilmis aleviler usa ile basbasa kalirlar",
+      "referenced_content": [],
+      "has_external_url": false
+    }
+  ]
+}

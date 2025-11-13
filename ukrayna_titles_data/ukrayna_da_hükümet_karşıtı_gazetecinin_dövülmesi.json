@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:14:33.657729",
+    "total_entries": 2,
+    "input": "ukrayna'da hükümet karşıtı gazetecinin dövülmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukrayna'da hükümet karşıtı gazetecinin dövülmesi",
+      "entry_id": "39209734",
+      "author": "sombrefloe",
+      "date": "25.12.2013 19:41 ~ 19:43",
+      "content": "ulusçu fanatikliğine yaraşır derecede bir barbarlık. tetyana chornovol adlı gazeteci arabayla yoldayken bir adam grubu tarafından yolu kesilerek arabadan çıkartılıp hastanelik hale getirilmiş:\n\nhttp://www.euronews.com/…ovol-beaten-up-in-ukraine/",
+      "has_external_url": true
+    },
+    {
+      "title": "ukrayna'da hükümet karşıtı gazetecinin dövülmesi",
+      "entry_id": "39233913",
+      "author": "kaynak kicim",
+      "date": "26.12.2013 17:45",
+      "content": "arabasının otobanda bir porsche cayenne tarafından nasıl defalarca yoldan çıkarılmaya çalışıldığı ilgili videodan izlenebilir. şerefsizler kadına tam bir kabus yaşatmışlar.",
+      "has_external_url": true
+    }
+  ]
+}

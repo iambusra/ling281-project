@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:42:53.738210",
+    "total_entries": 1,
+    "input": "evini mülteciye aç o zaman sığlığı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "evini mülteciye aç o zaman sığlığı",
+      "entry_id": "42311479",
+      "author": "s1r",
+      "date": "27.04.2014 23:15",
+      "content": "söz konusu mültecilere; apartmanında, hatta mahallesinde görse yüzünü ekşitecek, rahatsız olacak adamların, sırf akp'nin suriye üzerindeki kirli hesapları gereği getirildiği için parti fanatizmi ile destek vermesindeki iki yüzlülüğü ortaya çıkaran sığlıktır.",
+      "has_external_url": false
+    }
+  ]
+}

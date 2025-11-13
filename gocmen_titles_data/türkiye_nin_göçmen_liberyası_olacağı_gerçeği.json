@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:06:47.407822",
+    "total_entries": 1,
+    "input": "türkiye'nin göçmen liberyası olacağı gerçeği",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türkiye'nin göçmen liberyası olacağı gerçeği",
+      "entry_id": "170836364",
+      "author": "odoriko",
+      "date": "08.12.2024 11:53",
+      "content": "küresel efendilerin hem düşman blok ile hem de afrika ve ortadoğu'dan bekledikleri büyük göç dalgası (sadece nijerya'nın nüfusu 2050 de 300 milyonu aşacak) için toplanma alanı ya da kapı olarak gördükleri ülkemizin bu açıkdan 18.yy da serbest kalan köleler için abd'nin batı sahra afrika'da kurduğu liberya devletine benzemesidir...\ndev bir lübnan olmaya doğru gidiştir...",
+      "has_external_url": false
+    }
+  ]
+}

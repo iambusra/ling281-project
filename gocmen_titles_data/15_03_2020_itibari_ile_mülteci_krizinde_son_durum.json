@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T00:00:34.484766",
+    "total_entries": 1,
+    "input": "15.03.2020 itibari ile mülteci krizinde son durum",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "15.03.2020 itibari ile mülteci krizinde son durum",
+      "entry_id": "103554644",
+      "author": "efemsradyo",
+      "date": "15.03.2020 17:25",
+      "content": "gündemi on güne bir 180 derece değişebilen güzel ülkemizde geçen hafta bir hayli konuşulmuş \"yunanistan sınırına yığılan mülteciler\"in gün itibari ile halleri; edirne başta olmak üzere ülkedeki mültecilerin hangi durumda olduğu; ülkece teyakkuzda olduğumuz bu salgın günlerinde kamplarda ve şehirlerde yaşayan bu insanlar... ne durumdalar, ne oluyor ne bitiyor?",
+      "has_external_url": false
+    }
+  ]
+}

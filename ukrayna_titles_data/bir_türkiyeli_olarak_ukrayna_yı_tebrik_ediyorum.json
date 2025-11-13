@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:08:08.412063",
+    "total_entries": 1,
+    "input": "bir türkiyeli olarak ukrayna'yı tebrik ediyorum",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "bir türkiyeli olarak ukrayna'yı tebrik ediyorum",
+      "entry_id": "70567535",
+      "author": "whitevelve",
+      "date": "02.09.2017 20:46",
+      "content": "2 eylül 2017 ukrayna türkiye maçının galibini centilmenlik gereği kutlamanin sportmence bir davranış olduğunun bilincinde olan bilinçli insan davranışıdır.\n\nfutbol sadece futbol değil diye futbolseverler yıllardır söyleye gelmişlerdir ya, he işte bunda hareketle kazanan tarafı tebrik etmek profesyonel bir davranıştır.\n\nnerden biliyorsun ukrayna nın kazanacağını muneccim misin diye kizanlar olacaktır. altıncı hissim kuvvetlidir. iki bir yenilecegiz ne yazık ki arkadaşlar.",
+      "has_external_url": false
+    }
+  ]
+}

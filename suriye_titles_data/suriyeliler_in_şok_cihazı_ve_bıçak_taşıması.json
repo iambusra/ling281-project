@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:57:15.073598",
+    "total_entries": 3,
+    "input": "suriyeliler’in şok cihazı ve bıçak taşıması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeliler’in şok cihazı ve bıçak taşıması",
+      "entry_id": "137010497",
+      "author": "foxyfox",
+      "date": "04.05.2022 20:10 ~ 20:19",
+      "content": "şanlıurfa'da bir suriyelinin belindeki bıçak ve şok cihaziyla sokakta ailesiyle rahatça gezmesi ve bunu açıkça göstermesi durumudur.\n\nbir turk vatandaşi bunu yapsa başına neler gelir? kısacası sözün bittiği yerdeyiz.\n\nurfalı gazeteci ahmet arikan durumu fotoğraflamış ve isyan etmiş erkekseniz sizde aynısıni yap göreyim diye başlik atmış.\n\nsuriyeli din kardeşimiz\n\ngazeteci ahmet arıkan)",
+      "has_external_url": true
+    },
+    {
+      "title": "suriyeliler’in şok cihazı ve bıçak taşıması",
+      "entry_id": "137011130",
+      "author": "bozdogan",
+      "date": "04.05.2022 20:26",
+      "content": "ülkesine sahip çıkmak yerine yalın ayak kaçarak sığındığı ülkede çakma külhanbeylik taslayan korkak.\n\ntop tüfek taşısa ne olur, yürek olmadıktan sonra. ayrıca yaşadığı yerin koşullarından habersiz herhalde, şok tabancasını götüne sokuverirler.",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyeliler’in şok cihazı ve bıçak taşıması",
+      "entry_id": "137011189",
+      "author": "scorpioraptor",
+      "date": "04.05.2022 20:27",
+      "content": "o bıçağın üzerine inşallah oturturlar",
+      "has_external_url": false
+    }
+  ]
+}

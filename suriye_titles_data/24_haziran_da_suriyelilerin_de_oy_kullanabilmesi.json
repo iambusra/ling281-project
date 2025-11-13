@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T16:00:51.148327",
+    "total_entries": 1,
+    "input": "24 haziran'da suriyelilerin de oy kullanabilmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "24 haziran'da suriyelilerin de oy kullanabilmesi",
+      "entry_id": "76695004",
+      "author": "krasnoya",
+      "date": "06.05.2018 12:25",
+      "content": "24 haziran 2018 seçimleri öncesinde türk vatandaşlığına geçen suriyeliler arasından 50 bin kişinin oy hakkı bulunması durumudur. sanılanın aksine seçimin kaderini pek etkilemeyecek bir gelişmedir.\n\nhttps://odatv.com/…i-sorusunun-yaniti-25041852.html",
+      "has_external_url": true
+    }
+  ]
+}

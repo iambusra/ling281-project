@@ -1,0 +1,52 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:29:01.863619",
+    "total_entries": 5,
+    "input": "zelensky'nin villasını ruslara kiralaması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "zelensky'nin villasını ruslara kiralaması",
+      "entry_id": "142113979",
+      "author": "andrew",
+      "date": "01.09.2022 23:17",
+      "content": "italyan yerel gazetesi il tirreno'nun ısrarla duyurduğu iddia.\nhabere göre sık sık batı'ya \"yaptırım uygulayın\" çağrısında bulunan zelensky, sahil kasabası forte dei marmi'de sahibi bulunduğu lüks villayı, ağustos ayında bu mülkü bir rus aileye kiraya vermiş.\n\nhttps://www.iltirreno.it/ricerca?q=zelensky",
+      "has_external_url": true
+    },
+    {
+      "title": "zelensky'nin villasını ruslara kiralaması",
+      "entry_id": "142114269",
+      "author": "gordonmilne",
+      "date": "01.09.2022 23:24",
+      "content": "savaş bitmiş arkadaşlar. başkan ev sahibi moduna geçmiş artık. gel buradan da al kiraya verirsin, gel veriyorlar.",
+      "has_external_url": false
+    },
+    {
+      "title": "zelensky'nin villasını ruslara kiralaması",
+      "entry_id": "142114301",
+      "author": "cokbilenbiryanilan",
+      "date": "01.09.2022 23:25",
+      "content": "baskent sokaklarında rahatça dolaşma, yönetim binasının bombalanması vb gibi şeylerin karşılığı olabilir",
+      "has_external_url": false
+    },
+    {
+      "title": "zelensky'nin villasını ruslara kiralaması",
+      "entry_id": "142114771",
+      "author": "sadan",
+      "date": "01.09.2022 23:35",
+      "content": "ukraynalılar bu palyaçonun biletini kesmezse daha çok çekecekleri var. daha dün veya evveli gün \"batıda rus medya kuruluşlarının çalışmasına izin vermeyin, bunlara vize vermeyinn\" diye geğirip duruyordu neonazi atmığı.",
+      "has_external_url": false
+    },
+    {
+      "title": "zelensky'nin villasını ruslara kiralaması",
+      "entry_id": "142114935",
+      "author": "ohrilli",
+      "date": "01.09.2022 23:39",
+      "content": "durum hemen celallenmeyin. tv’ye taktığı usb’de rusça dublajlı muhteşem sülüman varmış bir tek o yüzden ruslar kiralamak istemiş. kira gelirini yenipazar ukranyalıları koruma ve geliştirme derneğine bağışlıyormuş.",
+      "has_external_url": false
+    }
+  ]
+}

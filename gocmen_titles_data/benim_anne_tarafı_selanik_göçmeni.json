@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:13:19.379696",
+    "total_entries": 1,
+    "input": "benim anne tarafı selanik göçmeni",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "benim anne tarafı selanik göçmeni",
+      "entry_id": "26624181",
+      "author": "cokciddi",
+      "date": "19.12.2011 21:50",
+      "content": "yapılan bir araştırmaya (bkz: toto research institute) göre türkiye'de üniversite ve üzeri katılımcılardan oluşan arkadaş ortamlarının %83'ünde en az bir kişinin söylediği, bunların %30'unda ise ikinci veya daha fazla bir kişinin \"benim de\" diyerek katıldığı cümledir.\n\n(bkz: nasıl ya yozgat)\n(bkz: yozgatlım)",
+      "has_external_url": false
+    }
+  ]
+}

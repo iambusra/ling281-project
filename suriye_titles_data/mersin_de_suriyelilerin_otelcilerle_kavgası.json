@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:44:01.953704",
+    "total_entries": 1,
+    "input": "mersin'de suriyelilerin otelcilerle kavgası",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "mersin'de suriyelilerin otelcilerle kavgası",
+      "entry_id": "166631137",
+      "author": "enaypidi",
+      "date": "24.07.2024 20:36",
+      "content": "silifke’de gerçekleşen hadisedir.\nhaber",
+      "has_external_url": true
+    }
+  ]
+}

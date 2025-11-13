@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:49:45.871228",
+    "total_entries": 1,
+    "input": "mültecileri allah gönderdi bize",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "mültecileri allah gönderdi bize",
+      "entry_id": "140100754",
+      "author": "nettapus",
+      "date": "17.07.2022 14:21",
+      "content": "bugün denk geldiğim yorum yapamıyorum. link",
+      "has_external_url": true
+    }
+  ]
+}

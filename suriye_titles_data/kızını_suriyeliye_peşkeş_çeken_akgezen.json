@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T15:03:57.515202",
+    "total_entries": 1,
+    "input": "kızını suriyeliye peşkeş çeken akgezen",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "kızını suriyeliye peşkeş çeken akgezen",
+      "entry_id": "45652327",
+      "author": "tatar ramazan",
+      "date": "12.09.2014 20:37",
+      "content": "türkiye mi yoksa game of thrones diyarında mı olduğu belli olmayan kavas",
+      "has_external_url": false
+    }
+  ]
+}

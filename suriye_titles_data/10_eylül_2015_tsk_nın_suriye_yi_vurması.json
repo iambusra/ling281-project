@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T13:48:17.099403",
+    "total_entries": 2,
+    "input": "10 eylül 2015 tsk'nın suriye'yi vurması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "10 eylül 2015 tsk'nın suriye'yi vurması",
+      "entry_id": "54695176",
+      "author": "kikuchiyo",
+      "date": "10.09.2015 17:22",
+      "content": "muş'luymuş. amcasının verdiği bilgiye göre ülkücüler ve akp'liler önceki gün ailesinin işyerine saldırmış.",
+      "has_external_url": false
+    },
+    {
+      "title": "10 eylül 2015 tsk'nın suriye'yi vurması",
+      "entry_id": "54695176",
+      "author": "kikuchiyo",
+      "date": "10.09.2015 17:22",
+      "content": "muş'luymuş. amcasının verdiği bilgiye göre ülkücüler ve akp'liler önceki gün ailesinin işyerine saldırmış.",
+      "has_external_url": false
+    }
+  ]
+}

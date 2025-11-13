@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:48:33.347502",
+    "total_entries": 3,
+    "input": "mültecileri gönderecek siyasi parti",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "mültecileri gönderecek siyasi parti",
+      "entry_id": "165885315",
+      "author": "matandberenice",
+      "date": "01.07.2024 11:04",
+      "content": "bir sonraki seçimde en az (bakın en az) %70 oy alması gereken siyasi partidir.",
+      "has_external_url": false
+    },
+    {
+      "title": "mültecileri gönderecek siyasi parti",
+      "entry_id": "165885431",
+      "author": "gozlerindekisir",
+      "date": "01.07.2024 11:08 ~ 11:10",
+      "content": "zafer partisi'de sığınmacılarla ilgili miting falan yapmayarak beni işkillendiriyor.\nbahçeli, s. oğan ve akşener'in sağlam dönüşleri ortada... allah gerçek vatanseverlerin ve vatan toprağının yardımcısı olsun. işimiz zor.",
+      "has_external_url": false
+    },
+    {
+      "title": "mültecileri gönderecek siyasi parti",
+      "entry_id": "165885548",
+      "author": "spatulacess",
+      "date": "01.07.2024 11:12",
+      "content": "kurulduğu günden beri bunu yüksek sesle ve istikrarla dile getiren tek partidir (bkz: zafer partisi).\n\nayrıca mülteci değil (bkz: geçici sığınmacı), (bkz: kaçak göçmen)",
+      "has_external_url": false
+    }
+  ]
+}

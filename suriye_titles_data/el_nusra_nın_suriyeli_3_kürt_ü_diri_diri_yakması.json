@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:41:44.146753",
+    "total_entries": 3,
+    "input": "el nusra'nın suriyeli 3 kürt'ü diri diri yakması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "el nusra'nın suriyeli 3 kürt'ü diri diri yakması",
+      "entry_id": "38608814",
+      "author": "beni al onu alma",
+      "date": "29.11.2013 18:26",
+      "content": "türkiyedeki kürtlerin büyük çogunlugunun destek verdigi olay ben demiyorum seçim sonuçları sölüyor",
+      "has_external_url": false
+    },
+    {
+      "title": "el nusra'nın suriyeli 3 kürt'ü diri diri yakması",
+      "entry_id": "38608891",
+      "author": "armanac05",
+      "date": "29.11.2013 18:31",
+      "content": "türk sınırlarından çıktıktan sonra gerisi pislik diyeceğim, yüce önderi birkez daha anacağım başlıktır. cennette yaşıyoruz diyeceğim entrydir",
+      "has_external_url": false
+    },
+    {
+      "title": "el nusra'nın suriyeli 3 kürt'ü diri diri yakması",
+      "entry_id": "38609003",
+      "author": "confession",
+      "date": "29.11.2013 18:38",
+      "content": "megri megri'nin kurtaramayacağı bir savaşta yaşanmıştır.\n\nsorumlusu akp'dir.",
+      "has_external_url": false
+    }
+  ]
+}

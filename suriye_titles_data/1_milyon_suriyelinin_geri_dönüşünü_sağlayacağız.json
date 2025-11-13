@@ -1,0 +1,52 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T16:43:36.685343",
+    "total_entries": 5,
+    "input": "1 milyon suriyelinin geri dönüşünü sağlayacağız",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "1 milyon suriyelinin geri dönüşünü sağlayacağız",
+      "entry_id": "136952346",
+      "author": "deanmc",
+      "date": "03.05.2022 13:10",
+      "content": "geri kalanlar artık vatandaş galiba! yoksa ülkedeki toplam sayı bundan daha fazla",
+      "has_external_url": false
+    },
+    {
+      "title": "1 milyon suriyelinin geri dönüşünü sağlayacağız",
+      "entry_id": "136952404",
+      "author": "mogu mogu efendi",
+      "date": "03.05.2022 13:12",
+      "content": "o kadarı zaten burada doğdu.",
+      "has_external_url": false
+    },
+    {
+      "title": "1 milyon suriyelinin geri dönüşünü sağlayacağız",
+      "entry_id": "136952447",
+      "author": "boylebirgundekaydoldum",
+      "date": "03.05.2022 13:13 ~ 13:14",
+      "content": "her gün binlercesi elini kolunu sallayarak sınırdan\ngeçip otlaktan dönen koyun sürüleri gibi ülkenin dört bir yanına dağılırken sen bir milyon insan kırıntısını gönderesen kaç yazar, ki zaten onu da yapmayacaksın da neyse.",
+      "has_external_url": false
+    },
+    {
+      "title": "1 milyon suriyelinin geri dönüşünü sağlayacağız",
+      "entry_id": "136952546",
+      "author": "smirnoff",
+      "date": "03.05.2022 13:16",
+      "content": "baskın seçim hazırlığı olarak yorumlanması gereken açıklamadır.\n\nayrıca, bu hükümetin rakamlarla arasının pek iyi olmadığını biliyoruz. 1 milyon kişiyi gönderdik dediklerinde, gerçekte kaç kişi gitmiş olur? o da ayrı soru işareti! gönüllülük esasına göre, 100 bin geri dönüş bile zor gibi.",
+      "has_external_url": false
+    },
+    {
+      "title": "1 milyon suriyelinin geri dönüşünü sağlayacağız",
+      "entry_id": "136952781",
+      "author": "pert araba alan adam",
+      "date": "03.05.2022 13:23",
+      "content": "ümit özdağ hoca bunları söylemişti, inanmıyoruz.",
+      "has_external_url": false
+    }
+  ]
+}

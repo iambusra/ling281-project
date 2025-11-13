@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:51:21.119629",
+    "total_entries": 2,
+    "input": "suriyeli muhaliflerin rte'yi bm'ye şikayet etmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeli muhaliflerin rte'yi bm'ye şikayet etmesi",
+      "entry_id": "42106891",
+      "author": "samsonight",
+      "date": "18.04.2014 22:29",
+      "content": "bm'ne oldu mu simdi..",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyeli muhaliflerin rte'yi bm'ye şikayet etmesi",
+      "entry_id": "42107665",
+      "author": "erhanmartin",
+      "date": "18.04.2014 23:05",
+      "content": "(bkz: yiyin birbirinizi)\n(bkz: beter olun)",
+      "has_external_url": false
+    }
+  ]
+}

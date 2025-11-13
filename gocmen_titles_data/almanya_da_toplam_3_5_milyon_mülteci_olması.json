@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:38:23.265826",
+    "total_entries": 1,
+    "input": "almanya'da toplam 3.5 milyon mülteci olması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "almanya'da toplam 3.5 milyon mülteci olması",
+      "entry_id": "169248611",
+      "author": "jetmehmet",
+      "date": "14.10.2024 22:19",
+      "content": "almanya'da suriyelisi türkiyelisi pakistanlisi vs. toplamda yalnızca 3.5 milyon mülteci olması durumu. o da ilk defa bu kadar yüksek sayıya ulaşmış ve ona rağmen almanlar şimdiden ırkçı söylemlere ve tepkilere başlamış durumda\n\ntagesschau linki\n\npeki bizde toplamda kaç milyon mülteci var?\ngerçekten net bir rakam söyleyebilen güvenilir bir kaynak var mı? varsa ben bilmiyorum bilen yazsın",
+      "has_external_url": true
+    }
+  ]
+}

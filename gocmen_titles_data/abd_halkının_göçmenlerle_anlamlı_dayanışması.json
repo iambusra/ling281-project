@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:23:59.152081",
+    "total_entries": 2,
+    "input": "abd halkının göçmenlerle anlamlı dayanışması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "abd halkının göçmenlerle anlamlı dayanışması",
+      "entry_id": "65954747",
+      "author": "kosutevrenler",
+      "date": "30.01.2017 02:08",
+      "content": "donald trump tarafından işbaşına gelir gelmez derhal imzalanan, müslüman çoğunluğa sahip yedi ülke vatandaşlarının abd'ye girişinin yasaklanmasını öngören kararname karşısında her kesimden binlerce kişinin, nobel ödüllü yazarların, avukatların, akademisyenlerin, sanatçıların, mark zuckerberg gibi isimlerin ve en son 16 eyalet başsavcısının topyekûn göçmen düşmanı kararnameye karşı harekete geçip, göçmenleri yalnız bırakmamalarıdır.\n\ndayanışmacılar havaalanlarında, sınırlarda ve diğer alanlarda uygulanmasına başlanan kararnamenin ilk kurbanlarının yardımına koşarak onlara her türlü hukukî v.b. yardımı sağlamışlardır. bu dayanışmanın ilk sonucu, göçmen karşıtı kararnamenin kısmen kaldırılması olmuştur.",
+      "has_external_url": false
+    },
+    {
+      "title": "abd halkının göçmenlerle anlamlı dayanışması",
+      "entry_id": "65968819",
+      "author": "mcleod",
+      "date": "30.01.2017 18:58",
+      "content": "kaynak beklediğim başlık.",
+      "has_external_url": false
+    }
+  ]
+}

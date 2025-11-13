@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:55:12.555999",
+    "total_entries": 1,
+    "input": "yunanistan'daki mültecilerin aşura matemi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "yunanistan'daki mültecilerin aşura matemi",
+      "entry_id": "141030226",
+      "author": "062154",
+      "date": "08.08.2022 10:29",
+      "content": "twitter link",
+      "has_external_url": true
+    }
+  ]
+}

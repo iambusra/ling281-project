@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:10:59.562028",
+    "total_entries": 1,
+    "input": "rusya'nın ukrayna'ya ultimatom vermesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rusya'nın ukrayna'ya ultimatom vermesi",
+      "entry_id": "40854059",
+      "author": "derjava",
+      "date": "03.03.2014 19:32",
+      "content": "rusya'nın kırım'da vatanını satmayan birkaç ukrayna birliğinin koruduğu ukrayna'ya ait zırhlıları ele geçirmek için yaptığı taktiksel hamlelerdir bu haberler. çoğunda başarılı oldu hatta ukrayna'nın yeni hükümeti tarafından atanan deniz kuvvetleri komutanı bile saf değiştirdi. kendisi doğrudan saldırıp alamıyor en azından şimdiye kadar, çünkü iddiası kırım'da ezilen rusları korumak! onun yerine ya komutanları satın alıyor ya da teslim olun diye korkutuyor. işte bazı ukrain askerler de teslim olmayacağız, birliğimizi vermeyeceğiz diyor. niyet panik yaratmak. bu süreçte bizim medya rus medyasını takip etsin de nasıl manipülasyon yapılır, nasıl yalan söylenir öğrensin. rus medyası yanında bizimkiler bir hiçmiş manipülasyon konusunda onu da görüyoruz.",
+      "has_external_url": false
+    }
+  ]
+}

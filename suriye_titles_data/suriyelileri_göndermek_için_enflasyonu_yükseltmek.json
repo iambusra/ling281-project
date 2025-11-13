@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:00:50.613012",
+    "total_entries": 1,
+    "input": "suriyelileri göndermek için enflasyonu yükseltmek",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelileri göndermek için enflasyonu yükseltmek",
+      "entry_id": "137674253",
+      "author": "sikodaninsikortasi",
+      "date": "20.05.2022 11:45",
+      "content": "geçici sığınmacıların belki de %80 i avrupaya kaçmak için burada duruyor, geçici olduğu için burayı gurbet ve kısa süreli çile merkezi olarak kabul ediyorlar zaten kafada, aynı evde çalışan 5 kişi olduklarından aylık olarak kazançları çekirdek aile türk milletinden daha fazla ve daha rahat geçiniyor. bu türk ailelerin göç etmesine neden oluyor diye düşünüyorum.",
+      "has_external_url": false
+    }
+  ]
+}

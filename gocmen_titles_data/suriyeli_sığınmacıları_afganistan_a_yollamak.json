@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:01:52.082403",
+    "total_entries": 1,
+    "input": "suriyeli sığınmacıları afganistan'a yollamak",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeli sığınmacıları afganistan'a yollamak",
+      "entry_id": "126491388",
+      "author": "seviyorsevmiyorseviyorsevmiyorseviyor",
+      "date": "03.08.2021 23:12",
+      "content": "çıkan afganlar yerine bir nevi oyuncu değişikliği ve taze kan. zorluk çekmezler.",
+      "has_external_url": false
+    }
+  ]
+}

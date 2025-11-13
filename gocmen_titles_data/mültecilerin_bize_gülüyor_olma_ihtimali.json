@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:54:55.808557",
+    "total_entries": 1,
+    "input": "mültecilerin bize gülüyor olma ihtimali",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "mültecilerin bize gülüyor olma ihtimali",
+      "entry_id": "152549865",
+      "author": "varbilolyok",
+      "date": "18.05.2023 21:28 ~ 21:29",
+      "content": "şu seçim sürecinde göndereceğiz göndermeyeceğiz göndereceğiz göndermeyeceğiz diye beynimizi yiyen siyasetçilere uzaktan bakıp gülüyor olma ihtimalleri yüksektir.\nbelki de çok düşüktür. hatta umurlarında olmayıp her gece sevişip, çocuk yapmaya devam edip, nereye gönderiyon yapraaaammmmm diyorlardır.\nmerak unsuru ihtimaldir.\nrezil rüsvayız yemin ediyorum.",
+      "has_external_url": false
+    }
+  ]
+}

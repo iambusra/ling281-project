@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:27:58.733902",
+    "total_entries": 2,
+    "input": "hani ruslar almanlar",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "hani ruslar almanlar",
+      "entry_id": "61698422",
+      "author": "killikuku",
+      "date": "13.07.2016 14:32",
+      "content": "hani binbir renkli paracikleeer,\nnasıl kazıklamıştııık, parasız almanlarııı\n\ndiye giden bir yazıt.",
+      "has_external_url": false
+    },
+    {
+      "title": "hani ruslar almanlar",
+      "entry_id": "61698649",
+      "author": "sinirliadige",
+      "date": "13.07.2016 14:43",
+      "content": "(bkz: içimizde hepsi içimizde)",
+      "has_external_url": false
+    }
+  ]
+}

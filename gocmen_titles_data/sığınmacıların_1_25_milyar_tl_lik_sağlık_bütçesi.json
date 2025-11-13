@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:05:08.761598",
+    "total_entries": 1,
+    "input": "sığınmacıların 1.25 milyar tl'lik sağlık bütçesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "sığınmacıların 1.25 milyar tl'lik sağlık bütçesi",
+      "entry_id": "139047042",
+      "author": "justin mcleod",
+      "date": "21.06.2022 19:12",
+      "content": "türk milletini gss ile donuna kadar borçlandıran islamcılar tarafından istilacı müslümanlara verilen ödenektir.",
+      "has_external_url": false
+    }
+  ]
+}

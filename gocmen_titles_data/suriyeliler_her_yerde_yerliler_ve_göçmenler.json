@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:16:48.030449",
+    "total_entries": 2,
+    "input": "suriyeliler her yerde yerliler ve göçmenler",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeliler her yerde yerliler ve göçmenler",
+      "entry_id": "144687229",
+      "author": "dolaysiztumlec",
+      "date": "04.11.2022 08:50",
+      "content": "savaş maduru suriyelilerin ne koşullarda bu duruma geldiğini anlatan iletişim yayınları'ndan çıkmış yeni inceleme kitabı.",
+      "has_external_url": true
+    },
+    {
+      "title": "suriyeliler her yerde yerliler ve göçmenler",
+      "entry_id": "145085692",
+      "author": "sanver",
+      "date": "14.11.2022 11:14 ~ 11:16",
+      "content": "tam ismiyle suriyeliler her yerde yerliler ve göçmenler, iletişim yayınları'nın yeni bastığı ve editörlüğünü bayram koca ile duygu altınoluk'un yaptığı ilginç bir eser. kitapta, suriyeli göçmenler hakkında doğru zannedilen yanlışlar inceleniyormuş.\n\nhttps://iletisim.com.tr/…uriyeliler-her-yerde/10274",
+      "has_external_url": true
+    }
+  ]
+}

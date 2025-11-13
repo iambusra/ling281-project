@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:01:54.578873",
+    "total_entries": 4,
+    "input": "suriyelileri türkiye'ye sokmak vatana ihanettir",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelileri türkiye'ye sokmak vatana ihanettir",
+      "entry_id": "137281449",
+      "author": "slmcn",
+      "date": "10.05.2022 19:38",
+      "content": "16 ekim 2014'te cnn türk'te ahmet hakan'ın sunduğu programda kemal kılıçdaroğlu'nun söylediği söz.\n\n--- spoiler ---\n\nortadoğu'da \"oluk oluk kan aktığını\" belirten kılıçdaroğlu, \"ben bunları açıkladığım için vatana ihanet etmekle suçlanıyorum. ben vatanımı seviyorum. vatana ihanet etmek, 1,5 milyon suriyeliyi türkiye'ye sokmaktır.\" diye konuştu.\n--- spoiler ---\n\nkaynak: yeniakit",
+      "has_external_url": true
+    },
+    {
+      "title": "suriyelileri türkiye'ye sokmak vatana ihanettir",
+      "entry_id": "137281520",
+      "author": "urolog",
+      "date": "10.05.2022 19:40 ~ 19:44",
+      "content": "şimde de başkanlık adaylığında kendi tabanının desteğini almak için yan çizmeye başladı. bu adam hala destekleneceğini sanarak bu şekillere giriyor ya. gerçekten garip. daha iki gün önce göndermeyeceğiz, savaş var bilmem ne diyordu. zorla chp seçmeninin de oyunu kaybedecek.",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyelileri türkiye'ye sokmak vatana ihanettir",
+      "entry_id": "137281549",
+      "author": "akrep yelkovan",
+      "date": "10.05.2022 19:41 ~ 19:44",
+      "content": "sayın kılıçdaroğlu yan man çizmeden bugün de aynı görüşleri savunuyor.\n\n(bkz: suriyelileri iki yıl içinde göndereceğiz)\n\neğri oturup doğru konuşalım. ümit özdağ şu anda büyük bir çıkış yakalasa da asla iktidar olma şansı yok.\n\nşu anda cumhurbaşkanlığı sistemindeyiz cumhurbaşkanı seçilen ülkeyi yönetir. sayın özdağ'ın kendisi de zaten aday olmak yerine sayın yavaş'ı aday gösterdi. bu bile iktidar olamayacağının bir göstergesi.\n\npeki iktidar olmaya en yakın oluşum hangisi? millet ittifakı.\n\ndolayısıyla sayın kılıçdaroğlu cumhurbaşkanı olmaya en yakın lider. bu yüzden söyledikleri çok önemli.\n\nbunları söyleyen başkaları da var doğru. ama secimi kazanıp söylediklerini uygulama şansı olan tek lider sayın kılıçdaroğlu...",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyelileri türkiye'ye sokmak vatana ihanettir",
+      "entry_id": "137281689",
+      "author": "dikis tutmaz sabri",
+      "date": "10.05.2022 19:44",
+      "content": "2016’da da cenevre sözleşmesindeki çekince kaldırılsın uluslararası hukuk statüsü verilsin geri dönmeyecekler demiş adamın açıklaması, geçen de gönüllü gidenleri göndereceğiz dedi çıkıp net amasız bir şekilde hepsi gönderilecek açıklamasını yapmasını ve seçim bildirgesine bunu koymasını bekliyoruz eleştirilerden rahatsızsa",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:38:37.472095",
+    "total_entries": 1,
+    "input": "ilham aliyev'in mülteci açıklaması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ilham aliyev'in mülteci açıklaması",
+      "entry_id": "168639335",
+      "author": "winchester brothers",
+      "date": "24.09.2024 09:27",
+      "content": "tam bir devlet adamı, ümmet ensar geyiğine hiç girmemiş.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:42:49.657887",
+    "total_entries": 3,
+    "input": "akp'nin mülteciye erişilmez muhteşem değer vermesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "akp'nin mülteciye erişilmez muhteşem değer vermesi",
+      "entry_id": "56803487",
+      "author": "monch",
+      "date": "08.12.2015 08:34",
+      "content": "(bkz: sınırı açar suriyeli mültecileri üzerinize salarız)",
+      "referenced_content": [],
+      "has_external_url": false
+    },
+    {
+      "title": "akp'nin mülteciye erişilmez muhteşem değer vermesi",
+      "entry_id": "56803730",
+      "author": "frankiegoestohollywood",
+      "date": "08.12.2015 08:51",
+      "content": "bir aşk romanı.\n\nçıkan kısmın özeti:\n\n--- spoiler ---\n\n(bkz: kamplardaki suriyelilere 8.5 milyar $ harcanması/#56356621)\n\n--- spoiler ---\n\n.",
+      "referenced_content": [
+        {
+          "type": "entry",
+          "title": "kamplardaki-suriyelilere-8-5-milyar-harcanmasi",
+          "entry_id": "56356621",
+          "author": "frankiegoestohollywood",
+          "date": "19.11.2015 13:40 ~ 14:54",
+          "content": "sürekli harcanıyor efendim durduramıyoruz!\n\ndaha dün, yani 2015 yılının dokuzuncu ayında suriyelilere harcanan 7.6 milyar dolar a şaşırıyorduk. kaşla göz arasında 1 milyar dolar daha uçurmuş bunlar.\n\nşu \" harcama \" terminolojisini acilen terketmeliyiz. yoksa sayaçların milyar milyar artması kaçınılmaz olur. sen bu milyarlardan söz ederken ağzından \" harcandı \" diye bir kelime çıkıyorsa o milyarlar senin götüne girmiştir, bilesin. bilançoya harcama kalemleri sütunundan değil, birilerinin \" kazanç \" kalemleri sütunundan bakmaya başlasan iyi olur.\n\ngören de paralar hakikaten zavallı suriyelilerin ihtiyaçlarına gidiyor falan sanır.\n\nolm karşında kömür diye toprakla karışık cüruf parçalarını çuvallara doldurup on üç yıldır vatandaşa veriyorum diye kamu kaynaklarını hiç acımadan inek gibi sağan bir çete var. kendi halkına bunu yapan, elin arap köylüsünün gözünün yaşına mı bakar?\n\nunutma! harcandı out, birilerinin cebine girdi in . misal, suriyelilere ekmek tedarik işi bir yandaşın. ekmek bakkalda 1 lira, bu yandaş kamu hazinesinden alıyor ekmek başına 3 lira. bir başkası çadırları satsın. 1000 liralık çadır suriyeli kampına 10 bin lira. inanmıyorsan sayıştay raporlarına bakarsın, şayet sayıştay'ı koyduğun yerde bulabilirsen.\n\nveya şöyle düşün; sana sekiz buçuk milyar harcasalar sen hayatını riske atar mısın ege sularında? sana sekiz buçuk milyar harcasalar dilenmene gerek kalır mı kırmızı ışıklarda? oturursun oturduğun yerde misler gibi, ekmek elden su gölden. bu paranın, kamplardaki (kamp dışındakileri saymadık) toplam 500 bin suriyeliye gittiğini varsaysan adam başı 17 bin dolar yapıyor. kısaca, dört milyar ağaç diktik palavrasının bir başka türlüsü.\n\n.\n\nzorunlu okuma parçaları:\n\n1. (bkz: suriye'ye yardım işinden akp'nin indirdiği para/#51868768)\n\n2. (bkz: suriyeliler için 2 milyar dolar harcamak/#37984455)\n\n.\n\ntanım da eksik kalmasın: enayi parası.\n\n.",
+          "referenced_entry_ids": [
+            "51868768",
+            "37984455"
+          ],
+          "has_external_url": false
+        }
+      ],
+      "referenced_entry_ids": [
+        "56356621"
+      ],
+      "has_external_url": false
+    },
+    {
+      "title": "akp'nin mülteciye erişilmez muhteşem değer vermesi",
+      "entry_id": "56805038",
+      "author": "travenian",
+      "date": "08.12.2015 10:10 ~ 10:12",
+      "content": "sonuna kadar gerçek dir.\n\nbizim mahallenin her çöp konyeynerini bir başka suriyeli sahiplenmiş (veya bir aşiret_aile midirler emin olamadım.)\n\nben dün çöplerini plastik _ karton/ kağıt _ evsel atık diye ayrıştırmadan attığı için çöp konteyneri sahibi suriyeli mülteci (!) tarafından azar lanan türkiye cumhuriyeti vatandaşı gördüm lan.\n\nzor oluyormuş öyle çöp torbalarından teker teker bulmak.\n\nköşedeki çöplüğe çöp atanlar kadar olamıyormuşuz. (köşedeki çöplük dediği belediyenin koyduğu geri dönüşüm hedelerinin bulunduğu yer. siz kağıt_metal_ plastik ayrıştırıp atıyorsunuz suriyeli can'lar arka taraftan kendi arabalarına dolduruyor. geçen denk geldim oradaki ürünleri almakla görevli araca _ki sanırım o da özel bir şirkete ihale edilmişti ama şirket çekildi_) ve hayırdır neden siz almıyorsunuz izin veriyorsunuz almalarına diye:\n\nabi canımızdan mı olalım geri dönüşecek çöp için dedi. sustum.",
+      "referenced_content": [],
+      "has_external_url": false
+    }
+  ]
+}

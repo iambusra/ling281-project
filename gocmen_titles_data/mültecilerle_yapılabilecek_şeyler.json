@@ -1,0 +1,52 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:52:48.179961",
+    "total_entries": 5,
+    "input": "mültecilerle yapılabilecek şeyler",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "mültecilerle yapılabilecek şeyler",
+      "entry_id": "137001033",
+      "author": "the apple",
+      "date": "04.05.2022 15:48",
+      "content": "(bkz: mültecileri köle olarak çalıştırmak)\n(bkz: mültecilerle battle royale oynamak)",
+      "has_external_url": false
+    },
+    {
+      "title": "mültecilerle yapılabilecek şeyler",
+      "entry_id": "137048362",
+      "author": "ursulayi olu veya diri mutlaka istiyorum",
+      "date": "05.05.2022 16:03",
+      "content": "(bkz: sabun)",
+      "has_external_url": false
+    },
+    {
+      "title": "mültecilerle yapılabilecek şeyler",
+      "entry_id": "137072543",
+      "author": "the apple",
+      "date": "06.05.2022 01:21",
+      "content": "(bkz: mülteci dövmek)",
+      "has_external_url": false
+    },
+    {
+      "title": "mültecilerle yapılabilecek şeyler",
+      "entry_id": "137073141",
+      "author": "the apple",
+      "date": "06.05.2022 01:36",
+      "content": "(bkz: hıdırellez ateşine mülteci atmak)",
+      "has_external_url": false
+    },
+    {
+      "title": "mültecilerle yapılabilecek şeyler",
+      "entry_id": "137706698",
+      "author": "the apple",
+      "date": "21.05.2022 02:37",
+      "content": "(bkz: how to make fertilizers from subhuman creatures)",
+      "has_external_url": false
+    }
+  ]
+}

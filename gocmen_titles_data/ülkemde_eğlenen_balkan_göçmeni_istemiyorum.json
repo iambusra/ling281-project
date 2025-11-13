@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:10:33.984848",
+    "total_entries": 1,
+    "input": "ülkemde eğlenen balkan göçmeni istemiyorum",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ülkemde eğlenen balkan göçmeni istemiyorum",
+      "entry_id": "113015911",
+      "author": "biraz ordan biraz buradan",
+      "date": "15.09.2020 12:02",
+      "content": "\"kaçıp benim ülkeme geleceksin\" derken?... göçmenler en başından beri bu ülkenin vatandaşıydı, mülteci olarak gelmediler. yani ülke savaşta toprak kaybedip sınırları daralınca oradaki vatandaşlar mevcut sınırlar içine taşındılar. yani suriyelilerle aynı kefeye konulamazlar.\nhala anlamayanlar için şöyle anlatayım, diyelim ki kuzeydoğu sınırımızda savaş çıktı ve allah korusun artvin'i kaybettik. ordan gelip izmir'e, adana'ya, malatya'ya yerleşen vatandaşımız; başkasının ülkesinde mi yaşıyor olacak?",
+      "has_external_url": false
+    }
+  ]
+}

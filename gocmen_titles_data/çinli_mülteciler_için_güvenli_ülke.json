@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:48:08.885581",
+    "total_entries": 3,
+    "input": "çinli mülteciler için güvenli ülke",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "çinli mülteciler için güvenli ülke",
+      "entry_id": "145653049",
+      "author": "inecemdedurakyok",
+      "date": "28.11.2022 09:02",
+      "content": "(bkz: kuzey kore)",
+      "has_external_url": false
+    },
+    {
+      "title": "çinli mülteciler için güvenli ülke",
+      "entry_id": "145653083",
+      "author": "anani siken kadi",
+      "date": "28.11.2022 09:03",
+      "content": "elbette türkiye.\ngerçi ümmet değiller ama bir kaç milyar dolar ateşlenmesi ile çözülebilecek ufak bir pürüz bu.",
+      "has_external_url": false
+    },
+    {
+      "title": "çinli mülteciler için güvenli ülke",
+      "entry_id": "145653134",
+      "author": "colde bedevi arayan kutup ayisi",
+      "date": "28.11.2022 09:05",
+      "content": "bence tr den güvenli memleket yok onlar için köpek eti yediklerinde köpektaparlar tarafında hoş karşılanmaz sadece",
+      "has_external_url": false
+    }
+  ]
+}

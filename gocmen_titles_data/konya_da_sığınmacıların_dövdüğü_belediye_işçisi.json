@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:05:07.243044",
+    "total_entries": 2,
+    "input": "konya'da sığınmacıların dövdüğü belediye işçisi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "konya'da sığınmacıların dövdüğü belediye işçisi",
+      "entry_id": "139333049",
+      "author": "sana noluyo len",
+      "date": "28.06.2022 17:09 ~ 17:20",
+      "content": "link\nbiraz önce ümit özdağ'ın da paylaştığı vahim olay, resmen linç etmişler adamı. bu orospu çocuklarını bu cüreti aldıkları yöne doğru domaltıp silkmek lazım. işçinin beyin kanaması geçirdiği ve hayati tehlikesinin devam ettiği söyleniyor.\nsüslü abi keşke enerjisini tvlerde ona buna sallayarak harcayacağına ülkeye doldurdukları insanlıktan nasibini almamış ayıları kontrol altına almak için harcasa.\n\n(bkz: ülkemde sığınmacı istemiyorum)",
+      "has_external_url": true
+    },
+    {
+      "title": "konya'da sığınmacıların dövdüğü belediye işçisi",
+      "entry_id": "139333529",
+      "author": "ulkesini kucumseyen sebahattin pezevengi",
+      "date": "28.06.2022 17:21",
+      "content": "türk'ün en garip olduğu yer kendi vatanıdır.\n\npeyami safa.",
+      "has_external_url": false
+    }
+  ]
+}

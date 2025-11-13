@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:10:28.301271",
+    "total_entries": 3,
+    "input": "rusya'nın ukrayna'ya doğal gazı kesmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rusya'nın ukrayna'ya doğal gazı kesmesi",
+      "entry_id": "56492511",
+      "author": "draconian",
+      "date": "25.11.2015 12:50",
+      "content": "bu sabah itibariyle gazprom un borcunu odemeyen ukrayna'ya gaz sevkiyatini durdurmasidir. en nihayetinde parayi veren dudugu calar ama kesecegi ikinci ulkenin kim oldugunu tahmin etmekte zorlanmiyorum.\n\nhttp://www.spiegel.de/…g-der-ukraine-a-1064444.html\n\nhttp://news.sky.com/…rom-halts-ukraine-gas-supplies",
+      "has_external_url": true
+    },
+    {
+      "title": "rusya'nın ukrayna'ya doğal gazı kesmesi",
+      "entry_id": "56493091",
+      "author": "bobmyler",
+      "date": "25.11.2015 13:21",
+      "content": "olum resmen adamlar bize sinirlenip gariban ukrayna'yi dövüyor. adeta sevgiliye kızıp duvara fırlatılan telefon gibi olmus koca ülke.",
+      "has_external_url": false
+    },
+    {
+      "title": "rusya'nın ukrayna'ya doğal gazı kesmesi",
+      "entry_id": "56493419",
+      "author": "gastiro",
+      "date": "25.11.2015 13:37",
+      "content": "putin'in kıbleyi şaşırdığını gösterir. yanlış vanayı kapattın reis.",
+      "has_external_url": false
+    }
+  ]
+}

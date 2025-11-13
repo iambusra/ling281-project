@@ -1,0 +1,82 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:00:02.965790",
+    "total_entries": 6,
+    "input": "chp'nin sığınmacılar kalacak açıklaması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "chp'nin sığınmacılar kalacak açıklaması",
+      "entry_id": "163703229",
+      "author": "heykellere ufleyen adam",
+      "date": "22.04.2024 15:08",
+      "content": "veli ağbaba\n\nchp trolleri burada sığınmacı düşmanlığı yapıyor ama chp sığınmacıların kalıcı olduğunu açıklamış.\n\nchp'li veli ağbaba;\n\n\"suriyeli sığınmacıların türkiye'de kalıcı oldukları kabul edilmeli. mülteci statüsü verilerek entegre edilmeli.\"",
+      "referenced_content": [],
+      "has_external_url": true
+    },
+    {
+      "title": "chp'nin sığınmacılar kalacak açıklaması",
+      "entry_id": "163703503",
+      "author": "camerawoman",
+      "date": "22.04.2024 15:19",
+      "content": "ucuz işgücü neden gitmelerini istesinler ki...\n\nbu kaçaklar konusunda samimi olan tek bir parti var. bir gün hepimiz haklıymışsın ümit hoca diyeceğiz ama çok geç olacak.\n\nsiyaset değişir ama \"türkiye türklerindir.' gerçeği değişmez.",
+      "referenced_content": [],
+      "has_external_url": false
+    },
+    {
+      "title": "chp'nin sığınmacılar kalacak açıklaması",
+      "entry_id": "163703845",
+      "author": "userkaf",
+      "date": "22.04.2024 15:32",
+      "content": "veli ağbaba bu açıklamayı yaptığında bir çocuk yapsa, o çocuk bugün 9 yaşında olacaktı... teşekkürler kutsal bilgi kaynağı.\n\ntabi bu açıklama doğrudan veli ağbaba'nın değil, chp'nin kurduğu göç ve göçmen sorunları komisyonu nun 10 aylık bir çalışma sonrası ortaya çıkardığı bir rapor: bakınız\n\nraporda, iktidarın uygulamış olduğu göçmen politikasının türkiye'nin 100 yıllık geleceğinde ne gibi sorunlara yol açacağı detaylı şekilde anlatılmış, ilgilisine de kitaplaştırılmış. her seçim öncesi ve sonrasında bu arkadaşlar, açıklamanın bu bölümünü alarak paylaşır durur. bu konu hakkındaki sorulara cevap da verilmiş .\n\nçok merak edene 160 sayfadan oluşan raporun pdf halini de gönderebilirim.",
+      "referenced_content": [],
+      "has_external_url": true
+    },
+    {
+      "title": "chp'nin sığınmacılar kalacak açıklaması",
+      "entry_id": "163704264",
+      "author": "rick deckard",
+      "date": "22.04.2024 15:48",
+      "content": "userkaf rumuzlu kullanıcı bu yalancı algıcı ergenlere gerekli cevabı vermiş, dahasını da isteyen şu başlığa ve entry'e bakabilir;\n\n(bkz: geçmişten günümüze kk'nın suriyeli açıklamaları)\n\n(bkz: #163640216)\n\nchp'nin bu konudaki çizgisi 12 senedir gayet net. gerçekçi ve akılcı. mancınıkçı değil.",
+      "referenced_content": [
+        {
+          "type": "entry",
+          "title": "gecmisten-gunumuze-kknin-suriyeli-aciklamalari",
+          "entry_id": "163640216",
+          "author": "soulsmasher",
+          "date": "20.04.2024 16:26 ~ 21.04.2024 16:56",
+          "content": "ilk mesajın sahibi sanırım uçmuş, bu sebeple mesajın 2022 senesinin mayıs ayında alınmış archive.org yedeğini buraya paylaşayım:\n\nlinki sözlük bozuyor, ondan tinyurl gibi bir kısaltma servislerinden verdim:\n\nhttps://tinyurl.com/48v62dvz\n\nlink ilerde bozulursa archive.org'da bu başlığın 1. sayfadaykenki, veya bu mesajın başındaki, şu an silinmiş olan mesajın linkini arattırabilirsiniz.",
+          "referenced_entry_ids": [
+            "134069389"
+          ],
+          "has_external_url": true
+        }
+      ],
+      "referenced_entry_ids": [
+        "163640216"
+      ],
+      "has_external_url": false
+    },
+    {
+      "title": "chp'nin sığınmacılar kalacak açıklaması",
+      "entry_id": "163704861",
+      "author": "hemkelhemdesisman",
+      "date": "22.04.2024 16:13",
+      "content": "chp'nin sığınmacı politikası, akp'den daha kötü. akp hiç olmazsa, bunları mülteci statüsüne almadı. chp ise sığınmacıların mülteci statüsüne alınmasını ve vatandaşlık verilmesini istiyor.",
+      "referenced_content": [],
+      "has_external_url": false
+    },
+    {
+      "title": "chp'nin sığınmacılar kalacak açıklaması",
+      "entry_id": "163704970",
+      "author": "portekizli forvet",
+      "date": "22.04.2024 16:16",
+      "content": "siyasal atatürkçü mod on\n\nolsun cemaatlere para yardımını kesti.\n\nsiyasal atatürkçü mod off",
+      "referenced_content": [],
+      "has_external_url": false
+    }
+  ]
+}

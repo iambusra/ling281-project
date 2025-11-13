@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:05:39.824390",
+    "total_entries": 1,
+    "input": "124 bin melek rusya ukrayna hattında savaşıyor",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "124 bin melek rusya ukrayna hattında savaşıyor",
+      "entry_id": "170099671",
+      "author": "obispo",
+      "date": "12.11.2024 12:04",
+      "content": "gönül gözü açık din büyüklerinin ortaya koyduğu hakikat.\n\nallah katında öyle melekler vardır ki, onlar beyaz sarıkları, yalın kılıçlarıyla savaş meydanlarına iştiyakla dalarlar.\n\n\"ne cennet tasası ne de cehennem, yalnızca allah'ın rızasındalar\" denilen hikmetle meydanları inletirler.\n\nevvel gün bedir'de, sonrası malazgirt'te, dün çanakkale'de oldukları gibi bugün de kursk'ta, luhansk'ta, zaporijya'da savaşıyorlar.\n\nallah hak yoldan ayırmasın.",
+      "has_external_url": false
+    }
+  ]
+}

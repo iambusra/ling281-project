@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:16:03.314420",
+    "total_entries": 4,
+    "input": "almanya'da parkta mangal yapan göçmenler",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "almanya'da parkta mangal yapan göçmenler",
+      "entry_id": "164182121",
+      "author": "gurcell gurcell",
+      "date": "07.05.2024 14:38",
+      "content": "almanya, araplarin ve kürtlerin mangalsız yaşayamadıklarını görüp gelişi güzel her yerde bunu yapmasınlar diye kendilerine park tahsis etmiş.\nişte o muhteşem görüntüler.\nhttps://twitter.com/…?t=2ex1msj9tgsunoxlnahh-q&s=19",
+      "has_external_url": true
+    },
+    {
+      "title": "almanya'da parkta mangal yapan göçmenler",
+      "entry_id": "164182186",
+      "author": "dzs",
+      "date": "07.05.2024 14:41",
+      "content": "alman kendi bahcesinde yapip mahalleyi dumana verince ilerici modern mi olmus oluyor.\nbu bunu yapanlarin ayibi oldugu kadar, mangal yapmak icin en olmadik kösede göt kadar yer ayirip insanlari buna iten yöneticilerin de ayibi.",
+      "has_external_url": false
+    },
+    {
+      "title": "almanya'da parkta mangal yapan göçmenler",
+      "entry_id": "164182204",
+      "author": "maminism",
+      "date": "07.05.2024 14:42",
+      "content": "bostancı sahil gibi la",
+      "has_external_url": false
+    },
+    {
+      "title": "almanya'da parkta mangal yapan göçmenler",
+      "entry_id": "164182332",
+      "author": "bastir kiton",
+      "date": "07.05.2024 14:49 ~ 14:50",
+      "content": "biz almanlar, kürtler mangal yaptığı için, çıplak güneşlenemiyoruz artık. 75 yaşımdayım, bahar ve yazın güneş doğduğunda, anadan doğma parklarda güneşlenirken yer bulamıyorum artık.\nbu yüzden iyi gelişme.",
+      "has_external_url": false
+    }
+  ]
+}

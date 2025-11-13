@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:59:49.915239",
+    "total_entries": 1,
+    "input": "köpekler chp'li sığınmacılar akp'li belediyelere",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "köpekler chp'li sığınmacılar akp'li belediyelere",
+      "entry_id": "166482126",
+      "author": "hombre de hielo",
+      "date": "19.07.2024 21:40",
+      "content": "başlattığım kampanya.\n\nben de hem il hem ilçede chp'li belediyedeyim ama sığınmacılardan kurtulalım bari.\n\nhoş chp'liler de sığınmacıları göndermiyor da akp daha bir sahipleniyor.",
+      "has_external_url": false
+    }
+  ]
+}

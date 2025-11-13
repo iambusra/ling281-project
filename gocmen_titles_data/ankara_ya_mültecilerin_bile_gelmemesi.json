@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:54:27.664323",
+    "total_entries": 4,
+    "input": "ankara'ya mültecilerin bile gelmemesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ankara'ya mültecilerin bile gelmemesi",
+      "entry_id": "157503338",
+      "author": "vayemsiey",
+      "date": "07.10.2023 14:51",
+      "content": "arkadaş trollüyor mu? yoksa haftaiçi kızılaya mı gitmedi acaba?\n\nt: yanlış önerme.",
+      "has_external_url": false
+    },
+    {
+      "title": "ankara'ya mültecilerin bile gelmemesi",
+      "entry_id": "157503384",
+      "author": "a paranormal human",
+      "date": "07.10.2023 14:53",
+      "content": "güldüren, doğru tespittir.",
+      "has_external_url": false
+    },
+    {
+      "title": "ankara'ya mültecilerin bile gelmemesi",
+      "entry_id": "157503497",
+      "author": "siteler adama iteler",
+      "date": "07.10.2023 14:56",
+      "content": "mülteci gelmiyor yok diyenleri siteler e önder e hüseyingazi ye bekleriz.",
+      "has_external_url": false
+    },
+    {
+      "title": "ankara'ya mültecilerin bile gelmemesi",
+      "entry_id": "157503571",
+      "author": "kediprofesoru",
+      "date": "07.10.2023 14:59",
+      "content": "şahsen benim birçok mülteci öğrencim var. aralarında siyahiler de var. geneli ırak ve suriye'den. belki diğer şehirlere oranla daha azdır ama gelmiyor demek haksızlık olur.",
+      "has_external_url": false
+    }
+  ]
+}

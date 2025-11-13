@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:03:35.518593",
+    "total_entries": 1,
+    "input": "zombilerin sığınmacılardan daha az zararlı olması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "zombilerin sığınmacılardan daha az zararlı olması",
+      "entry_id": "140947686",
+      "author": "nesedenyana",
+      "date": "06.08.2022 11:29",
+      "content": "hakkaniyetli bir karşılaştırma yapıldığında zombilerin ülkeye ve insana zararı çok kısıtlı kalıyor.\nzombi vs sığınmacı",
+      "has_external_url": true
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:03:44.503482",
+    "total_entries": 3,
+    "input": "suriyeli sığınmacılardan kurtulmanın tek yolu",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeli sığınmacılardan kurtulmanın tek yolu",
+      "entry_id": "55567806",
+      "author": "berci kristin",
+      "date": "16.10.2015 15:25",
+      "content": "(bkz: koş sevim ırkçı geldi)",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyeli sığınmacılardan kurtulmanın tek yolu",
+      "entry_id": "90922310",
+      "author": "yyildirayy",
+      "date": "05.06.2019 20:19",
+      "content": "getirenlerin hiç umurunda değil.",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyeli sığınmacılardan kurtulmanın tek yolu",
+      "entry_id": "100548697",
+      "author": "bir zamanlar ektomorf",
+      "date": "15.01.2020 02:30",
+      "content": "yok.150 yıl sonra falan buralar bizim ülkemiz deyip ayaklanacaklar özerklik falan isteyecekler kesin aptal arapları oynatırlar parmaklarında tabi o zamana dünya diye bir yer kalırsa.",
+      "has_external_url": false
+    }
+  ]
+}

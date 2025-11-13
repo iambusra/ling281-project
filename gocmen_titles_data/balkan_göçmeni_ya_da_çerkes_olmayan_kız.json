@@ -1,0 +1,76 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:11:38.090179",
+    "total_entries": 8,
+    "input": "balkan göçmeni ya da çerkes olmayan kız",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "balkan göçmeni ya da çerkes olmayan kız",
+      "entry_id": "37712203",
+      "author": "zemin yesil 12 yildiz 3 ok sari",
+      "date": "18.10.2013 22:37",
+      "content": "http://i.imgur.com/lnh2p5k.jpg",
+      "has_external_url": true
+    },
+    {
+      "title": "balkan göçmeni ya da çerkes olmayan kız",
+      "entry_id": "37712738",
+      "author": "yoruk ali efe",
+      "date": "18.10.2013 22:57",
+      "content": "istanbulda 3 milyon sivaslı olduğundan kelli, bolca bulunan kızdır. ya da tüm sivaslılar erkek.",
+      "has_external_url": false
+    },
+    {
+      "title": "balkan göçmeni ya da çerkes olmayan kız",
+      "entry_id": "37712783",
+      "author": "koyu kapitalist",
+      "date": "18.10.2013 22:58",
+      "content": "bayrampaşa, zeytinburnu ve gaziosmanpaşa'da pek bulunmayan kızdır.",
+      "has_external_url": false
+    },
+    {
+      "title": "balkan göçmeni ya da çerkes olmayan kız",
+      "entry_id": "37712830",
+      "author": "saricizmelimehmetaga",
+      "date": "18.10.2013 23:00",
+      "content": "büyükçekmece'den silivri'ye kadar olan yerleşim yerlerinin dışında olan kızlardır.",
+      "has_external_url": false
+    },
+    {
+      "title": "balkan göçmeni ya da çerkes olmayan kız",
+      "entry_id": "37712942",
+      "author": "guvercin kanatli kadin",
+      "date": "18.10.2013 23:04",
+      "content": "kökü saraya dayanır.",
+      "has_external_url": false
+    },
+    {
+      "title": "balkan göçmeni ya da çerkes olmayan kız",
+      "entry_id": "59741566",
+      "author": "struct",
+      "date": "05.04.2016 16:50 ~ 16:51",
+      "content": "çok nadir bulunuyor.\n\ntanıdığım kadınların büyük bir kısmının kökleri ya selanik'e dayanıyor ya bulgaristan'dan göçmüşler ya da anne tarafları çerkes. işin garibi hiçbiri de göçmene ya da çerkes'e benzemiyor. baba tarafına çekmişler herhalde.",
+      "has_external_url": false
+    },
+    {
+      "title": "balkan göçmeni ya da çerkes olmayan kız",
+      "entry_id": "59742739",
+      "author": "tatlisudepresifi",
+      "date": "05.04.2016 17:42",
+      "content": "bekaret testi mi yapılıyor sorusunu akıllara getirmiştir? (bkz: kız?)",
+      "has_external_url": false
+    },
+    {
+      "title": "balkan göçmeni ya da çerkes olmayan kız",
+      "entry_id": "62333135",
+      "author": "snoop dogg millionaire",
+      "date": "14.08.2016 20:17",
+      "content": "kürt olabilir.",
+      "has_external_url": false
+    }
+  ]
+}

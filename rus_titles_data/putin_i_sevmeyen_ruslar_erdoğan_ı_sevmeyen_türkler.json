@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:28:46.923417",
+    "total_entries": 2,
+    "input": "putin'i sevmeyen ruslar erdoğan'ı sevmeyen türkler",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "putin'i sevmeyen ruslar erdoğan'ı sevmeyen türkler",
+      "entry_id": "56497872",
+      "author": "2174",
+      "date": "25.11.2015 17:01",
+      "content": "birleşip ülke kuralım lan. güllük gülistanlık yaşarız vallaha. diktatör sevdalısı ezikler rezillikleriyle kalsınlar. hatta savaşıp telef olsunlar.",
+      "has_external_url": false
+    },
+    {
+      "title": "putin'i sevmeyen ruslar erdoğan'ı sevmeyen türkler",
+      "entry_id": "56499137",
+      "author": "eksilestirebildiklerinizdenim",
+      "date": "25.11.2015 18:06",
+      "content": "tam mübadelelik bişey",
+      "has_external_url": false
+    }
+  ]
+}

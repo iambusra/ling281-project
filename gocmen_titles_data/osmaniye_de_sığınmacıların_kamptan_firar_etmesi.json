@@ -1,0 +1,52 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:05:06.858994",
+    "total_entries": 5,
+    "input": "osmaniye'de sığınmacıların kamptan firar etmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "osmaniye'de sığınmacıların kamptan firar etmesi",
+      "entry_id": "139474676",
+      "author": "stmfhl",
+      "date": "01.07.2022 22:45",
+      "content": "osmaniyeliler bu duruma neden olanları en çok destekleyenlerden aslinda. videoda sinirli vatandaşlar neye kızdıklarını bile bilmiyor bence. ayrıca yüzyıldan beri dostumuz olan afganları da düşman ettirdiler bize. jandarmaya, afgan'a kızacaklarına şapkayı önlerine koyup düşünmeleri gerekir.",
+      "has_external_url": false
+    },
+    {
+      "title": "osmaniye'de sığınmacıların kamptan firar etmesi",
+      "entry_id": "139474688",
+      "author": "animecitostmakinesi",
+      "date": "01.07.2022 22:46",
+      "content": "daha önce bu kampa gitmiş, osmaniye'de yaşayan biri olarak söylüyorum, inşallah o saklandıkları tarlalara bir zarar vermezler, velev ki verdiler, jandarma onları köylünün elinden biraz zor kurtarır.",
+      "has_external_url": false
+    },
+    {
+      "title": "osmaniye'de sığınmacıların kamptan firar etmesi",
+      "entry_id": "139475260",
+      "author": "unnamedcell",
+      "date": "01.07.2022 23:01",
+      "content": "lan ben jandarma komutanıyım konuşma diyen jandarma komutanına evine alıp tüm kaçakların hepsini beslemesini tavsiye ediyorum.",
+      "has_external_url": false
+    },
+    {
+      "title": "osmaniye'de sığınmacıların kamptan firar etmesi",
+      "entry_id": "139475268",
+      "author": "timucinss",
+      "date": "01.07.2022 23:02 ~ 23:04",
+      "content": "“sizin gibi amına koduklarım yüzünden bu perişanlık” diye bağıran adam her şeyi özetlemiş. üzerine şimdi ne yazsam boş olacak.\nkaynak",
+      "has_external_url": true
+    },
+    {
+      "title": "osmaniye'de sığınmacıların kamptan firar etmesi",
+      "entry_id": "139476048",
+      "author": "husogurdal",
+      "date": "01.07.2022 23:22 ~ 23:24",
+      "content": "önümüzdeki seçimlerde osmaniye'nin cumhur ittifakına verdiği oy oranını çok merak ediyorum",
+      "has_external_url": false
+    }
+  ]
+}

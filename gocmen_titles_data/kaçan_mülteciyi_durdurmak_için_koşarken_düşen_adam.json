@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:41:00.111014",
+    "total_entries": 3,
+    "input": "kaçan mülteciyi durdurmak için koşarken düşen adam",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "kaçan mülteciyi durdurmak için koşarken düşen adam",
+      "entry_id": "154758702",
+      "author": "olumsuzdusunenadam",
+      "date": "20.07.2023 16:33 ~ 16:56",
+      "content": "twit\n\nadamdır, net. o tekme atılan ilk kurşundur.",
+      "has_external_url": true
+    },
+    {
+      "title": "kaçan mülteciyi durdurmak için koşarken düşen adam",
+      "entry_id": "154759245",
+      "author": "bedellikomandoo",
+      "date": "20.07.2023 16:51",
+      "content": "adresini bilen var ise bilgilendirirse sevinirim geçmiş olsun ziyaretine gidelim.",
+      "has_external_url": false
+    },
+    {
+      "title": "kaçan mülteciyi durdurmak için koşarken düşen adam",
+      "entry_id": "154759339",
+      "author": "terminus yerlisi",
+      "date": "20.07.2023 16:54 ~ 16:58",
+      "content": "mülteci değil geçici sığınmacı.\nmülteci değil geçici sığınmacı.\nmülteci değil geçici sığınmacı.\n\nbunu kaç kez tekrarlamak gerekiyor acaba? türkiye sadece batıdan gelenleri mülteci olarak kabul ediyor. bunun dışında kalanlar, üçüncü bir ülkeye yerleşene kadar geçici sığınmacı ünvanıyla ülkede kalıyorlar. en azından kağıt üstünde böyle.",
+      "has_external_url": false
+    }
+  ]
+}

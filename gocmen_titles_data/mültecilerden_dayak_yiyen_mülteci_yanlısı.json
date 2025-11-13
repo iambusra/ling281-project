@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:51:50.514305",
+    "total_entries": 1,
+    "input": "mültecilerden dayak yiyen mülteci yanlısı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "mültecilerden dayak yiyen mülteci yanlısı",
+      "entry_id": "154138186",
+      "author": "klarkkent",
+      "date": "03.07.2023 01:24 ~ 01:25",
+      "content": "şurada görülebilecek arkadaştır.\n\n--- spoiler ---\n\nfransa’da “mülteciler gitmesin” diyen derneğin başkanı da ülkeyi karıştıran mültecilerden dayak yedi.\n\nfransa'da sığınmacılar tarafından cadde ortasında dayak yiyen kişinin, sığınmacıların fransa'da kalmasını savunan barış melekleri derneği'nin başkanı olduğu iddia edildi.\nhttps://www.yenicaggazetesi.com.tr/…ran-682368h.htm\n--- spoiler ---",
+      "has_external_url": true
+    }
+  ]
+}

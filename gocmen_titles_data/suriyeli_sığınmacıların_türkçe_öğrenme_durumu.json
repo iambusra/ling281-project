@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:05:21.054416",
+    "total_entries": 2,
+    "input": "suriyeli sığınmacıların türkçe öğrenme durumu",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeli sığınmacıların türkçe öğrenme durumu",
+      "entry_id": "136714472",
+      "author": "nickimi verin bana",
+      "date": "27.04.2022 08:08",
+      "content": "entegre etmek ne demekti, emek demekti.\n\nbüyük devlet olmak, güç irade sahibi olmak demekti. devletin \"madem bu ülkedesiniz, bu ülkenin dilini öğreneceksiniz\" demesiydi.\n\npeki geçen on yıllar sonunda ne durumdayız?\n\ndaha çok mekan,işletme,firma arapça tabela, broşür hazırlıyor!\n\nçağrım da şu: madem suriyelilere bu şekilde kolaylıklar(!) sağlayarak öğrettir(e)meyeceksiniz türkçeyi, bari milli eğitim okullarımızdaki suriyeli öğrenci uygulamasını kaldırın, bizim öğretmenlerimize ve dahi sınıftaki çocuklarımıza eziyet etmeyin! emin olun durumlar çok sıkıntılı. onlar anlamıyor, öğretmen ve dahi diğer öğrenciler için sıkıntı, sınıf ortamı hep bölük pörçük... bütünlük yok, uyum yok. çocuğumuza, eğitimimize yazık!",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyeli sığınmacıların türkçe öğrenme durumu",
+      "entry_id": "136714499",
+      "author": "renksiz hayat",
+      "date": "27.04.2022 08:09",
+      "content": "sonunda ne olacağını söyleyeyim, öğretmenlere zorunlu arapça kursu getirip, tersine entegrasyonu başlatırlar bu kafayla.",
+      "has_external_url": false
+    }
+  ]
+}

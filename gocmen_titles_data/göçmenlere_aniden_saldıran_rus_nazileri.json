@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:22:56.496683",
+    "total_entries": 2,
+    "input": "göçmenlere aniden saldıran rus nazileri",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "göçmenlere aniden saldıran rus nazileri",
+      "entry_id": "63031282",
+      "author": "barko",
+      "date": "19.09.2016 19:31",
+      "content": "milliyetçi duyguların, bir insanı ne kadar kolay canavarlaştırdığını gösteren olaylardır.",
+      "has_external_url": false
+    },
+    {
+      "title": "göçmenlere aniden saldıran rus nazileri",
+      "entry_id": "63031497",
+      "author": "raskolnikov baltasi",
+      "date": "19.09.2016 19:46",
+      "content": "(bkz: orospu çocukluğunun nirvanası)",
+      "has_external_url": false
+    }
+  ]
+}

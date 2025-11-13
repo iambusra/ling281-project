@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:45:40.417389",
+    "total_entries": 2,
+    "input": "mültecinin deportunu önleyen cesur isveçli kadın",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "mültecinin deportunu önleyen cesur isveçli kadın",
+      "entry_id": "79554790",
+      "author": "klarkkent",
+      "date": "25.07.2018 16:00",
+      "content": "mülteci şimdi bize mi kakalanmış oldu?\n\ntam anlayamadığım işleri yapan kadın?",
+      "has_external_url": false
+    },
+    {
+      "title": "mültecinin deportunu önleyen cesur isveçli kadın",
+      "entry_id": "79554958",
+      "author": "sacmaliklarinefendisi",
+      "date": "25.07.2018 16:05",
+      "content": "'' dünya'da neden herkesin sığınılacak liman olarak avrupa'ya gittiğinin nedeni bir durum.'' bu olayın sadece iskandinav ülkelerinde gerçekleşme ihtimalı olan bir şey bu, avrupa deyince aklımıza gelen ülkelerin ((bkz: almanya), (bkz: ingiltere), (bkz: fransa), (bkz: isviçre), (bkz: polonya)) hepsinde özellikle de afgan birisi yaşamayı haketmeyen bir birey olarak görülüyordur. ((bkz: genelleme))",
+      "has_external_url": false
+    }
+  ]
+}

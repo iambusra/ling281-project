@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:43:04.917822",
+    "total_entries": 1,
+    "input": "karısını boşayıp mülteciyle evlendiren akp'li",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "karısını boşayıp mülteciyle evlendiren akp'li",
+      "entry_id": "140237525",
+      "author": "radikalkemalist",
+      "date": "20.07.2022 16:18",
+      "content": "ensar-muhacir dayanışmasının gereğini yerine getiren fedakar erkektir.",
+      "has_external_url": false
+    }
+  ]
+}

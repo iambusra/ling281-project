@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:56:19.978734",
+    "total_entries": 1,
+    "input": "suriyeliler kalsın",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeliler kalsın",
+      "entry_id": "165912116",
+      "author": "yurdagulneanladi",
+      "date": "02.07.2024 01:00",
+      "content": "suriyeliler kalsın türkler gitsin mi",
+      "has_external_url": false
+    }
+  ]
+}

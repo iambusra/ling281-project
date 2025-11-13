@@ -1,0 +1,84 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:38:27.995451",
+    "total_entries": 9,
+    "input": "mülteci şirin",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "mülteci şirin",
+      "entry_id": "169032200",
+      "author": "vault7",
+      "date": "07.10.2024 15:10",
+      "content": "şirinler köyü'ne savaş sonrası sığınmış şirin.",
+      "has_external_url": false
+    },
+    {
+      "title": "mülteci şirin",
+      "entry_id": "169032255",
+      "author": "karkarof",
+      "date": "07.10.2024 15:12",
+      "content": "kanzi şirinlerin hedefinde olacak sirindir.",
+      "has_external_url": false
+    },
+    {
+      "title": "mülteci şirin",
+      "entry_id": "169033373",
+      "author": "rognes",
+      "date": "07.10.2024 16:05",
+      "content": "kendi köyüne dönmesi gereken şirindir.",
+      "has_external_url": false
+    },
+    {
+      "title": "mülteci şirin",
+      "entry_id": "169033458",
+      "author": "cevziyye",
+      "date": "07.10.2024 16:10",
+      "content": "kapitalizmin kölesidir.",
+      "has_external_url": false
+    },
+    {
+      "title": "mülteci şirin",
+      "entry_id": "169033515",
+      "author": "mathrock247",
+      "date": "07.10.2024 16:13",
+      "content": "rengi mavi değildir.",
+      "has_external_url": false
+    },
+    {
+      "title": "mülteci şirin",
+      "entry_id": "169033552",
+      "author": "bu filmin kotu adami",
+      "date": "07.10.2024 16:14",
+      "content": "zevcesiyle sürekli şirinleyendir",
+      "has_external_url": false
+    },
+    {
+      "title": "mülteci şirin",
+      "entry_id": "169033630",
+      "author": "fovalio",
+      "date": "07.10.2024 16:17 ~ 16:19",
+      "content": "her türlü ihtiyacı gargamel tarafından finanse edilmektedir. köyün diğer sakinleri, mesela hastaneye gittiğinde para öder. bu ödemez. çünkü gargamel diğer köylülerden alıp buna yedirir!",
+      "has_external_url": false
+    },
+    {
+      "title": "mülteci şirin",
+      "entry_id": "169033636",
+      "author": "bimehisimladalanadam",
+      "date": "07.10.2024 16:18",
+      "content": "faşist şirin tarafından devamlı gıdıklanır.",
+      "has_external_url": false
+    },
+    {
+      "title": "mülteci şirin",
+      "entry_id": "169033706",
+      "author": "hiperaktf c",
+      "date": "07.10.2024 16:21",
+      "content": "bulunduğu şirin köyünün kalitesini ve yaşam standartlarını düşürür, suç oranlarını arttırır ve bulunduğu binlerce kat daha medeni şirinler köyünü aşağılar.",
+      "has_external_url": false
+    }
+  ]
+}

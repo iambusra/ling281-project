@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:27:53.726204",
+    "total_entries": 1,
+    "input": "cs go da ruslar",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "cs go da ruslar",
+      "entry_id": "70513860",
+      "author": "fenderimvar",
+      "date": "30.08.2017 22:00",
+      "content": "\"r\" harfini gözünüze sokarak söyler.",
+      "has_external_url": false
+    }
+  ]
+}

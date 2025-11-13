@@ -1,0 +1,60 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:39:33.180390",
+    "total_entries": 6,
+    "input": "almanya'da ülkemde mülteci istemiyorum diyen güruh",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "almanya'da ülkemde mülteci istemiyorum diyen güruh",
+      "entry_id": "166103890",
+      "author": "yetkin99",
+      "date": "07.07.2024 13:41",
+      "content": "tam bir oksimoron örneğidir.\nhttps://x.com/…683716?t=p_o3mdootucilsrw_fgrwq&s=19\nırkçılar gerçekten ileri derecede aptallar topluluğu.\nbirazdan sürekli sövdükleri gurbetçileri övenleri göreceğiz. hah işte onlar da ayrı bir dangalak.",
+      "has_external_url": true
+    },
+    {
+      "title": "almanya'da ülkemde mülteci istemiyorum diyen güruh",
+      "entry_id": "166104489",
+      "author": "illegalstar",
+      "date": "07.07.2024 14:05",
+      "content": "oksimoron değildir. oradakiler vatandaştır. iltica eden “mülteci” değillerdir. önce mültecinin anlamını öğren.",
+      "has_external_url": false
+    },
+    {
+      "title": "almanya'da ülkemde mülteci istemiyorum diyen güruh",
+      "entry_id": "166104581",
+      "author": "beytiahzan",
+      "date": "07.07.2024 14:08",
+      "content": "(bkz: ırkçıların düşük zekalı olması)",
+      "has_external_url": false
+    },
+    {
+      "title": "almanya'da ülkemde mülteci istemiyorum diyen güruh",
+      "entry_id": "166104881",
+      "author": "boeingbogan",
+      "date": "07.07.2024 14:20",
+      "content": "mülteci ne demek bilmeyen yazarımsının bilen yazarlara oksimoron dediği başlık.",
+      "has_external_url": false
+    },
+    {
+      "title": "almanya'da ülkemde mülteci istemiyorum diyen güruh",
+      "entry_id": "166104972",
+      "author": "pistolnoob",
+      "date": "07.07.2024 14:24 ~ 11.07.2024 06:58",
+      "content": "gurbetçilerin hepsini akp'li ilan etmek zaten zırvalık. kaldı ki türkiye'deki akp seçmeninin yüzde 90'ının en azılı mülteci düşmanı olduğuda aşikar. halkın yüzde 99'u mülteci istemiyor zaten başlığın amacı ne anlamadım.",
+      "has_external_url": false
+    },
+    {
+      "title": "almanya'da ülkemde mülteci istemiyorum diyen güruh",
+      "entry_id": "166105058",
+      "author": "kundera okuyup entelektuel olan adam",
+      "date": "07.07.2024 14:27",
+      "content": "burada yaşayan suriyelilere vatandaşlık verilmesine ağlayan türkler, almanya'daki türkler için “ama onlar oranın vatandaşı” diyor. ırkçılık insanın ortalama zeka düzeyini 30 puan kadar düşüren bir şey ya çok acayip.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:10:28.916533",
+    "total_entries": 4,
+    "input": "kendisi bir bulgar göçmeni",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "kendisi bir bulgar göçmeni",
+      "entry_id": "114685337",
+      "author": "ssg",
+      "date": "24.10.2020 05:14 ~ 05:15",
+      "content": "bir spor spikeri anonsu.\n\n(bkz: bulgaristan göçmeni)",
+      "has_external_url": false
+    },
+    {
+      "title": "kendisi bir bulgar göçmeni",
+      "entry_id": "114686494",
+      "author": "born to be an author",
+      "date": "24.10.2020 08:22",
+      "content": "evet vardır böyle bir şey. daha önceden tanıştığım bir göçmen arkadaşla sohbetimizde bulgar göçmeni felan muhabbeti geçti. hemen düzeltme ve bir veryansın geldi. \"biz bulgar değiliz ki bulgar göçmeni olalım\" tarzı bir yaklaşım sergiledi. tabi bizim yörede böyle çok bulgar göçmeni olmadığı için cehaletimize sığındık.\n\ndoğrusu bulgaristan göçmeni imiş.\nsanırım ssg de bulgaristan göçmeni.",
+      "has_external_url": false
+    },
+    {
+      "title": "kendisi bir bulgar göçmeni",
+      "entry_id": "114686585",
+      "author": "arayan nickte bulur",
+      "date": "24.10.2020 08:29",
+      "content": "aslında çok da yanlış olmayabilecek bir tanımlama. birçok yaşlı bulgaristan göçmeni akrabam var. eskileri anlatırken, ben bulgar'dayken gibi anlatıyorlar.",
+      "has_external_url": false
+    },
+    {
+      "title": "kendisi bir bulgar göçmeni",
+      "entry_id": "114686610",
+      "author": "limoneksisi",
+      "date": "24.10.2020 08:31 ~ 08:33",
+      "content": "moskviç ve ciguli lerle 89 yılında türkiyeye gelmiş şimdilerde ab ye girme avantajını kullanarak audi bmv ve mercedes e binen soydaş topluluk",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:00:24.772239",
+    "total_entries": 3,
+    "input": "akp'nin sığınmacıları türklerden üstün tutması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "akp'nin sığınmacıları türklerden üstün tutması",
+      "entry_id": "165526509",
+      "author": "faytonfayt",
+      "date": "20.06.2024 14:57",
+      "content": "artık gazeteciler tarafından örneklerle dile getirilmesi lazım. akp, sığınmacıları her alanda türklerin üzerinde tutuyor.\n\nneredeyse türklerin evini fiziken alıp sığınmacılara verecekler .",
+      "has_external_url": true
+    },
+    {
+      "title": "akp'nin sığınmacıları türklerden üstün tutması",
+      "entry_id": "165526614",
+      "author": "heykellere ufleyen adam",
+      "date": "20.06.2024 14:59 ~ 15:05",
+      "content": "türk düşmanı atatürkçü arnavutları türklerden üstün tutan chp’li iftirasıdır.\n\n(bkz: diamond tema'nın türklerle alakalı iddiaları)",
+      "has_external_url": false
+    },
+    {
+      "title": "akp'nin sığınmacıları türklerden üstün tutması",
+      "entry_id": "165526626",
+      "author": "greenwolf",
+      "date": "20.06.2024 15:00 ~ 15:01",
+      "content": "bütün bir türkiye büyük millet meclisi üyeleri tarafından uygulanan tavır. sadece akp mi lan? siz iş chp'yi, dem'i, merkez sağı falan konuşmaya gelince niye ılıklaşıyorsunuz sayın suserler? ümit özdağ'dan başka bu konuda yırtınan parlamenter var mıydı? o da zaten bu dönem vekil değil.\n\nbunların hepsi birleşik devletlerin gözbebeği, en sadık iti!",
+      "has_external_url": false
+    }
+  ]
+}

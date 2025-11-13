@@ -1,0 +1,52 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:53:21.189377",
+    "total_entries": 3,
+    "input": "02.03.2020 mültecilerle beraber sınırı geçmek",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "02.03.2020 mültecilerle beraber sınırı geçmek",
+      "entry_id": "102912862",
+      "author": "forkect006",
+      "date": "02.03.2020 17:48",
+      "content": "(bkz: 02.03.2020 mültecilerle beraber sınırı geçmek) fikri çık aklımdan.\n\nson zamanlarda yaşanılan sıkıntılardan dolayı avrupa'ya açılan kapılarımız dan geçişlerin engellenmeyeceğini haberini okuduktan sonra derin düşüncelere daldım.\n\naslında mağramda rahatım yerinde ama ne bileyim farklı mağaralar arayışı benim de hoşuma gidiyor diye bir araştırmaya girdim.\n(#102319590)\n\nöncelikle mülteci olduğumuza inanmamız ve inandırmamız gerekiyor. (bkz: köprüden geçene kadar ayıya dayı demek)\n\nhangi grubun içinde yer alacağımız belli (bkz: ene suriii) hem afganlara göre daha kalabalık olmaları aralarına karışmamızı kolaylaştırır\n\nben bu tip sakalla zaten pakistan, suri falan filan hepsine rahat rahat karışabilirim.\n\nmültecilerin arasına karışmadan önce birkaç arapça kelime öğrenirsek hiç fark edilmeyiz bile.\n\nülke içinde ulaşımda türkçe konuşarak kazıklanmadan edirneye kadar varabiliriz.\n\nsınırdan kolay geçmek için edirne'nin birkaç köyünü belirledim\n\n(bkz: elçili)\n\n(bkz: doyran)\n\n(bkz: serem)\n\nburadaki yerlerden meriç nehrinin karşısında güvenliğin az olması nedeniyle kolayca geçebiliriz.\n\ngeçtikten sonra ilk işimiz gruptan ayrılmak olacak. o grubun içindeyken çok çabuk paketleniriz. en yakın yerleşim yerine ulaşınca bir berberde saçı sakalı toplayıp biraz insana döneriz.\n\noradan isteyen diğer ülkeler için yoluna devam eder. dileyen de benimle beraber yeni mağaralar keşfetmeye gelir.",
+      "referenced_content": [
+        {
+          "type": "entry",
+          "title": "saka-maka-turkiyede-alim-gucunun-bayagi-dusmesi",
+          "entry_id": "102319590",
+          "author": "forkect006",
+          "date": "19.02.2020 12:43",
+          "content": "hiç alakası yok efendim. bazı yazarlar gramı düşürerek gizli zam yapıldığından filan bahsetmiş.\n\nben size kendi hayatımdan örnekler vererek alım gücünde düşüş olmadığını göstereyim.\n\nöncelikle sabah 7 de kalkıyorum akşamları mağaram soğuk olduğundan her tarafım tutulmuş oluyor esneme, beli kütletme derken sağ sola dönerek bir güzel uyanıyorum.\n\nilk işim karnımı doyurmak olduğu için bir önceki günden kurduğum tuzaklara doğru yol alıyorum. şansıma tuzağıma sıçan filan takılmışsa o günü kârlı görüyorum.\n\ntekrar mağaraya dönüp çakmak taşlarıyla ateşimi yakmakla uğraşıyorum zaten ateşi yak, yemeği pişir derken saat oluyor 12. hem kahvaltıyı hemde öğle yemeğini bir arada yapmış oluyorum (bkz: nasıl fikir ama?)\n\nneyse efendim öğleden sonra toplayıcılık, tuzakları tekrar kurma derken günü kapatmış oluyorum.\n\nşimdi gördüğünüz gibi bir şey almadığım için alım gücüm ne düşüyor ne de yükseliyor. o yüzden herkese tavsiye edeceğim bir hayat yaşıyorum.\n\nbir de şu mağaraya elektrik çektim mi benden kralı olmayacak.",
+          "has_external_url": false
+        }
+      ],
+      "referenced_entry_ids": [
+        "102319590"
+      ],
+      "has_external_url": false
+    },
+    {
+      "title": "02.03.2020 mültecilerle beraber sınırı geçmek",
+      "entry_id": "102912933",
+      "author": "kazmasikel",
+      "date": "02.03.2020 17:50 ~ 17:51",
+      "content": "bir dene bakalım kardeş. güzelse yazarsın duruma göre bizde geliriz. demek geldi içimden.",
+      "referenced_content": [],
+      "has_external_url": false
+    },
+    {
+      "title": "02.03.2020 mültecilerle beraber sınırı geçmek",
+      "entry_id": "102913238",
+      "author": "folkheim",
+      "date": "02.03.2020 17:57",
+      "content": "(bkz: türkiye'den suri olup gitmek)",
+      "referenced_content": [],
+      "has_external_url": false
+    }
+  ]
+}

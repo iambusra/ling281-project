@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:25:35.374433",
+    "total_entries": 2,
+    "input": "sevgiliye para harcamak yerine rusa gitmek",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "sevgiliye para harcamak yerine rusa gitmek",
+      "entry_id": "18034660",
+      "author": "fotarkh",
+      "date": "01.02.2010 04:20",
+      "content": "(bkz: yavaş git saçın başın dağılmasın)",
+      "has_external_url": false
+    },
+    {
+      "title": "sevgiliye para harcamak yerine rusa gitmek",
+      "entry_id": "18034673",
+      "author": "viper cy",
+      "date": "01.02.2010 04:22",
+      "content": "rus'a atılan ilk postadan sonra \"aha gitti 100$ hassiktir\" duygusu etkin olur ancak sevgiliyle yaşanan \"o an\"dan sonra böyle bir duygu olmaz.",
+      "has_external_url": false
+    }
+  ]
+}

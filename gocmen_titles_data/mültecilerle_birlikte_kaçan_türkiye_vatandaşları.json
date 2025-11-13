@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:53:23.390582",
+    "total_entries": 2,
+    "input": "mültecilerle birlikte kaçan türkiye vatandaşları",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "mültecilerle birlikte kaçan türkiye vatandaşları",
+      "entry_id": "102864941",
+      "author": "mosyo meursault",
+      "date": "01.03.2020 19:37",
+      "content": "bence bu olayda da fetö parmağı var. bu sayede kaçıramadıkları elemanları kaçırıyor olabilirler.",
+      "has_external_url": false
+    },
+    {
+      "title": "mültecilerle birlikte kaçan türkiye vatandaşları",
+      "entry_id": "102865029",
+      "author": "teodorkasap2",
+      "date": "01.03.2020 19:39",
+      "content": "gideni tutmuyoruz salın gitsin..",
+      "has_external_url": false
+    }
+  ]
+}

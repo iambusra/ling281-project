@@ -1,0 +1,76 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:58:32.321997",
+    "total_entries": 8,
+    "input": "almanya'daki sığınmacılar yeni sığınmacıya karşı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "almanya'daki sığınmacılar yeni sığınmacıya karşı",
+      "entry_id": "59805933",
+      "author": "the chosen1",
+      "date": "08.04.2016 17:48",
+      "content": "haber atmasyon da olsa böyle düşündüklerini sanıyorum ben de.",
+      "has_external_url": false
+    },
+    {
+      "title": "almanya'daki sığınmacılar yeni sığınmacıya karşı",
+      "entry_id": "59806030",
+      "author": "antik sehir",
+      "date": "08.04.2016 17:53",
+      "content": "haber atmasyon ya da değil, arap ırkına yakışan bir düşünce bu. yıllardır götünü yaladığımız arap ırkı değil mi her fırsatta içimize mokarı salan?",
+      "has_external_url": false
+    },
+    {
+      "title": "almanya'daki sığınmacılar yeni sığınmacıya karşı",
+      "entry_id": "59806110",
+      "author": "syzer",
+      "date": "08.04.2016 17:57",
+      "content": "tipik orta doğu bencilliğini yansıtan durum. bizim gurbetçiler de türkiye'nin ab üyeliğine karşıdır ve türklere\"ben gittim;ama siz gelmeyin\" der.",
+      "has_external_url": false
+    },
+    {
+      "title": "almanya'daki sığınmacılar yeni sığınmacıya karşı",
+      "entry_id": "59806199",
+      "author": "sombrefloe",
+      "date": "08.04.2016 18:03",
+      "content": "500 anket katılımcısının üçte birinin görüşü sadece:\n\n\"araştırmada ortaya çıkan bir diğer ilginç ayrıntı da, sığınmacıların üçte birinin kendi durumunun kötüleşeceği düşüncesiyle yeni sığınmacı alınmasına karşı olması.\"",
+      "has_external_url": false
+    },
+    {
+      "title": "almanya'daki sığınmacılar yeni sığınmacıya karşı",
+      "entry_id": "59806236",
+      "author": "hasanikisalakosmandort",
+      "date": "08.04.2016 18:05",
+      "content": "(bkz: misafir misafirden rahatsız ev sahibi hepsinden)",
+      "has_external_url": false
+    },
+    {
+      "title": "almanya'daki sığınmacılar yeni sığınmacıya karşı",
+      "entry_id": "59806256",
+      "author": "beyteper canavari",
+      "date": "08.04.2016 18:07",
+      "content": "bir sözcü gazetesi basligiyla ahkam kesilmesi mevzusu yine.",
+      "has_external_url": false
+    },
+    {
+      "title": "almanya'daki sığınmacılar yeni sığınmacıya karşı",
+      "entry_id": "59806261",
+      "author": "besi",
+      "date": "08.04.2016 18:08 ~ 18:15",
+      "content": "atmasyon degil.\nbunlarin elinden gelse butun turkiyeyi vatandaslarindan temizlerler sonra da bu bizim ulkemiz derler.\n\nedit: baslik kiskirtici olmus, onun yerine buna ithafen: \"of the target group, 20 percent had been born in germany, 50 percent were german citizens and 33 percent syrian citizens. 11 percent had both passports.\" daha duzgun bir baslik bulunur umarim.\n\nedit2: sozcu gazetesi boyle saptirilmis ve yalan haberler yapmaya devam ederse diger pacavra gazetelerden bir farki kalmayacaktir.",
+      "has_external_url": true
+    },
+    {
+      "title": "almanya'daki sığınmacılar yeni sığınmacıya karşı",
+      "entry_id": "59806387",
+      "author": "caylakcocuk",
+      "date": "08.04.2016 18:16 ~ 21.10.2017 21:24",
+      "content": "nasıl bir bencillik ya hem oraya gideceksin hem de senin gibi aynı yolla gelmek isteyen insanları istemeyeceksin. ben bunları anlamış değilim adamlar oraları şimdiden kendi toprağı bellemiş bile.",
+      "has_external_url": false
+    }
+  ]
+}

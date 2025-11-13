@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:04:51.581202",
+    "total_entries": 1,
+    "input": "sığınmacıların gitmesini istemeyen güruh",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "sığınmacıların gitmesini istemeyen güruh",
+      "entry_id": "149039805",
+      "author": "canturkoglu",
+      "date": "11.02.2023 00:30",
+      "content": "(bkz: akp trolleri)\n\n(bkz: pkk seviciler)",
+      "has_external_url": false
+    }
+  ]
+}

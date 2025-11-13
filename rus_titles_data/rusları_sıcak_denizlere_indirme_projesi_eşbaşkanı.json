@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:28:33.450340",
+    "total_entries": 1,
+    "input": "rusları sıcak denizlere indirme projesi eşbaşkanı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rusları sıcak denizlere indirme projesi eşbaşkanı",
+      "entry_id": "65198522",
+      "author": "le fougueux",
+      "date": "31.12.2016 15:46",
+      "content": "son büyük ortadoğu projesi eşbaşkanı nın 2017'den itibaren devralacağı yeni görevi.",
+      "has_external_url": false
+    }
+  ]
+}

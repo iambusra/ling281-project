@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:10:59.562030",
+    "total_entries": 3,
+    "input": "2 mart 2013 rusya'nın ukrayna'ya ultimatom vermesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "2 mart 2013 rusya'nın ukrayna'ya ultimatom vermesi",
+      "entry_id": "40833748",
+      "author": "yyesim19",
+      "date": "02.03.2014 23:12",
+      "content": "uzerinden 1 yil gecmis ultimatomdur.",
+      "has_external_url": false
+    },
+    {
+      "title": "2 mart 2013 rusya'nın ukrayna'ya ultimatom vermesi",
+      "entry_id": "40833761",
+      "author": "space shuttle commander",
+      "date": "02.03.2014 23:13",
+      "content": "(bkz: rusya isgal edince ultimatom abd yapinca aw) (bkz: hagi 100 tane vurdu bişey yok biz 1 kere vurduk aw)",
+      "has_external_url": false
+    },
+    {
+      "title": "2 mart 2013 rusya'nın ukrayna'ya ultimatom vermesi",
+      "entry_id": "40833903",
+      "author": "kafamcokkarisikya",
+      "date": "02.03.2014 23:18",
+      "content": "yil olmus 2014 hala 2013. (bkz: 2 mart 2014 rusya'nın ukrayna'ya ultimatom vermesi)",
+      "has_external_url": false
+    }
+  ]
+}

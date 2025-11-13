@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:28:15.154387",
+    "total_entries": 1,
+    "input": "oyunlarda rusları kickliyoruz",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "oyunlarda rusları kickliyoruz",
+      "entry_id": "134305922",
+      "author": "ikrarr",
+      "date": "28.02.2022 00:33",
+      "content": "ruslar size ne yaptı?",
+      "has_external_url": false
+    }
+  ]
+}

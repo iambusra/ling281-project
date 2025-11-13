@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:05:39.262479",
+    "total_entries": 1,
+    "input": "sığınmacıların eşeysel ihtiyaçları sorunsalı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "sığınmacıların eşeysel ihtiyaçları sorunsalı",
+      "entry_id": "126993576",
+      "author": "alinbruh0",
+      "date": "16.08.2021 22:14",
+      "content": "gelirken bize mi sordular amk",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:00:34.025749",
+    "total_entries": 1,
+    "input": "a. karamahmutoğlu'nun sığınmacıları gönderme planı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "a. karamahmutoğlu'nun sığınmacıları gönderme planı",
+      "entry_id": "162094699",
+      "author": "az laf hic is",
+      "date": "03.03.2024 01:47",
+      "content": "zafer partisi ibb başkan adayı azmi karamahmutoğlu'nun sığınmacıları istanbul'dan gönderme konusundaki planını içeren video: https://twitter.com/…tatus/1764015924481311212?s=19\n\nyukarıdaki linkten izleyebilirsiniz. video aslında istanbul için çekilmiş ama zafer partisi'nin kazandığı herhangi bir belediyede sığınmacıların nasıl gönderileceğinin de özeti aynı zamanda.\n\nayrıca konudan bağımsız olarak eklemek isterim ki halkımızın bir kısmı chp korkusu sebebiyle akp'yi, diğer kısmı akp korkusuyla chp'yi destekliyor. bunun neticesinde de ülkede 22 yıldır hiçbir şey değişmiyor ve hep akp iktidar oluyor, chp hep ana muhalefet oluyor. bakalım bu döngü kırılacak mı, kırılacaksa ne zaman kırılacak bilmiyoruz ama toplum daha iyisi olsun diye değil de korkuları sebebiyle oy verdikçe hiçbir şey değişmeyecek gibi duruyor.",
+      "has_external_url": true
+    }
+  ]
+}

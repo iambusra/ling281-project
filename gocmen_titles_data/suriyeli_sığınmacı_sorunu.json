@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:55:45.672778",
+    "total_entries": 3,
+    "input": "suriyeli sığınmacı sorunu",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeli sığınmacı sorunu",
+      "entry_id": "90968600",
+      "author": "memduh basgan",
+      "date": "07.06.2019 00:20",
+      "content": "artık böyle bir sorunun olduğunu kabullenip, çözümü için kafa patlatmaya başlamalıyız.\n\nekşi sözlük olarak bu sorunu gündeme getirip, gündemde tutup yetkililerden bir çözüm talep etmeliyiz. diretmeliyiz.\n\nşu an ülkemizin önündeki en temel en büyük problem suriyelilerdir. bu insanlar böyle yaşadığı sürece bizi hiç bir avrupa ülkesi turist olarak bile adam yerine koymaz. avrupalıları geçtim ekonomimiz bu şekilde sürdürülemez, biz bu araplarla yaşayamayız bu kadar iç içe, tarihte görülmemiştir.\n\nbu insanlar bir an önce ya bi bölgede tutulmalı ya da ülkelerine geri gönderilmelidir.",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyeli sığınmacı sorunu",
+      "entry_id": "91686795",
+      "author": "dogrulukpayi",
+      "date": "25.06.2019 10:31 ~ 10:32",
+      "content": "suriyeli sığınmacıların hukuki statüsü, nerede kaldıkları, demografik özellikleri, illere göre dağılımları, çalışma izni ve t.c. vatandaşlığı verilen suriyeliler gibi konuların detaylı anlatımı şu linkte .",
+      "has_external_url": true
+    },
+    {
+      "title": "suriyeli sığınmacı sorunu",
+      "entry_id": "170912408",
+      "author": "gordonmilne",
+      "date": "10.12.2024 20:52",
+      "content": "sorun bitmiş gibi haber pompalanıyor.\n\nöyle bir şey yok.\n\nkorkum o ki suriye'ye dönenler oradaki varlıklarını satıp buraya tamamen yerleşmeleri.\n\niş bu yüzden çok yükselmesem de oyumu zafer partsine vereceğim.",
+      "has_external_url": false
+    }
+  ]
+}

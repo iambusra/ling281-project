@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:28:33.359247",
+    "total_entries": 3,
+    "input": "antalya'da rusları görünce hemen rejime başlamak",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "antalya'da rusları görünce hemen rejime başlamak",
+      "entry_id": "67718232",
+      "author": "dr shephard ameliyathaneye",
+      "date": "25.04.2017 19:48",
+      "content": "her sene bu vakitlerde yaptigim sey.",
+      "has_external_url": false
+    },
+    {
+      "title": "antalya'da rusları görünce hemen rejime başlamak",
+      "entry_id": "67720215",
+      "author": "thundercunt",
+      "date": "25.04.2017 21:22 ~ 21:56",
+      "content": "demek ki bunu yapanlar hurma ve liman mahalleri civarinda yasasa, yilin her gunu rejimde olacaklar.\n\n(bkz:hurma mahallesinde turklerden fazla olan rus populasyonu)",
+      "has_external_url": false
+    },
+    {
+      "title": "antalya'da rusları görünce hemen rejime başlamak",
+      "entry_id": "67730036",
+      "author": "aakrc",
+      "date": "26.04.2017 09:16",
+      "content": "insanın gerçekten zayıflayası geliyor.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:59:03.004287",
+    "total_entries": 1,
+    "input": "suriyelilere kendi dillerinde eğitim hakkı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelilere kendi dillerinde eğitim hakkı",
+      "entry_id": "148273842",
+      "author": "seizedbycrowd",
+      "date": "28.01.2023 19:17",
+      "content": "pek tercih edilmeyecek hak. %1 bile tercih edilmez.\narapca egitim gorup nerede calisacaklar mesela? turkiyede calisamazlar. yurtdisina gideceklerse de buna neden karsi cikilsin?\nkisacasi cok da onemli olmayan bir durum.",
+      "has_external_url": false
+    }
+  ]
+}

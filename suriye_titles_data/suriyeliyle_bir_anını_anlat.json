@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:07:57.483855",
+    "total_entries": 3,
+    "input": "suriyeliyle bir anını anlat",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeliyle bir anını anlat",
+      "entry_id": "93152568",
+      "author": "yuzde doksan dokuz",
+      "date": "27.07.2019 19:24",
+      "content": "eski çalıştığım şirkette 2 suriyeli vardı, biri arap, diğeri çerkez, yılbaşı ya da benzeri içkili kutlamalarda bizim tarikatçı türk çalışanlar hır çıkartırken bu ikisi içmeseler bile sosyal ortam adına bize eşlik ederlerdi, al sana suriyeli.",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyeliyle bir anını anlat",
+      "entry_id": "93152886",
+      "author": "dahotyo",
+      "date": "27.07.2019 19:32",
+      "content": "suriyeli arkadaşa, araplar pilavı niye elle yiyorlar diye sorulur. kanka şimdi sen elinin pis olup olmadığını biliyorsun ama ya kaşık çatal pisse nasıl anlayacaksın? cevabı alınır.",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyeliyle bir anını anlat",
+      "entry_id": "93155249",
+      "author": "buyuyup buyuk adam olacaktim",
+      "date": "27.07.2019 20:38 ~ 28.07.2019 20:08",
+      "content": "metrobüste ön tarafta hani şu tek kişilikten geniş çift kişilikten dar olan koltukta otururken baktım bir kadın ayakta, yer vereyim dedim. meğerse önümde oturan kızın annesiymiş, kız bunu görünce kalktı yerini bana verdi annesinin yanına sıkıştırdı kendini. herhalde annesi ısrar etmişti sen otur diye ve kız da zaten mahçuptu.\n\nbaya bi sarhoştum, teşekkür ettim ve kız da gülümseyerek kafa hareketi yaptı “rica ederim” anlamında.\n\nsonra suriyeli olduklarını fark ettim.",
+      "has_external_url": false
+    }
+  ]
+}

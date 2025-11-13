@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:48:13.643370",
+    "total_entries": 2,
+    "input": "romanya mültecileri",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "romanya mültecileri",
+      "entry_id": "1016478",
+      "author": "mortifera",
+      "date": "13.02.2002 23:01",
+      "content": "vakt-i zamanında (özellikle 70lerde) romanya'ya çalışmak için gidip romen vatandaşı olan güruh .",
+      "has_external_url": false
+    },
+    {
+      "title": "romanya mültecileri",
+      "entry_id": "171873231",
+      "author": "utanan ayi",
+      "date": "14.01.2025 05:19",
+      "content": "varlıklarından ilk kez haberdar olduğum grup. türkiye'den 1970'lerde hele de romanya gibi bir yere göç olma ihtimali çok yüksek değil, ama olmuştur muhakkak.",
+      "has_external_url": false
+    }
+  ]
+}

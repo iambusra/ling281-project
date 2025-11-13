@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:52:24.771580",
+    "total_entries": 1,
+    "input": "suriyeli mültecilerden ordu kurmak",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeli mültecilerden ordu kurmak",
+      "entry_id": "49088218",
+      "author": "yazsamromanolur",
+      "date": "11.02.2015 01:01",
+      "content": "asla yenilmeyecek ordudur. çünkü savaş arenasına çıkmadan kaçacaklar.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:10:19.689254",
+    "total_entries": 1,
+    "input": "kaçak göçmeni bırak cambaza bak",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "kaçak göçmeni bırak cambaza bak",
+      "entry_id": "126451842",
+      "author": "raskovzlatev",
+      "date": "02.08.2021 23:40",
+      "content": "son günlerde başımıza gelenlerin tek cümlelik açıklaması",
+      "has_external_url": false
+    }
+  ]
+}

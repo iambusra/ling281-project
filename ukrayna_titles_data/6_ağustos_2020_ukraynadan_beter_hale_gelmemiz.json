@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:14:47.792335",
+    "total_entries": 2,
+    "input": "6 ağustos 2020 ukraynadan beter hale gelmemiz",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "6 ağustos 2020 ukraynadan beter hale gelmemiz",
+      "entry_id": "111187372",
+      "author": "xlinux",
+      "date": "06.08.2020 12:40",
+      "content": "her an ukraynali turistler burada et yemeye gelebilir. tesekkurler akp.",
+      "has_external_url": false
+    },
+    {
+      "title": "6 ağustos 2020 ukraynadan beter hale gelmemiz",
+      "entry_id": "111188486",
+      "author": "taksi kime",
+      "date": "06.08.2020 13:02 ~ 13:03",
+      "content": "ukraynalı erkekler türkiye'ye çapkınlığa gelmeyeceği için asla gerçekleşmeyecek durum.",
+      "has_external_url": false
+    }
+  ]
+}

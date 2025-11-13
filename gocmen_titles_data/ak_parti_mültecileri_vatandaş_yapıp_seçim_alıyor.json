@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:48:49.121127",
+    "total_entries": 3,
+    "input": "ak parti mültecileri vatandaş yapıp seçim alıyor",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ak parti mültecileri vatandaş yapıp seçim alıyor",
+      "entry_id": "163039073",
+      "author": "portekizli forvet",
+      "date": "01.04.2024 14:19",
+      "content": "yorumlarda arayıp göremediğim cümle. ne oldu, bu konuda da mı r yaptınız oktroll'ler?",
+      "has_external_url": false
+    },
+    {
+      "title": "ak parti mültecileri vatandaş yapıp seçim alıyor",
+      "entry_id": "163039136",
+      "author": "kahverenk",
+      "date": "01.04.2024 14:21",
+      "content": "sığınmacılar kaçaklar oy vermeseydi akp %30 u bile geçemezdi.",
+      "has_external_url": false
+    },
+    {
+      "title": "ak parti mültecileri vatandaş yapıp seçim alıyor",
+      "entry_id": "163039310",
+      "author": "sembusek",
+      "date": "01.04.2024 14:27",
+      "content": "kilis'i baz alabilirsin yazar kardeş kilis'te akp'ye sadece suriyeliler oy vermiş (akp yüzde 23 chp yüzde 46)",
+      "has_external_url": false
+    }
+  ]
+}

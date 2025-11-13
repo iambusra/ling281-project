@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:29:45.480565",
+    "total_entries": 1,
+    "input": "finlandiya'nın ruslara nükleer santral yaptırması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "finlandiya'nın ruslara nükleer santral yaptırması",
+      "entry_id": "92479384",
+      "author": "0 5 ucu olan adam",
+      "date": "11.07.2019 21:47 ~ 12.07.2019 10:44",
+      "content": "cahil finlandiya'nın cahilce kararı.\nmal bu finlandiyalılar, cahilliklerinden gdp'leri de gelişmemiş.\n\nhttps://www.reuters.com/…ions-rosatom-idusl8n1qy4b0\n\n5. nükleer santrali rosatom'a yaptırıyorlar.\nhalihazırda nükleer'den elektrik üretimi %30, bunu %60'a taşımak istiyorlar .\n\nnükleere karşıyız pis finlandiya.",
+      "has_external_url": true
+    }
+  ]
+}

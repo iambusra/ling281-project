@@ -1,0 +1,60 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:15:12.337308",
+    "total_entries": 6,
+    "input": "ukrayna'dan gelen cevapsız çağrı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukrayna'dan gelen cevapsız çağrı",
+      "entry_id": "15461726",
+      "author": "123",
+      "date": "16.02.2009 16:03",
+      "content": "(bkz: bulgaristan dan gelen cevapsız çağrı)\n(bkz: romanya dan gelen cevapsız çağrı)\n(bkz: daha gider bu)\n(bkz: başlık parsellemek)\n(bkz: çok hızlı para kazanma yolları)",
+      "has_external_url": false
+    },
+    {
+      "title": "ukrayna'dan gelen cevapsız çağrı",
+      "entry_id": "15463963",
+      "author": "yaycep",
+      "date": "16.02.2009 19:46",
+      "content": "(bkz: hello is it me you looking for)",
+      "has_external_url": false
+    },
+    {
+      "title": "ukrayna'dan gelen cevapsız çağrı",
+      "entry_id": "26109015",
+      "author": "jamesjersey",
+      "date": "11.11.2011 15:37",
+      "content": "bayram tatilinde ısrarla çaldırıp kapatan bir numara vardı. ben bulgaristan veya romanya'dan sanıp umursamamıştım. az önce kontrol ettim 0380 ile başlıyor numara. yani ukrayna. rusya olsa anlayacam ama ukrayna nedir kardeşim. ben türkiye içinde telefonla ilişki yürütebilen birisi değilim. bir de beynelmilel olanına hiç bulaşamam.",
+      "has_external_url": false
+    },
+    {
+      "title": "ukrayna'dan gelen cevapsız çağrı",
+      "entry_id": "26110804",
+      "author": "soselo",
+      "date": "11.11.2011 17:45 ~ 17:46",
+      "content": "(bkz: seyahat ya resulallah)",
+      "has_external_url": false
+    },
+    {
+      "title": "ukrayna'dan gelen cevapsız çağrı",
+      "entry_id": "26110828",
+      "author": "mythology 12",
+      "date": "11.11.2011 17:47",
+      "content": "insanı günahkar yapacak çağrılar silsilesidir.",
+      "has_external_url": false
+    },
+    {
+      "title": "ukrayna'dan gelen cevapsız çağrı",
+      "entry_id": "68506044",
+      "author": "jotaro",
+      "date": "30.05.2017 19:00",
+      "content": "(bkz: ukraynalı kızların dolandırıcılık metodu)",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:50:43.643670",
+    "total_entries": 4,
+    "input": "mültecilere laf edip yurtdışına kaçmak",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "mültecilere laf edip yurtdışına kaçmak",
+      "entry_id": "161791647",
+      "author": "galahad reloaded",
+      "date": "22.02.2024 15:33",
+      "content": "tabi göçen türk olunca bizi bağırlarına basıp;' işte bir yüce isa, bir de sen sevgili türk, bizi ancak siz kurtarırsınız' diyerek gözyaşları dökeceklerini sanıyoruz.\n\nyok abi, alman' da ipini koparan geliyor amk diyor.",
+      "has_external_url": false
+    },
+    {
+      "title": "mültecilere laf edip yurtdışına kaçmak",
+      "entry_id": "161792092",
+      "author": "xdoctorexx",
+      "date": "22.02.2024 15:53",
+      "content": "sebep sonuç ilişkisidir, sebebi ortadan kaldırırsan uzun vadede sonuç da buna paralel olarak kalkar.",
+      "has_external_url": false
+    },
+    {
+      "title": "mültecilere laf edip yurtdışına kaçmak",
+      "entry_id": "161792340",
+      "author": "surround",
+      "date": "22.02.2024 16:04",
+      "content": "göz atın zihniniz açılır.\n\ngöç terimleri sözlüğü\n\nnot: kalifiye bir işçi değilseniz, sağlam yabancı diliniz yoksa yurtdışı için çok heveslenmeyin. markette raf dizme işini herkes yapıyor. üzülürsünüz.",
+      "has_external_url": true
+    },
+    {
+      "title": "mültecilere laf edip yurtdışına kaçmak",
+      "entry_id": "161792499",
+      "author": "cokonemlidegilzaten",
+      "date": "22.02.2024 16:12 ~ 16:21",
+      "content": "mülteci değil sığınmacı.\n\nyurtdışına gitsek de, gitmesek de milyonlarca sığınmacı ve kaçağın vatanımız türkiye cumhuriyeti'ne kontrolsüz bir şekilde girmesine tabii ki karşı olacağız. biz bu vatanı sokakta bulmadık.",
+      "has_external_url": false
+    }
+  ]
+}

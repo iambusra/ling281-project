@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:04:33.488738",
+    "total_entries": 4,
+    "input": "sığınmacıların nüfusun yüzde 20'sini geçmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "sığınmacıların nüfusun yüzde 20'sini geçmesi",
+      "entry_id": "154619110",
+      "author": "hania",
+      "date": "16.07.2023 18:16 ~ 18:19",
+      "content": "60 ilde gerçekleşen olaydır.\n\nhttps://twitter.com/…?t=4pqr40toujujbiolpm3woq&s=09\n\ngöç idaresine göre sığınması sayısı 17 milyon kişidir.\n\nedit: 17 milyon sayısı resmi sayı. kaçaklar.ne.kadar.bilmiyorjz.",
+      "has_external_url": true
+    },
+    {
+      "title": "sığınmacıların nüfusun yüzde 20'sini geçmesi",
+      "entry_id": "154619939",
+      "author": "bezginpanda",
+      "date": "16.07.2023 18:43",
+      "content": "üstelik bu oran vatandaşlık verilenler hariç tutulmuş hali. ölmüşüz biz, haberimiz yok.",
+      "has_external_url": false
+    },
+    {
+      "title": "sığınmacıların nüfusun yüzde 20'sini geçmesi",
+      "entry_id": "154620285",
+      "author": "hgzr",
+      "date": "16.07.2023 18:54",
+      "content": "ülkenin parça parça satılmasının hızlandırıldığını gösteren olay.",
+      "has_external_url": false
+    },
+    {
+      "title": "sığınmacıların nüfusun yüzde 20'sini geçmesi",
+      "entry_id": "154726836",
+      "author": "qutrit",
+      "date": "19.07.2023 18:18",
+      "content": "bu başlık nasıl gündem olmaz?\n\nçok büyük tehlike.",
+      "has_external_url": false
+    }
+  ]
+}

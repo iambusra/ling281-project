@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:47:23.355102",
+    "total_entries": 3,
+    "input": "türkiye'deki mülteciler gazze'ye gitsin",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türkiye'deki mülteciler gazze'ye gitsin",
+      "entry_id": "157535937",
+      "author": "izmiri si izmiristi mai",
+      "date": "08.10.2023 13:22",
+      "content": "nargilelerini kahvelerini içtiler, şimdi sıra gazze'ye gidip israil'e karşı savaşmakta.",
+      "has_external_url": false
+    },
+    {
+      "title": "türkiye'deki mülteciler gazze'ye gitsin",
+      "entry_id": "157536066",
+      "author": "nissanalmera",
+      "date": "08.10.2023 13:27 ~ 13:28",
+      "content": "şu an izmir urladan bildiriyorum gtlerini yaymış hepsi nargileleri ile deniz kenarında arapça tiktok izliyor.değil gazzeye gitmek kalkın lan burdan desen ağızlarının salyalarını akitacak durumdalar.",
+      "has_external_url": false
+    },
+    {
+      "title": "türkiye'deki mülteciler gazze'ye gitsin",
+      "entry_id": "157536104",
+      "author": "tuscany2",
+      "date": "08.10.2023 13:28",
+      "content": "kendi ülkelerini ayaklarını götlerine vura vura kaçan mülteciler için büyük fırsat yersen!",
+      "has_external_url": false
+    }
+  ]
+}

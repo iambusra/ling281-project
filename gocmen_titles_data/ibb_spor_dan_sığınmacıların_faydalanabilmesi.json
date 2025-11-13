@@ -1,0 +1,34 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:04:08.844287",
+    "total_entries": 1,
+    "input": "ibb spor'dan sığınmacıların faydalanabilmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ibb spor'dan sığınmacıların faydalanabilmesi",
+      "entry_id": "166740886",
+      "author": "turan saydam",
+      "date": "28.07.2024 16:01 ~ 16:05",
+      "content": "başlığın tam hali:\n\nistanbul büyükşehir belediyesi'nin spor tesislerinden (spor istanbul) geçici statüde bulunan mülteciler, sığınmacılar ın veya ülkemize turizm amacıyla gelmiş yabancı uyruklu kişilerin yararlanabilmesi.\n\nwebsitesini ve ilgili ekran görüntüsünü aşağıda paylaşıyorum:\n\ngörsel\n\nkullanım prensipleri 13. madde .\n\nibb'ye ait olmayan bir istanbul belediyesinin tesisinde (gaziosmanpaşa belediyesi) yüzme havuzuna gidiyorum. geçen gün grup halinde havuza gelen suriyelilere rast geldim (büyük ihtimal suri). havuza atlamak yasak olmasına rağmen, huzuru kaçıracak bir şekilde tüm saat havuza atlayıp durdular. gel gör ki, tesisten sorumlu görevliler bir kez olsun uyarmadılar.\n\nülkenin her türlü imkanından sonuna kadar yararlanıyor bu mülteciler. diğer yandan, mamafih ülke vatandaşı ekmek derdinde, aç karnını doyurmaya, ay sonunu nasıl getiririmin hesabını yapmaya çalışıyor... sahiller bunların, cafeler bunların, vergisiz işletilen dükkanlar bunların, kaçakçılık bunlarda, gettolaşma bunlarda, kızlara laf atmak, videoya çekmek taciz etmek bu mültecilerde, üniversiteler yabancılarla dolup taşmış bir halde, birkaç ilimiz, ilçemiz (antep, hatay, kilis vb., istanbul'un ilçeleri) suriyeler tarafından işgal edilmiş halde. ülke içler acısı bir halde.\n\nsen gel bir de bunlara türkiye cumhuriyeti vatandaşları hakkı ne ise aynısı değil, bir hatta iki, üç beş katını, fazlasını ver. ülkenin tüm imkanlarını bu tırkan içinde \"gariban\" mültecilere peşkeş çek.\n\nyazıklar olsun. ama asıl bize yazıklar olsun, sesimiz çıkmaz oldu.\n\nbaşka bir örnek olması açısından spor istanbul başlığına girilmiş şu entry'e de bakınız veriyorum: (bkz: #158241475)",
+      "referenced_content": [
+        {
+          "type": "entry",
+          "title": "spor-istanbul",
+          "entry_id": "158241475",
+          "author": "uyuyanpisipisi",
+          "date": "29.10.2023 17:57 ~ 30.10.2023 16:15",
+          "content": "gittiğim tesiste aşırı derecede fazla suriyeli var. bankoda duran çalışanla muhabbet ettiğim esnada sorduğumda gelenlerin yarısı suriyeli dedi.\n\nyakında bu oran %70 suriyeli, %20 diğer ülkeler, %10 türk olur.\n\nher alanda geçici sığınmacılar ve kaçakları besledikleri yetmiyormuş gibi belediye vasıtasıyla fitness, yüzme vs. alanlarında da türk'ün geleceğini bunlara aktarıyorlar.",
+          "has_external_url": false
+        }
+      ],
+      "referenced_entry_ids": [
+        "158241475"
+      ],
+      "has_external_url": true
+    }
+  ]
+}

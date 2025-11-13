@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T15:29:43.201576",
+    "total_entries": 1,
+    "input": "25 nisan 2022 fatih altaylı suriyeliler açıklaması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "25 nisan 2022 fatih altaylı suriyeliler açıklaması",
+      "entry_id": "136679140",
+      "author": "ilk agizdan son kerteye",
+      "date": "26.04.2022 11:24",
+      "content": "hükümet yetkililerinin suriyelileri göndermeyerek türkiye'nin arap toplumuna dönüştürülmek istendiğini anlayabilmiş kendisi.\ngeç kalınmış bir tespit olup, bu niyeti anlamak için onlarca rezilliği zamanında es geçeceğine daha uyanık olması gerektiğini hatırlatalım buradan.",
+      "has_external_url": false
+    }
+  ]
+}

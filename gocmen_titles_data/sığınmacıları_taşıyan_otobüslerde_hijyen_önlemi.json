@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:02:05.327668",
+    "total_entries": 1,
+    "input": "sığınmacıları taşıyan otobüslerde hijyen önlemi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "sığınmacıları taşıyan otobüslerde hijyen önlemi",
+      "entry_id": "63703140",
+      "author": "matilda effect",
+      "date": "26.10.2016 07:27",
+      "content": "(bkz: fransa'nın mülteci kampını kapatması)\n\ncalais kampı boşaltılmasında otobüslerin koltukları plastik poşetle kaplanmış.\nbüyük yankı uyandırmışicalais kampı en kötü yaşam şartlarına sahip olan kamplardan biri olarak avrupa'da biliniyor.\n\ninsan mı değerli yoksa koltuk mu\nya da\notobüs koltuklarının daha sonrasında hijyenik olarak başkalarının hizmetine sunulması açısından gerekli önlem mi\nikisi arasında kaldım.\n\nkaynaklar",
+      "has_external_url": true
+    }
+  ]
+}

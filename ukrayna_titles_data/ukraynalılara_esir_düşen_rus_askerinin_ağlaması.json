@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:23:32.888074",
+    "total_entries": 1,
+    "input": "ukraynalılara esir düşen rus askerinin ağlaması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukraynalılara esir düşen rus askerinin ağlaması",
+      "entry_id": "134448798",
+      "author": "sinyorlawyer",
+      "date": "03.03.2022 11:24",
+      "content": "savaşı zenginler planlar, fakirler bedel öder. sscb dağıldıktan sonra devlet mallarına çöküp milyarlarca dolarlık servet edinen rus ve ukraynalı oligarklar sıcak evlerinde savaşı tvden izlerken gariban rus ve ukraynalılar canlarıyla bedel ödüyor. fotoğrafta ukraynalılara esir düşmüş bir rus askeri. ukraynalı kadınlar aç kalmış, soğuktan titreyen askere çay ve kek ikram ediyor. kadınlardan birisi askere \"telefonumdan anneni arayabilirsin, hadi ona iyi olduğunu söyle, biraz rahatlasın\" deyince hıçkıra hıçkıra ağlamaya başlıyor.. görsel",
+      "has_external_url": true
+    }
+  ]
+}

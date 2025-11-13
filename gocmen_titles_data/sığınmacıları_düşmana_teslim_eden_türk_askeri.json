@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:02:02.976459",
+    "total_entries": 2,
+    "input": "sığınmacıları düşmana teslim eden türk askeri",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "sığınmacıları düşmana teslim eden türk askeri",
+      "entry_id": "77720932",
+      "author": "yosun amca",
+      "date": "04.06.2018 21:17 ~ 21:28",
+      "content": "emri uygulayan türk askeridir. öte yandan milliyetçi ve dini duyguların hezeyanıyla devlet yönetilmez. bu hezeyanla devleti yönetmeye kalkan ve dahi pısırık dimâğlarında yerini edinen ‘yurttâ sûlh, cihânda sûlh’ ilkesine bağlı olmayan ittihat ve terakki zihniyeti değil miydi osmanlı imparatorluğu'nun sonunu hazırlayan?\nayrıca (bkz: 22 aralık 2016 ışid'in 2 askerimizi şehit etmesi)\nbaşbakan keşke bu iki türk askerine de bu kadar ses çıkarsaydı.",
+      "has_external_url": false
+    },
+    {
+      "title": "sığınmacıları düşmana teslim eden türk askeri",
+      "entry_id": "77721060",
+      "author": "ahmetbayram5",
+      "date": "04.06.2018 21:21",
+      "content": "iyi yapmışlar.ne yani vermeyelim de besleyelim mi? sonra da ağzımıza sıçsınlar.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:44:20.530610",
+    "total_entries": 1,
+    "input": "suriyeli mültecinin tartıştığı patronunu öldürmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeli mültecinin tartıştığı patronunu öldürmesi",
+      "entry_id": "137406782",
+      "author": "gunaha girip boy veren adam",
+      "date": "13.05.2022 21:39 ~ 21:41",
+      "content": "ankara altındağ'da yabancı uyruklu bir şahıs, tartıştığı patronunu öldürdü. ihbar üzerine olay yerine gelen ekipler, geniş güvenlik önlemleri alırken, suriyeli olduğu belirlenen şahıs da kısa süre içerisinde yakalandı. olayın neden gerçekleştiği, şahsın sorgusundan sonra belli olacak.\n\nkaynak",
+      "has_external_url": true
+    }
+  ]
+}

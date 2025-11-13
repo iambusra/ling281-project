@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:10:04.993651",
+    "total_entries": 1,
+    "input": "hor kullanılmış bulgar göçmeni arabası olmaması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "hor kullanılmış bulgar göçmeni arabası olmaması",
+      "entry_id": "135341162",
+      "author": "wolkansss",
+      "date": "24.03.2022 13:11",
+      "content": "göçmenler türkiye'ye geldiklerinde valizleri ve 3-5 parça ev eşyalarından başka hiç bir şeyleri yoktu. büyük çoğunluğu çalışkanlıkları neticesinde girdikleri işlerde tutundu ve yavaş yavaş kendilerine yeni bir hayat kurdular. yokluk nedir bildikleri için de malları değerlidir, paralarını çarçur etmezler. arabalarının genelde temiz ve hor kullanılmamış olmasının sebebi budur.\n\nseveriz kendilerini..",
+      "has_external_url": false
+    }
+  ]
+}

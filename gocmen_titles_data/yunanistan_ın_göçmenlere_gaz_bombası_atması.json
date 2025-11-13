@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:22:14.733924",
+    "total_entries": 3,
+    "input": "yunanistan'ın göçmenlere gaz bombası atması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "yunanistan'ın göçmenlere gaz bombası atması",
+      "entry_id": "102767606",
+      "author": "atakan96",
+      "date": "28.02.2020 16:51",
+      "content": "turkiye gibi kapıları açmaz yemek vermez avrupalılar",
+      "has_external_url": false
+    },
+    {
+      "title": "yunanistan'ın göçmenlere gaz bombası atması",
+      "entry_id": "102767712",
+      "author": "alisyum",
+      "date": "28.02.2020 16:54",
+      "content": "nolacaktı. kapıda kolonya lokumla hoşgeldiniz mi diyeceklerdi. ayrıca arkadaşlar yörük değil çadırda yaşamıyor işi olan çocuklarını okula yazdıran ve yahut dilendiren kim yunanistana gider neden gitsin? gidenler afgan falandır ama asla suriyeli degildir.",
+      "has_external_url": false
+    },
+    {
+      "title": "yunanistan'ın göçmenlere gaz bombası atması",
+      "entry_id": "102767819",
+      "author": "senersongur",
+      "date": "28.02.2020 16:56",
+      "content": "bundan bize ne olması, çok da şeyimizdeydi dediğimiz durum.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:58:09.355519",
+    "total_entries": 1,
+    "input": "trt yapımı sığınmacı propagandası yapan film",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "trt yapımı sığınmacı propagandası yapan film",
+      "entry_id": "156480690",
+      "author": "faytonfayt",
+      "date": "06.09.2023 19:24",
+      "content": "iyice arşa çıktılar .\n\nbu da bir diğer marifetleri: (bkz: #152192790)\n\nbu da güya muhalifler: (bkz: adım farah dizisi'ndeki sığınmacı propagandası)\n\nhadi trt içindeki 2-3 fetöcüye yaptırıyor bu işleri, çok sıkışırsa, ya fetöcüler yine sızmış onlar yapmış, diye atar kamuoyunun önüne. ya diğeri?",
+      "referenced_content": [
+        {
+          "type": "entry",
+          "title": "koyu-beyaz",
+          "entry_id": "152192790",
+          "author": "faytonfayt",
+          "date": "10.05.2023 21:59 ~ 09.11.2024 15:07",
+          "content": "ağır türk düşmanlığı içeren, sığınmacı propagandası yapan trt yapımı dizi.\n\ndaha önce bu konuyla ilgili bir yazı yazmıştım:\n\n(bkz: beyaz türk düşmanlığının türk düşmanlığı olması)\n\ndevlet bahçeli izledi mi acaba, ne düşünüyor çok merak ediyorum.\n\nedit: senaristi de daha önce stv'nin operasyon dizilerinden şubat soğuğu'nu yazmış . ulan hiç mi şaşmaz, hiç mi yanıltmazlar. sorarlarsa akp, fetö ile mücadele ediyor dersiniz. ben bir şeyden kıllandığım zaman altından hep böyle şeyler çıkıyor.",
+          "has_external_url": true
+        }
+      ],
+      "referenced_entry_ids": [
+        "152192790"
+      ],
+      "has_external_url": true
+    }
+  ]
+}

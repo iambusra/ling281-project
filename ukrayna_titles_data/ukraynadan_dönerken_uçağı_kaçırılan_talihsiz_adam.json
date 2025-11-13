@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:14:49.845909",
+    "total_entries": 1,
+    "input": "ukraynadan dönerken uçağı kaçırılan talihsiz adam",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukraynadan dönerken uçağı kaçırılan talihsiz adam",
+      "entry_id": "40276717",
+      "author": "emrelidia",
+      "date": "08.02.2014 00:52",
+      "content": "yengeye, antalyaya iş toplantısına gidiyorum diyerek,soluğu ukraynada alan,2günlük zevk-i sefa sonucunda bindiği istanbul uçağının kaçırılması sonucu tüm tvlerde ismi ve görüntüsü ifşa edilen talihsiz adam.\n(bkz: boyun posun devrilsin heriif)",
+      "has_external_url": false
+    }
+  ]
+}

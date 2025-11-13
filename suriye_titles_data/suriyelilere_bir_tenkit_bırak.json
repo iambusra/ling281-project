@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:58:43.882485",
+    "total_entries": 2,
+    "input": "suriyelilere bir tenkit bırak",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelilere bir tenkit bırak",
+      "entry_id": "143747503",
+      "author": "engineerdolma",
+      "date": "10.10.2022 21:36",
+      "content": "ülkeniz için savaşmayan korkaklarsınız ve misafir olarak gittiğiniz ülkenin de huzurunu kaçırdınız.",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyelilere bir tenkit bırak",
+      "entry_id": "143747512",
+      "author": "hepinizden tiksiniyorum teletabiler",
+      "date": "10.10.2022 21:36",
+      "content": "ülkelerine dönmeleri fıstıktan sonra geliyor. başlığı açan arkadaşın hayattaki önceliklerini belirleme kriteri takdire şayan.",
+      "has_external_url": false
+    }
+  ]
+}

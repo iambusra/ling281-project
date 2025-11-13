@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:13:48.497289",
+    "total_entries": 2,
+    "input": "afgan göçmenle yapılan röportaj",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "afgan göçmenle yapılan röportaj",
+      "entry_id": "126993152",
+      "author": "mertp",
+      "date": "16.08.2021 22:06 ~ 25.08.2021 01:34",
+      "content": "röportajda turkiyenin sormak istedigi butun sorulari sormus muhabir. kendisini kutluyorum.\n\nroportaj\n\n--- spoiler ---\n\ntalibanin arkasinda pakistan var.\n\nhepimizin amaci aslinda avrupaya gitmek ama avrupa sinirlarini korumasini beceriyor.\n\nturkiye havaalanini koruyacagina kendi sinirlarini korusun elimizi kolumuzu sallaya sallaya gecip giriyoruz.\n\ngibi seyler…\n\n--- spoiler ---",
+      "has_external_url": true
+    },
+    {
+      "title": "afgan göçmenle yapılan röportaj",
+      "entry_id": "127300875",
+      "author": "mertp",
+      "date": "25.08.2021 01:32",
+      "content": "kendisi yakalanip sinir disi edilmis. hukumet turk kurt suriyeli ayirt etmeksizin kanun uyguluyor:)",
+      "has_external_url": false
+    }
+  ]
+}

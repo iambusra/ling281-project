@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:45:45.048162",
+    "total_entries": 3,
+    "input": "3 arap mültecinin isveçli kadına tecavüz etmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "3 arap mültecinin isveçli kadına tecavüz etmesi",
+      "entry_id": "65845665",
+      "author": "tantunisultansuleyman",
+      "date": "25.01.2017 17:33",
+      "content": "olay arapların mülteci olarak yerleştiği isveçte gerçekleşiyor. tecavüz eden araplar aynı zamanda bunu facebook'tan yayınlamışlar.\n\nhttp://www.independent.co.uk/…rrested-a7540176.html\n\nhttp://i.hizliresim.com/adraj4.png",
+      "has_external_url": true
+    },
+    {
+      "title": "3 arap mültecinin isveçli kadına tecavüz etmesi",
+      "entry_id": "65846218",
+      "author": "you are no longer a prisoner of fate",
+      "date": "25.01.2017 17:58 ~ 18:00",
+      "content": "(bkz: iyilikten maraz doğar)\n(bkz: cehenneme giden yol iyi niyet taşlarıyla döşelidir)",
+      "has_external_url": false
+    },
+    {
+      "title": "3 arap mültecinin isveçli kadına tecavüz etmesi",
+      "entry_id": "65846225",
+      "author": "jpeg attim yalnizliga",
+      "date": "25.01.2017 17:59",
+      "content": "(bkz: arap)",
+      "has_external_url": false
+    }
+  ]
+}

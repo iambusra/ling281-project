@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:22:24.474707",
+    "total_entries": 1,
+    "input": "3 haftada 3 milyon ukraynalının mülteci olması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "3 haftada 3 milyon ukraynalının mülteci olması",
+      "entry_id": "134974080",
+      "author": "hayatbuysa",
+      "date": "15.03.2022 16:37",
+      "content": "resmen ukrayna'nın demografisi değişiyor. milyonlarca insanın hayatı etkileniyor.",
+      "has_external_url": false
+    }
+  ]
+}

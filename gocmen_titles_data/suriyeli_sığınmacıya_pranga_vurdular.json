@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:58:30.945898",
+    "total_entries": 1,
+    "input": "suriyeli sığınmacıya pranga vurdular",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeli sığınmacıya pranga vurdular",
+      "entry_id": "64452076",
+      "author": "norecagan",
+      "date": "02.12.2016 13:49",
+      "content": "şimdi bu avrupa mı bize insan haklarını öğretecek.",
+      "has_external_url": true
+    }
+  ]
+}

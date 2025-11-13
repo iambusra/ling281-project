@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:25:57.318260",
+    "total_entries": 1,
+    "input": "üç ingilizle üç rusun maceraları",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "üç ingilizle üç rusun maceraları",
+      "entry_id": "9519619",
+      "author": "stanley weber",
+      "date": "10.05.2006 16:20 ~ 16:21",
+      "content": "orjinal adı \"aventures de trois russes et trois anglais dans l'afrique australe\" olan jules verne romanı. üç ingilizle üç rusun güney afrikadaki maceraları diye çevirmek daha doğru sanırım ancak zamanında ismi kısaltılmış öyle kazandırılmış dilimize.",
+      "has_external_url": false
+    }
+  ]
+}

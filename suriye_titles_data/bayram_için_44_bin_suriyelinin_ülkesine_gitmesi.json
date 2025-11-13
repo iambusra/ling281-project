@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:40:20.971333",
+    "total_entries": 1,
+    "input": "bayram için 44 bin suriyelinin ülkesine gitmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "bayram için 44 bin suriyelinin ülkesine gitmesi",
+      "entry_id": "125886134",
+      "author": "evtipicalisankiz",
+      "date": "19.07.2021 13:45",
+      "content": "inşallah geri gelemezler ..",
+      "has_external_url": false
+    }
+  ]
+}

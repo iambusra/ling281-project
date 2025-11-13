@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T15:16:05.186773",
+    "total_entries": 1,
+    "input": "suriyeliden daha suriyeli olmak",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeliden daha suriyeli olmak",
+      "entry_id": "137068590",
+      "author": "turk bilge kagan",
+      "date": "06.05.2022 00:01",
+      "content": "araplaşmış türk fantezisi.",
+      "has_external_url": false
+    }
+  ]
+}

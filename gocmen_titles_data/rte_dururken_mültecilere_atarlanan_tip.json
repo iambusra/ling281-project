@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:51:14.513538",
+    "total_entries": 1,
+    "input": "rte dururken mültecilere atarlanan tip",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rte dururken mültecilere atarlanan tip",
+      "entry_id": "138171491",
+      "author": "dikis tutmaz sabri",
+      "date": "31.05.2022 23:26",
+      "content": "türkiye’de bulunan geçici koruma altındaki yabancılar ve kaçakların mülteci olmadığını anlamak kaç iq gerekiyor merak ettiren zırto tespit.",
+      "has_external_url": false
+    }
+  ]
+}

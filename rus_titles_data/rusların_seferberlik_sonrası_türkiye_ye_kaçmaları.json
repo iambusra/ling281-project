@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:34:14.594196",
+    "total_entries": 3,
+    "input": "rusların seferberlik sonrası türkiye'ye kaçmaları",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rusların seferberlik sonrası türkiye'ye kaçmaları",
+      "entry_id": "142993001",
+      "author": "niyazigo",
+      "date": "22.09.2022 06:47",
+      "content": "flight radar video",
+      "has_external_url": true
+    },
+    {
+      "title": "rusların seferberlik sonrası türkiye'ye kaçmaları",
+      "entry_id": "142993602",
+      "author": "tatar ramazan",
+      "date": "22.09.2022 07:48",
+      "content": "(bkz: gel gel panayır var)",
+      "has_external_url": false
+    },
+    {
+      "title": "rusların seferberlik sonrası türkiye'ye kaçmaları",
+      "entry_id": "143008982",
+      "author": "kupelimam",
+      "date": "22.09.2022 16:03",
+      "content": "ruslarin turkiye'ye gelmesi gercekten cok sasirtici. allah bilir denize filan da girerler.",
+      "has_external_url": false
+    }
+  ]
+}

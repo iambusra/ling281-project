@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:05:42.201977",
+    "total_entries": 2,
+    "input": "ukrayna oto pazarı fiyatları",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukrayna oto pazarı fiyatları",
+      "entry_id": "169900107",
+      "author": "nostaljininzevki",
+      "date": "05.11.2024 16:16 ~ 16:27",
+      "content": "böyle bir dünya yok. adamlar savaşın ortasında 3 bin dolara golf 5 veriyorlar. megane 2 için iki bin dolar istiyorlar. başlarım böyle işe, bizim tofaş aldığımız paraya adamlar passat alıyorlar.\nkafayı yemek isteyenler için. https://youtu.be/pwtqmq5qs-i\n\nhani lan bu adamlar savaştaydı. nasıl oluyor bu fiyatlar. birisi bana bunun mantıklı açıklamasını yapsın.",
+      "has_external_url": true
+    },
+    {
+      "title": "ukrayna oto pazarı fiyatları",
+      "entry_id": "169902002",
+      "author": "1990 was a bad year",
+      "date": "05.11.2024 17:37",
+      "content": "valla olay sadece araba fiyatlarında değil, yeme içme gezme tozma hepsi tek kelime ile muazzam. burada savaş var ama esenyurt'dan daha tehlikeli değil.",
+      "has_external_url": false
+    }
+  ]
+}

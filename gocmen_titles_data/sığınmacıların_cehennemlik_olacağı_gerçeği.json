@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:05:09.273422",
+    "total_entries": 4,
+    "input": "sığınmacıların cehennemlik olacağı gerçeği",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "sığınmacıların cehennemlik olacağı gerçeği",
+      "entry_id": "138856685",
+      "author": "maemah",
+      "date": "17.06.2022 00:01 ~ 00:02",
+      "content": "ey dinini bilmeyen, sığınmacıyı savunan vatandaş.\nsığınmacıya, ensar, muhacir vs. ne sıfat yüklerseniz yükleyin, onlar sizin dininize göre de zaten varacağı yer cehennemdir.\n\nenfal 8/16: kim böyle bir günde, savaşmak için bir cepheye çekilmek amacıyla veya başka bir birliğe katılmanın dışında, düşmana arkasını dönerse, allah'ın gazabına uğramış olur. onun varacağı yer cehennem'dir. o, ne kötü bir dönüş yeridir.\n\ngörsel",
+      "has_external_url": true
+    },
+    {
+      "title": "sığınmacıların cehennemlik olacağı gerçeği",
+      "entry_id": "138856822",
+      "author": "jottar",
+      "date": "17.06.2022 00:03",
+      "content": "habeşistan kralına sığınan müslüman sahabeler cehennemlik oldu yani. vay be.",
+      "has_external_url": false
+    },
+    {
+      "title": "sığınmacıların cehennemlik olacağı gerçeği",
+      "entry_id": "138857794",
+      "author": "imdattchekici",
+      "date": "17.06.2022 00:22",
+      "content": "cennete de gitseler orayı bir cehenneme dönüştürmek için tüm adımları atacakları için, pek fark edeceğini sanmıyorum onlar açısından.",
+      "has_external_url": false
+    },
+    {
+      "title": "sığınmacıların cehennemlik olacağı gerçeği",
+      "entry_id": "138867190",
+      "author": "conversiyon",
+      "date": "17.06.2022 09:30",
+      "content": "bunlar ensar degil sansar. sadece mersin'de 400 kayıt dışı emlakçı var diyordu 2020 de. kolay kazanç, zahmetsiz vatandaslık, sonra da avrupa hayali kovalayan sıradan ortadoğu insanı.",
+      "has_external_url": false
+    }
+  ]
+}

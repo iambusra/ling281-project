@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:12:53.378950",
+    "total_entries": 1,
+    "input": "ukraynada okumak",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukraynada okumak",
+      "entry_id": "7358364",
+      "author": "kennyd",
+      "date": "22.04.2005 15:52",
+      "content": "(bkz: gel gel sarisinim gel)",
+      "has_external_url": false
+    }
+  ]
+}

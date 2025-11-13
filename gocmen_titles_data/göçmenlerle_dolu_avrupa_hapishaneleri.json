@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:24:04.599477",
+    "total_entries": 3,
+    "input": "göçmenlerle dolu avrupa hapishaneleri",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "göçmenlerle dolu avrupa hapishaneleri",
+      "entry_id": "42306322",
+      "author": "fenasi kerim",
+      "date": "27.04.2014 19:54",
+      "content": "(bkz: lanet olası federaller)",
+      "has_external_url": false
+    },
+    {
+      "title": "göçmenlerle dolu avrupa hapishaneleri",
+      "entry_id": "42306365",
+      "author": "somek kafali",
+      "date": "27.04.2014 19:55",
+      "content": "(bkz: medrese-i yusufiye)",
+      "has_external_url": false
+    },
+    {
+      "title": "göçmenlerle dolu avrupa hapishaneleri",
+      "entry_id": "42307402",
+      "author": "aksi takdir",
+      "date": "27.04.2014 20:45",
+      "content": "dokuz sekizliklerle yardırılır bunlarda.",
+      "has_external_url": false
+    }
+  ]
+}

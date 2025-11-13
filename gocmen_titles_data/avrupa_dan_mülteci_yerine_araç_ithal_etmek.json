@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:38:33.584547",
+    "total_entries": 1,
+    "input": "avrupa'dan mülteci yerine araç ithal etmek",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "avrupa'dan mülteci yerine araç ithal etmek",
+      "entry_id": "168783640",
+      "author": "portsmouthspor",
+      "date": "29.09.2024 00:18",
+      "content": "bild'in haberine göre almanya ile anlaşma yapıp mülteci kabul ediyormuşuz.\n\nancak neden avrupa'da hurdaya ayrılacak olan araçları ülkemize ithal etmiyoruz? yazık değil mi bu halka hala tofaşa torosa yüz binler ödeniyor ve halk bu araçların egzosundan çıkan anormal emisyon değerleri sebebiyle zehirleniyor kanser oluyor.\n\nneden insanımız 2015 model megane'a binebilecekken 1995 model tofaşa lada'ya biniyor? neden bunun önü açılmıyor? eğer ikinci el araç ihrac etmek sıkıntıysa riskse mülteci almak da risk değil midir?",
+      "has_external_url": false
+    }
+  ]
+}

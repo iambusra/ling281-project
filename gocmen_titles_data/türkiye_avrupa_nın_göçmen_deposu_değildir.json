@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:06:26.060274",
+    "total_entries": 2,
+    "input": "türkiye avrupa'nın göçmen deposu değildir",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türkiye avrupa'nın göçmen deposu değildir",
+      "entry_id": "173357941",
+      "author": "utku2019",
+      "date": "06.03.2025 11:19",
+      "content": "öyledir öyledir madem türkiye avrupa'nın göçmen deposu değil o halde niye türkiye topraklarında en azından 15 milyon kişilik mülteci sığınmacı bulunmaktadır ve saptanmaktadır?",
+      "has_external_url": false
+    },
+    {
+      "title": "türkiye avrupa'nın göçmen deposu değildir",
+      "entry_id": "173358018",
+      "author": "castilla",
+      "date": "06.03.2025 11:24",
+      "content": "(bkz: ağam eğlenir benimle)",
+      "has_external_url": false
+    }
+  ]
+}

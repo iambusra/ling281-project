@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:06:33.670872",
+    "total_entries": 2,
+    "input": "sedat göçmen",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "sedat göçmen",
+      "entry_id": "172304843",
+      "author": "engraulis encrasicolus",
+      "date": "29.01.2025 08:11 ~ 08:27",
+      "content": "fırtınalı denizin yolcuları kitabında söyleşi yapılan devrimci. vefat etmiş. allah rahmet etsin.",
+      "has_external_url": false
+    },
+    {
+      "title": "sedat göçmen",
+      "entry_id": "172368044",
+      "author": "ptah amun ra",
+      "date": "31.01.2025 11:13 ~ 11:18",
+      "content": "28 ocak 2025 tarihinde aramızdan ayrılan devrimci.\n\n1 eylül 1952 tarihinde kırklareli'de dünyaya geldi. mülkiye'de öğrenci olduğu yıllarda thkp-c içinde yer aldı. bu dönemde sbf-der başkanlığı yaptı.\n\n1974 affı sonrası serbest kalan oğuzhan müftüoğlu ile beraber hareket etti. devrimci yol'un kuruluşundan itibaren liderlerinden birisi oldu. karadeniz sorumluluğunu üstlendi ve devrimci yol'un karadenizde geniş bir şekilde örgütlenmesini organize etti. darbe sonrası tutuklandı 1989 yılında serbest kaldı. önce özgürlük ve dayanışma partisi'nde, sonra da bu partinin dönüştüğü sol parti'de siyasi yaşamını sürdürdü. bir oğlu oldu, ona özgür ülkem adını verdi.\n\nilbay kahraman'ın kendisiyle yaptığı söyleşi, ayrıntı yayınları tarafından 2013 yılında fırtınalı denizin yolcuları ismiyle yayımlandı, birkaç baskı yaptı. yakalandığı hastalıktan kurtulamayarak 2025'de vefat etti.",
+      "has_external_url": false
+    }
+  ]
+}

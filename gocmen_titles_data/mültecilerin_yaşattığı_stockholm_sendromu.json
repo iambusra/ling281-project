@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:53:54.097191",
+    "total_entries": 2,
+    "input": "mültecilerin yaşattığı stockholm sendromu",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "mültecilerin yaşattığı stockholm sendromu",
+      "entry_id": "170862728",
+      "author": "castelo",
+      "date": "09.12.2024 00:04",
+      "content": "mülteciler gideceğiz diyor her yerde, tüm röportajlarda.\n\nböyle haklı bile olsalar, azılı mülteci karşıtlarının bile içinde buruk, tarifi değişik duygular yaşanmakta şuan.\n\nstockholm sendromu dünyaya malolmuş bir kavram. türkiye'deki durum farklı ancak yaşattığı duygular gördüğüm kadarıyla aynı.\n\no sebeple dünyaya kazandırmamız gereken bir kavram olduğunu düşünüyorum ve ismini de:\n\nen çok mültecinin yaşadığı, zarar verdiği, sosyokültürel ve ekonomik yapısını sarstığı antepten yola çıkarak\n\nbuna \"gaziantep sendromu\" adını uygun görüyorum.\n\ntüm dünya mülteci dolmuşken, ülkesinde senelerdir istenmeyen mülteciler gidiyorken onlara alışık olmanın, onlarla bağ kurmanın, onlardan kurtulmaya yakınken, onları istemeyenlerde yarattığı garip duygular...\nonlara empati ve sempati ile bakma, alışkanlığın getirdiği ve yalnızlık hissiyle perçinleşecek hisler..\n\nartık italyanlar da fransızlar da ülkelerindeki çeşitli milletlerden mültecilerden kurtulurken \"gaziantep sendromu mu yaşıyoruz nedir bu hacı\" diye konuşacak.\n\nnot: suri kardeşler tek yön gidin, mümkünse ziyarete de pek gelmeyin.",
+      "has_external_url": false
+    },
+    {
+      "title": "mültecilerin yaşattığı stockholm sendromu",
+      "entry_id": "170862951",
+      "author": "sallempe",
+      "date": "09.12.2024 00:11",
+      "content": "kalanların ilerde suriye'deki akrabalarına \"gelmeyi çok istiyoruz ama kurulu düzenimiz var yiğenim\" diyeceğini ve birçok mültecinin buradan gitmeyeceğini, bu sebepten dolayı ortada bir sendrom olmadığını, varsa da bunun adının gurbetçi sendromu olacağını düşünüyorum.",
+      "has_external_url": false
+    }
+  ]
+}

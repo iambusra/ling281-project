@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:16:17.466034",
+    "total_entries": 3,
+    "input": "türkiye'den yasadışı ayrılan göçmenler haberi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türkiye'den yasadışı ayrılan göçmenler haberi",
+      "entry_id": "161663297",
+      "author": "frankieblues",
+      "date": "18.02.2024 13:48",
+      "content": "aa'nın yaptığı haber! utanmaz göçmenler, türkiye'den elini kolunu sallayıp gidebileceklerini düşünmüş! neyse ki kahraman güvenlik güçlerimiz sayesinde bu kardeşlerimizi kaybetmemişiz, batı'nın ahlaksız kollarına teslim etmemişiz:))))\n\nwhere you go bro? where you go? we were going to drink ayran! let's back to hell!",
+      "has_external_url": true
+    },
+    {
+      "title": "türkiye'den yasadışı ayrılan göçmenler haberi",
+      "entry_id": "161663439",
+      "author": "grsn28",
+      "date": "18.02.2024 13:54",
+      "content": "anadolu ajansı, zaytung ekibini işe alsa böyle yaratıcı haberler yaptıramaz.\n\naslında düşündüm de doğru başlıktır. sorun ülkemizde uygulanma şeklinde. bir göçmen-sığınma kampı olsa ve herkesin bir kaydı olsa ve bunlar ordan kaçmaya çalışsa tam gerekli başlık bu. tesadüfe bakın ki olması gereken de bu. ama aqp yüzünden ekonomi kurallarını olduğu gibi göçmenliği de baştan yazıyoruz.",
+      "has_external_url": false
+    },
+    {
+      "title": "türkiye'den yasadışı ayrılan göçmenler haberi",
+      "entry_id": "161663500",
+      "author": "chatintakendoor",
+      "date": "18.02.2024 13:56",
+      "content": "buna muhahahaha diye gülünür işte. recep in ülkeyi getirdiği hal şaban filmlerine döndü.",
+      "has_external_url": false
+    }
+  ]
+}

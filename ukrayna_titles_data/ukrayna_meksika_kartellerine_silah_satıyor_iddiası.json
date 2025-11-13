@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:04:00.617987",
+    "total_entries": 2,
+    "input": "ukrayna meksika kartellerine silah satıyor iddiası",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukrayna meksika kartellerine silah satıyor iddiası",
+      "entry_id": "172679294",
+      "author": "eurasia",
+      "date": "10.02.2025 23:26",
+      "content": "tucker carlson:\n\n—\"ukrayna, abd sınırında faaliyet gösteren meksika kartellerine abd silahlarını yeniden satıyor.\n\n—ukrayna'ya gönderilen amerikan silahlarının %50'ye kadarı yönlendiriliyor ve satılıyor. bu bir spekülasyon değil, bu bir gerçek!\" x",
+      "has_external_url": true
+    },
+    {
+      "title": "ukrayna meksika kartellerine silah satıyor iddiası",
+      "entry_id": "172679352",
+      "author": "grokeri",
+      "date": "10.02.2025 23:28",
+      "content": "manpad ile yolcu uçağı falan vururlarsa şaşırmam dedirten olay. çok sıkıntı.",
+      "has_external_url": false
+    }
+  ]
+}

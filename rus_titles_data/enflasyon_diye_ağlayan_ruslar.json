@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:28:00.321269",
+    "total_entries": 3,
+    "input": "enflasyon diye ağlayan ruslar",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "enflasyon diye ağlayan ruslar",
+      "entry_id": "58444703",
+      "author": "ne yaptigini ne istedigini bilmez",
+      "date": "12.02.2016 10:24 ~ 13.02.2016 20:15",
+      "content": "ambargo koymadıkları türk ürünlerini onlara satmayarak \"ateşe bir odun da sen at\" kampanyası yapılması gereken ülkeyiz amma nerede o güven, özveri ve tecrübe.\n\nedit: başlık başa.",
+      "has_external_url": false
+    },
+    {
+      "title": "enflasyon diye ağlayan ruslar",
+      "entry_id": "58444850",
+      "author": "atarlistajer",
+      "date": "12.02.2016 10:31",
+      "content": "küçük düşünüyorlardır. tıpkı bizim gibi. rusya'ya olan ihracatın bitmesi/azalması ile ülkeye giren döviz miktarı azalacaktır. zaten ithalatı yüksek olan bir ülke olduğumuz için hem cari açık büyüyecek hem de uzun dönemde daha büyük bir enflasyonla karşı karşıya kalacağız.\n\nyapmayın arkadaşlar, ekonomi bu gazla çalışmıyor.",
+      "has_external_url": false
+    },
+    {
+      "title": "enflasyon diye ağlayan ruslar",
+      "entry_id": "58445073",
+      "author": "fenasi kertmen",
+      "date": "12.02.2016 10:44",
+      "content": "bu birşey değil de ben bizim piyasayı anlayamıyorum; rusya sebebiyle sebze meyvenin ucuzlaması gerekirken aksine artıyor.\n\nnerede ulan bu piyasa dengesi, arz/talep hikayesi???\nçaktığımın aracıları yüzünden arz/talep dengesi diye bir şey kalmamış memlekette çakallar arzı da talebi de kendi belirliyor.",
+      "has_external_url": false
+    }
+  ]
+}

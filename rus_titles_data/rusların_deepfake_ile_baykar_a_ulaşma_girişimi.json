@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:34:06.591630",
+    "total_entries": 3,
+    "input": "rusların deepfake ile baykar'a ulaşma girişimi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rusların deepfake ile baykar'a ulaşma girişimi",
+      "entry_id": "143765364",
+      "author": "tsgulen",
+      "date": "11.10.2022 09:58 ~ 11:12",
+      "content": "başlık sınırı nedeniyle kısaltmak zorunda kaldığım asıl başlık (bkz: rusların deepfake teknolojisini kullanarak baykar ceo’su ile görüşmeye çalışması) dır.\n\nukrayna savunma bakanlığı istihbarat dairesi, baykar ceo'su haluk bayraktar'a yönelik provokasyonu engellediğini duyurdu. ruslar, deepfake görüntü kullanarak haluk bayraktar'la görüntülü görüşmeye çalıştı.ancak rus aksanı nedeniyle ukrayna istihbaratçıları tarafından tespit edildi.\n\nhaber ve video\n\ntwitter\n\nedit: imla ve ukrayna istihbaratı resmi twitter hesabı eklendi.",
+      "has_external_url": true
+    },
+    {
+      "title": "rusların deepfake ile baykar'a ulaşma girişimi",
+      "entry_id": "143765520",
+      "author": "zeeland",
+      "date": "11.10.2022 10:03",
+      "content": "we will find you everywhere my friend, see you in prison ile guldurmustur. neler donuyor arkadas, iyice manyak etti bunlar kendini.",
+      "has_external_url": false
+    },
+    {
+      "title": "rusların deepfake ile baykar'a ulaşma girişimi",
+      "entry_id": "143767136",
+      "author": "chokonut",
+      "date": "11.10.2022 10:57",
+      "content": "ooo 15 günlük mevzu çıktı a haber'e...",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T16:56:02.910792",
+    "total_entries": 2,
+    "input": "16 aralık 2024 özgür özel'in suriyeli açıklaması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "16 aralık 2024 özgür özel'in suriyeli açıklaması",
+      "entry_id": "171077497",
+      "author": "yetkin99",
+      "date": "16.12.2024 14:49",
+      "content": "özel'in kendisi ile çeliştiği bir başka açıklamadır\n(bkz: özel'in suriye dönülebilecek durumda değil demesi)",
+      "has_external_url": false
+    },
+    {
+      "title": "16 aralık 2024 özgür özel'in suriyeli açıklaması",
+      "entry_id": "171078013",
+      "author": "eurasia",
+      "date": "16.12.2024 15:14",
+      "content": "ve şöyle devam etmiş:\n\n\"eğer suriyeden gelen kürtler ise onlar kalabilir. onların başımızın üstünde yeri vardır tabii ki de.\"",
+      "has_external_url": false
+    }
+  ]
+}

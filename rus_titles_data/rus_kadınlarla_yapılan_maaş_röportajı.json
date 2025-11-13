@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:23:07.073098",
+    "total_entries": 1,
+    "input": "rus kadınlarla yapılan maaş röportajı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rus kadınlarla yapılan maaş röportajı",
+      "entry_id": "174670668",
+      "author": "summerof69",
+      "date": "19.04.2025 22:14",
+      "content": "\"partnerinizin en az ne kadar kazanması gerekir\" sorusuna yanıt vermişler. bizim kadınlarımızdan biraz farklı gibiler sanki. ingilizce/rusça bilmenize gerek yok. maaşlar her yanıtta artıyor ve altyazıyla gösteriliyor.\n\nhttps://www.youtube.com/watch?v=mw7sw0nyako",
+      "has_external_url": true
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:43:26.843991",
+    "total_entries": 1,
+    "input": "new york'ta mültecinin öldürdüğü siyahi vatandaş",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "new york'ta mültecinin öldürdüğü siyahi vatandaş",
+      "entry_id": "162504348",
+      "author": "pegasusonly",
+      "date": "16.03.2024 13:46",
+      "content": "ava giderken avlanmış.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:05:54.795116",
+    "total_entries": 1,
+    "input": "sığınmacıların yaşadığı yerlerde halk ne düşünüyor",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "sığınmacıların yaşadığı yerlerde halk ne düşünüyor",
+      "entry_id": "126088119",
+      "author": "kirkhammet34",
+      "date": "24.07.2021 23:29",
+      "content": "akp'nin sonunu bu istilacılar getirecek. akp gittiğinde gelecek yeni hükümet inşallah istilacıların kökünü kazır ve sınırdışı eder. türk milletinin sabrı kalmadı. iç savaş çıkacak.",
+      "has_external_url": false
+    }
+  ]
+}

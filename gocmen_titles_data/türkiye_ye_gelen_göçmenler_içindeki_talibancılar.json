@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:17:45.972986",
+    "total_entries": 1,
+    "input": "türkiye'ye gelen göçmenler içindeki talibancılar",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türkiye'ye gelen göçmenler içindeki talibancılar",
+      "entry_id": "127454950",
+      "author": "e moment kilaritiy",
+      "date": "29.08.2021 11:10",
+      "content": "cumhuriyet'in haberine göre iran sınırı üzerinden bizzat iran'ın göz yumduğu bir durum mevcutmuş. buna göre türkiye'ye gelen kaçak afganların içinde birçok taliban mensubunun olduğu iranlı bir basın mensubu tarafından dile getirilmiş. şaşırır mıyız? hayır. peki bunlar 5-10 yıl sonra şeriat isterse ne yapacağız?",
+      "has_external_url": true
+    }
+  ]
+}

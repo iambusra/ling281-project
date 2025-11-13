@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:14:14.152927",
+    "total_entries": 1,
+    "input": "ukrayna'da türbanlı bacı olmaması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukrayna'da türbanlı bacı olmaması",
+      "entry_id": "40594319",
+      "author": "zaptir",
+      "date": "21.02.2014 16:20",
+      "content": "hükümetin muhalefete karşı yeterli mağduriyet argümanı üretememesi, sonucunda olayların oldukça büyümesiyle sonuçlanmıştır.",
+      "has_external_url": false
+    }
+  ]
+}

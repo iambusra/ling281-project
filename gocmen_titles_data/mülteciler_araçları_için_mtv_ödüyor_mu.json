@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:47:44.878987",
+    "total_entries": 4,
+    "input": "mülteciler araçları için mtv ödüyor mu",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "mülteciler araçları için mtv ödüyor mu",
+      "entry_id": "154233264",
+      "author": "tzantali",
+      "date": "05.07.2023 20:55",
+      "content": "bildiğim kadarıyla mtv ödüyorlar.\nötv ve kdv yok.\n\nbir soru.",
+      "has_external_url": false
+    },
+    {
+      "title": "mülteciler araçları için mtv ödüyor mu",
+      "entry_id": "154233803",
+      "author": "volballatmin",
+      "date": "05.07.2023 21:11 ~ 21:12",
+      "content": "multeci ve odeme kelimelerini ayni cumle icinde kullanmak sacma oldugundan cevabi net olan soru",
+      "has_external_url": false
+    },
+    {
+      "title": "mülteciler araçları için mtv ödüyor mu",
+      "entry_id": "154233927",
+      "author": "scudman123",
+      "date": "05.07.2023 21:15",
+      "content": "üste para alıyorlardır. malum ülke onların. insan savaşa savaşa kazandığı topraklarda yaşamak için birde ötv, kdv gibi şeyler mi ödermiş.",
+      "has_external_url": false
+    },
+    {
+      "title": "mülteciler araçları için mtv ödüyor mu",
+      "entry_id": "154233975",
+      "author": "baska bi tat",
+      "date": "05.07.2023 21:16",
+      "content": "(bkz: it iti ısırmaz)",
+      "has_external_url": false
+    }
+  ]
+}

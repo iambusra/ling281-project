@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:33:56.955738",
+    "total_entries": 1,
+    "input": "rusların kendi askerine ateş açması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rusların kendi askerine ateş açması",
+      "entry_id": "145310555",
+      "author": "cansizkiz",
+      "date": "19.11.2022 22:09",
+      "content": "link\n\nrus askerler bir ukrayna sivil teknesini çalar, diğer teknelere de hasar verir ve sabotaj yapar... ve ardından diğer rus askerleri üzerlerine ateş ettiği olay.",
+      "has_external_url": true
+    }
+  ]
+}

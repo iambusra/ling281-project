@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:41:37.975231",
+    "total_entries": 1,
+    "input": "suriyeli mülteciyi 2 km sırtında taşıyan polis",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeli mülteciyi 2 km sırtında taşıyan polis",
+      "entry_id": "81004605",
+      "author": "what the hell are u lookin at",
+      "date": "06.09.2018 00:20",
+      "content": "türk polisine yakışan hareketi yapmıştır.",
+      "has_external_url": false
+    }
+  ]
+}

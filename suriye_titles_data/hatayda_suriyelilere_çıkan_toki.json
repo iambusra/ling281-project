@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:42:43.033509",
+    "total_entries": 1,
+    "input": "hatayda suriyelilere çıkan toki",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "hatayda suriyelilere çıkan toki",
+      "entry_id": "145935692",
+      "author": "ahty",
+      "date": "04.12.2022 22:11",
+      "content": "ülkede hayatı boyunca çalışıp, tek dikili ağacı olmayan vatandaşların hakkını bu adamların alması içime oturuyor . aldığı yardım paraları ile ödemek zor olmasa gerek . rahatsız ediyorsak siktirip gidelim artık!\nhttps://www.yenicaggazetesi.com.tr/…ldi-604359h.htm",
+      "has_external_url": true
+    }
+  ]
+}

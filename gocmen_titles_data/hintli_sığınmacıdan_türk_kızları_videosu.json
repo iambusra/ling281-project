@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:58:35.655494",
+    "total_entries": 3,
+    "input": "hintli sığınmacıdan türk kızları videosu",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "hintli sığınmacıdan türk kızları videosu",
+      "entry_id": "126796842",
+      "author": "başlık taşıyan",
+      "date": "11.08.2021 16:53",
+      "content": "(bkz: türk kızlarının videolarını çeken pakistanlı)",
+      "has_external_url": false
+    },
+    {
+      "title": "hintli sığınmacıdan türk kızları videosu",
+      "entry_id": "126796915",
+      "author": "aresblade",
+      "date": "11.08.2021 16:56",
+      "content": "adamın tipine bakarak kesinlikle hintli olmadığını söyleyebilirim. afgan ne yazık ki.",
+      "has_external_url": false
+    },
+    {
+      "title": "hintli sığınmacıdan türk kızları videosu",
+      "entry_id": "126796989",
+      "author": "doganinminikkusu",
+      "date": "11.08.2021 16:58",
+      "content": "kendi ülkemizde bir bize yer yok sanki. hintlinin ne işi var primative yaratıklar afganlısı suriyelisi hepsi aynı.",
+      "has_external_url": false
+    }
+  ]
+}

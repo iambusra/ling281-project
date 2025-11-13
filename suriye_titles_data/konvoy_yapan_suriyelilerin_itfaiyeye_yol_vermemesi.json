@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:43:38.818772",
+    "total_entries": 4,
+    "input": "konvoy yapan suriyelilerin itfaiyeye yol vermemesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "konvoy yapan suriyelilerin itfaiyeye yol vermemesi",
+      "entry_id": "170930600",
+      "author": "hukumrans",
+      "date": "11.12.2024 13:58",
+      "content": "çıldırmamak elde değil. gerisini küfür etmemek için yazamıyorum.",
+      "has_external_url": false
+    },
+    {
+      "title": "konvoy yapan suriyelilerin itfaiyeye yol vermemesi",
+      "entry_id": "170930846",
+      "author": "supermert",
+      "date": "11.12.2024 14:10 ~ 14:10",
+      "content": "iyi yapmış tabi de suriye'lilere özel bir durum değil. türkler de yol vermiyor, hem genel olarak hem videoda. geçen taksideyim arkamızda ambulans var, yol da boş ama adam kırmızıda duruyor (bkz: swh)",
+      "has_external_url": false
+    },
+    {
+      "title": "konvoy yapan suriyelilerin itfaiyeye yol vermemesi",
+      "entry_id": "170930947",
+      "author": "bayserk",
+      "date": "11.12.2024 14:14",
+      "content": "davarlara her daim bir çobanın gerektiğini anlatan video.\n\nbilim adamları fosilleri bırakın ilk çağ gözümüzün önünde zaten araştırın bi işe yarasınlar bari…",
+      "has_external_url": false
+    },
+    {
+      "title": "konvoy yapan suriyelilerin itfaiyeye yol vermemesi",
+      "entry_id": "170931010",
+      "author": "yetkin99",
+      "date": "11.12.2024 14:18",
+      "content": "son günlerde yaşanan olaylar sonrası ortaya çıkan olumlu havanın dağıtılması için köpürtülen olay.\nbuna benzer çok olay yaşanacak bu süreçte, çok dikkatli olmak lazım.\nümit özdağ'dan her türlü pislik beklenir.",
+      "has_external_url": false
+    }
+  ]
+}

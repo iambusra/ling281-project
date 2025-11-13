@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:21:45.350749",
+    "total_entries": 2,
+    "input": "kayıtsız göçmenlere yardım ve yataklık suçu",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "kayıtsız göçmenlere yardım ve yataklık suçu",
+      "entry_id": "126766646",
+      "author": "sedatnet",
+      "date": "10.08.2021 21:54",
+      "content": "kayıtsız göçmenlerin sınırı geçmesi: suç.\nbunu görmezden gelmek: suç.\nbunu savunmak: suç. (suçu ve suçluyu övme)\nsuç işleyenleri adalete teslim etmekten kaçınmak(yakalamamak): suç.\nyakalananları kanunen sınır dışı edilmesi gerekirken sınır dışı etmemek: suç.\n\nsuçluyu ise zaten biliyorsunuz.",
+      "has_external_url": false
+    },
+    {
+      "title": "kayıtsız göçmenlere yardım ve yataklık suçu",
+      "entry_id": "126768644",
+      "author": "fecri",
+      "date": "10.08.2021 22:42",
+      "content": "adalet işlemeye başlarsa çok fazla kelle götürecek suçlar silsilesi",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:44:25.240195",
+    "total_entries": 3,
+    "input": "yazar olacak ilk mültecinin alacağı nick",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "yazar olacak ilk mültecinin alacağı nick",
+      "entry_id": "137177447",
+      "author": "gol orucunu bozan dindar forvet",
+      "date": "08.05.2022 11:58",
+      "content": "(bkz: şambali tatlısı)",
+      "has_external_url": false
+    },
+    {
+      "title": "yazar olacak ilk mültecinin alacağı nick",
+      "entry_id": "137178058",
+      "author": "dukkanin ortasinda bagiran kosnuk",
+      "date": "08.05.2022 12:17",
+      "content": "el amcukiye prensi",
+      "has_external_url": false
+    },
+    {
+      "title": "yazar olacak ilk mültecinin alacağı nick",
+      "entry_id": "137178240",
+      "author": "puanter",
+      "date": "08.05.2022 12:22",
+      "content": "istanbullu34",
+      "has_external_url": false
+    }
+  ]
+}

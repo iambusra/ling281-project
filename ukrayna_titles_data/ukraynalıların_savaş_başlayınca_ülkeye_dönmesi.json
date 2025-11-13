@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:24:06.376706",
+    "total_entries": 2,
+    "input": "ukraynalıların savaş başlayınca ülkeye dönmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukraynalıların savaş başlayınca ülkeye dönmesi",
+      "entry_id": "134386773",
+      "author": "telesekretmez",
+      "date": "01.03.2022 23:06 ~ 23:07",
+      "content": "bazı ülkelerin vatandaşlarına gösterilmesi gereken bir haber bu. kaynak\n\n80 bin ukraynalı savaş başlayınca ülkesine dönmüş. çoğunluğu erkekmiş.",
+      "has_external_url": true
+    },
+    {
+      "title": "ukraynalıların savaş başlayınca ülkeye dönmesi",
+      "entry_id": "134386859",
+      "author": "beni emniyete goturun sikinti cikaricam",
+      "date": "01.03.2022 23:08",
+      "content": "omurga nedir, neden dik durmamızı sağlar temalı canlı örnektir.\n\nsahilde nargile içmek de vardı tabi.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:08:17.796963",
+    "total_entries": 3,
+    "input": "eyyy putin ukrayna'yı karıştırmaktan artık vazgeç",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "eyyy putin ukrayna'yı karıştırmaktan artık vazgeç",
+      "entry_id": "42489822",
+      "author": "sirjonas",
+      "date": "04.05.2014 01:31",
+      "content": "ukrayna \"müslüman kardeş\" olmadığından gelmeyecek açıklamadır",
+      "referenced_content": [],
+      "has_external_url": false
+    },
+    {
+      "title": "eyyy putin ukrayna'yı karıştırmaktan artık vazgeç",
+      "entry_id": "46299598",
+      "author": "rafet el morad",
+      "date": "12.10.2014 22:48",
+      "content": "(bkz: eyyy nato)",
+      "referenced_content": [],
+      "has_external_url": false
+    },
+    {
+      "title": "eyyy putin ukrayna'yı karıştırmaktan artık vazgeç",
+      "entry_id": "46300005",
+      "author": "turk eli",
+      "date": "12.10.2014 23:04",
+      "content": "(bkz: #46299779)",
+      "referenced_content": [
+        {
+          "type": "entry",
+          "title": "ey-edip-adanada-pide-ye",
+          "entry_id": "46299779",
+          "author": "turk eli",
+          "date": "12.10.2014 22:55 ~ 23:02",
+          "content": "tayyip erdoğan lafı gibi duran söz.\n\n\"ey edip (akbayram)! manevi değerlerimize uygun olmayan şarkı demeye dilimin varmadığı sözüm ona halkçı ucubeler söylüyorsun, yetmiyor monşer restoranlarda elit baronlarla içkili yemeklerde tıksırana kadar bizi eleştiriyorsun. eğer halkçıyım diyeceksen gidip adana'da, halkın arasında bir pide ye! halkçı olan siz değil biziz, biz. biz halkçılığı da iyi biliriz.",
+          "has_external_url": false
+        }
+      ],
+      "referenced_entry_ids": [
+        "46299779"
+      ],
+      "has_external_url": false
+    }
+  ]
+}

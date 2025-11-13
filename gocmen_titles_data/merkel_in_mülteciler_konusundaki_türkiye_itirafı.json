@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:46:02.162379",
+    "total_entries": 2,
+    "input": "merkel'in mülteciler konusundaki türkiye itirafı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "merkel'in mülteciler konusundaki türkiye itirafı",
+      "entry_id": "170523531",
+      "author": "oplevelse",
+      "date": "27.11.2024 12:04 ~ 12:06",
+      "content": "ragıp soylu’nun twit zincirinde gördüm. kitabı en yakın zamanda okuyacağım.\n\n“eski almanya şansölyesi angela merkel yeni kitabı özgürlük’te, türkiye ile 2016’da yaptığı göç anlaşması ve erdoğan ile ilgili de anılarını anlatıyor.\n\nkitapta erdoğan için “otokratik eğilimleri var” derken, bir yerde de dolaylı olarak “otokrat” yakıştırması yapıyor.”\n\n“erdoğan'ın karşısında sarayına gittiğimde orada sindiğim ve gerekirse kendimi onun önünde yerlere bile çökebileceğim yazıldı.\n\nancak biz o sırada türkiye ile daha fazla mülteciyi bizden uzak tutabilecek bir anlaşma imzalamak üzereydik. “\n\nkaynak: link",
+      "has_external_url": true
+    },
+    {
+      "title": "merkel'in mülteciler konusundaki türkiye itirafı",
+      "entry_id": "170523572",
+      "author": "ilgin42",
+      "date": "27.11.2024 12:05",
+      "content": "(bkz: almanya bizi kıskanıyor)",
+      "has_external_url": false
+    }
+  ]
+}

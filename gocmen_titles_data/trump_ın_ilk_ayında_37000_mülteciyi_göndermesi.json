@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:40:57.741148",
+    "total_entries": 1,
+    "input": "trump'ın ilk ayında 37000 mülteciyi göndermesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "trump'ın ilk ayında 37000 mülteciyi göndermesi",
+      "entry_id": "173012910",
+      "author": "minorplane",
+      "date": "22.02.2025 06:59",
+      "content": "reuters in haberine gore, trump ilk ayinda 37.660 multeciyi sinir disk etmis ve bu sayi biden yonetiminin son yilinin aylik ortalamasinin 20 bin altindaymis.\n\nhaberin linki; https://www.reuters.com/…tion-crackdown-2025-02-21/",
+      "has_external_url": true
+    }
+  ]
+}

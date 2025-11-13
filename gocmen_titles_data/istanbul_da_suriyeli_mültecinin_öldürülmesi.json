@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:45:47.057307",
+    "total_entries": 3,
+    "input": "istanbul'da suriyeli mültecinin öldürülmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "istanbul'da suriyeli mültecinin öldürülmesi",
+      "entry_id": "62135640",
+      "author": "empati kuramayan psikolog",
+      "date": "04.08.2016 17:11",
+      "content": "istanbul'da yaşamaya çalışan eşcinsel bir mülteci olan muhammed wisam sankari'nin kafasının kesilerek öldürülmesi olayıdır. artık nasıl bir nefretle öldürülmüşse içinde iki adet bıçak kırılmış.\n\nülkece bütün dünyaya yetecek kadar nefrete sahibiz.\n\nhttp://www.cumhuriyet.com.tr/…ilerek_olduruldu.html\n\nhttp://t24.com.tr/…multecinin-kafasi-kesildi,353193\n\nhttp://www.gaystarnews.com/…aded-turkey/#gs.yf85ctq",
+      "has_external_url": true
+    },
+    {
+      "title": "istanbul'da suriyeli mültecinin öldürülmesi",
+      "entry_id": "62135702",
+      "author": "rostoyevski",
+      "date": "04.08.2016 17:14",
+      "content": "her yönüyle nefret suçu. bir insana tecavüz etmek, kafasını kesmek ve iç organlarını dışarıya çıkarmak. bunu en yırtıcı hayvanlardan göremezsiniz. helak ol insanoğlu.",
+      "has_external_url": false
+    },
+    {
+      "title": "istanbul'da suriyeli mültecinin öldürülmesi",
+      "entry_id": "62135790",
+      "author": "bayparagraf",
+      "date": "04.08.2016 17:19",
+      "content": "vicdansizsiniz, zalimsiniz, alcaksiniz.",
+      "has_external_url": false
+    }
+  ]
+}

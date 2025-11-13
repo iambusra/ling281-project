@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:09:34.373090",
+    "total_entries": 1,
+    "input": "bu ara ukrayna ya da rusya'dan ev almak",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "bu ara ukrayna ya da rusya'dan ev almak",
+      "entry_id": "144198397",
+      "author": "handemir",
+      "date": "22.10.2022 11:15 ~ 11:17",
+      "content": "rusya'nın kasabalarında bile ev fiyatları bizim büyük şehirlerden daha pahalı. (dolar bazında)\nukrayna'da muhtemelen ucuzdur ama gitmeden önce çelik yelek falan almakta fayda var.",
+      "has_external_url": false
+    }
+  ]
+}

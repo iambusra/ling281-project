@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:44:32.463912",
+    "total_entries": 1,
+    "input": "reklam panosu çalmaya çalışan suriyeliler",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "reklam panosu çalmaya çalışan suriyeliler",
+      "entry_id": "172856714",
+      "author": "somun civata",
+      "date": "17.02.2025 02:10",
+      "content": "memleketin anasini.. abim cok guzel soylemis.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:31:28.402589",
+    "total_entries": 1,
+    "input": "ruslarla iranlılar bahşiş vermezler",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ruslarla iranlılar bahşiş vermezler",
+      "entry_id": "33714451",
+      "author": "anlamadiysanizsorabilirsiniz",
+      "date": "06.05.2013 19:37",
+      "content": "otelde çalışan bir yakınımızın acı beyanatı. halbuki cimrilik denince aklıma benim daha çok balkanlar geliyordu ama.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:25:49.279631",
+    "total_entries": 1,
+    "input": "götünde ayı bağıran rusun efsane tepkisi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "götünde ayı bağıran rusun efsane tepkisi",
+      "entry_id": "107938809",
+      "author": "oyun kac kac",
+      "date": "28.05.2020 00:49",
+      "content": "şuradan izlenebilecek tepkidir.",
+      "has_external_url": true
+    }
+  ]
+}

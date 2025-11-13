@@ -1,0 +1,34 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:02:11.509390",
+    "total_entries": 1,
+    "input": "ukrayna rusya savaşının olası sonu",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukrayna rusya savaşının olası sonu",
+      "entry_id": "176872345",
+      "author": "sanal gezgin",
+      "date": "17.07.2025 11:14",
+      "content": "yedi yıl önce savaşın yayılacağını düşünenlere karşın, benim görüşümün gerçekleştiğini hatırlattıktan sonra, putin ve zelenski'den birinin ölümünden sonra barışa kapı açılacağını buraya not düşmek istediğim mevzu.\nyedi yıl önce .",
+      "referenced_content": [
+        {
+          "type": "entry",
+          "title": "25-kasim-2018-ukrayna-rusya-gerginligi",
+          "entry_id": "83696513",
+          "author": "sanal gezgin",
+          "date": "25.11.2018 23:53",
+          "content": "büyümeyecek olan savaş.\nukrayna protesto ettiği ile kalacak.\navrupa kendi dertleriyle meşgul.\ntrump'ın işi başından aşkın.\nkimsenin ukrayna'yı düşünecek hali yok.\npotansiyel mülteci kızlara sulanan vicdansız öküz abazanlar avuçlarına tükürecekler.",
+          "has_external_url": false
+        }
+      ],
+      "referenced_entry_ids": [
+        "83696513"
+      ],
+      "has_external_url": false
+    }
+  ]
+}

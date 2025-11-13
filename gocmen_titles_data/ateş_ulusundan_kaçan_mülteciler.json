@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:48:06.433575",
+    "total_entries": 1,
+    "input": "ateş ulusundan kaçan mülteciler",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ateş ulusundan kaçan mülteciler",
+      "entry_id": "146863527",
+      "author": "fevki lugat",
+      "date": "27.12.2022 01:08",
+      "content": "zeytinburnu civarında yaşıyorlarmış çoğunlukla; fakat ben kendilerini topkapı mescidi selam tramvayında görüyorum daha çok.",
+      "has_external_url": false
+    }
+  ]
+}

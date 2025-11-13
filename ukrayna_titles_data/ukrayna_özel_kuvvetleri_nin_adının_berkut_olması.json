@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:16:15.830432",
+    "total_entries": 4,
+    "input": "ukrayna özel kuvvetleri'nin adının berkut olması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukrayna özel kuvvetleri'nin adının berkut olması",
+      "entry_id": "38649204",
+      "author": "filolog",
+      "date": "01.12.2013 17:51 ~ 20:00",
+      "content": "(bkz: berkut badem)\n\n(bkz: dikkat şahan çıkabilir)",
+      "has_external_url": false
+    },
+    {
+      "title": "ukrayna özel kuvvetleri'nin adının berkut olması",
+      "entry_id": "38649301",
+      "author": "fenasi kerim",
+      "date": "01.12.2013 17:57",
+      "content": "(bkz: tankutum ve asiyem)",
+      "has_external_url": false
+    },
+    {
+      "title": "ukrayna özel kuvvetleri'nin adının berkut olması",
+      "entry_id": "38649316",
+      "author": "tabele",
+      "date": "01.12.2013 17:58",
+      "content": "bir azerbaycan yaraklı kuvvetleri değildir.",
+      "has_external_url": false
+    },
+    {
+      "title": "ukrayna özel kuvvetleri'nin adının berkut olması",
+      "entry_id": "40717841",
+      "author": "knipeos",
+      "date": "26.02.2014 11:09",
+      "content": "http://en.wikipedia.org/wiki/sukhoi_su-47",
+      "has_external_url": true
+    }
+  ]
+}

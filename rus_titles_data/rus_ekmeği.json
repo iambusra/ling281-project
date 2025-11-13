@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:18:54.043618",
+    "total_entries": 2,
+    "input": "rus ekmeği",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rus ekmeği",
+      "entry_id": "20232336",
+      "author": "turuncan53",
+      "date": "05.09.2010 05:24",
+      "content": "migros'ta gördüğüm ve bir deneyeyim diyerek aldığım muhteşem lezzetli zenci ekmek.",
+      "has_external_url": false
+    },
+    {
+      "title": "rus ekmeği",
+      "entry_id": "178559819",
+      "author": "jwill44",
+      "date": "21.09.2025 00:37",
+      "content": "lan bu çok güzelmiş ya, bugün ilk kez aldım, tüm alfabeyi yedim valla.",
+      "has_external_url": false
+    }
+  ]
+}

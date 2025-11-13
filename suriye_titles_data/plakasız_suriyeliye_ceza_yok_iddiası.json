@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:44:29.241203",
+    "total_entries": 1,
+    "input": "plakasız suriyeliye ceza yok iddiası",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "plakasız suriyeliye ceza yok iddiası",
+      "entry_id": "164987629",
+      "author": "zeki ama calismayan zeki",
+      "date": "02.06.2024 16:22",
+      "content": "ülker link: https://x.com/…691515?t=y8uakgslfpqiyb09yixhww&s=19\n\nlinkte de görüleceği üzere bir vatandaş kendisine egzozdan dolayı ceza yazıldığını iddia ediyor. ceza yazan polislerin ise daha yeni oradan geçen plakasız suriyeliye ceza kesmediğini ve onu bıraktıklarını söylüyor.\n\nne yalan söyliyeyim, polislerin tavrından adamın yalan söylemediği izlenimi oluştu.\n\nhadi abartı egzoz suç ama kim olduğu belli, ama plakasız araba olaya karışsa sahibi nereden bulacaksın? bu ülkede o kadar olay oldu, çoğunda da araç plakası yoktu. bomba patlasa hesabını kim verecek?",
+      "has_external_url": true
+    }
+  ]
+}

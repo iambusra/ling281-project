@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:51:20.047643",
+    "total_entries": 4,
+    "input": "toplu taşımanın mültecilere ücretsiz olması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "toplu taşımanın mültecilere ücretsiz olması",
+      "entry_id": "136765393",
+      "author": "devil trigger dante",
+      "date": "28.04.2022 15:42",
+      "content": "konya'da öğrenci olan kaçak mülteciler için gerçekleşmiş olandır.\n\nkaynak",
+      "has_external_url": true
+    },
+    {
+      "title": "toplu taşımanın mültecilere ücretsiz olması",
+      "entry_id": "136766509",
+      "author": "owlowlowl",
+      "date": "28.04.2022 16:16",
+      "content": "nüfus kağıdı yaktırır",
+      "has_external_url": false
+    },
+    {
+      "title": "toplu taşımanın mültecilere ücretsiz olması",
+      "entry_id": "136766623",
+      "author": "louboutinred",
+      "date": "28.04.2022 16:20",
+      "content": "turk'misafirperverliginin' guzide orneklerinden biri daha.\n\nbir de utanmadan para mi alacaktik din kardeslerimizden?",
+      "has_external_url": false
+    },
+    {
+      "title": "toplu taşımanın mültecilere ücretsiz olması",
+      "entry_id": "136766811",
+      "author": "nothankyou",
+      "date": "28.04.2022 16:26",
+      "content": "hem öğrenci hem kaçak hem de mülteci olabilmişlerse hak etmişlerdir. zira hem kaçak hem öğrenci hem de mülteci aynı anda olunamaz.\n\nyazar doğru noktaya işaret ederken aynı zamanda alenen diğer yazarları kışkırtmaktadır.\n\ntanim: türk yurdunda türk çocuğunun sahipsiz kaldığıdır.",
+      "has_external_url": false
+    }
+  ]
+}

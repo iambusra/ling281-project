@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:44:38.998451",
+    "total_entries": 2,
+    "input": "suriyeli mültecinin masum kediyi denize fırlatması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeli mültecinin masum kediyi denize fırlatması",
+      "entry_id": "131394036",
+      "author": "başlık taşıyan",
+      "date": "21.12.2021 17:07",
+      "content": "(bkz: 20 aralık 2021 göçmenlerin kediye yaptığı eziyet)",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyeli mültecinin masum kediyi denize fırlatması",
+      "entry_id": "131394313",
+      "author": "dusunsel komplikasyon",
+      "date": "21.12.2021 17:17",
+      "content": "1- suçlu kedi mi var amk? varsa da onu denize atmak reva mı?\n2- başlığı açma şeklinden seni kedinin denize atılmasından daha çok rahatsız eden şeyler var gibi duruyor.",
+      "has_external_url": false
+    }
+  ]
+}

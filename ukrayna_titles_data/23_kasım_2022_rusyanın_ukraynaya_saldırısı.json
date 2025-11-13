@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:08:59.014487",
+    "total_entries": 4,
+    "input": "23 kasım 2022 rusyanın ukraynaya saldırısı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "23 kasım 2022 rusyanın ukraynaya saldırısı",
+      "entry_id": "145480364",
+      "author": "suvari07",
+      "date": "23.11.2022 22:50 ~ 23:08",
+      "content": "rusya bugün başkent kiev dahil olmak üzere bütün ukrayna şehirlerine hava saldırısı düzenledi. yine bugün rus füzeleriyle siviller öldü. yaralı olan bir çok insan var. ülke genelinde elektrikler kesildi.\n\nhaliyle elektrik olmayınca su ve doğalgaz akışı da olmuyor. milyonlarca ukraynalı şuan da kadın yaşlı çoluk çocuk herkes bu kış günü elektriksiz, susuz ve ısınamadan yaşamak zorunda.\n\nbunlara ek olarak moldova'da da elektrik kesintisi meydana geldi.\n\nnot: rusya terörist bir devlettir.\n\nkaynak\n\nkaynak için teşekkürler \"darthsidious\"",
+      "has_external_url": true
+    },
+    {
+      "title": "23 kasım 2022 rusyanın ukraynaya saldırısı",
+      "entry_id": "145480462",
+      "author": "cellark",
+      "date": "23.11.2022 22:52",
+      "content": "rusya nin kasaları bosalmaya başladıkça daha da agresiflesecek, bir an önce ukrayna yi pes ettirmeye çalışacak, daha fazla uzatamaz savaşı",
+      "has_external_url": false
+    },
+    {
+      "title": "23 kasım 2022 rusyanın ukraynaya saldırısı",
+      "entry_id": "145480485",
+      "author": "darthsidious",
+      "date": "23.11.2022 22:52",
+      "content": "kaynak neydi kaynak emekti",
+      "has_external_url": true
+    },
+    {
+      "title": "23 kasım 2022 rusyanın ukraynaya saldırısı",
+      "entry_id": "145480639",
+      "author": "sekdeli",
+      "date": "23.11.2022 22:56",
+      "content": "savaşın kazananları çoğu zaman savaşanlar değildir. burada olduğu gibi… bilin bakalım kimlerdir?",
+      "has_external_url": false
+    }
+  ]
+}

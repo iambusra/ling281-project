@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:12:53.364446",
+    "total_entries": 1,
+    "input": "endülüs göçmeni türkler",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "endülüs göçmeni türkler",
+      "entry_id": "40289353",
+      "author": "somek kafali",
+      "date": "08.02.2014 18:03 ~ 18:57",
+      "content": "yüzyıllar önce türk misafirperverliği ile tanışmış ve türk olup bu topraklarda yaşamaya karar vermiş elemanlar ile onların soyundan gelenlerdir. misal, şeyh bedrettin babası falan.",
+      "has_external_url": false
+    }
+  ]
+}

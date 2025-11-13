@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:15:31.900199",
+    "total_entries": 3,
+    "input": "ukrayna'dan türkiye'ye hiç sığınmacı gelmemesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukrayna'dan türkiye'ye hiç sığınmacı gelmemesi",
+      "entry_id": "43959074",
+      "author": "somek kafali",
+      "date": "04.07.2014 20:27",
+      "content": "ukraynalı sığınmacların kaybıdır.",
+      "has_external_url": false
+    },
+    {
+      "title": "ukrayna'dan türkiye'ye hiç sığınmacı gelmemesi",
+      "entry_id": "43959118",
+      "author": "ippolit kirillovic",
+      "date": "04.07.2014 20:29",
+      "content": "bazı eziklere kapak olmuştur.",
+      "has_external_url": false
+    },
+    {
+      "title": "ukrayna'dan türkiye'ye hiç sığınmacı gelmemesi",
+      "entry_id": "43959133",
+      "author": "uzaktan algilama",
+      "date": "04.07.2014 20:30",
+      "content": "çok ayıp etmişlerdir.",
+      "has_external_url": false
+    }
+  ]
+}

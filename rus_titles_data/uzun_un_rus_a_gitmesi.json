@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:24:43.741828",
+    "total_entries": 1,
+    "input": "uzun'un rus'a gitmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "uzun'un rus'a gitmesi",
+      "entry_id": "56465816",
+      "author": "azazill",
+      "date": "24.11.2015 11:17",
+      "content": "uzunun putin reis tarafından geri tokatlanmasini uman suserlere rağmen bu ülke natonun önemli bir üyesi ve söz sahibidir .batililaşamasak yada yanlış batililassak dahi asla bir ortadoğu ülkesi olmadık,olmayacağız.\nedit:tsk ya selamlar",
+      "has_external_url": false
+    }
+  ]
+}

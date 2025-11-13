@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:13:58.477217",
+    "total_entries": 3,
+    "input": "19 şubat 2014 ukrayna'da patlayan el bombası",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "19 şubat 2014 ukrayna'da patlayan el bombası",
+      "entry_id": "40544395",
+      "author": "abimiariyorumgorenvarmi",
+      "date": "19.02.2014 12:59",
+      "content": "ukrayna'da değil taylan'da gerçekleşen, +18 içerikli olaydır. video nun aç karna izlenmemesi tavsiye edilir.",
+      "has_external_url": true
+    },
+    {
+      "title": "19 şubat 2014 ukrayna'da patlayan el bombası",
+      "entry_id": "40544419",
+      "author": "massenzuschlagfaktor",
+      "date": "19.02.2014 13:01",
+      "content": "kahramanlık ile niyazilik arasındaki bir saniyelik ince çizgiyi tekrar gözler önüne sermiştir.\n\nbombaya bir saniye önce vurmuş olsa şu an kahraman olabilirdi.",
+      "has_external_url": false
+    },
+    {
+      "title": "19 şubat 2014 ukrayna'da patlayan el bombası",
+      "entry_id": "40544480",
+      "author": "aritmetik islemci",
+      "date": "19.02.2014 13:04",
+      "content": "(bkz: terorist win)",
+      "has_external_url": false
+    }
+  ]
+}

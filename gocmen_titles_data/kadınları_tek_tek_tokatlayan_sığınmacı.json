@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:57:31.843823",
+    "total_entries": 1,
+    "input": "kadınları tek tek tokatlayan sığınmacı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "kadınları tek tek tokatlayan sığınmacı",
+      "entry_id": "161436037",
+      "author": "walking dead",
+      "date": "10.02.2024 23:42",
+      "content": "haber doğru ise bunların neresi “sığınmacı”madem sığınmacı sığındığı ülkede böyle davrananları ilk önce yaptığının cezasını çekmesi için önce hapise sonrasında özgürlüklerini dibine kadar yaşayacağı “çöp kovası” ülkesine geri göndermeyen ispanya adaleti ve devleti adam değildir.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:04:35.863814",
+    "total_entries": 2,
+    "input": "sığınmacıların işlettiği işletmeler",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "sığınmacıların işlettiği işletmeler",
+      "entry_id": "153018915",
+      "author": "napstrike",
+      "date": "30.05.2023 19:14",
+      "content": "listeye gerek yok, mekanın tabelası, içeriden gelen konuşma sesleri, çalan müzik, içeriden gelen yoğun sarımsak kokusu gibi etmenlerden zaten çok rahat anlaşılıyorlar. olur da kendini iyi gizlemiş ise aksandan direk anlayıp kardeş sen nerelisin diye sorun. genelde söylüyorlar suri iseler. çıkın gidin bunu duyunca.",
+      "has_external_url": false
+    },
+    {
+      "title": "sığınmacıların işlettiği işletmeler",
+      "entry_id": "153019839",
+      "author": "engineerdolma",
+      "date": "30.05.2023 19:42",
+      "content": "tobacco shoplar.",
+      "has_external_url": false
+    }
+  ]
+}

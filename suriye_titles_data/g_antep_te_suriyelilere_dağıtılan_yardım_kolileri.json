@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:42:11.968991",
+    "total_entries": 3,
+    "input": "g.antep'te suriyelilere dağıtılan yardım kolileri",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "g.antep'te suriyelilere dağıtılan yardım kolileri",
+      "entry_id": "139650107",
+      "author": "umutherzamanvardir",
+      "date": "06.07.2022 13:07",
+      "content": "al sana bir kaya ki epey su kaldırır cinsten. şimdi yardım etmesen bir dert etsen bir dert. bunlar günü kurtarma cabaları nerden baksan tutarsız nerden baksan iğreti.\n\n(bkz: iki ucu boklu değnek)",
+      "has_external_url": false
+    },
+    {
+      "title": "g.antep'te suriyelilere dağıtılan yardım kolileri",
+      "entry_id": "139650463",
+      "author": "cmrdlny93",
+      "date": "06.07.2022 13:20",
+      "content": "oy gelecek son kapı.",
+      "has_external_url": false
+    },
+    {
+      "title": "g.antep'te suriyelilere dağıtılan yardım kolileri",
+      "entry_id": "139650649",
+      "author": "hacktor",
+      "date": "06.07.2022 13:24",
+      "content": "şüphesiz ki malum parti ilk seçimde en fazla oy'u yine antep'ten alacaktır. oy kullanacak suriyelilerden değil, bizzat antep halkı verecektir oyu.",
+      "has_external_url": false
+    }
+  ]
+}

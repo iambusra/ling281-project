@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:21:47.789031",
+    "total_entries": 2,
+    "input": "göçmenlere çocuk yapmanın yasaklanması gerekliliği",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "göçmenlere çocuk yapmanın yasaklanması gerekliliği",
+      "entry_id": "126708009",
+      "author": "awakeningss",
+      "date": "09.08.2021 12:15",
+      "content": "adam çin örneği vermiş, ha gayret nazi almanya'sına pek bir şey kalmadı..\n\ntanım: insan hakları bağlamında imkansız olan önerme",
+      "has_external_url": false
+    },
+    {
+      "title": "göçmenlere çocuk yapmanın yasaklanması gerekliliği",
+      "entry_id": "126708990",
+      "author": "sargoth",
+      "date": "09.08.2021 12:47",
+      "content": "çocuk yapma yasağı vesaire hikaye kalifiye olanları bırakıp geri kalanını postalamak bir zorunluluktur. bakın bir opsiyon değil bir zorunluluktur.",
+      "has_external_url": false
+    }
+  ]
+}

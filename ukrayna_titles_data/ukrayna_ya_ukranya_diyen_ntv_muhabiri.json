@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:11:02.061828",
+    "total_entries": 2,
+    "input": "ukrayna'ya ukranya diyen ntv muhabiri",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukrayna'ya ukranya diyen ntv muhabiri",
+      "entry_id": "40270819",
+      "author": "ulascan",
+      "date": "07.02.2014 20:46",
+      "content": "bi' saattir \"uçakta korsan\" haberini sabote eden kişidir...",
+      "has_external_url": false
+    },
+    {
+      "title": "ukrayna'ya ukranya diyen ntv muhabiri",
+      "entry_id": "40272361",
+      "author": "bozburun",
+      "date": "07.02.2014 21:59",
+      "content": "kızılmaması gereken muhabir, ukrayna diye ülke mi olur? sanki doğrusu yanlış gibi.",
+      "has_external_url": false
+    }
+  ]
+}

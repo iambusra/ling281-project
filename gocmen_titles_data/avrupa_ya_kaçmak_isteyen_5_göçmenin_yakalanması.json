@@ -1,0 +1,97 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:13:50.902024",
+    "total_entries": 8,
+    "input": "avrupa'ya kaçmak isteyen 5 göçmenin yakalanması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "avrupa'ya kaçmak isteyen 5 göçmenin yakalanması",
+      "entry_id": "167825325",
+      "author": "oyun kac kac",
+      "date": "28.08.2024 13:43",
+      "content": "yorumsuz olarak bırakıyorum. yemiyor çünkü",
+      "referenced_content": [],
+      "has_external_url": true
+    },
+    {
+      "title": "avrupa'ya kaçmak isteyen 5 göçmenin yakalanması",
+      "entry_id": "167825374",
+      "author": "bokunbuhari",
+      "date": "28.08.2024 13:45",
+      "content": "açık ceza evi gibi.\n\ngiriş var, çıkış yok.\ndışardan içeri malzeme sokmak yasak.",
+      "referenced_content": [],
+      "has_external_url": false
+    },
+    {
+      "title": "avrupa'ya kaçmak isteyen 5 göçmenin yakalanması",
+      "entry_id": "167825451",
+      "author": "enaypidi",
+      "date": "28.08.2024 13:48 ~ 13:55",
+      "content": "bir dakika önce benim açtığım başlıkta anlatılan olaydır.\n(bkz: başlık taşıyan)\n(bkz: avrupa'ya kaçmak isterken yakalanan göçmenler)\nedit: sabahın köründe başka biri açmış aynı başlığı ben de elendim\n(bkz: kamyonetin gizli bölmesindeki kaçak göçmenler)",
+      "referenced_content": [],
+      "has_external_url": false
+    },
+    {
+      "title": "avrupa'ya kaçmak isteyen 5 göçmenin yakalanması",
+      "entry_id": "167825500",
+      "author": "fakirfikri",
+      "date": "28.08.2024 13:49",
+      "content": "eyy cemaat-i müslimin. durun yapmayın. dinci-gerici akp'nin aşırı arap dini pompalayarak bu eşitlikçi, adaletli, özgür cennet vatandan (!) nasıl kaçarsınız, tarikat liderlerinin, dinci gericilerin kuran kurslarında çoluk çocuğa tecavüz ettikten sonra,''ahlak elden gidiyor'' ikiyüzlülüğü ile hergün küfr ettiği gavur, gayri müslim ellerin ülkesine. neden, niçin gidersiniz akpliler?",
+      "referenced_content": [],
+      "has_external_url": false
+    },
+    {
+      "title": "avrupa'ya kaçmak isteyen 5 göçmenin yakalanması",
+      "entry_id": "167825517",
+      "author": "sarcastically",
+      "date": "28.08.2024 13:50 ~ 13:51",
+      "content": "aslında sabah açılan başlığın 3. kez açılması olayıdır.\n\n(bkz: #167818980)",
+      "referenced_content": [
+        {
+          "type": "entry",
+          "title": "kamyonetin-gizli-bolmesindeki-kacak-gocmenler",
+          "entry_id": "167818980",
+          "author": "nonamegri",
+          "date": "28.08.2024 09:50",
+          "content": "\" edirne'de kamyonetin kasasında oluşturulan özel bölmede avrupa'ya kaçmak isteyen 5 kaçak göçmen yakalandı.\"\n\nx\n\nnot: ülkeye girişlerinde zorluk çıkarmadınız. kaçmak istiyorlarsa da bırakın bu zavallılar gitsin. belli ki ülkemizde rahat ettiremedik.",
+          "has_external_url": true
+        }
+      ],
+      "referenced_entry_ids": [
+        "167818980"
+      ],
+      "has_external_url": false
+    },
+    {
+      "title": "avrupa'ya kaçmak isteyen 5 göçmenin yakalanması",
+      "entry_id": "167825574",
+      "author": "the battleship",
+      "date": "28.08.2024 13:52",
+      "content": "üzücü görüntüler. videoyu izlerken nefes darelığı çektim vallahi, bildiğin tabutluk işkencesi bu.",
+      "referenced_content": [],
+      "has_external_url": false
+    },
+    {
+      "title": "avrupa'ya kaçmak isteyen 5 göçmenin yakalanması",
+      "entry_id": "167825637",
+      "author": "niko bellic",
+      "date": "28.08.2024 13:55",
+      "content": "kolay mi lan buradan cikmak dedirtmistir:)\n\nkader filminin van'daki tiratini akillara getirmistir''oglum bekir, yolu yok cekeceksin''",
+      "referenced_content": [],
+      "has_external_url": false
+    },
+    {
+      "title": "avrupa'ya kaçmak isteyen 5 göçmenin yakalanması",
+      "entry_id": "167825946",
+      "author": "baskasinin hesabi",
+      "date": "28.08.2024 14:07",
+      "content": "tütün tabakası değil mi o?",
+      "referenced_content": [],
+      "has_external_url": false
+    }
+  ]
+}

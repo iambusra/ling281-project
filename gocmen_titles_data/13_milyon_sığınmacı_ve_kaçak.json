@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-10T23:51:55.876920",
+    "total_entries": 1,
+    "input": "13 milyon sığınmacı ve kaçak",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "13 milyon sığınmacı ve kaçak",
+      "entry_id": "152809344",
+      "author": "imparator julian",
+      "date": "25.05.2023 21:41",
+      "content": "bir ümit özdağ sözü. ne zaman bir açıklama yapsa bu sözü garanti kullanıyor. (bkz: swh)",
+      "has_external_url": false
+    }
+  ]
+}

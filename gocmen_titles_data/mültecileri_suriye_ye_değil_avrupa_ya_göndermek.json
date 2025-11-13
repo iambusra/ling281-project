@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:49:22.834130",
+    "total_entries": 1,
+    "input": "mültecileri suriye'ye değil avrupa'ya göndermek",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "mültecileri suriye'ye değil avrupa'ya göndermek",
+      "entry_id": "149164214",
+      "author": "kelebekcuk",
+      "date": "12.02.2023 23:37",
+      "content": "en mantikli secenektir.\nmultecileri suriye’ye geri gonderme tartismasi en bastan hatali bir bakis acisinin urunuydu. multeciler avrupa’ya gonderilmeli.\nrefah ulkeleri, insan haklari savunuculari, sevgi kelebegi avrupa ulkeleri muthis bir sekilde misafir edebilirler. herseyi en dogru sekilde yaptiklari icin bu isin de altindan muazzam bir sekilde kalkacaklardir.\nsuriyeli kardeslerimiz de bu yolla magdur olmayacaktir.\niktidar’dan da muhalefetten de talebimiz net bir sekilde bu olmali.\nen dogru cözüm budur.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:38:54.015736",
+    "total_entries": 2,
+    "input": "mülteci sporcular takımı'nın 84. olması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "mülteci sporcular takımı'nın 84. olması",
+      "entry_id": "167278207",
+      "author": "yeagodisgood",
+      "date": "12.08.2024 11:18 ~ 14:07",
+      "content": "başlığın tam hali:\nmülteci sporcular takımı’nın paris 2024 olimpiyatlarında 84. olması.\n\nsuri, afgan, kongo vs gibi ülkelerden gelen sporcuların oluşturduğu şampiyonlar ligi ekibini 64. olarak geçmişiz.\n\nama pakistan 1 altın madalya alarak 63. olmuş ve bizi geçmiş o üzücü biraz.\n\nsıralama\n\nmülteci olimpiyat takımı\n\nnot: oyuncular arasında sığındıkları ülkeler içerisinde türkiye yok.\n\nedit: basliga sansur geldi. demek ki multeciler ile alakali bir talimat var. bakalim gorelim.",
+      "has_external_url": true
+    },
+    {
+      "title": "mülteci sporcular takımı'nın 84. olması",
+      "entry_id": "167278787",
+      "author": "north stream",
+      "date": "12.08.2024 11:41",
+      "content": "ise yarayan bir tanesi gelmemiş gelmediği gibi birde bizi begenmiyorlardi. zortt",
+      "has_external_url": false
+    }
+  ]
+}

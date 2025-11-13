@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:55:59.446926",
+    "total_entries": 1,
+    "input": "sığınmacı istilası ve uyuşturucunun yaygınlaşması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "sığınmacı istilası ve uyuşturucunun yaygınlaşması",
+      "entry_id": "169042173",
+      "author": "faytonfayt",
+      "date": "07.10.2024 21:56",
+      "content": "öso eski komutanı ebu hamza yakın zamanda uyuşturucu sevkiyatı yaparken yakalandı.\n\ntürkiye'de uyuşturucu yaşının düşmesi ve sokaklarda yaygınlaşması bir anda olmadı. o yüzden bu ikisi arasında keskin bir bağlantı var.\n\nsığınmacı istilası türkiye'yi sosyal olarak da mahvedecek.",
+      "has_external_url": false
+    }
+  ]
+}

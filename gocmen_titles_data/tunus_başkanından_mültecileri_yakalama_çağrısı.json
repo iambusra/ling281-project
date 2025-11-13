@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:49:00.484709",
+    "total_entries": 1,
+    "input": "tunus başkanından mültecileri yakalama çağrısı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "tunus başkanından mültecileri yakalama çağrısı",
+      "entry_id": "154251233",
+      "author": "eurasia",
+      "date": "06.07.2023 11:04",
+      "content": "tunus başkanı önce birleşmiş milletleri, ülkesinin demografik yapısını değiştirmekle suçladı ardından halkına mültecileri yakalama çağrısı yaptı.\n\nhalk yakaladıklarını polise teslim ediyor.\n\ntweet ve video",
+      "has_external_url": true
+    }
+  ]
+}

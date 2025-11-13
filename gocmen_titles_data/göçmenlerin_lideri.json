@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:26:18.525997",
+    "total_entries": 2,
+    "input": "göçmenlerin lideri",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "göçmenlerin lideri",
+      "entry_id": "126224057",
+      "author": "amyleegod",
+      "date": "28.07.2021 11:48",
+      "content": "(bkz: bilirsin sen onu)\n\n(bkz: evet evet)",
+      "has_external_url": false
+    },
+    {
+      "title": "göçmenlerin lideri",
+      "entry_id": "126224126",
+      "author": "baskabiralem",
+      "date": "28.07.2021 11:50",
+      "content": "“ben bu davanın savcısıyım”. liderleri bellidir.",
+      "has_external_url": false
+    }
+  ]
+}

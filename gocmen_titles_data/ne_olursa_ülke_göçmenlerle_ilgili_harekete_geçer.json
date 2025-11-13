@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:23:39.934716",
+    "total_entries": 1,
+    "input": "ne olursa ülke göçmenlerle ilgili harekete geçer",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ne olursa ülke göçmenlerle ilgili harekete geçer",
+      "entry_id": "126789383",
+      "author": "conversinikaybedenadam",
+      "date": "11.08.2021 13:15",
+      "content": "ırkçı faşist olarak mimlenen bizler günlerdir gelmekte olan tehlikeyi haykırmamıza rağmen, akp seçmeni herşeye olur diyordu..\nkardeş tehlike büyük! ne olursa harekete geçeceksiniz? illa karınıza kızınıza birşey mi olması lazım?",
+      "has_external_url": false
+    }
+  ]
+}

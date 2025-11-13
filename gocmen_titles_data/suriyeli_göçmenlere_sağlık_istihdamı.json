@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:22:40.796301",
+    "total_entries": 1,
+    "input": "suriyeli göçmenlere sağlık istihdamı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeli göçmenlere sağlık istihdamı",
+      "entry_id": "77847626",
+      "author": "mr six inch",
+      "date": "08.06.2018 12:13",
+      "content": "bir devlet hastanesinde evde sağlık hizmetleri biriminin sorumlu hekimiyim. görevimiz hastaneye ulaşımı zor olan hastalara elimizden geldiğince sağlık hizmeti götürmek. bu hafta başında bakanlıktan gelen bir yazıyla suriyeli stajyerlerin birimimize geleceğini öğrendik. ertesi gün stajyer arkadaşlar geldiğinde öğrendik ki bu arkadaşlar ne tıp öğrencisi, ne hemşire, ne sağlık personeli... yoldan geçen mehmet amcadan sağlık bilgisi konusunda hiçbir farkı olmayan bu kişileri hastaların evine götürüp uygulamalı eğitim vermemiz bekleniyor. gelen arkadaşların biri meslek lisesi mezunu, biri mühendis, birinin de 2 3 yıllık bir esnaflık geçmişi var.\nmuayene sırasında, pansuman yaparken, sonda değiştirirken ister istemez hastaların çıplaklığı söz konusu olabiliyor. şimdi sorarım;\nhayatı boyunca 1 aylık teorik eğitim dışında hastayla uzaktan yakından bir alakası olmayan bu kişileri ben hangi sıfatla hastalarımızın mahremiyetine ortak edeyim?\nmadem bu şekilde bir personel açığı söz konusu, evde oturan, alakasız işlerde çalışmak zorunda kalan bir sürü sağlık eğitimi almış vatandaşlarımız varken, bunlara tercüman eşliğinde kadro açmak yerine suriyelileri meslek sahibi yapma çabası niye?\nmadem 1 ay teorik, 1 ay uygulamalı ücretsiz eğitimle bu hizmeti vermek mümkün ülkedeki işsiz nüfusa istihdam sağlamak yerine önceliği suriyelilere tanımak neden?\nkendi vatandaşınıza karşı uyguladığınız bu çifte standarda artık son verin.",
+      "has_external_url": false
+    }
+  ]
+}

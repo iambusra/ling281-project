@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:17:55.072003",
+    "total_entries": 2,
+    "input": "göçmenler kalsın mı gitsin mi referandumu yapalım",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "göçmenler kalsın mı gitsin mi referandumu yapalım",
+      "entry_id": "126370949",
+      "author": "non mi avete fatto niente",
+      "date": "01.08.2021 00:01",
+      "content": "bolu belediye başkanı tanju özcan'ın cumhuriyet gazetesine verdiği röportajında yaptığı öneri.\n\nşu şekildedir:\n\n\"gerekirse ‘göçmenler kalsın mı gitsin mi’ diye halka soralım. referandum sandığı koyalım ve halk karar versin. ben cevabı biliyorum ama farklı cevap bekleyenlerin yürekleri yetiyorsa, sandığı koysun”\n\nröportajın tamamı",
+      "has_external_url": true
+    },
+    {
+      "title": "göçmenler kalsın mı gitsin mi referandumu yapalım",
+      "entry_id": "126371433",
+      "author": "byamazon",
+      "date": "01.08.2021 00:10",
+      "content": "referandum ile ülkenin kaderi bu mal halka bırakılamaz. direkt ülkelerine gönderilsinler",
+      "has_external_url": false
+    }
+  ]
+}

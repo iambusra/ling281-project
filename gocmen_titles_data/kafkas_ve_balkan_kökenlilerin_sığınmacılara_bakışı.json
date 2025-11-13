@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:03:24.080594",
+    "total_entries": 1,
+    "input": "kafkas ve balkan kökenlilerin sığınmacılara bakışı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "kafkas ve balkan kökenlilerin sığınmacılara bakışı",
+      "entry_id": "44078297",
+      "author": "somek kafali",
+      "date": "09.07.2014 14:08",
+      "content": "türklerden, kürtlerden farklıdır.",
+      "has_external_url": false
+    }
+  ]
+}

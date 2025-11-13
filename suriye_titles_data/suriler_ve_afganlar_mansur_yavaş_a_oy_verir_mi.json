@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T14:54:28.052434",
+    "total_entries": 1,
+    "input": "suriler ve afganlar mansur yavaş'a oy verir mi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriler ve afganlar mansur yavaş'a oy verir mi",
+      "entry_id": "136076243",
+      "author": "jose raul capablanca",
+      "date": "11.04.2022 16:14",
+      "content": "bir sorunsal.\n\nonlar da oy versin diye ben isid'den, hizbullah'tan ve ladin ailesinden icazeti alinmis birinin millet ittifakinin adayi olmasi taraftariyim.",
+      "has_external_url": false
+    }
+  ]
+}

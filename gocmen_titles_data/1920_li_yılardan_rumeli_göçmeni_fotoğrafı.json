@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:10:50.910025",
+    "total_entries": 2,
+    "input": "1920'li yılardan rumeli göçmeni fotoğrafı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "1920'li yılardan rumeli göçmeni fotoğrafı",
+      "entry_id": "87273599",
+      "author": "ya ben yararsam bu dunyayi",
+      "date": "02.03.2019 09:23 ~ 09:24",
+      "content": "reddit'de bazen paylaşılıyordu ben o fotoğraflara bakarken duygulanıyordum.\nyaklaşık 100 yıllık bir göçmen fotoğrafıdır. aileme dedemden kalan belki de tek şey sizinle de paylaşmak istedim.\n\niskenderzade efendi.\n\nhttps://eksiup.com/34506c9f1198",
+      "has_external_url": true
+    },
+    {
+      "title": "1920'li yılardan rumeli göçmeni fotoğrafı",
+      "entry_id": "87273769",
+      "author": "0game",
+      "date": "02.03.2019 09:32 ~ 10:00",
+      "content": "(bkz: bak bu da dedem hüsnü)\n\nhayırlı dedeler.\n\nedit: heehh, duyargası kasılmış lavuk da geldi",
+      "has_external_url": false
+    }
+  ]
+}

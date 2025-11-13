@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:23:38.279437",
+    "total_entries": 3,
+    "input": "rte'nin ukraynalılara sınırları açması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rte'nin ukraynalılara sınırları açması",
+      "entry_id": "40673810",
+      "author": "d k a",
+      "date": "24.02.2014 21:46 ~ 21:51",
+      "content": "keskin nişancılar tarafından vurulan, putin özentisi bir tip tarafından ezilen ukraynalılara, türkiye'nin vermesi gereken aleni destek. bakın akp'ye karşı muhalif duruşum böyle bir gelişme sonrası sempatiye dönüşebilir.\n\n(bkz: orayı yıkarlar)",
+      "has_external_url": false
+    },
+    {
+      "title": "rte'nin ukraynalılara sınırları açması",
+      "entry_id": "40676323",
+      "author": "tinsmith",
+      "date": "24.02.2014 22:54",
+      "content": "3+1 evimin tüm kapıları açık kardeşlerimize..",
+      "has_external_url": false
+    },
+    {
+      "title": "rte'nin ukraynalılara sınırları açması",
+      "entry_id": "40676616",
+      "author": "boyoz gevrek klorak asfalya",
+      "date": "24.02.2014 23:01",
+      "content": "işte gündemi gerçekten değiştirecek hamle",
+      "has_external_url": false
+    }
+  ]
+}

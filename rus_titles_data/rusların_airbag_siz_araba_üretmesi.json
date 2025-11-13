@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:34:45.615436",
+    "total_entries": 1,
+    "input": "rusların airbag'siz araba üretmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rusların airbag'siz araba üretmesi",
+      "entry_id": "138978271",
+      "author": "henkan",
+      "date": "20.06.2022 01:09",
+      "content": "rusya devletine ait avtovaz, yaptırımlardan ötürü airbag olmadan araç üretmesi. lada marka araçları da aynı fabrika üretiyormuş.\n\nhttps://www.businessinsider.com/…bags-report-2022-6",
+      "has_external_url": true
+    }
+  ]
+}

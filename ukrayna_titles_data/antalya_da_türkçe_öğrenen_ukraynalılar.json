@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:22:50.258994",
+    "total_entries": 4,
+    "input": "antalya'da türkçe öğrenen ukraynalılar",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "antalya'da türkçe öğrenen ukraynalılar",
+      "entry_id": "137320699",
+      "author": "cameron poe",
+      "date": "11.05.2022 18:34 ~ 18:36",
+      "content": "antalya' da yaşayan biri olarak kiralık ve uçuk kaçık fiyatlı olmayan ev bulunamaz hale geldi... bundan da bahsetsek.",
+      "has_external_url": false
+    },
+    {
+      "title": "antalya'da türkçe öğrenen ukraynalılar",
+      "entry_id": "137320918",
+      "author": "aragezen",
+      "date": "11.05.2022 18:41",
+      "content": "mahalle orman sahil tmeizlerler türkçe öğrenirler vs vs.\n\nbir de şu ortadoğulu tiplere bak.\n\nbir de derler ki siz adam kayırıyorsunzu aynısını suriyeliler ypasa tepkiniz aynı olmaz.\n\ne evet olmaz.",
+      "has_external_url": false
+    },
+    {
+      "title": "antalya'da türkçe öğrenen ukraynalılar",
+      "entry_id": "137321230",
+      "author": "eurasia",
+      "date": "11.05.2022 18:51 ~ 18:53",
+      "content": "işte medeniyet ve geldikleri ülkeye uyum sağlamak budur. ülke gelenlerin sadece medeni insanlar olmasını istiyoruz.",
+      "has_external_url": false
+    },
+    {
+      "title": "antalya'da türkçe öğrenen ukraynalılar",
+      "entry_id": "137321307",
+      "author": "inadiminat",
+      "date": "11.05.2022 18:54",
+      "content": "rus ve ukrayna'lılar ile suriyeli,afgan ve pakileri bir tutmayın. yıllardır antalya'da yaşayan bu insanlardan zarar görmedik. çocukları ile çocuklarımız aynı okullara gidiyorlar ve uyum sağlamak için ellerinden geleni yapan zeki ve çalışkan insanlar. savaş bitince çogu zaten ülkesine dönecek . ötekiler gibi ev sahibini evinden etmeye gelmedi bu insanlar.",
+      "has_external_url": false
+    }
+  ]
+}

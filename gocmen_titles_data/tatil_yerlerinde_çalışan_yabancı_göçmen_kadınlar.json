@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:07:36.091001",
+    "total_entries": 2,
+    "input": "tatil yerlerinde çalışan yabancı göçmen kadınlar",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "tatil yerlerinde çalışan yabancı göçmen kadınlar",
+      "entry_id": "165695560",
+      "author": "regalianus",
+      "date": "25.06.2024 11:11",
+      "content": "genelde otellerde çalışırlar, maaşları asgari ücret yada altıdır, çalışma izinleri yoktur.",
+      "has_external_url": false
+    },
+    {
+      "title": "tatil yerlerinde çalışan yabancı göçmen kadınlar",
+      "entry_id": "165695758",
+      "author": "sissu",
+      "date": "25.06.2024 11:19",
+      "content": "şuan bulunduğum oteldeki personelin (bkz: voyage sorgun) sanırım yarısı veya daha fazlasının içinde bulunduğu grup. oteldeki müşteri kitlesi rus olduğu için personeli de eski sovyet ülkelerinden getirmişler gördüğüm kadarıyla.\n\nşaşırtıcı olanı hepsi türkçe de konuşabiliyor gayet iyi şekilde ve tek oteldeki 150-200 personelden bahsediyorum.\n\nkurumsal bir otelin personelini kaçak çalıştıracağını tahmin etmiyorum ancak taşeron şirket vb kullanarak ara çözümler üretiyor olabilirler.",
+      "has_external_url": false
+    }
+  ]
+}

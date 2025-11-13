@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:11:11.730893",
+    "total_entries": 4,
+    "input": "rusça öğrenmek için ukrayna'ya giden mal",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rusça öğrenmek için ukrayna'ya giden mal",
+      "entry_id": "28721210",
+      "author": "xfox",
+      "date": "26.05.2012 21:59 ~ 04.12.2013 17:29",
+      "content": "biz burda entry yazarken ukrayna gecelerinde \"ulan ben burada coşuyorum millet evinde entry giriyor\" diye düşünmeyecek maldır. umrunda olmayız sanıyorum.\n\nbaşlık benim değildi. sonradan benim olmuş. keşke olmasaymış ama olmuş.",
+      "has_external_url": false
+    },
+    {
+      "title": "rusça öğrenmek için ukrayna'ya giden mal",
+      "entry_id": "28721371",
+      "author": "rhan",
+      "date": "26.05.2012 22:13",
+      "content": "dil dile değmeden dil öğrenilmez felsefesini benimsemiştir.",
+      "has_external_url": false
+    },
+    {
+      "title": "rusça öğrenmek için ukrayna'ya giden mal",
+      "entry_id": "28721431",
+      "author": "gzg",
+      "date": "26.05.2012 22:17",
+      "content": "niyeti bellidir.",
+      "has_external_url": false
+    },
+    {
+      "title": "rusça öğrenmek için ukrayna'ya giden mal",
+      "entry_id": "28722741",
+      "author": "xfox",
+      "date": "26.05.2012 23:16",
+      "content": "fransız öpücüğü öğrenmek için iran a giden malla kıyaslandığında zeka küpü sayılır.",
+      "has_external_url": false
+    }
+  ]
+}

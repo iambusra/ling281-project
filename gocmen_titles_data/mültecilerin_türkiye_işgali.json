@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:55:08.358790",
+    "total_entries": 1,
+    "input": "mültecilerin türkiye işgali",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "mültecilerin türkiye işgali",
+      "entry_id": "142998185",
+      "author": "feanorr",
+      "date": "22.09.2022 10:48",
+      "content": "ülkesinde bir olay olsa soluğu türkiye'de alıyorlar. suriyelisi afganı pakistanlısı derken önce ukraynalılar geldi şimdi de ruslar geliyor. başka bir ülke mi yok amk. siktir olup gidin bu ülkeden. bunları göndermeyen bu ülkenin iyiliğini düşünmüyordur. şu an türkler ev bulamaz hale geldiler. yakında biz kendi ülkemizde mülteci olacağız bu gidişle.",
+      "has_external_url": false
+    }
+  ]
+}

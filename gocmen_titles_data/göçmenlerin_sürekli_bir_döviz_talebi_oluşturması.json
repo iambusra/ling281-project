@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:26:21.832704",
+    "total_entries": 1,
+    "input": "göçmenlerin sürekli bir döviz talebi oluşturması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "göçmenlerin sürekli bir döviz talebi oluşturması",
+      "entry_id": "125988252",
+      "author": "obispo",
+      "date": "22.07.2021 10:03",
+      "content": "göçmen sorununda kimsenin değinmediği komplikasyon.\n\nbildiğiniz üzere türkiye'de yasadışı ya da kayıtlı çalışan afgan, türkmen, özbek gibi insanlar iç piyasada çok az harcama yapar. bu insanlar minimum şartlarda yaşayarak sürekli ailelerine çok çeşitli yollarla para gönderirler. bu parayı da hemen her zaman dolar cinsinde gönderirler.\n\nyani türkiye'de çalışan milyonlarca göçmen, aylıklarını aldıkları anda döviz bürolarından dolara çevirirler. bu da yaşanan ekonomik iklim ve konjonktürden bağımsız olarak sürekli bir dolar talebi oluşturur.\n\noysa aynı işi bir türk yapıyor olsaydı, aldığı tl cinsinden maaşı yine iç piyasada harcayacaktı.",
+      "has_external_url": false
+    }
+  ]
+}

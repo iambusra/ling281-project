@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:13:09.042319",
+    "total_entries": 2,
+    "input": "evinde şarap yapan balkan göçmeni müslüman",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "evinde şarap yapan balkan göçmeni müslüman",
+      "entry_id": "29435947",
+      "author": "sam whiskey",
+      "date": "19.07.2012 16:46",
+      "content": "yaptığı şarabı sevdikleriyle paylaşmaktan kaçınmazlar\n\n--- spoiler ---\n\ngenelde yengeç burcu olurlar\n\n--- spoiler ---",
+      "has_external_url": false
+    },
+    {
+      "title": "evinde şarap yapan balkan göçmeni müslüman",
+      "entry_id": "29435973",
+      "author": "yalnis",
+      "date": "19.07.2012 16:47",
+      "content": "türkiye bugün hala yozgat, kırşehir değilse, bu ve bunun gibiler sayesindedir.\n\n(bkz: türkiye'nin tutucu bir iç anadolu kentine dönmesi)",
+      "has_external_url": false
+    }
+  ]
+}

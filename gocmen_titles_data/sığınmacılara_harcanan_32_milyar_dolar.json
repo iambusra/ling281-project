@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:03:05.451964",
+    "total_entries": 1,
+    "input": "sığınmacılara harcanan 32 milyar dolar",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "sığınmacılara harcanan 32 milyar dolar",
+      "entry_id": "79634815",
+      "author": "launcher",
+      "date": "27.07.2018 19:10",
+      "content": "vay arkadaş bi ben merak ediyorum demek..",
+      "has_external_url": false
+    }
+  ]
+}

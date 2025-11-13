@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:26:45.039873",
+    "total_entries": 1,
+    "input": "ruslar berlin'e girmeden etrafı toplatan general",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ruslar berlin'e girmeden etrafı toplatan general",
+      "entry_id": "145375157",
+      "author": "ozigzagor",
+      "date": "21.11.2022 13:51",
+      "content": "gelen askerlere ayıp olmaz.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:19:58.042374",
+    "total_entries": 1,
+    "input": "kosova göçmenleri",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "kosova göçmenleri",
+      "entry_id": "117983665",
+      "author": "drejtor",
+      "date": "09.01.2021 05:33 ~ 05:34",
+      "content": "1930 yılında prizren'den göç etmiş bir ailenin evladı olarak içinde bulunduğum hede.\n\nedit: (bkz: arnavut)",
+      "has_external_url": false
+    }
+  ]
+}

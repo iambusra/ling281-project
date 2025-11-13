@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:16:55.862086",
+    "total_entries": 1,
+    "input": "kaçak göçmenler isimlerini değiştiriyor iddiası",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "kaçak göçmenler isimlerini değiştiriyor iddiası",
+      "entry_id": "141696695",
+      "author": "devil trigger dante",
+      "date": "23.08.2022 17:29",
+      "content": "e devlette isim değişikliği hakkının, kaçaklara verilen milyonlarca tc vatandaşlığı göze batmasın da isimlerini türkçe yapabilsinler diye çıkartıldığı iddia ediliyor.\n\nkaynak",
+      "has_external_url": true
+    }
+  ]
+}

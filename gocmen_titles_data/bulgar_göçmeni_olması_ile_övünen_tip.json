@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:10:57.915987",
+    "total_entries": 3,
+    "input": "bulgar göçmeni olması ile övünen tip",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "bulgar göçmeni olması ile övünen tip",
+      "entry_id": "82524123",
+      "author": "jburak",
+      "date": "21.10.2018 14:42",
+      "content": "bu tiplerin asıl övündükleri nokta türkiye dışından olmak, farklı olmak. kaçırdıkları şey ise bizim buna götümüzle gülmemiz. ulan o ülkenin neresiyle övünüyorsun.",
+      "has_external_url": false
+    },
+    {
+      "title": "bulgar göçmeni olması ile övünen tip",
+      "entry_id": "82524889",
+      "author": "filisko",
+      "date": "21.10.2018 15:07",
+      "content": "bir gocmen kizi olarak basta (bkz: cikolata cikita) olmak uzere girnatayi duydugum an icine girdigim grup. girnatanin sesini duydugum an icimdeki milli duygularin kabarmasiyla beraber gelen oynama istegini asla ve kat'a durdurabilmem mumkun olmuyor.",
+      "has_external_url": false
+    },
+    {
+      "title": "bulgar göçmeni olması ile övünen tip",
+      "entry_id": "82524960",
+      "author": "sonsuzlugun ogretmeni",
+      "date": "21.10.2018 15:10",
+      "content": "öveceği başka bir şeyi yoktur.",
+      "has_external_url": false
+    }
+  ]
+}

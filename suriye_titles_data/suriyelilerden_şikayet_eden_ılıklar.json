@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:57:55.137365",
+    "total_entries": 2,
+    "input": "suriyelilerden şikayet eden ılıklar",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelilerden şikayet eden ılıklar",
+      "entry_id": "90926229",
+      "author": "bam telindeki damla",
+      "date": "05.06.2019 22:19",
+      "content": "acıyarak baktığım tiplerdir. yok mersin’i suriyeliler basmış yok caddebostan sahilinde suriyelilerden geçilmiyormuş. lan bir tane adanalı şikayet ediyor mu menderes’te suriyeliler var diye? yok! niye? adamın götünü keserler de ondan. adam gibi durana lafımız yok ama göt baş oynar, iş gettolaşmaya giderse hak edene hakkı verilir.\n\nsen ılık ılık takılırsan suriyeli de zapteder yaşam alanını penguen de!",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyelilerden şikayet eden ılıklar",
+      "entry_id": "90926739",
+      "author": "kayayi delemeyen incir",
+      "date": "05.06.2019 22:32",
+      "content": "şikayet edilmesi gerekenin suriyeliler değil de hükümet ve hükümet politikaları olduğunun farkına varamamış insan tipidir.",
+      "has_external_url": false
+    }
+  ]
+}

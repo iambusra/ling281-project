@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:51:43.978958",
+    "total_entries": 2,
+    "input": "mültecilere laf edip akp kazansa kaçacak köpek",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "mültecilere laf edip akp kazansa kaçacak köpek",
+      "entry_id": "126774253",
+      "author": "godofdeath",
+      "date": "11.08.2021 00:44 ~ 01:14",
+      "content": "daha bugün sokaktaydım türkçe konuşan insanlara hasret olduk arapça tabelalı dükkanlar hangi dili konuştuğunu bilmediğim insanlar üstüne köpek denilerek hakarete uğruyoruz\n\nedit:başlığı açan yazar silmiş entrysini",
+      "has_external_url": false
+    },
+    {
+      "title": "mültecilere laf edip akp kazansa kaçacak köpek",
+      "entry_id": "126774951",
+      "author": "primus",
+      "date": "11.08.2021 01:00",
+      "content": "sevgili kardeşim bu ülkede eğer akp bir seçim daha kazanırsa, kazanabiliyorsa (ki olmayacak şey değil) bence sen de kaç. hiç durma.",
+      "has_external_url": false
+    }
+  ]
+}

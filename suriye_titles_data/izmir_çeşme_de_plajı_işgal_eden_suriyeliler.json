@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:43:12.271316",
+    "total_entries": 1,
+    "input": "izmir çeşme'de plajı işgal eden suriyeliler",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "izmir çeşme'de plajı işgal eden suriyeliler",
+      "entry_id": "156056904",
+      "author": "bir acayip",
+      "date": "26.08.2023 11:50",
+      "content": "\"izmir-çeşme'de plajı ev gibi kullanan suriyeli ailenin, plajı kullanmak isteyenlere de engel olduğu iddia edildi.\nihbar üzerine olay yerine gelen jandarma aileyi\nplajdan çıkardı.\n\naile bu kez de jandarmayı şiddet kullanmakla suçladı ancak çevredekiler iddiayı yalanladı.\" açıklamasıyla paylaşılmış, can yakan video .\n\nyazılanlar doğruysa buna çölden gelip bağdakini kovmak denir. sahillerin böyle işgali gerici insanları ne kadar rahatsız eder bilemem. fakat bu gidişe müdahale edilmezse mantar gibi üreyip, kapınıza kadar gelecekler; bunun zamanı çoktan geldi, geçiyor bile. seven ve destekleyen varsa evine alsın lütfen, sahip çıkmayı da unutmasın.",
+      "has_external_url": true
+    }
+  ]
+}

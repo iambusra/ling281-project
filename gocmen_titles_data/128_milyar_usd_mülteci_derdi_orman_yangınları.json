@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-10T23:58:48.573362",
+    "total_entries": 1,
+    "input": "128 milyar usd + mülteci derdi + orman yangınları",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "128 milyar usd + mülteci derdi + orman yangınları",
+      "entry_id": "126381747",
+      "author": "volkanikdiyorki",
+      "date": "01.08.2021 10:06",
+      "content": "= türkiye",
+      "has_external_url": false
+    }
+  ]
+}

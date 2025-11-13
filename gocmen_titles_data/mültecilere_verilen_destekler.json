@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:50:59.727116",
+    "total_entries": 1,
+    "input": "mültecilere verilen destekler",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "mültecilere verilen destekler",
+      "entry_id": "149132172",
+      "author": "kutsaltas",
+      "date": "12.02.2023 13:30",
+      "content": "mültecilere yapılan yardımların artık tamamıyla kendi halkımız (depremzedeler) için kullanılmasını gündeme getiren şahan gökbakar yorumuna haklılık ile katılıyorum.\n\nhttps://www.instagram.com/…9if/?igshid=ymmymta2m2y=\n\nbunun yanı sıra bir çok videoda görüldüğü üzere mülteciler kendi çadırlarını depremzedelere verildiği için tepki göstermiş kesinlikle bu mültecilerin tepkisine katılıyorum. depremzedeler kesinlikle daha konforlu alanlarda ve imkan dahilinde ivedi şekilde başka şehirlere aktarılması gerektiğini düşünüyorum. verilen desteklerin kesilmesinin zor olacağını düşünüyorum bu yüzden minimum destek verip, mülteci nüfusunu olduğunca aza indirgenmesi gerektiğini düşünüyorum.",
+      "has_external_url": true
+    }
+  ]
+}

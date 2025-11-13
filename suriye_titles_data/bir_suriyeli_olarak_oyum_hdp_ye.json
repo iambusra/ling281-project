@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:40:26.311210",
+    "total_entries": 2,
+    "input": "bir suriyeli olarak oyum hdp'ye",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "bir suriyeli olarak oyum hdp'ye",
+      "entry_id": "61735890",
+      "author": "syzer",
+      "date": "15.07.2016 13:50",
+      "content": "halkların kardeşliği için ilk seçimde yapacağım eylem.",
+      "has_external_url": false
+    },
+    {
+      "title": "bir suriyeli olarak oyum hdp'ye",
+      "entry_id": "61737211",
+      "author": "ziyneddin zidane",
+      "date": "15.07.2016 15:01",
+      "content": "vay amk, suriyelileri bile yazar yapmışlar biz hala çaylağız. sözlüğü tayyip mi yönetiyor lan?",
+      "has_external_url": false
+    }
+  ]
+}

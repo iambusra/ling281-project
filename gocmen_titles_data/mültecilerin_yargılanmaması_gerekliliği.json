@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:55:26.477846",
+    "total_entries": 1,
+    "input": "mültecilerin yargılanmaması gerekliliği",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "mültecilerin yargılanmaması gerekliliği",
+      "entry_id": "139239414",
+      "author": "ucarkerken",
+      "date": "26.06.2022 14:05",
+      "content": "dostum o diplomayı sana boşuna vermişler üzgünüm. boşuna yer kaplamışsın. keşke hukuk okumadan kendin içinde bu tarz şeyleri düşünseydin ve o şekilde kalsaydın.",
+      "has_external_url": false
+    }
+  ]
+}

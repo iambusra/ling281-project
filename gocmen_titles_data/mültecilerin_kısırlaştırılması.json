@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:54:31.685439",
+    "total_entries": 2,
+    "input": "mültecilerin kısırlaştırılması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "mültecilerin kısırlaştırılması",
+      "entry_id": "68370907",
+      "author": "eksimtrack",
+      "date": "24.05.2017 09:13 ~ 09:15",
+      "content": "savaş alanında bile kadınların hamile olduğunu görünce insanın aklından ilk geçen eylem. tabi insanlık dışımıdır tartışılır ama arkadaş bilinçsiz insanların hayvandan ne farkı var? o çocuğu nasıl bir dünyaya getiriyorsun bir düşün be kadın/adam!",
+      "has_external_url": false
+    },
+    {
+      "title": "mültecilerin kısırlaştırılması",
+      "entry_id": "154954951",
+      "author": "eksimtrack",
+      "date": "26.07.2023 06:37",
+      "content": "(bkz: mültecilerin neden kısırlaştırılmaması)\n(bkz: danimarkalılarla pakistanlılar arasındaki tartışma)",
+      "has_external_url": false
+    }
+  ]
+}

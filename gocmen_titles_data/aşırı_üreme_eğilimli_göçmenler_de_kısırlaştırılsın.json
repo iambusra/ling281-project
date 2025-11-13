@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:15:58.986509",
+    "total_entries": 1,
+    "input": "aşırı üreme eğilimli göçmenler de kısırlaştırılsın",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "aşırı üreme eğilimli göçmenler de kısırlaştırılsın",
+      "entry_id": "164701849",
+      "author": "optimiser",
+      "date": "24.05.2024 10:00",
+      "content": "ülkenin demografik yapısının bozulmaması için bu konuda eğitim verilmeli",
+      "has_external_url": false
+    }
+  ]
+}

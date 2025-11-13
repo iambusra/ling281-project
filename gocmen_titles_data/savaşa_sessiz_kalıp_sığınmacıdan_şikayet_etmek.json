@@ -1,0 +1,31 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:58:36.200046",
+    "total_entries": 2,
+    "input": "savaşa sessiz kalıp sığınmacıdan şikayet etmek",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "savaşa sessiz kalıp sığınmacıdan şikayet etmek",
+      "entry_id": "120433020",
+      "author": "nomorewonderwall",
+      "date": "07.03.2021 15:29",
+      "content": "(#118690055) ingiltere’de yaşayan, 3 5 ay türkiye’de yaşam mücadelesi verse taksim’de bunları sikeceksin sikecek diye gezmesi muhtemel yazar beyanı.",
+      "referenced_entry_ids": [
+        "118690055"
+      ],
+      "has_external_url": false
+    },
+    {
+      "title": "savaşa sessiz kalıp sığınmacıdan şikayet etmek",
+      "entry_id": "120433307",
+      "author": "amariusqueadmare",
+      "date": "07.03.2021 15:38 ~ 15:46",
+      "content": "kim savaşa sessiz kalmış, ne yapalım suriyeliler kaçarken biz mi gidip savaşalım onların yerine veya onların hakkını biz mi arayalım onlar burada sahilde nargile höpürdetip deveyle denize girerken. hatırladımda, zaten hali hazırda onların yerine türk askeri gidip savaştı/savaşıyor.",
+      "has_external_url": false
+    }
+  ]
+}

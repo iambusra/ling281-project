@@ -1,0 +1,60 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:59:08.400181",
+    "total_entries": 6,
+    "input": "türkiye'de 338.5 milyon sığınmacının yaşaması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türkiye'de 338.5 milyon sığınmacının yaşaması",
+      "entry_id": "136297857",
+      "author": "saykodeli",
+      "date": "17.04.2022 00:11",
+      "content": "küçük ottoman hayali kuran fantezi dünyası'nın labunyalarının sığınmacı mevzusunu taşşağa vurmaya çalışmasıdır. ulan bir insan sınırlarının açık kalmasını, bütün ortadoğu kaçkınlarının ülkesine dolmasını nasıl savunabilir? vardır elbet kendince fonlu bir sebebi.\n\nbu arkadaşları yakında bulgaristan'a giderken en önde göreceksiniz, yine kalan bizler olacağız. tarih tekerrürden ibarettir.",
+      "has_external_url": false
+    },
+    {
+      "title": "türkiye'de 338.5 milyon sığınmacının yaşaması",
+      "entry_id": "136298528",
+      "author": "yorganadam",
+      "date": "17.04.2022 00:23",
+      "content": "(bkz: aç da götüne gül)",
+      "has_external_url": false
+    },
+    {
+      "title": "türkiye'de 338.5 milyon sığınmacının yaşaması",
+      "entry_id": "136302608",
+      "author": "afsakabal",
+      "date": "17.04.2022 01:52",
+      "content": "adam smith konuşmadan ayrıldı.",
+      "has_external_url": false
+    },
+    {
+      "title": "türkiye'de 338.5 milyon sığınmacının yaşaması",
+      "entry_id": "136302721",
+      "author": "randyrhoads 90",
+      "date": "17.04.2022 01:54",
+      "content": "takibe aldığım başlık.\n\nbu sığınmacı olayı yarın öbür gün akp’yi devirdiğinde, burada makara yapma sırası bana geçecek.",
+      "has_external_url": false
+    },
+    {
+      "title": "türkiye'de 338.5 milyon sığınmacının yaşaması",
+      "entry_id": "136302838",
+      "author": "skybreak",
+      "date": "17.04.2022 01:58",
+      "content": "aklinca asagidaki baslikla dalga gecen bir adet serefsizin hezayani.\n\n(bkz: türkiye'de 26 milyon sığınmacının yaşaması)",
+      "has_external_url": false
+    },
+    {
+      "title": "türkiye'de 338.5 milyon sığınmacının yaşaması",
+      "entry_id": "136303041",
+      "author": "nutella kavanozundaki findik",
+      "date": "17.04.2022 02:02 ~ 02:03",
+      "content": "yazar eğlendi mi merak ettiğim başlık. bazı konularda ciddi olmak gerektiğini düşünüyorum. hayır eğer böyle bir konuda gerçekten bir espiri yapmak istiyorsan ya zekice ya mantıklı ya da komik olmalı. neyse..\n\nihracat verilerini baz alıp ilkokul matematiği hesaplanmayacak rakamın yer aldığı başlıktır.",
+      "has_external_url": false
+    }
+  ]
+}

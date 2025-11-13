@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:42:09.179255",
+    "total_entries": 4,
+    "input": "dünyada en fazla mülteciye ev sahipliği yapan ülke",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "dünyada en fazla mülteciye ev sahipliği yapan ülke",
+      "entry_id": "126823184",
+      "author": "nyx ulric",
+      "date": "12.08.2021 09:34",
+      "content": "(bkz: avrupa'nın huzurunu mültecileri tutarak sağlıyoruz)",
+      "has_external_url": false
+    },
+    {
+      "title": "dünyada en fazla mülteciye ev sahipliği yapan ülke",
+      "entry_id": "126823290",
+      "author": "tlgckr",
+      "date": "12.08.2021 09:39",
+      "content": "avrupa kalesinin hendeği olmaya layık görülen canım ülkem",
+      "has_external_url": false
+    },
+    {
+      "title": "dünyada en fazla mülteciye ev sahipliği yapan ülke",
+      "entry_id": "151429000",
+      "author": "nyx ulric",
+      "date": "19.04.2023 10:07",
+      "content": "2022 ve 2023'te birinciliği kimseye kaptırmadığımız büyük başarı.\n\n(bkz: suriyelilere 40 milyar dolar harcadık)\n\n(bkz: bir 40 milyar dolar daha harcarız)",
+      "has_external_url": false
+    },
+    {
+      "title": "dünyada en fazla mülteciye ev sahipliği yapan ülke",
+      "entry_id": "151429115",
+      "author": "kdbcvs",
+      "date": "19.04.2023 10:12",
+      "content": "(bkz: türkiye)",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:06:18.036857",
+    "total_entries": 1,
+    "input": "türkiye'de türk olmak vs avrupa'da göçmen olmak",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türkiye'de türk olmak vs avrupa'da göçmen olmak",
+      "entry_id": "174955015",
+      "author": "magnusmaximus",
+      "date": "30.04.2025 22:56 ~ 22:58",
+      "content": "şu aralar aklımı kurcalayan versus. özellike son günlerde iktidar tarafından oluşturulan kast sistemi, ekonomi ve sosyal çürüme nedeniyle iyiden ülkede hayat zorlaştı. o yüzden ne yapmalı diye düşünüyordum ve sonunda ikilemde kaldım. gitmek mi daha zor, kalmak mı bilemedim.\n\ntürkiye'de türk olursun, kendi memleketinde yabancı muamelesi görürsün. hak ararsın \"vatan haini\", eleştirirsin \"zaten sen bu ülkeyi sevmiyorsun\" derler. yıllarca vergi verirsin, sistem sana ancak seçimden seçime “bir zahmet oy ver” diye hatırlar. sonra yine unutulur, yine itilirsin kakılırsın.\n\navrupa’da göçmen olursun, \"sen buraya entegre olamadın\" derler. bir yandan da ucuz iş gücünle ekonomiyi çevirmeni beklerler. kültürüne sahip çıkarsan \"çok içe kapalı\", sahip çıkmazsan \"kendi kimliğini reddetti\" olursun.\n\nyani türkiye’de doğup büyürken bile \"fazla türk\" olursun, avrupa’da yaşarken \"yeterince batılı\" olamazsın.\n\nsanki iki uçta da ortak payda: dışlanmak. sadece alt yazı değişiyor. hangisi daha zor bilemedim.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:19:53.649017",
+    "total_entries": 1,
+    "input": "almanya'daki kaçak göçmenleri ihbar etmek",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "almanya'daki kaçak göçmenleri ihbar etmek",
+      "entry_id": "125539324",
+      "author": "almanyayibegenmeyenalmanci",
+      "date": "09.07.2021 17:23",
+      "content": "yurtdışında yaşayan türklerin büyük bir kısmı diğer türklerden nefret ettikleri için zaten yurtdışına kaçmış durumdadır. türkiye'de ikamet etmeyen çifte vatandaşların tamamı bu ülke için milli güvenlik problemidir, bu insanların türk vatandaşlığının iptal edilmesi veya en azından türkiye'de ikamet etmeyenlerin seçimlerde oy verme hakkının elinden alınması şarttır. bu insanlar, türkiye'nin gelişimini ve ilerlemesini kendi çıkarlarına aykırı görmektedir.",
+      "has_external_url": false
+    }
+  ]
+}

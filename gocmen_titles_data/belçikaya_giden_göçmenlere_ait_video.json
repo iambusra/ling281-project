@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:20:59.459258",
+    "total_entries": 4,
+    "input": "belçikaya giden göçmenlere ait video",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "belçikaya giden göçmenlere ait video",
+      "entry_id": "155856284",
+      "author": "huantun",
+      "date": "20.08.2023 21:04",
+      "content": "https://www.instagram.com/…?igshid=mmu2yjmznjrloq==\n\nyani artık buda. işin kötü tarafı sınır dışı edildiklerinde buraya gelecekler, aynılarını bizim uzay hamzalara yapacaklar",
+      "has_external_url": true
+    },
+    {
+      "title": "belçikaya giden göçmenlere ait video",
+      "entry_id": "155856531",
+      "author": "matematikkocu",
+      "date": "20.08.2023 21:11",
+      "content": "adamlar arap kavmi necip\nbundan sonra yazacaklarım halkı kin ve tahrik’e yöneltmek suçu oluşturmasa bile çömez bir sa.cı’nın aldığı emirle buna yönelik işlem başlatmasıyla uğraşmamak için yazmıyorum.",
+      "has_external_url": false
+    },
+    {
+      "title": "belçikaya giden göçmenlere ait video",
+      "entry_id": "155856632",
+      "author": "tardu kagan",
+      "date": "20.08.2023 21:14",
+      "content": "avrupa’nın ılık götlüleri daha insan hakları diye sayıklasın! gümbür gümbür arap istilası, cahil işgali altındalar. amerika da bizi ve avrupa’yı çatır çatır peşkeş çekiyor araplara.",
+      "has_external_url": false
+    },
+    {
+      "title": "belçikaya giden göçmenlere ait video",
+      "entry_id": "155857808",
+      "author": "baygu",
+      "date": "20.08.2023 21:47",
+      "content": "kafayı türklerle bozmuş bir ülkenin gençlerinin düştüğü acı durum.\n\nsiz gidin \"selam, x bin maaşım var. otel ve uçak rezervasyonlarım. 1 hafta müze görüp döneceğim\" deyin. size vize vermezler.\n\nama nerede böyle tipler var, 50 yıl oturum alıyor. yazık.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:59:10.646965",
+    "total_entries": 4,
+    "input": "ehliyetsiz sığınmacının sebep olduğu ölümlü kaza",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ehliyetsiz sığınmacının sebep olduğu ölümlü kaza",
+      "entry_id": "136166072",
+      "author": "soul froze",
+      "date": "13.04.2022 19:58 ~ 20:03",
+      "content": "olayın mağduru twitter'da açıkça anlattığı için burada yazıyorum.\n\nbir sığınmacı ehliyetsiz araba kullanırken kaldırıma çıkarak bir yayanın ölümüne sebep oluyor. polise yanlış adres beyanında bulunuyor ve ehliyeti, kaydı kuydu olmadığından ötürü dava sürecinde de bulunamıyor. hala yurt içinde olup olmadığı bile belli değil. kazada hayatını kaybeden vatandaşın oğlu konu ile ilgili bilgilendirme yapmış. aşağıda bulabilirsiniz:\n\nkonunun anlatıldığı twitter bağlantısı\n\ntwitterdaki bağlantıya verilen cevaplar arasında benzer şekilde suç işleyen ve bulunamayan bir çok sığınmacı olduğu bilgisi de örnek olaylar ile belirtilmiş...\n\nedit: daha önce bu konuda başlık açılmış. (bkz: ehliyetsiz suriyelinin yayayı ezerek öldürmesi) özür dilerim. bu başlığa gelecek cevaplar oraya taşınırsa sevinirim.",
+      "has_external_url": true
+    },
+    {
+      "title": "ehliyetsiz sığınmacının sebep olduğu ölümlü kaza",
+      "entry_id": "136166110",
+      "author": "yasamkillanmakilavuzu",
+      "date": "13.04.2022 19:59",
+      "content": "her yerden mülteci haberleri geliyor.alışın.",
+      "has_external_url": false
+    },
+    {
+      "title": "ehliyetsiz sığınmacının sebep olduğu ölümlü kaza",
+      "entry_id": "136166157",
+      "author": "yasama tutunmak",
+      "date": "13.04.2022 20:01",
+      "content": "21. yy da mağara devrini ayağımıza getirdiğin için teşekkürler (bkz: ak parti)",
+      "has_external_url": false
+    },
+    {
+      "title": "ehliyetsiz sığınmacının sebep olduğu ölümlü kaza",
+      "entry_id": "136166581",
+      "author": "novazera",
+      "date": "13.04.2022 20:14",
+      "content": "ne olduğu belli olmayan, mağara adamı kılıklı tiplerin, kontrolsüz bir şekilde ülkeye doldurulup üstüne üstlük korunup, ülkenin kendi vatandaşının önüne koyulduğu başka hiçbir ülke olduğunu, olabileceğini sanmıyorum. taliban bile buna izin vermezdi. buna ses çıkartmamak, vatana ihanettir",
+      "has_external_url": false
+    }
+  ]
+}

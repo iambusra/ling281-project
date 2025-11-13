@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:30:10.630673",
+    "total_entries": 1,
+    "input": "akp'nin suriyeli dilenci derdini yarattığı gerçeği",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "akp'nin suriyeli dilenci derdini yarattığı gerçeği",
+      "entry_id": "44105961",
+      "author": "insan donuna girmis telli turna",
+      "date": "10.07.2014 15:17",
+      "content": "ülkenin ortada olan köklü sorunlarına daha da sorun yerleştirme derdinde olan akp'nin yaptığıdır.\n\nsuriye'deki iç savaşa batının gazıyla müdahil olma, savaş süresince yapılan yanlış öngörüler suriye'li sığınmacılar ile ilgili'olmayan politika' sonucu, binlerce insanı türkiye sokaklarına'dilenmek amacıyla' salma durumudur. savaş yaşamış olmaları, çok acılar çekmeleri ve ülkelerinden kopup gelmeleri yetmiyormuş gibi, bir yandan da türk insanının nefreti ile uğraşmakta bu insanlar.",
+      "has_external_url": false
+    }
+  ]
+}

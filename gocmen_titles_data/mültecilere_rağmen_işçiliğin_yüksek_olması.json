@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:50:41.333617",
+    "total_entries": 1,
+    "input": "mültecilere rağmen işçiliğin yüksek olması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "mültecilere rağmen işçiliğin yüksek olması",
+      "entry_id": "164217788",
+      "author": "bir stalin ya da naftalin",
+      "date": "08.05.2024 18:36",
+      "content": "hâlâ ne olup bittiğini anlamakta zorluk çekenlerin olduğunu görünce yüzümde ufak bir tebessüm beliriyor.\n\ntürkler iş beğenmiyor, yabancılar sayesinde ucuza mal ediyoruz vb argümanların tamamı sizi skmek için uydurulmuş palavralar.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:17:07.666644",
+    "total_entries": 3,
+    "input": "türkiyenin en büyük sorununun göçmenler olması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türkiyenin en büyük sorununun göçmenler olması",
+      "entry_id": "137244890",
+      "author": "adminin enistesinin bir arkadasi",
+      "date": "09.05.2022 21:48",
+      "content": "insanların küçümsemelerine anlam veremediğim konu. neden sadece belli bir kesim bu konuda hassas?",
+      "has_external_url": false
+    },
+    {
+      "title": "türkiyenin en büyük sorununun göçmenler olması",
+      "entry_id": "137245011",
+      "author": "nashishere",
+      "date": "09.05.2022 21:51",
+      "content": "yanlış öneri. türkiye'nin en büyük sorunu ahlaktır. diğer bütün sorunlar ahlaksızlık sebeplidir.",
+      "has_external_url": false
+    },
+    {
+      "title": "türkiyenin en büyük sorununun göçmenler olması",
+      "entry_id": "137246136",
+      "author": "jaamadeuss",
+      "date": "09.05.2022 22:15",
+      "content": "ekonomi degil yani oyle miii?",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:16:27.426202",
+    "total_entries": 1,
+    "input": "ukraynanın türk bankalarına yaptırım istemesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukraynanın türk bankalarına yaptırım istemesi",
+      "entry_id": "142557809",
+      "author": "chngr14",
+      "date": "11.09.2022 23:36",
+      "content": "bakanlığa bağlı sitede ziraat bankası, iş bankası ve credit europe bank yöneticilerinin listesi fotoğraflarıyla yayınlanıyor. hüsnü özyeğin’in de olduğu listede birçok iş insanı var. bu şirket ve kişilerin yaptırıma uğraması için açık çağrı yapılan sitede, profiline tıkladığınız kişinin sayfasında şu ifade yer alıyor: “dünya hükümetlerini, rusya'nın ukrayna'ya karşı savaşına verdikleri destek için bu kişiye yaptırım uygulamaya çağırın. mesajınızı sosyal medyada paylaşın” bu cümleyle kişi ve kurumlar açıkça hedef gösteriliyor\n\nkaynak:\nhttps://www.aydinlik.com.tr/…k-hedef-aldilar-338473",
+      "has_external_url": true
+    }
+  ]
+}

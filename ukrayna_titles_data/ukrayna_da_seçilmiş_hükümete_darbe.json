@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:14:18.801204",
+    "total_entries": 3,
+    "input": "ukrayna'da seçilmiş hükümete darbe",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukrayna'da seçilmiş hükümete darbe",
+      "entry_id": "39940106",
+      "author": "travenian",
+      "date": "25.01.2014 22:14",
+      "content": "bay erdoğan tarafından henüz diline dolanmamış olmasına rağmen allahın hikmeti işte bizzat ukrayna'da iktidarda bulunanlar olayları demokrasiye ve kendilerine darbe olarak nitelendirmşlerdir.\n\nacaba ilhamı kimden aldılar ki. çok meraktayım çok.",
+      "has_external_url": false
+    },
+    {
+      "title": "ukrayna'da seçilmiş hükümete darbe",
+      "entry_id": "39940422",
+      "author": "muhendis86",
+      "date": "25.01.2014 22:27",
+      "content": "seçilmiş olanların yanlış yapıyor olamayacağına inanan günümüz siyasetçilerine ders niteliğindedir",
+      "has_external_url": false
+    },
+    {
+      "title": "ukrayna'da seçilmiş hükümete darbe",
+      "entry_id": "39942787",
+      "author": "28061984",
+      "date": "25.01.2014 23:54",
+      "content": "(bkz: daria meydanı)",
+      "has_external_url": false
+    }
+  ]
+}

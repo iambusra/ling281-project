@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:51:16.077764",
+    "total_entries": 3,
+    "input": "mültecilere nasıl yaklaşılmalı sorunsalı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "mültecilere nasıl yaklaşılmalı sorunsalı",
+      "entry_id": "137938657",
+      "author": "midnighttea",
+      "date": "26.05.2022 17:28",
+      "content": "evinde besle kardesim.",
+      "has_external_url": false
+    },
+    {
+      "title": "mültecilere nasıl yaklaşılmalı sorunsalı",
+      "entry_id": "137940728",
+      "author": "ursulayi olu veya diri mutlaka istiyorum",
+      "date": "26.05.2022 18:28",
+      "content": "benim tavsiyem burnunuzu kapatarak yaklaşın.",
+      "has_external_url": false
+    },
+    {
+      "title": "mültecilere nasıl yaklaşılmalı sorunsalı",
+      "entry_id": "137942092",
+      "author": "bilgez",
+      "date": "26.05.2022 19:10 ~ 19:14",
+      "content": "ortadoğunun en kullanışlı bakınızı bugüne kısmetmiş.\n\n(bkz: kafa siken dinci zırvaları)",
+      "has_external_url": false
+    }
+  ]
+}

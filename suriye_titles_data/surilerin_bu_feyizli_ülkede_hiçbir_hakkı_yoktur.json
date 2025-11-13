@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T14:55:54.484492",
+    "total_entries": 1,
+    "input": "surilerin bu feyizli ülkede hiçbir hakkı yoktur",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "surilerin bu feyizli ülkede hiçbir hakkı yoktur",
+      "entry_id": "91125592",
+      "author": "papazi dovdurmeyecektik",
+      "date": "10.06.2019 23:27",
+      "content": "şahsıma ait bir sözdür.",
+      "has_external_url": false
+    }
+  ]
+}

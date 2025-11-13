@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:13:45.618555",
+    "total_entries": 2,
+    "input": "ukrayna'da ateşkes sağlanması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukrayna'da ateşkes sağlanması",
+      "entry_id": "49121859",
+      "author": "barisunver",
+      "date": "12.02.2015 13:10",
+      "content": "sevgililer gününün gecesine kadar devam edeceklermiş, sonra ateşi keseceklermiş. \"son kurşunları atın, kapatıyoruz\" diyor sevgili putin.",
+      "has_external_url": false
+    },
+    {
+      "title": "ukrayna'da ateşkes sağlanması",
+      "entry_id": "49122006",
+      "author": "youcancanon",
+      "date": "12.02.2015 13:17",
+      "content": "bi ihtimal gelirler diye boşuna mı sabrettik suriyelilere?",
+      "has_external_url": false
+    }
+  ]
+}

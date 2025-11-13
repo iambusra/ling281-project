@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:43:49.651290",
+    "total_entries": 3,
+    "input": "japonya'da 98 mültecinin kriz yaratması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "japonya'da 98 mültecinin kriz yaratması",
+      "entry_id": "141745650",
+      "author": "umitsizseniz umit sizsiniz",
+      "date": "24.08.2022 19:38 ~ 19:41",
+      "content": "https://www.google.com/…capinda-gundem-oldu-1089989\n\nhttps://www.google.com/…tatus-by-japan/1097050/?amp\n\n\"dünya üzerinde en az mülteci kabul eden ülkelerden biri japonya. ancak japon hükümetinin bu sene tarihi bir rekora imza atarak 98 afgan mülteciye ev sahipliği yapacağını açıklaması tüm ülkede bir panik dalgası yarattı.\"\n\nnot:daha saygın türkçe haber sitelerinde haberi bulamadım, bulan olursa linki atarsa sevinirim.",
+      "has_external_url": true
+    },
+    {
+      "title": "japonya'da 98 mültecinin kriz yaratması",
+      "entry_id": "141746086",
+      "author": "serginal",
+      "date": "24.08.2022 19:52",
+      "content": "tam bir ponçiksiniz gerçekten de ya:d gkhgdfkhdf ama haklısınız olacakları baştan tahmin edip; hemen tepkinizi vermeniz harika sevgili japon kardeşlerim.\n\nancak akıllarda şu soru var ki;\n\n''biz ne yapak capon kardeş?''",
+      "has_external_url": false
+    },
+    {
+      "title": "japonya'da 98 mültecinin kriz yaratması",
+      "entry_id": "141746123",
+      "author": "bir gun belki yani neden olmasin",
+      "date": "24.08.2022 19:52 ~ 20:23",
+      "content": "98 tane böcek yan yana gelip yine de sorun çıkarmayı başarabiliyor. bu araplar,afganlar falan böyle iğrenç milletler.",
+      "has_external_url": false
+    }
+  ]
+}

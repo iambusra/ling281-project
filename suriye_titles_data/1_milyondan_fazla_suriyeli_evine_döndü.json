@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-10T23:31:37.441036",
+    "total_entries": 1,
+    "input": "1 milyondan fazla suriyeli evine döndü",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "1 milyondan fazla suriyeli evine döndü",
+      "entry_id": "123172438",
+      "author": "ferslann",
+      "date": "13.05.2021 01:14",
+      "content": "allah kimseyi yerinden yurdundan etmesin\nve güzelim ülkemizde yine bizim olsun\nherkes huzurlu olsun\ninşallah inşallah",
+      "has_external_url": false
+    }
+  ]
+}

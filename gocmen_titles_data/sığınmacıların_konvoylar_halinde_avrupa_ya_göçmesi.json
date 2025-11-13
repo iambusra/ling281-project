@@ -1,0 +1,52 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:04:58.724375",
+    "total_entries": 5,
+    "input": "sığınmacıların konvoylar halinde avrupa'ya göçmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "sığınmacıların konvoylar halinde avrupa'ya göçmesi",
+      "entry_id": "143020405",
+      "author": "taksi kime",
+      "date": "22.09.2022 21:20",
+      "content": "1. avrupalılar bizim gibi uykuda değil, sınırlarını koruyorlar.\n2. bu a. k. partisi hükümeti geri kabul anlaşması imzaladığı için türkiye üzerinden gelen sığınmacıları türkiye'ye geri postalayabiliyorlar.\n3. liderlerinde ümmet değil, millet sevgisi var.",
+      "has_external_url": false
+    },
+    {
+      "title": "sığınmacıların konvoylar halinde avrupa'ya göçmesi",
+      "entry_id": "143020546",
+      "author": "7714714",
+      "date": "22.09.2022 21:23",
+      "content": "en fazla yunan sınırına kadar giderler. türkiye'yi mülteci kampına çeviren akp bunları avrupa'ya yollar mı? tüm mülteciler örgütlenip türkiye'yi terkediyoruz deseler akp engel olur",
+      "has_external_url": false
+    },
+    {
+      "title": "sığınmacıların konvoylar halinde avrupa'ya göçmesi",
+      "entry_id": "143020741",
+      "author": "umitsizseniz umit sizsiniz",
+      "date": "22.09.2022 21:29",
+      "content": "ne güzel işte, din kardeşlerimize başarılı bir yolculuk diliyorum.",
+      "has_external_url": false
+    },
+    {
+      "title": "sığınmacıların konvoylar halinde avrupa'ya göçmesi",
+      "entry_id": "143021192",
+      "author": "yan giden balik",
+      "date": "22.09.2022 21:41",
+      "content": "ülke içinde güvenlik namına kolunu kıpırdatmayan güvenlik güçleri aslan keslip gitmelerini engellemeleriyle başarısızlığa uğrayacak göçtür.\n\nkazayla avrupa'ya gitmeyi başaranlar olsa bile sığınmacılarla ilgili elli anlaşmaya imza atıldığı için iki gün sonra geri kapımıza bırakılacaklardır.",
+      "has_external_url": false
+    },
+    {
+      "title": "sığınmacıların konvoylar halinde avrupa'ya göçmesi",
+      "entry_id": "143022451",
+      "author": "biravekahve",
+      "date": "22.09.2022 22:07",
+      "content": "türkiye kesmedi mi? dünya liderinin kucağını beğenmediniz mi? gel gel biz burada kardeş kardeş severiz seni, gitme.",
+      "has_external_url": false
+    }
+  ]
+}

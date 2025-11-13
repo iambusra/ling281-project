@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:20:38.831414",
+    "total_entries": 1,
+    "input": "tayyip'in bulgaristan göçmenleri hakkında yorumu",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "tayyip'in bulgaristan göçmenleri hakkında yorumu",
+      "entry_id": "78300538",
+      "author": "alicanur",
+      "date": "21.06.2018 01:25 ~ 19:22",
+      "content": "milliyetçi, muhafazakar tayyip'in bulgaristan göçmenler hakkında refah partisi zamanında yaptığı konuşma\n\nbu da kendi uyguladığı politika\n\nosmanlının arkasından ingiliz istihbaratıyla iş çevirenleri her fırsatta koruyan politikanın, kendi halkına karşı uyguladığı politika da böyle oluyor sanırım. bugün kendi reklamında utanmadan plevne marşı çalan adamın politikası.\n\n\"muhacir diye küçümsenenler, tarihin yazdığı savaşlarda en geriye kalanlar, yani \"düşmanla sonuna kadar dövüşenler\" çekilen ordunun ri'cat hatlarını sağlamak için kendilerini feda edenler ve düşman karşısında kaçmak, çekilmek nedir bilmeyenlerdir. muhacirler kaybedilmiş ülkelerimizin milli hatıralarıdır.\"\n\ngazi mustafa kemal atatürk",
+      "has_external_url": true
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:22:26.947522",
+    "total_entries": 1,
+    "input": "bir milyon ukraynalının göç edeceği ülke",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "bir milyon ukraynalının göç edeceği ülke",
+      "entry_id": "133241798",
+      "author": "yopinkman",
+      "date": "03.02.2022 13:03 ~ 13:05",
+      "content": "bence ukrayna rusya gerilimini ukraynalılar bizim kadar konuşmuyorlardır.\nbizim kara, kel, göbekli tiplerin rüyasına konu olan ukraynalı hanımlar savaş çıktığı zaman direk sana gelcekler, yatılı.\n\nbu da karşıma çıkan haber;\n--- spoiler ---\n\n4 tane sarışın kadın var görselde; rusya savaşı sonrası bir milyon ukraynalının göç edeceği ülke…\nrusya ile savaş çıkarsa evlerinden olacaklar! işte bir milyon ukraynalının göç edeceği ülke\n--- spoiler ---\n\ngörsel",
+      "has_external_url": true
+    }
+  ]
+}

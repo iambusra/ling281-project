@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:50:01.204942",
+    "total_entries": 3,
+    "input": "olası savaşta mültecileri kullanma hakkı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "olası savaşta mültecileri kullanma hakkı",
+      "entry_id": "138171181",
+      "author": "batarkengunesardindatepelerin",
+      "date": "31.05.2022 23:21",
+      "content": "la adamın kendi ülkesine hayrı olmamış sana mı olacak",
+      "has_external_url": false
+    },
+    {
+      "title": "olası savaşta mültecileri kullanma hakkı",
+      "entry_id": "138171260",
+      "author": "anani siken kadi",
+      "date": "31.05.2022 23:22",
+      "content": "dış unsurlar olası bir savaşta ev sahibi ülkeye karşı kullanılırlar.\nbir nevi truva atıdırlar.\ndışardan müdahale için bahane de oluştururlar.",
+      "has_external_url": false
+    },
+    {
+      "title": "olası savaşta mültecileri kullanma hakkı",
+      "entry_id": "138171644",
+      "author": "daycobudeska",
+      "date": "31.05.2022 23:29",
+      "content": "eline silah verirsin, döner ilk sana sıkar.\n\nadamlar kendi ülkesi yanarken kaçmış, sana faydası olur mu hiç?",
+      "has_external_url": false
+    }
+  ]
+}

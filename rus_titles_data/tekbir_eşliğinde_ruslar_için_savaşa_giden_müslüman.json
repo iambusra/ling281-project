@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:27:18.350652",
+    "total_entries": 1,
+    "input": "tekbir eşliğinde ruslar için savaşa giden müslüman",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "tekbir eşliğinde ruslar için savaşa giden müslüman",
+      "entry_id": "134214853",
+      "author": "sserkanss",
+      "date": "25.02.2022 22:02",
+      "content": "söz edilen müslümanlar çeçenlerdir. sakal ve silah eşliğinde allah i da yanlarına aldıklarını zannedip talibanı ya da işid i aratmayacak şekilde kadın çocuk ve ihtiyarları ruslar için öldürmeye gitmeye hazırlık yapan ayılardır.",
+      "has_external_url": false
+    }
+  ]
+}

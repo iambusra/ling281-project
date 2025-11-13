@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:23:38.512242",
+    "total_entries": 1,
+    "input": "bir ülkenin göçmenlerle büyümesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "bir ülkenin göçmenlerle büyümesi",
+      "entry_id": "136233620",
+      "author": "nakrem",
+      "date": "15.04.2022 11:28",
+      "content": "şöyle düşünürsek ülke nüfusu arttığında talep artıyor talebi karşılamak için üretim artıyor üretimin artması için işe alımlar artıyor devletin vergi kazancı da artıyor. bu doğrultuda göçmen alımı iyi bir şey olabilir mi örnek vermek gerekirse batı ülkeleri düzenli olarak her yıl göçmen alımı yapıyorlar",
+      "has_external_url": false
+    }
+  ]
+}

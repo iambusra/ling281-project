@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:03:00.835229",
+    "total_entries": 3,
+    "input": "suriyeli sığınmacılara 500 m2 bahçeli ev yapalım",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeli sığınmacılara 500 m2 bahçeli ev yapalım",
+      "entry_id": "59642478",
+      "author": "mindradio",
+      "date": "31.03.2016 21:11 ~ 21:34",
+      "content": "yeterince detay verince, küsuratlı sallamak gibi bir etkisi var sanırım. az daha anlayacaktı, pembe panjurlu filan, vazgeçti nedense.\n\no değil de, bize toki, suriyelilere villa. teşekkürler, bıbıcım.\n\nedittten önce (bkz: esteban) diye bkz. vermişim, akıllı telefonun minik sürprizleri. akıllı telefon sonuçta.\n\noha, yine unutmuşum, bir erdoğan açıklaması.",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyeli sığınmacılara 500 m2 bahçeli ev yapalım",
+      "entry_id": "59643090",
+      "author": "tokatta oturuyom",
+      "date": "31.03.2016 21:39",
+      "content": "eger bu adam ab gorusmeleri sirasinda, 500 m2 ev yapalim benim tanidik müteahhit var hallederiz demediyse ben de bu adami tanimiyorum. gorusmeler neden uzadi simdi anliyorum adam ihale alma pesindeymis.",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyeli sığınmacılara 500 m2 bahçeli ev yapalım",
+      "entry_id": "92400270",
+      "author": "bilimbilimi",
+      "date": "10.07.2019 05:58",
+      "content": "arkadaşı pistten alalım",
+      "has_external_url": false
+    }
+  ]
+}

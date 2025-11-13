@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:16:58.185574",
+    "total_entries": 3,
+    "input": "türkiye sınırından içeriye giren kaçak göçmenler",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türkiye sınırından içeriye giren kaçak göçmenler",
+      "entry_id": "138924803",
+      "author": "mahserin 4 sovalyesi",
+      "date": "18.06.2022 19:22",
+      "content": "şu hesabın paylaştığı olay https://twitter.com/…tatus/1538111504507076609?s=21\n\nakp 1300 göçmen yolladık diyor ama her gün yüzlercesi sınırdan içeriye giriyor. üstelik sınırdan içeriye girenler soluklanır soluklanmaz, kadınlarımızın çocuklarımızın videolarını çekip diğer sapıklarla dillerini yalayarak paylaşıyorlar. hiçbirimiz güvende değiliz artık.",
+      "has_external_url": true
+    },
+    {
+      "title": "türkiye sınırından içeriye giren kaçak göçmenler",
+      "entry_id": "138924948",
+      "author": "enerjigeldi",
+      "date": "18.06.2022 19:26",
+      "content": "kör çobanın sürüsünün akibeti uçurumdur.",
+      "has_external_url": false
+    },
+    {
+      "title": "türkiye sınırından içeriye giren kaçak göçmenler",
+      "entry_id": "138925472",
+      "author": "sadrazzam",
+      "date": "18.06.2022 19:42",
+      "content": "hadi canım sen de? harbi mi?\n\nacayip şaşırdım buna.\n\nbizim sınırlarımız da mı var dı?",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:01:41.672138",
+    "total_entries": 3,
+    "input": "suriyelileri otobüste koltuğa oturtmadılar",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelileri otobüste koltuğa oturtmadılar",
+      "entry_id": "139929802",
+      "author": "annunakiyim",
+      "date": "13.07.2022 14:56 ~ 14:57",
+      "content": "(bkz: olmamış olaylar için başlık açmak)\n\nbizim insanımız ırkçı değildir sayın suser.\nancak kendi ülkemizde yabancı gibi muamele görmekten, yabancıların da el üstünde tutulmasından kaynaklı insanlarda hükümete ve dolayısıyla bu insanlara karşı bir tepki var.\n\nşimdiye kadar kimsenin:\n\"sen kalk oraya ben oturacağım.\" dediğini görmedim toplu taşımalarda. kaldı ki elini sallasan suriyeli'ye çarpıyor.\n\nsen canını boş yere sıkma... bizim insanımız böyle bir muamele görse bile orada müdahale eder.\nyeter ki bu adamlar; canımıza, malımıza, ırzımıza göz dikmesinler.\n\nama en nihayetinde de ziyaretin kısa olanı makbûldür.\nçok da uzatmamak gerekir bu ziyareti...",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyelileri otobüste koltuğa oturtmadılar",
+      "entry_id": "139930633",
+      "author": "vayemsiey",
+      "date": "13.07.2022 15:22",
+      "content": "olmayan olay. gelip burada yirmili yaşlardaki ergen trollerle kaşıyıp kaşıyıp duruyorlar.",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyelileri otobüste koltuğa oturtmadılar",
+      "entry_id": "139930884",
+      "author": "k 1 f",
+      "date": "13.07.2022 15:29",
+      "content": "olmamış bir hadise. resmen ortalık karıştırmak için açılmış bir başlık. cimer'e şikayet ediyorum bu entryi ettiğim zaman editlerim. yeter artık bu ortalıkta kaos yaratma çabanızı bitirmek lazım.",
+      "has_external_url": false
+    }
+  ]
+}

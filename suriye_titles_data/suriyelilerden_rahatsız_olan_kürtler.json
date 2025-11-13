@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:57:47.699548",
+    "total_entries": 2,
+    "input": "suriyelilerden rahatsız olan kürtler",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelilerden rahatsız olan kürtler",
+      "entry_id": "43946502",
+      "author": "newplanet",
+      "date": "04.07.2014 10:42",
+      "content": "mağdur edebiyatlarına ortak geldiği için kızgındırlar.",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyelilerden rahatsız olan kürtler",
+      "entry_id": "43949773",
+      "author": "somek kafali",
+      "date": "04.07.2014 13:25",
+      "content": "vardır böyle kürtler. hatta bazısı türklerden fazla rahatsızdır.",
+      "has_external_url": false
+    }
+  ]
+}

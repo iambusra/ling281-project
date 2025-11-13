@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:21:35.619055",
+    "total_entries": 3,
+    "input": "ben bu yazıyı suriyeli göçmenlere yazdım",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ben bu yazıyı suriyeli göçmenlere yazdım",
+      "entry_id": "129528662",
+      "author": "ayuttudum",
+      "date": "28.10.2021 19:16",
+      "content": "siktirip gideceksiniz. muzları da götünüze sokmamız gerekecek.",
+      "has_external_url": false
+    },
+    {
+      "title": "ben bu yazıyı suriyeli göçmenlere yazdım",
+      "entry_id": "129528965",
+      "author": "chokonut",
+      "date": "28.10.2021 19:27",
+      "content": "hiiç boşuna kendi kendinizi gaza getirmeyin. 2023 seçimlerinde akepenin can simidi vazifesi görecekler, sekiz on aya kadar vatandaşlıkları verilir.\n\nseçim barajı %7 düşürüldü. kürt oyları hdp barajı geçemez kaygısıyla chp'ye kaymasın diye ayar çektiler. kürtler yer mi? yer tabi, hem de afiyetle.\n\nüstüne bir de yaklaşık 3 milyon kadar suriyeli seçmen... ne oldu? cırt ayşe teyze.",
+      "has_external_url": false
+    },
+    {
+      "title": "ben bu yazıyı suriyeli göçmenlere yazdım",
+      "entry_id": "129529286",
+      "author": "sigara kibrit",
+      "date": "28.10.2021 19:38",
+      "content": "çok zor şartlar altında kurulan, uğruna çok can verilen bu ülkede, bu ülke insanının yapamadığı tatili yapmanız, bu ülke genci olarak benim çok zoruma gidiyor. hazmetmek çok zor.\n\neğer allah varsa ve benim hakkım varsa, milyarlarca kez haram zıkkım olsun.",
+      "has_external_url": false
+    }
+  ]
+}

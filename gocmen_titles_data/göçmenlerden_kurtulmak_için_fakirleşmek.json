@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:23:26.054462",
+    "total_entries": 1,
+    "input": "göçmenlerden kurtulmak için fakirleşmek",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "göçmenlerden kurtulmak için fakirleşmek",
+      "entry_id": "129894934",
+      "author": "odosey",
+      "date": "08.11.2021 22:53",
+      "content": "hem kurtulmak hem daha fazlasının gelmesini engellemek için bu olmalı galiba. bu da yetmez. suç oranları yükselmeli. daha fazla insanlıktan çıkmalıyız. bize reva görülen bu. avrupaya geçiş zorlaştı. türkiye artık geçiş değil hedef ülke haline geldi. biz istesek de istemesek de bu yetersizliklerimizle seçmen kitlemiz ve seçilenlerimiz sayesinde bu hale geleceğiz. hiç bir şey eskisi gibi olmayacak. her şey daha zor olacak. ekmeğimizi paylaşmaktan ekmek bulamaz hale gelene kadar devam et türkiyem.",
+      "has_external_url": false
+    }
+  ]
+}

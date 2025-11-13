@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:55:07.430039",
+    "total_entries": 2,
+    "input": "mültecilerin gönderilmesi referandumu",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "mültecilerin gönderilmesi referandumu",
+      "entry_id": "126188760",
+      "author": "administration",
+      "date": "27.07.2021 14:28",
+      "content": "işine gelen her konuda sine-i millete dönenlerin halka sormaktan korkacağı sorudur.\n\nçıkacak sonuç aşağı yukarı belli, hani halk her şeyden büyüktü? neden bu konuda kararı saraylarda değil, mültecilerle bir arada yaşamak zorunda kalan halk vermiyor?",
+      "has_external_url": false
+    },
+    {
+      "title": "mültecilerin gönderilmesi referandumu",
+      "entry_id": "144233852",
+      "author": "renksiz hayat",
+      "date": "23.10.2022 11:00",
+      "content": "ne iktidar ne sarı muhalefet yanaşmaz. ülke ne haldeyken erken seçime bile zorlamadılar.",
+      "has_external_url": false
+    }
+  ]
+}

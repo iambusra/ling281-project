@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T14:59:38.652445",
+    "total_entries": 1,
+    "input": "suriye 6 milyon suriyeliyi kabul eder mi sorusu",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriye 6 milyon suriyeliyi kabul eder mi sorusu",
+      "entry_id": "97885239",
+      "author": "tatil kufesi",
+      "date": "17.11.2019 00:23",
+      "content": "odtülü öğrtm. görevlisi prof.dr hüseyin bağcı'nın suriyelileri almayacağı öngörüsü vardır.\nahhahaa! adamları kendi ülkeleri bile kabul etmeyen bu insanlar, aha da şuraya yazıyorum: bir başka ülkenin vatandaşı, bize en ufak yakınlık duymayan bu insanlar\nyarn tüm imkansızlık ve yoksunluklarının nedeni gördükleri ülkemize pkk lılarla\nbir olup saldıracaklardır.",
+      "has_external_url": false
+    }
+  ]
+}

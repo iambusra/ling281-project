@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T14:55:40.149557",
+    "total_entries": 1,
+    "input": "türklere festival yasak surilere serbest",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türklere festival yasak surilere serbest",
+      "entry_id": "137318313",
+      "author": "newsky24",
+      "date": "11.05.2022 17:19",
+      "content": "sarayda oturan akp'li siyasetçinin son uygulamasıdır.\neskişehir'de ve adana'da türk öğrencilerin düzenleyeceği festivale yasaklar getirildi biliyorsunuz. (daha önce de çok farklı yasaklar gelmişti ama ben şu an güncel olanlarınyazdım)\ntüm bu yasaklar verilirken suriyeli 600 öğrencinin, meb parasıyla 5 yıldızlı otellerde ağırlanıp onlara eğlence düzenleneceğini de biliyorsunuz.\n\nyorum sizin.\ngörsel",
+      "has_external_url": true
+    }
+  ]
+}

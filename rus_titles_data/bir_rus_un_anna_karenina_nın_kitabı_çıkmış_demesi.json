@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:26:06.026968",
+    "total_entries": 3,
+    "input": "bir rus'un anna karenina'nın kitabı çıkmış demesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "bir rus'un anna karenina'nın kitabı çıkmış demesi",
+      "entry_id": "31938944",
+      "author": "manech",
+      "date": "29.01.2013 11:57",
+      "content": "esprisi bile fazla \"uçuk\" bulunacak durum.",
+      "has_external_url": false
+    },
+    {
+      "title": "bir rus'un anna karenina'nın kitabı çıkmış demesi",
+      "entry_id": "31938982",
+      "author": "akatlis",
+      "date": "29.01.2013 12:01",
+      "content": "(bkz: anayı bacıyı karıştırma)",
+      "has_external_url": false
+    },
+    {
+      "title": "bir rus'un anna karenina'nın kitabı çıkmış demesi",
+      "entry_id": "31939121",
+      "author": "noryth aquanum",
+      "date": "29.01.2013 12:12",
+      "content": "(bkz: yaman şakacısın delikanlı)",
+      "has_external_url": false
+    }
+  ]
+}

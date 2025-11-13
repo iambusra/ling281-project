@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:54:24.625871",
+    "total_entries": 1,
+    "input": "mültecilerin askerlikten muaf olması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "mültecilerin askerlikten muaf olması",
+      "entry_id": "160325556",
+      "author": "birgaripdoktor",
+      "date": "04.01.2024 15:31",
+      "content": "eğer türkiye'deki mülteciler kalıcı olacaklarsa, ki olacağa benziyorlar, aynı türkler gibi onlar için de askerliğin zorunlu olmasının kendilerini bu ülkeye ait hissetmeleri için oldukça faydalı olacağını düşünüyorum.",
+      "has_external_url": false
+    }
+  ]
+}

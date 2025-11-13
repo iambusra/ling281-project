@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T13:47:20.878350",
+    "total_entries": 1,
+    "input": "1 ocak 2018 suriye'nin kapatılması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "1 ocak 2018 suriye'nin kapatılması",
+      "entry_id": "46333644",
+      "author": "oynamayibilmeyengelin",
+      "date": "14.10.2014 12:33",
+      "content": "20 milyon civarında nüfusu olan suriye'de 400bin kişi öldü, 5.1milyon kişi başka ülkelere mülteci olarak sığındı, 100 binin üzerinde kayıp var.bu hızla devam ederse suriye önce ilçe yapılacak sonra tamamen dükkanı kapatıp gidecekler.",
+      "has_external_url": false
+    }
+  ]
+}

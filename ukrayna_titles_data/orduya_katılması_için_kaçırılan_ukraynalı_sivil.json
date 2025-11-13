@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:17:19.626572",
+    "total_entries": 3,
+    "input": "orduya katılması için kaçırılan ukraynalı sivil",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "orduya katılması için kaçırılan ukraynalı sivil",
+      "entry_id": "173114844",
+      "author": "eurasia",
+      "date": "25.02.2025 16:09",
+      "content": "ukrayna'da askere alınma komitesinde görevli askerler, bisiklet süren bir ukraynalıyı zorla götürmeye çalıştı.\n\nx - video",
+      "has_external_url": true
+    },
+    {
+      "title": "orduya katılması için kaçırılan ukraynalı sivil",
+      "entry_id": "173114923",
+      "author": "mobedan",
+      "date": "25.02.2025 16:13 ~ 16:17",
+      "content": "haydi erkekler savaşa.\n\nkaçak değil vicdani retçidir.",
+      "has_external_url": false
+    },
+    {
+      "title": "orduya katılması için kaçırılan ukraynalı sivil",
+      "entry_id": "173115068",
+      "author": "ab i hayat vardi pipet yoktu",
+      "date": "25.02.2025 16:20 ~ 16:22",
+      "content": "askere katılmak istemeyeni almayın kardeşim. paralı asker kullan, gönüllü olarak çağır, gelmek istemeyenleri ise gerekirse 10 yıl tüm kazancının yarısını orduya vermesini zorunlu kıl ama canını alma. kimseden zorla canını ortaya koyması istenmemeli.",
+      "has_external_url": false
+    }
+  ]
+}

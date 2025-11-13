@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:44:01.436559",
+    "total_entries": 2,
+    "input": "kocaeli'de mültecinin komiser yardımcısını vurması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "kocaeli'de mültecinin komiser yardımcısını vurması",
+      "entry_id": "138992617",
+      "author": "unfear",
+      "date": "20.06.2022 13:20",
+      "content": "komiser, mülteciyi vurup etkisiz hale getirseydi şuan açığa alınmıştı.",
+      "has_external_url": false
+    },
+    {
+      "title": "kocaeli'de mültecinin komiser yardımcısını vurması",
+      "entry_id": "138992955",
+      "author": "nyx ulric",
+      "date": "20.06.2022 13:29",
+      "content": "(bkz: muhacirlerle can kardeş)",
+      "has_external_url": false
+    }
+  ]
+}

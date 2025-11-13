@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:05:24.904047",
+    "total_entries": 2,
+    "input": "suriyelilerin sürekli telefonla konuşması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelilerin sürekli telefonla konuşması",
+      "entry_id": "126742826",
+      "author": "takashi katomi",
+      "date": "10.08.2021 09:51",
+      "content": "suriyelilerin hiç durmadan, otobüste, yolda, kafede, avmde hatta çalışırken sürekli telefonda olma durumu. oto yıkamada araba yıkarken bile kulaklıkla konuşan gördüm. sanırım ülkelerini nasıl kurtaracaklar hep onu konuşuyorlar.",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyelilerin sürekli telefonla konuşması",
+      "entry_id": "166620303",
+      "author": "celebisade",
+      "date": "24.07.2024 13:31 ~ 13:31",
+      "content": "yıllardır bizimle çalışan bir çok suriyeli oldu.\nadamlar sabah telefonla konuşarak iş yerine geliyor. gün boyu konuşuyor ve telefonla konuşarak akşam çıkış yapıyorlar.\n\nher daim ekseriyetle görüntülü görüşme başta olmak üzere telefonları ve kendileri hiç susmuyor.",
+      "has_external_url": false
+    }
+  ]
+}

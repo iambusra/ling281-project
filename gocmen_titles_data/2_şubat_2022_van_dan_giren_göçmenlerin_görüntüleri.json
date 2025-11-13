@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:26:00.626417",
+    "total_entries": 1,
+    "input": "2 şubat 2022 van'dan giren göçmenlerin görüntüleri",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "2 şubat 2022 van'dan giren göçmenlerin görüntüleri",
+      "entry_id": "133188119",
+      "author": "saidmdmd",
+      "date": "02.02.2022 09:59 ~ 10:01",
+      "content": "sözcü'nün bugün yaptığı haberde görülen görüntüler korkunç. yüzlerce insan sınırı çok kolay bir şekilde geçiyor. haber göre dondurucu soğuklara rağmen van'ın özalp ilçesine iran'dan gelen onlarca göçmenin sınırı geçtiği görülüyor.\n.\ninstagram linki: https://www.instagram.com/…_source=ig_web_copy_link",
+      "has_external_url": true
+    }
+  ]
+}

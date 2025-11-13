@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:55:34.304504",
+    "total_entries": 4,
+    "input": "mültecilerin oy kullanma hakkı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "mültecilerin oy kullanma hakkı",
+      "entry_id": "137009174",
+      "author": "tancares",
+      "date": "04.05.2022 19:34",
+      "content": "multeciden kasit biz mi yoksa suriyeli yada afganlar mi.\nbugun itibari ile kendimi multeci gibi hissettiren devletimize tsk ederiz.",
+      "has_external_url": false
+    },
+    {
+      "title": "mültecilerin oy kullanma hakkı",
+      "entry_id": "137075060",
+      "author": "salifuu",
+      "date": "06.05.2022 02:38",
+      "content": "ülkeye alınan bu kadar şeriatçı, cahil bir boka yaramaz kesimin neden hükümet tarafından kollandığını aklım almıyor.\nmuhtemelen bu adamlara vatandaşlık ve oy verilecek. yapabileceğimiz tek şey ise o gün mültecilere gerekirse zor kullanarak oy kullandırtmamak.\nt: bir istila.",
+      "has_external_url": false
+    },
+    {
+      "title": "mültecilerin oy kullanma hakkı",
+      "entry_id": "138586782",
+      "author": "laparoma alba",
+      "date": "10.06.2022 18:14 ~ 18:18",
+      "content": "2 yıldan fazla süredir ülkede yaşayan kişilere verilmesi gereken bir haktır. bu insanlar vatandaş olmasalar da politikalardan etkilenmekteler ve buna müdahale edebilme hakları verilmelidir.\n\nedit:harf hatası",
+      "has_external_url": false
+    },
+    {
+      "title": "mültecilerin oy kullanma hakkı",
+      "entry_id": "138588391",
+      "author": "senhicgecmeyengungordunmu",
+      "date": "10.06.2022 18:59",
+      "content": "vatandaş olmadıkları müddetçe, sırf ülkedeki politikalardan etkileniyorlar diye asla verilmemesi gereken bir haktır. cümle garip oldu ama sırf ülkedeki politikalardan etkilendikleri için sözlükte oy kullanabileceklerini düşünenler var diye yazdım. olmadı ülkeye her gelen turist de oy kullansın hatta havalimanlarından transit geçenler de öyle. ne de olsa türkiye'nin havasından suyundan etkileniyorlar.",
+      "has_external_url": false
+    }
+  ]
+}

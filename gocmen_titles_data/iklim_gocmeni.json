@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:10:38.648708",
+    "total_entries": 2,
+    "input": "iklim gocmeni",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "iklim gocmeni",
+      "entry_id": "10876758",
+      "author": "cyco",
+      "date": "20.05.2007 04:40 ~ 04:47",
+      "content": "gerekli önlemler alınmamış olursa eğer, yakın gelecekte küresel ısınma sonucunda sayıları milyarı bulabilecek olan göçmen tipidir...",
+      "has_external_url": false
+    },
+    {
+      "title": "iklim gocmeni",
+      "entry_id": "96758530",
+      "author": "tismurna",
+      "date": "20.10.2019 02:12",
+      "content": "küresel iklim değişikliğinin bu şekilde devam etmesi halinde, seller, deniz seviyelerinin yükselmesi, fırtınalar, kuraklıklar gibi iklim kaynaklı olaylar sonucunda 2050'li yıllara gelindiğinde dünyada 250 milyon ila 1 milyar arasında insanın yaşam alanlarını terk ederek birer iklim göçmenine dönüşeceği tahmin ediliyor. bu büyüklükte bir göç insanlık tarihinde daha önce hiç görülmemiştir. ülkeler kitlesel insan akınları neticesinde ekonomik, sosyal ve çevresel açıdan tükenme noktasına gelebilirler. iklim göçmeni kavramını gelecekte sıklıkla duyacağız diye düşünüyorum.",
+      "has_external_url": false
+    }
+  ]
+}

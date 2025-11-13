@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:28:39.057502",
+    "total_entries": 1,
+    "input": "doğulu hanzoların tazecik çıtır rusları becermesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "doğulu hanzoların tazecik çıtır rusları becermesi",
+      "entry_id": "29771599",
+      "author": "trans later",
+      "date": "13.08.2012 00:30",
+      "content": "sarışınların esmerlerden hoşlandığının bir başka kanıtıdır.",
+      "has_external_url": false
+    }
+  ]
+}

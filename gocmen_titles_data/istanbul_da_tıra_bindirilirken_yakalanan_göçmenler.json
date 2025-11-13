@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:17:31.526301",
+    "total_entries": 2,
+    "input": "istanbul'da tıra bindirilirken yakalanan göçmenler",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "istanbul'da tıra bindirilirken yakalanan göçmenler",
+      "entry_id": "135424332",
+      "author": "sol bariyer dibinden",
+      "date": "26.03.2022 14:15",
+      "content": "daha doğrusu yakalanamayan göçmenler çünkü polisin geldiğini görünce sağa sola kaçışıyorlar.\n\nistanbul arnavutköy'de etrafı çit ve konteynerlerle çevrili evin önüne yanaşan tir'a onlarca göçmen bindirildi. polisin geldiğini gören evdeki afgan ve pakistan uyruklu onlarca göçmen kaçmaya başladı. yaşanan kovalamaca anları cep telefonu kameraları tarafından kaydedildi.\n\nkaynak",
+      "has_external_url": true
+    },
+    {
+      "title": "istanbul'da tıra bindirilirken yakalanan göçmenler",
+      "entry_id": "135424461",
+      "author": "alexander goygoyevic",
+      "date": "26.03.2022 14:19",
+      "content": "istanbul'dan tıra bindirilen kaçak göçmen nereye gider? avrupa'ya tabi. e o zaman ne karışıyorsunuz kardeşim, bırakın gitsinler işte? bizim güvenlik kuvvetleri de bi tuhaf. yurda girerken engel olacaksınız, çıkarken değil.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:40:48.899222",
+    "total_entries": 2,
+    "input": "chp'li belediyelerin suriyelilere yardımı kesmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "chp'li belediyelerin suriyelilere yardımı kesmesi",
+      "entry_id": "88729665",
+      "author": "gunumuz aylagi",
+      "date": "09.04.2019 13:28",
+      "content": "olması durumunda chp’nin türkiye genelinde oylarını arttıracak politikadır.\n\ntürk halkı dururken başkasına yardım etmek halka ihanettir.\n\nbiz kimseyi açıkta bırakmadık evet. ancak kimseyi de kendi vatandaşımızdan üstte tutmadık. tutmamalıyız.",
+      "has_external_url": false
+    },
+    {
+      "title": "chp'li belediyelerin suriyelilere yardımı kesmesi",
+      "entry_id": "163003104",
+      "author": "belki kagit param senin cebine girmistir",
+      "date": "31.03.2024 21:43",
+      "content": "olmayacaktır.",
+      "has_external_url": false
+    }
+  ]
+}

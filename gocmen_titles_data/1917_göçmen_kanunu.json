@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T00:04:02.321265",
+    "total_entries": 1,
+    "input": "1917 göçmen kanunu",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "1917 göçmen kanunu",
+      "entry_id": "10967341",
+      "author": "oric",
+      "date": "20.06.2007 17:34",
+      "content": "asyalılar kadar ortadoğuluların da (o zamanki osmanlı imparatorluğu da dahil) amerika'ya göçlerini engellemiştir. bu kadar ermeni hangi iki arada bir derede göç edip diaspora yı kurdu şimdi kafama bu takıldı",
+      "has_external_url": false
+    }
+  ]
+}

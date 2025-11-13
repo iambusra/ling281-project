@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:01:39.438218",
+    "total_entries": 1,
+    "input": "sığınmacıları gönderip gurbetçileri geri almak",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "sığınmacıları gönderip gurbetçileri geri almak",
+      "entry_id": "135914299",
+      "author": "garipbasci",
+      "date": "07.04.2022 15:40 ~ 15:40",
+      "content": "harika bir davranış. ortadoğulu sığınmacılar yerine avrupa görmüş gurbetçiler ülkemizi şaha kaldıracak, başkanlık sistemi gelmiş gibi şaha kaldıracaktır. 2 kere şaha kaldıracak yazdım çünkü başka bulamadım.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:51:39.204452",
+    "total_entries": 1,
+    "input": "mültecilere yapılan tüm harcamaların kesilmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "mültecilere yapılan tüm harcamaların kesilmesi",
+      "entry_id": "126866255",
+      "author": "kurtukuzuyayemedenadam",
+      "date": "13.08.2021 11:17",
+      "content": "ivedilikle alınması gereken karardır. bu ülke artık mültecilere bakmayı kaldıramıyor. yangın olur sel olur hep halktan yardım dilenilir. sokarım böyle işe.\n\nbu ülkede bir tane dahi mülteci kalmayana kadar mücadele devam etmeli. bizim derdimiz bize yetiyor aq başka şeylere gerek yok.",
+      "has_external_url": false
+    }
+  ]
+}

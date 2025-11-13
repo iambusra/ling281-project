@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:46:48.805809",
+    "total_entries": 3,
+    "input": "para karşılığı ülkeye alınan mülteciler",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "para karşılığı ülkeye alınan mülteciler",
+      "entry_id": "164589534",
+      "author": "seyithann",
+      "date": "20.05.2024 15:50 ~ 15:52",
+      "content": "barış terkoğlu'nun haberine göre:\nsuriye'de görevli bir generalin makam aracıyla, bir çok suriyelinin para karşılığı kaçak şekilde türkiye'ye sokulduğu tespit edildi.\n\nolaya karışan astsubay ve uzman çavuş hakkında yasal işlem başlatılırken, general ise emekliye sevk edildi.\n\nx.com\n\nedit:kaç yıllık devlet aklımız vardı ben unuttum da.dur hemen aşağı ekliyorum.\ndevlet aklı",
+      "has_external_url": true
+    },
+    {
+      "title": "para karşılığı ülkeye alınan mülteciler",
+      "entry_id": "164589577",
+      "author": "yetkin99",
+      "date": "20.05.2024 15:53",
+      "content": "(bkz: kesin yaşanmıştır bu)",
+      "has_external_url": false
+    },
+    {
+      "title": "para karşılığı ülkeye alınan mülteciler",
+      "entry_id": "164589637",
+      "author": "againstthelife",
+      "date": "20.05.2024 15:54",
+      "content": "(bkz: tuğgenarelin insan kaçakçılığı yapması)",
+      "has_external_url": false
+    }
+  ]
+}

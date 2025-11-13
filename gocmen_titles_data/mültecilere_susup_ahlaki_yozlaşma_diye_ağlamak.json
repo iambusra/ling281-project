@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:51:01.682483",
+    "total_entries": 1,
+    "input": "mültecilere susup ahlaki yozlaşma diye ağlamak",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "mültecilere susup ahlaki yozlaşma diye ağlamak",
+      "entry_id": "146754553",
+      "author": "titiraprap",
+      "date": "24.12.2022 13:54",
+      "content": "dünyanın en fakir bölgelerinden, çoğu erkek milyonlarca göçmen aldınız. ya ne olacağı dı.",
+      "has_external_url": false
+    }
+  ]
+}

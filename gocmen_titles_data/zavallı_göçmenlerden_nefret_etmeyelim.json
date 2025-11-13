@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:23:26.658803",
+    "total_entries": 2,
+    "input": "zavallı göçmenlerden nefret etmeyelim",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "zavallı göçmenlerden nefret etmeyelim",
+      "entry_id": "126213156",
+      "author": "non mi avete fatto niente",
+      "date": "28.07.2021 01:22 ~ 01:25",
+      "content": "tam hali: \"kimse ülkesini bırakıp gelmek istemez. bu zavallı göçmenlerden nefret etmek yerine yanlış siyasete karşı çıkalım ve değiştirelim. biz avrupa'nın uşağı mıyız? neden bütün yükü biz alıyoruz?\" şeklinde olan yazar ahmet ümit'in göçmenlerle ilgili yorumu.\n\nvideo",
+      "has_external_url": true
+    },
+    {
+      "title": "zavallı göçmenlerden nefret etmeyelim",
+      "entry_id": "126213458",
+      "author": "doxanikee",
+      "date": "28.07.2021 01:32",
+      "content": "kaş yaparken göz çıkarma hali.",
+      "has_external_url": false
+    }
+  ]
+}

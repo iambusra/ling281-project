@@ -1,0 +1,52 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:40:30.928608",
+    "total_entries": 5,
+    "input": "boğulan suriyeliyi mi kurtarırsın köpeği mi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "boğulan suriyeliyi mi kurtarırsın köpeği mi",
+      "entry_id": "85421418",
+      "author": "7 milyar dolar",
+      "date": "12.01.2019 10:56",
+      "content": "yüzme bilmediğim için ikisini de kurtaramam.",
+      "has_external_url": false
+    },
+    {
+      "title": "boğulan suriyeliyi mi kurtarırsın köpeği mi",
+      "entry_id": "85421517",
+      "author": "masam",
+      "date": "12.01.2019 11:00",
+      "content": "suriyelilerle aynı ülkede yaşayan kendimi kurtarırım.",
+      "has_external_url": false
+    },
+    {
+      "title": "boğulan suriyeliyi mi kurtarırsın köpeği mi",
+      "entry_id": "85421673",
+      "author": "emre realist",
+      "date": "12.01.2019 11:07",
+      "content": "(bkz: ey yumurtaya can veren allahım) dedirten yazar suali.",
+      "has_external_url": false
+    },
+    {
+      "title": "boğulan suriyeliyi mi kurtarırsın köpeği mi",
+      "entry_id": "85421714",
+      "author": "kardanadam kazak",
+      "date": "12.01.2019 11:08",
+      "content": "ırkçı,faşist,düz beyinli,duygusuz bir insanın açabileceği bir başlık.tam senin gibilere göre bir oyun var,adı''mavi balina''.gen havuzunu temizliyor.",
+      "has_external_url": false
+    },
+    {
+      "title": "boğulan suriyeliyi mi kurtarırsın köpeği mi",
+      "entry_id": "85421816",
+      "author": "midasinberberi",
+      "date": "12.01.2019 11:12",
+      "content": "bu nasıl ırkçılık yazık. aylan bebek yüreğinize, vicdanınıza taş gibi oturmuyor mu? bugün suriyelileri sevmezsiniz ancak böyle bir soru sormak inanılmaz bir faşistlik. başka bir şey değil.",
+      "has_external_url": false
+    }
+  ]
+}

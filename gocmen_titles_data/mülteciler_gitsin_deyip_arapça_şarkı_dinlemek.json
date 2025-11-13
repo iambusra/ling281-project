@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:47:19.552691",
+    "total_entries": 1,
+    "input": "mülteciler gitsin deyip arapça şarkı dinlemek",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "mülteciler gitsin deyip arapça şarkı dinlemek",
+      "entry_id": "157983601",
+      "author": "turan saydam",
+      "date": "22.10.2023 09:32",
+      "content": "birçok kişinin yaptığı normal bir eylem.",
+      "has_external_url": false
+    }
+  ]
+}

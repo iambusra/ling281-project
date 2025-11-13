@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-10T23:54:37.739181",
+    "total_entries": 1,
+    "input": "2023 seçimlerinde sığınmacı oy oranı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "2023 seçimlerinde sığınmacı oy oranı",
+      "entry_id": "131633159",
+      "author": "345trimetilheptan",
+      "date": "28.12.2021 11:42",
+      "content": "2023 seçimlerinde oy kullanacak sığınmacıların oranıdır. türkiye'de gayrıresmi verilere göre 8 milyon civarında suriyeli, afgan, ıraklı v.s. mülteci var. bbc'nin 2019'da yaptığı bir habere göre suriyeli sığınmacıların yaklaşık %54'ü 18 yaş üstü. benzer bir oranın 2023'te de geçerli olduğunu varsayalım iyi ihtimalle %50'si 18 yaş üstü olacak diyelim yani 4 milyon sığınmacı eder. 2023'te 64 milyon seçmen oy kullanacak. (4/64+4)x100=5.8 yani akp gider ayak tüm 18 yaş üstü mültecilere vatandaşlık verirse - ki 1 milyon civarı bir vatandaşlık hali hazırda verilmiş durumda- önümüzdeki seçimde yaklaşık %5.8'lik bir akp dopingi olacak. sığınmacılara vatandaşlık verilmesini eleştirenleri faşist olmakla suçlayanların bu oranı görmesi gerek.",
+      "has_external_url": true
+    }
+  ]
+}

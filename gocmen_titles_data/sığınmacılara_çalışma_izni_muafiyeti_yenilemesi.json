@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:02:22.264156",
+    "total_entries": 3,
+    "input": "sığınmacılara çalışma izni muafiyeti yenilemesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "sığınmacılara çalışma izni muafiyeti yenilemesi",
+      "entry_id": "169266264",
+      "author": "kafa trilyon",
+      "date": "15.10.2024 12:56",
+      "content": "genç nüfusta işsizlik oranının yüzde 16 toplam işsizlik oranının yüzde 9 olduğu (o da yersen) ülkeme karşı işlenmiş suçlardan bir diğeri. gizli işsizlik rakamlarını dahil etmedim bile.\n\nbazılarının gerçekten yatacak yeri yok.",
+      "has_external_url": false
+    },
+    {
+      "title": "sığınmacılara çalışma izni muafiyeti yenilemesi",
+      "entry_id": "169266670",
+      "author": "7714714",
+      "date": "15.10.2024 13:13",
+      "content": "oluşacak vergi açığını bakalım hangi adla türk halkına bindirecekler",
+      "has_external_url": false
+    },
+    {
+      "title": "sığınmacılara çalışma izni muafiyeti yenilemesi",
+      "entry_id": "169266811",
+      "author": "cutestvillain",
+      "date": "15.10.2024 13:19",
+      "content": "bunun adı düpedüz vatana ihanettir.",
+      "has_external_url": false
+    }
+  ]
+}

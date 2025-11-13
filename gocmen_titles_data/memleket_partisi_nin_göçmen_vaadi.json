@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:08:27.700702",
+    "total_entries": 3,
+    "input": "memleket partisi'nin göçmen vaadi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "memleket partisi'nin göçmen vaadi",
+      "entry_id": "161912098",
+      "author": "dolunayingolgesi",
+      "date": "26.02.2024 09:29",
+      "content": "31 mart 2024 seçim beyannamesi'nde şöyle yazılmıştır:\n\ntüm belediyelerimizde “göç büroları” kuracağız.\n\nhalkımızın göçmenlerle olan sorunlarını yakından takip edeceğiz ve yaşanmakta olan hukuksal sorunlar konusunda vatandaşlarımıza ücretsiz destek vereceğiz.\n\nülkesine dönme kararı alan göçmenlere şartların uygunluğuna göre mali destek sağlanacaktır.\n\nbelediyelerimiz, göç konusunda merkezi idare ile uyumlu ve çözüm odaklı çalışacaklardır.\n\nkaynak: https://www.memleketpartisi.org.tr/…eyannamesi̇.pdf",
+      "has_external_url": true
+    },
+    {
+      "title": "memleket partisi'nin göçmen vaadi",
+      "entry_id": "161912370",
+      "author": "fasistdegilirkci",
+      "date": "26.02.2024 09:41 ~ 09:43",
+      "content": "merkezi idare ile her türlü konuda uyumlu çalıştıkları ortada, yazıya dökmekleri de doğruluğunu bir kez daha ortaya koyuyor. göç konusunda atanamamış erdoğan olan ince zaten güvenilmeyecek biridir. ülkesine dönme kararı alana kimse dur demiyor zaten. suriyeliler geçici koruma altında, bayramda giden adam memleketine mi dönemiyor diye düşünüyorlar. kaçak olarak gelmişse alır postalarsın, hukuksal olarak hakkındır zaten. bir de göçü teşvik eden merkezi idare ile ortak hareket edeceklermiş. en ufak fikirleri yokmuş, onu görmüş olduk. zaten hiçbir konuda en ufak fikirleri yok.",
+      "has_external_url": false
+    },
+    {
+      "title": "memleket partisi'nin göçmen vaadi",
+      "entry_id": "161917796",
+      "author": "dolunayingolgesi",
+      "date": "26.02.2024 13:20",
+      "content": "beyanname burada da bulunabilir: https://www.memleketpartisi.org.tr/…kurumsal-kimlik",
+      "has_external_url": true
+    }
+  ]
+}

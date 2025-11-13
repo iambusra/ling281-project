@@ -1,0 +1,60 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:20:08.216878",
+    "total_entries": 6,
+    "input": "mordor'un ölümcül hasta göçmenleri alması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "mordor'un ölümcül hasta göçmenleri alması",
+      "entry_id": "103243085",
+      "author": "daver bey",
+      "date": "09.03.2020 09:53",
+      "content": "(bkz: yaran başlıklar)",
+      "has_external_url": false
+    },
+    {
+      "title": "mordor'un ölümcül hasta göçmenleri alması",
+      "entry_id": "103243203",
+      "author": "rohirrim76",
+      "date": "09.03.2020 09:56 ~ 09:57",
+      "content": "elfçe'de zaten mordor kara ülke demektir. adının hakkını bir kere daha kanıtlamış; işte feraset, işte cesaret şeklinde methiyeler dizebileceğimiz bir davranış.\n\nyaşasın sauron, varolsun uruk hailer!",
+      "has_external_url": false
+    },
+    {
+      "title": "mordor'un ölümcül hasta göçmenleri alması",
+      "entry_id": "103243209",
+      "author": "saipsiz",
+      "date": "09.03.2020 09:56",
+      "content": "orkların sınırı geçen mültecilerin yarısını yiyerek geri göndermesi ile sonuçlanması muhtemeldir.",
+      "has_external_url": false
+    },
+    {
+      "title": "mordor'un ölümcül hasta göçmenleri alması",
+      "entry_id": "103243424",
+      "author": "ertinuviel",
+      "date": "09.03.2020 10:04 ~ 10:06",
+      "content": "isengard'a geri dönüşüme götürüleceklerdir.\n\n(bkz: ork üretmek için gereken malzeme)",
+      "has_external_url": false
+    },
+    {
+      "title": "mordor'un ölümcül hasta göçmenleri alması",
+      "entry_id": "103243506",
+      "author": "milltheofrun",
+      "date": "09.03.2020 10:06",
+      "content": "(bkz: goblinlerin aslında göçmen olması)",
+      "has_external_url": false
+    },
+    {
+      "title": "mordor'un ölümcül hasta göçmenleri alması",
+      "entry_id": "103243638",
+      "author": "debauchee",
+      "date": "09.03.2020 10:11",
+      "content": "\"bu kadar nazgûl'u kim besleyecek arkadaş biz kendimize zor bakıyoh\" diye isyan ettirir..",
+      "has_external_url": false
+    }
+  ]
+}

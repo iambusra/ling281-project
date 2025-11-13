@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:00:13.797911",
+    "total_entries": 1,
+    "input": "sığınmacılar referandumu",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "sığınmacılar referandumu",
+      "entry_id": "156975567",
+      "author": "mapy",
+      "date": "21.09.2023 13:14",
+      "content": "sayın ümit özdağ'ın öne sürdüğü fikir. sığınmacılar ülkemizde doğrudan veya dolaylı olarak birçok sorun yaratıyor. ev kiralarının artması, toplu taşımadaki yoğunluk, işsizlik, sosyo kültürel sorunlar, asayiş sorunları vb.\n\nbir referandum yaparak halkımıza sorsak sonuç ne olurdu?\n\nankete katılmak için tıkla",
+      "has_external_url": true
+    }
+  ]
+}

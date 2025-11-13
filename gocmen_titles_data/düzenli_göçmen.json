@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:08:11.469065",
+    "total_entries": 1,
+    "input": "düzenli göçmen",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "düzenli göçmen",
+      "entry_id": "163140837",
+      "author": "kundurama kum dolmus",
+      "date": "04.04.2024 15:16",
+      "content": "(bkz: düzensiz göçmen) gibi olmayıp,\nerken yatan, erken kalkan,\nbir yumurtayı sütle çırpan,\nbirazcık ekmek biraz da peynir ile güzel güzel yiyen göçmen tipidir...\n\nayrıca çorapları, iç çamaşırları, elbiseleri sırt çantasında her daim temiz ve katlı şekilde durur, diş fırçası ve diş macunu da çantanın ön cebindedir, zira ne zaman göç edeceği bilinmez...\nnüfus cüzdanı ya da pasaportu var mıdır? bu bilgi bize gelmedi...\nancak düzenli olduklarından herhalde bir yerlerde parmak izi neyim vardır, suç işleyip elini kolunu sallaya sallaya kaçamaz...",
+      "has_external_url": false
+    }
+  ]
+}

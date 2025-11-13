@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:16:09.454126",
+    "total_entries": 2,
+    "input": "ukrayna'nın insanlığa katkısı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukrayna'nın insanlığa katkısı",
+      "entry_id": "42304812",
+      "author": "somek kafali",
+      "date": "27.04.2014 18:38",
+      "content": "bir belarus kadar değildir. (bkz: belarus'un insanlığa katkısı)",
+      "has_external_url": false
+    },
+    {
+      "title": "ukrayna'nın insanlığa katkısı",
+      "entry_id": "42304895",
+      "author": "uzakyol mico",
+      "date": "27.04.2014 18:42",
+      "content": "(bkz: nemiroff)",
+      "has_external_url": false
+    }
+  ]
+}

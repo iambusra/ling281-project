@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:15:32.210389",
+    "total_entries": 2,
+    "input": "ukrayna'dan toprak talebi olan ülkeler",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukrayna'dan toprak talebi olan ülkeler",
+      "entry_id": "40909953",
+      "author": "somek kafali",
+      "date": "05.03.2014 23:16",
+      "content": "polonya, rusya falandır.",
+      "has_external_url": false
+    },
+    {
+      "title": "ukrayna'dan toprak talebi olan ülkeler",
+      "entry_id": "40910072",
+      "author": "somek kafali",
+      "date": "05.03.2014 23:20",
+      "content": "(bkz: polonya'nın ukrayna'dan toprak istemesi)",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:21:18.167915",
+    "total_entries": 3,
+    "input": "danimarka'da sosyalden geçinen göçmenlere şok",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "danimarka'da sosyalden geçinen göçmenlere şok",
+      "entry_id": "137892071",
+      "author": "oteberidegil",
+      "date": "25.05.2022 15:31",
+      "content": "tayyiptapar gurbetçileri kahreden gelişmedir.",
+      "has_external_url": false
+    },
+    {
+      "title": "danimarka'da sosyalden geçinen göçmenlere şok",
+      "entry_id": "137892203",
+      "author": "deutsche am meer",
+      "date": "25.05.2022 15:35",
+      "content": "nazi danimarka'dan beklenen gelişme.\naynen bir tek göçmenler yapıyor zaten.",
+      "has_external_url": false
+    },
+    {
+      "title": "danimarka'da sosyalden geçinen göçmenlere şok",
+      "entry_id": "137892288",
+      "author": "bir daha kimseye guvenmeyen adam",
+      "date": "25.05.2022 15:38",
+      "content": "umarım benzer çalışma diğer avrupa ülkeleri'de yayılır dediğim olaydır. konunun göçmen karşıtlığı ile ilgisi yok önce bunu anlamak lazım. tamamen vergilerin, adaletin peşinde koşmaktır.",
+      "has_external_url": false
+    }
+  ]
+}

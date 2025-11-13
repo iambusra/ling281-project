@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:42:30.435469",
+    "total_entries": 2,
+    "input": "öğrenciye 300tl mülteciye 600tl burs imkanı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "öğrenciye 300tl mülteciye 600tl burs imkanı",
+      "entry_id": "128134621",
+      "author": "speedy gonzalesss",
+      "date": "17.09.2021 11:24 ~ 20.09.2021 09:54",
+      "content": "başka örneği hangi ülkede var merak ettiğim vakıflar genel müdürlüğünün yayınladığı beyan.\nedit: link gitmisti.\nkaynak\nedit2:\nbu sene ise 400tl turkiye cumhuriyeti vatandasına 600tl ise yabancı uyruklu.\nkaynak2\n\n2023'de umarım giderler de halk bir nefes alır bu arap milliyetcilerinden.",
+      "has_external_url": true
+    },
+    {
+      "title": "öğrenciye 300tl mülteciye 600tl burs imkanı",
+      "entry_id": "128134658",
+      "author": "iceshot",
+      "date": "17.09.2021 11:25",
+      "content": "hahahaaha welcome to turkey arkadaşlar.\n\ntanım: kendi vatandaşıyla yurtdışından gelen vatandaş arasındaki ayrımı gözler önüne seren bir açıklama.",
+      "has_external_url": false
+    }
+  ]
+}

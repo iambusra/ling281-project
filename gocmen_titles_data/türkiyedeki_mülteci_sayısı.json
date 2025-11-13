@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:39:08.084942",
+    "total_entries": 3,
+    "input": "türkiyedeki mülteci sayısı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türkiyedeki mülteci sayısı",
+      "entry_id": "166195695",
+      "author": "sociocat",
+      "date": "10.07.2024 12:38",
+      "content": "mülteci (refugee) sayısı 3.5 milyon civarı. bunlar resmi belgesi olan kişiler olduğu için kesin sayısı biliniyor. ülkeye bir şekilde girip iltica başvurunda bulunarak mülteci durumunda olmak isteyen ama henüz onaylanmayıp arafta kalanlar da sığınmacı (asylum seeker) olarak adlandırılıyor. göçmen (immigrant) ise çalışma vizesi veya öğrenci vizesi ile çeşitli yollarla ülkelerden bir şekilde gelenlere deniliyor. kaçak-düzensiz göçmenler ise bir ülkeye girip resmi süresi dolmasına rağmen ülkesine gitmeyen veya direkt içeri girip yaşamaya başlayan bir başvurusu olmayanlara deniliyor.\nbunların toplam sayının 13 milyon civarı olduğunu iddia etmişti ümit özdağ. çoğu kişi bu terimlere hakim olmadığı için farklı kelimeler kullanarak azmış gibi gösteriliyor.",
+      "has_external_url": false
+    },
+    {
+      "title": "türkiyedeki mülteci sayısı",
+      "entry_id": "166195913",
+      "author": "yapaysayi",
+      "date": "10.07.2024 12:46",
+      "content": "mülteci hafif bir kelime.\nbiz ona istilacı sayısı diyoruz.\nçok hızlı büyüyen bir sayı.",
+      "has_external_url": false
+    },
+    {
+      "title": "türkiyedeki mülteci sayısı",
+      "entry_id": "166521496",
+      "author": "sagliginiz icin",
+      "date": "21.07.2024 08:06",
+      "content": "x il goc idaresinden iki kisiyle konusma firsatim oldu; en az 3 kati dediler...",
+      "has_external_url": false
+    }
+  ]
+}

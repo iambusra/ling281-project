@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-10T23:59:13.571123",
+    "total_entries": 1,
+    "input": "13 temmuz 2021 afgan mülteci görüntüleri",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "13 temmuz 2021 afgan mülteci görüntüleri",
+      "entry_id": "125678900",
+      "author": "ufo goren masum cityli",
+      "date": "13.07.2021 16:28",
+      "content": "aynı şeyi ipsala sınır kapısından benimle yapacak yazar arkadaşlar aranıyor. koşalım avrupa'ya doğru nolcak 3-5 havaya ateş ederler o kadar, sonrasında hoooppp avrupa'dayız.",
+      "has_external_url": false
+    }
+  ]
+}

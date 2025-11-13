@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:17:46.953430",
+    "total_entries": 1,
+    "input": "rus ruletinin olimpiyat oyunlarına dahil edilmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rus ruletinin olimpiyat oyunlarına dahil edilmesi",
+      "entry_id": "179342438",
+      "author": "ringocep",
+      "date": "24.10.2025 16:44 ~ 16:47",
+      "content": "bu sabah saat 10 itibariyla uluslararası olimpiyat komitesine attığım maille dile getirdiğim istek. rus kardeşlerimizin milli sporunun olimpiyat oyunlarına dahil edilmesiyle senelerdir süren anlamsız ambargonun ortadan kaldırılarak, gönüllerinin alınması güzel olacaktır.\n\nsiz de benimle aynı fikirdeyseniz aşağıda verdiğim link üzerinden olimpiyat komitesini darlayabilirsiniz.\n\nhttps://support.olympics.com/hc/en-gb/requests/new",
+      "has_external_url": true
+    }
+  ]
+}

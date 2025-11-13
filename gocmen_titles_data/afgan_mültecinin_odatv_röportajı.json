@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:45:09.719782",
+    "total_entries": 4,
+    "input": "afgan mültecinin odatv röportajı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "afgan mültecinin odatv röportajı",
+      "entry_id": "126248103",
+      "author": "non mi avete fatto niente",
+      "date": "28.07.2021 22:48",
+      "content": "serdar cebe ile saklı gündem programında yapılan röportaj.\n\nizlemek için",
+      "has_external_url": true
+    },
+    {
+      "title": "afgan mültecinin odatv röportajı",
+      "entry_id": "126248404",
+      "author": "akm7",
+      "date": "28.07.2021 22:55",
+      "content": "oversize tsirt, boyalı saç, alınmış hilal gibi kaş.\n\ndaha da bir şey yazmaya gerek yok amk.",
+      "has_external_url": false
+    },
+    {
+      "title": "afgan mültecinin odatv röportajı",
+      "entry_id": "126248810",
+      "author": "oz suser",
+      "date": "28.07.2021 23:03",
+      "content": "surilere iyi baktıkları için türkiye'den memnun değilim diyen bir afgan içeren video.",
+      "has_external_url": true
+    },
+    {
+      "title": "afgan mültecinin odatv röportajı",
+      "entry_id": "126249244",
+      "author": "cikileta cikita",
+      "date": "28.07.2021 23:12",
+      "content": "yıllardır türkiye'de olan bir afgan. şeklini düzeltip bize satmaya çalışıyorlar. ama adam hala diyor ki \"ben avrupa'ya gideceğim çünkü türkiye iyi değil\"\n\nyani bizi de beğenmiyor o çok sevdiğiniz afganlar. sadece bir basamak olarak görüyorlar. rahat rahat her yerde dolaşmaya başladılar ve hatta artık röportaj verir hale geldiler. ben şahsım adına göçmen ülkesi olduğumuz için değil yasalarımız işlemiyor ve sınır güvenliğimiz yok diye utanıyorum. yazıklar olsun bu duruma düşüren arap sevicilerine.",
+      "has_external_url": false
+    }
+  ]
+}

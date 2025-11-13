@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:16:39.864054",
+    "total_entries": 1,
+    "input": "göçmenler kalsın mı reklam kampanyasi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "göçmenler kalsın mı reklam kampanyasi",
+      "entry_id": "152480034",
+      "author": "probiyotik baklava",
+      "date": "16.05.2023 23:25 ~ 23:33",
+      "content": "kemal kılıçdaroğlu'nun 28 mayıs seçimi için bir reklam onerisi.\ntüm tv reklamlari, reklam panolari vatandaşa sorarken durumun tersine donmesi icin kk secenegini sunsun iste.\n\nbilal bile \"kemal kılıçdaroğluna mi oy versem babacim\" diye sorsun.\n\n- göçmenler kalsın mı?\n- universiteli işsizler ordusu büyüsün mü?\n- 5li çete türk halkını soymaya devam etsin mi?\n- pazar torbalari boş kalmaya devam etsin mi?\n- kadın cinayetleri artmaya devam etsin mi?\n- doktorlarimiz yurtdisina yerlesmeye devam etsin mi?\n- kira fiyatlari artsın mı?\n- dolar 30 tl olsun mu?\nvb..\neklemeler;\n- suriyeliler türk vatandaşı olsun mu?",
+      "has_external_url": false
+    }
+  ]
+}

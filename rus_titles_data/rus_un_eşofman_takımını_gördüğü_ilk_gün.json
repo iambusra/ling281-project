@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:26:03.164247",
+    "total_entries": 2,
+    "input": "rus'un eşofman takımını gördüğü ilk gün",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rus'un eşofman takımını gördüğü ilk gün",
+      "entry_id": "48958510",
+      "author": "bu tabanca bu cakmak",
+      "date": "05.02.2015 15:07",
+      "content": "kuvvetle muhtemel hayatının en heyecanlı günüdür. adamlar o kadar seviyor ki düğünde bile giyiyorlar.",
+      "has_external_url": false
+    },
+    {
+      "title": "rus'un eşofman takımını gördüğü ilk gün",
+      "entry_id": "48958712",
+      "author": "lat uzza menat",
+      "date": "05.02.2015 15:16",
+      "content": "adam doğru söylüyor..\n\neşofman lı damat..",
+      "has_external_url": true
+    }
+  ]
+}

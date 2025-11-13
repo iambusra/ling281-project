@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:05:06.246155",
+    "total_entries": 2,
+    "input": "sığınmacıların ingilizce bilmemesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "sığınmacıların ingilizce bilmemesi",
+      "entry_id": "139553111",
+      "author": "yunusemrea",
+      "date": "03.07.2022 23:14",
+      "content": "bir ülkeye yıllar boyu sığındıysan o ülkenin dilini öğreneceksin.\nöğrenmediysen hizmet alamayacaksın\nayrıca savaş bitti, sktir olup gideceksin",
+      "has_external_url": false
+    },
+    {
+      "title": "sığınmacıların ingilizce bilmemesi",
+      "entry_id": "139555467",
+      "author": "jendem",
+      "date": "04.07.2022 00:00",
+      "content": "çünkü dil bilenleri çoktan avrupa'ya kapak attı, bize çeri çöpü kaldı.",
+      "has_external_url": false
+    }
+  ]
+}

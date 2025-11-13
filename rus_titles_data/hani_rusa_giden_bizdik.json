@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:25:16.788097",
+    "total_entries": 1,
+    "input": "hani rusa giden bizdik",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "hani rusa giden bizdik",
+      "entry_id": "81069687",
+      "author": "syu",
+      "date": "07.09.2018 23:42",
+      "content": "tersi oldu şimdi.",
+      "has_external_url": false
+    }
+  ]
+}

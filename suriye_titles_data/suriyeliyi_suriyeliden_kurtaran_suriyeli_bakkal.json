@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:07:57.473560",
+    "total_entries": 2,
+    "input": "suriyeliyi suriyeliden kurtaran suriyeli bakkal",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeliyi suriyeliden kurtaran suriyeli bakkal",
+      "entry_id": "95712590",
+      "author": "cathars",
+      "date": "23.09.2019 16:48",
+      "content": "suriye'de geçmeyen bir olayın hikayesi.\n\n(bkz: sultangazi)\n\n--- spoiler ---\n\nsuriyeli iki grup arasında kavga çıktı. kavga sırasında kaçarak bir dükkana sığınan, kalabalık bir grup tarafından kovalanan suriyeli'yi linç edilmekten, suriyeli dükkan sahibi juma jalloul ile mahalleli kurtardı.\n--- spoiler ---\n\nözet görsel: https://icdn.ensonhaber.com/…/2019/09/23/a_8179.jpg\n\nhttps://www.haberler.com/…ga-kacan-12453457-haberi/",
+      "has_external_url": true
+    },
+    {
+      "title": "suriyeliyi suriyeliden kurtaran suriyeli bakkal",
+      "entry_id": "95714069",
+      "author": "wikiman",
+      "date": "23.09.2019 17:30",
+      "content": "(bkz: suriyeliception)",
+      "has_external_url": false
+    }
+  ]
+}

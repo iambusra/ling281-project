@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:03:09.303151",
+    "total_entries": 3,
+    "input": "almanya'nın sığınmacılara flört kursu vermesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "almanya'nın sığınmacılara flört kursu vermesi",
+      "entry_id": "60425018",
+      "author": "garen",
+      "date": "09.05.2016 20:44 ~ 20:45",
+      "content": "alman devletinin batılı kadınlara nasıl yaklaşılacağını, nasıl iletişim kurulacağını öğretmek amacıyla faaliyete geçmiş kurstur.\n\nözellikle köln de yaşanan tacizler sonrası ortaya çıkmıştır. yani almanlar diyor ki \"kadın düşmanı ortadoğu kültürünüzü unutun. size medeni olarak nasıl bir arada yaşanır onu öğreteceğiz\"\n\nkaynak\n\ntürkiye'de nasıl olurdu düşünemiyorum. kesinlikle bunu ortaya atan siyasetçi godoşlukla suçlanırdı",
+      "has_external_url": true
+    },
+    {
+      "title": "almanya'nın sığınmacılara flört kursu vermesi",
+      "entry_id": "60425301",
+      "author": "dont try",
+      "date": "09.05.2016 20:57",
+      "content": "ırkçılık mı desem, terbiyesizlik mi desem bilmiyorum. o adamların da bu durumu kabul edip kurs görmeleri de ayrı bir dram. ulan bu insanın doğasında vardır. hangimiz kurs alarak kızlara veya erkeklere yazıldık. onur kırıcı bir hareketten başka bir şey değildir. üstün ırksınız ya, afrikalı adama nasıl karı tavlanacağını kurallarınıza göre gösteriyorsunuz. o afrikalının z*ki girsin size.",
+      "has_external_url": false
+    },
+    {
+      "title": "almanya'nın sığınmacılara flört kursu vermesi",
+      "entry_id": "60425799",
+      "author": "turksanatmuzigi",
+      "date": "09.05.2016 21:22 ~ 21:23",
+      "content": "bir de bu haber vardı. http://www.nytimes.com/…ers.html?smid=tw-share&_r=0\nhttp://www.br.de/…nderstand-country-people-100.html",
+      "has_external_url": true
+    }
+  ]
+}

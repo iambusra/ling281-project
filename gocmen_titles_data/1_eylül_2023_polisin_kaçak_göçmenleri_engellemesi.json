@@ -1,0 +1,52 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:18:40.393807",
+    "total_entries": 5,
+    "input": "1 eylül 2023 polisin kaçak göçmenleri engellemesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "1 eylül 2023 polisin kaçak göçmenleri engellemesi",
+      "entry_id": "156279538",
+      "author": "katil",
+      "date": "01.09.2023 12:51 ~ 12:51",
+      "content": "alman polisinin bavyera eyaletinden ülkeye giriş yapmaya çalışan 28 suriyeliyi yakalayıp sosyal medyada deşifre etme olayı. darısı ülkemizin başına.\n\nçarşamba günü polis brandenburg'un güneyinde 92 kişinin izinsiz giriş yaptığını ortaya çıkardı. bir vakada, bir ukraynalı, 27 suriyeli erkek ve 1 suriyeli kadını bir nakliye aracının yükleme platformunda emniyetsiz bir şekilde kaçırdı. kendisi gözaltına alınmıştır.\nhttps://twitter.com/…l_b/status/1697522756080865352",
+      "has_external_url": true
+    },
+    {
+      "title": "1 eylül 2023 polisin kaçak göçmenleri engellemesi",
+      "entry_id": "156280343",
+      "author": "redmoon84",
+      "date": "01.09.2023 13:20",
+      "content": "bir umut açıp, yine bir hayal kırıklığı ile karşılaştığım başlık.\n\nbu ülkede mutlu olmak aslında çok kolay. düşünerek, sorgulayarak hayatı biz kendimize zorlaştırıyoruz. mevcut zekamızın %10'u ile çok daha mutlu olacağımız kesin.",
+      "has_external_url": false
+    },
+    {
+      "title": "1 eylül 2023 polisin kaçak göçmenleri engellemesi",
+      "entry_id": "156280429",
+      "author": "anani siken kadi",
+      "date": "01.09.2023 13:24",
+      "content": "bir an vatansever bir polis kendini yaktı sandım, meğerse alman polisiymiş.",
+      "has_external_url": false
+    },
+    {
+      "title": "1 eylül 2023 polisin kaçak göçmenleri engellemesi",
+      "entry_id": "156280727",
+      "author": "buyuk oyunu bozan adam",
+      "date": "01.09.2023 13:35",
+      "content": "bi an türkiye sanıp \"hadi lan oradan öyle şey mi olur\" diye laflar hazırlıyordum ki, alman polisi olduğunu öğrendim.\n\nalmanya'nın sınır güvenliğine önem verdiğini gösterir. adamlar için hudut namusmuş.",
+      "has_external_url": false
+    },
+    {
+      "title": "1 eylül 2023 polisin kaçak göçmenleri engellemesi",
+      "entry_id": "156280884",
+      "author": "popdroid oyuncu",
+      "date": "01.09.2023 13:41",
+      "content": "hep erkekler kaçıyor, bunlar eğitimli ordu anlayın artık. gittikleri yeri mahvetmek, pisletmek üstüne programlanmışlar",
+      "has_external_url": false
+    }
+  ]
+}

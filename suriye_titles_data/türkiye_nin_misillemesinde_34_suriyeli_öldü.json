@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:11:05.334590",
+    "total_entries": 1,
+    "input": "türkiye'nin misillemesinde 34 suriyeli öldü",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türkiye'nin misillemesinde 34 suriyeli öldü",
+      "entry_id": "30451219",
+      "author": "hotdoc",
+      "date": "04.10.2012 12:59",
+      "content": "yalan haber\n\nidlib'de (35°56'k 36°38'd) misillemenin kilis değil antakya üzerinden olması gerekir (400 km vs 80 km). antakya sınırında da şu an için ne bunu yapacak obüs ne de roket vardır. hay senin vereceğin haberin el'ini de cezire'sini de...",
+      "has_external_url": false
+    }
+  ]
+}

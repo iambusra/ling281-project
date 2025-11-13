@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:47:09.656789",
+    "total_entries": 1,
+    "input": "türkiye'de kentlerde yaşayan mülteciler",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türkiye'de kentlerde yaşayan mülteciler",
+      "entry_id": "162377209",
+      "author": "efemsradyo",
+      "date": "12.03.2024 10:20 ~ 10:33",
+      "content": "kimsenin sorun etmediği bir diğer durum.\n\nözellikle 6 şubat 2023 depremi ve takip eden surecte tecrübesi edildigi üzere başta ülke güvenliği ve kaynak paylasimi açısından açık yaratan, kısa ve uzun vadede istenmeyen sonuçlar doğuran ve doğurmaya devam edecek bir vaka. türkiye'dekine nazaran bambaşka bir yaşam tipi, dünyaya bambaşka gözlerle bakan ve yaşayan bu insanlar bir anda karşı komşu(!) ya da yan sokaktaki apartmanda bir dairede 8 kişi yaşar hale geldi.\n\nbu sizce nedir? bir kentte böylesine keskin degisimler hangi sartlarda yaşanır? türkiye bir savaşta mi ki de kimisi yarım asırı asmis kimisi de yüzlerce yillik yerleşik mahalle dokusuna sahip kentlerimiz 5-10 yıl içinde bu derece çarpık bir formata büründü?\n\nsorular var cevabı da var ama çözüm yok. çünkü çözüm istenmiyor. lafta milliyetçi türkler, her zaman olduğu gibi masallara inanmaya devam ediyor; sonra da iskenderun'un merkezi pac meydaninda yıkılan bina kurtarma çalışmalarında zamanla yarisirken bir mülteci kurtarılıyor da altta kendi vatandasin için geç kalınıyor! neden çünkü fransizin banliyoden cikartmadigi mülteciler bizde kent merkezlerinde yaşadığı yasayabildigi icin...",
+      "has_external_url": false
+    }
+  ]
+}

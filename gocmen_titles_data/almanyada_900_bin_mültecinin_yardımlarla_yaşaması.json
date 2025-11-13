@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:44:06.130437",
+    "total_entries": 4,
+    "input": "almanyada 900 bin mültecinin yardımlarla yaşaması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "almanyada 900 bin mültecinin yardımlarla yaşaması",
+      "entry_id": "138800617",
+      "author": "gizlikullanici",
+      "date": "15.06.2022 18:37 ~ 18:40",
+      "content": "başlık sığmadı fakat başlık \"yaklaşık 900 bin sığınmacının almanya'da hala sosyal yardımlarla yaşaması\" olmalıydı.\n\n2015-2016 yıllarında almanya'ya suriye, afganistan, somali, ırak, iran, eritre, pakistan ve nijerya'dan giden 1,7 milyon sığınmacının yaklaşık 900.000'inin hala sosyal yardımlarla yaşaması olayıdır.\n\nişsizlik ödeneği olarak ödenen hartz 4 ödeneğini, suriyelilerin yaklaşık %60'ı alırken almanların ise %5.6'sı alıyormuş.\n\nkaynak\n\nbu aralar twitter'da çok fazla sığınmacı karşıtlığı görüyorum ve bunlar yalnızca türkiye'den değil. hatta türkiye'de çok sık kullandığımız \"şeriattan kaçıp avrupa'ya sığınıyorlar, avrupa'ya gelip şeriatı istiyorlar.\" sözünün bir benzerini isveçli bir kullanıcının hesabında bile gördüm. bakalım ne olacak.\n\nedit: sanırım başlık \"900 bin sığınmacının yardımla almanyada yaşaması\" çok daha doğru olur. teşekkürler şimdiden.:)",
+      "has_external_url": true
+    },
+    {
+      "title": "almanyada 900 bin mültecinin yardımlarla yaşaması",
+      "entry_id": "138800693",
+      "author": "k hikayecisi",
+      "date": "15.06.2022 18:40",
+      "content": "yazık hiç kıyamam alamancılara çok fazlaymış. biz ne yapalım abi? adamlar ülkendeki medyayı fonluyor, ülkene para yardımı yapıyor senin ülkende daha uyguna bakıyor mültecilere,salt oraya gitmesin diye.",
+      "has_external_url": false
+    },
+    {
+      "title": "almanyada 900 bin mültecinin yardımlarla yaşaması",
+      "entry_id": "138802361",
+      "author": "normalinsa",
+      "date": "15.06.2022 19:26",
+      "content": "türkiye'de nasıl yaşıyor sanıyorsun acaba sen. insanlar rezalet içerisinde. çocuğa bilimsel anket uyguluyorum yardım formu sanıyor.",
+      "has_external_url": false
+    },
+    {
+      "title": "almanyada 900 bin mültecinin yardımlarla yaşaması",
+      "entry_id": "138802632",
+      "author": "i am still alive",
+      "date": "15.06.2022 19:33",
+      "content": "hahahahahha hadi bakalım alman yöneticiler ve vergi mükellefleri başını öne eğsin de bi düşünsün acaba iyi mi ettik diye. orada almanların parasını çatır çutur yiyen mülteci kardeşlerime helal olsun, o para onların zaten.\n\nsen yıllarca türkiyede yanlış politikaları destekle, ortadoğuda hep bana hep bana, böyle gelir fatura sana patlar.",
+      "has_external_url": false
+    }
+  ]
+}

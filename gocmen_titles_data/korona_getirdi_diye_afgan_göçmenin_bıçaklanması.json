@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:15:37.959120",
+    "total_entries": 2,
+    "input": "korona getirdi diye afgan göçmenin bıçaklanması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "korona getirdi diye afgan göçmenin bıçaklanması",
+      "entry_id": "103442056",
+      "author": "iprenc",
+      "date": "13.03.2020 11:26",
+      "content": "cehalet virüsüne hiç bir zaman aşı bulunamayacak dedirtmiştir.",
+      "has_external_url": false
+    },
+    {
+      "title": "korona getirdi diye afgan göçmenin bıçaklanması",
+      "entry_id": "103442282",
+      "author": "maliyetsizmusavir",
+      "date": "13.03.2020 11:30",
+      "content": "haberi okuyunca yalandır diye düşünüyordum olayın geçtiği yerin (bkz: konya) olduğunu öğrenene kadar.",
+      "has_external_url": false
+    }
+  ]
+}

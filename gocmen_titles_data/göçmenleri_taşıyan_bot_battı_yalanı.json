@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:20:49.121619",
+    "total_entries": 1,
+    "input": "göçmenleri taşıyan bot battı yalanı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "göçmenleri taşıyan bot battı yalanı",
+      "entry_id": "54491947",
+      "author": "eksimtrack",
+      "date": "02.09.2015 14:57",
+      "content": "kaçak insanları taşıyan botların bilerek batırılması durumudur.\n\nkimse istemiyor bu insanları kimse omuzlarına yük almak istemiyor fakat o botta bulunan masum insanların tek isteği kendilerini güvende hissedecekleri biryer bulmak.\nkimse istemediği için mülteci botlarını çeşitli ülkelerin askerleri durdurup paralarını gasp ediyorlar ve yaşlı yada çocuk dinlemeden kolunu bacağını kırarak denize atıyorlar.",
+      "has_external_url": false
+    }
+  ]
+}

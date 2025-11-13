@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-10T23:38:44.214677",
+    "total_entries": 1,
+    "input": "suri afko paki",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suri afko paki",
+      "entry_id": "140228080",
+      "author": "yedinci element",
+      "date": "20.07.2022 12:00",
+      "content": "mahşerin 3 atlısı.",
+      "has_external_url": false
+    }
+  ]
+}

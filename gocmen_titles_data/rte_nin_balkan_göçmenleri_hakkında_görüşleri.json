@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:20:36.853417",
+    "total_entries": 1,
+    "input": "rte'nin balkan göçmenleri hakkında görüşleri",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rte'nin balkan göçmenleri hakkında görüşleri",
+      "entry_id": "78374208",
+      "author": "circiriye",
+      "date": "22.06.2018 21:47 ~ 21:50",
+      "content": "“muhacır diye küçümsenenler, tarihin yazdığı savaşlarda en geriye kalanlar, yani düşmanla sonuna kadar dövüşenler, çekilen ordunun ricat hatlarını sağlamak için kendilerini feda edenler ve düşman karşısında kaçmak, çekilmek nedir bilmeyenlerdir.\n\nmuhacırlar kaybedilmiş topraklarımızın aziz hatıralardır.. “\n\nmustafa kemal atatürk\n\nedit: başlık başa kuzgun leşe.\nilk entry malum şahsın balkan göçmenleri ile alakalı açıklamalarıydı.",
+      "has_external_url": false
+    }
+  ]
+}

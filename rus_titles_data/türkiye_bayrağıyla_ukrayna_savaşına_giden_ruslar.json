@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:26:50.994773",
+    "total_entries": 1,
+    "input": "türkiye bayrağıyla ukrayna savaşına giden ruslar",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türkiye bayrağıyla ukrayna savaşına giden ruslar",
+      "entry_id": "144042624",
+      "author": "smirnoff",
+      "date": "18.10.2022 01:08 ~ 01:24",
+      "content": "-iddiaya göre- rusya ukrayna cephesine ahıska türklerini göndermeye başladı. ukrayna cephesine gidecek olan bazı askerler, giydikleri balistik yeleklere türk bayrağı peçi takmışlar. ayrıca yanlarında türk bayrağı taşıyorlar .\n\n-diplomatik açıdan türkiye'yi zora sokması bir yana- hangi ordu üniformasında herhangi bir resmi bağı olmayan bir ülkenin bayrağı nasıl yer alır? rus ordusu buna nasıl izin verir? bu disiplinsizlikle, rusya'nın ukrayna'da ağır hezimet alması çok normal.\n\nyarın öbür gün, üniformasında türk bayrağı taşıyan rus esirler veya cansız bedenleri ele geçirildiği zaman sıkıntı yaşamamak için, dışişleri bakanlığı'nın rusya'ya uyarı notası vermesi gerekir.",
+      "has_external_url": true
+    }
+  ]
+}

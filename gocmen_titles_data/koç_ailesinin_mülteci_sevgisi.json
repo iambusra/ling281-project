@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:40:24.773369",
+    "total_entries": 2,
+    "input": "koç ailesinin mülteci sevgisi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "koç ailesinin mülteci sevgisi",
+      "entry_id": "165296034",
+      "author": "princeofthedawn",
+      "date": "12.06.2024 21:24",
+      "content": "ülkemizin en zengin ailelerinden biri olan koçların, yardımlaşma hareketleri kapsamında kendilerine görev edindikleri durum, ortaya koymaktadır ki koç ailesi türkiye'ye yığınla dolmuş geçici sığınmacıdan memnun gözüküyor.\nherhalde düşük iş gücü fiyatlarının kendilerine büyük gelirler sağladığını farkettiler.\n\nbunca yokluk sefalet içerisindeki mazlum ülkemin insanına hayrı geçtiler, mültecilerin entegrasyonunu dikkate aldılar. bir de bu konuda ailelerinin almanac sitesinde koç ansiklopedisinde sayfa hazırlamışlar.\n\nbir kez daha görüyoruz ki vatandaşın allahı varsa kapitalistin \"just make a profit\" i var.\n\nilgili sayfa:\nhttps://ansiklopedi.vkv.org.tr/…-destekleme-projesi",
+      "has_external_url": true
+    },
+    {
+      "title": "koç ailesinin mülteci sevgisi",
+      "entry_id": "165296403",
+      "author": "the antiquark",
+      "date": "12.06.2024 21:34",
+      "content": "işin içinde neler vardır kim bilir!",
+      "has_external_url": false
+    }
+  ]
+}

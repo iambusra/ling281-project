@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:58:39.767194",
+    "total_entries": 4,
+    "input": "kürt sığınmacının londra metrosunda adamı itmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "kürt sığınmacının londra metrosunda adamı itmesi",
+      "entry_id": "166877269",
+      "author": "neyazarim",
+      "date": "01.08.2024 21:50",
+      "content": "londra metrosununda yaşanan olayda bankta oturan kürt mültecinin \"bana yan baktı\" diyerek bir vatandaşı gelmekte olan metro raylarına itmesi olayı. neyse ki tren hız kesiyor ve itilen vatandaşı diğer insanlar yukarı çekiyorlar.\n\nx.com\n\n\"uk bize yon bohir\"",
+      "has_external_url": true
+    },
+    {
+      "title": "kürt sığınmacının londra metrosunda adamı itmesi",
+      "entry_id": "166877509",
+      "author": "pastorize kola",
+      "date": "01.08.2024 21:56",
+      "content": "tüm ülkeler birleşip sığınmacıları ne zaman s.kecek, bekliyorum.",
+      "has_external_url": false
+    },
+    {
+      "title": "kürt sığınmacının londra metrosunda adamı itmesi",
+      "entry_id": "166877872",
+      "author": "bunlarfasafisobeyaw",
+      "date": "01.08.2024 22:07",
+      "content": "ama bu durumda türk vatandaşı olması ya da türkiyeli kimliği öne çıkar tabii, böyle bir şey de var...",
+      "has_external_url": false
+    },
+    {
+      "title": "kürt sığınmacının londra metrosunda adamı itmesi",
+      "entry_id": "166880995",
+      "author": "firari panda",
+      "date": "01.08.2024 23:37",
+      "content": "git kavga et, dalaş, bağır yada anlat derdini. öldürmek için bir şey yapacak kadar ne oldu? uyruğu yada ırkı bir yana, bu nasıl bir bastırılmışlıktır? adam raylara kafasını çarpıp ölse ne olacak?",
+      "has_external_url": false
+    }
+  ]
+}

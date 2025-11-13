@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:17:25.785746",
+    "total_entries": 1,
+    "input": "suriyeliler vs diğer kaçak göçmenler",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeliler vs diğer kaçak göçmenler",
+      "entry_id": "136991006",
+      "author": "derdibasindanaskinadam",
+      "date": "04.05.2022 11:08",
+      "content": "biri diğerinin laciverti.",
+      "has_external_url": false
+    }
+  ]
+}

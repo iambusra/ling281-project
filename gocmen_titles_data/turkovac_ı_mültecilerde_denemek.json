@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:51:43.991868",
+    "total_entries": 1,
+    "input": "turkovac'ı mültecilerde denemek",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "turkovac'ı mültecilerde denemek",
+      "entry_id": "126854892",
+      "author": "samet266",
+      "date": "13.08.2021 00:26",
+      "content": "aşşırı mantıklı lan!",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:41:51.780862",
+    "total_entries": 1,
+    "input": "suriyeli bir mülteciyi nasıl tanırsınız",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeli bir mülteciyi nasıl tanırsınız",
+      "entry_id": "42592888",
+      "author": "dr shephard ameliyathaneye",
+      "date": "08.05.2014 10:18",
+      "content": "rastgele örnek secerek sordugumuz bir soru.\naldigimiz cevaplari paylasmayacagim.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T13:45:36.957637",
+    "total_entries": 5,
+    "input": "05.09.2013 suriye oprasyonuna onay çıkması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "05.09.2013 suriye oprasyonuna onay çıkması",
+      "entry_id": "36680460",
+      "author": "conikes",
+      "date": "05.09.2013 04:19",
+      "content": "merdiven boyamayı bırakıp mevziye kurulmama sebep veren karardır",
+      "has_external_url": false
+    },
+    {
+      "title": "05.09.2013 suriye oprasyonuna onay çıkması",
+      "entry_id": "36682089",
+      "author": "gencliginde metalci dovmus hikmet amca",
+      "date": "05.09.2013 09:32 ~ 09:36",
+      "content": "tayyip gidip süngüyle filan savaşır artık. bilgisayar oyunu mu zannediyor lan bunlar savaşı?!",
+      "has_external_url": false
+    },
+    {
+      "title": "05.09.2013 suriye oprasyonuna onay çıkması",
+      "entry_id": "36682226",
+      "author": "kentactis",
+      "date": "05.09.2013 09:43",
+      "content": "muktedirlerin, bağzı yavşaklar ı maşa niyetine kullanarak, suriye'nin petrol rezervlerini yönetebilme veyahut el koyabilme girişimlerine başlamasının da onayının çıkmasıdır. o yavşaklar ki mütemadiyen ağlar, beğemedikleri tavırları dış mihraklar a yükler, sürekli \"oha bu ekonomi bir süper dostum!\" derler.",
+      "has_external_url": false
+    },
+    {
+      "title": "05.09.2013 suriye oprasyonuna onay çıkması",
+      "entry_id": "36682298",
+      "author": "rete mirabile",
+      "date": "05.09.2013 09:49",
+      "content": "sakin ol küçük nusret, karar sadece senato dış ilişkiler komisyonunda senatoda tartışılmaya değer görüldü ve senato oturumuna alındı. bu durumlar için ise 10'a 7 çok iyi bir oran sayılmaz.",
+      "has_external_url": false
+    },
+    {
+      "title": "05.09.2013 suriye oprasyonuna onay çıkması",
+      "entry_id": "36682413",
+      "author": "gayrikabili rucu",
+      "date": "05.09.2013 09:57",
+      "content": "(bkz: oprasyon)",
+      "has_external_url": false
+    }
+  ]
+}

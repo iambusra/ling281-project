@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:29:26.750494",
+    "total_entries": 4,
+    "input": "10.000 $ verseler ruslara karşı savaşır mısın",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "10.000 $ verseler ruslara karşı savaşır mısın",
+      "entry_id": "134272605",
+      "author": "guest12345",
+      "date": "27.02.2022 11:08",
+      "content": "kemal sunal'ın bir sahnesi geldi aklıma.\"bu parayla niyet bile çekilmez\" derdi.\n\nrahmetli bugünleri görerek oynamış herhalde.",
+      "has_external_url": false
+    },
+    {
+      "title": "10.000 $ verseler ruslara karşı savaşır mısın",
+      "entry_id": "134272645",
+      "author": "hirca mapasi",
+      "date": "27.02.2022 11:08",
+      "content": "o kadar bunalmis durumdayim ki, uc yasinda oglum olmasa bir ucak biletine savasirdim. tabii ki is ciddiye binince vazgecer miyim bilmiyorum.",
+      "has_external_url": false
+    },
+    {
+      "title": "10.000 $ verseler ruslara karşı savaşır mısın",
+      "entry_id": "134272774",
+      "author": "yetersiz bobrek",
+      "date": "27.02.2022 11:12",
+      "content": "haftalık mı? aylık olarak mı? savaş bitene kadar mı?\nbunun bi birim zamanı olması lazım",
+      "has_external_url": false
+    },
+    {
+      "title": "10.000 $ verseler ruslara karşı savaşır mısın",
+      "entry_id": "134273305",
+      "author": "better take me back",
+      "date": "27.02.2022 11:31",
+      "content": "insan öldürmeyi istemek çok farklı bir boyuta girmenize neden olur. unutmayalım bir kişinin isteğiyle milyonlar öldürülüyor. karşı taraf haksız bile olsa vereceğimiz en iyi mücadele savaşmamak olur. savaşmayın ve sadece sevişin. o zaman insan olduğunuzu hissedersiniz.",
+      "has_external_url": false
+    }
+  ]
+}

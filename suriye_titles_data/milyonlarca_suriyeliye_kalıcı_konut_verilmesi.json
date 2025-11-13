@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:44:07.950818",
+    "total_entries": 2,
+    "input": "milyonlarca suriyeliye kalıcı konut verilmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "milyonlarca suriyeliye kalıcı konut verilmesi",
+      "entry_id": "74001224",
+      "author": "tatil kufesi",
+      "date": "05.02.2018 02:26 ~ 11:20",
+      "content": "evet verilecekmiş.\nöyle yazıyor gazeteler.\n\nhadi bakalım söylesinler,\nbiz bu suriye savaşında\n3.5 milyon\n-ancak gerçekte\n5 milyon- başımıza ne iş açacağı\nbelli olmayan serseri mayın,\nhazır lopçu, tavşan gibi üreyen suriyeliye(çoğu kürttür)\ntoprak kaybetmedik mi?\nbizim tam 5 milyon kişinin\nyaşayacağı toprağı, suyu, lağımı\nsuriyeden almamız şarttır.",
+      "has_external_url": false
+    },
+    {
+      "title": "milyonlarca suriyeliye kalıcı konut verilmesi",
+      "entry_id": "74001730",
+      "author": "polinpolin",
+      "date": "05.02.2018 02:59",
+      "content": "yminlen kusucam artık gidip sarayın önüne kusucam.",
+      "has_external_url": false
+    }
+  ]
+}

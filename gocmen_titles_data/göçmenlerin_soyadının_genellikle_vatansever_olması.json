@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:24:26.039137",
+    "total_entries": 2,
+    "input": "göçmenlerin soyadının genellikle vatansever olması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "göçmenlerin soyadının genellikle vatansever olması",
+      "entry_id": "166148538",
+      "author": "gelecegiolmayanadamdan",
+      "date": "08.07.2024 22:14",
+      "content": "bursa'da bulgaristan ve yugoslav muhacirlerinde çokca görülen durum.\n\nyurtsever, vatansever, güneş en bolca görülenidir.",
+      "has_external_url": false
+    },
+    {
+      "title": "göçmenlerin soyadının genellikle vatansever olması",
+      "entry_id": "166148592",
+      "author": "alors on dance",
+      "date": "08.07.2024 22:16",
+      "content": "normal değil mi? adam istemiş göçmüş vatansever sonuçta.",
+      "has_external_url": false
+    }
+  ]
+}

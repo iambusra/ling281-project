@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:05:18.825816",
+    "total_entries": 1,
+    "input": "büyük istanbul depreminde sığınmacıların durumu",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "büyük istanbul depreminde sığınmacıların durumu",
+      "entry_id": "136935938",
+      "author": "neelix",
+      "date": "03.05.2022 00:00",
+      "content": "söz konusu depremle ilgili pek konuşulmayan ama inşaattan sonra iki numaralı sorun budur kesinlikle. enkaz altında kalanları bile yağmalayıp tecavüz edecek potansiyelde bir lanet yığınını başımıza bela aldılar. akıl sağlığını ve geleceğini korumak isteyen, imkanı olan bu istanbul denen mezarlıktan bir an önce uzaklaşsın başka yerlere yerleşsin.",
+      "has_external_url": false
+    }
+  ]
+}

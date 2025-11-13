@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:47:32.955485",
+    "total_entries": 3,
+    "input": "teksas valisinin mülteciler için hazırladığı tuzak",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "teksas valisinin mülteciler için hazırladığı tuzak",
+      "entry_id": "155627756",
+      "author": "seven years in tibet",
+      "date": "14.08.2023 10:31 ~ 10:41",
+      "content": "her ülkenin biz gibi gerizekalı olmadını gösteren durumdur. zamanında bizim sınırlarımızda da mayınlar vardı. ne hikmetse durduk yere 2010 yılında mayınların temizlenmesi kararı alındı. sınırda organik tarım (!) yapılacakmış. israilli bir şirket geldi, sınırları temizledi. 2011 yılında suriye iç savaşı çıktı ve sonrası malum. aklı başında ve kendi vatandaşını korumak isteyen her ülkenin yapacağı davranıştır bu. sınıra mayın da koyarsın testere de. bunu bilen kaçaklar da oradan geçmeyi bir daha aklından bile geçirmez.\n\nedit: başlığı açan kaçmış. link buydu",
+      "has_external_url": true
+    },
+    {
+      "title": "teksas valisinin mülteciler için hazırladığı tuzak",
+      "entry_id": "155627904",
+      "author": "nazli fikret run",
+      "date": "14.08.2023 10:37",
+      "content": "meksika tarafından görülecek şekilde tehlike uyarı levhası da koymuşsa beraberinde —ki muhtemelen koymuştur ama koymasına bile gerek yok aslında zira herkes bilir belirlenen sınır geçiş kapıları dışında bir yol kullanarak ülke sınırı geçmenin yasak olduğunu ve ölüm tehlikesi arz ettiğini— makul ve yasal bir tuzaktır. keşke dağa taşa \"hudut namustur\" yazan tüm zırtolar böyle korusa sınırlarını.",
+      "has_external_url": false
+    },
+    {
+      "title": "teksas valisinin mülteciler için hazırladığı tuzak",
+      "entry_id": "155628027",
+      "author": "elleri cebinde olan zdf yoneticisi",
+      "date": "14.08.2023 10:43",
+      "content": "yaygınlaşırsa işe yarayabilir. 1.5 milyarlik çin'e kimse kaçak girmeye çalışmıyor. ya da petrol zengini suudi arabistan'a. neden. çünkü kaçak girerseniz öldürülursünüz de ondan. bunu herkes biliyor. caydiricılik için ölüm korkusu şart. işin garibi amerika, avrupa çin'den arabistan'dan daha fazla kaçak ölduruyorlar. ama 10 kişi ölüyorsa 100 kişi giriyor. çin'e, arabistan'a kimse giremediği için baştan kurallari koydukları için kimseyi öldürmek zorunda da kalmıyorlar.",
+      "has_external_url": false
+    }
+  ]
+}

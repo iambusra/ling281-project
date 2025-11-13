@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:50:13.837515",
+    "total_entries": 4,
+    "input": "hem osmanlıcı olup hem de mültecileri sevmemek",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "hem osmanlıcı olup hem de mültecileri sevmemek",
+      "entry_id": "137000254",
+      "author": "hergelemimar",
+      "date": "04.05.2022 15:27",
+      "content": "osmanlıcıdan kastın akpli lerse onların bir şey dediği yok zaten. lafın rahatsız olanlara ise onlar getirmedi mültecileri. yani hem öyle hem böyle durumu yoktur.",
+      "has_external_url": false
+    },
+    {
+      "title": "hem osmanlıcı olup hem de mültecileri sevmemek",
+      "entry_id": "137000729",
+      "author": "yedinci element",
+      "date": "04.05.2022 15:40",
+      "content": "osmanlı bir balkan devletiydi. ne afganla ne pakiyle işi olmamıştır.",
+      "has_external_url": false
+    },
+    {
+      "title": "hem osmanlıcı olup hem de mültecileri sevmemek",
+      "entry_id": "137002373",
+      "author": "thunderstorm2029",
+      "date": "04.05.2022 16:24 ~ 16:26",
+      "content": "osmanlici dedigin adamlar tam gazz hulog devam. zaten su an multecilere karşı çıkanlar; gercek milliyetci, ataturkcu, akli basinda, gelecegini goren, ulkesini seven insanlar. bugun osmanlicilik pesinde kosanlar yuzunden hala yuzde 25 oy cikiyor.\n\nedit: imla",
+      "has_external_url": false
+    },
+    {
+      "title": "hem osmanlıcı olup hem de mültecileri sevmemek",
+      "entry_id": "137002442",
+      "author": "cokonemlidegilzaten",
+      "date": "04.05.2022 16:26 ~ 17:23",
+      "content": "roma imparatorluğu hunları ne kadar sevdiyse, osmanlıcılar da kadar severler.\n\nosmanlı imparatorluğu bizim sözlükteki sol ve sağ gericilerin hayal ettiğinin aksine balkan merkezli bir devlettir ve şu an türkiye'ye gelen sığınmacıların gelip istanbul'da yaşamasına pek sıcak bakacak bir devlet değildir. devlet için tehlikeli gördükleri dini gruplara ve tarikatlara karşı da çok acımasız tedbirler almaktan çekinmediklerini hatırlatalım.",
+      "has_external_url": false
+    }
+  ]
+}

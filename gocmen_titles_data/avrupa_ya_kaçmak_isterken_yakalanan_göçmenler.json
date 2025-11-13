@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:15:51.791993",
+    "total_entries": 2,
+    "input": "avrupa'ya kaçmak isterken yakalanan göçmenler",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "avrupa'ya kaçmak isterken yakalanan göçmenler",
+      "entry_id": "167825312",
+      "author": "enaypidi",
+      "date": "28.08.2024 13:42",
+      "content": "kamyonet kasasına yapılan özel bölmede yakalanmışlardır.\nlink",
+      "has_external_url": true
+    },
+    {
+      "title": "avrupa'ya kaçmak isterken yakalanan göçmenler",
+      "entry_id": "167825349",
+      "author": "evrakvarsa",
+      "date": "28.08.2024 13:44",
+      "content": "kaçanı değil, gireni engellemeniz gerekiyor. her şeyi ters bu ülkenin.",
+      "has_external_url": false
+    }
+  ]
+}

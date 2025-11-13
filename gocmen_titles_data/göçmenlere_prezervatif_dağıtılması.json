@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:21:50.189622",
+    "total_entries": 1,
+    "input": "göçmenlere prezervatif dağıtılması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "göçmenlere prezervatif dağıtılması",
+      "entry_id": "126620844",
+      "author": "sezen aksu hakkinda dusunceleriniz",
+      "date": "07.08.2021 02:40",
+      "content": "savaştan kaçtıkları için ilkel dürtüleriyle çocuk yapmaya teşne çok sevgili \"göçmenlerimize\" ab fonlarının bir kısmıyla prezervatif dağıtılması. halihazırda böyle bir uygulama var mı veya hiç oldu mu merak ediyorum. tabii bir de bunun eğitimini vermek var.",
+      "has_external_url": false
+    }
+  ]
+}

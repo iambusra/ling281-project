@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:14:41.339497",
+    "total_entries": 2,
+    "input": "muğla'da 122 düzensiz göçmenin kurtarılması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "muğla'da 122 düzensiz göçmenin kurtarılması",
+      "entry_id": "139013688",
+      "author": "zengin mineralli maden suyu",
+      "date": "20.06.2022 22:45",
+      "content": "düzensiz göçmen nedir arkadaş. kaçak işte.\nnormali kaçağı kovalamak yurda sokmamaktır.\nbu işte bir düzensizlik varsa o da kaçakların yurda sokulması.",
+      "has_external_url": false
+    },
+    {
+      "title": "muğla'da 122 düzensiz göçmenin kurtarılması",
+      "entry_id": "139013899",
+      "author": "birkucucukaslancik",
+      "date": "20.06.2022 22:49",
+      "content": "düzensiz demeyelim. göçmen nefretini körüklüyor gibi bir hava sezdim.'yerleşik hayata geçme hususunda kararlı ama henüz yer beğenememiş göçmen' diyelim bence.",
+      "has_external_url": false
+    }
+  ]
+}

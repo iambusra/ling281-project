@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:59:29.403624",
+    "total_entries": 1,
+    "input": "libya'da 74 sığınmacının boğularak ölmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "libya'da 74 sığınmacının boğularak ölmesi",
+      "entry_id": "66430359",
+      "author": "evelemegeveleme",
+      "date": "21.02.2017 14:38 ~ 14:42",
+      "content": "lanet olsun bu dünyanın muktedirlerine!\n\nhttp://www.haberturk.com/…ansiz-bedeni-karaya-vurdu\n\nhttps://twitter.com/…erem/status/833771972874100736\n\nhttps://twitter.com/…erem/status/833771972874100736\n\nöyle küçücük bir haber olarak gazetelerin kıyısına köşesine vuran 74 insan...\n\nekmek için,insanca yaşamak için,birilerine sığınmak için,senin benim gibi\ngülebilmek, yaşayabilmek, nefes alabilmek,aile sahibi olmak, çoluk çocuğuna bir gelecek verebilmek için,bir umut bilinmeyen yollara çıkan; nankör insanlığın, ciğerlerine tuzlu su dolarak cansızlaşan,sahipsiz insanları...!",
+      "has_external_url": true
+    }
+  ]
+}

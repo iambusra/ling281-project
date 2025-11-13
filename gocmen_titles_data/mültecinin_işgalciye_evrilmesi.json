@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:45:30.783152",
+    "total_entries": 1,
+    "input": "mültecinin işgalciye evrilmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "mültecinin işgalciye evrilmesi",
+      "entry_id": "97945359",
+      "author": "yorttumsavuldum",
+      "date": "18.11.2019 12:11",
+      "content": "hergün metrobüste gözlemlediğim evrilme,popülasyon öyle gösteriyor ki,gelecekte azınlıkta kalacağız .",
+      "has_external_url": false
+    }
+  ]
+}

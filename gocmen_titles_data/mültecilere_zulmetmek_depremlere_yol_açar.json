@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:51:04.304594",
+    "total_entries": 2,
+    "input": "mültecilere zulmetmek depremlere yol açar",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "mültecilere zulmetmek depremlere yol açar",
+      "entry_id": "142812174",
+      "author": "papagan ziyanin su kabi",
+      "date": "17.09.2022 22:03",
+      "content": "ortaçağ’dan kalma bir cönkte yazılı olmasını umduğum sözdür.",
+      "has_external_url": false
+    },
+    {
+      "title": "mültecilere zulmetmek depremlere yol açar",
+      "entry_id": "142818816",
+      "author": "le sserafim",
+      "date": "18.09.2022 00:29",
+      "content": "peki ya multecilerin yaptıkları? adamlar gelmiş ülkelerini bırakıp, yardım ediliyor ve pişkin gibi ülkenizi elinizden alıcaz diyip tehdit ediyor. ya bir gidin işinize",
+      "has_external_url": false
+    }
+  ]
+}

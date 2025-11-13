@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:05:31.982506",
+    "total_entries": 1,
+    "input": "steam deck kullanan ukrayna askeri",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "steam deck kullanan ukrayna askeri",
+      "entry_id": "170115040",
+      "author": "odoriko",
+      "date": "12.11.2024 22:47",
+      "content": "tarih boyunca savaşlar hep bir oyun olmuştur aynı zamanda, örneğin satranç gibi...\nlakin kastettiğim bu değildi... .\nnasıl yaptıysa oyun konsolunu gerçek bir silaha bağlamış askerdir...",
+      "has_external_url": true
+    }
+  ]
+}

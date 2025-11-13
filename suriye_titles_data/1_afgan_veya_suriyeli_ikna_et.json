@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-10T23:30:46.621553",
+    "total_entries": 1,
+    "input": "1 afgan veya suriyeli ikna et",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "1 afgan veya suriyeli ikna et",
+      "entry_id": "141510912",
+      "author": "kozniku",
+      "date": "19.08.2022 12:56",
+      "content": "ben etrafımdaki suriyelileri zafer partisi'ne oy vermeye ikna etmeye çalışıyorum, az kaldı.",
+      "has_external_url": false
+    }
+  ]
+}

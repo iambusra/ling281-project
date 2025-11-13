@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:50:08.190532",
+    "total_entries": 2,
+    "input": "mültecileri dayak atarak entegre etmek",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "mültecileri dayak atarak entegre etmek",
+      "entry_id": "137283903",
+      "author": "ayip",
+      "date": "10.05.2022 20:47",
+      "content": "çok ayıp. bizim milletimize yakışmaz. ensariz biz. hiç öyle şeyler yapmayız.",
+      "has_external_url": false
+    },
+    {
+      "title": "mültecileri dayak atarak entegre etmek",
+      "entry_id": "137283993",
+      "author": "ebuuy",
+      "date": "10.05.2022 20:49",
+      "content": "nush ile uslanmayanın hakkı tekrir,\ntekrir ile uslanmayanın hakkı kötektir.\n(bkz: ziya paşa)",
+      "has_external_url": false
+    }
+  ]
+}

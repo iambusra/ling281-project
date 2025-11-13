@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:50:59.250624",
+    "total_entries": 2,
+    "input": "çürük evleri mültecilere kiraya vermek",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "çürük evleri mültecilere kiraya vermek",
+      "entry_id": "149080854",
+      "author": "sinatron",
+      "date": "11.02.2023 17:21",
+      "content": "istanbul fatih ilcesinde kentsel donusum olayinin hic olmamasinin belki de en buyuk sebebi bu kira rantcilarinin varligidir.\n\nkendi yikik dokuk evlerini yabancilara fahis fiyatlarla kiraya verip, kendisi daha guvenli bolgelerde ve yeni binalarda yasayan cogunluk bu ilcenin bu hale gelmesinin belki de en buyuk sebebidir.\n\nbu kira rantcilari binalarin yikilip kentsel donusume girmesi durumunda tikir tikir aldiklari kiradan olup ustune ceplerinden 1 er milyon tl verecekleri icin kentsel donusumu isteyen diger malikleri yeri geldiginde tehdit bile etmektedir. ben sahsen 10 senedir kendi binamda karot aldiramadim bu kiymetli kiracilari olan vatandaslar yuzunden.\n\nbolgede acilen devlet eliyle kentsel donusum baslatilmalidir.",
+      "has_external_url": false
+    },
+    {
+      "title": "çürük evleri mültecilere kiraya vermek",
+      "entry_id": "149213805",
+      "author": "sinatron",
+      "date": "13.02.2023 22:14",
+      "content": "bunu yapan ev sahiplerinden olmamak icin kendi oturdugum eve bu hafta karot aldirip yiktiracagim binayi. binada kalan herkes kacip 10 12 bin tl ye evlerini kiraya verdiler. 1500 tl kira yardimi ile ne yapacagiz onu da bilmiyorum..",
+      "has_external_url": false
+    }
+  ]
+}

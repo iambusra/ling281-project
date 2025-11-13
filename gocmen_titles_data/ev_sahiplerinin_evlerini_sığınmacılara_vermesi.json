@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:02:54.683332",
+    "total_entries": 1,
+    "input": "ev sahiplerinin evlerini sığınmacılara vermesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ev sahiplerinin evlerini sığınmacılara vermesi",
+      "entry_id": "126688063",
+      "author": "biseydiycemben",
+      "date": "08.08.2021 22:17 ~ 22:19",
+      "content": "aslında başlığın tam hali \"ev sahiplerinin evlerini bekar ve öğrencilere kiralık olarak vermezken, sığınmacıların ev kiralamakta hiç zorlanmaması olacaktı. üstelik geçen sene ev ararken kağıthanede 2+1 dairede 20'ye yakın sığınmacının aynı evde yaşadığını gördüm.\nöğrenciyken ve daha sonra 5 yıl istanbulda bekar olarak çalıştığım sürede ev bulmakta zorlanmıştım. bir çok ev sahibi iğrenç bir yüz ifadesi ile \"bekara ev yok\" derken afganlar ve suriyeliler nasıl olurda ev bulmakta zorlanmıyorlar. öyle anlaşılıyor ki (bkz: bağcılar'da kaçak afgan dehşeti) derdiniz kiranın zamanında düzenli olarak yatırılması, yoksa başka birşey değil.",
+      "has_external_url": false
+    }
+  ]
+}

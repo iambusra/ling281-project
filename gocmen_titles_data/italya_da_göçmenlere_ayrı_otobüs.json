@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:23:17.998798",
+    "total_entries": 1,
+    "input": "italya'da göçmenlere ayrı otobüs",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "italya'da göçmenlere ayrı otobüs",
+      "entry_id": "15913694",
+      "author": "nesssli",
+      "date": "04.04.2009 11:49",
+      "content": "italya’nın foggia kentinde yerel halkin gocmenlerden sikayeti uzerine artik yerel halk ile gocmenlerin ulasiminin ayrilmasi icin alinan yerel yonetim karari. yuzyilimizda ayrimcilik.",
+      "has_external_url": false
+    }
+  ]
+}

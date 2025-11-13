@@ -1,0 +1,52 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:43:29.719292",
+    "total_entries": 5,
+    "input": "kilis'in suriyelilerden memnun olması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "kilis'in suriyelilerden memnun olması",
+      "entry_id": "87355420",
+      "author": "awaste",
+      "date": "04.03.2019 15:23",
+      "content": "hepsi iki üç eş aldığı için olabilir mi",
+      "has_external_url": false
+    },
+    {
+      "title": "kilis'in suriyelilerden memnun olması",
+      "entry_id": "110580235",
+      "author": "livefreeordie",
+      "date": "23.07.2020 13:01",
+      "content": "öyle bir şeyin söz konusu olmadığını gösteren belge niteliğinde bir videosu mevcut.\n\nkilisin suriyeli sorunu",
+      "has_external_url": true
+    },
+    {
+      "title": "kilis'in suriyelilerden memnun olması",
+      "entry_id": "110580436",
+      "author": "fun with flags",
+      "date": "23.07.2020 13:06",
+      "content": "gayet de memnunlardır.\n\nhttps://secim.haberler.com/…s-referandum-sonuclari/\nhttps://www.haberturk.com/…nel-secim/sehir/kilis-79\nhttps://www.sozcu.com.tr/secim2019/kilis",
+      "has_external_url": true
+    },
+    {
+      "title": "kilis'in suriyelilerden memnun olması",
+      "entry_id": "110581188",
+      "author": "eksi 18",
+      "date": "23.07.2020 13:26",
+      "content": "defalarca kısa süreliğine gittiğim yer,\ngayet de memnun bir şekilde yaşıyor kilis halkı.\nhatta ufacık meydanda iki tane yardım çadırı\naçılmıştı, para toplamak maksatlı,",
+      "has_external_url": false
+    },
+    {
+      "title": "kilis'in suriyelilerden memnun olması",
+      "entry_id": "110581212",
+      "author": "issox",
+      "date": "23.07.2020 13:27",
+      "content": "kilis'in zaten suriye olması",
+      "has_external_url": false
+    }
+  ]
+}

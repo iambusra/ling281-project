@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:25:40.804448",
+    "total_entries": 1,
+    "input": "rustan sadece orospu olur",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rustan sadece orospu olur",
+      "entry_id": "102764604",
+      "author": "angolabasketcisi",
+      "date": "28.02.2020 15:47",
+      "content": "bir de olsa olsa onun çocuğu...",
+      "has_external_url": false
+    }
+  ]
+}

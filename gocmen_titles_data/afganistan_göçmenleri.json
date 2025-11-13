@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:19:46.506986",
+    "total_entries": 3,
+    "input": "afganistan göçmenleri",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "afganistan göçmenleri",
+      "entry_id": "26825810",
+      "author": "yuhnts",
+      "date": "03.01.2012 15:29 ~ 15:31",
+      "content": "1979'da sovyetlerin afganistanı işgalinden sonra 1982 yılında türkiye bayağı bir göçmen yerleştirildi. ben ağırlıklı olarak afgan göçmenlerin yaşadığı küçük bir ilçede 2 yılımı geçirdim. onların ilk gelişlerini bilmiyorum, ama hatırladığım 15-16 yaşlarında sınıf arkadaşlarım olduğu ve ağırlıklı olarak dericilikle geçindikleri.\n\nbir de konuya değinen bir film olarak (bkz: baran) (mecid mecidi)",
+      "has_external_url": false
+    },
+    {
+      "title": "afganistan göçmenleri",
+      "entry_id": "97133041",
+      "author": "ziplayankaplan",
+      "date": "29.10.2019 11:04",
+      "content": "ülkenin yapısını yavaştan değiştirmeye başlamışlardır. akın akın geliyolar.",
+      "has_external_url": false
+    },
+    {
+      "title": "afganistan göçmenleri",
+      "entry_id": "126269909",
+      "author": "veresiyesatan",
+      "date": "29.07.2021 14:23 ~ 14:31",
+      "content": "öncelikle afganistan'dan göçü elbette desteklemediğimi belirteyim ancak bazı noktalarda yanlış bilgiler veriliyor.\n\nafganistan'dan toplu göçün kırk yıllık bir geçmişi var. 1982 sonrasında on binlerce kişi türkiye'ye yerleşti. bu insanlar bugün toplumumuzun bir parçası ve çoğumuz bunun farkında bile değiliz. gelenler türk olduğu için uyum kolay oldu.\n\nafganistan'dan bugün gelenlerin de büyük kısmı türk. nasıl iran rejimi şii soslu fars milliyetçiliği ise, taliban da islam motifli peştun kabileciliği aslında. türkler bu rejimden kaçıyorlar.\n\nbenim anlamadığım nokta, milliyetçi olduğu iddiasındaki bazı siyasetçiler, göçmenlerin türk olup olmaması arasında bir ayrım yapmıyor. mesela ümit özdağ suriyeli türkler için söylemediğini bırakmıyor ve kendini türk milliyetçisi olarak pazarlayabiliyor.\n\nafgan göçü hakkında daha fazla bilgi için:\nhttps://www.google.com/…iyeye-gocu-ankara-aa,162444",
+      "has_external_url": true
+    }
+  ]
+}

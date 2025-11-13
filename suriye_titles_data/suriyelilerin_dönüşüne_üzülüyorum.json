@@ -1,0 +1,46 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:03:42.383165",
+    "total_entries": 2,
+    "input": "suriyelilerin dönüşüne üzülüyorum",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelilerin dönüşüne üzülüyorum",
+      "entry_id": "172024698",
+      "author": "cskn1903",
+      "date": "19.01.2025 18:59",
+      "content": "kamuoyunda cübbeli ahmet hoca olarak bilinen ahmet mahmut ünlü, suriyelilerin ülkelerine dönüşleriyle ilgili çok konuşulacak açıklamalarda bulundu .\n\ncübbeli ahmet \"ben de üzülüyorum, cemaat eksilecek. türkler camiye gelmiyor ki! türkler canlarını mallarını cehenneme satmışlar\" ifadelerini kullandı.\n\n--- haber içeriği ---\n\nkamuoyunda \"cübbeli ahmet\" adıyla bilinen ahmet mahmut ünlü, suriyelilerin ülkelerine dönmesine neden üzüldüğünü açıkladığı bir video yayınladı.\n\nünlü'nün \"üzülüyorum çünkü cemaat eksilecek\" sözleri büyük bir tartışmanın fitilini ateşledi.\n\nsuriye'de yıllardır süren iç savaşın sona ermesi ve esad rejiminin düşmesi ardından ülkelerine dönen pek çok suriyeli oldu.\n\nsuriyelilerin memleketlerine dönmeleri türkiye'de kimileri tarafından olumlu karşılanırken bazı kesimleri üzdü.\n\nvideoyu yeniden yayımladı\n\nüzülenlerden biri de cübbeli ahmet olarak bilinen ahmet mahmut ünlü oldu.\n\nünlü'nün suriyelilerin dönüşleriyle ilgili yaptığı konuşma ise şu şekilde;\n\n\"biraz suriyeliler geldikten sonra fatih'teki cemaat oranı arttı. şimdi suriyeliler de gidiyor. ben de üzülüyorum, cemaat eksilecek. türkler camiye gelmiyor ki! türklere cennet lazım değil! canlarını mallarını cehenneme satmışlar.'nereden biliyorsun?' namaz ve cemaate bakıyorum.\"\n\n--- haber içeriği ---",
+      "referenced_content": [],
+      "has_external_url": true
+    },
+    {
+      "title": "suriyelilerin dönüşüne üzülüyorum",
+      "entry_id": "172025035",
+      "author": "yorganadam",
+      "date": "19.01.2025 19:14",
+      "content": "(bkz: #171006619)",
+      "referenced_content": [
+        {
+          "type": "entry",
+          "title": "uzulerek-goruyoruz-ki-suriyeliler-geri-donuyor",
+          "entry_id": "171006619",
+          "author": "yorganadam",
+          "date": "13.12.2024 22:57",
+          "content": "(bkz: #170886035)",
+          "referenced_entry_ids": [
+            "170886035"
+          ],
+          "has_external_url": false
+        }
+      ],
+      "referenced_entry_ids": [
+        "171006619"
+      ],
+      "has_external_url": false
+    }
+  ]
+}

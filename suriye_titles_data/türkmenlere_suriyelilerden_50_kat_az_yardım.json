@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:13:20.962603",
+    "total_entries": 2,
+    "input": "türkmenlere suriyelilerden 50 kat az yardım",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türkmenlere suriyelilerden 50 kat az yardım",
+      "entry_id": "48821061",
+      "author": "bulunamayan dll",
+      "date": "30.01.2015 22:53",
+      "content": "ahan da link",
+      "has_external_url": true
+    },
+    {
+      "title": "türkmenlere suriyelilerden 50 kat az yardım",
+      "entry_id": "48831775",
+      "author": "bulunamayan dll",
+      "date": "31.01.2015 13:13",
+      "content": "(bkz: üç maymun)",
+      "has_external_url": false
+    }
+  ]
+}

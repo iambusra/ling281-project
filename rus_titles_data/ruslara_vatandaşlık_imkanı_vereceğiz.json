@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:29:50.216401",
+    "total_entries": 2,
+    "input": "ruslara vatandaşlık imkanı vereceğiz",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ruslara vatandaşlık imkanı vereceğiz",
+      "entry_id": "61572087",
+      "author": "keremktl",
+      "date": "06.07.2016 07:12",
+      "content": "her önüne gelene verirsen sonun kötü olur demedi deme..",
+      "has_external_url": false
+    },
+    {
+      "title": "ruslara vatandaşlık imkanı vereceğiz",
+      "entry_id": "61572813",
+      "author": "meendisim ben",
+      "date": "06.07.2016 10:06",
+      "content": "çinlilere vatandaşlık ver de bari referandumla shanghai birliğine gireriz",
+      "has_external_url": false
+    }
+  ]
+}

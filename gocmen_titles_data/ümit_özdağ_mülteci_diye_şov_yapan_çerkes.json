@@ -1,0 +1,88 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:37:58.793306",
+    "total_entries": 7,
+    "input": "ümit özdağ mülteci diye şov yapan çerkes",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ümit özdağ mülteci diye şov yapan çerkes",
+      "entry_id": "173074291",
+      "author": "zehra32",
+      "date": "24.02.2025 12:02",
+      "content": "bu adamın adı furkan bölükbaşı\nümit özdağ'ın kökeninin dağıstan'daki laklara dayandığı ifade edilir. lak kelimesinin kafkas dillerindeki anlamı “dağlı”dır.\n\nbu bölgede “dağ yahudileri” yaşar. dağlı denilince akla “dağ yahudileri” gelir.\n\nyani ümit özdağ mülteci olduğu gibi çok büyük ihtimalle türk de değildir. imiş...\nmülteci olması cok kötü imiş. bak sen\n\nhttps://x.com/…rkes/status/1686062384656637952?mx=2\n\ndinime söven müslüman olsa bari demişler....\n\nsen çerkesin. türk olmayanda sen. mültecinin kralıda sen. çerkes lerin hepsi mülteci olarak gelmedi mi bu ülkeye. adama demezler mi önce bir geçmişine bak. siciline bak ondan sonra ona buna mülteci de...\nmülteci denilince akla şimdi suriyeliler eskiden cerkesler gelirken. sen aynaya bakmadan adama nasıl mülteci dersin. insanda şeref olur. bunda yoktur..",
+      "referenced_content": [],
+      "has_external_url": true
+    },
+    {
+      "title": "ümit özdağ mülteci diye şov yapan çerkes",
+      "entry_id": "173074360",
+      "author": "tegmenvincenthanna",
+      "date": "24.02.2025 12:05",
+      "content": "ümit hoca da bizim çerkesler de, diğerini tanımıyorum.",
+      "referenced_content": [],
+      "has_external_url": false
+    },
+    {
+      "title": "ümit özdağ mülteci diye şov yapan çerkes",
+      "entry_id": "173074497",
+      "author": "faramirofgondor",
+      "date": "24.02.2025 12:11",
+      "content": "şu furkan trolünü ciddiye almayın, zamanı gelince üstüne sifon çekilip lağıma karışacak.",
+      "referenced_content": [],
+      "has_external_url": false
+    },
+    {
+      "title": "ümit özdağ mülteci diye şov yapan çerkes",
+      "entry_id": "173074504",
+      "author": "minotaurosyan",
+      "date": "24.02.2025 12:12",
+      "content": "tamam lan kavga etmeyin, hepiniz bu topraklara sonradan sürüklenmiş birer bok böceğisiniz",
+      "referenced_content": [],
+      "has_external_url": false
+    },
+    {
+      "title": "ümit özdağ mülteci diye şov yapan çerkes",
+      "entry_id": "173074527",
+      "author": "ekiskalibur",
+      "date": "24.02.2025 12:13 ~ 12:14",
+      "content": "kendine küfür ettirip tazminat peşinde koşan bir elemana aldanmamanızı dilediğim başlık.\n\nküfür etsinler diye başlığı kendisi bile açmış olabilir.",
+      "referenced_content": [],
+      "has_external_url": false
+    },
+    {
+      "title": "ümit özdağ mülteci diye şov yapan çerkes",
+      "entry_id": "173074551",
+      "author": "zehra32",
+      "date": "24.02.2025 12:15",
+      "content": "(bkz: #173074504)\nsen nesin. sende sünepe gibi gelen osuruk böceğisin.\nben bu toprakların mührünü kılıçı ile actım. (iyi halt etmedim ama, öyle geldim)\n\ntabiki çerkeslerde bizim. ümit özdağ benim değil. ama insanın bir şerefi olur geçmişine bakar. ondan sonra ona buna mülteci der...",
+      "referenced_content": [
+        {
+          "type": "entry",
+          "title": "ümit özdağ mülteci diye şov yapan çerkes",
+          "entry_id": "173074504",
+          "author": "minotaurosyan",
+          "date": "24.02.2025 12:12",
+          "content": "tamam lan kavga etmeyin, hepiniz bu topraklara sonradan sürüklenmiş birer bok böceğisiniz",
+          "has_external_url": false
+        }
+      ],
+      "referenced_entry_ids": [
+        "173074504"
+      ],
+      "has_external_url": false
+    },
+    {
+      "title": "ümit özdağ mülteci diye şov yapan çerkes",
+      "entry_id": "173075374",
+      "author": "baltaci raskolnikov pasa",
+      "date": "24.02.2025 12:55",
+      "content": "sosyal medyada akp propagandasi yapan ne kadar hesap varsa hepsini inceleyin.\ngece gunduz ozdag ve zafer partisine nefret kusuyorlar.\n\neksicinin ulastigi sonuc: ozdag akp'ye calisiyor.\n\nbu bildigib zeka geriligi",
+      "referenced_content": [],
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:45:35.517660",
+    "total_entries": 1,
+    "input": "bir mültecinin dönüşü",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "bir mültecinin dönüşü",
+      "entry_id": "86172507",
+      "author": "aziz verbiannus",
+      "date": "01.02.2019 00:06",
+      "content": "mülteci vardığı yere zaten dönmüştür...döndüğü için oradadır...",
+      "has_external_url": false
+    }
+  ]
+}

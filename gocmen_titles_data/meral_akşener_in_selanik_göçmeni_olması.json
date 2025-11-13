@@ -1,0 +1,60 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:10:23.460172",
+    "total_entries": 6,
+    "input": "meral akşener'in selanik göçmeni olması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "meral akşener'in selanik göçmeni olması",
+      "entry_id": "76442781",
+      "author": "yaranadam",
+      "date": "28.04.2018 19:07 ~ 19:09",
+      "content": "atatürk'ün hemşehrisi olması olayı.\n\"selanik'ten kocaeli'ye göç eden balkan türkü bir ailenin kızı olan meral akşener 18 temmuz 1956 tarihinde tahir ömer bey ve sıddıka hanım'ın çocuğu olarak kocaeli'nin izmit ilçesine bağlı gündoğdu köyünde doğdu. \"\n\nkaynak: wiki",
+      "has_external_url": true
+    },
+    {
+      "title": "meral akşener'in selanik göçmeni olması",
+      "entry_id": "76442818",
+      "author": "golgeci",
+      "date": "28.04.2018 19:09",
+      "content": "annesinin adı zübeyde,babasının adı ali rızadır!",
+      "has_external_url": false
+    },
+    {
+      "title": "meral akşener'in selanik göçmeni olması",
+      "entry_id": "76442995",
+      "author": "olgunisik",
+      "date": "28.04.2018 19:17",
+      "content": "aktroller ne çektiniz atatürk den. gölgesi bile terletiyor. lider olmak böyle birşey siz bilemezsiniz.",
+      "has_external_url": false
+    },
+    {
+      "title": "meral akşener'in selanik göçmeni olması",
+      "entry_id": "76443073",
+      "author": "machete klonu",
+      "date": "28.04.2018 19:20 ~ 19:22",
+      "content": "(bkz: topraaam)",
+      "has_external_url": false
+    },
+    {
+      "title": "meral akşener'in selanik göçmeni olması",
+      "entry_id": "123916921",
+      "author": "sen kurban ol bu cambaza",
+      "date": "29.05.2021 13:21",
+      "content": "köyünde eşeğe hallenen çomarların zorunda giden bilgidir.",
+      "has_external_url": false
+    },
+    {
+      "title": "meral akşener'in selanik göçmeni olması",
+      "entry_id": "123916987",
+      "author": "her kirmizi louboutin olmaz ki",
+      "date": "29.05.2021 13:22",
+      "content": "bu bilgiyle güzelliğinin sebebini anlamış olduk.",
+      "has_external_url": false
+    }
+  ]
+}

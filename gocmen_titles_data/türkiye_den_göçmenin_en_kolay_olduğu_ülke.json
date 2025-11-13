@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:15:43.659821",
+    "total_entries": 4,
+    "input": "türkiye'den göçmenin en kolay olduğu ülke",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türkiye'den göçmenin en kolay olduğu ülke",
+      "entry_id": "61921290",
+      "author": "evolucja",
+      "date": "24.07.2016 14:39",
+      "content": "(bkz: yunanistan)",
+      "has_external_url": false
+    },
+    {
+      "title": "türkiye'den göçmenin en kolay olduğu ülke",
+      "entry_id": "61921347",
+      "author": "mor sapkali kiz",
+      "date": "24.07.2016 14:44",
+      "content": "işe yarar bi mühendisliğiniz varsa türki cumhuriyetler",
+      "has_external_url": false
+    },
+    {
+      "title": "türkiye'den göçmenin en kolay olduğu ülke",
+      "entry_id": "61921386",
+      "author": "nick1",
+      "date": "24.07.2016 14:46",
+      "content": "avrupa ülkeleri değildir. en kolay göç edilebilecek ülkeler türki cumhuriyetler ve benzeri asya ülkeleridir. afrikadaki çoğu ülkeye göç etmek de en kötü avrupa ülkesine göç etmekten çok daha kolaydır.",
+      "has_external_url": false
+    },
+    {
+      "title": "türkiye'den göçmenin en kolay olduğu ülke",
+      "entry_id": "61921615",
+      "author": "hatasizcool",
+      "date": "24.07.2016 14:59 ~ 15:02",
+      "content": "bangkok değildir.zaten ülke de değildir.\nne artık hayat ucuzdur ne de asgari ücret 150 tldir.\nşu anda 10 bin baht olan asgari ücret 870 tl ye tekabul eder ki bu paraya kimse çalışmıyor minumum reel ücret 12 bin bahttır.\naskeri cunta işbaşındadır ve 2 yıldır seçimleri ertelemektedir.\nyerleşmek kolay değildir.eski usul kalıcı vizelerde sıkıntı büyüktür.\nanca emekli vizesi olabilir yüksek gelirli...",
+      "has_external_url": false
+    }
+  ]
+}

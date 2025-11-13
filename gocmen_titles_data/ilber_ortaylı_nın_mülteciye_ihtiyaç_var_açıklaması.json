@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:42:25.763351",
+    "total_entries": 4,
+    "input": "ilber ortaylı'nın mülteciye ihtiyaç var açıklaması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ilber ortaylı'nın mülteciye ihtiyaç var açıklaması",
+      "entry_id": "137336984",
+      "author": "başlık taşıyan",
+      "date": "12.05.2022 01:30",
+      "content": "(bkz: türkiye'nin mülteciye ihtiyacı var yaşlanıyoruz)",
+      "has_external_url": false
+    },
+    {
+      "title": "ilber ortaylı'nın mülteciye ihtiyaç var açıklaması",
+      "entry_id": "137337022",
+      "author": "komedyen23",
+      "date": "12.05.2022 01:31",
+      "content": "yazıklar olsun size şu başlıkta yazan yazarların hiçbiri videonun tamamini izlememiş yorum yapıyor. ilber hoca gibi turkiyenin sayili bilim adamlarindan birine dershane hocasi deme hadsizligini en aptal insan bile buraya yazmaz. ayip be insan utanir",
+      "has_external_url": false
+    },
+    {
+      "title": "ilber ortaylı'nın mülteciye ihtiyaç var açıklaması",
+      "entry_id": "137337163",
+      "author": "ahahah",
+      "date": "12.05.2022 01:36",
+      "content": "videoyu izlemeden ahaberin attığı başlıktan dolayı sövenlerin doluştuğu başlık. adam 18 dakika boyunca hükümeyin sığınmacı politikasını eleştirmiş.",
+      "has_external_url": false
+    },
+    {
+      "title": "ilber ortaylı'nın mülteciye ihtiyaç var açıklaması",
+      "entry_id": "137337941",
+      "author": "pembekedininpatisi",
+      "date": "12.05.2022 02:10",
+      "content": "yaşlanmış baya jübilesini yapsa iyi olur.",
+      "has_external_url": false
+    }
+  ]
+}

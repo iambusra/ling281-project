@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T00:02:45.485521",
+    "total_entries": 1,
+    "input": "16 aralık 2018 brüksel'deki göçmen karşıtı yürüyüş",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "16 aralık 2018 brüksel'deki göçmen karşıtı yürüyüş",
+      "entry_id": "84437627",
+      "author": "causa proxima",
+      "date": "16.12.2018 15:20",
+      "content": "an itibarıyla brüksel'de gerçekle$en ve birle$mi$ milletler'in göç paktı'na kar$ı ba$latılmı$, ırkçı vlaams belang'ın ba$ını çektiği yürüyü$.\n\ncanlı yayın için: https://www.youtube.com/…g8hnitxmo&feature=youtu.be",
+      "has_external_url": true
+    }
+  ]
+}

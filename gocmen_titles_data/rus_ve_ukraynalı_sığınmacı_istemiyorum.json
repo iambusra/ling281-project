@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:57:30.330160",
+    "total_entries": 1,
+    "input": "rus ve ukraynalı sığınmacı istemiyorum",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rus ve ukraynalı sığınmacı istemiyorum",
+      "entry_id": "161762111",
+      "author": "faytonfayt",
+      "date": "21.02.2024 15:22 ~ 15:23",
+      "content": "bir slogan. çoğu asker kaçağı ve asker olan bu güruhtan da ülkenin kurtulması lazım.\n\nözellikle antalya'da iyice zıvanadan çıktılar. çeteleşiyorlar, bazı sektörlerde kartelleşiyorlar. çoğunun birikimi tükendi, bu yüzen agresif bir tutum içindeler. antalya halkı şimdilik sakin ama her an patlamaya hazır bir öfke birikiyor.\n\nmuhittin böcek de nedense hem suriyelilere hem de bunlara sürekli şirinlik yapıyor. muhtemelen kolaylık da yapıyordur.\n\nbunlar antalya'ya yüksek meblağlar ödeyerek sadece turist olarak gelmeli, zaten diğer yabancı turistleri de rahatsız ediyorlar.",
+      "has_external_url": false
+    }
+  ]
+}

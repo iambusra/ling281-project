@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:51:21.675039",
+    "total_entries": 2,
+    "input": "mültecilere karşı büyük olay çıkacak ilk il",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "mültecilere karşı büyük olay çıkacak ilk il",
+      "entry_id": "136384004",
+      "author": "tuncayist",
+      "date": "19.04.2022 00:15 ~ 00:19",
+      "content": "görünen köy kılavuz istemez geliyor gelmekte olan, maalesef bu kadar sapık, savaş suçlusu ne idüğü, geçmişi, fikri, eylemi belirsiz milyonları devlet eliyle ülkeye yerleştirdiniz.\ndevletin işini yapmadığı yerde tabiki düzen bozulacaktır, bıçaklanarak öldürülen bir türk genci sonrası ilk olaylar ankarada olacaktı ama önlem olarak orayı boşalttılar.\n\ntahminim konya olacaktır, ikinci tahminim ise istanbul bağcılar.",
+      "has_external_url": false
+    },
+    {
+      "title": "mültecilere karşı büyük olay çıkacak ilk il",
+      "entry_id": "136385054",
+      "author": "bu nick kullanimdaysa banane",
+      "date": "19.04.2022 00:36",
+      "content": "adana benim için ilk sırada, zaten mülteciler olmasa da olay çıkma potansiyeli çok yüksek.",
+      "has_external_url": false
+    }
+  ]
+}

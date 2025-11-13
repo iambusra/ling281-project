@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:07:46.800668",
+    "total_entries": 1,
+    "input": "yurt dışından telefon girmeyip göçmen giren ülke",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "yurt dışından telefon girmeyip göçmen giren ülke",
+      "entry_id": "164469020",
+      "author": "macheng",
+      "date": "16.05.2024 20:52",
+      "content": "siyasal islam coğrafyası türkiye’dir. ülkemize namus olduğu söylenen sınırlardan suriyeli, afgan elini kolunu sallaya sallaya girerken ikinci bir telefon girmeyecekmiş. siyasal islam tam 22 yıldır, türkiye’de.\n\n(bkz: yurt dışından gelen 2. telefonun yasaklanması)",
+      "has_external_url": false
+    }
+  ]
+}

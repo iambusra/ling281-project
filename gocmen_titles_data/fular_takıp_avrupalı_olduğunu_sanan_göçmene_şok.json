@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:13:28.001500",
+    "total_entries": 2,
+    "input": "fular takıp avrupalı olduğunu sanan göçmene şok",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "fular takıp avrupalı olduğunu sanan göçmene şok",
+      "entry_id": "133985272",
+      "author": "betada don bebegim yok diye uye oldum",
+      "date": "20.02.2022 16:37",
+      "content": "twit'teki konuyla alakası olmayan başlığa sahip içerik.\n\nfikirlerinizi haber veya twitleri çarpıtmadan belirtiniz.",
+      "has_external_url": false
+    },
+    {
+      "title": "fular takıp avrupalı olduğunu sanan göçmene şok",
+      "entry_id": "133987672",
+      "author": "golgeliydi",
+      "date": "20.02.2022 17:37",
+      "content": "bu ne saçma bir başlık arkadaşım, yeniakit web sitesi gibi. ayrıca içerik ile alakası da yok.",
+      "has_external_url": false
+    }
+  ]
+}

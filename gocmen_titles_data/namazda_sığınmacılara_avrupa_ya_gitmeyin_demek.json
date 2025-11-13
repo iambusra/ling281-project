@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:03:13.264453",
+    "total_entries": 2,
+    "input": "namazda sığınmacılara avrupa'ya gitmeyin demek",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "namazda sığınmacılara avrupa'ya gitmeyin demek",
+      "entry_id": "55030133",
+      "author": "delta28",
+      "date": "24.09.2015 11:20",
+      "content": "(bkz: kendi söylediğine inanmamak)",
+      "has_external_url": false
+    },
+    {
+      "title": "namazda sığınmacılara avrupa'ya gitmeyin demek",
+      "entry_id": "55030607",
+      "author": "garanti",
+      "date": "24.09.2015 11:50",
+      "content": "boş laftır.",
+      "has_external_url": false
+    }
+  ]
+}

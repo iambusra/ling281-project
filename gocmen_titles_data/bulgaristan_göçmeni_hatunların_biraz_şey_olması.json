@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:11:11.513031",
+    "total_entries": 4,
+    "input": "bulgaristan göçmeni hatunların biraz şey olması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "bulgaristan göçmeni hatunların biraz şey olması",
+      "entry_id": "68110354",
+      "author": "beltinen",
+      "date": "13.05.2017 20:36",
+      "content": "duyan da transilvanyadan eflak bogdana kadar sikti zannedecek.\nbasit bir genelleme ornegidir.",
+      "has_external_url": false
+    },
+    {
+      "title": "bulgaristan göçmeni hatunların biraz şey olması",
+      "entry_id": "68111333",
+      "author": "yedinci element",
+      "date": "13.05.2017 21:19",
+      "content": "alıngan olabiliyorlar. bulgaristan göçmeni dediğin olay birkaç şehire mahsus bir şey, ben bir tanesine staj için yer değiştirdiğimde karşılaşmıştım. konu hakkında sorduğum dan dun sorular ve hiç komik olmayan şakalarla bayağı gücendirdiğimi düşünüyorum.\n\nsiz yine de benim gibi dangoz olmayın.",
+      "has_external_url": false
+    },
+    {
+      "title": "bulgaristan göçmeni hatunların biraz şey olması",
+      "entry_id": "68112416",
+      "author": "kavkibritleri",
+      "date": "13.05.2017 22:02",
+      "content": "kahvede ve ergen gruplarında yaptığı muhabbetleri sözlüğe başlık olarak açan bir çomarın hayal gücüyle yazdığı saçmalıklar, sözlük iyiden iyiye nargile kafeye döndü.",
+      "has_external_url": false
+    },
+    {
+      "title": "bulgaristan göçmeni hatunların biraz şey olması",
+      "entry_id": "72271255",
+      "author": "zafersproblemset",
+      "date": "21.11.2017 04:23",
+      "content": "(bkz: kendi başlığına aylar sonra entry giren ezik trol)",
+      "has_external_url": false
+    }
+  ]
+}

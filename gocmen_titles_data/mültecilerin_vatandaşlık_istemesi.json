@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:55:28.323777",
+    "total_entries": 1,
+    "input": "mültecilerin vatandaşlık istemesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "mültecilerin vatandaşlık istemesi",
+      "entry_id": "138912867",
+      "author": "hkmmimeri",
+      "date": "18.06.2022 13:07",
+      "content": "https://mobile.twitter.com/…tus/1537855135954632704\n\nvatandaşlık taleplerinden sonra ne isteyecekler acaba?\n\nmültecilerin acilen ülkelerine gönderilmesi gerekmektedir.",
+      "has_external_url": true
+    }
+  ]
+}

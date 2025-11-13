@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:14:26.426900",
+    "total_entries": 3,
+    "input": "kaçak göçmenin kız çocuğunu istismar etmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "kaçak göçmenin kız çocuğunu istismar etmesi",
+      "entry_id": "147867055",
+      "author": "nephos",
+      "date": "19.01.2023 15:14",
+      "content": "konya’da meydana gelen olay. https://bbnhaber.com.tr/…bir-kisi-yakalandi-108515h",
+      "has_external_url": true
+    },
+    {
+      "title": "kaçak göçmenin kız çocuğunu istismar etmesi",
+      "entry_id": "147867342",
+      "author": "zeruch",
+      "date": "19.01.2023 15:21",
+      "content": "dua etsin iyi kurtulmuş.",
+      "has_external_url": false
+    },
+    {
+      "title": "kaçak göçmenin kız çocuğunu istismar etmesi",
+      "entry_id": "147867349",
+      "author": "alexo",
+      "date": "19.01.2023 15:22 ~ 22:52",
+      "content": "(bkz: işgalciler)\n\nvatanseverlere göre “işgalci, istilacı” kimseler,\n\nakp mhpli nonoşlara göre “din, ümmet kardeşleri” olan kimselerin\n\nişlediği suçlardan yalnızca “bir” tanesidir.",
+      "has_external_url": false
+    }
+  ]
+}

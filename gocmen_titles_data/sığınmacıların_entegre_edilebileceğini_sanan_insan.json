@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:05:24.311963",
+    "total_entries": 1,
+    "input": "sığınmacıların entegre edilebileceğini sanan insan",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "sığınmacıların entegre edilebileceğini sanan insan",
+      "entry_id": "136152721",
+      "author": "semsipasapasajindasesibuzusmeyen",
+      "date": "13.04.2022 12:58",
+      "content": "şahsım adına yanılan bir insandır. o iş o kadar kolay değil. hele bizim ülkede, hele bizdeki kadar çok sığınmacıyla, hele bizdeki sığınmacıların eğitim seviyesi ve sosyo-kültürel yapısıyla bu iş imkansız gibi. bekleyip görelim. durum mavi boncuk dağıtılacak bir durum kesinlikle değil. bilakis, oldukça çetin ülke ve insanı adına.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:25:18.863196",
+    "total_entries": 3,
+    "input": "rusa gitmek ya da gitmemek",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rusa gitmek ya da gitmemek",
+      "entry_id": "56685451",
+      "author": "conficker",
+      "date": "03.12.2015 13:03",
+      "content": "(bkz: işte bütün mesele bu)",
+      "has_external_url": false
+    },
+    {
+      "title": "rusa gitmek ya da gitmemek",
+      "entry_id": "56685555",
+      "author": "elmadagduku",
+      "date": "03.12.2015 13:07",
+      "content": "rusya'ya okul veya iş haricinde gitmek niye lan. türkiyenin hem halk hem şehircilik anlayışıyla yandan yemişidir.",
+      "has_external_url": false
+    },
+    {
+      "title": "rusa gitmek ya da gitmemek",
+      "entry_id": "56685572",
+      "author": "coffee and gamepad",
+      "date": "03.12.2015 13:08",
+      "content": "rus hükümetine tepkisini dile getirmek için yattığı rus uyruklu kadının parasını ödemeyen türk milliyetcisi yüzünden iki ülke savaşın eşiğinden döndü.",
+      "has_external_url": false
+    }
+  ]
+}

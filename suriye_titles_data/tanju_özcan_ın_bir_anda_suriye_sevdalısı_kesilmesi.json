@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:08:13.094147",
+    "total_entries": 3,
+    "input": "tanju özcan'ın bir anda suriye sevdalısı kesilmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "tanju özcan'ın bir anda suriye sevdalısı kesilmesi",
+      "entry_id": "173483040",
+      "author": "yomra",
+      "date": "10.03.2025 21:08 ~ 21:15",
+      "content": "suriye'de yaşanan olaylar sonrası suriyeli aşığı kesilmiş nedense.\n\ndemek ki neymiş; tanju arap alevisine dost, arap sünnisine düşmanmış.\n\n(bkz: chp'lilerin neden böyle olması)",
+      "has_external_url": false
+    },
+    {
+      "title": "tanju özcan'ın bir anda suriye sevdalısı kesilmesi",
+      "entry_id": "173483105",
+      "author": "hektorun torunu",
+      "date": "10.03.2025 21:10",
+      "content": "kendi kendine ne diyorsun aktroll?",
+      "has_external_url": false
+    },
+    {
+      "title": "tanju özcan'ın bir anda suriye sevdalısı kesilmesi",
+      "entry_id": "173483772",
+      "author": "fenasi kerler",
+      "date": "10.03.2025 21:29",
+      "content": "çok seviyorsan al evinde besle tanju. bir bolulu olarak seni mahkemeye veririm bir daha güzelleme yaparsan. tarafımız belli bolu'da.",
+      "has_external_url": false
+    }
+  ]
+}

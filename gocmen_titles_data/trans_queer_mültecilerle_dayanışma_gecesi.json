@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:53:40.043677",
+    "total_entries": 1,
+    "input": "trans queer mültecilerle dayanışma gecesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "trans queer mültecilerle dayanışma gecesi",
+      "entry_id": "37335923",
+      "author": "berci kristin",
+      "date": "01.10.2013 12:37",
+      "content": "tam adı \"sınır bozucu: trans-queer mülteci arkadaşlarımızın sağlık erişimi için dayanışma gecesi\" olan etkinlik.\n\n\"türkiye'de insanlık dışı koşullarda hayatta kalma mücadelesi veren trans-queer mülteci arkadaşlarımızın sağlık erişimi için organize etmiş olduğumuz, eylül'ün 27'sinde toprağa verdiğimiz canımız ali arıkan'ın 7'sine rastlaması sebebiyle bizim için ayrı bir anlamı olan dayanışma gecemizde bir avuç gönüllü insan olarak sizi de aramızda görmekten mutluluk duyarız.\"\n\ntarih: 4 ekim 2013\nsaat: 22:00 - 04:00\nmekan: şarlo cafe&pub\nmis sokağı no:5 kat:5, 34440 istanbul\n\nfacebook linki",
+      "has_external_url": true
+    }
+  ]
+}

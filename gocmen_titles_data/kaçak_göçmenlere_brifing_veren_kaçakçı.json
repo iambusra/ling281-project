@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:21:56.788998",
+    "total_entries": 2,
+    "input": "kaçak göçmenlere brifing veren kaçakçı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "kaçak göçmenlere brifing veren kaçakçı",
+      "entry_id": "125679537",
+      "author": "sn3x",
+      "date": "13.07.2021 16:49",
+      "content": "ilgili video\n\n--- spoiler ---\niran-türkiye sınır bölgesinde tr tarafına geçmek için uygun zamanı bekleyen insan kaçakçısı göçmenlere bu şekilde tavsiyeler veriyor;\n\n\"10 asker de olabilirler, havaya ateş de açabilirler ama hiç korkmayın sadece koşun.\"\n\n--- spoiler ---",
+      "has_external_url": true
+    },
+    {
+      "title": "kaçak göçmenlere brifing veren kaçakçı",
+      "entry_id": "125679726",
+      "author": "o nick buraya gelecek aga",
+      "date": "13.07.2021 16:55 ~ 16:59",
+      "content": "kiev otobüsü\n\nşu dünyada herkes bir umuda yolculuk yapıyor işte",
+      "has_external_url": true
+    }
+  ]
+}

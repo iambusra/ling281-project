@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:13:54.830209",
+    "total_entries": 1,
+    "input": "edirne'de 11 kaçak göçmenin yakalanması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "edirne'de 11 kaçak göçmenin yakalanması",
+      "entry_id": "165310943",
+      "author": "efendim efem",
+      "date": "13.06.2024 10:44",
+      "content": "jandarma teşkilatımız edirne de büyük bir başarıya imza attı. edirne'de yapılan kontroller sırasında durdurulan bir araçta yurt dışına kaçmaya çalışan 11 suriyeli düzensiz göçmen ve 1 organizatör yakalandı.\n\nhttps://www.ensonhaber.com/…e-organizator-yakalandi\n\nda şimdi niye böyle birşey yapmış kolluk kuvvetlerimiz. adamlar yüzmüş yüzmüş kuyruğuna gelmiş, bırakınız yapsınlar bırakınız geçsinler efenim. neden suriyeli kardeşlerimizin seyahat özgürlüğüne engel oluyorsunuz?",
+      "has_external_url": true
+    }
+  ]
+}

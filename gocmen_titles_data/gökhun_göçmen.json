@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:06:55.096909",
+    "total_entries": 4,
+    "input": "gökhun göçmen",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "gökhun göçmen",
+      "entry_id": "77165488",
+      "author": "mitos",
+      "date": "20.05.2018 16:57",
+      "content": "dış haberci. genel olarak ortadoğu, rusya ve çin üzerine yazan, bölgeyi ziyaret eden, röportajlar yapan yeni nesil genç gazetecilerden.",
+      "has_external_url": false
+    },
+    {
+      "title": "gökhun göçmen",
+      "entry_id": "99659863",
+      "author": "kamarothasan",
+      "date": "26.12.2019 20:58",
+      "content": "dış haberlerde son yılların dikkat çeken gazetecilerinden. özellikle çin, rusya, iran gibi abd'nin hedefindeki ülkelerin dış politikasını anlamak için takip ettiğim isimlerden. son adresi crı türk(çin uluslararası radyosu) olmuştur.",
+      "has_external_url": false
+    },
+    {
+      "title": "gökhun göçmen",
+      "entry_id": "106206724",
+      "author": "mutfaktaki ses",
+      "date": "28.04.2020 13:45",
+      "content": "perinçek e ne kadar inanıyorsanız buna da o kadar inanın",
+      "has_external_url": false
+    },
+    {
+      "title": "gökhun göçmen",
+      "entry_id": "170024523",
+      "author": "sanver",
+      "date": "09.11.2024 21:54",
+      "content": "cgtn türk kanalında faaliyetlerine devam eden gazeteci.\n\nhttps://www.cgtnturk.com/muhabir/8/gokhun-gocmen",
+      "has_external_url": true
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:13:35.553121",
+    "total_entries": 1,
+    "input": "kaçak göçmene evladı gibi sarılan polis",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "kaçak göçmene evladı gibi sarılan polis",
+      "entry_id": "66981919",
+      "author": "mockdeath",
+      "date": "21.03.2017 12:28",
+      "content": "nasıl bir sarılma hislendim,\nkaçak göçmenlerin olduğu daireyi basan polis göçmenin bir haftadır aç olduğunu öğrenince sıcak çorba verileceğini söylüyor, göçmen polise sarılıyor. hadi o neyse çorbayı duyunca sarılmıştır ama bizim polis öyle bir sarılıyor adamın omzuna başını koyuyor.\n\nsizi buraya kapatanlar cezasını ödeyecek diyor,\ne bunlarda kaçak gelmiş.\n\nkaynak",
+      "has_external_url": true
+    }
+  ]
+}

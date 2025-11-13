@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:20:10.594785",
+    "total_entries": 2,
+    "input": "6 mart 2020 yunanların göçmenleri soyması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "6 mart 2020 yunanların göçmenleri soyması",
+      "entry_id": "103117644",
+      "author": "lafmacunaduyulanozlem",
+      "date": "06.03.2020 17:29",
+      "content": "bize ingilizce öğretmediniz, üniversitede okutmadınız diye çemkiren o 3 mal da bunların içindedir umarım.",
+      "has_external_url": false
+    },
+    {
+      "title": "6 mart 2020 yunanların göçmenleri soyması",
+      "entry_id": "103117740",
+      "author": "birustmenuicinkareyituslayin",
+      "date": "06.03.2020 17:31",
+      "content": "kim ne derse desin toprağını koruyorlar ya adamlar helal olsun.\noglum ben neden seninle paylaşayım gayri safi milli hasılamı!?\nneden yarın öbür gün düzenimi bozasın, neden suç oranım artsın!?\nsınırlar bunun için var, sınırı kevgire dönmüşler anlamıyor.",
+      "has_external_url": false
+    }
+  ]
+}

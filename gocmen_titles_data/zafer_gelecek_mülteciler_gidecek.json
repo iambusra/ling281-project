@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:46:54.785640",
+    "total_entries": 2,
+    "input": "zafer gelecek mülteciler gidecek",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "zafer gelecek mülteciler gidecek",
+      "entry_id": "162876430",
+      "author": "trithon",
+      "date": "27.03.2024 22:28",
+      "content": "izmir sokaklarında kurtlar vadisi müziği eşliğinde geziyorlar.\n\nlinkz",
+      "has_external_url": true
+    },
+    {
+      "title": "zafer gelecek mülteciler gidecek",
+      "entry_id": "162877296",
+      "author": "ashin",
+      "date": "27.03.2024 22:53",
+      "content": "sırf bu yüzden destekliyorum bu herifleri solcu biri olmama rağmen.",
+      "has_external_url": false
+    }
+  ]
+}

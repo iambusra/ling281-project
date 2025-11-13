@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:30:35.839346",
+    "total_entries": 1,
+    "input": "ruslardan başka türlü dost olur",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ruslardan başka türlü dost olur",
+      "entry_id": "102966834",
+      "author": "lord angelus",
+      "date": "03.03.2020 18:15",
+      "content": "adil gür'ün hakkında suç duyurusu bulunulmasına sebep olan sözler.\n\n---altıntı---\navukat orhan nezih olmaç, bir televizyon kanalında 1 mart 2020'de katıldığı yayında rus kadınlarını hedef aldığı iddia edilen sözleri nedeniyle a&g araştırma şirketi genel müdürü adil gür hakkında suç duyurusunda bulundu. avukat olmaç, adil gür hakkındaki şikayet dilekçesini istanbul cumhuriyet başsavcılığı'na sunduktan sonra basın mensuplarına açıklama yaptı.\n\n\"kamu barışı açısından zararlı görüyoruz\"\n\navukat olmaç, \"son derece hassas olan şu günlerde, zaten rusya ve suriye ile ilişkilerin sıkıntılı olduğu halkı bir şekilde galeyana getirecek, içerdeki azınlık halkı veyahut farklı dine, ırka mensup vatandaşları tahrik veya aşağılayacak birtakım açıklamaların yapılmasını kamu güvenliği ve kamu barışı açısından son derece zararlı görüyoruz\" dedi.\n\nkaynak",
+      "has_external_url": true
+    }
+  ]
+}

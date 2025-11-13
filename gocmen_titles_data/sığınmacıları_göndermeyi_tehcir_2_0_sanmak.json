@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:01:51.515255",
+    "total_entries": 1,
+    "input": "sığınmacıları göndermeyi tehcir 2.0 sanmak",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "sığınmacıları göndermeyi tehcir 2.0 sanmak",
+      "entry_id": "126800489",
+      "author": "egeyam",
+      "date": "11.08.2021 18:53",
+      "content": "bir ekşici akıl tutulmasıdır.\n\ntehcir 2.0 olmasın plan yapılsın düşünülsün trajediler olmasın diyene de mülteci sevici derler.",
+      "has_external_url": false
+    }
+  ]
+}

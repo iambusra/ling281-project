@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:13:12.522388",
+    "total_entries": 2,
+    "input": "herkes selanik göçmeni kim yaşıyordu lan anadoluda",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "herkes selanik göçmeni kim yaşıyordu lan anadoluda",
+      "entry_id": "27651407",
+      "author": "dulger baligi",
+      "date": "05.03.2012 13:12",
+      "content": "umut sarıkaya'nın da şu karikatüründe dile getirerek hunharca güldürdüğü durum.",
+      "has_external_url": true
+    },
+    {
+      "title": "herkes selanik göçmeni kim yaşıyordu lan anadoluda",
+      "entry_id": "27657193",
+      "author": "alexander the one point five",
+      "date": "05.03.2012 22:10",
+      "content": "güney doğu anadolu'da yaşayan halk, misal, selanik göçmenleri selanik'ten o taraflara geçerken, edirne taraflarında balkanlardan gelen soğuk havanın sebep olduğu karlara basarken çıkan kart kurt seslerinden esinlenerek kendilerini adlandırmışlardır.\n\nvelhasılkelam, muhtemelen anadolu selanik göçmenlerinden önce bir gaz ve toz bulutuydu.\n\nnot: selanik göçmeniyim.",
+      "has_external_url": false
+    }
+  ]
+}

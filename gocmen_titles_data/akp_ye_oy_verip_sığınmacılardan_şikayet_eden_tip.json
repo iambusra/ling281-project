@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:03:29.427450",
+    "total_entries": 1,
+    "input": "akp'ye oy verip sığınmacılardan şikayet eden tip",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "akp'ye oy verip sığınmacılardan şikayet eden tip",
+      "entry_id": "172533354",
+      "author": "istebuarimaya",
+      "date": "06.02.2025 00:44",
+      "content": "var bunlar.\n\nsığınmacıları ülkeye sokan, onları besleyen, hatta türklerden üstün gören akp.\n\nbunu biliyorlar, sığınmacılar yüzünden kiraların artışından, şiddetten şikayet ediyorlar, defolup gitsinler ülkelerine diyorlar.\n\nhangi partiye oy verdin diyorsun. akp diyor. bu kendini silahla vurup sonra silaha lanet okumak gibi bir şey. piskoloji, sosyoloji bilimi çaresiz.",
+      "has_external_url": false
+    }
+  ]
+}

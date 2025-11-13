@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:42:30.660659",
+    "total_entries": 1,
+    "input": "her akp üyesi bir mülteciye bakmak zorunda kalsın",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "her akp üyesi bir mülteciye bakmak zorunda kalsın",
+      "entry_id": "126278107",
+      "author": "notani gura",
+      "date": "29.07.2021 17:57",
+      "content": "son zamanlarda akp hükümetinin ve akp'li cumhurbaşkanının türkiye'ye akın eden mültecilere bakmak zorundaymışız gibi açıklamalarda bulunması ve buna tepkisiz kalarak adeta mültecileri kabul eden akp'lilere müstehak olan zorunluluk.\n\n2021 verilerine göre 10 milyondan fazla akp üyesi vatandaş var. buna akp milletvekilleri, bakanlar, bürokratlar ve cumhurbaşkanı dahil her akp'linin en az bir mülteciye bakması lazım. bakın bakalım akp mülteci alıyor mu içeriye.",
+      "has_external_url": false
+    }
+  ]
+}

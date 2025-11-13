@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:02:24.556945",
+    "total_entries": 2,
+    "input": "sığınmacılara belediyelerin yaptıkları doğru değil",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "sığınmacılara belediyelerin yaptıkları doğru değil",
+      "entry_id": "164226147",
+      "author": "terasuas",
+      "date": "08.05.2024 23:07 ~ 23:12",
+      "content": "özgür özel'in az önce haber türk yayınında söylediği söz. afyon belediyesinin sığınmacı kararı nı eleştirdi. kafayı yememek elde değil. video gelince ekleyeceğim.",
+      "has_external_url": false
+    },
+    {
+      "title": "sığınmacılara belediyelerin yaptıkları doğru değil",
+      "entry_id": "164355821",
+      "author": "serbesti",
+      "date": "13.05.2024 00:29 ~ 07:23",
+      "content": "özgür bey'in tekparti artığı pötiburjuvaziyi ciyaklatan açıklamalarından biri, t",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:03:07.774860",
+    "total_entries": 1,
+    "input": "suriyeli sığınmacılara karşı en tahammülsüz kesim",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeli sığınmacılara karşı en tahammülsüz kesim",
+      "entry_id": "68869202",
+      "author": "terstrigonometrikfonksiyonlarinintegrali",
+      "date": "16.06.2017 03:29",
+      "content": "sığınmacıların türkiye'ye kabulünden bu yana geçen sürede yaşanan toplumsal olayların tamamı incelendiğinde rahatlıkla tespit edilebilen kesim.\n\nson olarak: (bkz: http://mobil.hurriyet.com.tr/…ilim-suruyor-40491661)",
+      "has_external_url": true
+    }
+  ]
+}

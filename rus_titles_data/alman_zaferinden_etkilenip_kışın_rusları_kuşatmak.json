@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:28:03.518496",
+    "total_entries": 2,
+    "input": "alman zaferinden etkilenip kışın rusları kuşatmak",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "alman zaferinden etkilenip kışın rusları kuşatmak",
+      "entry_id": "146959000",
+      "author": "sektiriyorumohaldeagresifim",
+      "date": "29.12.2022 13:45",
+      "content": "sarıkamış harekatını yapacak askerlere kıyafet ve diğer lojistik malzemeleri taşıyan iki geminin,ruslar tarafından karadeniz'de batırılmasına rağmen,\"doğunun fatihi\", \"turan kahramanı\" gibi ünvanların tatlı hülyasını kurup, felakete sebep olan komutanın icraatı.",
+      "has_external_url": false
+    },
+    {
+      "title": "alman zaferinden etkilenip kışın rusları kuşatmak",
+      "entry_id": "162197402",
+      "author": "ibisile",
+      "date": "06.03.2024 13:54",
+      "content": "\"berlin'de geçirdiğim on gün içinde, hemen her yerde her vesile ile, alman vatandaşlarının, -hitler'in emrine rağmen- alman zaferine karşı hep bu ilgisizliklerini müşahede etmişimdir.\" yakup kadri karaosmanoğlu - zoraki diplomat",
+      "has_external_url": false
+    }
+  ]
+}

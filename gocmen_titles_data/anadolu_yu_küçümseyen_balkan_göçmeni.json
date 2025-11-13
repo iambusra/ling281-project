@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:13:03.364221",
+    "total_entries": 2,
+    "input": "anadolu'yu küçümseyen balkan göçmeni",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "anadolu'yu küçümseyen balkan göçmeni",
+      "entry_id": "36397995",
+      "author": "somek kafali",
+      "date": "26.08.2013 00:34 ~ 00:38",
+      "content": "ilginç bir tiptir.\n\nhem anadoluyu ve anadolu halkını küçümser hor görür, hem de küçümsediği anadoluyu kendinden başkasına yar etmek istemez. (bkz: muhacirlerin bu vatan bizim tavrı) hayır yani bu toprakları sevmiyosan, bu topraklarda yaşamaktan utanıyosan siktir ol git diyeceğim ama kimsenin kalbini kırmak istemem. çünkü ben iyi bir insanım.\n\nha bir de şöyle bir şey var (bkz: trakya'dan anadolu'yu sevmek)",
+      "has_external_url": false
+    },
+    {
+      "title": "anadolu'yu küçümseyen balkan göçmeni",
+      "entry_id": "36398945",
+      "author": "somek kafali",
+      "date": "26.08.2013 01:04",
+      "content": "(bkz: dağdan gelip bağdakini kovmak)",
+      "has_external_url": false
+    }
+  ]
+}

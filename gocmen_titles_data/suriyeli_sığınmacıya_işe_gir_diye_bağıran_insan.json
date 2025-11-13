@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:58:34.612992",
+    "total_entries": 4,
+    "input": "suriyeli sığınmacıya işe gir diye bağıran insan",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeli sığınmacıya işe gir diye bağıran insan",
+      "entry_id": "38463054",
+      "author": "gelengec",
+      "date": "22.11.2013 15:57",
+      "content": "dün aksam gezi parkı'nın yanından geçerken tanık olduğum olay. ailesi ile birlikte biçare şekilde oturan adama yoldan geçen biri bu yaptığın ayıp, ben nasıl çalışıyorsam sen de git çalış diye bağırarak yoluna devam etmiştir. o sıra burnuma gelen pahalı parfüm kokuları da bu bağırtıya eşlik edince bu orta sınıf çemkirmesi midemi büsbütün bulandırdı. hayır anlamıyorum siz hayatı nerden öğreniyorsunuz. her şeyi geçtim işe girince her şey yoluna mı giriyor. bu neyin kafasıdır böyle. tanrı insanı insandan korusun.",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyeli sığınmacıya işe gir diye bağıran insan",
+      "entry_id": "38463466",
+      "author": "boom headshot",
+      "date": "22.11.2013 16:22",
+      "content": "arapseverleri rahatsız etmiştir",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyeli sığınmacıya işe gir diye bağıran insan",
+      "entry_id": "38463501",
+      "author": "hot potato",
+      "date": "22.11.2013 16:24",
+      "content": "suriyeli'lerin yasal olarak calisma izni bulunmadigi ve calistiklari takdirde isverenin cezaya tabii oldugu dusunulurse epey bir sacmalamistir.",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyeli sığınmacıya işe gir diye bağıran insan",
+      "entry_id": "38463641",
+      "author": "sahanda sucuklu paskalya yumurtasi",
+      "date": "22.11.2013 16:32",
+      "content": "(bkz: yasadışı işçi çalıştırmayı teşvik suçu)",
+      "has_external_url": false
+    }
+  ]
+}

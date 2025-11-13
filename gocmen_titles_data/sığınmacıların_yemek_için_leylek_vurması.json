@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:04:28.600173",
+    "total_entries": 4,
+    "input": "sığınmacıların yemek için leylek vurması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "sığınmacıların yemek için leylek vurması",
+      "entry_id": "156871956",
+      "author": "başlık taşıyan",
+      "date": "18.09.2023 14:14",
+      "content": "(bkz: istanbul'da iki kişinin yemek için leylek avlaması)",
+      "has_external_url": false
+    },
+    {
+      "title": "sığınmacıların yemek için leylek vurması",
+      "entry_id": "156872951",
+      "author": "uk87",
+      "date": "18.09.2023 14:49",
+      "content": "gitte sövme şimdi..",
+      "has_external_url": false
+    },
+    {
+      "title": "sığınmacıların yemek için leylek vurması",
+      "entry_id": "156873193",
+      "author": "gemimden defol fare",
+      "date": "18.09.2023 14:59",
+      "content": "ülkesini satan iki yaratığın silahlanıp piknik alanın da suç örgütü oluşturarak eylem yapmasıdır.\nşunu hümanist dediğiniz polonya isveç ispanya da yapsalar bi merkeze tıkıp bu şerefsizlerin göz kapaklarını neşterle kesip göz bebeklerine\nsürekli sakinleştirici sıkarlar.",
+      "has_external_url": false
+    },
+    {
+      "title": "sığınmacıların yemek için leylek vurması",
+      "entry_id": "156873353",
+      "author": "pottirik",
+      "date": "18.09.2023 15:05",
+      "content": "her kuşu siktik bir leylek kaldı lafının ete kemiğe bürünmüş halidir.",
+      "has_external_url": false
+    }
+  ]
+}

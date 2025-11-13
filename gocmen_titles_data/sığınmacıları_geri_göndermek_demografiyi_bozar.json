@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:00:37.938593",
+    "total_entries": 2,
+    "input": "sığınmacıları geri göndermek demografiyi bozar",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "sığınmacıları geri göndermek demografiyi bozar",
+      "entry_id": "157694809",
+      "author": "alman ernst",
+      "date": "13.10.2023 10:39 ~ 10:42",
+      "content": "gelecek partisi kurucular kurulu üyesi suriyeli halid hodja'ya ait bir ifade. tam hali şu şekildedir: “şamlıyı, humusluyu, deralıyı halep'e yerleştirmek demografik baskı oluşturuyor. kürt bölgesine arap yerleştiremezsiniz.”\n\nhaber\n\nsığınmacı ve kaçakların kalmasını kimler istiyor diye bakmak, göndermemiz için yeterli sebep aslında.",
+      "has_external_url": true
+    },
+    {
+      "title": "sığınmacıları geri göndermek demografiyi bozar",
+      "entry_id": "157695078",
+      "author": "ufuktuana",
+      "date": "13.10.2023 10:49",
+      "content": "sığınmacı danışmana ait sözler.",
+      "has_external_url": false
+    }
+  ]
+}

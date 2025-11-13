@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:24:26.697072",
+    "total_entries": 3,
+    "input": "ukraynalıların yaptığı thk klibi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukraynalıların yaptığı thk klibi",
+      "entry_id": "56513201",
+      "author": "machete klonu",
+      "date": "26.11.2015 10:48 ~ 10:50",
+      "content": "rus uçağı düşürmemiz arkadaşların çok hoşuna gitmiş sanırım.\n\nhttps://www.youtube.com/watch?v=zijgmfjekrw\n\nedit: yanlış oldu türk hava kurumu ne ya. ayarları bekliyorum.",
+      "has_external_url": true
+    },
+    {
+      "title": "ukraynalıların yaptığı thk klibi",
+      "entry_id": "56513710",
+      "author": "comecloser",
+      "date": "26.11.2015 11:15",
+      "content": "canakkale sehitliginin ustunden gecerken pilotun selam vermesi klibin en guzel ve anlamli yeridir\ngordugum ender guzel hareketlerdendi",
+      "has_external_url": false
+    },
+    {
+      "title": "ukraynalıların yaptığı thk klibi",
+      "entry_id": "56514241",
+      "author": "yamuk prenses ve 7 cuceler",
+      "date": "26.11.2015 11:43",
+      "content": "(bkz: gürcistan bunu beğendi)",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:18:54.603699",
+    "total_entries": 1,
+    "input": "kaçak göçmenleri protesto eden adamın videosu",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "kaçak göçmenleri protesto eden adamın videosu",
+      "entry_id": "140928166",
+      "author": "secret witness",
+      "date": "05.08.2022 21:35",
+      "content": "mülteci sorunu çok tehlikeli bir noktaya gidiyor. halk öfkeli.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:24:50.656283",
+    "total_entries": 1,
+    "input": "her hafta rus'a giden ir öğrencisi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "her hafta rus'a giden ir öğrencisi",
+      "entry_id": "45652320",
+      "author": "illuminatinin basindaki adam",
+      "date": "12.09.2014 20:36",
+      "content": "derslerine düzenli çalışan bir öğrenci. takdir edilesi.",
+      "has_external_url": false
+    }
+  ]
+}

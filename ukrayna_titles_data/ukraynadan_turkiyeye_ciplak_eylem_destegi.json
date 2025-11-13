@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:14:50.082698",
+    "total_entries": 1,
+    "input": "ukraynadan turkiyeye ciplak eylem destegi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukraynadan turkiyeye ciplak eylem destegi",
+      "entry_id": "34293722",
+      "author": "shadowumprensim",
+      "date": "03.06.2013 10:33",
+      "content": "turkiye'de gezi parki olaylarinin ardindan ukraynali femen adli kadinlardan olusan aktivist gruptan ciplak eylem destegi verilmesidir. video'dan turk kadinlarina seslenilip haklarinizi ezdirmeyin deniyor.\n\nhttp://www.dha.com.tr/…havideogaleri.asp?vid=479864",
+      "has_external_url": true
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:30:43.574563",
+    "total_entries": 1,
+    "input": "25 kasım 2015 ruslardan yeni hamle",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "25 kasım 2015 ruslardan yeni hamle",
+      "entry_id": "56489109",
+      "author": "zimanstayn",
+      "date": "25.11.2015 09:54",
+      "content": "bu sefer sıcak denizlere inmeyi başarıyorlar galiba.",
+      "has_external_url": false
+    }
+  ]
+}

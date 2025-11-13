@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:11:02.801485",
+    "total_entries": 3,
+    "input": "uzak doğuluların aslında tatar göçmeni olması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "uzak doğuluların aslında tatar göçmeni olması",
+      "entry_id": "80381690",
+      "author": "sd kart",
+      "date": "18.08.2018 00:54",
+      "content": "görüyor ve arttırıyorum; \"bütün çekik gözlüler türktür.\" hatta binlerce yıl önce, homo habilis türü maymundan hallice, ağaç dallarında zıp zıp zıplarken, türk ata binip cenk eylermiş.",
+      "has_external_url": false
+    },
+    {
+      "title": "uzak doğuluların aslında tatar göçmeni olması",
+      "entry_id": "80383745",
+      "author": "maximillian",
+      "date": "18.08.2018 02:04",
+      "content": "tüm dünyanın aslında afrika göçmeni olması",
+      "has_external_url": false
+    },
+    {
+      "title": "uzak doğuluların aslında tatar göçmeni olması",
+      "entry_id": "80383985",
+      "author": "yuruyedur",
+      "date": "18.08.2018 02:14",
+      "content": "(bkz: karıştırma karıştırınca kusuyorsun)",
+      "has_external_url": false
+    }
+  ]
+}

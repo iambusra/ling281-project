@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:27:20.094145",
+    "total_entries": 1,
+    "input": "vatan haini ruslar",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "vatan haini ruslar",
+      "entry_id": "134197000",
+      "author": "kendal",
+      "date": "25.02.2022 13:26",
+      "content": "birlik ve beraberliğe en çok ihtiyaç duydukları anda bile savaşa hayır diyerek hainliklerini göstermekten çekinmeyen ruslardır.\n\nişte hain ruslar\n\nplan yapmayın plan, tutmaz moskovamızda!",
+      "has_external_url": true
+    }
+  ]
+}

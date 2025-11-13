@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:10:20.098178",
+    "total_entries": 1,
+    "input": "türkiye vs suriye",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türkiye vs suriye",
+      "entry_id": "177401024",
+      "author": "tiniminitin",
+      "date": "07.08.2025 09:23",
+      "content": "bloomberg'den selcan hacaoğlu'nun haberine göre türkiye, suriye'de ekonomiyi geliştirmek ve ikili ticareti canlandırmak adında sanayi bölgeleri kurmayı planlıyor.\n\nhabere göre suriye ekonomi ve sanayi bakanı nidal el-şaar konuyla ilgili, “türkiye'nin suriye'de fabrikalar kurmasını ve endüstriyel ürünleri suriye üzerinden dağıtmasını umuyoruz” ifadelerini kullanırken, türkiye odalar ve borsalar birliği (tobb) başkanı rifat hisarcıklıoğlu da, “suriye'de kısa sürede güvenli ve altyapısı tam olarak kurulmuş sanayi bölgeleri oluşturmak mümkün” açıklamasında bulundu.\nticaret bakanı ömer bolat ve suriye ekonomi ve sanayi bakanı nidal el-şaar, yakın zamanda türkiye-suriye ortak ekonomi ve ticaret komitesi (jetco) kuruluş protokolünü imzalamış, ayrıca suriye heyetinin 7 ağustos'a kadar türkiye'de kalarak organize sanayi bölgelerine ziyaretler ve istanbul'daki iş dünyası liderleriyle görüşmeler yapacağı ifade edilmişti.",
+      "has_external_url": false
+    }
+  ]
+}

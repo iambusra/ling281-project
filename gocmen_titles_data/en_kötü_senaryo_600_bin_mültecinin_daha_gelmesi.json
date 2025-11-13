@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:45:49.796859",
+    "total_entries": 2,
+    "input": "en kötü senaryo 600 bin mültecinin daha gelmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "en kötü senaryo 600 bin mültecinin daha gelmesi",
+      "entry_id": "58362515",
+      "author": "deli efendi",
+      "date": "08.02.2016 22:08",
+      "content": "mealen \"en az 1 milyon daha gelecek; arkalar boş ilerleyelim.\" dedi.",
+      "has_external_url": false
+    },
+    {
+      "title": "en kötü senaryo 600 bin mültecinin daha gelmesi",
+      "entry_id": "58366741",
+      "author": "vetkopat",
+      "date": "09.02.2016 00:45",
+      "content": "küçük bir suriye kuralım biz gidelim ama nereye?",
+      "has_external_url": false
+    }
+  ]
+}

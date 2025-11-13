@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:12:53.510692",
+    "total_entries": 1,
+    "input": "aslen torino göçmeni olmak",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "aslen torino göçmeni olmak",
+      "entry_id": "37351955",
+      "author": "benefiecence undaunted",
+      "date": "02.10.2013 00:22",
+      "content": "yarınki maçta juventus'u destekleyecekler için alternatif bir gerekçe.",
+      "has_external_url": false
+    }
+  ]
+}

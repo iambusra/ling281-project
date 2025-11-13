@@ -1,0 +1,76 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T13:48:59.593663",
+    "total_entries": 8,
+    "input": "10.10.2014 tsk'nın suriye'ye kara operasyonu",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "10.10.2014 tsk'nın suriye'ye kara operasyonu",
+      "entry_id": "46214126",
+      "author": "ilkellectuel",
+      "date": "09.10.2014 01:01",
+      "content": "parsellenmiştir.",
+      "has_external_url": false
+    },
+    {
+      "title": "10.10.2014 tsk'nın suriye'ye kara operasyonu",
+      "entry_id": "46214409",
+      "author": "trnntkrng",
+      "date": "09.10.2014 01:15",
+      "content": "(bkz: parsel parsel eylemisler dunyayi)",
+      "has_external_url": false
+    },
+    {
+      "title": "10.10.2014 tsk'nın suriye'ye kara operasyonu",
+      "entry_id": "46214468",
+      "author": "illegalstar",
+      "date": "09.10.2014 01:18",
+      "content": "(bkz: al bunu parselle)\nhttps://i.imgur.com/wynzpwk.jpg",
+      "has_external_url": true
+    },
+    {
+      "title": "10.10.2014 tsk'nın suriye'ye kara operasyonu",
+      "entry_id": "46215263",
+      "author": "oci",
+      "date": "09.10.2014 02:10 ~ 02:15",
+      "content": "olsa olsa abd'nin tsk'yı savaşa sürükleme operasyonu olabilecek olandır anca. kerry geldi görüşmeler yaptı ertesi gün rehineler teslim edildi (hayret) bahane kalmadı. pyd lideri geldi görüşmeler yaptı (tsk terörist diyor ama devlet birebir görüşüyor o da ayrı konu) ertesi gün pkk sempatizanları sokağa döküldü. tsk bu danışıklı silah ticareti döğüşüne alet edilmeye çalışılıyor ya du bakalım..\n\ndünya tarihinin gelmiş geçmiş en kötü dışişleri bakanının başbakan yapıldığı ülkede şaşırma duyguları köreldiği için, olsa bile şaşırmayacağımız operasyon olur..",
+      "has_external_url": false
+    },
+    {
+      "title": "10.10.2014 tsk'nın suriye'ye kara operasyonu",
+      "entry_id": "46215315",
+      "author": "burgazteam",
+      "date": "09.10.2014 02:14",
+      "content": "(bkz: okçu bas okçu)",
+      "has_external_url": false
+    },
+    {
+      "title": "10.10.2014 tsk'nın suriye'ye kara operasyonu",
+      "entry_id": "46215553",
+      "author": "komisario palmu",
+      "date": "09.10.2014 02:36",
+      "content": "(bkz: hırvat yazmadan inanmam)",
+      "has_external_url": false
+    },
+    {
+      "title": "10.10.2014 tsk'nın suriye'ye kara operasyonu",
+      "entry_id": "46215777",
+      "author": "ankaralimuhtar",
+      "date": "09.10.2014 02:57",
+      "content": "olmayacak ve olmaması gereken operasyondur.",
+      "has_external_url": false
+    },
+    {
+      "title": "10.10.2014 tsk'nın suriye'ye kara operasyonu",
+      "entry_id": "46222426",
+      "author": "cfk",
+      "date": "09.10.2014 14:05",
+      "content": "bakınız haberde de belirtildiği gibidir.\n\nyani kısacası size ışid'le romantik ortadoğu geceleri diliyoruz.",
+      "has_external_url": true
+    }
+  ]
+}

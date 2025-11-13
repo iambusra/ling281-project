@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:05:11.138984",
+    "total_entries": 3,
+    "input": "vatandaş olan sığınmacıların türkçe isim almaları",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "vatandaş olan sığınmacıların türkçe isim almaları",
+      "entry_id": "138413372",
+      "author": "panopticons",
+      "date": "06.06.2022 17:43",
+      "content": "bugün şahit olduğum ilgimi çeken bir o kadar da beni ürküten durum. bankada gişede işlem yaparken yan gişeye konuşmasından ve duruşundan suriyeli olduğu açıkça anlaşılan biri gişeye türk kimliğini verdi ve sonrasında gişeci adama “cengiz k…..” mı isminiz diye şaşırarak sordu. “evet abi” diye cevap verdi adam.\n\nbakın ahmet, mehmet, abdullah gibi müslüman coğrafyanın ortak isimlerini seçmiyorlar. cengiz ismi tamamen ve sadece türklerin kullandığı bir isim. kamufle olmak için olduğunu düşünüyorum.",
+      "has_external_url": false
+    },
+    {
+      "title": "vatandaş olan sığınmacıların türkçe isim almaları",
+      "entry_id": "138413442",
+      "author": "sendemicem",
+      "date": "06.06.2022 17:45",
+      "content": "hepsi mehmet hepsi ahmet olacak ya da hepsi ayşe hepsi fatma olacak değil ya",
+      "has_external_url": false
+    },
+    {
+      "title": "vatandaş olan sığınmacıların türkçe isim almaları",
+      "entry_id": "138413460",
+      "author": "bilgisayarmuhendisiyim",
+      "date": "06.06.2022 17:45",
+      "content": "mert isimli sonradan türk vatandaşı olmuş bir suriyeliye şahit olduğum için doğruladığım durumdur.\n\nsavaşmak yerine ülkesini bırakıp kaçmış nasıl bir mertlikse bu.",
+      "has_external_url": false
+    }
+  ]
+}

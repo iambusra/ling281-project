@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:13:38.908554",
+    "total_entries": 2,
+    "input": "göçmene almancı diyen ahmak",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "göçmene almancı diyen ahmak",
+      "entry_id": "30608793",
+      "author": "dilmen",
+      "date": "18.10.2012 01:19",
+      "content": "amerikanci cagrisimi gibi bi'sey yapmak istemistir, tutturamamistir.",
+      "has_external_url": false
+    },
+    {
+      "title": "göçmene almancı diyen ahmak",
+      "entry_id": "30608903",
+      "author": "oz suser",
+      "date": "18.10.2012 01:24",
+      "content": "alamancı derse sorun teşkil etmeyecek ahmaktır.\n(bkz: dumkof)",
+      "has_external_url": false
+    }
+  ]
+}

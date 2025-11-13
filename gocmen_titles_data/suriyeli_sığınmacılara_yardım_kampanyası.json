@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:03:08.699452",
+    "total_entries": 2,
+    "input": "suriyeli sığınmacılara yardım kampanyası",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeli sığınmacılara yardım kampanyası",
+      "entry_id": "67247466",
+      "author": "mistiknik",
+      "date": "03.04.2017 18:48",
+      "content": "(bkz: seiko 5)",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyeli sığınmacılara yardım kampanyası",
+      "entry_id": "67247631",
+      "author": "m orak",
+      "date": "03.04.2017 18:58",
+      "content": "siz asıl türkiyeli yerel halka yardım kampanyası açın,adamlar ucuza çalışıyor diye milleti işinden edip suriyeli çalışan alıyorlar,beleş belediye yardımı alıyorlar,uluslararası yardım kuruluşu yardım parası veriyor,sağlık hizmeti bedava daha ne olsun,türkiyeli vatandaşlarımız ise diş çekiminden 150 lira sigortasından kesiliyor,maaşı 1300 lira artık nasıl geçinecekse,yağ olmuş 30 lira etten bahsetmiyorum bile,temel gıdalar 1300 lirayı geçiyor,kirada oturan yaşamasın bile,gelmiş suriyeli sığınmacılara yardım topluyoruz diyorsun,ne diyim daha.",
+      "has_external_url": false
+    }
+  ]
+}

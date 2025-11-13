@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:14:42.828076",
+    "total_entries": 2,
+    "input": "trabzon'da ukrayna havayolları uçağının düşmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "trabzon'da ukrayna havayolları uçağının düşmesi",
+      "entry_id": "4580407",
+      "author": "hyperion",
+      "date": "04.06.2004 20:56",
+      "content": "dusen ucagin icinde bulunan ispanyol askerlerinin anisina ucagin dustugu yer olan yaylavari mekana ve macka ilce merkezine 2 adet anit yaptirilmistir. gectigimiz gunlerde yapilan anit acilislarina ispanya'dan sehit aileleri de katilmistir.",
+      "has_external_url": false
+    },
+    {
+      "title": "trabzon'da ukrayna havayolları uçağının düşmesi",
+      "entry_id": "5628762",
+      "author": "pedal",
+      "date": "06.09.2004 13:08 ~ 07.09.2004 19:35",
+      "content": "uçak yakıt ikmali için deniz üzerinden yaklaşır. iniş koridoruna girmek için alçalmaya başlar. kula sağa dön denizin üzerinde bir yay çizip koridora gir der. pilot sağa değil sola döner denizin üzerinde yapacağı alçalmayı yapar 1500 metrelere indiği sıralarda bozuk hava nedeniyle farketmediği dağa çarpar. haberlerin yalancısıyım.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:04:44.562554",
+    "total_entries": 1,
+    "input": "sığınmacıların nasıl geri gönderileceği sorunsalı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "sığınmacıların nasıl geri gönderileceği sorunsalı",
+      "entry_id": "152535824",
+      "author": "3 tas has hosaf",
+      "date": "18.05.2023 13:53",
+      "content": "biraz şahsi bir sorunsal olmakla birlikte, 10 milyon sığınmacı nasıl geri gönderilecek?\notobüslere bindirilip sınır dışında mı indirilecekler, vatandaşı oldukları ülkelerle görüşüp bunları buradan alın mı denilecek, nasıl bir yöntem izlenecek bilemiyorum.\n\ntanım: kemal kılıçdaroğlu'nun 10 milyon suriyeliyi nasıl geri göndereceği sorunsalıdır.",
+      "has_external_url": false
+    }
+  ]
+}

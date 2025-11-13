@@ -1,0 +1,76 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:14:17.266943",
+    "total_entries": 8,
+    "input": "ukrayna'da eylemcilerin toma yakması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukrayna'da eylemcilerin toma yakması",
+      "entry_id": "40543145",
+      "author": "sir yes sir",
+      "date": "19.02.2014 11:47",
+      "content": "(bkz: harlayamazsınız)",
+      "has_external_url": false
+    },
+    {
+      "title": "ukrayna'da eylemcilerin toma yakması",
+      "entry_id": "40543219",
+      "author": "hononu",
+      "date": "19.02.2014 11:51 ~ 20.02.2014 09:50",
+      "content": "isabetli molotof kokteyli ile yapilmis gibi duruyor. ama yanan araç bizdeki toma'nın muadili gibi durmuyor. ayrıca bizdeki toma kendini söndürebilme yetisine sahip\n\nhttp://www.nurolmakina.com.tr/…k-araclari/toma.html\n\nisildur uyardı bizim böyle de tomalar vardı\n\nhttp://upload.wikimedia.org/…commons/a/a3/toma2.jpg\n\n1 4 9 uyardı toma değil panzermiş:)\n\nhttp://en.wikipedia.org/…iki/cadillac_gage_commando",
+      "has_external_url": true
+    },
+    {
+      "title": "ukrayna'da eylemcilerin toma yakması",
+      "entry_id": "40543254",
+      "author": "katilmiyorum sana",
+      "date": "19.02.2014 11:52",
+      "content": "her hırsız inecektir hareketi halkça görülen.",
+      "has_external_url": false
+    },
+    {
+      "title": "ukrayna'da eylemcilerin toma yakması",
+      "entry_id": "40543602",
+      "author": "zenithgeist",
+      "date": "19.02.2014 12:12",
+      "content": "toma ile alakası olmayan araçtır. rus yapımı dandik bir zırhlı personel taşıyıcı olan btr'nin günlük olaylar için dönüştürülmüş olan varyantıdır.\n\nyani bir nevi panzer de denilebilir.\n\n(bkz: toma'yı sizden öğrenecek değiliz)",
+      "has_external_url": false
+    },
+    {
+      "title": "ukrayna'da eylemcilerin toma yakması",
+      "entry_id": "40543722",
+      "author": "justinianusuntorunuyumdediminanmadilar",
+      "date": "19.02.2014 12:19",
+      "content": "yunanlı göstericelerin yaktığı polisi hatırlatmıştır.\n\npolis yanmaya başladığında \"yan o.ç.\" tarzı birşey söylüyor.",
+      "has_external_url": true
+    },
+    {
+      "title": "ukrayna'da eylemcilerin toma yakması",
+      "entry_id": "40543938",
+      "author": "otslem",
+      "date": "19.02.2014 12:32",
+      "content": "geçenlerde de bir meydanda piyano çalınmasının üstüne bu olay gezi zeka ya yine hayran kalınmasına neden olmuştur.",
+      "has_external_url": false
+    },
+    {
+      "title": "ukrayna'da eylemcilerin toma yakması",
+      "entry_id": "40544156",
+      "author": "ozgunc",
+      "date": "19.02.2014 12:46",
+      "content": "bizim tomalarda yangın söndürücü var, yani kolay kolay yanmaz...",
+      "has_external_url": false
+    },
+    {
+      "title": "ukrayna'da eylemcilerin toma yakması",
+      "entry_id": "40544517",
+      "author": "zulmet",
+      "date": "19.02.2014 13:06",
+      "content": "yanan araç ufodur (ukranian firing object). frying de olur ama içinde insan varken kullanmak hoş olmaz.",
+      "has_external_url": false
+    }
+  ]
+}

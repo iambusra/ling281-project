@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:02:09.234973",
+    "total_entries": 2,
+    "input": "ukrayna gençlerine verilen savaş eğitimi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukrayna gençlerine verilen savaş eğitimi",
+      "entry_id": "177339294",
+      "author": "likya krali",
+      "date": "04.08.2025 22:12",
+      "content": "https://www.youtube.com/watch?v=8mdi1tjpaga\n\naskerde bile türk gençlerinin alamadığı eğitimi 16 yaşındaki gençlere veriyorlar keşke bizde de öyle olsa\nsavaşta yaralı taşıma ve kendine turnike uygulama gibi şeyleri görmek ne mümkün\nvarsa yoksa yemin töreni için yürüyüş öğrettiler sordun mu ne disiplinli ordu desinler",
+      "has_external_url": true
+    },
+    {
+      "title": "ukrayna gençlerine verilen savaş eğitimi",
+      "entry_id": "177339563",
+      "author": "varolmayankullanici",
+      "date": "04.08.2025 22:23",
+      "content": "50 yıldır dağda savaşan türk silahlı kuvvetleri'yle karşılaştırıldığında, bunlar çoluk çocuk .",
+      "has_external_url": false
+    }
+  ]
+}

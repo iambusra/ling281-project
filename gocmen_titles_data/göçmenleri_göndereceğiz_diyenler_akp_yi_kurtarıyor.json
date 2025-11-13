@@ -1,0 +1,60 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:19:24.679159",
+    "total_entries": 6,
+    "input": "göçmenleri göndereceğiz diyenler akp'yi kurtarıyor",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "göçmenleri göndereceğiz diyenler akp'yi kurtarıyor",
+      "entry_id": "137152328",
+      "author": "non mi avete fatto niente",
+      "date": "07.05.2022 20:55",
+      "content": "türkiye komünist partisi açıklaması.\n\naşağıdaki gibidir:\n\n\"bazı çevreler tarafından'sığınmacıları ülkelerine yollayacağız' iddiasıyla başlatılan kampanya, yoksulluk ve hayat pahalılığı nedeniyle halkın geniş bir kesiminin öfkesini üzerine çeken akp iktidarının imdadına yetişmiştir. içişleri bakanı ile milliyetçi bir partinin lideri arasındaki seviyesiz tartışmanın çıkardığı gürültü bu gerçeği değiştirmez\" vurgusuyla başlayan açıklamada, \"iktidarın ve sözüm ona hükümete muhalefet eden partilerin, türkiye’deki birçok sorunun göçmenlerden kaynaklandığını ileri sürmesi, yaşanmakta olan ekonomik sorunların gerçek nedenlerinin gözden uzak tutulmasına yaramaktadır\"\n\nhttps://haber.sol.org.tr/…onderecegiz-diyerek-akpyi",
+      "has_external_url": true
+    },
+    {
+      "title": "göçmenleri göndereceğiz diyenler akp'yi kurtarıyor",
+      "entry_id": "137152446",
+      "author": "yedinci element",
+      "date": "07.05.2022 20:57",
+      "content": "k*munist açıklaması.",
+      "has_external_url": false
+    },
+    {
+      "title": "göçmenleri göndereceğiz diyenler akp'yi kurtarıyor",
+      "entry_id": "137153446",
+      "author": "tanrinin alfabesi",
+      "date": "07.05.2022 21:19",
+      "content": "bu komünistler de hep böyle ince görüyorlar, inceyi görmesi gerekenler sizler değilsiniz, siz büyük resmi görün, malum kitle de inceyi görsün, anlaştık mı komünist kardeşlerim!",
+      "has_external_url": false
+    },
+    {
+      "title": "göçmenleri göndereceğiz diyenler akp'yi kurtarıyor",
+      "entry_id": "137153543",
+      "author": "mr biceps",
+      "date": "07.05.2022 21:20",
+      "content": "tkp yeni sezon büyük resim kursunu açmış. fiyatlar nasıl acaba.",
+      "has_external_url": false
+    },
+    {
+      "title": "göçmenleri göndereceğiz diyenler akp'yi kurtarıyor",
+      "entry_id": "137154763",
+      "author": "mkltkn",
+      "date": "07.05.2022 21:46",
+      "content": "(bkz: salak yemin ederim gerizekalı bu çocuk ya)",
+      "has_external_url": false
+    },
+    {
+      "title": "göçmenleri göndereceğiz diyenler akp'yi kurtarıyor",
+      "entry_id": "137154940",
+      "author": "chwilfrydig",
+      "date": "07.05.2022 21:50",
+      "content": "isveç'in bile durumu ortada göçmen yanlısı açıklamalar yapmayın solcular dediğim açıklamadır. tamam bence de zafer partisi ve trolleri iktidarı kurtarıyor ama sığınmacı sorunu ülkenin şu an en büyük iki sorunundan biri ve uzun vadede ekonomiden daha büyük bir sorun. o yüzden türkiye bu insanlardan ne kadar çabuk kurtulursa o kadar iyi. hümanistliğinize başlatmayın.",
+      "has_external_url": false
+    }
+  ]
+}

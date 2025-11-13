@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:52:17.505513",
+    "total_entries": 1,
+    "input": "mültecilerden haber alınamaması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "mültecilerden haber alınamaması",
+      "entry_id": "103970108",
+      "author": "bishaunen",
+      "date": "22.03.2020 21:21",
+      "content": "korona virüsünün yarattığı durumdur. en son içişleri bakanımız sürekli; \"şu kadar mülteci ülkeyi terk etti\" diye haber veriyordu. sokaktaki dedeler, yunanistan'a saldıran mültecileri bastırmış durumda.",
+      "has_external_url": false
+    }
+  ]
+}

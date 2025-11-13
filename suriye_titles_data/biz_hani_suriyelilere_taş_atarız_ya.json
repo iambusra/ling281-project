@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T15:57:53.556688",
+    "total_entries": 1,
+    "input": "biz hani suriyelilere taş atarız ya",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "biz hani suriyelilere taş atarız ya",
+      "entry_id": "101100695",
+      "author": "sodakapagi",
+      "date": "26.01.2020 19:43",
+      "content": "böyle bir olayı bile siyasi sahaya sürüklemeye çalışan herkesin allah belasını versin. kabul edin bu vatan haini ortadoğu eserlerini sevmeyeceğiz.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:45:19.184568",
+    "total_entries": 6,
+    "input": "47113 mültecinin edirne üzerinden avrupaya geçmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "47113 mültecinin edirne üzerinden avrupaya geçmesi",
+      "entry_id": "102830984",
+      "author": "ahlak sahibi terbiyesiz adam",
+      "date": "01.03.2020 00:14",
+      "content": "saat 23.50 itibarıyla edirne üzerinden ülkemizden ayrılan göçmen sayısı; 47.113\n\nkaynak: https://twitter.com/…ylu/status/1233859278169104385",
+      "has_external_url": true
+    },
+    {
+      "title": "47113 mültecinin edirne üzerinden avrupaya geçmesi",
+      "entry_id": "102831308",
+      "author": "captankusto",
+      "date": "01.03.2020 00:19",
+      "content": "(bkz: küsuratlı sayı vereyim de salladığım anlaşılmasın)",
+      "has_external_url": false
+    },
+    {
+      "title": "47113 mültecinin edirne üzerinden avrupaya geçmesi",
+      "entry_id": "102831748",
+      "author": "deady",
+      "date": "01.03.2020 00:26",
+      "content": "(bkz: küsüratlı sayı vereyim de salladığım anlaşılmasın)",
+      "has_external_url": false
+    },
+    {
+      "title": "47113 mültecinin edirne üzerinden avrupaya geçmesi",
+      "entry_id": "102832224",
+      "author": "kediye parmak atan cilgin fare",
+      "date": "01.03.2020 00:34",
+      "content": "bizim sınırımızdan çıkan kişi sayısıdır. %60-70'i telleri aşıp yunan tarafına geçmiş, kalanlarda tampon bölgede bekliyor.",
+      "has_external_url": false
+    },
+    {
+      "title": "47113 mültecinin edirne üzerinden avrupaya geçmesi",
+      "entry_id": "102832336",
+      "author": "turkiyeden bikan pilot",
+      "date": "01.03.2020 00:36",
+      "content": "bu kelimeden her ne kadar nefret etsem de (bkz: devamkeeee)",
+      "has_external_url": false
+    },
+    {
+      "title": "47113 mültecinin edirne üzerinden avrupaya geçmesi",
+      "entry_id": "102833273",
+      "author": "techgenius",
+      "date": "01.03.2020 00:54",
+      "content": "ne kactilar aq ya umarim sonumuz boyle olmaz",
+      "has_external_url": false
+    }
+  ]
+}

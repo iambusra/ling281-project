@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:01:33.464576",
+    "total_entries": 1,
+    "input": "suriyelileri kovarken madımak'ı unutmamak",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelileri kovarken madımak'ı unutmamak",
+      "entry_id": "165926725",
+      "author": "sanal gezgin",
+      "date": "02.07.2024 15:01",
+      "content": "sonunda olaylar yatışmışken, insan olduğumuzu tekrar hatırlama zamanıdır.\nmadımak oteli'nde çıkarılan yangın tam 32 yıl önce sönmüş olsa da hala yürekleri yakan alevleri, insan olmak zorunda olduğumuzu hatırlatıyor.\nvalilik olayları yatıştırmak için çaba göstermiş olsa da ilk açıklaması bu mevzuda amatör kümede olduğumuzu gösteriyor. \"suriyeli tacizci\", \"suriyeli çocuk\" vurgusu bunun işareti.\nbelki işsiz güçsüz, lümpen mültecilerin sokaklardan toplanması, kayıt dışı istihdamın kontrol altına alınması her türlü suça uygun hale gelen sokakları biraz sakinleştirebilir. yoksa bir sonraki kışkırtmaya kadar bu sükuneti sürdürebilirsiniz.",
+      "has_external_url": true
+    }
+  ]
+}

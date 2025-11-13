@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:04:16.467290",
+    "total_entries": 2,
+    "input": "suriyelilerin gitmesinin ekonomiye etkileri",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelilerin gitmesinin ekonomiye etkileri",
+      "entry_id": "170842407",
+      "author": "ordekpoposundadomates",
+      "date": "08.12.2024 16:04 ~ 16:05",
+      "content": "talep azalacağı için enflasyon düşer. halkın alım gücü artar.",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyelilerin gitmesinin ekonomiye etkileri",
+      "entry_id": "170842461",
+      "author": "ziplayankaplan",
+      "date": "08.12.2024 16:06",
+      "content": "kira fiyatları düşeceği için ev fiyatlarıda düşer.",
+      "has_external_url": false
+    }
+  ]
+}

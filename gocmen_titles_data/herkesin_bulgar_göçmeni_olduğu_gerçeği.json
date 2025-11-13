@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:11:43.076928",
+    "total_entries": 2,
+    "input": "herkesin bulgar göçmeni olduğu gerçeği",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "herkesin bulgar göçmeni olduğu gerçeği",
+      "entry_id": "57689676",
+      "author": "denizumut",
+      "date": "13.01.2016 05:07",
+      "content": "istisnalar var tabii.",
+      "has_external_url": true
+    },
+    {
+      "title": "herkesin bulgar göçmeni olduğu gerçeği",
+      "entry_id": "57689812",
+      "author": "kemaliz kiz",
+      "date": "13.01.2016 05:42",
+      "content": "tc ve oncesi osmanli imparatorluguna son 200 yilda 10 milyon muhacirin goc ettigi dusunuldugunde cok da anormal olmayan durum. gunumuz turkiye'sinde muhacirlerin cocuklarinin/torunlarinin tum nufusa oraninin %25 ile %33 arasinda oldugu tahmin ediliyor.",
+      "has_external_url": false
+    }
+  ]
+}

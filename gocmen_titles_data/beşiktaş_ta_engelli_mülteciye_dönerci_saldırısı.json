@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:42:39.860631",
+    "total_entries": 1,
+    "input": "beşiktaş'ta engelli mülteciye dönerci saldırısı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "beşiktaş'ta engelli mülteciye dönerci saldırısı",
+      "entry_id": "103201301",
+      "author": "dincisosyalist",
+      "date": "08.03.2020 13:42",
+      "content": "twitter'da gördüğüm ve kanımı donduran olaydır. kim bu insanlara dur diyecek. kim bunları kontrol altına alacak bilmiyorum. insan (!) hayatı bu kadar ucuz mu? düşündüm ve türkiye'de yaşıyorsan evet bu kadar ucuz.",
+      "has_external_url": true
+    }
+  ]
+}

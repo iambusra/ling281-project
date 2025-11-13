@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:14:42.763193",
+    "total_entries": 3,
+    "input": "ukrayna'da okuyan öğrencilere sorulanlar",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukrayna'da okuyan öğrencilere sorulanlar",
+      "entry_id": "4688181",
+      "author": "theoria",
+      "date": "12.06.2004 22:35",
+      "content": "(bkz: rusya da okuyan öğrencilere sorulanlar)",
+      "has_external_url": false
+    },
+    {
+      "title": "ukrayna'da okuyan öğrencilere sorulanlar",
+      "entry_id": "4688255",
+      "author": "mithril",
+      "date": "12.06.2004 22:41",
+      "content": "\" eksi sozluk erkekler zirvesi operation kiev e geliyor musun abi?\" mutlaka sorulacak sorulardan biridir.\nhali hazırda ukrayna'da olupta, yada orada yıllarca kalmış olupta operation kiev'e gitmemek olmaz. engin tecrübelerden sözlük erkeklerini mahrum etmek olmaz.",
+      "has_external_url": false
+    },
+    {
+      "title": "ukrayna'da okuyan öğrencilere sorulanlar",
+      "entry_id": "5922000",
+      "author": "hellprince",
+      "date": "02.10.2004 02:11",
+      "content": "ne kız götürmüşsündür abi sen valla ha, di mi abi? abi?\n-ben diyim 100 sen de 150\n\n-kızlar çok mu güzel abi?\n-senin podyumda gorduklerini biz sikiyoruz\n\n-hepsi veriyor mu abi?\n-alani da var vereni de",
+      "has_external_url": false
+    }
+  ]
+}

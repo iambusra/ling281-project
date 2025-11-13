@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:04:57.182087",
+    "total_entries": 1,
+    "input": "suriyelilerin mersin saldırısı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelilerin mersin saldırısı",
+      "entry_id": "166630742",
+      "author": "ne istediler de vermedik",
+      "date": "24.07.2024 20:19",
+      "content": "tehlikeli sularda yüzen kaçakların yeni marifetidir.\nhttps://www.silifkesesimiz.com/…caliyor-7725-haberi",
+      "has_external_url": true
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:52:03.707136",
+    "total_entries": 2,
+    "input": "müteahhitlerin mültecilerden memnun olması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "müteahhitlerin mültecilerden memnun olması",
+      "entry_id": "136401339",
+      "author": "agregas",
+      "date": "19.04.2022 12:50 ~ 13:35",
+      "content": "mülteci konusu tartışılırken göz ardı edilen gerçek. bu ülke müteahhitler ülkesi. 3 sene önce bu ülkede 2 milyon konut fazlası vardı. bugün bırak satın alınacak, kiraya verilecek daire yok. kalite ayaklar altında ama daireler topraktan alıcı buluyor. müteahhitler sığınmacılardan memnun olduğu sürece türkiye göç almaya devam edecek…",
+      "has_external_url": false
+    },
+    {
+      "title": "müteahhitlerin mültecilerden memnun olması",
+      "entry_id": "136401426",
+      "author": "nerden geldin nereye gidiyon ey yolcu",
+      "date": "19.04.2022 12:53",
+      "content": "(bkz: ucuz iş gücü)\n\n(bkz: sigorta yapmama)\n\n(bkz: sömürü)",
+      "has_external_url": false
+    }
+  ]
+}

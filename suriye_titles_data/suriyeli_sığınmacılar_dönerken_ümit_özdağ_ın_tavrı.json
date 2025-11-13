@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:52:21.688344",
+    "total_entries": 2,
+    "input": "suriyeli sığınmacılar dönerken ümit özdağ'ın tavrı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeli sığınmacılar dönerken ümit özdağ'ın tavrı",
+      "entry_id": "170875316",
+      "author": "yetkin99",
+      "date": "09.12.2024 14:04",
+      "content": "yollarını kesip önlerine yatmak olacaktır. kolay değil, yıllarını verdi o kadar yalana, provokasyona, şimdi varlık sebebi ortadan kalkacak. seçimlerde pazarlık yapıp koltuk kapacaktı ama olmadı.\nhttps://x.com/…aybars001/status/1865677699512930313",
+      "has_external_url": true
+    },
+    {
+      "title": "suriyeli sığınmacılar dönerken ümit özdağ'ın tavrı",
+      "entry_id": "170875700",
+      "author": "beytiahzan",
+      "date": "09.12.2024 14:24",
+      "content": "üzüntüden kahrolacaktir.",
+      "has_external_url": false
+    }
+  ]
+}

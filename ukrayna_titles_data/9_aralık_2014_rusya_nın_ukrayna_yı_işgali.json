@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:08:15.909765",
+    "total_entries": 4,
+    "input": "9 aralık 2014 rusya'nın ukrayna'yı işgali",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "9 aralık 2014 rusya'nın ukrayna'yı işgali",
+      "entry_id": "47542108",
+      "author": "viper cy",
+      "date": "09.12.2014 08:55 ~ 08:56",
+      "content": "bugün sabah erken saatlerde başlayan işgal. rus hava kuvvetlerine ait f-22'ler ülke çapında keşif uçuşu yapıyorlarmış. (bkz: swh) (bkz: ameliyatlı yerime vurmayın)",
+      "has_external_url": false
+    },
+    {
+      "title": "9 aralık 2014 rusya'nın ukrayna'yı işgali",
+      "entry_id": "47542182",
+      "author": "mr frodo",
+      "date": "09.12.2014 09:00",
+      "content": "(bkz: cem uzan'a hapis şoku) kıvamına gelmiş işgal haberi.",
+      "has_external_url": false
+    },
+    {
+      "title": "9 aralık 2014 rusya'nın ukrayna'yı işgali",
+      "entry_id": "47543588",
+      "author": "astalavistab",
+      "date": "09.12.2014 10:46",
+      "content": "daha önce farklı tarihlerde 6 kere daha başlığı açılan durum.",
+      "has_external_url": false
+    },
+    {
+      "title": "9 aralık 2014 rusya'nın ukrayna'yı işgali",
+      "entry_id": "47552659",
+      "author": "galenos",
+      "date": "09.12.2014 19:19",
+      "content": "(bkz: bana derhal hırvat'ı bağlayın)",
+      "has_external_url": false
+    }
+  ]
+}

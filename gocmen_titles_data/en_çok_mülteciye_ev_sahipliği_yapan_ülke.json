@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:42:37.892906",
+    "total_entries": 4,
+    "input": "en çok mülteciye ev sahipliği yapan ülke",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "en çok mülteciye ev sahipliği yapan ülke",
+      "entry_id": "124894775",
+      "author": "sokratesinsavunmasinibenyazdim",
+      "date": "22.06.2021 12:21",
+      "content": "(bkz: çomaristan)",
+      "has_external_url": false
+    },
+    {
+      "title": "en çok mülteciye ev sahipliği yapan ülke",
+      "entry_id": "124894871",
+      "author": "mukan",
+      "date": "22.06.2021 12:24 ~ 12:31",
+      "content": "türkiye cumhuriyeti kanunlarına göre türk devleti ülkesine sadece batı'dan gelenleri''mülteci'' olarak adlandırdığı için asılsız''gerçekliktir''\n\nedit: türkiye cumhuriyeti devleti''zaman ve coğrafya'' kısıtı ile kime mülteci deneceğinin belirlendiği cenevre anlaşmasına taraftır. lakin daha sonra imzalan''zaman ve coğrafya'' kısıtının kaldırıldığı new york protokolüne imza koymamıştır. bu sebeple bizim için hala''zaman ve coğrafya'' kısıtı devam etmektedir. kısaca bu ülkeye ülkenin doğu'sundan gelen afgan, suri, peştun,''kırgız'',''kazak'' vs kim varsa mülteci değildir.",
+      "has_external_url": false
+    },
+    {
+      "title": "en çok mülteciye ev sahipliği yapan ülke",
+      "entry_id": "124895038",
+      "author": "itlik kopukluk",
+      "date": "22.06.2021 12:29",
+      "content": "cevabı belli tabiki (bkz: türkiye) başka kim olacaktı ki",
+      "has_external_url": false
+    },
+    {
+      "title": "en çok mülteciye ev sahipliği yapan ülke",
+      "entry_id": "124895227",
+      "author": "rockergirlikeblue",
+      "date": "22.06.2021 12:36",
+      "content": "türkiye cenova sözleşmesini sadece batıdan gelen göçmenler icin kabul ettiği icin suriyeliler ve ortadogulular misafir statusundedir mülteci değil. alınırsa da yahudileri ve bazı iranlıları alın kardeşim gidip görgüsüz arapları doldurmayın ülkeye. eğitimli kesim olsa neyse de bizim ulkedekiler berbat genelde.",
+      "has_external_url": false
+    }
+  ]
+}

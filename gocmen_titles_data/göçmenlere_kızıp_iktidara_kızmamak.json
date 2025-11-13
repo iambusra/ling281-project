@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:21:30.535403",
+    "total_entries": 3,
+    "input": "göçmenlere kızıp iktidara kızmamak",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "göçmenlere kızıp iktidara kızmamak",
+      "entry_id": "136282260",
+      "author": "rikousan",
+      "date": "16.04.2022 17:20",
+      "content": "suriye savaşına taraf olan, sırf dünyaya ve müslümanlara insan hakları savunucusu görünmek için çaba harcayan, göçmenlerin kontrolsüzce ülkeye girişini sağlayan akp hükümeti değilmiş gibi göçmenlere kızmaktır.\n\nbunun sebebi şu: pek çok insanın gücü, göçmenlere tepki vermeye yetiyor.\n\nbaşka bir başlıkta bir yazar ümit özdağ'ın göçmen sorunu hakkında konuşurken iktidarı ya da liderini eleştirmediğinden söz etmiş. sahi bunun sebebi ne? korku mu? \"aman muhafazakar sağ seçmeni küstürmeyelim.\" düşüncesi mi? muhalefete yüklenmenin dayanılmaz kolaycılığı mı?",
+      "has_external_url": false
+    },
+    {
+      "title": "göçmenlere kızıp iktidara kızmamak",
+      "entry_id": "136282659",
+      "author": "sonbaharx",
+      "date": "16.04.2022 17:33",
+      "content": "iki yüzlülüktür",
+      "has_external_url": false
+    },
+    {
+      "title": "göçmenlere kızıp iktidara kızmamak",
+      "entry_id": "136282943",
+      "author": "peynirrakikavun",
+      "date": "16.04.2022 17:42",
+      "content": "gerizekaliliktir.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:16:01.312961",
+    "total_entries": 2,
+    "input": "göçmenler vurmasın diye arapça öğrenmek",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "göçmenler vurmasın diye arapça öğrenmek",
+      "entry_id": "164285008",
+      "author": "stateless society",
+      "date": "10.05.2024 21:39",
+      "content": "hızla araplaşan türkiye’de öldürülmemek için yapılabilecek en mantıklı yatırımlardan biri.",
+      "has_external_url": false
+    },
+    {
+      "title": "göçmenler vurmasın diye arapça öğrenmek",
+      "entry_id": "164285332",
+      "author": "seyithann",
+      "date": "10.05.2024 21:48 ~ 22:05",
+      "content": "şu tipleri,ümit ırkçısını en yakın zamanda mültecilerle göndermek diileğiyle.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:11:40.397642",
+    "total_entries": 4,
+    "input": "annem girit babam yugoslav göçmeni diyen kız",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "annem girit babam yugoslav göçmeni diyen kız",
+      "entry_id": "29829244",
+      "author": "lesterburnham",
+      "date": "16.08.2012 22:48",
+      "content": "umut sarıkaya nın da karikatürlerinde zaman zaman çıkan, bir yerinden avrupaya tutunmaya çalışan kız. tanışma sonrası bu söylendiğinde anadolunun bağrından çıkan bir erkekse bir anda maçta 1-0 geriye düştüğünü düşünür. kız bu yapısallığını üstüne yakışan bir elbise gibi taşımaya çalışırken karşıdan gelen \"biz de yozgat çekerekliyiz \" tarzında bir cümleye hafif aşağılama dolu gözlerle bakabilir.",
+      "has_external_url": false
+    },
+    {
+      "title": "annem girit babam yugoslav göçmeni diyen kız",
+      "entry_id": "57964224",
+      "author": "sahanda sucuklu paskalya yumurtasi",
+      "date": "24.01.2016 02:13",
+      "content": "halis muhlis konya karamanlıdır.",
+      "has_external_url": false
+    },
+    {
+      "title": "annem girit babam yugoslav göçmeni diyen kız",
+      "entry_id": "57964301",
+      "author": "animus",
+      "date": "24.01.2016 02:16",
+      "content": "trakya insanlarının çoğundan duyabileceğiniz ifade. gelinen balkan ülkeleri farklı olabilir. ama kısacası göçmenliktir bu, bir çeşit soykırımdan kurtulan balkan türklerinin atalarının geldiği yerleri anması.",
+      "has_external_url": false
+    },
+    {
+      "title": "annem girit babam yugoslav göçmeni diyen kız",
+      "entry_id": "57964432",
+      "author": "theternalwisdom",
+      "date": "24.01.2016 02:22",
+      "content": "görünen o ki, saçmalamakta sınır tanımayan bazı götlerin çekemediği kızdır.",
+      "has_external_url": false
+    }
+  ]
+}

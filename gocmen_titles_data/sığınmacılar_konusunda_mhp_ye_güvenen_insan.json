@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:00:11.309200",
+    "total_entries": 1,
+    "input": "sığınmacılar konusunda mhp'ye güvenen insan",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "sığınmacılar konusunda mhp'ye güvenen insan",
+      "entry_id": "157282260",
+      "author": "faytonfayt",
+      "date": "30.09.2023 21:59",
+      "content": "azımsanmayacak sayıdadır. heveslerini kırmak isterim yok öyle bir şey.\n\nmhp, sığınmacılar konusunda hep kaçak oynuyor, hatta anayasa değişirken de aynı şey olacak.\n\nmhp'den bu tip milliyetçi refleksler beklemeyin, mhp artık bbp tadında bir parti.",
+      "has_external_url": false
+    }
+  ]
+}

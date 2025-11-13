@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:20:41.689982",
+    "total_entries": 2,
+    "input": "avrupa vizeleri kaldırmazsa göçmenleri salıyoruz",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "avrupa vizeleri kaldırmazsa göçmenleri salıyoruz",
+      "entry_id": "66848034",
+      "author": "gilbertus albans",
+      "date": "14.03.2017 18:48",
+      "content": "(bkz: hani ensar bizdik)",
+      "has_external_url": false
+    },
+    {
+      "title": "avrupa vizeleri kaldırmazsa göçmenleri salıyoruz",
+      "entry_id": "66848123",
+      "author": "jamesdarmody",
+      "date": "14.03.2017 18:54",
+      "content": "bu işin olmayacağını, avrupa'nın öyle kolay kolay vize serbestisi vermeyeceğini söyledik, yine vatan haini yine terörist olduk.\n\nşimdi avrupa oyaladı vize vermedi, yine kuyrukçu yine vatan haini biz olduk.\n\nama siz vatan sevdalısısınız değil mi? valla basit muhakeme ve hafıza yetilerinden mahrumsanız bu sevdanız ülkeyi batırmaktan başka bir işe yaramıyor.",
+      "has_external_url": false
+    }
+  ]
+}

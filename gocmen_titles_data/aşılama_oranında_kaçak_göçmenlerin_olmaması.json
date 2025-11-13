@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:26:18.744658",
+    "total_entries": 1,
+    "input": "aşılama oranında kaçak göçmenlerin olmaması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "aşılama oranında kaçak göçmenlerin olmaması",
+      "entry_id": "126159982",
+      "author": "uslumuhendis",
+      "date": "26.07.2021 20:30",
+      "content": "malum ülkemizde azımsanamayacak sayıda kaçak göçmen var.\n\nbu göçmenler resmi olarak olmadığı için resmi aşılama oranında hesaba katılmıyor fakat bu insanlar varlar ve virüsün yayılmasına katkı sağlıyorlar.\n\ntabi ülkede resmi olarak bulunmadıkları için aşı olma ihtimalleri de yok bu kaçak göçmenlerin.\n\nsağlık bakanı bu konuda ne düşünüyor acaba",
+      "has_external_url": false
+    }
+  ]
+}

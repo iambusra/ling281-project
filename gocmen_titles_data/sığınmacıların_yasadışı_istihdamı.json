@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:05:16.468031",
+    "total_entries": 1,
+    "input": "sığınmacıların yasadışı istihdamı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "sığınmacıların yasadışı istihdamı",
+      "entry_id": "136996222",
+      "author": "desidero a",
+      "date": "04.05.2022 13:35",
+      "content": "gelen geçici sığınmacıların/istilacıların hiç bir şekilde ve hiç bir sebeple kalıcı olarak kabul edilmemesi gerektiğine inanıyorum. bununla ilgili olarak sorumluların yaptıklarının ve yapmadıklarının hesabını vermelerinin de şart olduğunu düşünüyorum. ama belli ki bu ancak 2023 sonrası olabilecek.\nbugün bu sorumlulara sormak istiyorum. hadi gelmelerini önleyemediniz, bunlara bir şey yapamıyorsunuz, aleni bir şekilde kayıt dışı çalıştırılanlarla ilgili işlem yapmak da mı mümkün olmuyor?\nbu şekilde eleman çalıştıran işverenler için cezai müeyyide var ama neden etkin bir şekilde kullanılmıyor? eğer ülke işverenler açısından düşük maliyetli ve istilacılar için çalışma açısından cazip olursa, gelmeye devam etmek için her yolu denemeye devam etmezler mi?\nbu ülkede uzun yıllar boyunca kayıt dışı istihdam konusunda mücadele verildi. sosyal güvenlik sistemimiz neredeyse iflas noktasına gelmiş durumda, her yıl büyük açıklar bütçeden karşılanarak sübvanse ediliyor. tüik'in oynanmış rakamlarıyla bile gizlenemeyen işsizlik had safhada. bunun bir nebze de olsa önüne geçmeye çalışmanız iyi olmaz mı?\nbir kaç cümle de bu istilacılardan şikayetçi olanlara; bu şekilde eleman çalıştıran iş yerlerini, sadece siz yapsanız ve hemen sonuç alamasanız dahi boykot etmek gerekmez mi? yapmayanları ödüllendirmek ve onları desteklemek daha iyi olmaz mı?",
+      "has_external_url": false
+    }
+  ]
+}

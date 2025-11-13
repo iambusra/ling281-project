@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:05:36.922291",
+    "total_entries": 1,
+    "input": "suriyeli sığınmacıların maske takmaması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeli sığınmacıların maske takmaması",
+      "entry_id": "127491722",
+      "author": "amerikan popechku",
+      "date": "30.08.2021 10:03 ~ 10:05",
+      "content": "bulunduğum beldede türkler de takmiyor. üstüne üstlük kapalı alanlarda toplu taşımada görevli uyarınca car car car ötüyolar üste çıkmaya çalışıyorlar",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:19:09.343340",
+    "total_entries": 3,
+    "input": "50000 suriyeli'ye vatandaşlık verilmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "50000 suriyeli'ye vatandaşlık verilmesi",
+      "entry_id": "72494847",
+      "author": "gorkemgoksu",
+      "date": "30.11.2017 14:54",
+      "content": "(bkz: savaştan kaçan adamdan askerlik beklemek)",
+      "has_external_url": false
+    },
+    {
+      "title": "50000 suriyeli'ye vatandaşlık verilmesi",
+      "entry_id": "72495609",
+      "author": "doksor",
+      "date": "30.11.2017 15:29",
+      "content": "(bkz: savastan kacan adamin vatandaslik beklemesi)",
+      "has_external_url": false
+    },
+    {
+      "title": "50000 suriyeli'ye vatandaşlık verilmesi",
+      "entry_id": "72495662",
+      "author": "tovbekar tospaa",
+      "date": "30.11.2017 15:32",
+      "content": "oy kullanma hakkı varsa, vatandaşsa, vatandaşlık görevlerini yerine getirmeleri gerekir.\nvergisini vermeli, askerliğini yapmalı, doğu görevini de yapmalı.",
+      "has_external_url": false
+    }
+  ]
+}

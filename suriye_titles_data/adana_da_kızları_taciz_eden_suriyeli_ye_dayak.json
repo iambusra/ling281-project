@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:27:43.397908",
+    "total_entries": 4,
+    "input": "adana'da kızları taciz eden suriyeli'ye dayak",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "adana'da kızları taciz eden suriyeli'ye dayak",
+      "entry_id": "61055207",
+      "author": "nereye lan",
+      "date": "10.06.2016 13:26",
+      "content": "yerli sapıklarımız yetmedi, bir de suriyeli sapıklar çıktı.\n\nvideo: https://www.youtube.com/watch?v=woe8xcsjwlq\n\ndayağı atanların eline koluna sağlık!",
+      "has_external_url": true
+    },
+    {
+      "title": "adana'da kızları taciz eden suriyeli'ye dayak",
+      "entry_id": "61055332",
+      "author": "fazlasigarasiolanvarmi",
+      "date": "10.06.2016 13:34",
+      "content": "(bkz: ortadoğu'da sıradan bir gün)",
+      "has_external_url": false
+    },
+    {
+      "title": "adana'da kızları taciz eden suriyeli'ye dayak",
+      "entry_id": "61055380",
+      "author": "kabasabainsan",
+      "date": "10.06.2016 13:37",
+      "content": "ya bunlara bu cesaret nereden geliyor mnk. ağzını yüzünü dağıtıverseydiniz oc'nun!",
+      "has_external_url": false
+    },
+    {
+      "title": "adana'da kızları taciz eden suriyeli'ye dayak",
+      "entry_id": "61055558",
+      "author": "lahoya87",
+      "date": "10.06.2016 13:47",
+      "content": "burada bizden başkası taciz edemez deyip dayak atmışlardır.",
+      "has_external_url": false
+    }
+  ]
+}

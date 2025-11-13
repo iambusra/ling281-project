@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:30:21.761390",
+    "total_entries": 1,
+    "input": "akp'nin suriyeli mültecileri potansiyel oy görmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "akp'nin suriyeli mültecileri potansiyel oy görmesi",
+      "entry_id": "52348728",
+      "author": "hanutcu",
+      "date": "16.06.2015 16:18",
+      "content": "fatih bölgesindeki oy potansiyelini artırma projesi.",
+      "has_external_url": false
+    }
+  ]
+}

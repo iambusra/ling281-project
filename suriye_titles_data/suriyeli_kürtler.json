@@ -1,0 +1,76 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:50:29.282753",
+    "total_entries": 8,
+    "input": "suriyeli kürtler",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeli kürtler",
+      "entry_id": "26804544",
+      "author": "saclari saman sarisi",
+      "date": "01.01.2012 23:00",
+      "content": "yıllardır zulme uğrayan insanlardır.",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyeli kürtler",
+      "entry_id": "26804970",
+      "author": "berxwedan jiyane galiba",
+      "date": "01.01.2012 23:27",
+      "content": "anadilde eğitim ve yerel meclis hakkı gibi hakları son birkaç ay içinde elde etmiş kürtlerdir.",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyeli kürtler",
+      "entry_id": "26805048",
+      "author": "financier",
+      "date": "01.01.2012 23:31",
+      "content": "yaklaşık 100.000 yıldır bölgede yerleşik oldukları için kendilerini ülkenin asıl sahibi konumunda görürler.",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyeli kürtler",
+      "entry_id": "26805077",
+      "author": "saklanbac oynayan elime mum diksin",
+      "date": "01.01.2012 23:32",
+      "content": "türkiyedeki kürtlerin bakıp bakıp şükretmeleri gereken kürtlerdir.",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyeli kürtler",
+      "entry_id": "30936150",
+      "author": "saklanbac oynayan elime mum diksin",
+      "date": "14.11.2012 07:54",
+      "content": "yakında kendi federal yönetimlerine sahip olacaklardır ve bölgede federal bir devlete sahip olmayan tek kürt azınlığın türkiye'de ki kürtler olmasına sebep olacak azınlıktır",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyeli kürtler",
+      "entry_id": "32436086",
+      "author": "glaucus",
+      "date": "05.03.2013 11:43",
+      "content": "bölgelerinde halk meclisleri, halk mahkemeleri kurarak yeni özerk bir sistemi yoktan var etmeye başlamışlar.\n\nyoktan var olan rojava",
+      "has_external_url": true
+    },
+    {
+      "title": "suriyeli kürtler",
+      "entry_id": "79692161",
+      "author": "imansiz ateist",
+      "date": "29.07.2018 15:22",
+      "content": "hem suriyeli hem kürtler bir de sığınmacı oldukları taktirde kuvvetle muhtemel aşırı doz ırkçılığa maruz kalmaktan canlarını yitireceklerdir.",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyeli kürtler",
+      "entry_id": "170673567",
+      "author": "thorin 1283",
+      "date": "02.12.2024 17:06",
+      "content": "türklerle göçebe diye dalga geçerlerken şu sıralar göçebe takılan insanlar.",
+      "has_external_url": false
+    }
+  ]
+}

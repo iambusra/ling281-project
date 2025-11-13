@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:23:47.189010",
+    "total_entries": 2,
+    "input": "göçmenlerle ilgili entegrasyon süreci başlatılması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "göçmenlerle ilgili entegrasyon süreci başlatılması",
+      "entry_id": "126290814",
+      "author": "cokseviyoruzdeligibi",
+      "date": "29.07.2021 23:52",
+      "content": "ya sokarım entegrasyonuna bu adamları gönderin kardeşim. bugün bunları alkışlayanlar yarın ağlayınca iş işten geçmiş olacak.",
+      "has_external_url": false
+    },
+    {
+      "title": "göçmenlerle ilgili entegrasyon süreci başlatılması",
+      "entry_id": "126290867",
+      "author": "betada don bebegim yok diye uye oldum",
+      "date": "29.07.2021 23:54",
+      "content": "doğrusu (bkz: göçmenlerle ilgili sınırdışı süreci başlatılması) olmalıdır.",
+      "has_external_url": false
+    }
+  ]
+}

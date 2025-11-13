@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-10T23:57:07.393786",
+    "total_entries": 1,
+    "input": "10 milyon mülteci + 5 milyon vatandaşlık",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "10 milyon mülteci + 5 milyon vatandaşlık",
+      "entry_id": "142187038",
+      "author": "epidemik makale",
+      "date": "03.09.2022 19:05",
+      "content": "vatanı parsel parsel sattılar.\n\nidamı konuşmamız gerekirken, daha seçilir mi seçilmez mi, kimi seçelim vs konuşuyoruz. ülkeyi satıp milliyetçiliği de kimseye bırakmıyorlar ya yanıyorum yanıyorum ona yanıyorum.",
+      "has_external_url": false
+    }
+  ]
+}

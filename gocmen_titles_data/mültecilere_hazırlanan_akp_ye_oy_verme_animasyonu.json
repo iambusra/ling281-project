@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:51:07.427925",
+    "total_entries": 1,
+    "input": "mültecilere hazırlanan akp'ye oy verme animasyonu",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "mültecilere hazırlanan akp'ye oy verme animasyonu",
+      "entry_id": "140065945",
+      "author": "aradabigelirgiderim",
+      "date": "16.07.2022 18:58 ~ 19:03",
+      "content": "mültecilere akp'ye oy verme tarifi\n\nyayında ve yapımda emeği olan herkesin ölmüşlerine rahmet okutacak animasyon video.\nadamlar ülkeyi mülteci doldurmakla kalmayıp vatandaşlık verdiler, üstüne bir de animasyon video hazırlayıp seçimlerde akp'ye nasıl oy verilir diye tarif etmişler.\nsinirden elim ayabim titriyor, bu zamana kadar kendi içimizde çok kavgalar ettik çok eyvallah dedik ama buna da tamam diyemeyiz.....",
+      "has_external_url": true
+    }
+  ]
+}

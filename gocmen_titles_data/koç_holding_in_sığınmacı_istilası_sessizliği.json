@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:55:50.559289",
+    "total_entries": 1,
+    "input": "koç holding'in sığınmacı istilası sessizliği",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "koç holding'in sığınmacı istilası sessizliği",
+      "entry_id": "170002803",
+      "author": "boslama",
+      "date": "08.11.2024 23:31",
+      "content": "koç holding'in vatanseverliğinin salt popülizmden oluştuğunun göstergesi.\n\nher milli bayramda, her 10 kasım'da yüksek bütçeli atatürk videosu hazırlamakla olmuyor vatanseverlik.\n\naman erdoğan ile aramız bozulmasın diye suya sabuna dokunma ama her 10 kasım prim kas.",
+      "has_external_url": false
+    }
+  ]
+}

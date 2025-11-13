@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:23:24.272276",
+    "total_entries": 2,
+    "input": "göçmenlerden şikayet edip yurtdışına gitmek",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "göçmenlerden şikayet edip yurtdışına gitmek",
+      "entry_id": "133645846",
+      "author": "pisspaca",
+      "date": "12.02.2022 18:36",
+      "content": "bizim ülkemize has bir insan modeli olsa gerek. göçmenleri savaş çıkınca ülkelerini bırakıp kaçtıkları için tahkir edenlerin hepsi olmasa da büyük bir kısmının fırsatını bulduğu anda arkasına bakmadan kapagi bir batı ülkesine atacağını düşünüyorum. bu çelişkiyi, kafa olarak zaten bu topraklara ait olmamalarına bağlıyorum.",
+      "has_external_url": false
+    },
+    {
+      "title": "göçmenlerden şikayet edip yurtdışına gitmek",
+      "entry_id": "133646282",
+      "author": "klaudiopolis",
+      "date": "12.02.2022 18:50",
+      "content": "göçmenin ne olduğunu bilmemektedir yazan arkadaş, göçmen oraya çalışmak için yasal yollardan gider, oranın yasasına, şartlarına uyar, belli seviyede dil bilgisi olmazsa zaten çalışamaz. şimdi sorarım bu durumla bizim sınırımızdan giren ne idüğü belirsiz tipler aynı mıdır? bizim ülkemizin 4'te 1'i göçmendir, yıllarca da kimseye göçmen karşıtlığı yapılmamıştır. sen bence biraz göçmen nedir, mülteci nedir, geçici sığınmacı nedir biraz öğren de öyle yaz.",
+      "has_external_url": false
+    }
+  ]
+}

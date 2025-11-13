@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:08:52.126747",
+    "total_entries": 1,
+    "input": "mısırı canlı yayınlayıp ukraynayı yayınlamamak",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "mısırı canlı yayınlayıp ukraynayı yayınlamamak",
+      "entry_id": "21948719",
+      "author": "dntpnc",
+      "date": "03.02.2011 12:20",
+      "content": "hele ki yayınlanmaya cesaret edilen fotoğraflarda yapılan \"sansür\" uygulaması basın için bir ayıptır. açın ukrayna'lı kızların önünü!",
+      "has_external_url": false
+    }
+  ]
+}

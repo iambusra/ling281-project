@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:06:46.584192",
+    "total_entries": 2,
+    "input": "suriyelilerle ilgili yalanlar",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelilerle ilgili yalanlar",
+      "entry_id": "61701118",
+      "author": "valiant",
+      "date": "13.07.2016 16:54 ~ 16:55",
+      "content": "suriyeli mültecilerle ilgili son dönemde internette çok fazla dolaşıma sokulan yalan ve yanlış bilgiler.\n\nbu bilgiler çoğunlukla suriyelilere yönelik öfkenin ve linç girişimlerinin örgütlenmesi için kullanılıyor. bunun da sonucu suriyelilerin hedef haline gelmesi oluyor. son olarak iki suriyeli çocuk dövülerek öldürüldü .\n\nhttp://www.aksam.com.tr/…rek-olduruldu/haber-463433\n\ndoğruluk payı sitesi bu yalan ve yanlış bilgileri ifşa eden güzel bir yazı yayınlamış;\n\nhttp://www.dogrulukpayi.com/bulten/5785f4a007857",
+      "has_external_url": true
+    },
+    {
+      "title": "suriyelilerle ilgili yalanlar",
+      "entry_id": "61702118",
+      "author": "kerkenezzz",
+      "date": "13.07.2016 17:56",
+      "content": "suriyeliler hakkında haberlerin çoğu yalan olabilir fakat;\nsuriyelilerin çiçek dağıttığı görmedim. evden yola çocuk bezi ve çöp attıkkarını gördüm ama.",
+      "has_external_url": false
+    }
+  ]
+}

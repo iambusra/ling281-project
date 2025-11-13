@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:58:47.019903",
+    "total_entries": 2,
+    "input": "yüzbinlerce suriyeli sığınmacının mersin'e",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "yüzbinlerce suriyeli sığınmacının mersin'e",
+      "entry_id": "149068416",
+      "author": "yefy00",
+      "date": "11.02.2023 13:53",
+      "content": "malum kesimin umrunda değil. onlar için ne kadar suriyeli o kadar ucuz işçi demek.",
+      "has_external_url": false
+    },
+    {
+      "title": "yüzbinlerce suriyeli sığınmacının mersin'e",
+      "entry_id": "149068664",
+      "author": "dilediledil",
+      "date": "11.02.2023 13:57",
+      "content": "biz mersin den nereye kaçalım? mersin oluyor suriye",
+      "has_external_url": false
+    }
+  ]
+}

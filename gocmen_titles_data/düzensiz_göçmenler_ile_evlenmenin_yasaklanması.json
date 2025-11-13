@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:15:46.299752",
+    "total_entries": 3,
+    "input": "düzensiz göçmenler ile evlenmenin yasaklanması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "düzensiz göçmenler ile evlenmenin yasaklanması",
+      "entry_id": "173032617",
+      "author": "eurasia",
+      "date": "22.02.2025 22:57",
+      "content": "fransa senatosu, fransız vatandaşlarıyla düzensiz göçmenlerin evlenmesini yasaklayan yasa tasarısını kabul etti.\n\nx",
+      "has_external_url": true
+    },
+    {
+      "title": "düzensiz göçmenler ile evlenmenin yasaklanması",
+      "entry_id": "173033830",
+      "author": "boyle bir nick aslinda yok",
+      "date": "22.02.2025 23:34 ~ 23:40",
+      "content": "özgürlük, eşitlik, kardeşlik, ha bir de sikinizin girdiği deliğe bundan sonra fransız başbakanı karar verecek mösyö.",
+      "has_external_url": false
+    },
+    {
+      "title": "düzensiz göçmenler ile evlenmenin yasaklanması",
+      "entry_id": "173034032",
+      "author": "serbesti",
+      "date": "22.02.2025 23:41",
+      "content": "mümkün olmayan yasak, t\n\ngülüp geçelim",
+      "has_external_url": false
+    }
+  ]
+}

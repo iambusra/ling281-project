@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:23:55.139195",
+    "total_entries": 1,
+    "input": "türkiye'ye geçip göçmenlerle konuşan yunan muhabir",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türkiye'ye geçip göçmenlerle konuşan yunan muhabir",
+      "entry_id": "103084757",
+      "author": "tirizettin",
+      "date": "05.03.2020 23:28 ~ 23:30",
+      "content": "aynı zamanda sullar seller gibi türkçesi olan yunan sınırımızı mültecilerle birlikte alt üst eden muhabirdir.\n\nadam muhabir mi ajan mı anlamadım ama bütün yunanistan bu adamı takip ediyor. mültecilerin rotalarını, hareket durumları kalabalık durumu kısacası diger tarafta olan bitene hakim.\n\nhttps://youtu.be/3gf2dbpjyqa",
+      "has_external_url": true
+    }
+  ]
+}

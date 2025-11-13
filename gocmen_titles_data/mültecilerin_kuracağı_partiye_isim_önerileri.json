@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:54:22.346773",
+    "total_entries": 2,
+    "input": "mültecilerin kuracağı partiye isim önerileri",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "mültecilerin kuracağı partiye isim önerileri",
+      "entry_id": "161788319",
+      "author": "okumus cahil",
+      "date": "22.02.2024 13:19",
+      "content": "\"kaçtık geldik burdayız partisi (kgbp)\" olabilir. uzun oldu ama iyileştirilebilir. yada \"sıra sizde partisi (szp)\" olabilir.",
+      "has_external_url": false
+    },
+    {
+      "title": "mültecilerin kuracağı partiye isim önerileri",
+      "entry_id": "161788417",
+      "author": "god of insects",
+      "date": "22.02.2024 13:23",
+      "content": "zaten partilerin yüzde 90 ı onların. yenisini kurmalarına gerek yok. bizden çok onların hakkını koruyorlar.\n\nha illa kuracağız derlerse . siz kimsiniz la partisi kurabilirler.",
+      "has_external_url": false
+    }
+  ]
+}

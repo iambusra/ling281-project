@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:56:57.604593",
+    "total_entries": 4,
+    "input": "atatürk'ün sığınmacı yasası",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "atatürk'ün sığınmacı yasası",
+      "entry_id": "165923878",
+      "author": "tatarskyi",
+      "date": "02.07.2024 13:19",
+      "content": "dünden beri okumuş okumamış, öğrenci, emekli, amca teyze herkesin araştırmadan, sorgulamadan paylaştığı görselimsi. basit bir araştırma yapmamayı geçtim sorgulamadan buna atlayan insanlar olması en basit tabiriyle geri zekalılık.\n\ndoğrusu için;\n\nhttps://www.dogrulukpayi.com/…ddeleri-mi-gosteriyor",
+      "has_external_url": true
+    },
+    {
+      "title": "atatürk'ün sığınmacı yasası",
+      "entry_id": "165923943",
+      "author": "chokonut",
+      "date": "02.07.2024 13:21",
+      "content": "araptapar kudurtan yasadır.",
+      "has_external_url": false
+    },
+    {
+      "title": "atatürk'ün sığınmacı yasası",
+      "entry_id": "165924119",
+      "author": "karagolizm",
+      "date": "02.07.2024 13:28",
+      "content": "gerçekten okumanın ve sorgulamanın önemini gösteren bir başka gerizekalılık.\n\nkanunun aslında;''kasabalarda ve şehirlerde yerleşen ecnebilerin tutarı belediye sınırı içindeki bütün nüfus tutarının yüzde onunu geçemez ve ayrı mahalle kuramazlar''\n\n‘’türk ırkından olmıyanlar, hükümetten yardım istemeseler bile, hükümetin göstereceği yerde yurt tutmağa ve hükümetin izni olmadıkça buralarda kalmağa mecburdurlar. …’’\n\n‘’ana dili türkçe olmıyanlardan toplu olmak üzere yeniden köy ve mahalle, işçi ve sanatçı kümesi kurulması veya bu gibi kimselerin bir köyü, bir mahalleyi, bir işi veya bir sanati kendi soydaşlarına inhisar ettirmeleri yasaktır.’’\n\ngibi daha şahane kısımlar bulunurken sadece %10'u geçmesinler yea yazan kısmı paylaşmak üzücü olmuş. kendi adıma da utandım.",
+      "has_external_url": false
+    },
+    {
+      "title": "atatürk'ün sığınmacı yasası",
+      "entry_id": "165924130",
+      "author": "rengiye",
+      "date": "02.07.2024 13:28",
+      "content": "benim değil en çok beni siyahsal işletecek emin atatürk dincilerinin okuması gerekiyordur..",
+      "has_external_url": false
+    }
+  ]
+}

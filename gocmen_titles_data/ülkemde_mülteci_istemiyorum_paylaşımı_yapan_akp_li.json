@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:39:39.957909",
+    "total_entries": 2,
+    "input": "ülkemde mülteci istemiyorum paylaşımı yapan akp'li",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ülkemde mülteci istemiyorum paylaşımı yapan akp'li",
+      "entry_id": "165959315",
+      "author": "beni tarihle yargilaa",
+      "date": "03.07.2024 09:01",
+      "content": "hem ayranım dökülmesin hem başıma tatsız şeyler gelmesin",
+      "has_external_url": false
+    },
+    {
+      "title": "ülkemde mülteci istemiyorum paylaşımı yapan akp'li",
+      "entry_id": "165959319",
+      "author": "guzelceli",
+      "date": "03.07.2024 09:01",
+      "content": "herifler yapılan zamları chpden biliyor, mültecileri de chp ye kakalamak sorun değil bu koyun gibi kitleyi yönetenler için.",
+      "has_external_url": false
+    }
+  ]
+}

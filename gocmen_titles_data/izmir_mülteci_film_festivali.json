@@ -1,0 +1,52 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:37:53.528720",
+    "total_entries": 5,
+    "input": "izmir mülteci film festivali",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "izmir mülteci film festivali",
+      "entry_id": "136234063",
+      "author": "morokuz",
+      "date": "15.04.2022 11:42",
+      "content": "2.'si bugünlerde devam etmekte olan festival.\n\nbugün ve yarının programı şuradan görülebilir: https://twitter.com/…us/1513842208297807877/photo/2",
+      "has_external_url": true
+    },
+    {
+      "title": "izmir mülteci film festivali",
+      "entry_id": "136235061",
+      "author": "olaylar olaylar",
+      "date": "15.04.2022 12:15",
+      "content": "kimin fonladığını merak ettiğim festivaldir.",
+      "has_external_url": false
+    },
+    {
+      "title": "izmir mülteci film festivali",
+      "entry_id": "136235278",
+      "author": "soul froze",
+      "date": "15.04.2022 12:22",
+      "content": "ısrarla geçici sığınmacılara mülteci demeye devam ediyorlar... etkinliğin fransız kültür merkezinde yapılacak olması da şaşırtıcı değil...",
+      "has_external_url": false
+    },
+    {
+      "title": "izmir mülteci film festivali",
+      "entry_id": "136235366",
+      "author": "busters ismet",
+      "date": "15.04.2022 12:24",
+      "content": "tam izmir'e yakışan festivaldir. nerde abuk subuk gereksiz iş var maalesef izmir'de. kendi dertlerimize yetemezken mülteci seviciliği yapmak tam da bu coğrafyanın saçmalığıdır. tabi basiretsiz başkanın açıklamasını hatırlamak gerek; \"herkesin hazmetmesi lazım\"",
+      "has_external_url": false
+    },
+    {
+      "title": "izmir mülteci film festivali",
+      "entry_id": "174875310",
+      "author": "auroraboreale",
+      "date": "27.04.2025 21:16",
+      "content": "azınlıkların, mültecilerin ya da geçici sığınmacıların, nasıl tanımlamak isterseniz, hayatlarını onların gözünden anlatan kısa filmler yer almaktadır. sonunda yönetmenlerle hatta gelen bazı aileler ile de konuşma fırsatı yakalayabilirsiniz. işin siyasetini bir iki saatliğine bırakıp izlemek, ırkçılığı makul kılmamak adına önemli.",
+      "has_external_url": false
+    }
+  ]
+}

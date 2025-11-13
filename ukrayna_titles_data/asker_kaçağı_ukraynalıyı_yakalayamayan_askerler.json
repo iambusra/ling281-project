@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:22:12.383169",
+    "total_entries": 1,
+    "input": "asker kaçağı ukraynalıyı yakalayamayan askerler",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "asker kaçağı ukraynalıyı yakalayamayan askerler",
+      "entry_id": "178009269",
+      "author": "cinayet saatinde uyuyakalmak",
+      "date": "31.08.2025 11:19",
+      "content": "iq seviyesi mi desem, yoksa kaçak askerin şansı mı? kapı açmayı bilmeyen askerlerle ukraynanın işi zor.\n\nvideo",
+      "has_external_url": true
+    }
+  ]
+}

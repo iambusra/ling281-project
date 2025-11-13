@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:31:04.597105",
+    "total_entries": 3,
+    "input": "ruslarla savaş durumunda komünistlerin durumu",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ruslarla savaş durumunda komünistlerin durumu",
+      "entry_id": "102892175",
+      "author": "ktysglm",
+      "date": "02.03.2020 09:35 ~ 09:45",
+      "content": "sovyet birliginin 1991 yilinda dagildigini ve rusya ile sovyetler birligi arasindaki farki bilmeyen yazarin actigi baslik.\n\neditine edit: basligi acanin, orak ve cekicin emekcileri (koyluleri ve iscileri) temsil eden bir simge oldugunu da bilmemesi olayidir.\n\nbir edit daha: yazarin sovyetleri komunist ulke sanmasi ve komunism hakkinda hic bir bilgisi olmamasi acikca belli olmasindan dolayi bu basliga benim tarafimdan baska entry girilmemesi gerektigi putin tarafindan bana bildirilmistir.",
+      "has_external_url": false
+    },
+    {
+      "title": "ruslarla savaş durumunda komünistlerin durumu",
+      "entry_id": "102892615",
+      "author": "bratwurst",
+      "date": "02.03.2020 09:49 ~ 09:51",
+      "content": "sovyetler ve rusya farkını geçtim de, rusya'yı hala sosyalizmle yönetiliyor sanmak, rus halkının sosyalist mentalitede olduğunu zannetmek için 80'li yıllarda kalmış olmak gerekir sanırım. herşey çok değişti, bugün avrupa daha sosyalist, rusya daha kapitalist. rusya'da parasız nefes bile alamazsın. sovyetler'de paranın değil, emeğin hükmü vardı.",
+      "has_external_url": false
+    },
+    {
+      "title": "ruslarla savaş durumunda komünistlerin durumu",
+      "entry_id": "102892713",
+      "author": "ktysglm",
+      "date": "02.03.2020 09:52 ~ 09:53",
+      "content": "yazarin, anarsizm in de ne oludunu bilmedigini acikca gosteren editi:-). putin'e soylemeyin yoldaslar.",
+      "has_external_url": false
+    }
+  ]
+}

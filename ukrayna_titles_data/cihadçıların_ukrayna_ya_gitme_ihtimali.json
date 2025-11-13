@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:09:59.011470",
+    "total_entries": 1,
+    "input": "cihadçıların ukrayna ya gitme ihtimali",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "cihadçıların ukrayna ya gitme ihtimali",
+      "entry_id": "134290241",
+      "author": "akumanokeshin",
+      "date": "27.02.2022 19:23 ~ 19:25",
+      "content": "cihadçıların tarafı belli. (bkz: çeçenlerin ukrayna'da en ön cephede savaştırılması)",
+      "has_external_url": false
+    }
+  ]
+}

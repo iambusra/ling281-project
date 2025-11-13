@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:42:38.759541",
+    "total_entries": 1,
+    "input": "hamile suriyeliler",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "hamile suriyeliler",
+      "entry_id": "165934122",
+      "author": "mythlawyerr",
+      "date": "02.07.2024 19:44",
+      "content": "bir doktor tanıdığım ismini vermek istemediğim bir istanbul hastanesi'nde full suriyelilere hizmet verildiğini, hamile oranlarının oldukça yüksek olduğunu söyledi . bu bilginin doğru olduğunu hastanelerde gözlemleyebilirsiniz . ancak resmi veriler var mı yok mu bilmiyorum . sessiz bir işgal altındayız .",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:41:23.374586",
+    "total_entries": 2,
+    "input": "deprem bölgesinde suriyelinin nargile keyfi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "deprem bölgesinde suriyelinin nargile keyfi",
+      "entry_id": "101136046",
+      "author": "malzeme",
+      "date": "27.01.2020 13:31",
+      "content": "bu nasıl bir nargile aşkıdır anlamak mümkün değil. adamlar her an her yerde nargile içebiliyor. deprem, sel, yangın fark etmez. aslında araştırılması gereken bir konu.",
+      "has_external_url": false
+    },
+    {
+      "title": "deprem bölgesinde suriyelinin nargile keyfi",
+      "entry_id": "101136073",
+      "author": "bikull",
+      "date": "27.01.2020 13:32",
+      "content": "niye bu kadar dert ettin anlamadım.sigara içenler de var onlar da mı pişkin.ne alaka yani",
+      "has_external_url": false
+    }
+  ]
+}

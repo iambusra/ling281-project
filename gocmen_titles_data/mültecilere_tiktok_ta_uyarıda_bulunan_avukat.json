@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:50:24.559381",
+    "total_entries": 2,
+    "input": "mültecilere tiktok'ta uyarıda bulunan avukat",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "mültecilere tiktok'ta uyarıda bulunan avukat",
+      "entry_id": "166830490",
+      "author": "kda34",
+      "date": "31.07.2024 11:32",
+      "content": "tiktok\n\narapça altyazılar ile yabancılara nasıl sınır dışı edilme ihtimalleri olduğundan ve nasıl önlem alması gerektiğinden bahsediyor.\n\npaylaşımın altındaki yorumlar ise daha korkunç, bir türk kızla evlen vatandaşlık al bir yıl sonra boşan diye örnek veren şerefsizlerin yorumuna bile denk geldim.\n\nyorumlar",
+      "has_external_url": true
+    },
+    {
+      "title": "mültecilere tiktok'ta uyarıda bulunan avukat",
+      "entry_id": "166830656",
+      "author": "k 1 f",
+      "date": "31.07.2024 11:39",
+      "content": "ekmeğinin peşinde olan avukat. mültecilere, yabancılara yönelik paylaşım yapıp parayı kırıyor herhalde. alttaki yorumlar ise gerçekten insanı şaşırtıyor. onlardan birini paylaşıyorum:\n\n\"5 sene oldu türkiye'de yım kimliğim yok pasaportum yok hiçbir şeyim yok sanki ben bu dünyada yokmuşum evden işe işten eve hayat böyle geçiyor işten\"\n\nsadece suriyeliler değil, afganlar ve diğer uyruktaki birçok insan da yorum yapmış. bence ülke adına dehşet verici.",
+      "has_external_url": false
+    }
+  ]
+}

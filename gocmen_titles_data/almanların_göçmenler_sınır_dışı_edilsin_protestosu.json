@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:15:48.635052",
+    "total_entries": 1,
+    "input": "almanların göçmenler sınır dışı edilsin protestosu",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "almanların göçmenler sınır dışı edilsin protestosu",
+      "entry_id": "171241162",
+      "author": "collak",
+      "date": "22.12.2024 12:11",
+      "content": "başlıkla alakalı haber\n\nhttps://m.bild.de/…9a?t_ref=https://www.google.com/",
+      "has_external_url": true
+    }
+  ]
+}

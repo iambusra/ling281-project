@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:47:21.972311",
+    "total_entries": 4,
+    "input": "filistinli mülteciler",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "filistinli mülteciler",
+      "entry_id": "51358246",
+      "author": "ustumdeki sehir",
+      "date": "15.05.2015 22:31",
+      "content": "tuhaf bir şekilde haklarında şu ana kadar başlık açılmamış, dünyanın ve ortadoğu'nun her yerine yayılmış mültecilerdir.\n\naslen bir tablo vermek için yazmak istedim, ilk entry için biraz yetersiz bir tanım olacak ama daha sonra editlerim mümkün olursa.\n\nisrail işgalinden bu yana, kim nereden göç vermiş gösteren bir tablo için,\n\nhttps://twitter.com/…_net/status/599294907921096704",
+      "has_external_url": true
+    },
+    {
+      "title": "filistinli mülteciler",
+      "entry_id": "157499473",
+      "author": "atvh",
+      "date": "07.10.2023 12:50",
+      "content": "şu an tüm medya cumhurbaşkanı'nın nereye döneceğini bilmediğinden susuyor ancak hamas'ın rezilliklerinden sonra (ki natenyahu'nun otoritesinin sarsılmasından sonra bunu tekrar sarsılmaz hale getirmek için bu olayı hamas ile ortak organize ettiği şüphesindeyim) israil'in filistin'i dümdüz edeceği aşikar.\n\ncumhurbaşkanı açıklamalarında filistin'e ama icraatte israil'e dönük hareket etmeyi sever ancak nere dönerse dönsün; \"filistin'li mülteci kardeşlerimiz\" başlığı altında yine bizim ülkemize doluşacak yüzbinlerce mülteci akını olacağı aşikar.\n\nyani bu savaş da bize girdi arkadaşlar. hepimize geçmiş olsun.",
+      "has_external_url": false
+    },
+    {
+      "title": "filistinli mülteciler",
+      "entry_id": "157513496",
+      "author": "nickblessyou",
+      "date": "07.10.2023 20:07",
+      "content": "buralar değerlenir.",
+      "has_external_url": false
+    },
+    {
+      "title": "filistinli mülteciler",
+      "entry_id": "157589370",
+      "author": "bruderdeniz",
+      "date": "10.10.2023 00:14",
+      "content": "yeni ucuz işgücü. vergi verenlere yardım edilmeyen ama mültecilere yapılan sağlık, gıda, kömür, eğitim, barınak, nakit gibi yardımların yeni adresi. birkaç milyon tane. afgana, pakistanlıya, libyalıya, suriyeliye, ıraklıya ve akp'liye yeni dil ve din kardeşi.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:07:28.350350",
+    "total_entries": 1,
+    "input": "suriyeliye 3 cocuk şartı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeliye 3 cocuk şartı",
+      "entry_id": "110441465",
+      "author": "kendini turk zanneden araplasmis gurcu",
+      "date": "20.07.2020 11:45",
+      "content": "hükümetimiz suriyelilere yardım ediyormu etmiyormu? bazıları para yardımı alabilirken, bazılarının neden alamadığı ile ilgili kafamızdaki bir çok sorunun cevabını ruhi çenet'in son video çalışmasında açıklığa kavuşturmuş.\n\nmegerki hükümetimiz suriyelilere yardım için en az 3 çocuk yapmalarını şart koşmuş. suriyelilerin neden bu kadar çok çocuk yaptığını şimdi daha iyi anlıyoruz ama hükümetin suriyelilere 3 çocuk şartını ne amaçla veya ne tür bir ülke menfaati için şart koştuğunu anlayamıyoruz...\n\nilgili video:\nhttps://youtu.be/joshpfvsqxe",
+      "has_external_url": true
+    }
+  ]
+}

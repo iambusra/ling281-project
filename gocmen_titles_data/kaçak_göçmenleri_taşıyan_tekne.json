@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:20:25.967105",
+    "total_entries": 4,
+    "input": "kaçak göçmenleri taşıyan tekne",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "kaçak göçmenleri taşıyan tekne",
+      "entry_id": "17257554",
+      "author": "tamam beya",
+      "date": "13.11.2009 18:57",
+      "content": "binmek istediğim tekne.",
+      "has_external_url": false
+    },
+    {
+      "title": "kaçak göçmenleri taşıyan tekne",
+      "entry_id": "17258207",
+      "author": "gochebe",
+      "date": "13.11.2009 20:20",
+      "content": "(bkz: memik oğlan)",
+      "has_external_url": false
+    },
+    {
+      "title": "kaçak göçmenleri taşıyan tekne",
+      "entry_id": "42046759",
+      "author": "arzkara",
+      "date": "16.04.2014 12:57",
+      "content": "izmir özdere'de batan tekne/ bot.\nkayıp çok.\ntelevizyonda bir alt yazı. yazıları kara yazılmış desek boş. kader değil.\n\nsınırlarınızın, koruyup artırmaya çalıştığınız gücünüzün ve zenginliginizin kurbanları.",
+      "has_external_url": false
+    },
+    {
+      "title": "kaçak göçmenleri taşıyan tekne",
+      "entry_id": "99636044",
+      "author": "malheiros",
+      "date": "26.12.2019 10:01",
+      "content": "sahil güvenlik veya deniz kuvvetleri gemilerle bunlara yetişemesinler diye, hayvan gibi hızlı gitmek üzere modifiye ediliyor. böyle tekneleri de güvenlik güçleri ancak helikopterle takip edebiliyorlar. kaçakçılar, helikopterlerin de takibe çıkamamaları için, özellikle bozuk havaları, fırtınalı denizi tercih ediyorlar. yüksek hız, aşırı yük, kötü hava ve deniz bir araya gelince de tekne kaza yapıp batıyor...",
+      "has_external_url": false
+    }
+  ]
+}

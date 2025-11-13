@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:26:02.039561",
+    "total_entries": 3,
+    "input": "suriyeli göçmenlerin vatandaş yapılması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeli göçmenlerin vatandaş yapılması",
+      "entry_id": "99227703",
+      "author": "1996",
+      "date": "17.12.2019 01:21",
+      "content": "göçmen değil, sığınmacı onlar . elbet sıktır olup gidecekler .",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyeli göçmenlerin vatandaş yapılması",
+      "entry_id": "131632856",
+      "author": "buiyidimi",
+      "date": "28.12.2021 11:32",
+      "content": "göçmen diye birşey yok, geçici sığınmacı bunların statüsü.vatandaslik verilmemesi gerek, nasıl oluyor anlamıyorum",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyeli göçmenlerin vatandaş yapılması",
+      "entry_id": "131632936",
+      "author": "et tu brute",
+      "date": "28.12.2021 11:35",
+      "content": "yapıldıkları gibi tersine işlemle geri de alınacak. çünkü belli ki hukuka uygun yollarla vatandaş yapılmıyorlar. içinizi rahat tutun.",
+      "has_external_url": false
+    }
+  ]
+}

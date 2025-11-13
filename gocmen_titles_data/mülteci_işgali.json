@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:40:18.881471",
+    "total_entries": 2,
+    "input": "mülteci işgali",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "mülteci işgali",
+      "entry_id": "136667365",
+      "author": "jendem",
+      "date": "26.04.2022 01:05 ~ 01:19",
+      "content": "(bkz: adrianopolis savaşı)\ngörsel\nsöz konusu twitter flood u için",
+      "has_external_url": true
+    },
+    {
+      "title": "mülteci işgali",
+      "entry_id": "165561711",
+      "author": "organik keci sutu",
+      "date": "21.06.2024 16:04",
+      "content": "resmen işgal altındayız ve uyuyoruz.\n\nbu işgale birileri dur demeli.\n\nfarkında olmadan vatan elden gidiyor.\n\niktidarı da muhalefeti de ihanet içinde, hepsi bop'un emir eri.",
+      "has_external_url": false
+    }
+  ]
+}

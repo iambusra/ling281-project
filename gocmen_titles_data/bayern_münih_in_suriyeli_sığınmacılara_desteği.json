@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:03:15.674754",
+    "total_entries": 2,
+    "input": "bayern münih'in suriyeli sığınmacılara desteği",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "bayern münih'in suriyeli sığınmacılara desteği",
+      "entry_id": "54558421",
+      "author": "hareket saati gelmis otobus kaptani",
+      "date": "05.09.2015 04:05 ~ 06.09.2015 11:41",
+      "content": "cırgalan biberi diye bi' biber var. toz haline gelirken elekten geçer, eleğin üstünde kalanlar da toz topraktan ayrıştırılıp satılır. az çıkar az satılır ama en acı tarafı olduğu için de fiyatı yüksektir. azıcık koysanız bile acısını hakkıyla verir yemeğe.\n\nbu sığınmacılara da bildiğin elek görevi görüyoruz. eleğin üstündekiler avrupaya göçmeye niyetleniyorlar. biz ise eleğin altındaki biberi avuç avuç attık topraklarımıza. daha çok zaman geçmeden ateşi götümüzden çıkartmaya başladılar. eleğin üstündekileri de bakalım alamanya nasıl eğitecek. sonuçta adamlar tecrübeli; bunca yıldır eğittikleri türkler yeter. insan eğitme konusunda ihtisas sahibi abiler.\n\ntanım: 100 küsür yıllık kulüplerimizin kendi vatanşlarına bile yapmadığı işi 3-5 günlük mültecilere bile uygulayan insan ların ülkesinde gerçekleşecek olay.",
+      "has_external_url": false
+    },
+    {
+      "title": "bayern münih'in suriyeli sığınmacılara desteği",
+      "entry_id": "54572930",
+      "author": "jackdrill",
+      "date": "05.09.2015 21:49",
+      "content": "tam rakam 1.1 milyon eurodur. her şekilde sabri'nin galatasaraydan aldığı paradan daha verimli olduğu kesindir.",
+      "has_external_url": false
+    }
+  ]
+}

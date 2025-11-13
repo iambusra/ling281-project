@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:19:53.295464",
+    "total_entries": 1,
+    "input": "göçmenleri için 3 milyar euro fonlanan kuruluş",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "göçmenleri için 3 milyar euro fonlanan kuruluş",
+      "entry_id": "126006392",
+      "author": "againstthelife",
+      "date": "22.07.2021 20:46",
+      "content": "kaynak için,\n(bkz: 22 temmuz 2021 angela merkel'in mülteci açıklaması)",
+      "has_external_url": false
+    }
+  ]
+}

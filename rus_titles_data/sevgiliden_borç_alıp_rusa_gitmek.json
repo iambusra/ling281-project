@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:25:30.148029",
+    "total_entries": 4,
+    "input": "sevgiliden borç alıp rusa gitmek",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "sevgiliden borç alıp rusa gitmek",
+      "entry_id": "25931416",
+      "author": "diazepam",
+      "date": "28.10.2011 13:35",
+      "content": "depem vergisi diye toplanan paraları duble yola yatırıp, sonra seçimlerde'size duble yol yaptık' diye oy toplamaya benzer fena halde.",
+      "has_external_url": false
+    },
+    {
+      "title": "sevgiliden borç alıp rusa gitmek",
+      "entry_id": "25931458",
+      "author": "trixx",
+      "date": "28.10.2011 13:39",
+      "content": "(bkz: yollu)",
+      "has_external_url": false
+    },
+    {
+      "title": "sevgiliden borç alıp rusa gitmek",
+      "entry_id": "25931613",
+      "author": "oa",
+      "date": "28.10.2011 13:55",
+      "content": "çok yanlış. ilişkilerde bu tarz hareketleri hiç tasvip etmiyorum. resmen kadın kullanılıyor. paran yoksa biriktirir sonra gidersin.\n\nkadının da geri ödemek kaydıyla sevgilisine para vermesi ayrıca tartışılır. o da başka bir yanlış.",
+      "has_external_url": false
+    },
+    {
+      "title": "sevgiliden borç alıp rusa gitmek",
+      "entry_id": "28251771",
+      "author": "temple of the dog",
+      "date": "22.04.2012 11:52",
+      "content": "bir de pazarlık yapılır vizite indirilirse üste para da kalır. tadından yinmez.",
+      "has_external_url": false
+    }
+  ]
+}

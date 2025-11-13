@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:00:59.500985",
+    "total_entries": 1,
+    "input": "lübnan'ın sığınmacıları göndermesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "lübnan'ın sığınmacıları göndermesi",
+      "entry_id": "140200294",
+      "author": "belediye gazozu",
+      "date": "19.07.2022 19:38",
+      "content": "lübnan başbakanı \"gerekirse zorla göndereceğiz\" demişti ve dediğini yapıyor. lübnan, suriyeli sığınmacıları askeri güç kullanarak göndermeye başladı.\n\nlink: https://t.co/9xwiwij9vm",
+      "has_external_url": true
+    }
+  ]
+}

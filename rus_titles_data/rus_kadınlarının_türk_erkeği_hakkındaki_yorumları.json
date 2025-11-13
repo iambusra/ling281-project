@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:18:49.404039",
+    "total_entries": 1,
+    "input": "rus kadınlarının türk erkeği hakkındaki yorumları",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rus kadınlarının türk erkeği hakkındaki yorumları",
+      "entry_id": "178847357",
+      "author": "jusnick",
+      "date": "02.10.2025 21:06 ~ 21:08",
+      "content": "bunlar da her gün yeni bir açıklama yapıyor. daha önce de türk kadınlarına giydirdikleri bir video gündem olmuştu.\nkısacası kimi “türk erkeğine güvenmeyin amaçları evlenmek değil, günü birlik ilişkiler” demiş kimisi de “ingilizce bilmiyorsa, yurt dışına bile çıkmamışsa” uzak durun gibi tavsiyelerde bulunmuş. neyse videoyu bırakayım yorun sizin.\n\nx linki",
+      "has_external_url": true
+    }
+  ]
+}

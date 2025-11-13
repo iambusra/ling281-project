@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:07:28.087066",
+    "total_entries": 1,
+    "input": "suriyelinin yardımı markete satması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelinin yardımı markete satması",
+      "entry_id": "125427465",
+      "author": "skycafe",
+      "date": "06.07.2021 15:30 ~ 15:32",
+      "content": "suriyelinin aldığı yardımları markete getirip satması olayıdır. zor durumda kalıp satıyor da olabilir, kurnazlık yapıp para devşiriyor da olabilir. kardeşim bu ülkenin hali bu, bence zamanı gelince dönün. zamanın geldiğini de görün.",
+      "has_external_url": true
+    }
+  ]
+}

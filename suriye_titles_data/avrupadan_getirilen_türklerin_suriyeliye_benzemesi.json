@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T15:02:16.440694",
+    "total_entries": 1,
+    "input": "avrupadan getirilen türklerin suriyeliye benzemesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "avrupadan getirilen türklerin suriyeliye benzemesi",
+      "entry_id": "103673153",
+      "author": "aynali tapir",
+      "date": "17.03.2020 19:59",
+      "content": "komşumuza benzemeyip 3000 km ötedeki hans’a mı benzeyeceklerdi?",
+      "has_external_url": false
+    }
+  ]
+}

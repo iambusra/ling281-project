@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:49:58.766909",
+    "total_entries": 1,
+    "input": "mültecileri göndermek için fake savaş açmak",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "mültecileri göndermek için fake savaş açmak",
+      "entry_id": "138714296",
+      "author": "taksi kime",
+      "date": "13.06.2022 19:32",
+      "content": "- mültecileri ülkemize getirenlere oy vermemek\n- sadece mültecileri geri göndereceğini taahüt edenlere oy vermek\nhem maddi hem de manevi olarak daha az maliyetli değil midir?",
+      "has_external_url": false
+    }
+  ]
+}

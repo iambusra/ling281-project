@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:26:18.650506",
+    "total_entries": 2,
+    "input": "afgan göçmenlerin ölümcül salgın getirme ihtimali",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "afgan göçmenlerin ölümcül salgın getirme ihtimali",
+      "entry_id": "126203898",
+      "author": "irish seven adam",
+      "date": "27.07.2021 21:55 ~ 21:57",
+      "content": "hindistan'da covid-19 geçirmiş hastalarda görülen kara mantar enfeksiyonu mısır'a ve afganistan'a da sıçramış. %50 ölümcül.\n\nlink",
+      "has_external_url": true
+    },
+    {
+      "title": "afgan göçmenlerin ölümcül salgın getirme ihtimali",
+      "entry_id": "126204071",
+      "author": "non mi avete fatto niente",
+      "date": "27.07.2021 21:59",
+      "content": "rezilliğin daniskasıdır. kendileri yetmedi kara mantarı getiriyorlar bir de.",
+      "has_external_url": false
+    }
+  ]
+}

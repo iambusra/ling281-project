@@ -1,0 +1,76 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:02:39.755558",
+    "total_entries": 8,
+    "input": "rusya'nın ukrayna'yı işgali",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rusya'nın ukrayna'yı işgali",
+      "entry_id": "41843043",
+      "author": "hadoop",
+      "date": "08.04.2014 01:33",
+      "content": "artık işgal, sınırlarına dahil etme tarzı olaylar görmeyeceğimizi düşündüğüm günümüzde, rusya'nın elini kolunu sallayarak gerçekleştirdiği, kimsenin de çıkıp sen yapıyorsun arkadaş diyemediği olay. rusya'nın ne olursa olsun süper güç olduğunun kanıtıdır.",
+      "has_external_url": false
+    },
+    {
+      "title": "rusya'nın ukrayna'yı işgali",
+      "entry_id": "130765889",
+      "author": "kurdoglu muslihiddin reis",
+      "date": "04.12.2021 19:04",
+      "content": "kaynak bild, ha ha ha..",
+      "has_external_url": false
+    },
+    {
+      "title": "rusya'nın ukrayna'yı işgali",
+      "entry_id": "130765911",
+      "author": "miralayoglu",
+      "date": "04.12.2021 19:04",
+      "content": "her zamankinden daha güçlü bir olasılık haline geldiğine dair işaretler artıyor. uluslararası yorumcular da benzer görüşler ileri sürüyorlar. gerçekleşmesi halinde dünya çapında yeni bir krize neden olacağı aşikar.",
+      "has_external_url": false
+    },
+    {
+      "title": "rusya'nın ukrayna'yı işgali",
+      "entry_id": "132584898",
+      "author": "virtueitalian",
+      "date": "20.01.2022 17:22",
+      "content": "beyaz saray basın sözcüsü jen psaki, \"elimizde, rusya'nın doğu ukrayna'da bir yanıltma harekatı yürütmek üzere bir grup ajanı önceden konumlandırdığını gösteren istihbarat raporları var\" dedi ve ekledi: \"ajanlar, şehir savaşı ve rusya'nın kendi vekil güçlerine karşı sabotaj eylemleri gerçekleştirmek için patlayıcı kullanma konusunda eğitimli.\" rusya'nın kırım yarımadasını ilhak ettiğinde kullanılan taktikleri taklit ettiğini ve kiev'i şiddetin kışkırtıcısı olarak göstermek için sosyal medya dezenformasyonunu kullanacağını söyledi. pentagon sözcüsü john kirby, istihbaratın'çok güvenilir' olduğunu vurguladı.",
+      "has_external_url": false
+    },
+    {
+      "title": "rusya'nın ukrayna'yı işgali",
+      "entry_id": "133631024",
+      "author": "senersongur",
+      "date": "12.02.2022 10:18 ~ 10:19",
+      "content": "sözlükteki rusya ukrayna savaşı diye nitelendirilen ve çıkartılmaya çalışılan sözde savaşın reel adı.\n\nçünkü 2 ülke yakın ve denk güç değil.\n\nrusya isterse işgal eder ve ukrayna hiçbir şey yapamaz.",
+      "has_external_url": false
+    },
+    {
+      "title": "rusya'nın ukrayna'yı işgali",
+      "entry_id": "136565005",
+      "author": "gogoman",
+      "date": "23.04.2022 17:10 ~ 17:13",
+      "content": "yol açtığı insanlık dramı tabi ki başlı başına bir utanç kaynağı. özellikle de rusya zaten kendisinden çok da hazetmeyen doğu avrupa'da kendisine karşı ciddi bir nefret, düşmanlık yarattı ki üzerinden yüzyıllar geçse de batı elde olan dokümanlar, görseller üzerinden ısıtıp ısıtıp önüne koymak sureti ile bu rusya nefretini her zaman canlı tutacaktır.\n\nbu arada oluşan zarar 60 milyar dolar olarak tahmin ediliyormuş ki önümüzdeki dönemde ukrayna'nın yeniden inşası ve ek savunma harcamaları avrupa ekonomisi için adeta bir can damarı olacaktır. bence putin politikayı filan bırakıp sıçıp sıvamak konusunda kitap yazsa çok daha başarılı olur.",
+      "has_external_url": true
+    },
+    {
+      "title": "rusya'nın ukrayna'yı işgali",
+      "entry_id": "154554079",
+      "author": "karinca gezdiren",
+      "date": "14.07.2023 22:02",
+      "content": "rusya'nın ukrayna'da yok olup gitmesi ile neticelenecek olay",
+      "has_external_url": false
+    },
+    {
+      "title": "rusya'nın ukrayna'yı işgali",
+      "entry_id": "173505950",
+      "author": "fech",
+      "date": "11.03.2025 17:08",
+      "content": "rusya'nın ukrayna'yı işgali bir şekilde son bulacaktır. ne ukrayna diye bir ülkeyi tanımayan ve tamamını rus topraklarına katmak isteyen putin'in, ne de sınırlı askeri güç ile toprak bütünlüğünü koruyamayan zelenksi'nin bu sonuçtan memnuniyet duymasının mümkün olmayacağını tahmin etmek çok zor değil.\n\nyalnız ukraynalıların, ruslara karşı işgalden ötürü gelişen ve nesiller boyu sürecek olacak nefretinin sonuçlarını tahmin etmek çok zor.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:46:12.977160",
+    "total_entries": 2,
+    "input": "mülteciler konusunda herkesin 3 maymunu oynaması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "mülteciler konusunda herkesin 3 maymunu oynaması",
+      "entry_id": "165279939",
+      "author": "kullaniciadimvar",
+      "date": "12.06.2024 10:24",
+      "content": "toplum 3 maymunu hükümete oynuyor. acısını ülkeye gelen mültecilerden çıkartıyor. biraz daha açtığım konu (bkz: #165279676)",
+      "referenced_content": [
+        {
+          "type": "entry",
+          "title": "olen-suriyeli-cocuk-hakkindaki-irkci-paylasimlar",
+          "entry_id": "165279676",
+          "author": "kullaniciadimvar",
+          "date": "12.06.2024 10:12 ~ 10:19",
+          "content": "suda boğulan suriyeli çocuklar için de yapılan paylaşımlardır. mide bulandırıcıdır. gerçek sorunun kaynağını görmezden gelmektir. bunların ülkeye sokulmasına vesile olanlara bir kelime edememektir.",
+          "has_external_url": false
+        }
+      ],
+      "referenced_entry_ids": [
+        "165279676"
+      ],
+      "has_external_url": false
+    },
+    {
+      "title": "mülteciler konusunda herkesin 3 maymunu oynaması",
+      "entry_id": "165280029",
+      "author": "siparisi koreden 75 gunde gelen adam",
+      "date": "12.06.2024 10:27",
+      "content": "(bkz: zafer partisi'nin iktidara geleceği yıl)",
+      "referenced_content": [],
+      "has_external_url": false
+    }
+  ]
+}

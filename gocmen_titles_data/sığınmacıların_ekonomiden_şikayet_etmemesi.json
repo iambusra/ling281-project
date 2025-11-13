@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:05:47.032872",
+    "total_entries": 1,
+    "input": "sığınmacıların ekonomiden şikayet etmemesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "sığınmacıların ekonomiden şikayet etmemesi",
+      "entry_id": "126653859",
+      "author": "tzantali",
+      "date": "08.08.2021 00:10",
+      "content": "ülkemizde bulunan 72 milletten sığınmacı, ne çevremde, ne de izlediğimiz youtube röportajlarında,\" ekonomi kötü, hayat çok pahalı, geçinemiyoruz, kiralar çok yükseldi, doğalgaz faturamı ödeyemedim v.b.\" şikayetlerine tanık olmadım.\n\noysa, bizlerden daha ucuza ve daha uzun saatler çalışıyorlar, aileler daha kalabalık, yaşanan ekonomik zorlukları iliklerinde hissetmeleri gerekirken, adamlar da tık yok.",
+      "has_external_url": false
+    }
+  ]
+}

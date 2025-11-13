@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:25:55.010315",
+    "total_entries": 3,
+    "input": "rusun ami",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rusun ami",
+      "entry_id": "6785367",
+      "author": "godot",
+      "date": "31.01.2005 20:56 ~ 20:56",
+      "content": "laz usulu felaket dalgasi..\n\nkaradenizli teyze biriyle muhabbet ederken konu tsunami ye gelmiş. teyze birden konuya girmiş ve o güzelim karadeniz şivesiyle: \"ula tsunami tsunami diyiler, tsunami dedikleri felaket 300 bin kişiyi telef etmiş. haçan buraya \"rusun ami\" celdi, koca tirabzoni telef etti da!\"\n(gercek bir olaydan alinmistir)",
+      "has_external_url": false
+    },
+    {
+      "title": "rusun ami",
+      "entry_id": "6903614",
+      "author": "mr hollands opus",
+      "date": "18.02.2005 01:51",
+      "content": "trabzonu telef eden bu feleketin yaralarini sarmak icin cok gec degil. trabzona bir prezervatif te siz gonderin. hattiniz ne olursa olsun, 3169 a bir sms yollayin, trabzon umuzun ba$i egik sikini dogrultmasinda sizinde bir eliniz olsun.",
+      "has_external_url": false
+    },
+    {
+      "title": "rusun ami",
+      "entry_id": "23054017",
+      "author": "erit beni dok sana",
+      "date": "15.04.2011 13:37 ~ 25.04.2011 01:16",
+      "content": "karadenizliye sormuşlar,'sizin orda tsunami var mı?'\n' yok' demiş,'bizim burda rusunami var.'\n\nvalla 1. maddeye bakarak uydurmadım. bi arkadaşım anlattı geçenlerde. keşke hemen o gün yazsaydım, şimdi 1. madde benim olur, şüpheli olmazdım.",
+      "has_external_url": false
+    }
+  ]
+}

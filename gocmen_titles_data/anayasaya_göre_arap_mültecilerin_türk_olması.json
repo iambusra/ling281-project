@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:55:04.777513",
+    "total_entries": 1,
+    "input": "anayasaya göre arap mültecilerin türk olması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "anayasaya göre arap mültecilerin türk olması",
+      "entry_id": "147288708",
+      "author": "amerikan popechku",
+      "date": "06.01.2023 14:15",
+      "content": "anayasa türklük tanımı: türk devleti'ne vatandaşlık bağı ile bağlı olan herkes türktür.\n\npeki sözlüğe bir soru. bu istilacılara sırf vatandaşlık verildi diye türk mü oluyorlar?\n\nali babacan siyasal islamcıdır. oy vereceğim biri değil. ancak bu konuda yanlış anlaşıldı bence. çünkü siyaset yapmayı bilmiyor.\n\natatürk 100 sene sonra türkiye'yi 1. dünya ülkesi olarak hayal ediyordu ama geldiğimiz nokta belli.",
+      "has_external_url": false
+    }
+  ]
+}

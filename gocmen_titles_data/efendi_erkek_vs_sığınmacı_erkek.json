@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:58:01.123979",
+    "total_entries": 1,
+    "input": "efendi erkek vs sığınmacı erkek",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "efendi erkek vs sığınmacı erkek",
+      "entry_id": "157788738",
+      "author": "hazreti",
+      "date": "16.10.2023 09:37",
+      "content": "ay kızlar sizi bilmem ama, ben eli silah tutan 38 kardeşi olan gariban bi sığınmacıyla evleneceğim. pısırık efendi erkekler yazmasın.",
+      "has_external_url": false
+    }
+  ]
+}

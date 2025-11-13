@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:41:46.574594",
+    "total_entries": 2,
+    "input": "denizde boğulan mülteciyi yoğaltmış balığı yemek",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "denizde boğulan mülteciyi yoğaltmış balığı yemek",
+      "entry_id": "55910716",
+      "author": "real fener",
+      "date": "31.10.2015 16:03",
+      "content": "(bkz: yoğaltmak derken)",
+      "has_external_url": false
+    },
+    {
+      "title": "denizde boğulan mülteciyi yoğaltmış balığı yemek",
+      "entry_id": "55912104",
+      "author": "nikinneyime",
+      "date": "31.10.2015 17:10",
+      "content": "ustune mezarlikta yetisen meyve agacinin meyvesi iyi gider.",
+      "has_external_url": false
+    }
+  ]
+}

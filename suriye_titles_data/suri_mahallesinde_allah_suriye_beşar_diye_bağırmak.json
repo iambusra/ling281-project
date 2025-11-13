@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:45:47.057244",
+    "total_entries": 1,
+    "input": "suri mahallesinde allah suriye beşar diye bağırmak",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suri mahallesinde allah suriye beşar diye bağırmak",
+      "entry_id": "119660589",
+      "author": "bazen kendimi at gibi hissediyorum",
+      "date": "17.02.2021 00:00",
+      "content": "ağır yaralanmanıza sebep olabilecek yüksek adrenalinli eylem. tavsiye edilmez.",
+      "has_external_url": false
+    }
+  ]
+}

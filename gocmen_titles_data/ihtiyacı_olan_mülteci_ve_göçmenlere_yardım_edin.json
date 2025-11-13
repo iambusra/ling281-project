@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:23:13.870317",
+    "total_entries": 2,
+    "input": "ihtiyacı olan mülteci ve göçmenlere yardım edin",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ihtiyacı olan mülteci ve göçmenlere yardım edin",
+      "entry_id": "54863604",
+      "author": "lyla",
+      "date": "17.09.2015 15:15 ~ 15:18",
+      "content": "(bkz: elinden geleni yapmak)\n\nsebeplerin kökünü kazıyabilsek,ademoğlu bunu bir gün başaracak.\n...",
+      "has_external_url": false
+    },
+    {
+      "title": "ihtiyacı olan mülteci ve göçmenlere yardım edin",
+      "entry_id": "54863682",
+      "author": "tintobrass",
+      "date": "17.09.2015 15:18",
+      "content": "(bkz: google one today)",
+      "has_external_url": false
+    }
+  ]
+}

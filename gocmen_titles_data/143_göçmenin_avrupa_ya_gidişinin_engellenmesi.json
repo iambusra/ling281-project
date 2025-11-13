@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:14:30.681369",
+    "total_entries": 1,
+    "input": "143 göçmenin avrupa'ya gidişinin engellenmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "143 göçmenin avrupa'ya gidişinin engellenmesi",
+      "entry_id": "139937099",
+      "author": "bitmedi",
+      "date": "13.07.2022 18:29",
+      "content": "izmir'de yaşanan olaydır.\n\nizmir'in menderes ilçesinde 143 düzensiz göçmenin avrupa'ya kaçmak üzereyken kahraman jandarmamız tarafından durdurulması olayıdır.\n\nlink",
+      "has_external_url": true
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:28:59.640607",
+    "total_entries": 2,
+    "input": "akp'nin afedersiniz ruslara sırtını dayaması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "akp'nin afedersiniz ruslara sırtını dayaması",
+      "entry_id": "142758978",
+      "author": "ucucamanereyekadar",
+      "date": "16.09.2022 16:36",
+      "content": "rusların da işi zor.\nsırtlarını dönseler bir türlü, dönmeseler bir türlü.",
+      "has_external_url": false
+    },
+    {
+      "title": "akp'nin afedersiniz ruslara sırtını dayaması",
+      "entry_id": "142760242",
+      "author": "parali acur",
+      "date": "16.09.2022 17:11",
+      "content": "umarım sadece sırtınıdır.",
+      "has_external_url": false
+    }
+  ]
+}

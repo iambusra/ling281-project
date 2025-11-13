@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:28:25.370329",
+    "total_entries": 1,
+    "input": "rusları bombalamak için ruslarla görüşme yapmak",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rusları bombalamak için ruslarla görüşme yapmak",
+      "entry_id": "102723396",
+      "author": "gelmeyengelir",
+      "date": "27.02.2020 21:42",
+      "content": "dış politikada şuursuzluğun tavan yaptığı bir dönemden geçtiğimizi açık bir şekilde gösteren görüşmedir.\n\nbunlar devlet yönetiminde, anadolu'da kurulan ilkçağ devletlerinin bile yakınından uzağından geçemez. bunların politikaları ancak avcı ve toplayıcılıktan ilk yerleşik hayata geçen kabilelerinkiyle kıyaslanabilir.",
+      "has_external_url": false
+    }
+  ]
+}

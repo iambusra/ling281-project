@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:57:02.310698",
+    "total_entries": 4,
+    "input": "ruanda'dan sığınmacı gelecek yalanı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ruanda'dan sığınmacı gelecek yalanı",
+      "entry_id": "164943673",
+      "author": "heykellere ufleyen adam",
+      "date": "01.06.2024 01:17 ~ 01:18",
+      "content": "https://x.com/…in06/status/1796592014366036213?s=46 ruanda’dan sığınmacı gelecek söylentisi muhaliflerin yalanıymış. yine provokatörler ortalığı karıştırmaya çalışıyor.\n\npandemideki “katarlı öğrenciler tıp fakültelerine sınavsız girecek “yalanı ne kadar rezilce bir uydurmaysa … “pazar gübü ruanda’dan 66 uçuşla sığınmacı getirilecek” yalanı da öyle…\n\nbunlara cevap vermek bile gereksiz ama inanan da çok. işin doğrusu şöyle…\n\nbir bilet satış sitesinden alınan görüntü, kamuoyunu manipüle etmek amacıyla çarpıtılıyor.\n\nbahse konu uçuşlar, ruanda'dan doğrudan istanbul'a yolcu taşıyan uçaklar değil, görüntüde de görüldüğü üzere aktarmalı uçuşlar.\n\nörneğin, ruanda'nın kigali uluslararası havalimanı'ndan 2 haziran pazar günü saat 09.10'da kalkan qatar airways uçağı, aynı gün 12.40'da nijerya'nın murteala muhammed uluslararası havalimanı'na iniyor. akşam 18.35'te katar'ın hamad uluslararası havalimanı'na uçan uçak, 3 haziran 07.50'de de sabiha gökçen havalimanı'na doğru uçuşa geçiyor.\n\naktarmalar sırasında yolcu değişimi devam eder. ruanda'dan uçağa binen bir kişi, nijerya'da, nijerya'dan binen ise katar'da inebilir.\n\nyine farklı lokasyonlara gidecek yolcular da istanbul havalimanı üzerinden aktarma yapabiliyor. 2 haziran'da ruanda’dan istanbul'a uçan thy uçağı, ingiltere'nin heathrow havalimanı'na giden aktarmalı uçak.\n\nbahse konu tarihte kigali'den istanbul'a sadece 1 adet direkt uçuş bulunuyor.",
+      "has_external_url": true
+    },
+    {
+      "title": "ruanda'dan sığınmacı gelecek yalanı",
+      "entry_id": "164943720",
+      "author": "melankolia",
+      "date": "01.06.2024 01:18 ~ 01:20",
+      "content": "(bkz: konuş çöp dinliyoruz)\n\nt: üfleyen trol savunması.",
+      "has_external_url": false
+    },
+    {
+      "title": "ruanda'dan sığınmacı gelecek yalanı",
+      "entry_id": "164958105",
+      "author": "1207",
+      "date": "01.06.2024 17:20",
+      "content": "kaynak zafer şahin (bkz: swh)",
+      "has_external_url": false
+    },
+    {
+      "title": "ruanda'dan sığınmacı gelecek yalanı",
+      "entry_id": "164958298",
+      "author": "boyle nick olmaz mi",
+      "date": "01.06.2024 17:28",
+      "content": "kim yalan söylüyorsa mabadını ruandalı zenciler depsin. kabul mü?",
+      "has_external_url": false
+    }
+  ]
+}

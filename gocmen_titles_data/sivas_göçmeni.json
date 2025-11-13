@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:11:45.547089",
+    "total_entries": 1,
+    "input": "sivas göçmeni",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "sivas göçmeni",
+      "entry_id": "52811851",
+      "author": "ucando",
+      "date": "01.07.2015 20:19",
+      "content": "gurbete meclis başkanı göndermiştir. devlet bahceli katkısı yadsınamaz elbette.",
+      "has_external_url": false
+    }
+  ]
+}

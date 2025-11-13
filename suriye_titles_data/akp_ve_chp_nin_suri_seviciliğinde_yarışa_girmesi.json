@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:29:48.453468",
+    "total_entries": 3,
+    "input": "akp ve chp’nin suri seviciliğinde yarışa girmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "akp ve chp’nin suri seviciliğinde yarışa girmesi",
+      "entry_id": "134972837",
+      "author": "join",
+      "date": "15.03.2022 16:04 ~ 16:06",
+      "content": "iktidar ve ana muhalefet cephesinin adeta yurt dışındaki büyük abilerine yaranırcasına mültecileri en çok biz seviyoruz yarışına girmesi.\nbu durumdan türkiye lehinde sonuç beklemek büyük ahmaklık olur.\n\nerdoğan'ın bugünkü açıklaması ndan da anlaşılabilecek ilginç durum.",
+      "has_external_url": true
+    },
+    {
+      "title": "akp ve chp’nin suri seviciliğinde yarışa girmesi",
+      "entry_id": "134972944",
+      "author": "dnzdeniski",
+      "date": "15.03.2022 16:06",
+      "content": "chp yi bilmiyorum. ancak son anketlerde ülkede suriyelilerden rahatsız olma oranı yüzde 3 falandı.\n\ngayet olması gereken politika",
+      "has_external_url": false
+    },
+    {
+      "title": "akp ve chp’nin suri seviciliğinde yarışa girmesi",
+      "entry_id": "134972950",
+      "author": "rdmy",
+      "date": "15.03.2022 16:06",
+      "content": "erdoğan'ın açıklamasını koymuşsunda kılıçdaroğlu veya diğer muhalefet liderlerinin açıklamaları nerede yaman oğlan?",
+      "has_external_url": false
+    }
+  ]
+}

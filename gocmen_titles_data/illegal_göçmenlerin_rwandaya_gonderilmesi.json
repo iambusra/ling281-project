@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:25:56.710000",
+    "total_entries": 1,
+    "input": "illegal göçmenlerin rwandaya gonderilmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "illegal göçmenlerin rwandaya gonderilmesi",
+      "entry_id": "136226284",
+      "author": "turkaz",
+      "date": "15.04.2022 04:43",
+      "content": "ingiltere'de hükümet, ülkeye kaçak geçiş yollarıyla gelen göçmenlerin ruanda'ya gönderilmesi ve başvuruları sonuçlanana kadar orada tutulmasını içeren anlaşmayı, doğu afrika ülkesiyle imzaladı. anlaşma için ilk ödeme tutarı ise 120 milyon sterlin olarak belirlendi.\n\nkaynak\n\ntürkiye bu ihaleyi neden alamadı acaba?uluslar arası piyasada artık bir rakibimiz var, iyi olan kazansın rwanda.(bkz: tebrikler).!",
+      "has_external_url": true
+    }
+  ]
+}

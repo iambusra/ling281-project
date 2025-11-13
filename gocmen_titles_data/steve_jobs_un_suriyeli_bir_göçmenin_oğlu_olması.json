@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:15:45.056509",
+    "total_entries": 2,
+    "input": "steve jobs'un suriyeli bir göçmenin oğlu olması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "steve jobs'un suriyeli bir göçmenin oğlu olması",
+      "entry_id": "54596314",
+      "author": "soner bastiat",
+      "date": "06.09.2015 22:19",
+      "content": "aylan'ın iç parçalayıcı ölümünden sonra, huffington post editörünün zenofobikler için yaptığı hatırlatma; http://www.huffingtonpost.com/…d5cee4b002d5c075ec83",
+      "has_external_url": true
+    },
+    {
+      "title": "steve jobs'un suriyeli bir göçmenin oğlu olması",
+      "entry_id": "54596656",
+      "author": "how the hell i know",
+      "date": "06.09.2015 22:27",
+      "content": "duyar kasıp tribünlere oynamak bu olsa gerek. gunlerce tartışıldı, hala da tartışmalar devam ediyor ancak sirk maymunluğu yapmakta olanlar aynı söylemlere devam ediyorlar. insanlar ölmesin, kesinlikle, ama insan insana bunu yapmaz dediğimiz şeyleri yapanlara zaten bu tepkiler.\n\naylan üzerinden prim yapılması/yapılmaya çalışılması son derece karaktersizlik örneği.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:59:24.159073",
+    "total_entries": 3,
+    "input": "suriyelilere sığınmacı demiyoruz kampanyası",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelilere sığınmacı demiyoruz kampanyası",
+      "entry_id": "149275052",
+      "author": "wizardalex",
+      "date": "14.02.2023 23:55",
+      "content": "gerek depremde yaptıklarından, gerek ülkemizi işgal girişiminin bir parçası oldukları için bu saatten sonra geçici koruma statüsündeki suriyeliler için sığınmacı demiyoruz. sığınmacı diyerek ileride olabilecek bir sürü probleme ön ayak oluyoruz. 10 milyon sığınmacı mı olur aq.\nvatansever kardeşlerim lütfen dikkat ediniz ve gerekli hassasiyeti gösteriniz.",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyelilere sığınmacı demiyoruz kampanyası",
+      "entry_id": "149275277",
+      "author": "spinapubica",
+      "date": "14.02.2023 23:59",
+      "content": "(ara: mahmut diyem)",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyelilere sığınmacı demiyoruz kampanyası",
+      "entry_id": "149275701",
+      "author": "obispo",
+      "date": "15.02.2023 00:05",
+      "content": "(bkz: işgalci)",
+      "has_external_url": false
+    }
+  ]
+}

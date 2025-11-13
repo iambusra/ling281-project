@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:24:04.160473",
+    "total_entries": 1,
+    "input": "suriyeli göçmenlerle counter strike oynamak",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeli göçmenlerle counter strike oynamak",
+      "entry_id": "48819223",
+      "author": "sylarcan",
+      "date": "30.01.2015 21:35",
+      "content": "geyik degil, bugun iskenderun'da gittigim berber ciddi ciddi bunu yaptiklarini, ama baya stratejik oynayip organize davrandiklari icin suriyeli cocuklari yenemediklerini (ki kendisi cok iyiymis normalde) anlatti. ustelik kendisinin arkadaslari gene suriyelilerle cipsine counter oynayip kaybettikten sonra cipsi almadiklari icin olumle tehdit edilmisler. iskenderun'da son gelismeler bu sekilde.\n\nbu hikayeden cikarilacak dersler:\n\n1- hala internet cafeye gidip counter oynayan insanlar var.\n2- allah insani berberin cok konusanindan sakinsin",
+      "has_external_url": false
+    }
+  ]
+}

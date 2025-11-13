@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:22:04.332129",
+    "total_entries": 2,
+    "input": "almanların göçmenlere destek vermesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "almanların göçmenlere destek vermesi",
+      "entry_id": "103194384",
+      "author": "minderden sesleniyorum",
+      "date": "08.03.2020 09:50",
+      "content": "almanya'da binlerce kişinin avrupa sınırına dayanan göçmenler için yürüyüşle destek vermesi olayıdır.\n\nhaber",
+      "has_external_url": true
+    },
+    {
+      "title": "almanların göçmenlere destek vermesi",
+      "entry_id": "103194516",
+      "author": "emreus",
+      "date": "08.03.2020 09:55",
+      "content": "avrupa birliğinin yokoluşu bu göçmenler yüzünden olacak. tarihte kavimler göçü 2’ye tanıklık etmek üzereyiz. roma imparatorluğu bile dayanamadıysa ab nasıl dayansın?\n\nben herhangi bir ab ülkesinde yaşayan bir vatandaş olsam kesinlikle bu kadar göçmeni ülkemde istemezdim. çayınıza 1 kaşık atacağınız şeker içeceğinize tat verir ama 10 kaşık şeker koyarsanız çay içilmez hale gelir. aynı şey bizim için de geçerli. 1000 tane suriyeli alabilirsin, tamam. 5 milyon almak nedir!? homojen yapını bozmak mı istiyorsun?",
+      "has_external_url": false
+    }
+  ]
+}

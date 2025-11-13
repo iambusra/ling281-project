@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:09:52.785347",
+    "total_entries": 1,
+    "input": "selaniklik göçmeni olmak",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "selaniklik göçmeni olmak",
+      "entry_id": "139546050",
+      "author": "yuzuyorum her gece",
+      "date": "03.07.2022 20:30",
+      "content": "değerli prof. özgür demirtaş'ın başardığı bir iş. inşallah hepimize nasip olur.\n\nhttps://twitter.com/…tas/status/1543287865819500546",
+      "has_external_url": true
+    }
+  ]
+}

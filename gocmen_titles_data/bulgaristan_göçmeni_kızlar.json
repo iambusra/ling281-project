@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:09:39.886253",
+    "total_entries": 3,
+    "input": "bulgaristan göçmeni kızlar",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "bulgaristan göçmeni kızlar",
+      "entry_id": "146295911",
+      "author": "boschwolf",
+      "date": "13.12.2022 12:33",
+      "content": "çingene oluyor onlar. bulgaristan kadınlarını 20 sene önce oteller almıyorlardı. en iyisi arnavut ve bosna göçmenleridir.\nbulgaristan’ı iyi bilen spor.",
+      "has_external_url": false
+    },
+    {
+      "title": "bulgaristan göçmeni kızlar",
+      "entry_id": "146296396",
+      "author": "zerdecalvelimon",
+      "date": "13.12.2022 12:47",
+      "content": "güzel, çalışkan ve tutumlu olmakla nam salmıştır. dahil olduğum gruptur.",
+      "has_external_url": false
+    },
+    {
+      "title": "bulgaristan göçmeni kızlar",
+      "entry_id": "146549238",
+      "author": "roger waters",
+      "date": "19.12.2022 09:44",
+      "content": "(bkz: gacal)\n(bkz: muhacir)\n(bkz: pomak)",
+      "has_external_url": false
+    }
+  ]
+}

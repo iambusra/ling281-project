@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:03:26.658134",
+    "total_entries": 1,
+    "input": "suriyeli sığınmacılara hakkını helal etmemek",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeli sığınmacılara hakkını helal etmemek",
+      "entry_id": "30567073",
+      "author": "zimniirade",
+      "date": "14.10.2012 19:15",
+      "content": "elektrik, su, konaklama bedava, gıda kartla 100 tl'lik bedava alışveriş, ev.. oh amınakoyim ya. bu paralar tabii ekonomik olarak kendine yetemeyen başbakanımızın cebinden değil bizlerin cebinden çıkıyor. bu kadar aç bilaç kimse varken, insanlar cemaatlerin kucağına itilirken, hukukunki fakire kalkarken hakkımı helal etmiyorum. elimden bir tek bu geliyor.\n\nbiz türkiyeliler için doğal bulduğum hareket.",
+      "has_external_url": false
+    }
+  ]
+}

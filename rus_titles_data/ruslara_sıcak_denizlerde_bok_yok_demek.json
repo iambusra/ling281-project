@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:30:03.299566",
+    "total_entries": 1,
+    "input": "ruslara sıcak denizlerde bok yok demek",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ruslara sıcak denizlerde bok yok demek",
+      "entry_id": "29335223",
+      "author": "zortlak",
+      "date": "11.07.2012 16:06",
+      "content": "yillardir bir istek, bi merak var bunlarda. ben cocuktum istekliydiler, koca adam oldum hala bi istek. bok mu var lan sicak denizlerde? yok oglum yok, gidin artik.\n\nartik soylenmesi gereken bi soz, tabi yurek lazim.",
+      "has_external_url": false
+    }
+  ]
+}

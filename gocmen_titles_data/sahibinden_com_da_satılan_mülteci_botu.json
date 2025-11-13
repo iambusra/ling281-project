@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:39:58.853604",
+    "total_entries": 3,
+    "input": "sahibinden.com'da satılan mülteci botu",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "sahibinden.com'da satılan mülteci botu",
+      "entry_id": "56418492",
+      "author": "azigazicam",
+      "date": "22.11.2015 12:23 ~ 12:48",
+      "content": "bizzat satıcının ayan beyan, içinde mülteciler ile çekilmiş fotolarıyla reklamını yaptığı şişme bottur.\n\nlink: http://www.sahibinden.com/…rus-botu-244910379/detay\n\nulan ben de şişme botumu satmaya niyetliyim ama sırf şu mülteciler dadanır, hayırsız bir işe bulaşmasın diye ilan vermiyorum, şu süreç bitsin diye bekliyorum. adamların yaptığına bak...\n\nedit: bazı fotolar kaldırılmış, haberlerde çıkan, içi mülteci dolu bot fotoları vardı ilanda.",
+      "has_external_url": true
+    },
+    {
+      "title": "sahibinden.com'da satılan mülteci botu",
+      "entry_id": "56418727",
+      "author": "cahil prof",
+      "date": "22.11.2015 12:37",
+      "content": "yunan sahil güvenlik ekibine karşı ekstra zırhli olmadığı için vazgectigimiz bot.\n\nben ülkeden kaçarken yunan sahil güvenliği 6500 dolarlık botumu patlatırlarsa ne olacak?",
+      "has_external_url": false
+    },
+    {
+      "title": "sahibinden.com'da satılan mülteci botu",
+      "entry_id": "165897431",
+      "author": "babyface61",
+      "date": "01.07.2024 18:52",
+      "content": "mültecileri deniz yoluyla ücretsiz ülkelerine getirecek ulaşım aracıdır.",
+      "has_external_url": false
+    }
+  ]
+}

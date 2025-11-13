@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-10T23:36:07.576432",
+    "total_entries": 1,
+    "input": "bir afganlı bir suri bir asimile kürt ve bir türk",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "bir afganlı bir suri bir asimile kürt ve bir türk",
+      "entry_id": "145892758",
+      "author": "saxmen",
+      "date": "03.12.2022 22:43",
+      "content": "bir gün birbirlerinden habersiz bir şekilde,\nöğleyi saat biraz geçmişken,\ngünde milyonların ezdiği bir arnavut kaldırımlı caddede,\nkuşlar yine benzer seyrindeyken,\nuzaktan işitlen tramvay zili eşliğinde,\nönceki güne göre daha pahalı ürünlerin satıldığı indirim mağazalarının vitrinlerine yansıyoken görüntüleri,\nbazı turistlerin çektiği fotoğraflara habersizce çıktıktan biraz sonra,\nkestane kokusundan tam hoşnutken gözlerine girmişken dumanı,",
+      "has_external_url": false
+    }
+  ]
+}

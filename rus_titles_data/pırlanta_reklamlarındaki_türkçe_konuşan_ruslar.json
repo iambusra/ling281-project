@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:26:25.806806",
+    "total_entries": 1,
+    "input": "pırlanta reklamlarındaki türkçe konuşan ruslar",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "pırlanta reklamlarındaki türkçe konuşan ruslar",
+      "entry_id": "171248201",
+      "author": "confession",
+      "date": "22.12.2024 16:55",
+      "content": "ne bu amk ya. kustuk artık kustuk yeter.",
+      "has_external_url": false
+    }
+  ]
+}

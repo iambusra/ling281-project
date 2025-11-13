@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:07:37.724570",
+    "total_entries": 1,
+    "input": "suriyeliye piyango bileti çektiren amca",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeliye piyango bileti çektiren amca",
+      "entry_id": "85559092",
+      "author": "nenteresan",
+      "date": "15.01.2019 22:50",
+      "content": "ilginç bir yaklaşım işe yarar mı bilmem:)",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:09:57.564495",
+    "total_entries": 2,
+    "input": "türkiye'de hiç hırvatistan göçmeni olmaması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türkiye'de hiç hırvatistan göçmeni olmaması",
+      "entry_id": "136896630",
+      "author": "shiftetelli",
+      "date": "02.05.2022 00:32",
+      "content": "ülkemize gelen ve arnavut, bulgar, makedon, kosovalı diye adlandırılan kişilerin aslında arnavutluk, bulgaristan, makedonya ve kosova'da yaşayan türkler olmasından ileri gelir. anadan babadan türkçe konuşan kişiler... bu yüzden türkiye'ye gelirler. en azından dil bilirler. hırvatistan'da çok fazla türk yok.",
+      "has_external_url": false
+    },
+    {
+      "title": "türkiye'de hiç hırvatistan göçmeni olmaması",
+      "entry_id": "136896787",
+      "author": "derin sedasyon",
+      "date": "02.05.2022 00:35 ~ 00:59",
+      "content": "banu alkan dubrovnik kökenlidir... az olmasının bir nedeni de modern hırvatistan sınırlarının büyük kısmının avusturya-macaristan ve venedik cumhuriyet'i topraklarından oluşması. güney'de dubrovnik ve çevresi uzun süre osmanlı'nın vassal devleti oluyor. bir de slavonia denilen bölgede osmanlı 150 yıl kadar hakimiyet kuruyor. gerisi osmanlı hakimiyetinin dışındaki bölgeler. bundan dolayı hırvatistan'daki türk nüfus az. hırvatlar da daha çok avusturya'ya göç ediyorlar. viyana'da büyük bir hırvat göçmen kitlesi mevcut.",
+      "has_external_url": false
+    }
+  ]
+}

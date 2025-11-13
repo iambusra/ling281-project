@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:10:46.283205",
+    "total_entries": 1,
+    "input": "ekrem imamoğlu'nun israil göçmeni olması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ekrem imamoğlu'nun israil göçmeni olması",
+      "entry_id": "91624014",
+      "author": "artan azalanlar kanunu",
+      "date": "23.06.2019 21:00",
+      "content": "(bkz: yossi kohen)’in ta kendisidir.",
+      "has_external_url": false
+    }
+  ]
+}

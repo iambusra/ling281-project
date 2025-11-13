@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:03:10.047858",
+    "total_entries": 3,
+    "input": "suriyeli sığınmacılara çaylaksız ekşi sözlük hakkı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeli sığınmacılara çaylaksız ekşi sözlük hakkı",
+      "entry_id": "59333399",
+      "author": "frankiegoestohollywood",
+      "date": "19.03.2016 01:03",
+      "content": "sözlük yönetiminin, saray avanelerinden gelen yoğun ve gaddar baskılara dayanamayıp asrın liderine biat etmesinin hazin sonucu. yüce tanrım ıslah etsin.\n\n.",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyeli sığınmacılara çaylaksız ekşi sözlük hakkı",
+      "entry_id": "59333458",
+      "author": "aerin",
+      "date": "19.03.2016 01:06",
+      "content": "(bkz: genç çaylaklar rahatsız)",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyeli sığınmacılara çaylaksız ekşi sözlük hakkı",
+      "entry_id": "59333602",
+      "author": "kafkasorcun",
+      "date": "19.03.2016 01:13",
+      "content": "(bkz: sözlükte entry çalan suriyeli yazarlar)",
+      "has_external_url": false
+    }
+  ]
+}

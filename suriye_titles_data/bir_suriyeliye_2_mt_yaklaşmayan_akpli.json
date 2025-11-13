@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T15:02:25.250020",
+    "total_entries": 1,
+    "input": "bir suriyeliye 2 mt yaklaşmayan akpli",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "bir suriyeliye 2 mt yaklaşmayan akpli",
+      "entry_id": "81566396",
+      "author": "tatil kufesi",
+      "date": "23.09.2018 11:25 ~ 11:26",
+      "content": "bu ülkede bu sapık canilerle aynı mahallede\naynı apartmanda yaşadığını hayal edebiliyor mudur acaba?\ndiye merak ettiğim, osmanlı hayalcisi akpli dir.\nhttp://www.medyafaresi.com/…rurken-yakalandi/884627\nmilleti kimlerle yan yana yaşamaya,\nyıllardır uygarlaştırılmaya çalışılan ülkeyi orta doğuya\nçevirmeye hakkı olmayan akplilerdir.",
+      "has_external_url": true
+    }
+  ]
+}

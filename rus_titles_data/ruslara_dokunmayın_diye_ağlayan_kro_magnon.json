@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:30:08.623177",
+    "total_entries": 1,
+    "input": "ruslara dokunmayın diye ağlayan kro magnon",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ruslara dokunmayın diye ağlayan kro magnon",
+      "entry_id": "18246123",
+      "author": "ilham perim yesil gozlu",
+      "date": "19.02.2010 21:38",
+      "content": "turuncu gömlek, mont, şort üçlüsünden birini taşıyor olmalıdır.",
+      "has_external_url": false
+    }
+  ]
+}

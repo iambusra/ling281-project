@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T16:03:01.104526",
+    "total_entries": 1,
+    "input": "rte'nin suriyelilerden misafirimiz diye bahsetmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rte'nin suriyelilerden misafirimiz diye bahsetmesi",
+      "entry_id": "62623034",
+      "author": "mertcancanli",
+      "date": "28.08.2016 22:04",
+      "content": "misafir olan biziz bence.onlar 1.sınıf vatandaş biz 2.sınıf.şaka gibi...",
+      "has_external_url": false
+    }
+  ]
+}

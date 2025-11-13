@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:51:11.307512",
+    "total_entries": 1,
+    "input": "hollanda'da mültecilere destek yürüyüşü",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "hollanda'da mültecilere destek yürüyüşü",
+      "entry_id": "138958259",
+      "author": "emreakbas",
+      "date": "19.06.2022 16:29",
+      "content": "gönderelim bir kaç milyon, sonra bir daha yürürler mi görelim?",
+      "has_external_url": false
+    }
+  ]
+}

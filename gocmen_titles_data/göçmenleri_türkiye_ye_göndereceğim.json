@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:19:02.150867",
+    "total_entries": 1,
+    "input": "göçmenleri türkiye'ye göndereceğim",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "göçmenleri türkiye'ye göndereceğim",
+      "entry_id": "140113031",
+      "author": "korganov",
+      "date": "17.07.2022 19:54",
+      "content": "böyle bir şey olmaz diyen var mı? dünyanın enayisi biz olduğumuz için birkaç milyon euro karşılığında bunu da kabul ederler. 2023 seçimlerine bir seneden az zaman kaldı. ya bu ülkede bir şeyleri değiştirip demokratik, laik, sosyal ve hukuk devletini yeniden inşa edeceğiz ya da gelecek nesillere dünyanın en çukur kültürlerinin cirit attığı bir orta doğu ülkesi bırakacağız. seçim türk halkının…",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:15:58.592275",
+    "total_entries": 4,
+    "input": "ukrayna emiri'nin türkiye'ye 53 tane at göndermesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukrayna emiri'nin türkiye'ye 53 tane at göndermesi",
+      "entry_id": "51732181",
+      "author": "cegevera",
+      "date": "28.05.2015 13:38",
+      "content": "yetmez ama evet diyerek desteklenecek jest.",
+      "has_external_url": false
+    },
+    {
+      "title": "ukrayna emiri'nin türkiye'ye 53 tane at göndermesi",
+      "entry_id": "51732203",
+      "author": "insan donuna girmis telli turna",
+      "date": "28.05.2015 13:39 ~ 13:40",
+      "content": "(bkz: yazar burada at derken mecazi anlatım yapmakta)",
+      "has_external_url": false
+    },
+    {
+      "title": "ukrayna emiri'nin türkiye'ye 53 tane at göndermesi",
+      "entry_id": "51732286",
+      "author": "burada duran orali",
+      "date": "28.05.2015 13:42",
+      "content": "(bkz: üstteki yazar bizi bilal sanmakta)",
+      "has_external_url": false
+    },
+    {
+      "title": "ukrayna emiri'nin türkiye'ye 53 tane at göndermesi",
+      "entry_id": "51734219",
+      "author": "rifki almaz",
+      "date": "28.05.2015 14:51 ~ 14:53",
+      "content": "(bkz: sen istiyor duj verejek 50 dolar daha)",
+      "has_external_url": false
+    }
+  ]
+}

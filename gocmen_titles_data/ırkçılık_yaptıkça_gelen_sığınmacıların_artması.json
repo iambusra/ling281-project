@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:05:17.394868",
+    "total_entries": 1,
+    "input": "ırkçılık yaptıkça gelen sığınmacıların artması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ırkçılık yaptıkça gelen sığınmacıların artması",
+      "entry_id": "136984401",
+      "author": "nefesikuvvetlihoca",
+      "date": "04.05.2022 03:09",
+      "content": "olsa da olmasa da sığınmacı (?) artışıyla ilişkilendirme abesliği… bir istila durumunda gösterilen tepkiyi ırkçılık olarak tanımlarsan sığınmacı artsa da azalsa da ırkçılık kazanır.\nyani bu tepkiler ırkçılık değil kardeşim. ırkçılık amerika sokaklarında, yunan sınırında, adana-antep-kilis mülteci kamplarında. (adamlar aynı ülkeden kaçmış ama türkmen-arap-kürt aynı sığınma kampında kalamıyor)",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:06:07.079787",
+    "total_entries": 1,
+    "input": "ukrayna moskova'ya doğru ilerliyor iddiası",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukrayna moskova'ya doğru ilerliyor iddiası",
+      "entry_id": "167448460",
+      "author": "terminus yerlisi",
+      "date": "17.08.2024 12:54",
+      "content": "telsizleri kapattıkları da iddialar arasında.",
+      "has_external_url": false
+    }
+  ]
+}

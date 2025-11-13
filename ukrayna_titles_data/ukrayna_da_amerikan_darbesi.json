@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:14:04.528867",
+    "total_entries": 2,
+    "input": "ukrayna'da amerikan darbesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukrayna'da amerikan darbesi",
+      "entry_id": "40878020",
+      "author": "soil",
+      "date": "04.03.2014 18:19",
+      "content": "inşallah bu sefer tarafımızı iyi seçeriz. 1.dünya savaşındaki gibi olmaz. müslüman ve hıristiyan protestanlarla müslüman ve hristiyan katoliklerin savaşı.... savaş yakın ya iran almanya rusya tarafında olucaz yada amerika vs vs nin yanında.",
+      "has_external_url": false
+    },
+    {
+      "title": "ukrayna'da amerikan darbesi",
+      "entry_id": "40878059",
+      "author": "windy s fancy portrait",
+      "date": "04.03.2014 18:21",
+      "content": "ukraynada rus darbesi *",
+      "has_external_url": false
+    }
+  ]
+}

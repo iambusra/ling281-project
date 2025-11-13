@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:06:13.361076",
+    "total_entries": 1,
+    "input": "kaçak göçmen çalıştıran işverenler",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "kaçak göçmen çalıştıran işverenler",
+      "entry_id": "176823849",
+      "author": "avrasya",
+      "date": "15.07.2025 12:21",
+      "content": "tck 79 gereğince göçmen kaçakçılığı ile suçlanması olası işverenlerdir.\n\nson dönemde, kaçak göçmen çalıştıran işverenlerin bu duruma derhal son vermeleri gerektiğini düşünüyorum. zira bu işverenler tespit edildiğinde artık sadece para cezasıyla kurtulmak yerine, türk ceza kanunu (tck) madde 79'daki \"göçmen kaçakçılığı\" suçuyla karşı karşıya kalabilirler. mahkemeler, bu maddedeki \"ülkede kalmasına imkan sağlayan\" ifadesini geniş yorumluyor. yani, sadece yabancıları yasa dışı yollardan ülkeye sokanlar değil, yasal kalış hakkı olmayanların türkiye'de barınmasına veya geçimini sağlamasına yardımcı olan işverenler de bu kapsama giriyor. özellikle, işyerinde yatakhane gibi yerler sağlayarak maddi menfaat karşılığında yasa dışı ikamete zemin hazırlayanlar, göçmen kaçakçılığı suçlamasıyla karşılaşabilir.",
+      "has_external_url": false
+    }
+  ]
+}

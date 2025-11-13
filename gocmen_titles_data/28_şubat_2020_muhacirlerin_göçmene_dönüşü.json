@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:13:33.172738",
+    "total_entries": 2,
+    "input": "28 şubat 2020 muhacirlerin göçmene dönüşü",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "28 şubat 2020 muhacirlerin göçmene dönüşü",
+      "entry_id": "102761588",
+      "author": "kasar yaza",
+      "date": "28.02.2020 14:47",
+      "content": "\"muhacirlere ensar olmalıyız\" politikasından \"açarım kapıları yollarım göçmenleri\" politikasına geçişin tezahürüdür. önceki politikaya alkış tutanlar yeni politikaya da alkış tutuyor. siyasal islam bir omurga rahatsızlığıdır.",
+      "has_external_url": false
+    },
+    {
+      "title": "28 şubat 2020 muhacirlerin göçmene dönüşü",
+      "entry_id": "102761654",
+      "author": "el pipita",
+      "date": "28.02.2020 14:48",
+      "content": "sabahtan beri bunu düşünüyordum\n\nsürekli ensar da ensar, kardeşlerimiz de kardeşlerimiz denilen insanları 1 saatte kapı önüne koydular.\n\nderdinizin kardeşlik, insanlık olmadığı çok belliydi de gözümüze böylesine sokmasaydınız",
+      "has_external_url": false
+    }
+  ]
+}

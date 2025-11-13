@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:19:41.228545",
+    "total_entries": 1,
+    "input": "kaçak göçmenleri savunan kadın iticiliği",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "kaçak göçmenleri savunan kadın iticiliği",
+      "entry_id": "126690609",
+      "author": "betada don bebegim yok diye uye oldum",
+      "date": "08.08.2021 23:08",
+      "content": "yarın öbür gün aldığı fonla benim de ülkeyi terk etmemi falan isteyebilir diye düşünüp korktuğum kadın iticiliğidir.",
+      "has_external_url": false
+    }
+  ]
+}

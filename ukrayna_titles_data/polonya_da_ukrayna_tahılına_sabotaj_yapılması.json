@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:07:23.417832",
+    "total_entries": 3,
+    "input": "polonya'da ukrayna tahılına sabotaj yapılması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "polonya'da ukrayna tahılına sabotaj yapılması",
+      "entry_id": "161901529",
+      "author": "eurasia",
+      "date": "25.02.2024 22:28 ~ 22:36",
+      "content": "\"ukrayna'dan gelen 160 ton (10 vagon) mısırın mührü açıldı ve yere döküldü\n\npolonya'da, bilinmeyen kişiler, tam ölçekli savaşın başlangıcından bu yana ukrayna tahılına yönelik en büyük sabotajı gerçekleştirdi.\" görsel tweet ve video\n\nanladığım kadarıyla bu polonya'da bir süredir oluyormuş. en sonuncusunda trenin tüm vagonlarındaki mısırı boşaltmışlar.\n\nson zamanlarda avrupa'nın her yerinde görülen çiftçi eylemleri ukrayna'yı vurmaya başladı. bakalım batı ukrayna'ya daha ne kadar tahammül edebilecek. batının insanı, doğunun insanına benzemez. zarar görüyorsa yöneticilerinden hesap sorar.\n(bkz: avrupa'daki çiftçi eylemleri)",
+      "has_external_url": true
+    },
+    {
+      "title": "polonya'da ukrayna tahılına sabotaj yapılması",
+      "entry_id": "161990930",
+      "author": "ketender tepetopuzu",
+      "date": "28.02.2024 16:04",
+      "content": "valla nedenini nasılını ve kime yarar’ı ayrı, avrupalıların doğulusu ve batılısıyla cesareti ayrı. biraz protestolarına bakınca anlıyorum ki pembe götlü bizmişiz. protesto niyetine sivil öldüren malları bizden saymıyorum.",
+      "has_external_url": false
+    },
+    {
+      "title": "polonya'da ukrayna tahılına sabotaj yapılması",
+      "entry_id": "161990996",
+      "author": "benimguzelaysem",
+      "date": "28.02.2024 16:08",
+      "content": "üzerine işemedilerse tekrar vagonlara geri doldurulabilir gibi görünüyor videoya bakınca",
+      "has_external_url": false
+    }
+  ]
+}

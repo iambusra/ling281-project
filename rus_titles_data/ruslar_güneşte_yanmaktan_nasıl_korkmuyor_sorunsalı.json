@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:27:20.808637",
+    "total_entries": 2,
+    "input": "ruslar güneşte yanmaktan nasıl korkmuyor sorunsalı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ruslar güneşte yanmaktan nasıl korkmuyor sorunsalı",
+      "entry_id": "126048875",
+      "author": "serrchi",
+      "date": "23.07.2021 23:12",
+      "content": "rus'un korktuğu herhangi bir şeyi örnekleyebilir misin?",
+      "has_external_url": false
+    },
+    {
+      "title": "ruslar güneşte yanmaktan nasıl korkmuyor sorunsalı",
+      "entry_id": "126049455",
+      "author": "anjelika in barbary",
+      "date": "23.07.2021 23:25",
+      "content": "cok yaygindir bu, “rus biri guneslenmeye gidiyorsa, o kesin guneslenir” denir. hatta guneslenme degil resmen kremasyon bu diye sakasini cok yaparlar. guneslenme sonrasinda cok ve dayanilmaz yanik olursa soguk yogurt surerler en fazla ve hayatlarina devam ederler.",
+      "has_external_url": false
+    }
+  ]
+}

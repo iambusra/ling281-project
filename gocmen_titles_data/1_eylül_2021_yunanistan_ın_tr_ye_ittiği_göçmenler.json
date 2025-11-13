@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:17:44.207601",
+    "total_entries": 1,
+    "input": "1 eylül 2021 yunanistan'ın tr'ye ittiği göçmenler",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "1 eylül 2021 yunanistan'ın tr'ye ittiği göçmenler",
+      "entry_id": "127608452",
+      "author": "bizgeldim",
+      "date": "02.09.2021 12:41",
+      "content": "afrikalı kardeşlerim gelsin sade.başka istemiyoruz.sanırım bunda hemfikiriz.",
+      "has_external_url": false
+    }
+  ]
+}

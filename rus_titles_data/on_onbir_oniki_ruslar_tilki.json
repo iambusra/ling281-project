@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:27:13.571072",
+    "total_entries": 1,
+    "input": "on onbir oniki ruslar tilki",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "on onbir oniki ruslar tilki",
+      "entry_id": "134498841",
+      "author": "hamsicik",
+      "date": "04.03.2022 15:31",
+      "content": "çocukken söylediğimiz tekerlemenin günümüz dünyasında karşılık bulan bölümü. benim öğrendiğim versiyonu şöyleydi:\n\nbir iki üçler yaşasın türkler\ndört beş altı polonya battı\nyedi sekiz dokuz almanlar domuz\non onbir oniki ruslar tilki\nonüç ondört onbeş makarios kalleş\nleş leş leş\nleşi çıkmış kalleş\n\nallah'tan çocuk beynimiz kelimeleri o kadar anlamlandırarak söylemiyordu da sadece yaşasın türkler kısmı ile coşuveriyorduk. faşizmin başarılı beyin yıkama edebiyatlarından iyi bir örnek. ama tekerlemenin \"ruslar tilki\" kısmı bugünlerde kafamı kurcalamıyor da değil.",
+      "has_external_url": false
+    }
+  ]
+}

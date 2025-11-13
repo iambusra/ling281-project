@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T15:35:13.434605",
+    "total_entries": 1,
+    "input": "biz suriyelileri göndermeyeceğiz",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "biz suriyelileri göndermeyeceğiz",
+      "entry_id": "134973585",
+      "author": "nikbennik",
+      "date": "15.03.2022 16:24",
+      "content": "bizi gonderin o zaman amk",
+      "has_external_url": false
+    }
+  ]
+}

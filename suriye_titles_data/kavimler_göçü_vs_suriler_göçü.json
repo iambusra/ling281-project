@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T14:50:40.425306",
+    "total_entries": 1,
+    "input": "kavimler göçü vs suriler göçü",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "kavimler göçü vs suriler göçü",
+      "entry_id": "102808031",
+      "author": "nyberroar",
+      "date": "29.02.2020 15:49",
+      "content": "iki olay da avrupa'nın sosyolojik yapısını etkiledi/etkileyecek.",
+      "has_external_url": false
+    }
+  ]
+}

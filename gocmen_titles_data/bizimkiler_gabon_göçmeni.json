@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:13:06.422660",
+    "total_entries": 1,
+    "input": "bizimkiler gabon göçmeni",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "bizimkiler gabon göçmeni",
+      "entry_id": "20813231",
+      "author": "daemonwrathchild",
+      "date": "06.11.2010 23:17",
+      "content": "söyleyen abimiz için (bkz: delroy lindo)",
+      "has_external_url": false
+    }
+  ]
+}

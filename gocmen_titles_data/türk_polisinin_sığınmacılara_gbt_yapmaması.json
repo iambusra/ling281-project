@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:02:52.691102",
+    "total_entries": 3,
+    "input": "türk polisinin sığınmacılara gbt yapmaması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türk polisinin sığınmacılara gbt yapmaması",
+      "entry_id": "132414004",
+      "author": "thekemalist55",
+      "date": "16.01.2022 21:46",
+      "content": "dil seçeneklerinde arapça,peştunca, darice olmadığı için gerçekleştirilmeyen eylem.",
+      "has_external_url": false
+    },
+    {
+      "title": "türk polisinin sığınmacılara gbt yapmaması",
+      "entry_id": "132414733",
+      "author": "amerikan popechku",
+      "date": "16.01.2022 22:00",
+      "content": "hoşt lan türko. kızlara gbt yapıp instadan yürümek varken neden potansiyel teröriste gbt yapıp başına iş alsın.\n\ncengaver arıyorsan gece bekçileri var. nezih mahallelerde parkta oturan normal vatandaşları daralıyolar.",
+      "has_external_url": false
+    },
+    {
+      "title": "türk polisinin sığınmacılara gbt yapmaması",
+      "entry_id": "132416473",
+      "author": "dead point",
+      "date": "16.01.2022 22:32",
+      "content": "adamlara nasıl gbt yapsınlar kayıtları mı var pasaportları mı var neye bakacaklar dediğim başlık bu adamlar bu ülkeye elini kolunu sallayarak girerken yapacaktınız sorguyu.",
+      "has_external_url": false
+    }
+  ]
+}

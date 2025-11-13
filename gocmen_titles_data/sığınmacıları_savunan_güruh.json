@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:01:39.866863",
+    "total_entries": 1,
+    "input": "sığınmacıları savunan güruh",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "sığınmacıları savunan güruh",
+      "entry_id": "135744581",
+      "author": "tantantos",
+      "date": "03.04.2022 14:55",
+      "content": "deniz manzaralı, gün batımını izlediğiniz müstakil bir eviniz var diyelim. sonra bir gün gelip tam evinizle deniz arasına, dibinize, imar izni olmayan bir alana 25 katlı devasa bir bina dikecekler ve siz de neyse canım zaten akşam güneşi de sıcak yapıyordu, fena mı hem bir sürü de komşumuz oldu diyeceksiniz, der misiniz?\nkim der?\nbunu savunan cem yılmaz'ın dediği gibidir.\nya bir menfaatiniz olacak, ya da cezai ehliyetiniz olmayacak.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:14:07.480351",
+    "total_entries": 1,
+    "input": "rus askerlerini ukrayna'da karşılayan kızlar",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rus askerlerini ukrayna'da karşılayan kızlar",
+      "entry_id": "40830280",
+      "author": "le comte de digital",
+      "date": "02.03.2014 21:26",
+      "content": "cahilliğin, kültürsüzlüğün hatta ihanetin resmidir. yazık!",
+      "has_external_url": false
+    }
+  ]
+}

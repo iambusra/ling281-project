@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:48:20.969260",
+    "total_entries": 4,
+    "input": "suriyeli bebekler",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeli bebekler",
+      "entry_id": "32346840",
+      "author": "laponya buyukelcisi",
+      "date": "26.02.2013 17:18",
+      "content": "misil misil uyumalari gerekirken sivil yerlesim bölgelerine yapilan rasgele bombardimanlar sonucu bir daha hic uyanmamak üzere uyuyan bebeklerdir.\n\n+18\n\nbunu yapanlarin da, destek verenlerin de sonu bin beter olur insallah.",
+      "has_external_url": true
+    },
+    {
+      "title": "suriyeli bebekler",
+      "entry_id": "54819694",
+      "author": "umutn35",
+      "date": "15.09.2015 19:27",
+      "content": "ana babaların yaptığı hatanın bedelini ödeyen bebeklerdir. savaş ortamının olduğu bir dönemde gebe kalan, korunmayan ne kadar insan varsa o insanlar bu bebeklerin gözünden akan yaşların sorumluluğuna en az diktatörler kadar ortaktır.",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyeli bebekler",
+      "entry_id": "156128717",
+      "author": "kozmikpatates",
+      "date": "28.08.2023 13:16",
+      "content": "suriye'de doğup yaşadıkları sürece iyiki doğmuş, türkiye'de doğanlarsa en kısa sürede vatanlarina gönderilmesi gereken bebeklerdir.",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyeli bebekler",
+      "entry_id": "178290022",
+      "author": "tatsiz bi herifim ben",
+      "date": "10.09.2025 20:19",
+      "content": "onlara iyi bakın, bundan 30-40 yıl sonra partilerinin başlarında veya milletvekili koltuklarında göreceğiniz yüzler olacaklar. sonrasında, kendi dilleri ile eğitim isteyecekler veya kendi sendikalarını kurup işçileri için ayrıcalık isteyecekler. muhtemelen, bugün en kalabalık illerde il meclislerinde bulunacaklar. bazı mahallelerde muhtar olacaklar, bazı illerde ise belediye başkanı.\n\ntürkiye cumhuriyeti'nin tercihi ve gidişatı bu, hiçbir bebeğin suçu yok .",
+      "has_external_url": false
+    }
+  ]
+}

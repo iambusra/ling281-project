@@ -1,0 +1,79 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:52:39.527360",
+    "total_entries": 6,
+    "input": "mültecilerle başıboş köpekleri kıyaslayan güruh",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "mültecilerle başıboş köpekleri kıyaslayan güruh",
+      "entry_id": "159776760",
+      "author": "turkiyeden bikan pilot",
+      "date": "16.12.2023 15:09",
+      "content": "sundukları argümanlar karşısında ağzımı açık bırakan güruhtur.\n\nneymiş köpeklere karşı çıkan ses mültecilere karşı neden çıkmıyormuş.\n\nköpeklerle ilgili her başlıkta görebilirsiniz bunları, yahu bu ikisi aynı şey mi? bu nasıl bir agüman sunmak.\n\nşu ana sundukları argümanlar hep mantık dışı zaten.",
+      "referenced_content": [],
+      "has_external_url": false
+    },
+    {
+      "title": "mültecilerle başıboş köpekleri kıyaslayan güruh",
+      "entry_id": "159776852",
+      "author": "rakisarapbira",
+      "date": "16.12.2023 15:14",
+      "content": "mülteci değil sığınmacı\n\nbaşıboş köpek değil özgür köpek\n\nköpekler atadan beri burada, sığınmacılar gelip geçici. karşılaştırmak bence de çok saçma.",
+      "referenced_content": [],
+      "has_external_url": false
+    },
+    {
+      "title": "mültecilerle başıboş köpekleri kıyaslayan güruh",
+      "entry_id": "159776896",
+      "author": "thinkos",
+      "date": "16.12.2023 15:15",
+      "content": "mülteci değil sığıntı ve kaçak.\ntürk düşmanları hariç herkes sesini çıkarıyor.\nbazen ikisini kasten kıyaslıyorum, çalınan milyar dolarlarımıza karşın ciğerimi soğutma amaçlı olarak.",
+      "referenced_content": [],
+      "has_external_url": false
+    },
+    {
+      "title": "mültecilerle başıboş köpekleri kıyaslayan güruh",
+      "entry_id": "159777195",
+      "author": "cokviskiannecim",
+      "date": "16.12.2023 15:28 ~ 15:39",
+      "content": "evet saçma. çünkü mülteciler daha büyük tehlike. aids, hpv, hepatit, hiv, uyuz, kızıl, kızamık, su çiçeği, şeriat arzusu, yasa dışı silahlanma, terörizm, taciz-tecavüz, demografik işgal ve iç savaş tehlikesi, uyuşturucu ve kadın ticareti hepsi sığınmacılarda. bunları da bilinçli yapıyorlar akılları başında. köpeklerin tek derdi ise karnını doyurmak, açıkta kalmamak, hayatta kalmak. binde bir belki kuduz vakası (aşısız ve kısır olmadıklarından o da). geçen suriyede köpeğin ısırdığı kuduz olan suriyeliye bile biz baktık. adamların köpekleri bile kuduz.\n\nköpek anadolunun köpeği sığınmacı ve kaçak ise; afgan, suri, bilmen ne buraya ait değil.\n\nbu adamlara harcananın yüzde biri köpeklere harcansa hepsi aşılı ve kısır olurdu.\n\nbu ülkenin ne insanı ne de köpeği umrunuzda. kendi ülkemizde hiç bu kadar garip olmamıştık.",
+      "referenced_content": [],
+      "has_external_url": false
+    },
+    {
+      "title": "mültecilerle başıboş köpekleri kıyaslayan güruh",
+      "entry_id": "159777774",
+      "author": "fatifati",
+      "date": "16.12.2023 15:51",
+      "content": "köşkte yaşayanda, taşrada yaşayanda bundan etkilenir. ekonomik ve siyasal boyutları vardır. ideolojik olarak tehdit oluşturur. çeşitli cinsleri vardır. bir arada yaşamayı tercih ederler. sınırları yoktur. her türlü sınırı yürüyerek geçebilirler.",
+      "referenced_content": [],
+      "has_external_url": false
+    },
+    {
+      "title": "mültecilerle başıboş köpekleri kıyaslayan güruh",
+      "entry_id": "159778450",
+      "author": "tuscany2",
+      "date": "16.12.2023 16:22",
+      "content": "(bkz: #159694343)\nmemlekette kendi insanımız geçim sıkıntısından kendini yakıyor bu kan emicilerin yapmadığı ahlaksızlık yok. sayalım mı hepsini ne yapalım? medeniyetten nasibini almamış ne kadar mülteci varsa biz besliyoruz. marşımızı okuyamazlarmış ulan eşek kafalı madem memleket sevdalısıydın ayakların götüne vura vura ne bok yemeye geldin türkiye' ye ne diye terk ettin vatanını?",
+      "referenced_content": [
+        {
+          "type": "entry",
+          "title": "sokak-kopekleri-uyutulsun",
+          "entry_id": "159694343",
+          "author": "tuscany2",
+          "date": "13.12.2023 14:47",
+          "content": "ben de mesela mülteciler uyutulsun istiyorum.",
+          "has_external_url": false
+        }
+      ],
+      "referenced_entry_ids": [
+        "159694343"
+      ],
+      "has_external_url": false
+    }
+  ]
+}

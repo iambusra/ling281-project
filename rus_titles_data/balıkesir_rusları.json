@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:28:02.557888",
+    "total_entries": 1,
+    "input": "balıkesir rusları",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "balıkesir rusları",
+      "entry_id": "168165905",
+      "author": "shekhapkuache",
+      "date": "08.09.2024 17:14",
+      "content": "balıkesir ilinde eskiden \"muhacir\" ruslar vardı.\n\nmezhepsel/dini nedenlerle 18. yüzyıl sonunda türkiye'ye göçen ve balıkesir iline iskan edilmiş don kozakları vardı. bir bakıma rumeli ve kafkasya muhacirlerinden daha eski muhacirlerdi.\n\nkurduklarını bildiğim tek köy manyas ilçesine bağlı, kuş (manyas) gölü kıyısındaki bugün adı kocagöl olan köy. köyün eski adları ise köyde yaşayanları tanımlar nitelikte olan \"kazaklar\" ve \"hamidiye\" (bkz: muhacir köylerine sultan adı vermek adettendi) imiş.\n\nbelki şehir / kasaba merkezlerine veya başka köylere de tek tük iskan edilmiş vardır, net bir bilgim yok.\n\ngenel sayımlara göre balıkesir ilinin %0,1'i evinin içinde rusça konuşuyormuş, ikinci dil olarak konuşanları da ekleyince bu %0,2'ye çıkıyor rus dilliler.\n\nayrıca yine sayımlara göre bu rus dillilerinin tahminen 1/5'i müslümanlaşmış zaman içinde, tahminen evlilik yoluyla türk ve diğer müslüman gruplarla evlenip müslümanlaşanlar olsa gerek bu müslüman olanlar.\n\ntürkiye cumhuriyeti kurulduktan sonra ufak ufak türkiye'yi terk etmeye başlamışlar, 1960'larda ise kalan son grupta bi hamlede ülkeyi terk etmiş.\n\nbazen \"kazaklarlı ruslar acaba napıyorlardır, türkiye hakkında ne anılara shiplerdir\" diye düşünüyorum, bir gün yakalarsam bir tanesini sorup burayı güncellerim (bkz: swh)",
+      "has_external_url": false
+    }
+  ]
+}

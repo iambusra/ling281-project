@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:58:44.721844",
+    "total_entries": 3,
+    "input": "suriyeli sığınmacının sokak röportajı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeli sığınmacının sokak röportajı",
+      "entry_id": "153462715",
+      "author": "uygur turku",
+      "date": "12.06.2023 14:08",
+      "content": "söylenecek bir şey yok. halkın çoğunluğu sığınmacılarla ilgili politikaları onayladı.",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyeli sığınmacının sokak röportajı",
+      "entry_id": "153462796",
+      "author": "ben bitti demeden pandemi",
+      "date": "12.06.2023 14:11",
+      "content": "aynı özgüveni ab ülkelerinde çalan ama çalışan türk ve k*rtlerde görmek mümkündür.\n\nkişiler, onlara tanınan hak ve özgürlükler cerçevesinde hareket ederler.",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyeli sığınmacının sokak röportajı",
+      "entry_id": "153462815",
+      "author": "tanrinin alfabesi",
+      "date": "12.06.2023 14:12",
+      "content": "zaten bu itlere yaptırım uygulanmıyor siz de iki de bir başlıklarda karşımıza çıkarıp üç kuruşluk keyfimizin de içine etmeyin.\no değil bunlardan rahatsız olmayanlarda nasıl geniş bir mide var anlamıyorum. ya ben türk değilim ya da bunlardan rahatsiz olmayanlar türk değil.",
+      "has_external_url": false
+    }
+  ]
+}

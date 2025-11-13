@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:47:00.558948",
+    "total_entries": 1,
+    "input": "suriye ordusuna saldıran bölücü terörist unsurlar",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriye ordusuna saldıran bölücü terörist unsurlar",
+      "entry_id": "173443132",
+      "author": "61ts",
+      "date": "09.03.2025 13:14",
+      "content": "suriye'nin birlik ve bütünlüğüne kast etmektedirler. suriye devleti gereken cevabı vermiştir.",
+      "has_external_url": false
+    }
+  ]
+}

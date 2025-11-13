@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:49:29.108442",
+    "total_entries": 1,
+    "input": "muhalefet mültecileri gönderir mi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "muhalefet mültecileri gönderir mi",
+      "entry_id": "148598610",
+      "author": "garip seyin dogrusu",
+      "date": "04.02.2023 23:26",
+      "content": "sizce mültecilerin ülkede durma sebepleri iktidar mı?",
+      "has_external_url": false
+    }
+  ]
+}

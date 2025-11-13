@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:23:56.576148",
+    "total_entries": 2,
+    "input": "bbc news türkçe nin göçmenlerle röportajı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "bbc news türkçe nin göçmenlerle röportajı",
+      "entry_id": "102874842",
+      "author": "nefes alan bayan",
+      "date": "01.03.2020 23:01 ~ 23:02",
+      "content": "7.05 deki suriyelilerin yapmış olduğu iğrenç konuşmaya denk geldim. \"sanki biz dedik ki gidin bizim yeri kurtarın. siz bizden bir yeri kurtarmaya gitmediniz, sizin sınırları kurtarmaya gittiniz, siz kendinizi düşündünüz, bizi hiç düşünmediniz.\" diyor utanmadan. kendi ülkesi için savaşacağına her imkanın sağlandığı türkiye'yi beğenmeyip daha rahat olacağını düşünerek farklı ülkeye gitmeye çalışıyor, koşa koşa kaçıyor, üzerine saygısızca böyle bir cümle kurabiliyor. madem bu kadar duyarlısın kendi ülken için neden hala ülkene döneceğine ülkenden uzaklaşıyorsun? 8 yıldır kendisini barındıran onların ülkesinde mücadele eden askerlerimize bu saygısızlık asla yapılmamalı.\n(bkz: https://youtu.be/23ytmt8knxs)",
+      "has_external_url": true
+    },
+    {
+      "title": "bbc news türkçe nin göçmenlerle röportajı",
+      "entry_id": "102875601",
+      "author": "rds",
+      "date": "01.03.2020 23:14 ~ 23:16",
+      "content": "besle kargayi oysun gozunu o ne bekliyorsunuz ki? yunanistana bakin almiyor bunlari, polonya sinirimiza gelmeyin vururuz diyor adamlar keriz degil. avrupa ulkeleri bunlari almamak icin her seyi yapiyor ulkelerine doldurup kendi vatantasi acken bunlari beslemiyor.",
+      "has_external_url": false
+    }
+  ]
+}

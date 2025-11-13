@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:40:41.773076",
+    "total_entries": 3,
+    "input": "büyük ikramiyenin suriyeliye çıkması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "büyük ikramiyenin suriyeliye çıkması",
+      "entry_id": "47634576",
+      "author": "heecnormal",
+      "date": "13.12.2014 13:13",
+      "content": "son yillarda mit'ten baskasina cikmadigi icin olasilik disi ihtimal.",
+      "has_external_url": false
+    },
+    {
+      "title": "büyük ikramiyenin suriyeliye çıkması",
+      "entry_id": "47634629",
+      "author": "zokondor",
+      "date": "13.12.2014 13:17",
+      "content": "bakığz: ayakkabı kutusu şeyolan memlekette ikramiye çıkacağına inanmak.",
+      "has_external_url": false
+    },
+    {
+      "title": "büyük ikramiyenin suriyeliye çıkması",
+      "entry_id": "47634636",
+      "author": "altayfun1914",
+      "date": "13.12.2014 13:17",
+      "content": "uff çok fena detirten durum.",
+      "has_external_url": false
+    }
+  ]
+}

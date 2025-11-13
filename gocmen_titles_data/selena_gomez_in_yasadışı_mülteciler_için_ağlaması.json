@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:45:58.654458",
+    "total_entries": 2,
+    "input": "selena gomez in yasadışı mülteciler için ağlaması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "selena gomez in yasadışı mülteciler için ağlaması",
+      "entry_id": "172266453",
+      "author": "bugununisiniyarinabirakanadam",
+      "date": "27.01.2025 21:38",
+      "content": "ulkene siktir olup gidebilirsin selena cim",
+      "has_external_url": false
+    },
+    {
+      "title": "selena gomez in yasadışı mülteciler için ağlaması",
+      "entry_id": "172266628",
+      "author": "artistic patinaj",
+      "date": "27.01.2025 21:44",
+      "content": "kurulu düzeni olmasa o da giderdi meksika'ya. samimiyetsiz karı.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:31:16.420039",
+    "total_entries": 2,
+    "input": "ypg son haftalarda ruslarla çalışıyor",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ypg son haftalarda ruslarla çalışıyor",
+      "entry_id": "58644440",
+      "author": "mutlu tuccar",
+      "date": "20.02.2016 16:41",
+      "content": "(bkz: thank you captain obvious)",
+      "has_external_url": false
+    },
+    {
+      "title": "ypg son haftalarda ruslarla çalışıyor",
+      "entry_id": "58644524",
+      "author": "istedikleri yere gidenler",
+      "date": "20.02.2016 16:46",
+      "content": "endiselenmemize gerek olmayan durum. akcomarlarin ulkeyi emanet ettigi stratejik dahi, eminim bu ihtimali de cok onceden degerlendirmis ve tum adimlarini buna gore atmistir.\n\naha buraya yaziyorum; daha basimiza cok felaketler gelecek ve bu halk, bunlarin hepsini hak ediyor. kemerleri baglayin ey osmanogullari.",
+      "has_external_url": false
+    }
+  ]
+}

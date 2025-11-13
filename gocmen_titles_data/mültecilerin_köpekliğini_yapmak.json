@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:55:03.617135",
+    "total_entries": 4,
+    "input": "mültecilerin köpekliğini yapmak",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "mültecilerin köpekliğini yapmak",
+      "entry_id": "149035554",
+      "author": "zeusun kudretli oglu",
+      "date": "10.02.2023 23:35 ~ 23:36",
+      "content": "ülkemizde çok sayıda olan küçük beyinliler tarafından icra edilen eylem.\n\ngenelde ek iş olarak ümmetçilik de yaparlar.",
+      "has_external_url": false
+    },
+    {
+      "title": "mültecilerin köpekliğini yapmak",
+      "entry_id": "149036030",
+      "author": "haluk34",
+      "date": "10.02.2023 23:41",
+      "content": "mülteci kopekligi yapanların boynuna takılacak tasmalardan vergi muafiyeti uygulanmali",
+      "has_external_url": false
+    },
+    {
+      "title": "mültecilerin köpekliğini yapmak",
+      "entry_id": "149036235",
+      "author": "hayatimin anlami",
+      "date": "10.02.2023 23:44",
+      "content": "köpekliğini yapanlara ne veriyorlar çok merak ediyorum.\n\ntarihe bakınca; osmanlı zamanında dışarıda görev yapan dedeleri böyleydi bunların. damarında biraz şerefli türk kanı olan bunları bu kadar savunmaz, savunamaz.",
+      "has_external_url": false
+    },
+    {
+      "title": "mültecilerin köpekliğini yapmak",
+      "entry_id": "149037483",
+      "author": "use your mind",
+      "date": "11.02.2023 00:00",
+      "content": "suser mülteci olmayan, geçici sığınmacıların köpekliğini yapan küçük beyinlileri kastetmiştir.",
+      "has_external_url": false
+    }
+  ]
+}

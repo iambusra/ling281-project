@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:42:00.750819",
+    "total_entries": 1,
+    "input": "48 ısparta kadar mülteciye sahip ülke",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "48 ısparta kadar mülteciye sahip ülke",
+      "entry_id": "164309254",
+      "author": "4440333",
+      "date": "11.05.2024 18:06",
+      "content": "işgal altındaki ülkedir.",
+      "has_external_url": false
+    }
+  ]
+}

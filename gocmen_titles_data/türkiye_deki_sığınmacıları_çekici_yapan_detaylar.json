@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:01:34.345811",
+    "total_entries": 2,
+    "input": "türkiye'deki sığınmacıları çekici yapan detaylar",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türkiye'deki sığınmacıları çekici yapan detaylar",
+      "entry_id": "136199093",
+      "author": "semsipasapasajindasesibuzusmeyen",
+      "date": "14.04.2022 15:30 ~ 15:30",
+      "content": "ağır işlerde sadece kendilerinin çalışıyor olması! onlar olmasa ağır işleri kim yapacak yahu bu ülkede! değil mi?\n\n(bkz: ironiyi anlamayan nesle aşina değilim)",
+      "has_external_url": false
+    },
+    {
+      "title": "türkiye'deki sığınmacıları çekici yapan detaylar",
+      "entry_id": "136199148",
+      "author": "qatal",
+      "date": "14.04.2022 15:31 ~ 15:32",
+      "content": "(bkz: capri)",
+      "has_external_url": false
+    }
+  ]
+}

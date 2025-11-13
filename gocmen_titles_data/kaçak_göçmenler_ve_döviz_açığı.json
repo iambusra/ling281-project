@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:16:35.469238",
+    "total_entries": 1,
+    "input": "kaçak göçmenler ve döviz açığı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "kaçak göçmenler ve döviz açığı",
+      "entry_id": "152828496",
+      "author": "frostguard",
+      "date": "26.05.2023 12:15 ~ 12:21",
+      "content": "geçen gün düşünürken aklıma gelen olay. bu kaçak göçmenler yurtdışına kaçarken ellerinde olan türk lirasını dövize çevirip kaçıyorlar.\nbununların yüzünden ülkede bulunan fiziksel döviz miktarı azalıyor.\nne kadar bunları tutmamız için bize para ödeniyor olsa bile o ödenen para kasa kasa türkiye'ye gelmiyor ama bunlar sayesinde kasa kasa döviz çıkıyor ülkeden.\nbunun ekonomiye darbesi ve zararı kesin vardır ama tam olarak bunun analizini yapabilecek birisi varsa sevinirim.\n\nmesaj kutuma gelen bilgi:\n\nistanbul da arapların bol olduğu kuyumculara yönelik bi iş merkezinde çalışıyorum. seçim belirsizliği ve \"geri göndereceğiz\" vaadlerinden korktukları için türkiyeden çıkış yapıyorlar. döviz bürolarının önü arap kaynıyor. duyumlarıma göre ellerinde tl'leri döviz yaptırıyorlarmış ve bu yüzden de dövizcilerde döviz kalmıyormuş.",
+      "has_external_url": false
+    }
+  ]
+}

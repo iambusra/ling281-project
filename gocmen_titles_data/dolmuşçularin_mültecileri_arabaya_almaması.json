@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:49:51.675444",
+    "total_entries": 2,
+    "input": "dolmuşçularin mültecileri arabaya almaması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "dolmuşçularin mültecileri arabaya almaması",
+      "entry_id": "139847068",
+      "author": "cnktgz",
+      "date": "11.07.2022 14:02",
+      "content": "tam olarak il/ilçe/semt ve mahalle bilgisi verirseniz yolumuz oraya düştüğünde bu dolmuşları kullanalım.",
+      "has_external_url": false
+    },
+    {
+      "title": "dolmuşçularin mültecileri arabaya almaması",
+      "entry_id": "139847148",
+      "author": "siskome",
+      "date": "11.07.2022 14:05",
+      "content": "(bkz: kaynak götüm yayınları)\nyazmaktan bıktığım şey.\nfitneci, yalancı bir aktroll den daha kötü bir şey dünya üzerinde yoktur.",
+      "has_external_url": false
+    }
+  ]
+}

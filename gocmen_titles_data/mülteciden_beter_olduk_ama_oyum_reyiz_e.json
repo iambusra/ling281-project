@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:42:56.079215",
+    "total_entries": 3,
+    "input": "mülteciden beter olduk ama oyum reyiz'e",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "mülteciden beter olduk ama oyum reyiz'e",
+      "entry_id": "128759705",
+      "author": "valonqar",
+      "date": "05.10.2021 14:42",
+      "content": "svihs",
+      "has_external_url": false
+    },
+    {
+      "title": "mülteciden beter olduk ama oyum reyiz'e",
+      "entry_id": "128759875",
+      "author": "carcharodoncarcharias",
+      "date": "05.10.2021 14:50",
+      "content": "protein eksikligi kalici hasarlar dogurur",
+      "has_external_url": false
+    },
+    {
+      "title": "mülteciden beter olduk ama oyum reyiz'e",
+      "entry_id": "128768655",
+      "author": "hayatinritmidokuzsekizdegilsekizalti",
+      "date": "05.10.2021 20:20",
+      "content": "izlemeyin evladım şunları. boş yere sağlığınızdan olmayın.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T15:56:35.060255",
+    "total_entries": 1,
+    "input": "akp'nin suriyelilere vatandaşlık verme arzusu",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "akp'nin suriyelilere vatandaşlık verme arzusu",
+      "entry_id": "102957379",
+      "author": "crane07",
+      "date": "03.03.2020 14:31",
+      "content": "mizahı",
+      "has_external_url": true
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:28:20.015445",
+    "total_entries": 1,
+    "input": "rusları sevmemek için nedenler",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rusları sevmemek için nedenler",
+      "entry_id": "106829995",
+      "author": "ontake",
+      "date": "09.05.2020 01:17",
+      "content": "ikiyüzlü millet, türk düşmanı, hep türklerin arkasından iş çevirdiler. tarihte tek istedikleri boğazları geçip sıcak denizlere inmek. azerbaycan'da hocalida ermenilere destek verip, döktükleri türk kaniydi. suriye'de türkmen dağını gece gündüz bombardıman uçakları ile katliam yapanlarda ruslardi. rus, fars, ermeni bunlar türk'ün düşmanı.",
+      "has_external_url": false
+    }
+  ]
+}

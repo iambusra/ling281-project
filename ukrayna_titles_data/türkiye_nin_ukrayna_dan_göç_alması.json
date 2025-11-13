@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:15:36.633962",
+    "total_entries": 1,
+    "input": "türkiye'nin ukrayna'dan göç alması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türkiye'nin ukrayna'dan göç alması",
+      "entry_id": "39914196",
+      "author": "lavalys",
+      "date": "24.01.2014 19:46",
+      "content": "ukrayna'daki olayların büyümesi ile yakın zamanda gerçekleşecektir. gençlerimizin gözü yollarda",
+      "has_external_url": false
+    }
+  ]
+}

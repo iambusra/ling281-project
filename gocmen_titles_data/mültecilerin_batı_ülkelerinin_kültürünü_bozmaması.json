@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:54:15.122069",
+    "total_entries": 1,
+    "input": "mültecilerin batı ülkelerinin kültürünü bozmaması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "mültecilerin batı ülkelerinin kültürünü bozmaması",
+      "entry_id": "162879719",
+      "author": "portekizli forvet",
+      "date": "28.03.2024 00:06",
+      "content": "batı'daki ırkçı köpeklerin mültecileri kovmak için neyi savunduğunu merak ettiren durum.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T15:33:10.536576",
+    "total_entries": 1,
+    "input": "akp'lileri işten çıkarıp suriyelileri işe almak",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "akp'lileri işten çıkarıp suriyelileri işe almak",
+      "entry_id": "49116195",
+      "author": "contravener",
+      "date": "12.02.2015 05:15",
+      "content": "ben olsam hangi vasıfsız iş gücünü tercih edeceğime bir türlü karar veremezdim. biri muhtaç, diğeri alık. ikisininde çok cazip yönleri var. allah iş verenlere kolaylık versin, seçenek bolluğu ile şımartmasın.",
+      "has_external_url": false
+    }
+  ]
+}

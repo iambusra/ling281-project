@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T15:59:26.975607",
+    "total_entries": 2,
+    "input": "14.07.2016 suriyelilerin levent kfc baskını",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "14.07.2016 suriyelilerin levent kfc baskını",
+      "entry_id": "61714886",
+      "author": "sokratesla16",
+      "date": "14.07.2016 12:31",
+      "content": "evet belki böyle bir hle yapılmış olabilir ama bunu engelleyecek olan bir sorumlu mutlaka vardır orada.\n\ngeçmiş olsun diyelim eğer olduysa.",
+      "has_external_url": false
+    },
+    {
+      "title": "14.07.2016 suriyelilerin levent kfc baskını",
+      "entry_id": "61714932",
+      "author": "hildor",
+      "date": "14.07.2016 12:34",
+      "content": "(bkz: kaynak götüm)",
+      "has_external_url": false
+    }
+  ]
+}

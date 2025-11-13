@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:27:17.501928",
+    "total_entries": 2,
+    "input": "antonov an 225'in ruslar tarafından vurulması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "antonov an 225'in ruslar tarafından vurulması",
+      "entry_id": "134288573",
+      "author": "okuram kalem yazmaz",
+      "date": "27.02.2022 18:40",
+      "content": "dünyanın en büyük kargo uçağı artık yok. birkaç gündür iddia ediliyordu ama kesin bir bilgi yoktu yakın zamanda resmi kaynaklar da bunu doğruladı.\n\ndünya havacılığının başı sağ olsun, eşi benzeri olmayan bir uçaktı. çok üzücü bir gelişme.\n\nhttps://twitter.com/…5in-vuruldugu-iddiasi.1873678/\n\nan-225 mriya (ukraynaca \"hayal) dünyanın en büyük kargo uçağıydı. rusya bizim'mriya'mızı yok etmiş olabilir. ancak güçlü, özgür ve demokratik bir avrupa devleti hayalimizi asla yıkamayacak. biz kazanacağız!\n\nukrayna dışişleri bakanı\n@dmytrokuleba",
+      "has_external_url": true
+    },
+    {
+      "title": "antonov an 225'in ruslar tarafından vurulması",
+      "entry_id": "134289042",
+      "author": "bezginpanda",
+      "date": "27.02.2022 18:53",
+      "content": "bu mühendislik harikası devasa uçağı vuran rus pilot kıçına kına yakabilir.",
+      "has_external_url": false
+    }
+  ]
+}

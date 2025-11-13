@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:25:20.393990",
+    "total_entries": 1,
+    "input": "türk kızına yüz vereceğine rusa 200 ver",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türk kızına yüz vereceğine rusa 200 ver",
+      "entry_id": "48176144",
+      "author": "gobek deliginde biriken pamuk",
+      "date": "05.01.2015 23:47",
+      "content": "kardeş pek komikmiş, allah bağışlasın",
+      "has_external_url": false
+    }
+  ]
+}

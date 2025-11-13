@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:15:51.457836",
+    "total_entries": 1,
+    "input": "ukrayna'nın yakında ab'ye vizesiz girmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukrayna'nın yakında ab'ye vizesiz girmesi",
+      "entry_id": "61043430",
+      "author": "nadaynix",
+      "date": "09.06.2016 21:52",
+      "content": "avrupa birliği, ukrayna'nın ab ülkeleriyle vizesiz rejim için gereken bütün şartları yerine getirdiğini açıkladı.\n\nukrayna cumhurbaşkanlığı basın servisi'nden bir açıklama yapıldı. yapılan açıklamada, avrupa parlamentosu başkanı martin schultz'un ukrayna cumhurbaşkanı petro poroşenko ile bir telefon görüşmesi gerçekleştirdiği ve bu konuşmada schultz'un poroşenko'ya, ukrayna'nın vizesiz rejim için bütün şartları yerine getirdiğini söylediği ve kendisinin önümüzdeki günlerde avrupa parlamentosu'nda gerekli kararın alınması konusunda elinden gelen çabayı göstereceğini belirttiği kaydedildi.\n\nayrıca almanya ve fransa içişleri bakanlığı bu karara tepki göstermişler. tabi biliyorlar ki kimse ukraynada yaşamak istemiyor ve en fazla göç alacak yer almanya ve fransa olucak. ayrıca polonya ve çek cumhuriyetine de inanılmaz bir göç akımı yaratıcak durumdur çünkü şuan da bile inanılmaz sayıda o ülkelerde ikamet ediyorlar.",
+      "has_external_url": false
+    }
+  ]
+}

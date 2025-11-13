@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:58:36.928195",
+    "total_entries": 2,
+    "input": "her 10 sığınmacıdan 8 inin geri dönmek istememesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "her 10 sığınmacıdan 8 inin geri dönmek istememesi",
+      "entry_id": "43959158",
+      "author": "somek kafali",
+      "date": "04.07.2014 20:31",
+      "content": "zevk meselesi, tarz meselesi.",
+      "has_external_url": false
+    },
+    {
+      "title": "her 10 sığınmacıdan 8 inin geri dönmek istememesi",
+      "entry_id": "43959350",
+      "author": "somek kafali",
+      "date": "04.07.2014 20:43",
+      "content": "(bkz: suriyeli sığınmacıların türkiye'de kalıcı olması)",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:46:24.247367",
+    "total_entries": 1,
+    "input": "suriye asıllı gençlerin siyasi görüşü",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriye asıllı gençlerin siyasi görüşü",
+      "entry_id": "174728579",
+      "author": "korcagin",
+      "date": "22.04.2025 03:52",
+      "content": "tez konusu olmaya aday bir sorunsaldır.\n\nistikrar dönemi olsa erdoğan türkiyesi'ne sadık kalmaları beklenirdi ama derinleşen ekonomik çöküşe tepki olarak tayyipçiliğe muhalif görüşleri benimseyenler olacaktır.",
+      "has_external_url": false
+    }
+  ]
+}

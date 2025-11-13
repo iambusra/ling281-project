@@ -1,0 +1,52 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:10:56.159044",
+    "total_entries": 5,
+    "input": "ukrayna ordusunun moskova'ya girmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukrayna ordusunun moskova'ya girmesi",
+      "entry_id": "42686112",
+      "author": "ancient mariner",
+      "date": "12.05.2014 12:41",
+      "content": "(bkz: yavaş gir de saçın başın dağılmasın)",
+      "has_external_url": false
+    },
+    {
+      "title": "ukrayna ordusunun moskova'ya girmesi",
+      "entry_id": "42686165",
+      "author": "miyora",
+      "date": "12.05.2014 12:44",
+      "content": "(bkz: öyle bir girmek ki anası sikilmek)",
+      "has_external_url": false
+    },
+    {
+      "title": "ukrayna ordusunun moskova'ya girmesi",
+      "entry_id": "42686213",
+      "author": "dostrodamus",
+      "date": "12.05.2014 12:46 ~ 12:47",
+      "content": "moskovayı boşversinler vize de sıkıntı çıkarırlar durduk yere.\n(bkz: vize istemeyen gidilesi ülkeler)",
+      "has_external_url": false
+    },
+    {
+      "title": "ukrayna ordusunun moskova'ya girmesi",
+      "entry_id": "42686373",
+      "author": "men kucik chomichmen",
+      "date": "12.05.2014 12:55",
+      "content": "rusya federasyonu ordusu ukrayna'yi alirsa, ukrayna ordusunu da yaninda moskova'ya goturebilir olacagindan, olmasi olabilecek olandir.",
+      "has_external_url": false
+    },
+    {
+      "title": "ukrayna ordusunun moskova'ya girmesi",
+      "entry_id": "42686435",
+      "author": "tiriska",
+      "date": "12.05.2014 12:59",
+      "content": "türkiye'nin abd ye girmesi ile eşdeğer olan durumdur.",
+      "has_external_url": false
+    }
+  ]
+}

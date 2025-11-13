@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:03:44.503463",
+    "total_entries": 1,
+    "input": "sığınmacılardan türk vatandaşlığı için 1500 dolar",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "sığınmacılardan türk vatandaşlığı için 1500 dolar",
+      "entry_id": "126338183",
+      "author": "sistakistik",
+      "date": "31.07.2021 06:06",
+      "content": "geçen doktor ziyaretimde isim-soyad sonrası klasik muhabbetler;nerelisin türkiyeliyim.wow nice istanbul beautiful blabla..sonra anlatmaya başladı,kendisinin türkiye ziyareti sırasında havaalanına iner inmez real estate agent dan bir kadının kendisini çevirip, katalogdan çeşitli arsa yazlık mülkler gösterdiğini,karşılığında citizenship haklarını sıraladığını anlattı.turkiye'yi en son ziyaret ettiginde dolar 6 miş gerisini siz düşünün yazlıklardan mülklerdeen $1500a hll:)",
+      "has_external_url": false
+    }
+  ]
+}

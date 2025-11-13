@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:55:34.360539",
+    "total_entries": 1,
+    "input": "i stanbul'da mültecilerin az olduğu yerler",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "i stanbul'da mültecilerin az olduğu yerler",
+      "entry_id": "138413994",
+      "author": "salvadoralii",
+      "date": "06.06.2022 17:58",
+      "content": "böyle kıyıda köşede kalmış, rahatça oturulabilecek yerler varsa yeşillendirin",
+      "has_external_url": false
+    }
+  ]
+}

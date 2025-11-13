@@ -1,0 +1,84 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:01:50.063298",
+    "total_entries": 9,
+    "input": "suriyelileri şimdi değilse ne zaman göndereceğiz",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelileri şimdi değilse ne zaman göndereceğiz",
+      "entry_id": "958120",
+      "author": "xenodike",
+      "date": "29.01.2002 21:52",
+      "content": "olmasi yakin olan ama henuz kesinlesmemis eylemler icin belirtilen zaman",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyelileri şimdi değilse ne zaman göndereceğiz",
+      "entry_id": "1000486",
+      "author": "purplehaze",
+      "date": "09.02.2002 18:08",
+      "content": "istiklal marşı nın beşinci kıtasının son dizesi.",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyelileri şimdi değilse ne zaman göndereceğiz",
+      "entry_id": "1000501",
+      "author": "daphne",
+      "date": "09.02.2002 18:14",
+      "content": "mehmet akif ersoy kelamı.\niddiasından belli değil mi?",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyelileri şimdi değilse ne zaman göndereceğiz",
+      "entry_id": "1208737",
+      "author": "mikado",
+      "date": "26.04.2002 12:47",
+      "content": "istiklal mar$i'nda gecen bir soz. ama asil, (bkz: cok yakiniz)",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyelileri şimdi değilse ne zaman göndereceğiz",
+      "entry_id": "1208742",
+      "author": "mengus",
+      "date": "26.04.2002 12:49",
+      "content": "bugün demeye çalışırken hece ölçüsü kurbanı olmak gibi bişey sanırım.",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyelileri şimdi değilse ne zaman göndereceğiz",
+      "entry_id": "17567383",
+      "author": "pirem",
+      "date": "20.12.2009 17:39",
+      "content": "belki yarın belki yarından da yarın diye de yorumlanabilecek söz.",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyelileri şimdi değilse ne zaman göndereceğiz",
+      "entry_id": "20269557",
+      "author": "ateistanbul",
+      "date": "09.09.2010 00:51 ~ 20.12.2010 05:15",
+      "content": "''maybe tomorrow, maybe sooner than tomorrow'' $eklinde ingilizce'de de gayet fonetik durduğunu fark ettim biraz önce. (bkz: special thanks to morkahve)",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyelileri şimdi değilse ne zaman göndereceğiz",
+      "entry_id": "23238390",
+      "author": "balkanlardangelensogukhavadalgasi",
+      "date": "27.04.2011 10:34",
+      "content": "insanın içine umut dolduran söz öbeği.",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyelileri şimdi değilse ne zaman göndereceğiz",
+      "entry_id": "70361991",
+      "author": "cikolataligofretim",
+      "date": "23.08.2017 10:09",
+      "content": "gelip benle konuşacaksın. biliyorum mutsuzsun. çok yakında konuşacaksın ya da pişmanlığını yüzünden okuyacam.",
+      "has_external_url": false
+    }
+  ]
+}

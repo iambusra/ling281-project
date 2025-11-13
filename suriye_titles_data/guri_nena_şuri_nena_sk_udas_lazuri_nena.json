@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-10T23:20:49.136139",
+    "total_entries": 1,
+    "input": "guri nena şuri nena sk'udas lazuri nena",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "guri nena şuri nena sk'udas lazuri nena",
+      "entry_id": "33190236",
+      "author": "asc",
+      "date": "10.04.2013 01:10",
+      "content": "lazca: \"yüreğin dili canın sesi, yaşasın lazların dili\".\n\nhttp://www.change.org/…gerekli-adımları-atın-lazuri",
+      "has_external_url": true
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:30:32.710282",
+    "total_entries": 4,
+    "input": "akp'nin suriyelileri göndermesi için gerekenler",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "akp'nin suriyelileri göndermesi için gerekenler",
+      "entry_id": "91821412",
+      "author": "saintly",
+      "date": "28.06.2019 00:43",
+      "content": "yerel seçimlerdeki ağıır yenilginin de yeterli olmadığını düşünürsek önümüzdeki ilk büyük genel ya da başkanlık seçimini kaybetmesi olabilir.\n\nsuriyeliler, akp'li elit zümre haricinde ülkedeki herkesin önemli konularından birisi. ancak akp'li yöneticilere bakıyorsun; hiç böyle bir sorun yokmuş gibi davranıyorlar. bu konunun gündemlerine girebilmesi ve çözüm aramaları için daha ağır yenilgi şart gibi duruyor.",
+      "has_external_url": false
+    },
+    {
+      "title": "akp'nin suriyelileri göndermesi için gerekenler",
+      "entry_id": "91821924",
+      "author": "globalwarning",
+      "date": "28.06.2019 00:52",
+      "content": "(bkz: başkanlık seçimini kaybeden partinin suriyelileri göndermek için bir dönem daha devam etmesi)",
+      "has_external_url": false
+    },
+    {
+      "title": "akp'nin suriyelileri göndermesi için gerekenler",
+      "entry_id": "91926462",
+      "author": "saintly",
+      "date": "30.06.2019 02:50",
+      "content": "(bkz: 29 haziran 2019 küçükçekmece olayları)\n\nmevcut olaylar sonrasında artık ciddi anlamda tartışılması gerekendir. ağır ekonomik krizin üzerine kontrolsüz 5 milyonluk suriyeli bu ülkeyi çok kötü yerlere götürecek gibi duruyor.",
+      "has_external_url": false
+    },
+    {
+      "title": "akp'nin suriyelileri göndermesi için gerekenler",
+      "entry_id": "143816027",
+      "author": "cc21",
+      "date": "12.10.2022 14:04",
+      "content": "gerekeni yapıyorlar\n\n(bkz: türkiye çok pahalı ülkemize dönüyoruz)\n\nşaka bir yana ekonomiyi bu yüzden batırdık deseler inanacak milyonlar var.",
+      "has_external_url": true
+    }
+  ]
+}

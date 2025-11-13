@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:30:46.068511",
+    "total_entries": 1,
+    "input": "rus milletini ruslardan daha çok seven millet",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rus milletini ruslardan daha çok seven millet",
+      "entry_id": "35101270",
+      "author": "uncle jun",
+      "date": "08.07.2013 21:36",
+      "content": "açık ara türk milleti'dir.",
+      "has_external_url": false
+    }
+  ]
+}

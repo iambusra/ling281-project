@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:26:11.689959",
+    "total_entries": 1,
+    "input": "göçmenlerin yurtdışına dolar çıkarması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "göçmenlerin yurtdışına dolar çıkarması",
+      "entry_id": "126757876",
+      "author": "no status",
+      "date": "10.08.2021 17:41",
+      "content": "karadeniz'de çay toplama işleminde afganlar, ev işlerinde çalışan özbekler, sanayide çalışan suriyeliler, çobanlık yapan göçmenler kazandıkları parayı ailelerine döviz olarak, yani dolar olarak çıkarıyor.\n\naslında, bizim zaten az olan dolarlarımız kasadan çıkmış oluyor.",
+      "has_external_url": false
+    }
+  ]
+}

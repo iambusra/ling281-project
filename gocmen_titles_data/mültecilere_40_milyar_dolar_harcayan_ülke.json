@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:51:21.079533",
+    "total_entries": 3,
+    "input": "mültecilere 40 milyar dolar harcayan ülke",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "mültecilere 40 milyar dolar harcayan ülke",
+      "entry_id": "104445576",
+      "author": "vladis",
+      "date": "30.03.2020 21:37 ~ 22:34",
+      "content": "salgınla mücadelede dua kullanır.\n\nnot: mod ellerin dert görmesin.",
+      "has_external_url": false
+    },
+    {
+      "title": "mültecilere 40 milyar dolar harcayan ülke",
+      "entry_id": "104445682",
+      "author": "selimisik",
+      "date": "30.03.2020 21:39",
+      "content": "milyon değil milyardır o. milyon olsa evde durabilirdin.",
+      "has_external_url": false
+    },
+    {
+      "title": "mültecilere 40 milyar dolar harcayan ülke",
+      "entry_id": "136476715",
+      "author": "ssg ve kanzuk ortak hesabi",
+      "date": "21.04.2022 10:49",
+      "content": "gündeme getirilmesi gereken ülkedir. şu enflasyonist ortamın yükünü biraz daha az hissedebilirmişiz demek ki. 40 milyar dolar çok büyük bi para, ülkenin tamamını ekonomik olarak rahatlatacak büyüklükte.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:21:14.210524",
+    "total_entries": 1,
+    "input": "krizin faturası göçmenlere kesilemez",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "krizin faturası göçmenlere kesilemez",
+      "entry_id": "139632975",
+      "author": "henkan",
+      "date": "05.07.2022 23:49",
+      "content": "boğaziçi mezuniyet törenindeki pankart.\n\ngörsel",
+      "has_external_url": true
+    }
+  ]
+}

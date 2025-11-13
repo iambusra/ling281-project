@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:28:41.539085",
+    "total_entries": 1,
+    "input": "klimaya rusları aldım geliyorum diye mesaj atmak",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "klimaya rusları aldım geliyorum diye mesaj atmak",
+      "entry_id": "24620793",
+      "author": "taklayamigeldiklan",
+      "date": "21.07.2011 21:23",
+      "content": "klimanın sıkça rastlamadığı bir durum olduğundan, hassas olan soğutma - ısıtma devrelerinin bozulmasına eve gelen rusların güzelliğinden, sicaklığından işlemcisinin bir şekilde yanmasına sebebiyet verebilecek olan durum.",
+      "has_external_url": false
+    }
+  ]
+}

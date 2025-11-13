@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:59:31.775447",
+    "total_entries": 1,
+    "input": "akıl hastası sığınmacının dövülüp ağaca bağlanması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "akıl hastası sığınmacının dövülüp ağaca bağlanması",
+      "entry_id": "60988282",
+      "author": "matilda effect",
+      "date": "07.06.2016 02:32",
+      "content": "21 yaşındaki ıraklı, dresden yakınlarındaki küçük bir kasabada süpermarket personeli ile bir mücadele içine giriyor, sonrasında kanunsuzlar' gibi siyahlar giyinmiş kişiler çıkıp adamı dövüyor.\nakıl hastası olduğu düşünülen genç ortak bir dil olmadığı için ve akıl sağlığı yerinden olmadığından durumu anlayamıyor ve iletişime geçmesi imkansız.\n\nangela merkel'in hıristiyan demokrat partisi meclis üyesinin bağlantılı olduğu bahsi geçiyor.\nbazı kaynaklarda ağaca bağlandığı belirtiliyor.\nevren gibi medeniyetin ilerliyor olması sonra yine içine göçmesi.\n\nvideo",
+      "has_external_url": true
+    }
+  ]
+}

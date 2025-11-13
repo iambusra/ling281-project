@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:27:41.699539",
+    "total_entries": 3,
+    "input": "ruslar sıcak denizlere indiğinde olacaklar",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ruslar sıcak denizlere indiğinde olacaklar",
+      "entry_id": "93241812",
+      "author": "kosnik",
+      "date": "29.07.2019 22:03",
+      "content": "ne yapacaksınız yani dünyayı mı ele geçireceksiniz diyerek merak ettiğim olaylardır. bu ne fetişmiş arkadaş yüzyıllardır bi bitmedi.",
+      "has_external_url": false
+    },
+    {
+      "title": "ruslar sıcak denizlere indiğinde olacaklar",
+      "entry_id": "93241898",
+      "author": "all son da all ur",
+      "date": "29.07.2019 22:05",
+      "content": "ülke soğuk ne yapsın adamlar...\n(bkz: yoksa silkmişim sıcak denizlerini)",
+      "has_external_url": false
+    },
+    {
+      "title": "ruslar sıcak denizlere indiğinde olacaklar",
+      "entry_id": "93241909",
+      "author": "hashim",
+      "date": "29.07.2019 22:05",
+      "content": "artık biz ılıman olan rusya'ya gideceğiz. şimdi onlar düşünsün",
+      "has_external_url": false
+    }
+  ]
+}

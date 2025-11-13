@@ -1,0 +1,52 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:45:16.822744",
+    "total_entries": 5,
+    "input": "türkiye'ye sallayan mültecinin dayak yemesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türkiye'ye sallayan mültecinin dayak yemesi",
+      "entry_id": "103209946",
+      "author": "weight26",
+      "date": "08.03.2020 17:59",
+      "content": "link\n\n--- spoiler ---\n\ntürkiye hakkında kullandığı ifadelerle tepkilere neden olan mülteci, yunanistan polisi tarafından dövülüp geri gönderildi.\n--- spoiler ---\n\nbir yorum yarmıştır: “biz de burada dövüp geri yollayalım. arafta kalsın ipne”",
+      "has_external_url": true
+    },
+    {
+      "title": "türkiye'ye sallayan mültecinin dayak yemesi",
+      "entry_id": "103210247",
+      "author": "f16 tersten saplar",
+      "date": "08.03.2020 18:07",
+      "content": "söylediği sözler doğru da olsa, (sonuçta birçok kişi bunları istemiyor) insan sınırı geçmeden böyle bir şeyi nasıl söyler diye merakta etmiyor değil. lan mal siktir git götünü kurtar da bari oradan söyle ne söyleyeceksen. şimdi seni burada biraz yorarlar koçum. iyi olmuş kusara bakma artık.",
+      "has_external_url": false
+    },
+    {
+      "title": "türkiye'ye sallayan mültecinin dayak yemesi",
+      "entry_id": "103210676",
+      "author": "altar72",
+      "date": "08.03.2020 18:17",
+      "content": "bunlar mülteci değil sömürgecidir gittikleri yeri sömürmeye, üretmeden tüketmeye yan gelip yatma amacı ile gitmektedirler .",
+      "has_external_url": false
+    },
+    {
+      "title": "türkiye'ye sallayan mültecinin dayak yemesi",
+      "entry_id": "103210882",
+      "author": "girabic",
+      "date": "08.03.2020 18:22",
+      "content": "yunan polisinin dövmesine bişey demiyorum ama pustu geri göndermese iyiymiş.\nbir sekiz yıl daha ekmek yer burda przevenk.",
+      "has_external_url": false
+    },
+    {
+      "title": "türkiye'ye sallayan mültecinin dayak yemesi",
+      "entry_id": "103211808",
+      "author": "ek0wless",
+      "date": "08.03.2020 18:46",
+      "content": "haberini gördüğümde çok üzüldüm, şerefsizler insan bizi de çağırır amk",
+      "has_external_url": false
+    }
+  ]
+}

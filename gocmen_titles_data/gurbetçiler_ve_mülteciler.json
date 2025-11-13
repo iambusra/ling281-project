@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:47:48.187936",
+    "total_entries": 1,
+    "input": "gurbetçiler ve mülteciler",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "gurbetçiler ve mülteciler",
+      "entry_id": "152927743",
+      "author": "sanchez morales",
+      "date": "28.05.2023 20:25",
+      "content": "ülkenin kaderini tayin eden tuzu kuru kesimdir.",
+      "has_external_url": false
+    }
+  ]
+}

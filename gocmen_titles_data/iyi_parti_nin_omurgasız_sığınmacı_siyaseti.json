@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:58:07.019030",
+    "total_entries": 2,
+    "input": "iyi parti'nin omurgasız sığınmacı siyaseti",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "iyi parti'nin omurgasız sığınmacı siyaseti",
+      "entry_id": "156881188",
+      "author": "faytonfayt",
+      "date": "18.09.2023 19:49",
+      "content": "iyi parti'yi bitiren temel etkenlerden biri.\n\nmeral akşener ve kurmayları sığınmacılar hakkında bir akp gibi bir zafer partisi gibi sürekli ağız değiştire değiştire kararsız seçmenin oyunu alamadılar.\n\nşu an seçmene sorsan, iyi parti sığınmacı istilası hakkında ne düşünüyor, diye. seçmenin hiçbir fikri yoktur.\n\nbu önemli mevzuda net bir fikir masaya koyamadıysan çıkıp da ben haklıydım aslında diyemezsin.",
+      "has_external_url": false
+    },
+    {
+      "title": "iyi parti'nin omurgasız sığınmacı siyaseti",
+      "entry_id": "156881374",
+      "author": "geckalmisyazar",
+      "date": "18.09.2023 19:54 ~ 19:57",
+      "content": "iyi parti'nin genel olarak “ne”ci olduğunu ben hala bilmiyorum. herhangi bir politikası konusunda dik duruş sergilemediği gibi sığınmacılar için de benzer davranmışlardır. bir kez altılı masadan kalktığında meral akşener hanımefendiyi “dik” gördük. orada da duruşu maalesef çok kısa sürdü.",
+      "has_external_url": false
+    }
+  ]
+}

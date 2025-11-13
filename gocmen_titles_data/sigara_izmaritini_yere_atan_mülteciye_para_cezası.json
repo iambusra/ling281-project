@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:42:49.657640",
+    "total_entries": 2,
+    "input": "sigara izmaritini yere atan mülteciye para cezası",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "sigara izmaritini yere atan mülteciye para cezası",
+      "entry_id": "56615225",
+      "author": "silikonlu melek",
+      "date": "30.11.2015 16:12 ~ 16:13",
+      "content": "olay tahmin edilecegi üzere almanya\"da geciyor. münih\"teki tren istasyonunun önünde nijeryali bir göcmeni takip eden dört sivil, adamin izmariti yere atmasi üzerine yanina gelip, yasam kurallarina aykiri hareket ettigini söyleyerek tutanak hazirliyor. kent idaresi de daha sonra söz konusu mülteciye tam tamina 75 euro ceza kesiyor. tam bir bürokrat almancasiyla yazilan ceza makbuzunu alan mülteci gercekten almanya\"da bulunduguna kanaat getiriyor:\n\nlink",
+      "has_external_url": true
+    },
+    {
+      "title": "sigara izmaritini yere atan mülteciye para cezası",
+      "entry_id": "56615320",
+      "author": "stadium arcadium",
+      "date": "30.11.2015 16:16",
+      "content": "eeee öyle başa böyle takke derler adama. ironik bir hikaye, weber'in ruhunu şad edercesine bürokrasinin rasyonelleşmesi örneği. zaten aldığınız üç beş adam, onları da yollamak için elinizden geleni esirgemeyin.",
+      "has_external_url": false
+    }
+  ]
+}

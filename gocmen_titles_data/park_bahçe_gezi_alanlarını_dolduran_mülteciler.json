@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:47:50.518085",
+    "total_entries": 1,
+    "input": "park bahçe gezi alanlarını dolduran mülteciler",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "park bahçe gezi alanlarını dolduran mülteciler",
+      "entry_id": "152780072",
+      "author": "antipartizann",
+      "date": "25.05.2023 00:16",
+      "content": "durumun vehametine katılıyorum ayrıca linkteki kız inanılmaz tatlı ya yok böyle bir şey. (bkz: swh)",
+      "has_external_url": false
+    }
+  ]
+}

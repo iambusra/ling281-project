@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:51:26.214772",
+    "total_entries": 1,
+    "input": "suriyeli mültecilere bilet alıyoruz kampanyası",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeli mültecilere bilet alıyoruz kampanyası",
+      "entry_id": "170877206",
+      "author": "arma yann tiersen",
+      "date": "09.12.2024 15:30",
+      "content": "geldiler baktık, giderken bari bakmayalım, bir şekilde kendileri gitsin artık amk.",
+      "has_external_url": false
+    }
+  ]
+}

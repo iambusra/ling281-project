@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:15:36.670917",
+    "total_entries": 1,
+    "input": "tır dolusu kaçak göçmenin polis görünce kaçması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "tır dolusu kaçak göçmenin polis görünce kaçması",
+      "entry_id": "112317181",
+      "author": "fakulte kantini",
+      "date": "30.08.2020 21:22",
+      "content": "artık bende kayış koptu. baya bir kahkaha attım. xd",
+      "has_external_url": false
+    }
+  ]
+}

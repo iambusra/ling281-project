@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:58:41.571806",
+    "total_entries": 1,
+    "input": "suriyelilere bayram öncesi gıda yardımı yapılması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelilere bayram öncesi gıda yardımı yapılması",
+      "entry_id": "139617900",
+      "author": "agzimeksidi",
+      "date": "05.07.2022 16:23",
+      "content": "gaziantep'te suriyelilere gıda kolisi yardımı yapılmış. türk vatandaşı olmaktansa suriye vatandaşı olup türkiye' ye mülteci olarak gelmek lazım galiba.\n\nlink",
+      "has_external_url": true
+    }
+  ]
+}

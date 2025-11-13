@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:33:51.995378",
+    "total_entries": 3,
+    "input": "türkiye'deki rusların savaş için para toplaması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türkiye'deki rusların savaş için para toplaması",
+      "entry_id": "148535932",
+      "author": "tertibibend",
+      "date": "03.02.2023 14:56",
+      "content": "ülkesindeki seferberlikten kaçarak türkiye'ye gelen rusların ukrayna'ya karşı \"zafere bir adım\" sloganıyla para toplamaya başlaması olayı.\n\nseferberlik başlayınca o çok sevip mütemadiyen edebiyatını yaptıkları \"anavatanlarını\" bırakıp kaçan, yoğun olarak antalya'da kümelenen ve çokça mülk satın alan ruslar; putin'in ordusunu finanse etmek için ziraat bankası hesaplarında para toplamaya başlamış. kaynak\n\nmadem ordunuzu desteklemeyi bu kadar istiyorsunuz, def olun gidin memleketinize birader.\n\nmuhittin böcek'in bunlardan söz ederken \"rusça konuşan vatandaşlar\" falan demesi acayip sinirlerimi bozmuştu. inşallah bunlara vatandaşlık falan verilmiyordur. herifler rusya'ya, hatta doğrudan putin rusyası'na sadakat duyuyorlar. yarın öbür gün -daha önce olduğu gibi- ruslarla çatışmaya başladımızda, ruslar askerlerimizi şehit etmeye başladıklarında bu heriflerin hiçbirine itimat edilmez.",
+      "has_external_url": true
+    },
+    {
+      "title": "türkiye'deki rusların savaş için para toplaması",
+      "entry_id": "148536088",
+      "author": "duodenum ulseri",
+      "date": "03.02.2023 15:01 ~ 15:02",
+      "content": "madem destek olmak istiyorsun kendi askerine git cephede yap bişeyler.\nhiç olmadı bulaşık yıka patates soy burada vatansevermiş gibi davranmaya gerek yok.",
+      "has_external_url": false
+    },
+    {
+      "title": "türkiye'deki rusların savaş için para toplaması",
+      "entry_id": "148543315",
+      "author": "anarkoholding",
+      "date": "03.02.2023 18:41",
+      "content": "74 kibris cikartmasi icin para toplayan gurbetcileri de ayni gözle gören suser'i rahatsiz eden toplama.",
+      "has_external_url": false
+    }
+  ]
+}

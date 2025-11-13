@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:25:30.288210",
+    "total_entries": 1,
+    "input": "dünya kadınlar gününde rusa gitmek",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "dünya kadınlar gününde rusa gitmek",
+      "entry_id": "27615349",
+      "author": "beneklikelebek",
+      "date": "02.03.2012 01:35",
+      "content": "feministleri kızdırması muhtemel eylem.\n\nkaynak",
+      "has_external_url": true
+    }
+  ]
+}

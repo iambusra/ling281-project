@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:24:20.383070",
+    "total_entries": 1,
+    "input": "ukraynalıların apaçi olması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukraynalıların apaçi olması",
+      "entry_id": "74279776",
+      "author": "swollenmember",
+      "date": "17.02.2018 01:01",
+      "content": "amerikanın yerlisi olmalarındandır.\ne devletten soy bilgisine bakmışlar öyle çıkmış.",
+      "has_external_url": false
+    }
+  ]
+}

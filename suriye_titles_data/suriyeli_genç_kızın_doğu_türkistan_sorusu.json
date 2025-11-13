@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:49:08.691032",
+    "total_entries": 1,
+    "input": "suriyeli genç kızın doğu türkistan sorusu",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeli genç kızın doğu türkistan sorusu",
+      "entry_id": "172229439",
+      "author": "vay da vay",
+      "date": "26.01.2025 17:29",
+      "content": "abd'de yayınlanan canlı yayın programında suriyeli bir genç kızın çinli siyasetçiye doğu türkistan'da yaşayan türklere uygulanan çin zulmü hakkında sorduğu soru.\nçinli siyasetçi bayağı kıvranmış ve zor anlar yaşamış.\nvideo: https://x.com/…ildijital/status/1882692311018045678",
+      "has_external_url": true
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-10T23:52:12.972995",
+    "total_entries": 1,
+    "input": "16 temmuz 2022 kızılay sığınmacı vakası",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "16 temmuz 2022 kızılay sığınmacı vakası",
+      "entry_id": "140092865",
+      "author": "sciarrino",
+      "date": "17.07.2022 10:30",
+      "content": "kontrolsüz göçün en tehlikeli yanı, göç edenleri topluma entegre edememektir ve bu çok büyük bir tehlikedir. (gerçi bizim toplumumuz da az tehlikeli değil ya hadi neyse) ne yazık ki ucu kaçmış bir süreç. geri dönüşü olduğunu da düşünmüyorum. ancak başlığı açarken, başlık sahibinin haberi, nefret söylemli ile sunması ortadaki haberin etkisini azaltıyor. böyle önemli durumlarda insanların taraftarlığına yönelik vurgular yapmamak lazım.",
+      "has_external_url": false
+    }
+  ]
+}

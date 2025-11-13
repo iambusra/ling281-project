@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:25:37.690213",
+    "total_entries": 2,
+    "input": "çaresiz kalınca rusa başvurma",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "çaresiz kalınca rusa başvurma",
+      "entry_id": "6456631",
+      "author": "loknar",
+      "date": "09.12.2004 00:55",
+      "content": "- caresiz kalinca rusa ba$vurma\n- ya ne yapayim!?\n- bilemem, ama aids maids kaparsin neme lazim..\n- dogru diyosun...\n\ngibi diyaloglar ba$latan uyari cumlesi..\n(bkz: baslik acarken dikkat edilecek hususlar)",
+      "has_external_url": false
+    },
+    {
+      "title": "çaresiz kalınca rusa başvurma",
+      "entry_id": "6456685",
+      "author": "insomniac",
+      "date": "09.12.2004 01:04",
+      "content": "-merhaba ben çok çaresizim.\n-zbana neia.\n-efendim?\n-bana ne kardeşim.\n-demişlerdi ki bana çok çaresiz kalırsan rusa başvur.\n-dhangia konuda zçaressine?\n-hı?\n-hangi konuda çaresizsin diyorum.\n-abazayim ben.\n-anliyorum. ama sanirim daha seçici davranmalısın bu konuda.\n-nasıl yani?\n-mesela herhangi bir rusa değil, bir rus kadınına başvurabilirsin, ya da bir rus hayat kadını olabilir. bana başvuracak kadar da çaresiz değilsin sanirim.\n-hmm evet, ben yanlış anlamışım sanırım.\n-da.",
+      "has_external_url": false
+    }
+  ]
+}

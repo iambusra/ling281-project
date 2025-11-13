@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:27:15.911565",
+    "total_entries": 2,
+    "input": "ruslar kötü değildir putin ve ekibi tartışılır",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ruslar kötü değildir putin ve ekibi tartışılır",
+      "entry_id": "134356587",
+      "author": "conversiyon",
+      "date": "01.03.2022 09:04 ~ 09:10",
+      "content": "kendini bilmez bir kaç rus un yaptığını bütün ruslara mal etmemek lazım. diyor",
+      "has_external_url": false
+    },
+    {
+      "title": "ruslar kötü değildir putin ve ekibi tartışılır",
+      "entry_id": "134357935",
+      "author": "cavbella34",
+      "date": "01.03.2022 09:57",
+      "content": "putin kötü değildir, çevresi kötüdür. ukrayna yenilgisini, muhtemelen samara veya soçi valisi açıklayacaktır. bu arada putin bir iki hafta ortadan kaybolacaktır. bu size bir yerlerden tanıdık geliyor mu?",
+      "has_external_url": false
+    }
+  ]
+}

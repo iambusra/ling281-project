@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:18:03.147070",
+    "total_entries": 3,
+    "input": "abd'nin göçmenleri uçaktan akdenize attığı iddiası",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "abd'nin göçmenleri uçaktan akdenize attığı iddiası",
+      "entry_id": "176499203",
+      "author": "knightofcydonia",
+      "date": "02.07.2025 15:00 ~ 15:13",
+      "content": "sosyal medyada olduğu kadar bazı ayrıntıları geleneksel basında da yer alan iddia.\n\niddiaya göre abd göç ve gümrük icra kurumu ice (the immigration and customs enforcement) uçağı kanunsuz göçmenleri sudan'a götürmek üzere yola çıktı. ancak sudan hükumeti uçağın ülkeye vardığını tasdiklemedi.\n\nice uçağı boş bir şekilde geri döndü.\n\nbir kaç gün sonra ise ispanyol ve amerikan ortak nato hava üssünün bulunduğu bölgeye yakın güney sahilleri ve özellikle majorca kıyısına eli ve kolu bağlanmış cesetler vurdu.\n\nher ne kadar geleneksel basında bu olayın artık sürekli hale geldiği ve kaçakçılar tarafından işlenebileceği yazsa da bu seferki eli, kolu bağlı göçmenlerin toplu halde sahillere vurması ve özellikle tatil yapanların yüzdüğü sahillerde 5erli halde bulunarak turistleri paniğe sevk etmesi yetkilileri özel bir soruşturmaya itmiş. cbs news haberi\n\nbu olay şimdilik twitter komplosu (ateş olmayan yerden duman çıkmaz) gibi dursa da trump yönetiminin neredeyse sınırsız yetkiler tanıdığı ice'ın bunu asla yapmayacağını söylemek oldukça güç.",
+      "has_external_url": true
+    },
+    {
+      "title": "abd'nin göçmenleri uçaktan akdenize attığı iddiası",
+      "entry_id": "176499296",
+      "author": "rantci yandas muteahhit",
+      "date": "02.07.2025 15:05",
+      "content": "eldeki veriler doğruysa olmuş gibi görünen olay. en azından bir terslik olduğu kesin.",
+      "has_external_url": false
+    },
+    {
+      "title": "abd'nin göçmenleri uçaktan akdenize attığı iddiası",
+      "entry_id": "176499333",
+      "author": "x68000",
+      "date": "02.07.2025 15:07",
+      "content": "gerçek kabul ettiğim olay. guantanamo, ebu gureyb, afganistan, ırak, yahudiler üzerinden gazze, az geçmişte vietnem... yapmadığı vahşet yok bu kâfirlerin, bunu da yapmıştırlar, yakışır.",
+      "has_external_url": false
+    }
+  ]
+}

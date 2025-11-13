@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:13:25.822652",
+    "total_entries": 2,
+    "input": "üç suriyelinin çocuğun gözünü çıkartması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "üç suriyelinin çocuğun gözünü çıkartması",
+      "entry_id": "108586794",
+      "author": "ardacanbb",
+      "date": "09.06.2020 15:56 ~ 15:57",
+      "content": "kars'ta su almak için çeşmeye giden 11 yaşındaki yusuf aktaş, 3 suriyeli çocuğun su sıçrattın bahanesiyle saldırısına uğradı. olayı anlatan yusuf aktaş, iki kişinin kendisini tuttuğunu diğerinin elindeki sopayı gözüne soktuğunu belirtti. 11 yaşındaki aktaş, sağ gözündeki kaybın sol gözünü de etkilememesi için tedavi edilmek istiyor.\n\nhttps://www.lha.com.tr/…ufun-gozunu-oydu-19886h.htm\n\nfotoğraflar içimi parçaladı. günahı bunları ülkeye alanların boynuna, çocuğun psikolojisi, hayatı mahvoldu.",
+      "has_external_url": true
+    },
+    {
+      "title": "üç suriyelinin çocuğun gözünü çıkartması",
+      "entry_id": "108591144",
+      "author": "mutlubey",
+      "date": "09.06.2020 17:34",
+      "content": "tam tersi olsa arapçılar nasıl yaygara yapıyordu. şimdi bu olay maalesef hiç konuşulmayacak",
+      "has_external_url": false
+    }
+  ]
+}

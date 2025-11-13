@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:10:46.097602",
+    "total_entries": 3,
+    "input": "80 bin göçmeni sınır dışı edeceğiz",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "80 bin göçmeni sınır dışı edeceğiz",
+      "entry_id": "92974590",
+      "author": "vicilantist",
+      "date": "23.07.2019 14:29",
+      "content": "5.000.000 - 80.000 = 6.000.000\n\n(bkz: sense of possibility)\n(bkz: quantum mechanics)",
+      "has_external_url": false
+    },
+    {
+      "title": "80 bin göçmeni sınır dışı edeceğiz",
+      "entry_id": "92974675",
+      "author": "how you remind me",
+      "date": "23.07.2019 14:32",
+      "content": "80 bin çok... 1000 yeter\n\nağam bizimle eylenir",
+      "has_external_url": false
+    },
+    {
+      "title": "80 bin göçmeni sınır dışı edeceğiz",
+      "entry_id": "92975470",
+      "author": "gogacan",
+      "date": "23.07.2019 14:51",
+      "content": "ah istanbul ah.",
+      "has_external_url": false
+    }
+  ]
+}

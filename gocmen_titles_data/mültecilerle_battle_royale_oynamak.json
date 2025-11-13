@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:52:53.516172",
+    "total_entries": 2,
+    "input": "mültecilerle battle royale oynamak",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "mültecilerle battle royale oynamak",
+      "entry_id": "136999084",
+      "author": "the apple",
+      "date": "04.05.2022 14:55",
+      "content": "100 tane davarı adaya atıp kazanana vatandaşlık ve beyaz tenli kadın vereceğiz sözüyle birbirine kırdırarak mülteci sorununu eğlenceli bir şekilde çözebiliriz\npreviously on liveleak",
+      "has_external_url": false
+    },
+    {
+      "title": "mültecilerle battle royale oynamak",
+      "entry_id": "137047644",
+      "author": "the apple",
+      "date": "05.05.2022 15:43",
+      "content": "(bkz: 5 mayıs 2022 sığınmacılarla dolu vapur videosu)",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:30:21.016690",
+    "total_entries": 3,
+    "input": "ruslarda görülen türk travması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ruslarda görülen türk travması",
+      "entry_id": "56947040",
+      "author": "filth01",
+      "date": "14.12.2015 08:56",
+      "content": "yaklaşık bir yüzyıl önce ruslar tarafından kışkırtılan ermenilerde görülen türk travması ile benzeşen travma. ermeniler de türk denince soykırımı yapıştırıyor, hatta ermeni bir tanıdığı olan herhangi bir yabancı da yapıştırıyor soykırımı. vardır yoktur bilemem, bana tam anlamıyla bir soykırım hareketi gibi gelmiyor ama müdahil olmuyorum hiç. \"o osmanlı devletiydi, ben bilmem, ben türkiye vatandaşıyım\" deyip sıyrılıyorum. zaten dümdüz soykırım iddia eden yabancılarda da \"lan siz fes takmıyo musunuz farklı devlet nereden çıktı senin deven nerde\" kıvamında bir kafa karışıklığı oluyor.\n\nnereye varacağım? bundan 100 yıl sonra da ruslarda ermenilere benzer tepkiler gösterirse çok yazık olur. bu nefret tohumları birileri tarafından ekiliyor, insanlar da ister istemez o tohumu yetiştiriyor, dallı budaklı ağaç ediyor. oysa daha filizlenmeden topraktan söküp atmak gerek onu.",
+      "has_external_url": false
+    },
+    {
+      "title": "ruslarda görülen türk travması",
+      "entry_id": "56947178",
+      "author": "aaritalolo",
+      "date": "14.12.2015 09:06",
+      "content": "(bkz: kocaman savaş gemisiyle balıkçı teknesine atar yapmak)",
+      "has_external_url": false
+    },
+    {
+      "title": "ruslarda görülen türk travması",
+      "entry_id": "56947275",
+      "author": "okuyucu olmak da iyi be",
+      "date": "14.12.2015 09:13",
+      "content": "(bkz: nataşa çoh hojdır emme ben almiyrem)",
+      "has_external_url": false
+    }
+  ]
+}

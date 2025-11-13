@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:17:57.356132",
+    "total_entries": 1,
+    "input": "yunan zulmüne uğrayan selanik göçmenleri",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "yunan zulmüne uğrayan selanik göçmenleri",
+      "entry_id": "179078019",
+      "author": "eurasia",
+      "date": "12.10.2025 22:00",
+      "content": "selanik göçmeni kadın, ailesinin yunanistan’da yaşadığı zulmü anlattı.\n\nx - video",
+      "has_external_url": true
+    }
+  ]
+}

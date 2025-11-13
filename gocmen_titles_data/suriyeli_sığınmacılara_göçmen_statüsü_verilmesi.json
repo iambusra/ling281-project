@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:02:59.442467",
+    "total_entries": 1,
+    "input": "suriyeli sığınmacılara göçmen statüsü verilmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeli sığınmacılara göçmen statüsü verilmesi",
+      "entry_id": "97647722",
+      "author": "kosedekivelet",
+      "date": "11.11.2019 13:45",
+      "content": "verilmesin ve verileceğini de sanmıyorum.\nçünkü sayıları 4 milyonu geçti.\nülke ekonomisi batsa da geriye de gitsek bir şekil de suriyeliler kontrol altına alıp belirli bir bölge oluşturulmalı ve daha sonra gözetim altında göndermeliyiz.",
+      "has_external_url": false
+    }
+  ]
+}

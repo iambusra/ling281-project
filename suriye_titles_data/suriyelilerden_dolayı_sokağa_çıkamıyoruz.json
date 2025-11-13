@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:57:19.217400",
+    "total_entries": 3,
+    "input": "suriyelilerden dolayı sokağa çıkamıyoruz",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelilerden dolayı sokağa çıkamıyoruz",
+      "entry_id": "85063812",
+      "author": "raphaelvesta",
+      "date": "03.01.2019 01:56",
+      "content": "(bkz: svihs)",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyelilerden dolayı sokağa çıkamıyoruz",
+      "entry_id": "85063912",
+      "author": "freaksofcock",
+      "date": "03.01.2019 01:58",
+      "content": "tüm suriyelilerin ta amk yaşamayı haketmiyorlar resmen ...",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyelilerden dolayı sokağa çıkamıyoruz",
+      "entry_id": "85064488",
+      "author": "olivie",
+      "date": "03.01.2019 02:21",
+      "content": "biz de işsizlikten, parasızlıktan çıkamıyoruz!",
+      "has_external_url": false
+    }
+  ]
+}

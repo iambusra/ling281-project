@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:48:53.880444",
+    "total_entries": 3,
+    "input": "mültecileri köle olarak çalıştırmak",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "mültecileri köle olarak çalıştırmak",
+      "entry_id": "136998617",
+      "author": "the apple",
+      "date": "04.05.2022 14:44",
+      "content": "(bkz: mültecileri göndermeyene oy moy yok)\n\nmültecileri geri postalamaya alternatif olarak başlarına asker dikip beleş işgücü olarak kullanmak da güzel bir alternatif olabilir zaten kadın ve çocuk gelmiyor aq.\nbu sayede tünelin ucu bombok bir yere çıkıyor diye gelmekten de vazgeçenler olur.\nevet ırkçıyım",
+      "has_external_url": false
+    },
+    {
+      "title": "mültecileri köle olarak çalıştırmak",
+      "entry_id": "137047598",
+      "author": "the apple",
+      "date": "05.05.2022 15:42 ~ 15:43",
+      "content": "(bkz: 5 mayıs 2022 sığınmacılarla dolu vapur videosu)",
+      "has_external_url": false
+    },
+    {
+      "title": "mültecileri köle olarak çalıştırmak",
+      "entry_id": "162043344",
+      "author": "siriusunkalbi",
+      "date": "01.03.2024 10:01",
+      "content": "lincoln yaşasa ve türkiyeyi görse bir kısmını kendisi isteyip kölesi yapardı bu tipleri.\n\neyy tayyip kalk ayağa her eve bir zindan ve bir köle sözü ver. bizde gidip kuruma oy verelim.",
+      "has_external_url": false
+    }
+  ]
+}

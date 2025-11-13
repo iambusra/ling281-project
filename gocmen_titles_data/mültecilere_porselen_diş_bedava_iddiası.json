@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:51:33.229866",
+    "total_entries": 3,
+    "input": "mültecilere porselen diş bedava iddiası",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "mültecilere porselen diş bedava iddiası",
+      "entry_id": "133561825",
+      "author": "summerof69",
+      "date": "10.02.2022 18:09",
+      "content": "tweet'in altina da benzerleri yazildigi icin gercek olduguna dair suphe duyulmamali.",
+      "has_external_url": false
+    },
+    {
+      "title": "mültecilere porselen diş bedava iddiası",
+      "entry_id": "133561844",
+      "author": "serdarsl 06",
+      "date": "10.02.2022 18:10 ~ 18:11",
+      "content": "bedava altın diş yapmadığımız için şükrediyorum. en azından porselenle yırttık.",
+      "has_external_url": false
+    },
+    {
+      "title": "mültecilere porselen diş bedava iddiası",
+      "entry_id": "133561970",
+      "author": "oaaa",
+      "date": "10.02.2022 18:15",
+      "content": "nefreti körüklemeye dayalı yalan haber.\n\ngerçek bilgilere ulaşmak isteyenler için link",
+      "has_external_url": true
+    }
+  ]
+}

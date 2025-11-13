@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:25:00.580227",
+    "total_entries": 1,
+    "input": "durdurulan araçtan kaçak göçmenlerin çıkması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "durdurulan araçtan kaçak göçmenlerin çıkması",
+      "entry_id": "155715772",
+      "author": "mitokondrisi calinmis okaryotik hucre",
+      "date": "16.08.2023 19:16",
+      "content": "şanlıurfa'da durdurulan araçtan kaçak göçmenlerin çıkması olayıdır. kaçaklar fıstık bahçelerine kaçmışlar bir de.\n\nkaynak",
+      "has_external_url": true
+    }
+  ]
+}
