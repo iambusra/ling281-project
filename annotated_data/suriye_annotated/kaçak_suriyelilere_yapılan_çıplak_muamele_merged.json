@@ -1,0 +1,113 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:43:20.951195",
+    "total_entries": 8,
+    "input": "kaçak suriyelilere yapılan çıplak muamele",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "kaçak suriyelilere yapılan çıplak muamele",
+      "entry_id": "167316947",
+      "author": "spin attim yalnizliga",
+      "date": "13.08.2024 14:53",
+      "content": "dümdüz gönderin arkadaş bu atraksiyonlara girmek haklıyken haksız durumuna düşmemize neden olur. kimse bu muameleyi hak etmez. insani kurallar içinde hamle yapmak lazım her zaman.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "kaçak suriyelilere yapılan çıplak muamele",
+      "entry_id": "167317004",
+      "author": "kgnnlb",
+      "date": "13.08.2024 14:55",
+      "content": "allahsızlık görüp burada yazan lavuğu da koyun yanlarına.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "kaçak suriyelilere yapılan çıplak muamele",
+      "entry_id": "167317061",
+      "author": "nakiera",
+      "date": "13.08.2024 14:58 ~ 15:17",
+      "content": "gizli gay misiniz, nesiniz? nedir bu saçmalık?\n\nek: yunan topraklarından türkiye' ye geri postalanırken çekilmiş görüntüler. yorumum aynı.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "SEXUAL"
+      ]
+    },
+    {
+      "title": "kaçak suriyelilere yapılan çıplak muamele",
+      "entry_id": "167317128",
+      "author": "terminus yerlisi",
+      "date": "13.08.2024 15:00",
+      "content": "en arkada koşan donu kurtarabildiğine göre iyi hal indirimi almış herhalde.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "kaçak suriyelilere yapılan çıplak muamele",
+      "entry_id": "167317132",
+      "author": "barzo babba",
+      "date": "13.08.2024 15:00",
+      "content": "gelmesinler buraya",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "kaçak suriyelilere yapılan çıplak muamele",
+      "entry_id": "167317404",
+      "author": "lucklucki",
+      "date": "13.08.2024 15:10",
+      "content": "yunanistanin yaptiginin yaninda odul gibi birsey olmus.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "kaçak suriyelilere yapılan çıplak muamele",
+      "entry_id": "167317755",
+      "author": "mr priapos",
+      "date": "13.08.2024 15:23 ~ 15:33",
+      "content": "haahaahahha iyi güldüm yaa.\n\nbeğenmeyen arkadaşları da suriye'ye gönderelim. giyinik vaziyette de gidebilirler sıkıntı yok.\n\nahlaksız orospu çocukluğu diyenin de ahlaksızlık ve orospu çocukluğu nedir bilmeyen bi ahlaksız o.çocuğu olması muhtemeldir.\n\ntanım: sınırlarımızı ihlal edenlere nihayet hak ettikleri muamelenin gösterilmesi.\n\nedit: çoğul ekleri.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "kaçak suriyelilere yapılan çıplak muamele",
+      "entry_id": "167318198",
+      "author": "reackless",
+      "date": "13.08.2024 15:38 ~ 15:39",
+      "content": "sosyal medyanın her sunduğuna pek inanmamak lazım.\nbazen hümanist damarlarım tutuyor ve ne kadar sevmesem de, istemesem de kimsenin böyle durumlara düşmesini istemem.\nistediğimiz insanları aşağılamadan, doğru düzgün içeri girmelerini engelleyin, kaçanları da adam gibi geri gönderin.\nbazen de “kim bilir ne yaptılar” diye kinci damarlarım tutuyor.\nofff bilemiyorum altan… dünya kötü.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY",
+        "HUMAN"
+      ]
+    }
+  ]
+}

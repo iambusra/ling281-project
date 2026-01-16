@@ -1,0 +1,169 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:10:01.154960",
+    "total_entries": 13,
+    "input": "rusya'nın ukrayna'ya girmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rusya'nın ukrayna'ya girmesi",
+      "entry_id": "48545167",
+      "author": "unexpectedparadox",
+      "date": "19.01.2015 22:09",
+      "content": "ukrayna başbakanı'nın, \"rus silahlı güçleri işgale başladı\" şeklinde yaptığı beyandır.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rusya'nın ukrayna'ya girmesi",
+      "entry_id": "48545493",
+      "author": "nowadaysalways",
+      "date": "19.01.2015 22:21",
+      "content": "(bkz: beginning of inception) (bkz: or not)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rusya'nın ukrayna'ya girmesi",
+      "entry_id": "48545910",
+      "author": "monreve",
+      "date": "19.01.2015 22:36",
+      "content": "sığamaması ile sonuçlanır",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rusya'nın ukrayna'ya girmesi",
+      "entry_id": "48545981",
+      "author": "incity",
+      "date": "19.01.2015 22:38",
+      "content": "kaynak\n\naslında her gün olan gelişmelerden özel bir durum olmadığı da bir gerçektir. bu aralar oluyor hep.",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rusya'nın ukrayna'ya girmesi",
+      "entry_id": "48546206",
+      "author": "turchenka",
+      "date": "19.01.2015 22:45",
+      "content": "dünyanın böyle bir birleşime hazır olmadığı aşikardır. zira yürek dayanmaz",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rusya'nın ukrayna'ya girmesi",
+      "entry_id": "48546492",
+      "author": "bezdarniy",
+      "date": "19.01.2015 22:55",
+      "content": "kaynak götüm gibi bir kaynakla doğrulanmaya çalışılan olmayan durum.\namk kodumun ukraynalı faşist köpeklerinin bu kadar ağlak olduğunu bilmiyordum. orospu çocukları birde yüzleri kızarmadan kendikerini kahraman gibi göstererek donetsk ve lugansk'ı kurtarmaya gittiklerini söylemiyorlar mı...\n\n(bkz: putinin götünün kılıyık)\nşaka lan şaka onun da amk. olan sivil halka oluyor ona üzülüyorum.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "rusya'nın ukrayna'ya girmesi",
+      "entry_id": "48547355",
+      "author": "datlikelimeler",
+      "date": "19.01.2015 23:27",
+      "content": "bir çok türk işçinin, hiç günahı yokken ekmeğinden olmasına neden olmuş vakadır.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "ECON"
+      ]
+    },
+    {
+      "title": "rusya'nın ukrayna'ya girmesi",
+      "entry_id": "64028222",
+      "author": "fosterr",
+      "date": "11.11.2016 13:31",
+      "content": "abd başkanlık seçimlerinden hemen sonra olması düşündürücü:)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rusya'nın ukrayna'ya girmesi",
+      "entry_id": "64028297",
+      "author": "free flight",
+      "date": "11.11.2016 13:35",
+      "content": "(bkz: ukrayna'nın rusya'dan çıkması)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rusya'nın ukrayna'ya girmesi",
+      "entry_id": "130340270",
+      "author": "umutismet",
+      "date": "22.11.2021 13:26",
+      "content": "afgan'ı sureyeli'si geleceğine ukraynalı'sı gelsin. yalnız seçici olalım bu sefer ..\n\numarım dünyanın hiçbir yerinde bir savaş olmaz.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "rusya'nın ukrayna'ya girmesi",
+      "entry_id": "130340531",
+      "author": "cokonemlidegilzaten",
+      "date": "22.11.2021 13:35",
+      "content": "kırım'ı zaten işgal ettiler, donetsk'te de ayrılıkçıları destekleyerek belli bir toprağı kontrol altında tutuyorlar, daha ileri gitmelerine gerek yok. bundan sonra herhangi bir savaş olursa ancak ukrayna'nın isteğiyle olur.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rusya'nın ukrayna'ya girmesi",
+      "entry_id": "130340551",
+      "author": "zippo cakmagina lpg dolduran komunist",
+      "date": "22.11.2021 13:36",
+      "content": "amerika; olası bu işgal karşısında, türkiye'nin ukrayna bloğunda saf tutması ve rusya karşısında tutum alması karşılığında neler teklif edecek merak konusu.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rusya'nın ukrayna'ya girmesi",
+      "entry_id": "130340699",
+      "author": "neyzentefik",
+      "date": "22.11.2021 13:42",
+      "content": "ırak, suriye karışıklığında mülteciler türkiye ye geldi. ukrayna'dan da gelen olur mu? amin..",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN"
+      ]
+    }
+  ]
+}

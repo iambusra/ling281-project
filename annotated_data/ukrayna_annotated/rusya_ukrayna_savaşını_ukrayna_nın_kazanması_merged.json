@@ -1,0 +1,96 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:16:14.353973",
+    "total_entries": 7,
+    "input": "rusya ukrayna savaşını ukrayna'nın kazanması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rusya ukrayna savaşını ukrayna'nın kazanması",
+      "entry_id": "40836791",
+      "author": "anektar",
+      "date": "03.03.2014 00:49",
+      "content": "(bkz: savaşta kazanan olmaz)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rusya ukrayna savaşını ukrayna'nın kazanması",
+      "entry_id": "40836796",
+      "author": "bilmiyomamaoyle",
+      "date": "03.03.2014 00:49",
+      "content": "(bkz: top yuvarlaktır)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rusya ukrayna savaşını ukrayna'nın kazanması",
+      "entry_id": "40836829",
+      "author": "uyku",
+      "date": "03.03.2014 00:50",
+      "content": "(bkz: ilk yarı 1 ikinci yarı 2)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rusya ukrayna savaşını ukrayna'nın kazanması",
+      "entry_id": "40836832",
+      "author": "s1r",
+      "date": "03.03.2014 00:50",
+      "content": "(bkz: savaşın kazananı barışın kaybedeni olmaz)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rusya ukrayna savaşını ukrayna'nın kazanması",
+      "entry_id": "40836926",
+      "author": "brnow",
+      "date": "03.03.2014 00:54 ~ 00:58",
+      "content": "iyi olan kazansın.\n\nedit: savaş olmazsa sevinirim. ne demişler savaşmayın sevişin.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rusya ukrayna savaşını ukrayna'nın kazanması",
+      "entry_id": "40837638",
+      "author": "harbegidensarisaclicocuk",
+      "date": "03.03.2014 01:23",
+      "content": "1998 dünya kupasında suudi arabistan'ın almanya'yı yenmesi kadar ihtimali olan durum.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rusya ukrayna savaşını ukrayna'nın kazanması",
+      "entry_id": "40837808",
+      "author": "elma sekeri",
+      "date": "03.03.2014 01:32",
+      "content": "rusya'nın savaşa sadece bir kaç şehri ile katılması durumunda olabilecek olay.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:30:28.603973",
+    "total_entries": 2,
+    "input": "ruslardan soğumak",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ruslardan soğumak",
+      "entry_id": "134217792",
+      "author": "a paranormal human",
+      "date": "25.02.2022 23:05",
+      "content": "ukrayna'yı işgal edip sivilleri öldürdükleri, öldürmediklerini vatanlarından ettikleri, vatanında kalanları da ikinci sınıf insan ettikleri için; şu sıralar bende baş göstermiş duygudur. tabii ki her rus suçlu değil, ama insan öyle ya da böyle soğuyor. yok kızları çok güzelmiş, yok şuymuş buymuş, hikaye kalıyor.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ruslardan soğumak",
+      "entry_id": "134218314",
+      "author": "cherrytrickery",
+      "date": "25.02.2022 23:16 ~ 23:35",
+      "content": "halkı temsil etmeyen otokratik rejimlerde hükümetin attığı yanlış adımlar sebebiyle x halkından soğumak tabiri yerine, rejimden soğumak olarak düzeltilmesi gereken ifade. moskova'da kendi özgürlüklerini hiçe sayıp işgali prostesto eden rus halkını göz ardı etmemek gerek. hele böylesine keyfi yönetilebilen tek adam rejimlerinde, yapılan yanlışların faturasını halka kesmek -illa ki dönüp dolaşıp faturayı halk ödeyecek olsa da- yanlış olur. insanların bırakın söz hakkını, bir şeyleri protesto hakkı bile yok farkında mısınız, tanıdık geldi mi? eli kolu bağlı, yönetimin yanlış adımlarının ağır faturalarını er ya da geç ödeyecek olan bu insanlara olsa olsa acınır şu durumda.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY",
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

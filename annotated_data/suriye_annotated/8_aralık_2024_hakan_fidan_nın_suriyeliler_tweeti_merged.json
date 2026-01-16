@@ -1,0 +1,51 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:22:55.306214",
+    "total_entries": 3,
+    "input": "8 aralık 2024 hakan fidan'nın suriyeliler tweeti",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "8 aralık 2024 hakan fidan'nın suriyeliler tweeti",
+      "entry_id": "170842264",
+      "author": "fahri yazar",
+      "date": "08.12.2024 15:58 ~ 16:01",
+      "content": "az önce hakan fidan'ın milyonlarca suriyeli artık dönebilir minvalindeki tweeti. hani yüz bin küsürdü bunlar. aman gitsinler de…\n\n“astana süreciyle suriye'de devam eden çatışmalara ara verilmesini ve rejime halkıyla barışması için zaman sağlamıştık ama bunu değerlendirmedi.\n\nözellikle son aylarda sayın cumhurbaşkanımızın, suriye'de yaklaşan süreci öngörerek başlattığı inisiyatifin suriye rejimi tarafından reddedilmesi bizleri haklı çıkaran gelişmelerin yaşanmasına yol açtı.\n\nbu sabah itibarıyla suriye halkı, ülkelerinin geleceğini kendilerinin belirleyeceği yeni bir güne başladı.\n\ntürkiye, bundan sonra da suriye'nin yaralarının sarılması, birliğinin, bütünlüğünün ve güvenliğinin sağlanması için ne yapılması gerekiyorsa sorumluluk üstlenmeye hazır.\n\nbölge ülkeleriyle ve uluslararası aktörlerle bu konuda çalışmalarımızı önümüzdeki günlerde daha da yoğunlaştıracağız.\n\nbu sayede, evlerini terk etmek zorunda kalan milyonlarca suriyeli kendi topraklarına dönebilecektir.\n\ninşallah daha güzel günlerin suriye halkını beklediğini hep beraber göreceğiz.”\n\nhttps://x.com/…615819?s=46&t=vkjw_cv9yb-vhnelv_okxa\n\nedit: otomatik klavye “ın” i “nın” olarak düzeltmiş modlardan ricam düzeltmeleri.",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "8 aralık 2024 hakan fidan'nın suriyeliler tweeti",
+      "entry_id": "170842843",
+      "author": "ohhoho came babanne cadi babanne cadi",
+      "date": "08.12.2024 16:16",
+      "content": "algının dibini gösteren twit.\n\nmilyonlarca değil yüzbinlerce diye sayısı inkar edilen mülteciler şimdi milyonlar oldu.\n\nesad'a son şansı vermiştik ama kullanamadı demek de ayrı bir komedi. biz maşayız gel teslim ol yukarıdakilere diyemiyor da halkıyla barışmasını teklif ettik ama o reddetti ve haklı çıktık diyor.\n\ngören de şam'a savaş açtık kazandık ve fethettik sanar.\nzaten girenin çıkanın belli olmadığı sınırlarımızın dibinde israil güdümlü pyd/ypg kafasına göre at koşturacak ama bizimkiler hala reklam peşinde. sorsan mazlumun yanındayız, suriyeliler zulüm gördü falan.\n\nbiz bu filmi 2003'ten beri görüyoruz. saddam, kaddafi, esad hepsi katil de yerlerine gelenler barış kelebeği değil mi?\no yıldan beri ortadoğu'daki uyuşturucu ticareti, silah tüccarlığı, insan ticareti neymiş nerelere kadar gelmiş. ayrıca apo'nun yakalanmasıyla sıfıra inen örgütün bop'la nasıl palazlandığını da anlatmaya gerek yok.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "8 aralık 2024 hakan fidan'nın suriyeliler tweeti",
+      "entry_id": "170843240",
+      "author": "fenasi kertmen",
+      "date": "08.12.2024 16:22",
+      "content": "demoratik anayasa, seçim meçim ayağına suriyeye giderler oy kullanır geri gelirler.\nçok da şe'tmemek gerek, sevinmemek.\ngönül ister ki gidip ülkelerinde refah içinde yaşasınlar biz kurtulalım kendilerin de memleket hasreti sona ersin.\nişsiz güçsüz asker kaçağı, kaçakçı, dilenci, dolandırıcı, mafya yapılanması nasıl bırakıp gidecek burayı büyük merakla bekliyorum.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "POLICY"
+      ]
+    }
+  ]
+}

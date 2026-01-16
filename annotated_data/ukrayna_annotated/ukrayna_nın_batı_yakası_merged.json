@@ -1,0 +1,52 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:16:01.342034",
+    "total_entries": 2,
+    "input": "ukrayna'nın batı yakası",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukrayna'nın batı yakası",
+      "entry_id": "40618737",
+      "author": "somek kafali",
+      "date": "22.02.2014 17:21",
+      "content": "en güzel ukrayna kızlarının serpiştirildiği yaka. misal (bkz: #40618693)\n\nayrıca (bkz: avrupa'nın en güzel kızları)",
+      "referenced_content": [
+        {
+          "type": "entry",
+          "title": "lviv",
+          "entry_id": "40618693",
+          "author": "somek kafali",
+          "date": "22.02.2014 17:19 ~ 17:20",
+          "content": "güzel kızların bulunduğu bir mekan. (bkz: ukrayna'nın batı yakası)",
+          "has_external_url": false
+        }
+      ],
+      "referenced_entry_ids": [
+        "40618693"
+      ],
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "SEXUAL",
+        "POS-STEREO"
+      ]
+    },
+    {
+      "title": "ukrayna'nın batı yakası",
+      "entry_id": "44495156",
+      "author": "fenasi kerim",
+      "date": "25.07.2014 10:05",
+      "content": "cıks\n(bkz: çek cumhuriyetinin doğu yakası) yani (bkz: moravya)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

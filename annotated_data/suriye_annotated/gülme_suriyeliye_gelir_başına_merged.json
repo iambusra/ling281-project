@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T15:03:05.572581",
+    "total_entries": 1,
+    "input": "gülme suriyeliye gelir başına",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "gülme suriyeliye gelir başına",
+      "entry_id": "54648848",
+      "author": "ichabod",
+      "date": "08.09.2015 21:57",
+      "content": "(bkz: finlandiya'nın 15 bin mülteci kabul etmesi)\n\nburdaki suriyelilerden birisi olacaksam kahkaha bile atarım bırakın gülmeyi.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    }
+  ]
+}

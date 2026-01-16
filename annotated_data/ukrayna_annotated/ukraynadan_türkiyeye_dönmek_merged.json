@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:14:47.841249",
+    "total_entries": 2,
+    "input": "ukraynadan türkiyeye dönmek",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukraynadan türkiyeye dönmek",
+      "entry_id": "80391246",
+      "author": "castor troy",
+      "date": "18.08.2018 12:50",
+      "content": "(bkz: ekşisözlük nakliye ve danışmanlık hizm.)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukraynadan türkiyeye dönmek",
+      "entry_id": "80392617",
+      "author": "maximillian",
+      "date": "18.08.2018 13:41",
+      "content": "ukranya da yazabilirdi buna da şükür.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

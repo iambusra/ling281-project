@@ -1,0 +1,60 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:25:43.176984",
+    "total_entries": 4,
+    "input": "beraber oldugunuz bir rustan hoslanmak",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "beraber oldugunuz bir rustan hoslanmak",
+      "entry_id": "1519317",
+      "author": "winsome",
+      "date": "15.08.2002 14:55",
+      "content": "(bkz: seni seviyorum) (bkz: yalan)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "beraber oldugunuz bir rustan hoslanmak",
+      "entry_id": "1519319",
+      "author": "absent",
+      "date": "15.08.2002 14:56",
+      "content": "(bkz: orospuya asik olmak)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "SEXUAL"
+      ]
+    },
+    {
+      "title": "beraber oldugunuz bir rustan hoslanmak",
+      "entry_id": "1519326",
+      "author": "brownie",
+      "date": "15.08.2002 14:59",
+      "content": "beraber oldugunuz bir fransizdan hoslanmak tan çok farklı değildir. rusça bilmiyorsanız biraz sorunlu olabilir.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "beraber oldugunuz bir rustan hoslanmak",
+      "entry_id": "1519346",
+      "author": "winsome",
+      "date": "15.08.2002 15:07 ~ 15:07",
+      "content": "(bkz: benimle evlenir misin)",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN-POS"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:09:35.362600",
+    "total_entries": 1,
+    "input": "türk telekomun suriyelilere ucuz paket vermesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türk telekomun suriyelilere ucuz paket vermesi",
+      "entry_id": "147999669",
+      "author": "karamelmakiyatolu",
+      "date": "22.01.2023 16:34 ~ 16:40",
+      "content": "üstte kalıp herkesin görmesi gereken bir rezalet.\n\ntürk topraklarında yaşayan türkolara 89a paket verirken suriyeli kardeşlerimize 40 liraya paket verdiği iddia edilen türk telekomun paketleri sosyal medyada gündem oldu.\n\nbu olaydan dolayı boykot yapmamız lazım. hiç zorunuza gitmiyor mu?\n\ntürklere 89 lira olan paket suriyelilere 40 tlye veriliyor.\n\ntürk telekomun açıklaması daha komik.\n\nilginç olay;\n\nkaynak",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY",
+        "HUMAN"
+      ]
+    }
+  ]
+}

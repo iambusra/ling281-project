@@ -1,0 +1,163 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:16:42.969461",
+    "total_entries": 12,
+    "input": "ukraynalı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukraynalı",
+      "entry_id": "2619925",
+      "author": "kusmuk",
+      "date": "06.04.2003 05:39 ~ 05:39",
+      "content": "ukrayna'dan olan.. sifat olarak bir hatunu i$aret ettiginde aklimizda sari sac mavi goz uzun boy beyaz ten kucuk burun canlanmalidir.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POS-STEREO"
+      ]
+    },
+    {
+      "title": "ukraynalı",
+      "entry_id": "2619932",
+      "author": "frot",
+      "date": "06.04.2003 05:44",
+      "content": "hatunlari ayirt edebilene ruslardan daha guzeldir..",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "ukraynalı",
+      "entry_id": "79356890",
+      "author": "kesyapistirmikelanj",
+      "date": "19.07.2018 23:34",
+      "content": "ruslara biz artık kardeş değiliz diye şiir yazandır.\n\nkarısı misha ile hostel işleten constanine'in;\n\n- how was your day? (günün nasıl geçti hipnator?) diyen güler yüzüdür.\n\nkendini öldürürcesine alkol, sigara ve muhtemelen uyuşturucu içen, parklarda takılan slav gençliğidir.\n\ndinamo kiev'in stadını da gezdim. bizim bayrağımızı yaktınız lan, kalbimizi kırdınız piçler dedim. özür dilettim. olmaz bunlar, yapılmaması gereken şeyler.\n\nözünde gariban bir ahali. rus ayılarının pençesinden kurtulsak da dalgamıza baksak derdinde olan, kendi halinde milliyetçi, dindar, sevdiği zaman çok seven güzel insanlardır.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "ukraynalı",
+      "entry_id": "142269138",
+      "author": "okunmayan harfin drami",
+      "date": "05.09.2022 14:56",
+      "content": "rus'ların köylü versiyonu.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "ukraynalı",
+      "entry_id": "143057043",
+      "author": "myznikov",
+      "date": "23.09.2022 19:24",
+      "content": "ukrain etnik kökenine sahip veya ukrayna'da yaşayan insan anlamına gelir. ukrayna yasaları tüm vatandaşlarına ukraynalı der. kanada'da 1 milyondan fazla ukraynalı kökenli insan vardır, ama en çok anavatanları ukrayna'da yaşarlar. tüm dünyada 40 milyon civarı etnik ukraynalı vardır. aralarında puşkin büstünü vandalize eden dallamalar da vardır.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukraynalı",
+      "entry_id": "147272491",
+      "author": "bildigini bilmeyen",
+      "date": "06.01.2023 01:20",
+      "content": "ukrayna kurulmadan önce nasıl adlandırıldıklarını merak ettiğim millet.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukraynalı",
+      "entry_id": "147674241",
+      "author": "elwsie",
+      "date": "15.01.2023 12:12",
+      "content": "keşke ukraynalı olsaydım hepsi avrupa'yı geziyor şu an tüm ülkeler vize veriyor",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "ukraynalı",
+      "entry_id": "154382887",
+      "author": "kti",
+      "date": "09.07.2023 23:30",
+      "content": "rus lardan çok daha medeni, çok daha kültürlü, çok daha cana yakın bir halktır. ayrıca görünüm bakımından birçoğu türklere benzer. zaten bolca türk ve bolca germen genetiği taşıyan slavlardır. birçok olumsuz önyargının aksine rusları da seviyorum, ama ukrayna halkı çok daha sempatik.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "XENO",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "ukraynalı",
+      "entry_id": "162507192",
+      "author": "ileriileri",
+      "date": "16.03.2024 15:56",
+      "content": "bu dangalaklar isveçli olduklarını iddia ediyorlar.\nsebep.. kiev kentini 11. yy.da isveçliler kurmuş.\n\nbayraklarını isveç gibi sarı-lacivert yapmışlar.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "ukraynalı",
+      "entry_id": "162507462",
+      "author": "cmakn",
+      "date": "16.03.2024 16:09",
+      "content": "japonlar ve almanlar ile birlikte nedensizce sevdiğim bir millet. garip cidden.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN-POS",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "ukraynalı",
+      "entry_id": "174279509",
+      "author": "ibisile",
+      "date": "04.04.2025 22:02",
+      "content": "(bkz: ruten)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukraynalı",
+      "entry_id": "179681690",
+      "author": "ileriileri",
+      "date": "08.11.2025 16:44",
+      "content": "rusların başına bela verilmişlerdir.\n\nyaratıcı güç ruslarda.\nukraynalılarsa bu gücün yaratılarını abüze ederler.\n\nçünkü ilkel-primitif özelliklerini hiç kaybetmemişlerdir.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    }
+  ]
+}

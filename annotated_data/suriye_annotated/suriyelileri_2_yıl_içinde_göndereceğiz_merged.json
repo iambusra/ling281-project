@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:00:00.159009",
+    "total_entries": 1,
+    "input": "suriyelileri 2 yıl içinde göndereceğiz",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelileri 2 yıl içinde göndereceğiz",
+      "entry_id": "136969715",
+      "author": "birbaskagocebeencore",
+      "date": "03.05.2022 21:47",
+      "content": "ılık herif yine mıymıylamış.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HUMAN"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:41:13.528096",
+    "total_entries": 6,
+    "input": "corona yüzünden işsiz kalan suri’ler",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "corona yüzünden işsiz kalan suri’ler",
+      "entry_id": "104009009",
+      "author": "nero forte",
+      "date": "23.03.2020 14:45 ~ 14:46",
+      "content": "--- spoiler ---\n\neee? suriler ne olacak\n--- spoiler ---\n\nsiktir olup gidebilirler bence.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "corona yüzünden işsiz kalan suri’ler",
+      "entry_id": "104009324",
+      "author": "yalniz gezen russo",
+      "date": "23.03.2020 14:53",
+      "content": "surilere birşey olmaz. normal şartlarda olsa gçöe zorlardık. şu durumda göç de yok, elimizde patlarlar.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "CRIME"
+      ]
+    },
+    {
+      "title": "corona yüzünden işsiz kalan suri’ler",
+      "entry_id": "104009860",
+      "author": "basaktarlasindakivasak",
+      "date": "23.03.2020 15:06",
+      "content": "her kriz döneminde olduğu gibi yine en büyük zararı madun lar görecek, türk olsun suriyeli olsun madunluğun milleti yok.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "corona yüzünden işsiz kalan suri’ler",
+      "entry_id": "104009987",
+      "author": "quaradjeahh",
+      "date": "23.03.2020 15:09",
+      "content": "(bkz: insanlığınızı sikeyim)",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE"
+      ]
+    },
+    {
+      "title": "corona yüzünden işsiz kalan suri’ler",
+      "entry_id": "104010292",
+      "author": "kopsunkiyamet",
+      "date": "23.03.2020 15:15",
+      "content": "herkes kendi canının derdine düşmüş şu anda. ne suriyeliymiş arkadaş, bunları da bizden başka düşünen hiçbir allahın kulu yok. suudi arabistan, iran, birleşik arap emirlikleri, katar; bütün bu ülkeler suriyelilerle din kardeşi değil mi? peki bütün bu ülkelerin gelir dağılımı ne kadar bizden fakirler mi? neden bir tanesi de çıkıp 1 milyon suriyeliyi de biz alıyoruz demiyor?",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "corona yüzünden işsiz kalan suri’ler",
+      "entry_id": "104010346",
+      "author": "noname3467",
+      "date": "23.03.2020 15:17",
+      "content": "sanki çok umurumda artık. devlet kendi insanına bakmıyor vergilere boğuyor bizi, doğalgaz faturasından bile özel tüketim vergisi alıyor. o vergilerlede suriyelilere her ay para veriliyor, ülkemizde yan gelip yatıyorlar. niye çalışsınlar, niye kalan suriyelilerde türkiye ye gelmesinler.\nbiizm devletimiz bizden topladığı vergilerle bir güzel bunlara bakıyorken.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "ECON",
+        "POLICY"
+      ]
+    }
+  ]
+}

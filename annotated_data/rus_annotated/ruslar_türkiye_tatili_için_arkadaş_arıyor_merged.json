@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:27:54.489808",
+    "total_entries": 1,
+    "input": "ruslar türkiye tatili için arkadaş arıyor",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ruslar türkiye tatili için arkadaş arıyor",
+      "entry_id": "68521366",
+      "author": "yuzdekirkbir",
+      "date": "31.05.2017 12:11",
+      "content": "ee artık abazalar iş başına ama, magazin haber, arkadaş falan değil, parasını ödeyecek arıyor",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    }
+  ]
+}

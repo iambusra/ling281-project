@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:52:57.966622",
+    "total_entries": 1,
+    "input": "suriyeli ve afgan militanlarla chpye saldırı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeli ve afgan militanlarla chpye saldırı",
+      "entry_id": "178247937",
+      "author": "strauss",
+      "date": "09.09.2025 01:44",
+      "content": "görmediniz .. aa. habarım yok. noolmuş?? öölemiymiş.. ben varya çok bi muhalifim..\n\nzibidi çakal çakma muhalefet tohumu hepsinin babası şahsım bunların.\n\nchpe kuşatmasına kamyon kamyon, bak hem de plakasız kamyonlarla suriyeli ve afgan taşıdılar. türkleri peşkeş çektiler.\nama.sözde solcular aaa görmedik. tam suiçmeye gittiydim.\nçakma zaferci, soğancı zibidi... \"yok canımseng yağnış görmüşsündür\".\nsize az bile . analarınız hep dediydi.\nbenim oğlan moderen, temohrat neyin der.emme dohumu benden. birileri tiploma verdi. müyendis tohtur, peyaz yaka oldu. emme . tohumları böyle bunların.\nhiçgörmediniz hee? aaa. öylemiymiş. yok canımdimi aybüke? .",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    }
+  ]
+}

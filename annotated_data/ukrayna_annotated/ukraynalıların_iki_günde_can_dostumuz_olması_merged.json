@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:24:24.399949",
+    "total_entries": 1,
+    "input": "ukraynalıların iki günde can dostumuz olması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukraynalıların iki günde can dostumuz olması",
+      "entry_id": "56531694",
+      "author": "ucankurbaga",
+      "date": "27.11.2015 00:39",
+      "content": "var böyle bişi. şimdi tivitir'da gerek rusların attığı tivitler olsun, gerek diğer milletlerin, gözlemliyorum ve adamlar bizi canla başla savunuyorlar lan. düşmanımın düşmanı dostum ayağına. profillere türk bayrağı falan konmuş. uçağı biz düşürdük, ben türk olarak bu kadar gurur duymadım arkadaş. bir sevinç, bir neşe sormayın gitsin.\n\nilk fırsatta ukrayna dolaylarına tatile çıkmamız gerektiğini gösteren hadise.",
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "CULTURE",
+        "HUMAN-POS"
+      ]
+    }
+  ]
+}

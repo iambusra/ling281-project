@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:40:26.232558",
+    "total_entries": 1,
+    "input": "beşşar esad'ın suriyeli sığınmacı olması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "beşşar esad'ın suriyeli sığınmacı olması",
+      "entry_id": "170861246",
+      "author": "baltaci raskolnikov pasa",
+      "date": "08.12.2024 23:23",
+      "content": "rusya'ya siginmasi sonrasi gerceklesen ilginc hadise.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "XENO",
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

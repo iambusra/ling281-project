@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:16:11.837948",
+    "total_entries": 1,
+    "input": "ukrayna'nın altınlarını abd'ye göndermesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukrayna'nın altınlarını abd'ye göndermesi",
+      "entry_id": "41113676",
+      "author": "don kilot van daym",
+      "date": "13.03.2014 15:54",
+      "content": "türkiye'nin epey altın rezervi olduğunu öğrendiğimiz haber.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL",
+        "ECON"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:58:08.022270",
+    "total_entries": 18,
+    "input": "suriyelilerden yayılan hastalık",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelilerden yayılan hastalık",
+      "entry_id": "7607518",
+      "author": "jon lord",
+      "date": "31.05.2005 05:00",
+      "content": "(bkz: din kulturu ahlak bilgisi dersinin yeni mufredati)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyelilerden yayılan hastalık",
+      "entry_id": "24878474",
+      "author": "kamusal adamin oglu",
+      "date": "09.08.2011 11:51",
+      "content": "laikçi besmelesi. 28 şubat medyasının müslümanlar g.tümü kesti temalı kolpa haberlerindeki laikçi yorumlarının girişinde istisnasız bulunur.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelilerden yayılan hastalık",
+      "entry_id": "28820521",
+      "author": "sanzelize canavari",
+      "date": "02.06.2012 14:15 ~ 11.01.2017 09:35",
+      "content": "orta yaş üstünün hayat mottosu. önkoşulu iflah olmaz bir kemalist olmaktır.\n\ngelecekten gelen edit: burada yanlış anlaşılmak istemem, açıkçası yanlış anlaşılacak günlerde değiliz. ağızdan çıkmayla kemalist olunmuyor. zito mustafa kemal!",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelilerden yayılan hastalık",
+      "entry_id": "50265801",
+      "author": "abukkraker",
+      "date": "02.04.2015 03:38",
+      "content": "evet çünkü daha beklenen büyük istanbul depremi var. o da olsun tam belamiz o zaman okunacak.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyelilerden yayılan hastalık",
+      "entry_id": "59233393",
+      "author": "boysdontcry",
+      "date": "15.03.2016 09:19",
+      "content": "3 ü başkent olmak üzere 5 terör eylemi sonrası dahi akla düşen korkunç düşünce.\n\n(bkz: korkuyorum anne)\n\nfaşist iktidarlar, kutuplaştırıp düşman yaratıp o düşman üzerinden bir propaganda ile siyaset üretirler.\n\n13 yıllık rererö faşizmi sonucunda elimizdekilere bakar isek,\n\n-çözüm süreci ile çatışmasız bir ortamda büyüyen, daha okumuş, daha öfkeli, daha kıyıma eğilimli bir pkk jenerasyonu\n\n-çıkarlarının kollanmadığını hissettiği an silahlarını babasına çevirmekte tereddüt etmeyen, islam adına kafa kesen kanlı bir örgüt\n\n-kendini korumak için çekinmeden herkesi hedef gösterebilecek, ölen insanları \"zaiyat\" görecek, tek hedefi kendi sultanlığı olan ve bu yolda kural tanımayan bir narsist\n\nkaldığımız ateş hattı budur,\nkısa çöpü çekmemek dileği ile.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyelilerden yayılan hastalık",
+      "entry_id": "65461982",
+      "author": "bak yine uykum kacti",
+      "date": "10.01.2017 10:53",
+      "content": "son aylarda sıkça kullandığım söz öbeği. umarım haksız çıkarım ama görünen köy kılavuz istemez.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyelilerden yayılan hastalık",
+      "entry_id": "96246448",
+      "author": "izmirlibambam",
+      "date": "07.10.2019 02:16 ~ 13:24",
+      "content": "(bkz: 2019 zamları)\n(bkz: telefon kayıt harcının 1500 tl olması)\n(bkz: 21 ağustos 2019 kyk yurtlarına %20 zam yapılması)\n(bkz: kuruyemiş ve çerez fiyatlarının çığrından çıkması)\n(bkz: 2 ekim 2019 fiat fiyat listesi)\n(bkz: 2019 yılı ikinci el araba fiyatları)\n(bkz: son 2 yılda restoranlardaki fiyat artışı)\n(bkz: yerli muzun ithal muz ile aynı fiyata gelmesi)\n(bkz: akıllı telefon fiyatlarının uçması)\n(bkz: özel sektör 2019 maaş zam oranları)\n(bkz: 4 eylül 2019 alkol zammı)\n(bkz: 1 ekim 2019 elektrik zammı)\n(bkz: 30 ağustos 2019 doğalgaz zammı)\n(bkz: fiyatı korkunç bir şekilde artan ürünler)\n(bkz: 1 ekim 2019 lpg zammı)\n(bkz: 15 kasım 2019 çiğ süt fiyatı güncellemesi)\n(bkz: türkiye'deki pahalılığın artık cana tak etmesi)\n\nbunlar bile iyi günlerimiz, 3 ay sonra gireceğimiz yeni sene çok daha güzel sürprizler çıkaracak karşımıza.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "ECON"
+      ]
+    },
+    {
+      "title": "suriyelilerden yayılan hastalık",
+      "entry_id": "112287836",
+      "author": "berque",
+      "date": "30.08.2020 03:16",
+      "content": "o iyi günler bitmiş olsa gerek,",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyelilerden yayılan hastalık",
+      "entry_id": "125247733",
+      "author": "allbattross",
+      "date": "01.07.2021 12:42",
+      "content": "cumhurbaşkanı beyanı söz. politikayı daha kötü günlere sürüklemek beraberinde ekonomiyi de aynı yere götürür malesef...\n\nhttps://www.ntv.com.tr/…epki,zntnwlcof0einbuqeylojq",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelilerden yayılan hastalık",
+      "entry_id": "126537768",
+      "author": "reveranz",
+      "date": "05.08.2021 00:44",
+      "content": "10 sene sonra bu başlığa girilirse doğruluğu anlaşılacaktır.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyelilerden yayılan hastalık",
+      "entry_id": "131042148",
+      "author": "pezevengo",
+      "date": "12.12.2021 11:48",
+      "content": "12 aralık 2021. ciddi anlamda artık böyle düşünüyorum. yıllar sonra uyandırın burayı. tespit doğru mu, değil mi görelim...",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyelilerden yayılan hastalık",
+      "entry_id": "142795863",
+      "author": "benzini shellden alan kel",
+      "date": "17.09.2022 14:02",
+      "content": "2023 seçimlerine kadar söylendiğinde geçerli ve haklı bir söylem.\nsonrası için (bkz: her şey çok güzel olacak)",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelilerden yayılan hastalık",
+      "entry_id": "149516464",
+      "author": "soktum soruyu sordum boruyu",
+      "date": "19.02.2023 18:46",
+      "content": "son birkaç yıldır her gördüğüm haber sonrası kurduğum cümle..",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyelilerden yayılan hastalık",
+      "entry_id": "153329283",
+      "author": "first 0fficer",
+      "date": "08.06.2023 14:32",
+      "content": "türkiye'de güncelliğini yitirmeyen, her devirde söylene gelmiş ve bundan sonra da söylenecek olan sözdür.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyelilerden yayılan hastalık",
+      "entry_id": "154878152",
+      "author": "vicsail",
+      "date": "24.07.2023 00:51",
+      "content": "son 20 yılda duymaktan en nefret ettiğim söz kalıplarından biri.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyelilerden yayılan hastalık",
+      "entry_id": "154879041",
+      "author": "levventttt",
+      "date": "24.07.2023 01:20",
+      "content": "eee soyleyenler yanılmıyor ama hep daha kotu günler geliyo",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyelilerden yayılan hastalık",
+      "entry_id": "154879195",
+      "author": "hhayalett",
+      "date": "24.07.2023 01:25",
+      "content": "yok öyle bişey kardeşim, ekonominin daha da beter edemeyeceği şeyler var. umudunu kaybetmemeli bi insan hele ki böyle genç bi yaşta. demem o ki bundan kötüsü zor",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "ECON"
+      ]
+    },
+    {
+      "title": "suriyelilerden yayılan hastalık",
+      "entry_id": "154879241",
+      "author": "oz technique",
+      "date": "24.07.2023 01:26",
+      "content": "dolar yıl sonu 35, seneye 50.\n\nülkenin dümdüz kötü gidişatı zaten apaçık da neden sen de aynı şekilde dibe batasın?\n\nher daim birileri batarken birileri çıkacaktır..",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "ECON"
+      ]
+    }
+  ]
+}

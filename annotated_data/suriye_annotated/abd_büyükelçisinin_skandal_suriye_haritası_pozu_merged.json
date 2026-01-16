@@ -1,0 +1,37 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:26:56.659844",
+    "total_entries": 2,
+    "input": "abd büyükelçisinin skandal suriye haritası pozu",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "abd büyükelçisinin skandal suriye haritası pozu",
+      "entry_id": "179018946",
+      "author": "turiq",
+      "date": "10.10.2025 08:50",
+      "content": "atatürk'ün şahsi meselem dediği hatay'ın suriye topraklarına katıldığı skandal harita önündeki pozudur.\n\nhttps://www.nefes.com.tr/…-detayi-tepki-cekti-68969\n\nyavşak yandaşlar''problem yok'' deyip geçse de biz başbuğun şahsi meselesine hakareti kendimize yedirmeyiz.",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "abd büyükelçisinin skandal suriye haritası pozu",
+      "entry_id": "179019036",
+      "author": "ero01",
+      "date": "10.10.2025 08:57",
+      "content": "atatürk'ün uğruna hastalığıyla ilgilenmediği, belki hayatından 10 senesini yediği, aldığımızı göremeden vefat ettiği güzel hatay'ımıza ve vatanımıza yapılmış dümdüz hakarettir.\n\nbaktım yandaş basında tek haber yok. bu kadar satılmış olamazsınız ya. bu kadar mı para her şeyiniz olm sizin? parayı versek biz de'her şeyinizi' alabiliriz yani.\n\nözgür özel burada hata yapıyor işte.\n\nsatın alın şu satılıkları. millete gerçekleri anlatsınlar. kaç paralar? para toplayalım biz satın alalım?",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY",
+        "ECON"
+      ]
+    }
+  ]
+}

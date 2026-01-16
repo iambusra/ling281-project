@@ -1,0 +1,26 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T14:50:45.930163",
+    "total_entries": 1,
+    "input": "oy kullanma hakkı olan suriler",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "oy kullanma hakkı olan suriler",
+      "entry_id": "126712486",
+      "author": "teori olmayan evrim",
+      "date": "09.08.2021 14:30",
+      "content": "2023 seçimlerinde bugünkü iktidarın en büyük güvencesidir. bulunacak başka petrol, doğal gaz, altın, elmas veya bor kalmadığı için, yüzde otuzun altına düşen oylarını artırmasının tek yolu sisteme yeni seçmen sokmak. bunu yapmak için uğraşacaklar.\nkarar vermesi gereken de kendini akpartili olarak tanımlayan vatandaşlarımızdır. bahçeli bu konudaki görüşlerini açıkladı. şimdilik göçmenlerin yerleşmesine karşı. sonradan fikir değiştirdiği görülmüştür ama bu konuda tabanını ikna edemez. ben, akpartili seçmenin de erdoğan'a hala sempati duysa da yavaştan yeniden refah gibi oluşumlara kaydığını gözlemleyebiliyorum.\ndüzensiz göçmen veya mülteci, bu adamların oy vermesinin önüne geçilmesi, bu olmazsa akpye sadece surilerin oy vermesi gerekir.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE",
+        "POLICY"
+      ]
+    }
+  ]
+}

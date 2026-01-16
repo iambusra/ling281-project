@@ -1,0 +1,85 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:25:58.968857",
+    "total_entries": 6,
+    "input": "yiğit bulut'un türk rus imparatorluğu tezi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "yiğit bulut'un türk rus imparatorluğu tezi",
+      "entry_id": "72028973",
+      "author": "laminantparke",
+      "date": "10.11.2017 20:42",
+      "content": "(bkz: jölenin kafa yapması)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "yiğit bulut'un türk rus imparatorluğu tezi",
+      "entry_id": "72028992",
+      "author": "moonrise",
+      "date": "10.11.2017 20:43",
+      "content": "tolkien bile görse, \"ben nasıl böyle bir hayal gücüne sahip olamadım\" diye hayıflanacağı kişinin masal serilerinden birisi. öyle böyle değil, şizofren bunun yanında tövbe eder, diz çöker.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "yiğit bulut'un türk rus imparatorluğu tezi",
+      "entry_id": "72029018",
+      "author": "gunalan",
+      "date": "10.11.2017 20:44",
+      "content": "üzerine jöle dökülmüş olma ihtimali yüksek tezdir. böyle cıvık cıvık saçma bir seydir.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "yiğit bulut'un türk rus imparatorluğu tezi",
+      "entry_id": "114065696",
+      "author": "kurtarin kendinizi",
+      "date": "09.10.2020 07:11 ~ 07:15",
+      "content": "15 yıldır savunduğu tezdir.\n\nhenüz beştepe'de padişahın sağ kolu değilken de böyle fantezilere sahipti.\n\nhatta bir programda murat bardakçı'dan ayarı yemişti bu tezi üzerine.\n\ntürk-rus imparatorluğu olmaz sadece rus imparatorluğu olur, demişti murat bardakçı.\n\no günden bugüne yıllar geçti ama bu adamın fantezileri değişmedi.\n\nbu s-400 sevdası falan da bundan kaynaklanıyor.\n\nşu anda başımıza iş açan çoğu acayip fikrin babası bu adam.\n\n--- spoiler ---\n\ncumhurbaşkanı başdanışmanı yiğit bulut, gündeme ilişkin yaptığı değerlendirmelerde \"türk - rus imparatorluğu tezinden asla vazgeçmedim\" dedi.\n\n--- spoiler ---\n\nkaynak burada",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "yiğit bulut'un türk rus imparatorluğu tezi",
+      "entry_id": "114065829",
+      "author": "depresifsirin",
+      "date": "09.10.2020 07:27",
+      "content": "rusların bundan haberi var mı?",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "yiğit bulut'un türk rus imparatorluğu tezi",
+      "entry_id": "114066667",
+      "author": "radyoaktif pokemon",
+      "date": "09.10.2020 08:29",
+      "content": "türkçe veya ingilizce bilmeden ülkemde dükkan açan rusları görünce rusların sömürge olup türkleri topraklarına kattığı imparatorluktur o olsa olsa diyorum.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    }
+  ]
+}

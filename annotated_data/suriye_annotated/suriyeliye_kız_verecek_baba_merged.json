@@ -1,0 +1,37 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:07:36.081075",
+    "total_entries": 2,
+    "input": "suriyeliye kız verecek baba",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeliye kız verecek baba",
+      "entry_id": "85569816",
+      "author": "garlangufa",
+      "date": "16.01.2019 07:13 ~ 07:54",
+      "content": "kız dediğin babanın malı olmadığı için herhangi bir alma verme olayı olmayacaktır.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "GENDER-MORAL",
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "suriyeliye kız verecek baba",
+      "entry_id": "85569871",
+      "author": "screenwriter",
+      "date": "16.01.2019 07:22",
+      "content": "türk'e kız verecek herhangi başka bir milletten olan babadan farkı yoktur.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    }
+  ]
+}

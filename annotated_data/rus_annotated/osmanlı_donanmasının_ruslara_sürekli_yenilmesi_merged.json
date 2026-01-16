@@ -1,0 +1,77 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:29:41.668440",
+    "total_entries": 5,
+    "input": "osmanlı donanmasının ruslara sürekli yenilmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "osmanlı donanmasının ruslara sürekli yenilmesi",
+      "entry_id": "107534342",
+      "author": "sarabi eskiya",
+      "date": "21.05.2020 02:01 ~ 02:34",
+      "content": "en çok zoruma giden tarihi gerçeklerden biridir. osmanlı imparatorluğunun dağılmasını hızlandıran nedenlerin başında gelir kanımca. benim bildiğim 3 deniz faciası var ruslara karşı:\n\n(bkz: çeşme faciası)\n(bkz: navarin baskını)\n(bkz: 30 kasım 1853 sinop savaşı)\n\nnavarin ve sinop baskınları hadi bir yere kadar da çeşme baskını tam bir facia, utanç vesikası. koskoca imparatorluksun arkadaş, kendi iç denizinde çeşme gibi bir yerde bütün donanmanı nasıl yaktırırsın aklım almıyor gerçekten.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "POLICY",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "osmanlı donanmasının ruslara sürekli yenilmesi",
+      "entry_id": "107535039",
+      "author": "push back ile drift ceken cocuk",
+      "date": "21.05.2020 02:13",
+      "content": "gel gör ki bu kadar olaydan sonra donanmayı güçlendirmek yerine zincire vurup çürümesini beklemişler\n\n(bkz: osmonloyo ottohotcolor yokto)",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "POLICY",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "osmanlı donanmasının ruslara sürekli yenilmesi",
+      "entry_id": "107535211",
+      "author": "ned eddard stark",
+      "date": "21.05.2020 02:17",
+      "content": "rivayete göre bunun sebebi osmanlı donanmadının aldığı yanlış düzenden kaynaklı. düşmana göz dağı vermek için aynı anda bütün gemileri mesafe koymadan karaya demirliyorlarmış. ee zaten tahtadan yapılma gemiler. ruslar bir ucundan kibrit çaktığı zaman domino taşı misali bütün gemiler perte çıkıyormuş.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "POLICY",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "osmanlı donanmasının ruslara sürekli yenilmesi",
+      "entry_id": "107535508",
+      "author": "mty",
+      "date": "21.05.2020 02:23",
+      "content": "ruslarla alakası yok. osmanlı denizcilikten anlamayan bir imparatorluk.\n\nminicik şehir devlet de tokatlar. hoş zaten denizden anlasa kuzey afrikadaki korsanvari barbaroslara muhtaç kalmazdı ya da gücü, parası varken coğrafi keşiflerde adı olurdu, iki ticaret yolu oluştururdu. dolayısıyla denizle ilgili osmanlı donanması(kayıkları) kendi kendine batsa normaldir.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "POLICY",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "osmanlı donanmasının ruslara sürekli yenilmesi",
+      "entry_id": "107535928",
+      "author": "hadimulmulk",
+      "date": "21.05.2020 02:32",
+      "content": "osmanlı'nın kurumsal açıdan ne 16. yüzyılda ne de gerileme dönemlerinde denizci devlet olduğunu söyleyemeyiz. 16. yüzyıldaki o ilerleme garb ocaklarından devşirilen korsanlar tarafından sağlanmıştır.\nenderundan yetişen paşaların bu korsanlara karşı soğuk tavırlı olduğu bilinen bir husustur. denizlerde bir kriz yoksa enderun çıkışlı paşa kaptan-ı derya olur. bir kriz anında ise mecburen garb ocaklarından etkin bir korsana teslim edilirdi donanmayı hümayun.\nişte böyle devamlılığı olmayan bir yapı rusya gibi denizlerde görece yeni bir devlete dahi yenilir. gemilerin teknik özellikleri ise bambaşka bir husus.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "POLICY",
+        "CULTURE"
+      ]
+    }
+  ]
+}

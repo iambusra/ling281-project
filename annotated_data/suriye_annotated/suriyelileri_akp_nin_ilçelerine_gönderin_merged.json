@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:00:00.545259",
+    "total_entries": 1,
+    "input": "suriyelileri akp'nin ilçelerine gönderin",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelileri akp'nin ilçelerine gönderin",
+      "entry_id": "163050916",
+      "author": "son istanbullu",
+      "date": "01.04.2024 21:19 ~ 21:20",
+      "content": "tüm chp'li başkanlardan ricamdır. bakalım bir daha ki seçime akp bir tane belediye alabiliyor mu ...",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    }
+  ]
+}

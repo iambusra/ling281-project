@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:10:42.864408",
+    "total_entries": 2,
+    "input": "türkiye'den suriyeli işgali altında olması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türkiye'den suriyeli işgali altında olması",
+      "entry_id": "61600664",
+      "author": "mystyc",
+      "date": "07.07.2016 23:24",
+      "content": "(bkz: imla kılavuzu) nedir? neye yarar?",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "türkiye'den suriyeli işgali altında olması",
+      "entry_id": "61600690",
+      "author": "kirlivemutlu",
+      "date": "07.07.2016 23:26",
+      "content": "şimdi buraya laf sokmalı bir bkz verecektim ama yok o kadar kısa olmamalı. arkadaşım bi başlık açarken tekrar dönüp okumuyor musunuz siz ne yazdığınızı? çok mu zor geriye dönüp bir bakmak allah aşkına. biraz dikkat, biraz özen! türkçe neydi? türkçe emekti...\n\ntanım: hatalı ve tamamen anlamsız başlık.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CULTURE"
+      ]
+    }
+  ]
+}

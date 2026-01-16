@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T14:57:53.966096",
+    "total_entries": 1,
+    "input": "akp seçim öncesi 1 milyon suriyeliyi gönderecek",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "akp seçim öncesi 1 milyon suriyeliyi gönderecek",
+      "entry_id": "136767650",
+      "author": "yurugitbulamadimnickmick",
+      "date": "28.04.2022 16:52",
+      "content": "mevcut muhalefet partileri 20 senedir akp yılanını bu kadar rahatsız edememişti, sonrasını bilemem ama ümit hocanın şimdilik doğru yolda olduğunun göstergesidir.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POLICY"
+      ]
+    }
+  ]
+}

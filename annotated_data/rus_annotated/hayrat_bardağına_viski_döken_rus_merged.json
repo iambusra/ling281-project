@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:23:35.229635",
+    "total_entries": 1,
+    "input": "hayrat bardağına viski döken rus",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "hayrat bardağına viski döken rus",
+      "entry_id": "174603341",
+      "author": "goklerdengeleneksici",
+      "date": "17.04.2025 00:43",
+      "content": "rus bir influencer tarafından türkiye’de yapılmış eylemdir. ters yatırıp birileri de bu rus’a bir hayır yapsa bari. link",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

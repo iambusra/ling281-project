@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:21:59.408512",
+    "total_entries": 2,
+    "input": "ukraynalı mülteci",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukraynalı mülteci",
+      "entry_id": "137251446",
+      "author": "uyecik",
+      "date": "10.05.2022 00:05",
+      "content": "mültecilerden ukrayna vatandaşı olanlar.\n\nsahillerde çöp toplayarak doğaya katkı sağlamayı severler.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "ukraynalı mülteci",
+      "entry_id": "140599905",
+      "author": "cliffusion",
+      "date": "29.07.2022 00:30",
+      "content": "almanya’da olanları nedense düz mercedes’e binmez. amg altı yasak gibi.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    }
+  ]
+}

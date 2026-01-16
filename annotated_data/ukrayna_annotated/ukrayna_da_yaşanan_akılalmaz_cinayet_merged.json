@@ -1,0 +1,133 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:13:35.262568",
+    "total_entries": 10,
+    "input": "ukrayna'da yaşanan akılalmaz cinayet",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukrayna'da yaşanan akılalmaz cinayet",
+      "entry_id": "54901828",
+      "author": "frankiegoestohollywood",
+      "date": "19.09.2015 00:44 ~ 00:46",
+      "content": "30 saniyelik dükkan kamerası görüntüsünde şahit olunan kıya. şuracığın cuma akşamında iki duble rakı ve üstüne üç tane birayı heba etmiştir. ayıldım resmen. milli servete yazık.\n\n.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "ECON"
+      ]
+    },
+    {
+      "title": "ukrayna'da yaşanan akılalmaz cinayet",
+      "entry_id": "54902080",
+      "author": "derin dusunce adami",
+      "date": "19.09.2015 00:54",
+      "content": "neden burada paylaşılıp akşam akşam milletin sinirlerinin bozulmaya çalışıldığını anlamadığım video.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'da yaşanan akılalmaz cinayet",
+      "entry_id": "54902192",
+      "author": "o zamanlar tehlikeyim",
+      "date": "19.09.2015 00:59",
+      "content": "genelde liveleak'te olurdu böyle videolar. dehşet verici gerçekten.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CRIME"
+      ]
+    },
+    {
+      "title": "ukrayna'da yaşanan akılalmaz cinayet",
+      "entry_id": "54902398",
+      "author": "evlicocuksuz",
+      "date": "19.09.2015 01:08",
+      "content": "bu ne la? herif kaçmaya çalışıyor da o yüzden kapıyı açmaya çalışıyor gibi durmuyor pek. baya baya planlı cinayet gibi geldi bana. ne bileyim ölen arkadaş sanki haberi olsa arkasına dönüp bakardı bir kerecik olsun ki bence teke tekte yerdi de öldüreni...",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CRIME"
+      ]
+    },
+    {
+      "title": "ukrayna'da yaşanan akılalmaz cinayet",
+      "entry_id": "54902438",
+      "author": "muneez",
+      "date": "19.09.2015 01:10",
+      "content": "yorumlara bakınca cok dehset bise sandım",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'da yaşanan akılalmaz cinayet",
+      "entry_id": "54902582",
+      "author": "zezetx",
+      "date": "19.09.2015 01:17",
+      "content": "allah belasini versin. yemin ediyorum sanki bana sapladi burda, boynum tutuldu kipirdatamiyorum.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CRIME"
+      ]
+    },
+    {
+      "title": "ukrayna'da yaşanan akılalmaz cinayet",
+      "entry_id": "54902668",
+      "author": "aa yakkari",
+      "date": "19.09.2015 01:20",
+      "content": "orospu cocugu tek sallamada denk getiriyo bi de. bu rus ve turevleri cok acimasiz aq.elinde posetle ne sogukkanlilik bu. gece gece sistim be",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ukrayna'da yaşanan akılalmaz cinayet",
+      "entry_id": "54903309",
+      "author": "pislet",
+      "date": "19.09.2015 01:45",
+      "content": "ense köküne saplamış.normalde bıçağın garç diye girmemesi lazım değilmi o kadar kolay??\namcam bide sonra emin olmak için boğazdan çektirio...\nbissürü işid videosu izledim bunkadar etkilenmedim",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CRIME"
+      ]
+    },
+    {
+      "title": "ukrayna'da yaşanan akılalmaz cinayet",
+      "entry_id": "54903683",
+      "author": "obez kedi",
+      "date": "19.09.2015 02:04",
+      "content": "şahısa arkadan yaklaşıp omur başı yada omur ilik soğanına (net göremedim) güzel, temiz,sert bir darbe ve şahıs yere yığıldıktan sonra ön boğazdan olması muhtemel güzel ve derince bir kesik ile tamamlanmış hadise. kanımca maktul pek can çekişmemiş olayın gerçekleşmesinden sonraki 1-2 dakika içinde ex olmuştur.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CRIME"
+      ]
+    },
+    {
+      "title": "ukrayna'da yaşanan akılalmaz cinayet",
+      "entry_id": "54911616",
+      "author": "noktape",
+      "date": "19.09.2015 14:41",
+      "content": "çok mu kafa kesme videosu izlediğimden midir bilmiyorum nedense beni pek etkilemedi. yorumlara bakıp açarken daha fazlasını bekliyordum.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

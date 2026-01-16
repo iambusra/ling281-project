@@ -1,0 +1,76 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:05:53.622555",
+    "total_entries": 5,
+    "input": "suriyelilerin ülkelerine döneceklerine inananlar",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelilerin ülkelerine döneceklerine inananlar",
+      "entry_id": "170860359",
+      "author": "plevnedencikmamdiyorum1969",
+      "date": "08.12.2024 23:00",
+      "content": "2023'de lozan anlasmasinin gizli maddelerinin sona erecegini ve ulkemizin her yerinden petrol fiskiracagini zanneden kisilerdir",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "suriyelilerin ülkelerine döneceklerine inananlar",
+      "entry_id": "170864146",
+      "author": "turan saydam",
+      "date": "09.12.2024 00:47",
+      "content": "büyük bir algı operasyonu yapılıyor.\nsuriyelilerin ülkelerine dönmeyecekleri aşikar iken, tersine bir göç başlamış gibi zafer havası yaratılmaya çalışılıyor. bu algı operasyonunda medyanın da payı büyük. kamuoyu, birkaç kişinin dönüşünü toplumsal bir başarı gibi göstermeye yönlendiriliyor.\n\ngerçek şu ki:\nmilyonlarca mülteci hala bu ülkede yaşamaya devam ediyor. “üç-beş suriyeli geri döndü” diye tüm göçmenlerin gönderildiği iddiası, gerçeklerle bağdaşmayacaktır. özellikle sınır illeri gibi bölgelerde yoğun bir demografik değişim yaşandığı su götürmez gerçek. istanbul’da yoğun bir şekilde varlar. örneğin, kilis gibi şehirlerde yerel halkın azınlıkta kaldığı bir tablo ortaya çıkmış durumda.\n\nbu toprakların sahip olduğu kalkınmışlık düzeyini, gelişmiş ticareti düşünürsek gideceklerini varsaymak, yalnızca bir hayalden ibaret. en fazla şu olur.: bunlar enik gibi çoğaldığı için 10 kardeşten ikisi pastadan payalmak için dönerler, üç beş arsa kapatırlar. enayi gibi bunlara karşılıksız yardım etmiyor muyuz neden bırakıp gitsin?",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "suriyelilerin ülkelerine döneceklerine inananlar",
+      "entry_id": "170864285",
+      "author": "anarkhos",
+      "date": "09.12.2024 00:52",
+      "content": "diyelim ki 10 milyon suriyeli var.\nsuriyeye dönecek maksimum sayı 2 milyon olur.\n\nadam burada iş kurnuş, ev almış, araba almış, çocukları türkçe öğrenmiş, cebine kimlik koymuş.\n\nsen olsan gider misin?\ngitmezsin.\nişte onlar da gitmez.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "suriyelilerin ülkelerine döneceklerine inananlar",
+      "entry_id": "170905869",
+      "author": "ktunx",
+      "date": "10.12.2024 16:08 ~ 16:39",
+      "content": "buna inanan çok fazla polyanna var. ne dönmesi? şimdi gidip ülkelerinde yağma edebilecekleri bir şeyler arayıp geri gelecekler. burda rahat rahat sahillerde nargile içmek, gezip tozmak varken türk vatandaşlarından daha kıymetli bir konumda iken kim gider ne olacağı belirsiz topraklara? terörist pkk devleti ve ne idiğü belirsiz örgütlerin kuracağı devlete geri dönecek salak nerde var? he he geri dönecekler. daha fazlası gelmeseydi geri dönmüş kadar sevinirdik.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "suriyelilerin ülkelerine döneceklerine inananlar",
+      "entry_id": "170905921",
+      "author": "esdtns",
+      "date": "10.12.2024 16:11",
+      "content": "ülkemize gelen mültecileri ensar-muhacir çerçevesinde olayı tartışanlar, bu gün suriyelilerin tamamının ülkesine geri döneceğine inanıyor.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

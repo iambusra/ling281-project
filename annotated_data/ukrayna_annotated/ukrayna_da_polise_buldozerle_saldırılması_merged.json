@@ -1,0 +1,168 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:14:33.593263",
+    "total_entries": 13,
+    "input": "ukrayna'da polise buldozerle saldırılması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukrayna'da polise buldozerle saldırılması",
+      "entry_id": "38662477",
+      "author": "paestum",
+      "date": "02.12.2013 08:07",
+      "content": "(bkz: pomavka)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'da polise buldozerle saldırılması",
+      "entry_id": "38662660",
+      "author": "malt whisky",
+      "date": "02.12.2013 08:44",
+      "content": "çarşı bu hafta deplasman yasağı olunca, soluğu ukrayna'da almıştır.\n\n(bkz: davulcu vedat)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'da polise buldozerle saldırılması",
+      "entry_id": "38662717",
+      "author": "zombi",
+      "date": "02.12.2013 08:53",
+      "content": "(bkz: buldozer'in tüm iş makinelerinin genel ismi olması)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'da polise buldozerle saldırılması",
+      "entry_id": "38662907",
+      "author": "erhanmartin",
+      "date": "02.12.2013 09:15",
+      "content": "polislerin safları sıkı tutup kaçmadığı saldırıdır. ilginç olan dozer sürücüsüne de müdahale görmedim. türkiye de çok daha farklı cereyan edecek olay.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CRIME"
+      ]
+    },
+    {
+      "title": "ukrayna'da polise buldozerle saldırılması",
+      "entry_id": "38663229",
+      "author": "apartopar",
+      "date": "02.12.2013 09:48",
+      "content": "polisin sayesinde savunma ve saldırı sisteminin değiştiğinin kanıtı.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "ukrayna'da polise buldozerle saldırılması",
+      "entry_id": "38663246",
+      "author": "kurcalama oglum bozacaksin",
+      "date": "02.12.2013 09:50",
+      "content": "(bkz: jcb)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'da polise buldozerle saldırılması",
+      "entry_id": "38663251",
+      "author": "jaresd",
+      "date": "02.12.2013 09:51",
+      "content": "etkiye göre tepkinin gerçekleştiği durum, gayet doğal",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'da polise buldozerle saldırılması",
+      "entry_id": "38663443",
+      "author": "claret blue",
+      "date": "02.12.2013 10:10",
+      "content": "bizde olsa o buldozerin tepesinde dikilen elemanı gaz kapsülüyle aşağı almışlardı dediğim hede.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CRIME"
+      ]
+    },
+    {
+      "title": "ukrayna'da polise buldozerle saldırılması",
+      "entry_id": "38663476",
+      "author": "hyperblue",
+      "date": "02.12.2013 10:13",
+      "content": "saldırı değil azcık iteleme olan olaydır. karşıdan son sürat gelerek polisleri biçseydi saldırı olurdu. bu anca itelemek dürtüklemek olmuş. amacın vahşet olmadığı çok belli, gözdağı vermek diyelim.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'da polise buldozerle saldırılması",
+      "entry_id": "38663737",
+      "author": "kendi dunyasindaki adam",
+      "date": "02.12.2013 10:35 ~ 11:09",
+      "content": "türkiye hariç her yerde canlı yayınlanan bir direnişi gören ukraynalılar, çarşı'nın tomayla polise saldırmasını örnek almıştır. ve uygun koşullar oluşunca bir de biz yapalım bakalım demişlerdir. ancak ukrayna polisi hiçbir şekilde karşı saldırıda bulunmayınca bu olay da çok fazla ileri gitmemiştir.\n\nşimdi gelelim kıyaslamalara: türkiye'de olsa polisler buldozerin işini 10 dakikada bitirirlerdi. ukrayna polisleri ise orda olmalarının nedeninin olay çıkartmak değil, olayları en az hasarla yatıştırmak olduğunu bildiklerinden akıllıca davranmışlardır ve karşı saldırıda bulunmamışlardır. türkiye'de direnişin son zamanlarına doğru ağaçlarla ve tomalarla röportaj yapan çok zeki bir yandaş medyaya sahiptik. acaba ukraynalı gazeteciler buldozerle röportaj yapacaklar mı? pek sanmıyorum. bir de en önemlisi acaba televizyonları penguen belgeseli yayınladılar mı? bunu da pek sanmıyorum.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "ukrayna'da polise buldozerle saldırılması",
+      "entry_id": "38663756",
+      "author": "emreico",
+      "date": "02.12.2013 10:37",
+      "content": "diren kiev.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "ukrayna'da polise buldozerle saldırılması",
+      "entry_id": "38663889",
+      "author": "crowley",
+      "date": "02.12.2013 10:46",
+      "content": "(bkz: vedat?)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'da polise buldozerle saldırılması",
+      "entry_id": "38663927",
+      "author": "balporsugu",
+      "date": "02.12.2013 10:48",
+      "content": "(bkz: kiliseye ayakkabılarıyla girdiler)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CRIME"
+      ]
+    }
+  ]
+}

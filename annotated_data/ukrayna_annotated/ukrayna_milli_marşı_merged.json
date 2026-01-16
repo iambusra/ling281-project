@@ -1,0 +1,73 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:02:22.125313",
+    "total_entries": 5,
+    "input": "ukrayna milli marşı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukrayna milli marşı",
+      "entry_id": "70568592",
+      "author": "yurekinmez",
+      "date": "02.09.2017 21:45",
+      "content": "bizim milli marşımızın heybeti bir kenara yabancı ülke milli marşları arasında en sevdiğim milli marş. çok duygulu güzel bir armonisi var.",
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "ukrayna milli marşı",
+      "entry_id": "134321227",
+      "author": "caylakadam",
+      "date": "28.02.2022 13:04",
+      "content": "bugün için yazılmış gibi... umarım bu şanlı ulus bu güzel marşı ilelebet söyler:\n\nukraine is not yet dead, nor its glory and freedom,\nluck will still smile on us brother-ukrainians.\nour enemies will die, as the dew does in the sunshine,\nand we, too, brothers, we'll live happily in our land.\nwe’ll not spare either our souls or bodies to get freedom\nand we’ll prove that we brothers are of kozak kin.",
+      "has_external_url": true,
+      "sentiment_numeric": 5,
+      "categories": [
+        "CULTURE",
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "ukrayna milli marşı",
+      "entry_id": "134519241",
+      "author": "betada don bebegim yok diye uye oldum",
+      "date": "05.03.2022 00:24",
+      "content": "kardeş slavlar diyen bir marştır, lakin ki kardeş slavlar şu anda kendilerini tokatlamaktadır.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "ukrayna milli marşı",
+      "entry_id": "171098040",
+      "author": "kizkulesinden istanbula bakan adam",
+      "date": "17.12.2024 00:39 ~ 00:40",
+      "content": "armonisi çok güzel bir marştır.\n\nmilli marşımız harici 50 tane ülkenin marşını dinlemişimdir. ukrayna'nın milli marşı da, piyano versiyonu da güzel. arada açıp dinliyorum.",
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "ukrayna milli marşı",
+      "entry_id": "175670198",
+      "author": "qui non proficit deficit",
+      "date": "29.05.2025 18:05",
+      "content": "istiklal marsi bir yana, dinledigim baska ulkelerin milli marslari icerisinde en begendiklerimden birisi kesinlikle. kim bestelediyse harika bir sey bestelemis.\n\nhttps://www.youtube.com/watch?v=sslnzsistxe",
+      "has_external_url": true,
+      "sentiment_numeric": 5,
+      "categories": [
+        "CULTURE"
+      ]
+    }
+  ]
+}

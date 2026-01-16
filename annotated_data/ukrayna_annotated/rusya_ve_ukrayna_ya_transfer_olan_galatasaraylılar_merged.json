@@ -1,0 +1,38 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:11:16.430038",
+    "total_entries": 2,
+    "input": "rusya ve ukrayna'ya transfer olan galatasaraylılar",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rusya ve ukrayna'ya transfer olan galatasaraylılar",
+      "entry_id": "22639653",
+      "author": "avrasya",
+      "date": "20.03.2011 02:02 ~ 02:13",
+      "content": "gece gece kafamı siken problem.\n\nbi adam vardı, çok iyi fiyata satılmış ukrayna veya rusya'ya. kabze diil, tomas diil, meira, tamas diil. kimdi yaa!",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "SEXUAL",
+        "CRIME",
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "rusya ve ukrayna'ya transfer olan galatasaraylılar",
+      "entry_id": "22639750",
+      "author": "ergnr",
+      "date": "20.03.2011 02:18",
+      "content": "(bkz: misimoviç)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

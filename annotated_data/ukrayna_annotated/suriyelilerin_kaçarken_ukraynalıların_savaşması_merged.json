@@ -1,0 +1,39 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:24:08.854064",
+    "total_entries": 2,
+    "input": "suriyelilerin kaçarken ukraynalıların savaşması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelilerin kaçarken ukraynalıların savaşması",
+      "entry_id": "134303356",
+      "author": "neslitukenenpanda",
+      "date": "27.02.2022 23:45",
+      "content": "gaziantepte yolu kesilen koreli youtuberın videosunu izlerken neden suriyeli ve afgan sığınmacılara üzülmediğimi hatırlatan durum kendisi savaş durumunda ülkelerini terk edip üstüne sığındıkları ülkede gasp hırsızlık vb şeyler yapmaları",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO",
+        "CRIME"
+      ]
+    },
+    {
+      "title": "suriyelilerin kaçarken ukraynalıların savaşması",
+      "entry_id": "134304979",
+      "author": "anshar",
+      "date": "28.02.2022 00:16 ~ 00:30",
+      "content": "tarih tekerrürden ibarettir sozunu bir kez daha kanitlayan konu.\n\nabd, irak'ta beyaz fosfor kullandigini inkar ederken, beyaz fosfordan korkunc yaralar alan halk ve savascilar kactiginda da \"nasil kaciyolar!\" diye asagilanmislardi.\n\nsuriye'de sinir gazı ni esad kullandi dedi ama gercekte, stratejik olark kimin kullandigini henuz kimse kanitlayamadi.\n\nsaddam icin de korkunc ve tehlikeli biyolojik silah lari var denildi. ve yalan oldugu ortaya cikinca ortbastir ettiler.\n\nkorku- savas insan karakteri - ulkeye baglilik - cesitli nedenlere dayali olarak ulkeyi umursamamak, firsatcilik vs goreceli unsurlar.\n\nfelaketi yasayan insanlara bu konularda genelleme yapmaya hakkimiz olmadigini dusunuyorum.\n\nsuriyeliler'in ulkemize musallat olmalarindan rahatsiz olmamiz cok ayri bir konu.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    }
+  ]
+}

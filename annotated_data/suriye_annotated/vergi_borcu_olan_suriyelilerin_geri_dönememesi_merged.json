@@ -1,0 +1,90 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:13:53.736348",
+    "total_entries": 6,
+    "input": "vergi borcu olan suriyelilerin geri dönememesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "vergi borcu olan suriyelilerin geri dönememesi",
+      "entry_id": "170869778",
+      "author": "reanu keeves",
+      "date": "09.12.2024 09:39",
+      "content": "az önce gördüğüm ve görünce dumura uğradığım bilgi. kaynak\n\nolum saçmalamayın lan. bırakın gitsinler ve bir daha asla almayacaksanız biz o vergi borcunu da öderiz. zaten suriyelileri besleyeceğiz diye anamız ağlamış, bir kaç milyar dolar bize koymaz.",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "vergi borcu olan suriyelilerin geri dönememesi",
+      "entry_id": "170871149",
+      "author": "sakinbey",
+      "date": "09.12.2024 10:53",
+      "content": "suriye'li vergi mi ödüyormuş?",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "ECON",
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "vergi borcu olan suriyelilerin geri dönememesi",
+      "entry_id": "170871297",
+      "author": "nazeyleme",
+      "date": "09.12.2024 11:01",
+      "content": "ümit özdağ duymasın.\nvergisini ayrı borcunu ayrı ziler.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "ECON",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "vergi borcu olan suriyelilerin geri dönememesi",
+      "entry_id": "170871453",
+      "author": "warone",
+      "date": "09.12.2024 11:09",
+      "content": "kim siker vergi borcunu.\nadamlar ulkeye elini kolunu sallayarak girdiler sinirdan. ayni sekilde sinir kapisinin yanindan tellerden gecerler. hem kesin domus yerine gidip bir ortami gorurler, begebmezlerse yine gelirler amk, cok mu zor?\nbir daha gidip onca sisteme misteme kayit olmalari da gerekmez. adamlar bizden daha akilli.\n\nt: bir turkiye gercegi ve sacmaligi olan durum",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "vergi borcu olan suriyelilerin geri dönememesi",
+      "entry_id": "170871578",
+      "author": "kimyaogretmeniwalterwhite",
+      "date": "09.12.2024 11:15",
+      "content": "askıda vergi",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "ECON",
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "vergi borcu olan suriyelilerin geri dönememesi",
+      "entry_id": "170871728",
+      "author": "donboloski",
+      "date": "09.12.2024 11:22",
+      "content": "lan birakin donsunler onuda biz oderiz",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    }
+  ]
+}

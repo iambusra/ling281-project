@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:10:57.175982",
+    "total_entries": 1,
+    "input": "26 nisan 2014 rusya'nın ukrayna'ya girmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "26 nisan 2014 rusya'nın ukrayna'ya girmesi",
+      "entry_id": "42288347",
+      "author": "fikrifukara",
+      "date": "26.04.2014 22:20",
+      "content": "beynin yapı taşının dna olduğunu bize açıkça gösteren asparagas haber..\n\nrusya isterse girer, keyfine göre içinde de çevirir. abd denen bedevi sürülerinin çomarı olsa olsa uzaktan havlar işler ciddiye bindiğinde de yapacağı tek şey kıyakçı lık olur.\n\nçünkü o çomar bilir ki karşısındaki tepesine her fırsatta bindiği bedeviler gibi koyundan sığırdan mütevellit bir sürü değil.\n\n(bkz: boz ayı) (bkz: wolf pack)",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    }
+  ]
+}

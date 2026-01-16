@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:10:47.882580",
+    "total_entries": 2,
+    "input": "rusya'ya mektup yazan ukrayna askerleri",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rusya'ya mektup yazan ukrayna askerleri",
+      "entry_id": "47187777",
+      "author": "frankiegoestohollywood",
+      "date": "23.11.2014 14:08",
+      "content": "'zaporojya kazakları'na o konuda ben de çok kırgınım.\" - v. putin\n\n.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "rusya'ya mektup yazan ukrayna askerleri",
+      "entry_id": "47188160",
+      "author": "be na mi",
+      "date": "23.11.2014 14:31",
+      "content": "ukrayna askerlerinin rusya'ya ilettigi zekice bir mesajdır. güldürmesi de cabası.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN-POS"
+      ]
+    }
+  ]
+}

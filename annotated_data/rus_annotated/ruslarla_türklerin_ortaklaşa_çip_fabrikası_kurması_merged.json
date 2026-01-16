@@ -1,0 +1,74 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:30:57.318131",
+    "total_entries": 5,
+    "input": "ruslarla türklerin ortaklaşa çip fabrikası kurması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ruslarla türklerin ortaklaşa çip fabrikası kurması",
+      "entry_id": "144304175",
+      "author": "henkan",
+      "date": "25.10.2022 00:41",
+      "content": "t24'ten füsun sarp nebil'in aktarmasına göre olması muhtemel olay.\n\n--- spoiler ---\n\nbugün konuştuğumuz cemil şinasi türün -ki biz kendisini daha çok kripto para ve blockchain konularındaki çalışmaları ile tanıyoruz-, moskova'daki mıcron şirketi ile birlikte 90 nanometrelik bir üretim tesisini kurmayı planladıklarını anlatıyor\n--- spoiler ---\n\nhttps://t24.com.tr/…-fabrikasi-kurulabilir-mi,37205",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "ECON",
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ruslarla türklerin ortaklaşa çip fabrikası kurması",
+      "entry_id": "144304234",
+      "author": "k 1 f",
+      "date": "25.10.2022 00:43",
+      "content": "türkiye'de kurulacaksa birçok işsize faydası olacaktır.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "ECON",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "ruslarla türklerin ortaklaşa çip fabrikası kurması",
+      "entry_id": "144304276",
+      "author": "1den",
+      "date": "25.10.2022 00:44",
+      "content": "ilk modelin adı ömer çip cs 1.6",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ruslarla türklerin ortaklaşa çip fabrikası kurması",
+      "entry_id": "144304295",
+      "author": "kevinharper",
+      "date": "25.10.2022 00:44",
+      "content": "90 nanometrelik mi? 5 cm lik çip yapsalarmış o küçük kalmış.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ruslarla türklerin ortaklaşa çip fabrikası kurması",
+      "entry_id": "144304625",
+      "author": "saskinmaymun",
+      "date": "25.10.2022 00:55",
+      "content": "sallama haber. ruslar 2020 yilinda kendi ihtiyaclari icin elbrus-8sv kodlu 28 nm islemcinin seri uretimine baslamislardi zaten. su an seri uretim olmasa dahi teknoloji olarak altina inmis olmalari gerekli. 90 nm nedir yahu? 2005'te kalan teknoloji o.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

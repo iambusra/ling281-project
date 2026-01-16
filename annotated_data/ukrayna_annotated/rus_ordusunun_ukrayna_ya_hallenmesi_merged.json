@@ -1,0 +1,224 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:10:51.552824",
+    "total_entries": 15,
+    "input": "rus ordusunun ukrayna'ya hallenmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rus ordusunun ukrayna'ya hallenmesi",
+      "entry_id": "40722324",
+      "author": "atima dasu",
+      "date": "26.02.2014 14:45 ~ 20:21",
+      "content": "ukraynayı yakacaklar\nnot. windows phoneda mobil sitenin bkz hedesi çalışmamakta",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "rus ordusunun ukrayna'ya hallenmesi",
+      "entry_id": "40722428",
+      "author": "wellwisher",
+      "date": "26.02.2014 14:49",
+      "content": "(bkz: ukrayna'yı harcayacaklar matmazel)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "rus ordusunun ukrayna'ya hallenmesi",
+      "entry_id": "40722484",
+      "author": "makinedeki hayalet",
+      "date": "26.02.2014 14:52",
+      "content": "yahu çok fazla umut sarıkaya'nın naif karakterleri gibi olacak ama bunun böyle olacağı dünden belliydi. hem bu kadar göbek bağı ile bağlı olup hem de rusya'ya kafa tutmak ne anlama gelmektedir, hiçbir zaman anlamamışımdır.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus ordusunun ukrayna'ya hallenmesi",
+      "entry_id": "40722506",
+      "author": "buyuyup buyuk adam olacaktim",
+      "date": "26.02.2014 14:53",
+      "content": "türkiye tam da şangay kaplanı, sibirya alsanı olacakken patlayan zamanlaması manidar kriz.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus ordusunun ukrayna'ya hallenmesi",
+      "entry_id": "40722514",
+      "author": "oric",
+      "date": "26.02.2014 14:54 ~ 15:10",
+      "content": "tarih tekerrürden ibarettir\n\nkırım savaşı\n\nbiraz daha açmak gerekirse, rusları karadeniz'de güvenli liman olan azak denizi nden uzaklaştırmak için avrupalılar 19.yy'da bu savaşı ruslara karşı vermişlerdi, neredeyse 200 yıl sonra benzeri müttefikler aynı savaşı ukraynalılar üzerinden tekrar veriyorlar.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus ordusunun ukrayna'ya hallenmesi",
+      "entry_id": "40722541",
+      "author": "insan haltlari",
+      "date": "26.02.2014 14:55",
+      "content": "(bkz: kusursuz fırtına)\n\nroubini'nin geçen sene için öne sürdüğü, ancak gerçekleşmeyen, abd bütçe sorunu, finansal kriz, çinîn yavaşlaması ile oluşan kırılganlıkların isral-iran savaşı gibi bir tetikleyici ile kusursuz fırtınaya dönüşmesi senaryosu, bu sene özellikle gelişmekte olan ülkeler için farklı gerekçelerle gerçekleşebilir mi diye sorduran olay.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus ordusunun ukrayna'ya hallenmesi",
+      "entry_id": "40722783",
+      "author": "gunbegun",
+      "date": "26.02.2014 15:05",
+      "content": "zamanlama açısından anlamlı bulduğum olay.\n(bkz: ukranya'ya çarşanba günü bonba atmak)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "rus ordusunun ukrayna'ya hallenmesi",
+      "entry_id": "40723955",
+      "author": "trajedi",
+      "date": "26.02.2014 15:55",
+      "content": "donanma komutanlarının hapisanede olduğunu düşünürsek, \"biz biliriz, bizzz!!\" lafları ile müdehale edeceğimiz krizdir.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus ordusunun ukrayna'ya hallenmesi",
+      "entry_id": "40723980",
+      "author": "nixolidia",
+      "date": "26.02.2014 15:55",
+      "content": "(bkz: rusların sıcak denizlere inme isteği)\n(bkz: serbest çağrışım)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus ordusunun ukrayna'ya hallenmesi",
+      "entry_id": "40724450",
+      "author": "bulunan balik nemo",
+      "date": "26.02.2014 16:13",
+      "content": "türk ordusundaki cemal yani c durumuna geçtiklerini göstermektedir.\n\n(bkz: ahmet) (bkz: behçet) (bkz: cemal) (bkz: davut)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus ordusunun ukrayna'ya hallenmesi",
+      "entry_id": "40724614",
+      "author": "hickimsehayattansagkurtulamaz",
+      "date": "26.02.2014 16:21",
+      "content": "ukrayna'da olup biten bizim savaşımız değil. iki buçuk sloganla rusya'nın stratejik roket kuvvetlerini durduramazsınız. soros'un parası almanya'nın politik bağlantılarıyla yürütülen bir savaş bu.\n\nve emin olun soros kazanamayacak... geçmişte soros'un (uluslararası finans kapital yerine kullanıyorum. şu an için en ünlü mensupları o) silahı ve parasıyla mücadele veren çeçenistan'ın bugünkü haline bir bakın. kadirov şarlatanının eline düştü. bosna'ya falan hiç değinmedim dikkat ederseniz.\n\n(bkz: 24 şubat 2014 rusya'nın ukrayna'ya müdahalesi/#40723912)",
+      "referenced_content": [
+        {
+          "type": "entry",
+          "title": "24-subat-2014-rusyanin-ukraynaya-mudahalesi",
+          "entry_id": "40723912",
+          "author": "hickimsehayattansagkurtulamaz",
+          "date": "26.02.2014 15:53 ~ 16:03",
+          "content": "(bkz: soros'un protestocuları vs rusya'nın tank tümenleri)\n\ndoğu avrupa'yla ilgili meselelerde neo-con'lar rusya'yla tamamen aynı taraftadır. yani amerika vs rusya gibi durum yoktur. amerikan ordusu rusya'yı durdurmak için parmağını bile kıpırdatmaz. daha ikinci dünya savaşı sırasında doğu avrupa'daki egemenliğin %90 rusya %10 müttefikler şeklinde paylaşılacağında mutabık kalmışlardı.`:percentages agreement` bu paylaşıma karşı çıkanlar soros'un fonları, soros'un protestocuları. rusya'nın karşısına çıkarabilecekleri en büyük güç elinde bazukayla birkaç tank vurabilecek teröristlerden ibaret. hitler'in panzer tümenlerini ezip geçebilmiş bir ordu için tatbikat bile sayılmaz.\n\nla bu soros çocuklarında da hiç akıl yok ha! ben öğrenciydim bunlar şiddet içermeyen mücadele konusunda tüm dünyaya burs veriyorlardı. ben neredeyse emekli olacağım daha henüz amerikan ordusunu arkalarına almadan başarı sağlayabildikleri bir yer olmadı. başardıkları yeri de zaten abd ordusu kendi namı hesabına geri alıyor.`:mısır` hatta bir süre sonra rusya'ya geri bile verebiliyor.`:kırgızistan`",
+          "has_external_url": false
+        }
+      ],
+      "referenced_entry_ids": [
+        "40723912"
+      ],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus ordusunun ukrayna'ya hallenmesi",
+      "entry_id": "40724673",
+      "author": "leevankilit",
+      "date": "26.02.2014 16:23",
+      "content": "ukrayna'dan mülteci akınına sebebiyet verecek bir savaşın habercisi olabilir. allah vere de bu moskoflar hazır türkiye'de ortam karışık deyip sıcak denizlere inmeseler.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "rus ordusunun ukrayna'ya hallenmesi",
+      "entry_id": "40736872",
+      "author": "efes darth",
+      "date": "27.02.2014 00:20",
+      "content": "(bkz: diego dur allahını seversen zaten ortalık karışık)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus ordusunun ukrayna'ya hallenmesi",
+      "entry_id": "40737116",
+      "author": "abbas isyanda",
+      "date": "27.02.2014 00:30",
+      "content": "selman'ın parmak bastığı kriz. gerçi kendisini takdir ettim. küba'daki puro işçilerinin yaşadığı krizi de anlatabilirdi.\ngaribim ortada duracağım diye sıkışıp kalacak.\n\nselmancığım basamakta durma. otomatik kapı çarpar.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus ordusunun ukrayna'ya hallenmesi",
+      "entry_id": "40767652",
+      "author": "abbas isyanda",
+      "date": "28.02.2014 11:14",
+      "content": "(bkz: ukrayna'nın bölünmesi)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:23:53.435055",
+    "total_entries": 2,
+    "input": "ne conisi ne rusu kurtlar vadisi pusu",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ne conisi ne rusu kurtlar vadisi pusu",
+      "entry_id": "19261575",
+      "author": "a cup of coffee",
+      "date": "04.06.2010 09:46",
+      "content": "kurtlar vadisinin ismail türüt tarafından yapılacak olan 2011 sezonu jingle'ı, bu sezonda polatın uzaylı olduğu ve bir sepet içinde venüsün halkalarına bırakıldığı halde mustafa topaloğlu tarafından karadenize getirilip çakırın yanına bırakılması konu alınıyor. polatı ancak sikirocco adında bir element öldürebilirdi. dıdındındıdın. 2012 sezonunda da pelerin takar artık.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "ne conisi ne rusu kurtlar vadisi pusu",
+      "entry_id": "19261661",
+      "author": "diazepam",
+      "date": "04.06.2010 10:04",
+      "content": "(bkz: ne gürcüsü ne rumu aşk-ı memnu)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL",
+        "CULTURE"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T15:32:59.472220",
+    "total_entries": 1,
+    "input": "afgan ve suriyelileri öldürme isteği",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "afgan ve suriyelileri öldürme isteği",
+      "entry_id": "126398269",
+      "author": "moon and back",
+      "date": "01.08.2021 18:59",
+      "content": "eğer böyle hınç ve kin nefret doluysanız bu konu hakkında buraya yazabilirsiniz belki rahatlarız",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE"
+      ]
+    }
+  ]
+}

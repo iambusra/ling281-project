@@ -1,0 +1,38 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:33:31.282915",
+    "total_entries": 2,
+    "input": "rusların orta asya'yı işgali",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rusların orta asya'yı işgali",
+      "entry_id": "113340560",
+      "author": "semerkan",
+      "date": "22.09.2020 16:05",
+      "content": "orta asya'da ki milletler defalarca kez isyan etti ama ruslar tüm isyanları kanlı bir şekilde bastırdı. uluslararası güçlerin desteği ile ruslar orta asya'da egemenlik kurdu. nasıl ki çin'in, ikinci dünya savaşında sonra uygur, tibet ve moğolistanı işgal etmesine göz yumdularsa buna da göz yumdular. egemen güçlerin her şeyi kendi aralarında paylaştığı bir dünyada yaşıyoruz.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY",
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "rusların orta asya'yı işgali",
+      "entry_id": "153423500",
+      "author": "patimiyav",
+      "date": "11.06.2023 11:42",
+      "content": "eninde sonunda gerçekleşecek olan bir olay. yalnızca ruslar da değil çinliler de dahil olur eğer ruslar atağa geçerse, ama dolaylı ama dolaysız yollardan. orta asya'nın eski aryan toprağı, rusların egemenlik alanı, rusların kaybettiği toprakları olması gibi gerekçelerle rusların toprak ve güç sevdaları da düşünülerek kısa bir zaman sonra ruslar ama savaşla ama dönüştürerek o toprakları rusland yapacaklardır. buna kuşkum yok.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY",
+        "HUMAN"
+      ]
+    }
+  ]
+}

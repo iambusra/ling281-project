@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:27:14.285437",
+    "total_entries": 1,
+    "input": "ruslar ve köpekler giremez",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ruslar ve köpekler giremez",
+      "entry_id": "134465648",
+      "author": "sedat kapamayanoglu",
+      "date": "03.03.2022 19:24",
+      "content": "yaptırımlar bu minvalde devam ederse, yakında avrupa ve amerika'nın girişine yazılacak cümle.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    }
+  ]
+}

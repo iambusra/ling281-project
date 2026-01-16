@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:06:55.059733",
+    "total_entries": 2,
+    "input": "22 ağustos 2006 ukrayna uçak kazası",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "22 ağustos 2006 ukrayna uçak kazası",
+      "entry_id": "9954454",
+      "author": "jessie mccoy",
+      "date": "23.08.2006 16:39 ~ 16:41",
+      "content": "171 kişilik rus yolcu uçağının ukrayna'da yapmış olduğu kaza. kimsenin kurtulamadığı bildirilmiş haber ajansları tarafından\ndetaylar için http://hurarsiv.hurriyet.com.tr/…7&tarih=2006-08-22\n\n(bkz: allah rahmet eylesin)\n\nnot: ukteydi, doldurdum",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "22 ağustos 2006 ukrayna uçak kazası",
+      "entry_id": "164425320",
+      "author": "sertmertdert",
+      "date": "15.05.2024 10:44",
+      "content": "tarih: 22 ağustos 2006\nsaat: 14:38\nülke: ukrayna\nyer: donetsk bölgesi, sukha balka köyü yakınları\nuçak tipi: tupolev tu-154 m\nuçak kaydı: ra-85185\nhavayolu: pulkovo\nuçuş: pl-612\n\ndinlediğim cvr (bkz: cockpit voice recorder) kayıtları arasında en üzücü ve dehşet verici olanı buydu .\n(videoda fdr (bkz: flight data recorder) verisine göre oluşturulmuş uçak düşüş animasyonu da görülüyor.)\n\nkonuşmalardaki ses tonu ve panik havası, ölüme gidişin çaresizliğini iliklerinize kadar hissettiriyor.\n\nkısaca kaza hikayesi:\nuçak donetsk üzerinde bir fırtınaya yakalanıyor. fırtınanın etkisinden kurtulmak isteyen kaptan otopilotu devre dışı bırakıyor ve bulutların üzerine çıkmak için uçağı hızlı bir şekilde tırmanışa geçiriyor. tırmanış dengesiz oluyor ve uçak aerodinamik limitlerini aşıp kontrolden çıkıyor. düşüşe geçen uçakta uçuş ekibi durumu toparlayamıyor. motorların da devre dışı kalmasıyla uçak hızla irtifa kaybediyor ve bir tarlaya çakılıyor. 160 yolcu ve 10 mürettebat olmak üzere uçaktaki 170 kişinin tümü hayatını kaybediyor.\n\nilginç bir anektod:\nkazadan yaklaşık yarım saat önce kule ile türk hava yolları 1451 sefer sayılı uçağın kaptanının bir konuşması oluyor ve bu fırtınadan bahsediyorlar. bu konuşmayı birazdan kaza yapacak olan pulkovo 612 ekibi de dinliyor. türk kaptanın ingilizcesi biraz yavaş ve zayıf olduğu için iletişim kurmakta zorlanıyor. pulkovo 612 ekibi kendi aralarında dalga geçiyor, hatta \"aptal türk\" falan diyorlar. sonuç olarak türk kaptan fırtına yüzünden daha fazla ilerlemiyor ve belki de onlarca insanın hayatını kurtarıyor. hürriyet'in 25 ağustos 2006 tarihli haberine göre bu uçağın samsun'a iniş yaptığı ortaya çıkıyor.\n\nmeraklısına:\n- teknik analiz (rusça kaynak, çevrilerek okunabilir)\n- 35 dakikalık cvr kayıt metni, thy 1451 konuşmaları dahil (rusça kaynak, çevrilerek okunabilir)\n- olay yeri ve enkaz resimleri\n- fdr verisi\n- kaza ile ilgili bir belgesel (rusça video, ingilizce altyazı)\n- hürriyet'in thy 1451 uçağı ile ilgili haberi\n- thy 1451 konuşmasının ses kaydı",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HUMAN"
+      ]
+    }
+  ]
+}

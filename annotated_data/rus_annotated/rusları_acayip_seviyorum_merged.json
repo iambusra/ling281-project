@@ -1,0 +1,51 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:28:40.608243",
+    "total_entries": 3,
+    "input": "rusları acayip seviyorum",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rusları acayip seviyorum",
+      "entry_id": "25432435",
+      "author": "genzo madafakabayasi",
+      "date": "19.09.2011 15:35",
+      "content": "bir yeni adnan oktar vecizesi. o programdan sonra neler oluyor bilmek istiyorum. maşalla maşalla.\n\nhttp://www.youtube.com/…&feature=feedrec_grec_index",
+      "has_external_url": true,
+      "sentiment_numeric": 4,
+      "categories": [
+        "CULTURE",
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "rusları acayip seviyorum",
+      "entry_id": "25432493",
+      "author": "sefil kedi",
+      "date": "19.09.2011 15:40 ~ 15:40",
+      "content": "(bkz: hepimiz adnan oktar'ız)",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "CULTURE",
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "rusları acayip seviyorum",
+      "entry_id": "25432710",
+      "author": "biotexnanoloji",
+      "date": "19.09.2011 16:05",
+      "content": "(bkz: allah'ın güzel tecellileri)",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "CULTURE",
+        "HUMAN"
+      ]
+    }
+  ]
+}

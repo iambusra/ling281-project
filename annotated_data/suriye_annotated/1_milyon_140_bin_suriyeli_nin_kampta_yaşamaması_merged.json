@@ -1,0 +1,38 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T16:43:19.974944",
+    "total_entries": 2,
+    "input": "1 milyon 140 bin suriyeli'nin kampta yaşamaması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "1 milyon 140 bin suriyeli'nin kampta yaşamaması",
+      "entry_id": "45170109",
+      "author": "koseli cember",
+      "date": "23.08.2014 09:57",
+      "content": "devlet hastanelerinden bedava yararlanmaları da cabasıymış. az önce haberlerde izledim, muayene ücretine de %100 zam gelmiş. suriyeliler kardeşimizmiş. ben hasta iken onlar ücretsiz tedavi olmalı, 7 senedir bu ülke için çalışan ben ise %100 zamlı muayene ücreti vererek tedavi olmalıymışım. esad'ı yıkamayanlar, halkını kardeş ilan etmiş. harikasınız. 1 milyon fazla suriyeli var diye utanmadan açıklama yapıyorlar bir de. bu adamları istanbul'a kadar nasıl dağıttınız kardeşim? 1 yetmez. 2 milyon yapın. türkiye kendi kendine yetebilen bir ülke. ekonomisi de süper. herşey çok ucuz.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "ECON"
+      ]
+    },
+    {
+      "title": "1 milyon 140 bin suriyeli'nin kampta yaşamaması",
+      "entry_id": "45170320",
+      "author": "bebeninbiri",
+      "date": "23.08.2014 10:19",
+      "content": "çoğu istanbul'da yollarda dilendiği için aslında bildiğimiz bir durumdur.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,532 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:08:03.890424",
+    "total_entries": 43,
+    "input": "bu akşam ukrayna'yı arakan için yeneceğiz",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "bu akşam ukrayna'yı arakan için yeneceğiz",
+      "entry_id": "70563498",
+      "author": "historien",
+      "date": "02.09.2017 16:03 ~ 16:04",
+      "content": "arda turan in mac oncesi basin toplantisinda soyledigi soz.\n\nunlu futbolcumuz arda turan arakan'daki zulme dikkat cekerek aciklamalarda bulundu. \"arakan'daki müslüman kardeslerimiz zulum goruyor, bizler bu konuda suskun kalacak degiliz, kenariya cekilemeyiz\" dedi ve ekledi: \" arakanlı mültecilerin türkiye'ye getirilmesi kararini dogru buluyor ve destekliyorum\"\n\nkaynak: trt spor",
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "HUMAN-POS",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "bu akşam ukrayna'yı arakan için yeneceğiz",
+      "entry_id": "70563559",
+      "author": "eon blue apocalypse",
+      "date": "02.09.2017 16:08",
+      "content": "beyefendi mirasının yarısını bu kardeşleriyle paylaşsa daha iyi olur.\nzira bu tarz duygu sömürüsü yapmaya gerek bile yoktu. sen yenince arakanlı kardeşlerinin zulmü bitecek mi?\nşovcu şebelek.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "bu akşam ukrayna'yı arakan için yeneceğiz",
+      "entry_id": "70563618",
+      "author": "endirek serbest vurus",
+      "date": "02.09.2017 16:12",
+      "content": "(bkz: sazan.avi)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "bu akşam ukrayna'yı arakan için yeneceğiz",
+      "entry_id": "70563626",
+      "author": "electrobuzz",
+      "date": "02.09.2017 16:14",
+      "content": "(bkz: adamlıkta bugün)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "bu akşam ukrayna'yı arakan için yeneceğiz",
+      "entry_id": "70563829",
+      "author": "dergul",
+      "date": "02.09.2017 16:27",
+      "content": "rusya için yeneceğimizi söyleseydi, daha mantıklı olurdu.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "bu akşam ukrayna'yı arakan için yeneceğiz",
+      "entry_id": "70563865",
+      "author": "darklordwx",
+      "date": "02.09.2017 16:30",
+      "content": "bir yillik kazancinin yarisini arakanlilarla paylas desen felc gecirecek bir futolcunun sicmigi. bunun teknik direktörü de böyleydi.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "bu akşam ukrayna'yı arakan için yeneceğiz",
+      "entry_id": "70564120",
+      "author": "nbafan",
+      "date": "02.09.2017 16:48 ~ 16:49",
+      "content": "kaynak olmayan haber. yazar bu başlıkta araştırmadan her bilgiyi doğru kabul eden yazarlarla dalga geçiyor . aferin devam edin.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "bu akşam ukrayna'yı arakan için yeneceğiz",
+      "entry_id": "70565349",
+      "author": "k mno4",
+      "date": "02.09.2017 18:10",
+      "content": "?",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "bu akşam ukrayna'yı arakan için yeneceğiz",
+      "entry_id": "70565686",
+      "author": "the white turk",
+      "date": "02.09.2017 18:34",
+      "content": "arakan için ukraynayı yeneceklerine aldığı yıllık ücretin %10'unu bağışlasın, ukrayna'yı da gruplardak çıkıp dünya kupasına kalabilmek için yensiler.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "bu akşam ukrayna'yı arakan için yeneceğiz",
+      "entry_id": "70565712",
+      "author": "mrdavidblack",
+      "date": "02.09.2017 18:36",
+      "content": "arakan vergisi gelsin araçlara.telefonlara ve %40 olsun aşağısı günah olur",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "bu akşam ukrayna'yı arakan için yeneceğiz",
+      "entry_id": "70565810",
+      "author": "tangocharliejuliett",
+      "date": "02.09.2017 18:44 ~ 18:45",
+      "content": "oğlum maç myannmar'la olsa tamam diyeceğim de, ukrayna bizimle ortak uçak, jet motoru ve araba motoru üretecek bir ülke. stratejik ortak yani. sen hayırdır? bu arada budist de değil adamlar, hristiyanlar.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "bu akşam ukrayna'yı arakan için yeneceğiz",
+      "entry_id": "70565855",
+      "author": "karacakurt",
+      "date": "02.09.2017 18:46",
+      "content": "şu lafları eden kelepir yüzünden bazı çakallar gene reis'e çemkirecek ona üzülüyorum...",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "bu akşam ukrayna'yı arakan için yeneceğiz",
+      "entry_id": "70565875",
+      "author": "bg",
+      "date": "02.09.2017 18:48",
+      "content": "ekşisözlük yazarlarının haklı tepkileri ile karşılaşmıştır. fakat işin aslı öyle değil, başlıkta çarpıtma var.\n\narda, bu akşam arakan için oynayacağız dedi.\n\nayrıca maçtan elde edilecek gelir türkiye'de yaşayan arakanlılar dayanışma vakfına bağışlanacak.",
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "bu akşam ukrayna'yı arakan için yeneceğiz",
+      "entry_id": "70566034",
+      "author": "schmendrickinkukuletasi",
+      "date": "02.09.2017 19:01",
+      "content": "(bkz: yenemediler)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "bu akşam ukrayna'yı arakan için yeneceğiz",
+      "entry_id": "70566050",
+      "author": "gctayarre",
+      "date": "02.09.2017 19:02",
+      "content": "kenarıya çekilmek sana yakışmaz\nhelal olsun arda",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "bu akşam ukrayna'yı arakan için yeneceğiz",
+      "entry_id": "70566103",
+      "author": "macenas",
+      "date": "02.09.2017 19:07",
+      "content": "(bkz: yazık la kimin adamıysa)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "bu akşam ukrayna'yı arakan için yeneceğiz",
+      "entry_id": "70566241",
+      "author": "degisimindengesi",
+      "date": "02.09.2017 19:17",
+      "content": "maçı kazanınca arakan kurtulacakmış. ya da arakanlılar türk milli futbol takımını destekledikleri için moral kaynağı olacakmış olası bir galibiyet.\n\n'adam' a sormazlar mı hacı o kadar önemsiyorsan çık maddi destek ol. ama işiniz gücünüz şov olduğundan iş icraate gelince kılınızı kıpırdatmazsınız.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "bu akşam ukrayna'yı arakan için yeneceğiz",
+      "entry_id": "70566325",
+      "author": "adams kerler",
+      "date": "02.09.2017 19:23",
+      "content": "meşazını aldım kardeşim. ben de hassiktir oradan diyorum.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "bu akşam ukrayna'yı arakan için yeneceğiz",
+      "entry_id": "70566425",
+      "author": "dr krasny",
+      "date": "02.09.2017 19:30 ~ 03.09.2017 10:24",
+      "content": "bıraktı demediniz mi lan...\n\n(bkz: arda turan'ın milli takımı bırakması)\n\nedit: yine yenemedi...",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "bu akşam ukrayna'yı arakan için yeneceğiz",
+      "entry_id": "70566615",
+      "author": "renksiz hayat",
+      "date": "02.09.2017 19:44",
+      "content": "onlar da ülkemize gelsin. istanbul'da hala adım atacak alanlar var.",
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "bu akşam ukrayna'yı arakan için yeneceğiz",
+      "entry_id": "70566622",
+      "author": "kacaksevgilim",
+      "date": "02.09.2017 19:45",
+      "content": "umarım 5 yeriz bugün.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "bu akşam ukrayna'yı arakan için yeneceğiz",
+      "entry_id": "70566676",
+      "author": "koseli cember",
+      "date": "02.09.2017 19:49",
+      "content": "(bkz: tebrikler milletvekili oldunuz)\ntakip eden 5. yılda da amerika'ya kaçış...",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "bu akşam ukrayna'yı arakan için yeneceğiz",
+      "entry_id": "70566865",
+      "author": "heissohigh",
+      "date": "02.09.2017 20:01",
+      "content": "sponsor transferin reklam kokan sözleri.\n\n(bkz: gomisspor)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "bu akşam ukrayna'yı arakan için yeneceğiz",
+      "entry_id": "70567144",
+      "author": "dokuzuncukoydensonkovulanadam",
+      "date": "02.09.2017 20:21",
+      "content": "ulan lucescu seni adam bildik sen gittin bu şempanzenin ayağına davet ettin,''beyefendi!'' lütfedip geldi birde utanmadan açıklama yapıyor.\nsen çok düşünüyorsan arakanı o cukkaladığın ballı primlerden biraz onlara ver arda efendi,bayram günü sevaptır.",
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "HUMAN-POS",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "bu akşam ukrayna'yı arakan için yeneceğiz",
+      "entry_id": "70567219",
+      "author": "gecenyinebeynimyok",
+      "date": "02.09.2017 20:25",
+      "content": "zaten arakanlılar da maçı çekirdek filan çitleyerek izleyip \"vayy arda karşime bak haklı çıktı yav\" diyecekti ve tüm dertleri bitecekti. her lafı boş, her lafı şov ya adamın. çok umrundaysa yardım gönderirsin kardeşim, ziyaret eder moral verirsin.",
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "bu akşam ukrayna'yı arakan için yeneceğiz",
+      "entry_id": "70567328",
+      "author": "siyahbeyaz1903",
+      "date": "02.09.2017 20:34",
+      "content": "dünya haritasında yerini bile bilemediği bi yer hakkında konuşan birinin açıklaması.yenersin yenilirsin ayrı ama senin bu ucuz politika kokan itici hareketlerini artık kendi camian kendi taraftarın bile yemiyor.içi boş gereksiz zırvalar bütünü olan açıklamadır.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "bu akşam ukrayna'yı arakan için yeneceğiz",
+      "entry_id": "70567404",
+      "author": "ahsap dibegin demir tokmagi",
+      "date": "02.09.2017 20:39",
+      "content": "iyi sabahta instagramdan twitterden hatunlara yürürsün arakanlı kardeşlerin için... önemli olan niyet zaten... arakanı ukrayna bu hale getirdi zaar... koman yiğidim, davran aslanım, adamlık öldümü... sonra git striptiz clubta ukraynalı kadınlardan arakanın öcünü al adamım...",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "SEXUAL"
+      ]
+    },
+    {
+      "title": "bu akşam ukrayna'yı arakan için yeneceğiz",
+      "entry_id": "70567514",
+      "author": "nonethelessh",
+      "date": "02.09.2017 20:45",
+      "content": "yüzde bin beş yüz doksan sekiz yenileceğimiz maçtır bu ifadeden sonra.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "bu akşam ukrayna'yı arakan için yeneceğiz",
+      "entry_id": "70567531",
+      "author": "songuleniyiguler",
+      "date": "02.09.2017 20:45",
+      "content": "sen kenarıya çekil başka bir şey istemez arda.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "bu akşam ukrayna'yı arakan için yeneceğiz",
+      "entry_id": "70567596",
+      "author": "al pacino2",
+      "date": "02.09.2017 20:50",
+      "content": "arakanlı kardeşlerimiz için nefes alıp veriyorum daha ne yapabilirim ki?",
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "bu akşam ukrayna'yı arakan için yeneceğiz",
+      "entry_id": "70567690",
+      "author": "kacaksevgilim",
+      "date": "02.09.2017 20:55",
+      "content": "(bkz: bana ne lan arakan'dan)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "bu akşam ukrayna'yı arakan için yeneceğiz",
+      "entry_id": "70568088",
+      "author": "akil adam",
+      "date": "02.09.2017 21:17 ~ 21:22",
+      "content": "\"sanırım yenileceğiz çünkü aklınız başka yerde.\"",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "bu akşam ukrayna'yı arakan için yeneceğiz",
+      "entry_id": "70568247",
+      "author": "launchpad",
+      "date": "02.09.2017 21:26",
+      "content": "bugün arakan mevzusunda çok güzel trollükler yapan bir arkadaşımız var, buradaki çoğunluğun artık bu mağduriyet olayından bıktığını biliyor ve çok gerçekçi açıklamalar ile gündem olacak başlıklar açıyor. başlığı gören de hemen atlıyor.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "bu akşam ukrayna'yı arakan için yeneceğiz",
+      "entry_id": "70568962",
+      "author": "kraft71",
+      "date": "02.09.2017 22:04",
+      "content": "her konuda konuşması gerektiğini düşünen bir salak daha",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "bu akşam ukrayna'yı arakan için yeneceğiz",
+      "entry_id": "70569478",
+      "author": "mortingensitrayze",
+      "date": "02.09.2017 22:24",
+      "content": "arakanlıların da çok sikindeydi zaten.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "bu akşam ukrayna'yı arakan için yeneceğiz",
+      "entry_id": "70571139",
+      "author": "tibidmr",
+      "date": "02.09.2017 23:14",
+      "content": "arakan'daki eziyetlerin sorumlusu ukrayna mı? atar giderli adam gibi adam bir kenarıya mahallesi bebesinin güzellemesi.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "bu akşam ukrayna'yı arakan için yeneceğiz",
+      "entry_id": "70571478",
+      "author": "ates senturk",
+      "date": "02.09.2017 23:27",
+      "content": "arama yapmama rağmen böyle bir bilgiye ulaşamadım. yalan yanlış bilgiye göz yumacaksa moderasyon, ekşi sözlük'ün a haber'den ne farkı kalır?\n\ntanım: uçurulması gereken yazar saçmalığı.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "bu akşam ukrayna'yı arakan için yeneceğiz",
+      "entry_id": "70571972",
+      "author": "buzman",
+      "date": "02.09.2017 23:42",
+      "content": "yalan haberlerle gündem oluşturmak da yeni moda oldu sözlükte. işin kötüsü memlekette her şey mümkün olduğundan insanlar yadırgamıyor bu haberleri.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "bu akşam ukrayna'yı arakan için yeneceğiz",
+      "entry_id": "70575149",
+      "author": "zeytin560",
+      "date": "03.09.2017 01:37",
+      "content": "dedi ve yenildi",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "bu akşam ukrayna'yı arakan için yeneceğiz",
+      "entry_id": "70576201",
+      "author": "nickblessyou",
+      "date": "03.09.2017 02:48",
+      "content": "yarmelenkooooooo",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "bu akşam ukrayna'yı arakan için yeneceğiz",
+      "entry_id": "70576212",
+      "author": "nickblessyou",
+      "date": "03.09.2017 02:48",
+      "content": "allahın salağı hee",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE"
+      ]
+    },
+    {
+      "title": "bu akşam ukrayna'yı arakan için yeneceğiz",
+      "entry_id": "70580085",
+      "author": "spacekid",
+      "date": "03.09.2017 12:16",
+      "content": "top oynamaktan uzak, primci, yalaka sözde futbolcunun halka yalakalık yapmak için bulunduğu söylemlerinden sadece birisidir.\n\nben de mesela sıradaki çayımı arakan için içiyorum",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "bu akşam ukrayna'yı arakan için yeneceğiz",
+      "entry_id": "70580599",
+      "author": "dedim sozluk falan beni bozar",
+      "date": "03.09.2017 12:46",
+      "content": "(bkz: yenemedi)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:15:33.465577",
+    "total_entries": 2,
+    "input": "devrime ukrayna'dan adam çağırmak",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "devrime ukrayna'dan adam çağırmak",
+      "entry_id": "40641015",
+      "author": "elitist berdus",
+      "date": "23.02.2014 15:58",
+      "content": "bu adamların haksızlığa, faşistliğe verdiği tepkiyi gördükten sonra alo fatih tayyip'in yolu'nun ilk sezonu kapalı gişe oynarken hiç kimsenin bir şey yapmaması sonucunda ortaya koyulan düşünce. anlaşılmaz olan durum, sesimizi çıkarmak için 11 senelik süreçte gördüklerimiz yeter de artar durumda iken 17 aralıktan sonra olanların bardağı taşırmaması yürekleri dağlıyor. resmen hissizleştirilmeye çalışılıyor koca bir kuşak, eli kolu bağlanıyor.\n\nbu gidişe kendimiz bir dur demezsek çağırıyorum ukrayna'dan elemanları couchsurfing süsü vererek, siz de çağırın kitleler halinde gelsinler, couch larda başlasın bu devrim.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "devrime ukrayna'dan adam çağırmak",
+      "entry_id": "40641057",
+      "author": "ed gein jr",
+      "date": "23.02.2014 16:01",
+      "content": "(bkz: türkiye'de yeterince nazi var)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    }
+  ]
+}

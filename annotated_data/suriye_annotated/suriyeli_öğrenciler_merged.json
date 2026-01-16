@@ -1,0 +1,50 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:51:59.532662",
+    "total_entries": 3,
+    "input": "suriyeli öğrenciler",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeli öğrenciler",
+      "entry_id": "119975611",
+      "author": "vurgundurgun",
+      "date": "24.02.2021 11:51",
+      "content": "aralarında iyi çocuklar var mı var ama geneli sıkıntı. uzaktan eğitimde de sıkıntı yaşıyorum. adam oradan bana hoca diyip sonra bir şeyler sallıyor. ne diyor belli değil.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyeli öğrenciler",
+      "entry_id": "169851280",
+      "author": "brutus slachtbeest",
+      "date": "03.11.2024 22:35",
+      "content": "ampul logolu parti eliyle özellikle üniversitelerde akıl dışı bir oranda kayrılan tipler.\n\nx linki\n\n--- alıntı ---\n\nprof. dr. ali şehirlioğlu, üniversitelerde suriyeli ve diğer uyruklu öğrencilere tanınan ayrıcalıkları ifşa etti:\n• bu yıl asistan sayısını yarıya düşürdünüz ve genç doktor arkadaşlarımızın hevesini kursaklarında bıraktınız.\n• yabancı kontenjanı ve türk kontenjanı olarak listeler açıklandı ve bu listeler yabancı dilde hazırlandı.\n• ankara üniversitesi çocuk sağlığı ve hastalıkları: yabancı kontenjanı: 3, türk kontenjanı: 2.\n• atatürk üniversitesi tıp fakültesi acil tıp: yabancı kontenjanı: 6, türk kontenjanı: 2.\n--- alıntı ---",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyeli öğrenciler",
+      "entry_id": "169851547",
+      "author": "zagem",
+      "date": "03.11.2024 22:43",
+      "content": "mayınlar da onlar için temizlendi, sınırlar da onlar için açıldı, barajlar da onlar için kalktı.\n\n(bkz: malumun ilamı)",
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "HUMAN-POS",
+        "POLICY"
+      ]
+    }
+  ]
+}

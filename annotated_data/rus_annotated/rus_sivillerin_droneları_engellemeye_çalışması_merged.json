@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:22:24.167801",
+    "total_entries": 2,
+    "input": "rus sivillerin droneları engellemeye çalışması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rus sivillerin droneları engellemeye çalışması",
+      "entry_id": "175757279",
+      "author": "jsilverhand",
+      "date": "02.06.2025 01:33",
+      "content": "ukrayna'nın rus havaüssünü hedef aldığı operasyonda droneların havalandığı tırı gören rus siviller trın üstüne çıkarak droneları durdurmaya çalışmış.\n\nkaynak",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus sivillerin droneları engellemeye çalışması",
+      "entry_id": "175757501",
+      "author": "blue eyes white dragon",
+      "date": "02.06.2025 01:44",
+      "content": "https://x.com/…ntwarfare/status/1929169192550342928\n\nreddit gibi ucube bir siteden dolayı izleyemiyor olabilirsiniz alternatif olarak buradan izleyebilirsiniz.",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

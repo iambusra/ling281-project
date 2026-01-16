@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:45:48.135239",
+    "total_entries": 1,
+    "input": "suri oyuyla tecelli eden milli irade",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suri oyuyla tecelli eden milli irade",
+      "entry_id": "152455843",
+      "author": "seni heyetinden sikmeyi tasarliyorum",
+      "date": "16.05.2023 12:53 ~ 13:20",
+      "content": "sarkastik bir ekşi sözlük nick'i değildir. devlet bahçeli'nin hediyesidir.\n\nsaygı duy türk, sen de lan kürt. sen zaten duyacaksın gomünüst. milli irade bu!",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    }
+  ]
+}

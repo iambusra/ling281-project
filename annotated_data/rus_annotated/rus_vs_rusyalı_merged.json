@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T12:57:50.617448",
+    "total_entries": 1,
+    "input": "rus vs rusyalı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rus vs rusyalı",
+      "entry_id": "42556145",
+      "author": "derjava",
+      "date": "06.05.2014 19:38 ~ 07.05.2014 12:13",
+      "content": "aynen türk vs türkiyeli gibi durumların rusya'da da olduğu karşılaştırmalar silsilesi\n\n1- russkiy: rus (etnik rus erkek) isim (tek başına kullanılabilir)\n2- russkaya: rus (etnik rus kadın) isim (tek başına kullanılabilir)\n3- rossiyanin: rusyalı (erkek) isim (tek başına kullanılabilir)\n4- rossiyanka: rusyalı (kız) isim (tek başına kullanılabilir)\n5- russkiy muşçina: rus adam\n6- russkaya devuşka: rus kız\n7- rossiskiy muşçina: rusyalı adam, sıfat olarak (kullanımı pek yaygın değil, rossiyskiy grajdanin gibi resmi nitelendirmelerde kullanılabilir ama kişiyi nitelendirmede sıfat olarak garip kaçıyor)\n8- rossiskaya devuşka: rusyalı kız, sıfat olarak (kullanımı pek yaygın değil, rossiyskaya grajdanka gibi resmi nitelendirmelerde kullanılabilir ama kişiyi nitelendirmede sıfat olarak garip kaçıyor.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL",
+        "CULTURE"
+      ]
+    }
+  ]
+}

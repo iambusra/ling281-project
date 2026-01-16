@@ -1,0 +1,282 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:44:16.634272",
+    "total_entries": 22,
+    "input": "muz paylaşımları yapan 11 suriyelinin yakalanması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "muz paylaşımları yapan 11 suriyelinin yakalanması",
+      "entry_id": "129523653",
+      "author": "non mi avete fatto niente",
+      "date": "28.10.2021 15:52",
+      "content": "son dakika flaş gelişmesidir.\n\nmuz paylaşımları yapan 31 suriyeli sığınmacıdan 11'i yakalandı. 2 şüphelinin ise 26 ekim'de hollanda'ya gittiği belirlendi.\n\nhttps://www.haberler.com/…-supheli-14492608-haberi/",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CRIME"
+      ]
+    },
+    {
+      "title": "muz paylaşımları yapan 11 suriyelinin yakalanması",
+      "entry_id": "129523786",
+      "author": "dukkanin ortasinda bagiran kosnuk",
+      "date": "28.10.2021 15:58",
+      "content": "ulan sadece berberde çektikleri videoda 11 adam var zaten.\n\nayrıca sokakta yürürken muz yeme videosu çeken hanımefendiyi en son yollayabiliriz (!)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "muz paylaşımları yapan 11 suriyelinin yakalanması",
+      "entry_id": "129523824",
+      "author": "iki fincan kahve",
+      "date": "28.10.2021 16:00",
+      "content": "karakolda muz ikram edilecektir.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "muz paylaşımları yapan 11 suriyelinin yakalanması",
+      "entry_id": "129523828",
+      "author": "zonachy",
+      "date": "28.10.2021 16:00",
+      "content": "emniyetin ellerine sağlık, ayrıca bayrağa hakaret eden lavuğun da direkle hatıra fotoğrafını dört gözle bekliyoruz.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "muz paylaşımları yapan 11 suriyelinin yakalanması",
+      "entry_id": "129523885",
+      "author": "purple purpose",
+      "date": "28.10.2021 16:03",
+      "content": "tam olarak niye yakalamışlar anlamadım. gerçekten bu adamları suçlayacakları somut bir şey var mı? muzla video çekmek yasak mı?",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "muz paylaşımları yapan 11 suriyelinin yakalanması",
+      "entry_id": "129523977",
+      "author": "nquery",
+      "date": "28.10.2021 16:06",
+      "content": "(bkz: ümitcan uygun) ve (bkz: musa orhan)'a adalet bulamayan adaletimiz böyle şov dolu magazinel olaylarda adalet dağıtıyor maşallah.\nher gün sınırdan giren 1000'lerce afgan'ı napıcaz?\n(1000-11) * 365 ne yapar? kaç kilo muz lazım?\n\nayrıca muz yedi diye sınır dışı etmek de nedir yahu? nerde bu işin mahkemesi, kanunu? buna gerekçe gösterilen vatandaşlıktan atılma yasasını merak ediyorum. hukuk birgün herkese lazım olacak. doğruya doğru yanlışa yanlış diyebilmeliyiz.\n\ntanım: nerden baksan saçmalık dolu karar.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "muz paylaşımları yapan 11 suriyelinin yakalanması",
+      "entry_id": "129524127",
+      "author": "deathlyhallows",
+      "date": "28.10.2021 16:12",
+      "content": "(bkz: sazan.avi)\npropaganda bakanligi'nin halkin gazini almak icin yaptirdigi haberlerden biri.\n\nne yakalandigi soylenen adamlarin adi sani belli, ne cisimleri, ne de verdigi ifadeler.\n\nberi yandan, muz yiyen primatlardan baska bir sey yoktu videolarda. kacak gocmen karsitligi ayri sey, hukuk ayri sey. suc olusturacak maddi hicbir unsur yok. farkinda degiller ki bunlari halkin onune atmalari kendilerine yaziyor. sinirdisi falan da edilmeyecekler, gectigimiz gunlerde sinirdisi edilmek uzere gonderdikleri geri kabul merkezlerinin kendilerine 6 ay bedava egitim, spor, sosyal aktivite(!) yaptirip sokaga geri saldigi ortaya cikmisti. o yuzden geciniz efendim diyorum.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "muz paylaşımları yapan 11 suriyelinin yakalanması",
+      "entry_id": "129524190",
+      "author": "leonora",
+      "date": "28.10.2021 16:14",
+      "content": "“iki şüphelinin 26 ekim tarihinde hollandaya gittiği belirlendi” kısmını şaşkınlıkla okuduğum haberdir.\n\nbu suriyeliler gariban değil miydi? gayet pasaportu, vizesi, avrupaya gidebilecek kadar da parası olan kişilermiş meğerse, geçici sığınmacı statüsündeler diyerek bizi yiyorlarmış. hala sosyal yardım almakla, türk halkının sınırlı kaynaklarına ortak olmakla, oksijenimizi bizimle dalga geçerek tüketmekle meşguller. yurtdışına çıkış işlemlerini ‘türk pasaportu’ ile yapmış olabilme ihtimalleri ise yüreğimi darlandırmaktadır.\n\nbirleşmiş milletler, avrupa insan hakları, vicdan vesaire bahanelerin arkasına sığınmadan, açık açık, net bir şekilde son 10 yılda ‘bir şekilde’ ülkemize girmiş kişileri sınırdışı edeceğini seçim vaadi olarak bildiren parti hangisi olursa olsun amasız, fakatsız, lakinsiz oyumu alacaktır(vatan partisi dahil (bkz: swh)).",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "muz paylaşımları yapan 11 suriyelinin yakalanması",
+      "entry_id": "129524966",
+      "author": "timurunbabasi",
+      "date": "28.10.2021 16:44",
+      "content": "rakam yetmez ortalama bir suriyeli kadın bunu 1 senede doğurur.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "muz paylaşımları yapan 11 suriyelinin yakalanması",
+      "entry_id": "129525411",
+      "author": "roadrashh",
+      "date": "28.10.2021 17:02",
+      "content": "yarın gönderildikleri suriyeden öbür gün tekrar dönecekler için birşey farketmeyecek operasyon. ülkeye kimin girip kimin çıktığı belli değil ki. bugün gitse yarın tekrar girecek zaten bu kaçkınlar.\nbu ülkede neden arap ırkçılığı yükseldi diye soran olursa bu şerefsizlerin, yaşadıkları toprakların vatandaşının serzenişiyle dalga geçmesi yüzünden cevap verebilirsiniz. bu ülkede ırkçılık olsaydı yıllardır siyahi insanlara ırkçılık yapılırdı. adamlar işinde ekmeğinde üstelik kültürümüze dilimize ayak uydurarak yaşayan insanlar. bu nefretlik bedevi artıkları gibi namussuz değiller.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "muz paylaşımları yapan 11 suriyelinin yakalanması",
+      "entry_id": "129526073",
+      "author": "yasementa",
+      "date": "28.10.2021 17:28",
+      "content": "hollanda nasıl kabul etmiş bunları amk",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "muz paylaşımları yapan 11 suriyelinin yakalanması",
+      "entry_id": "129526191",
+      "author": "kolesistokinin",
+      "date": "28.10.2021 17:32",
+      "content": "karakolda ağırlayıp, birkaç bardak çay ısmarlayıp salarlar. kılıçdaroğlu'na yumruk atan dallamaya da öyle yapmadılar mı.\n\nülkenin içine bunları dolduran zihniyetin hakim olduğu ülkede başka ne yapılmasını bekliyorsunuz?",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "muz paylaşımları yapan 11 suriyelinin yakalanması",
+      "entry_id": "129526295",
+      "author": "mstfbkn1",
+      "date": "28.10.2021 17:37",
+      "content": "(bkz: muz cumhuriyeti)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "muz paylaşımları yapan 11 suriyelinin yakalanması",
+      "entry_id": "129526407",
+      "author": "rakirikirealdo",
+      "date": "28.10.2021 17:41",
+      "content": "yargıya yurguya gerek direk sınıra götürüp haydi selametle diyeceksin bunlara. sınır dışı edilmelerinin haberini yapmak da yetmez bütün kanallarda canlı yayınlayacaksın ki ha bir daha götü yiyen tiktok çekmeye devam etsin.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "muz paylaşımları yapan 11 suriyelinin yakalanması",
+      "entry_id": "129526490",
+      "author": "ayran folyosu",
+      "date": "28.10.2021 17:44",
+      "content": "hollandaya nasıl gitmişler lan elini kolunu sallayan gidebiliyor mu",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "muz paylaşımları yapan 11 suriyelinin yakalanması",
+      "entry_id": "129526504",
+      "author": "kingosteak",
+      "date": "28.10.2021 17:45",
+      "content": "adam suriyeden türkiyeye gelmiş. yetmemiş hollandaya gitmiş.\n\nbiz kıçımızın dibindeki yunanistana bile gidemiyoruz amk söyleyeceklerim bu kadar.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "muz paylaşımları yapan 11 suriyelinin yakalanması",
+      "entry_id": "129526543",
+      "author": "goran ivanisevic",
+      "date": "28.10.2021 17:47",
+      "content": "dostlar alışverişte görsün\nülkeyi mülteci çöplüğü yapanlar utansın",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "muz paylaşımları yapan 11 suriyelinin yakalanması",
+      "entry_id": "129526596",
+      "author": "gasilci ahmet",
+      "date": "28.10.2021 17:49",
+      "content": "sırf o berberde 8-9 kişi vardı. ayrıca yakalasalar ve sınır dışı etseler ne olacak. yarın yine girer.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "muz paylaşımları yapan 11 suriyelinin yakalanması",
+      "entry_id": "129527584",
+      "author": "blueaort",
+      "date": "28.10.2021 18:29",
+      "content": "muzların durumları iyimi?",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "muz paylaşımları yapan 11 suriyelinin yakalanması",
+      "entry_id": "129528394",
+      "author": "trejemu",
+      "date": "28.10.2021 19:04",
+      "content": "vatandaşa pıt pıt/pış pış yapılmak suretiyle gaz alma çabasıdır.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "muz paylaşımları yapan 11 suriyelinin yakalanması",
+      "entry_id": "129609671",
+      "author": "xenraiken",
+      "date": "31.10.2021 08:26",
+      "content": "türkiye içinde gördüğüm en absürt nefret kanalize etme yöntemlerinden biri olan olay.\n\nsuriyelilere nefret yöneltmek için baya baya 75 ve altı iq lazım.\n\nkonu elalemin muz yemesi değil, konu senin muz yiyememen. türkiye ile dalga geçilen ilk olay değil bu. akp başımızdayken neler neler gördü bu gözler… baya baya gerizekalı olmak lazım bu tip bir olaydan etkilenmek için.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "muz paylaşımları yapan 11 suriyelinin yakalanması",
+      "entry_id": "136158030",
+      "author": "lutfen bir daha dusun",
+      "date": "13.04.2022 15:47",
+      "content": "beklenen olmuştur, türk kamuoyu ve basını unutmuş, yeni gündemler gelmiş, bu olay da geri de kalmıştır, suçlulara da yeni paylaşımları için cesaret olmuştur.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

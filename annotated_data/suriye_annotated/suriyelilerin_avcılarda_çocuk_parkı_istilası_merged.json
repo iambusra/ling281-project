@@ -1,0 +1,64 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:02:50.243905",
+    "total_entries": 4,
+    "input": "suriyelilerin avcılarda çocuk parkı istilası",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelilerin avcılarda çocuk parkı istilası",
+      "entry_id": "169698451",
+      "author": "onbasi86",
+      "date": "29.10.2024 21:57",
+      "content": "x\n\nsuriyeli gençlerin bir çocuk parkına hunharca saldırması. saldırı diyorum çünki öyle. parkta eğlenme değil bu.",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "CRIME"
+      ]
+    },
+    {
+      "title": "suriyelilerin avcılarda çocuk parkı istilası",
+      "entry_id": "169698601",
+      "author": "kolaymolaygelsin",
+      "date": "29.10.2024 22:01",
+      "content": "ülkemiz suriyeliler tarafından istila edilmiş; ötesi var mı? maalesef gündem olmayacak başlık. kendi evlatlarımız durdukları yerde sadece izliyorlar çok üzücü.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "suriyelilerin avcılarda çocuk parkı istilası",
+      "entry_id": "169698876",
+      "author": "wcf",
+      "date": "29.10.2024 22:09 ~ 22:13",
+      "content": "aa olur mu öyle şey ama, çok kabalar.\n\nhadi toplanıp protesto hakkınızı kullanın, çünkü modern medeni ülkelerde insanlar hoşlarına gitmeyen şeyleri protesto ederler, demokrasinin bir parçasıdır protestolar, türkiye cumhuriyeti anayasasının 34. maddesine göre “herkes önceden izin almadan silahsız ve saldırısız toplantı ve gösteri yürüyüşü düzenleme hakkına sahiptir.” yazar.\n\nhadi \"göçmen istemiyoruz\" yürüyüşüne polis müdahale edecek mi bir deneyin bakalım veya valilik izin verecek mi, kaç gün sonra ailenizi görebileceksiniz, denemekte fayda var, medeni bir ülke çünkü burası. (bkz: yersen)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "suriyelilerin avcılarda çocuk parkı istilası",
+      "entry_id": "169699418",
+      "author": "bota nick",
+      "date": "29.10.2024 22:25",
+      "content": "bunu kabul etmemeliyiz.\n\nkabul etmemiz adına yapılan manipülasyonların karşısında dik durabilmeliyiz.\n\ndokusu dokumuza böylesine yabancı bir halkı ülkemizde istememek faşistlik değildir.\n\ntoplumların kaynaşması iyidir ama kendi dinamikleri üzerinde kendiliğinden bir devinimle gerçekleşirse iyidir. böyle zorlama ve tepeden inme, suni olarak gerçekleştirildiğinde felaketle sonuçlanması kaçınılmazdır.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    }
+  ]
+}

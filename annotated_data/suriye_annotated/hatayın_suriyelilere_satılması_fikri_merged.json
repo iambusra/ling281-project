@@ -1,0 +1,150 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:42:44.113737",
+    "total_entries": 11,
+    "input": "hatayın suriyelilere satılması fikri",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "hatayın suriyelilere satılması fikri",
+      "entry_id": "144549593",
+      "author": "canopia",
+      "date": "31.10.2022 16:39",
+      "content": "(bkz: vatan senin götün değil her önüne gelene veresin)\n(bkz: neriman nerimanov)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "GENDER-MORAL"
+      ]
+    },
+    {
+      "title": "hatayın suriyelilere satılması fikri",
+      "entry_id": "144549647",
+      "author": "cirrus des aigles",
+      "date": "31.10.2022 16:40 ~ 16:41",
+      "content": "ancak kanı bozukların aklına gelebilecek fikir!",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE"
+      ]
+    },
+    {
+      "title": "hatayın suriyelilere satılması fikri",
+      "entry_id": "144549652",
+      "author": "ana baci vokkke",
+      "date": "31.10.2022 16:40 ~ 16:41",
+      "content": "hatay senin götün değil ki her önüne gelene veresin\nneriman nerimanov",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "GENDER-MORAL",
+        "HATE"
+      ]
+    },
+    {
+      "title": "hatayın suriyelilere satılması fikri",
+      "entry_id": "144549757",
+      "author": "dirk pitt",
+      "date": "31.10.2022 16:43",
+      "content": "ulke butunlugune zarar vermek sucuna dahil olan oneridir.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "hatayın suriyelilere satılması fikri",
+      "entry_id": "144549866",
+      "author": "alexandraki",
+      "date": "31.10.2022 16:47",
+      "content": "bu tür garip görüşlerden dolayı günde on kişiyi engellememe sebep olan önerme.\n(bkz: engelle geç)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE"
+      ]
+    },
+    {
+      "title": "hatayın suriyelilere satılması fikri",
+      "entry_id": "144549938",
+      "author": "erbabi cima",
+      "date": "31.10.2022 16:49",
+      "content": "abudülhamit'den alışmışlar belli ki...",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE"
+      ]
+    },
+    {
+      "title": "hatayın suriyelilere satılması fikri",
+      "entry_id": "144550017",
+      "author": "oneme",
+      "date": "31.10.2022 16:51",
+      "content": "ülkemizden gitsinler diye onlara neden bir yer veriyoruz beyefendi? ki atam için hatay'ın olayı belli iken. durduk yere sinirlerimizle oynamayın.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "hatayın suriyelilere satılması fikri",
+      "entry_id": "144550088",
+      "author": "joelrifkinn",
+      "date": "31.10.2022 16:53",
+      "content": "filistin de böyle satmıştı topraklarını sonra mağduruz diye ağlıyorlar.\n\nvatanın bir karış toprağını satmayı düşünenler önce analarını satsınlar.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "hatayın suriyelilere satılması fikri",
+      "entry_id": "144550131",
+      "author": "rage7th",
+      "date": "31.10.2022 16:54",
+      "content": "e yok artık e….n .mı\n\nsözlük yönetiminin buralara el atması lazım değil midir?\n\n(bkz: yönetim uyuma)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "hatayın suriyelilere satılması fikri",
+      "entry_id": "144550219",
+      "author": "prozac34",
+      "date": "31.10.2022 16:56",
+      "content": "hatayi vermektense aleppo yu almak daha kolay. onlarla iyi gecinen hataylilarla beraber hepsini aleppoya yollamak daha mantikli.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "hatayın suriyelilere satılması fikri",
+      "entry_id": "144550932",
+      "author": "dicktopus",
+      "date": "31.10.2022 17:19",
+      "content": "adamlar niye para versin 3-5 sene sonra referandum yapar suriyeye baglanirlar",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    }
+  ]
+}

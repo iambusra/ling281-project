@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:24:19.570303",
+    "total_entries": 1,
+    "input": "ukraynalıların rus olduklarını inkar etmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukraynalıların rus olduklarını inkar etmesi",
+      "entry_id": "100936826",
+      "author": "wingsson",
+      "date": "23.01.2020 09:47",
+      "content": "sovyet desinler tatlıya bağlansın is",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

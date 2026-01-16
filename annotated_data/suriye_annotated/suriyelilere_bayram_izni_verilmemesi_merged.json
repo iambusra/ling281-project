@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:58:36.940883",
+    "total_entries": 2,
+    "input": "suriyelilere bayram izni verilmemesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelilere bayram izni verilmemesi",
+      "entry_id": "138659959",
+      "author": "flowerduet",
+      "date": "12.06.2022 14:07",
+      "content": "süleyman soylu kurban bayramı için suriyeli göçmenlere izin verilmeyeceğini ifade etmiş. acaba giderler gelmezler oy kaybı olur kaygısı mı? yoksa milletin tansiyonunu stabil tutmak niyetiyle mi?\nkurban bayramı",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelilere bayram izni verilmemesi",
+      "entry_id": "138660007",
+      "author": "hergelemimar",
+      "date": "12.06.2022 14:09",
+      "content": "çıkışı mı tutacaklar yoksa girişi mi diye düşündürendir. bence hiç bir şey yapmayacaklar sadece yassak diyecekler",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    }
+  ]
+}

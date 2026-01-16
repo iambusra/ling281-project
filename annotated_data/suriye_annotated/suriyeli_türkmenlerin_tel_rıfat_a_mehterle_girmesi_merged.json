@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:52:55.621647",
+    "total_entries": 1,
+    "input": "suriyeli türkmenlerin tel rıfat'a mehterle girmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeli türkmenlerin tel rıfat'a mehterle girmesi",
+      "entry_id": "170665250",
+      "author": "kafamaagore",
+      "date": "02.12.2024 10:31",
+      "content": "gururlandık, kayıtsız kalan insanın basireti bağlanmıştır",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    }
+  ]
+}

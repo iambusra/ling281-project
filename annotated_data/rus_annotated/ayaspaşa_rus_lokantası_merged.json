@@ -1,0 +1,520 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:18:56.403865",
+    "total_entries": 40,
+    "input": "ayaspaşa rus lokantası",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ayaspaşa rus lokantası",
+      "entry_id": "101062",
+      "author": "uur",
+      "date": "10.02.2000 21:14",
+      "content": "açilisi osmanli devrine dayanan, gümüssuyundan taksime dogru çıkarken sagda köşede bulunan lezzetli yemekleri olan, küçük, medeni, fiyatları da normal olan şirin restoran. bayılırım oraya.\nbi nine vardı orda hep ordaydı. vefat etmiş üzüldüm.\nbi de oranın şef garsonu var süper adam.",
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "CULTURE",
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "ayaspaşa rus lokantası",
+      "entry_id": "1106391",
+      "author": "dreamer",
+      "date": "12.03.2002 13:23 ~ 10.03.2004 08:51",
+      "content": "gümüşsuyu/ayaspaşa'da yer alan ve biraz zeminin altında bulunan. oturanların gelen geçenlerin bacaklarını seyrettiği, güzel yemekli yer\n(bkz: rus lokantası)",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "ayaspaşa rus lokantası",
+      "entry_id": "1106563",
+      "author": "brownie",
+      "date": "12.03.2002 14:17 ~ 14:22",
+      "content": "gümüşsuyu askeri hastanesenin yan köşesinde, bir yarı bodrumu yaklaşık 70 yıldır işgal eden lokanta, bir rus madam tarafından kurulmuş, yılların etkisiyle madamın önce yere paralel hale gelmesi ardından da yer altına göçmesinden sonra zamanında lokantaya komi olarak girmiş ve şefliğe kadar yükselmiş sivaslı kardeşlere kalmıştır. kentin en ucuz rus lokantasıdır. tüm yemekleri patates püresi eşliğinde vermesine ve sari votka sının pe re ja nın yakın akrabası olmasına rağmen eğlencelidir. c fischer restaurant ın kardes kuruluşudur. hak ettiği yeri bulmak için hasim pam ın şereflendireceği günü heyecanla beklemektedir.",
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "CULTURE",
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "ayaspaşa rus lokantası",
+      "entry_id": "1106599",
+      "author": "portakal",
+      "date": "12.03.2002 14:27",
+      "content": "kaşar panesinin güzelliği ile gözümüze çarpan bir restauranttir... burayi sevdiyseniz,;(bkz: rejans)",
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "CULTURE",
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "ayaspaşa rus lokantası",
+      "entry_id": "1132001",
+      "author": "lestat de lioncourt",
+      "date": "21.03.2002 11:32",
+      "content": "yemekleri pek bi leziz olan kucuk sirin temiz lokanata.. menudeki ilk dort yemek tadilasi kesinlikle..",
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "CULTURE",
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "ayaspaşa rus lokantası",
+      "entry_id": "1132012",
+      "author": "mattebox",
+      "date": "21.03.2002 11:39",
+      "content": "goruntusu itibari ile hic gidesimin gelmedigi bir yerdir, sanki pis bir yermis ibi gelir. ama fakat insanlar son zamanarda cok soz etti galiba gidicem, gorucem ve yiycem...",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ayaspaşa rus lokantası",
+      "entry_id": "1132021",
+      "author": "pipe",
+      "date": "21.03.2002 11:42",
+      "content": "ayaspaşa şıktır ama fischer'in yemekleri daha güzeldir.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "CULTURE",
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "ayaspaşa rus lokantası",
+      "entry_id": "3956859",
+      "author": "arundati",
+      "date": "09.03.2004 21:44",
+      "content": "kendine has bir havasi vardir buranin, karakter sahibi bir lokantadir, bu meziyeti ile hafta ici aksamlarda bile ful cekmeyi basardigi olur. oyle bir chicken kiev yapar ki bu arkadaslar icli kofte sanabilirsiniz. bortsch corbalari bastan agir bir kokuya sahip gibi gelsede en az kievski kadar lezzetlidir.",
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "CULTURE",
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "ayaspaşa rus lokantası",
+      "entry_id": "3956946",
+      "author": "portakal",
+      "date": "09.03.2004 22:05",
+      "content": "(bkz: c fischer)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ayaspaşa rus lokantası",
+      "entry_id": "5707743",
+      "author": "gx",
+      "date": "13.09.2004 11:45 ~ 14:23",
+      "content": "makul fiyatlarla güzel bir yemek yemek isteyen herkesin denemesi gereken leziz, temiz ve nezih bir müessesedir. kaşar panesi, patlıcan salatası, fil kulağı büyüklüğünde et şinitzel i ve steak russian special ı tavsiye edilir.",
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "CULTURE",
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "ayaspaşa rus lokantası",
+      "entry_id": "10622659",
+      "author": "sydonia",
+      "date": "28.02.2007 19:16 ~ 07.02.2021 14:30",
+      "content": "enfes yemekler yapan bir rus lokantasıdır. gargarin tadındaki sarı votkayı kafaya dikip,üstüne borş çorbasıyla devam edip, en son da piliç kievskinin tadına vardınız mı sizden iyisi yokmuş gibi gelir şu koca dünyada...\n\nbonus track için bakınız\n(bkz: kievski yeme adabı)",
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "CULTURE",
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "ayaspaşa rus lokantası",
+      "entry_id": "13739180",
+      "author": "sleepy99",
+      "date": "31.07.2008 15:22",
+      "content": "http://www.ayazpasaruslokantasi.com/",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ayaspaşa rus lokantası",
+      "entry_id": "13803744",
+      "author": "laysamina",
+      "date": "10.08.2008 18:38",
+      "content": "menüdeki ilk beş ruslara özel yemekler olup denenmesi gerekenlerdir... atmosfer'i eski esnaf lokantalarının bir iki gömlek üstüdür... gidilesi.",
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "CULTURE",
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "ayaspaşa rus lokantası",
+      "entry_id": "21053881",
+      "author": "culo inquieto",
+      "date": "03.12.2010 17:26",
+      "content": "iki tane orta yaş üstü amcanın çalıştırdığı mekan. sahipleri mi bilmiyorum. fakat çok hoşsohbet olduklarına şüphe yok. kısaca değerlendirmek gerekirse fiyatlar orta-yüksek denilebilir. temiz ve sakin. cumartesi gecesi akşam saatinde bile sadece 3 masanın dolu olduğuna şahit olmuşumdur. yemekler hakkında konuşmak gerekirse, piliç kiewski'nin dışarıda çakma cafe'lerde yediğimizden epeyce farklı olduğunu söylemeliyim. fakat ben kiewski'den daha çok yanında getirdikleri patates salatasındaki ne olduğunu idrak edemediğim tadı sevdim. yanısıra rus usülü portakallı ördek'i farklı bulmadım. püre ile beraber servis ediliyor.\n\nmekan dekorasyonu sarı votkasına gonderme yaparcasına sarıya çalıyor.\n\nson derece sakin bu hoş mekanda, güzel müzikle yemek yiyecek müstakbellere tavsiyem;\n\nönce sarı votkanızı yudumlayın, kaşar pane'yle ona eşlik edin ve ardından ana yemeğe geçin. siz votka-kaşar pane keyfi yaparken siparişiniz de pişedursun. yemek bitti ve tam kalkacakken \"ulan ölümlü dünya bir daha yolum düşmez belki buraya\" diyerek bir votka-kaşar daha yapın. onunla başlayın, onunla bitirin.\n\n- 3 adet sarı votka: 24\n- 3 kaşar pane: 18\n- 1 rus usülü portakallı ördek: 27-28\n- 1 tavuk kiewski: 22\n- 1 mevsim salata: 11 ya da 13\n\nbaşka bir şey yoktu diye hatırlıyorum (belki su vardır) toplam 106 lira ödedik.\n\nson bir not: sanırım kadeh şarap satmıyorlar. menüde göremedim.",
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "CULTURE",
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "ayaspaşa rus lokantası",
+      "entry_id": "35702999",
+      "author": "stormblade",
+      "date": "03.08.2013 16:20",
+      "content": "(bkz: sözlükten öğrenilen iyi restoranlar)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ayaspaşa rus lokantası",
+      "entry_id": "38715168",
+      "author": "camussar",
+      "date": "04.12.2013 17:24",
+      "content": "sanıyorum ilk gidişim 2000 öncesinde. gitmeyeli de 4-5 yıl olmuştur.\ntaksim'e yakın ve de sükunetle içeceğim, biraz da hesap ödeyeceğim diyorsan olur.\ntabii bu bilgi eski bilgi. gün ola, sigara vergileri düşürüle.\nseverim kendisini.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "CULTURE",
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "ayaspaşa rus lokantası",
+      "entry_id": "48852780",
+      "author": "brownie",
+      "date": "01.02.2015 10:13",
+      "content": "yeniden doğmuştur. akıllıca bir restorasyon ve dekorasyon ile sevimli bir hale gelmiş, piyanolu, balalayka lı müzik de var bazı geceler. bütün bu yapılanların fiyatlara yansıması da acımasızca olmuş. bir zamanlar öğrencilerin, üniversite asistanlarının korkmadan gidebildiği bir yer değil artık.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE",
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "ayaspaşa rus lokantası",
+      "entry_id": "52661812",
+      "author": "delinin zoru",
+      "date": "26.06.2015 22:44",
+      "content": "tadilat sonrası rus ipi rönesansa uğramış adeta. dali bıyıklı rus barmen ve garsonlarla, kendinizi votkaya vurabileceğiniz eski tip bar tezgahıyla, derinden transistörlü radyo sesiyle çınlayan müziğiyle adeta stalingrad kuşatması sırasında kentten haber bekleyen bir moskova meyhanesine dönmüş. borş aynı borş ama yeni güzellikler de eklenmiş menüye. ciğer strogonof, sermeluce moldovenish, kupaty, veprevo kolevo, pelmeni ve daha nicesi. mekan hüzünbazları daha üzebilir havasıyla, kararında gidiniz",
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "CULTURE",
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "ayaspaşa rus lokantası",
+      "entry_id": "62779273",
+      "author": "momentumunkorunumu",
+      "date": "05.09.2016 20:16",
+      "content": "istanbul'daki en iyi lokantadır bana göre, iştahlı kimselere tavsiyem şu formasyon olacaktır:\n\n- olivye salatası(rus salatası) ****\n- tarama(opsiyonel) ***\n- arnavut ciğeri(opsiyonel) ****\n- kaşar pane(opsiyonel) ***\n- piroşki *****\n- jülyen *****\n- levrek hlivyar ****\n- stroganoff veya kievsky *****\n- krem karamel ****\n- limon votka*****\n\ngidebiliyorsanız kalabalık(4-5 kişi) gidin, yukarıda saydıklarımın tamamını tadabilmiş olursunuz. yok, tek ya da çift gidecekseniz \"opsiyonel\" ibaresi olmayanların hepsini söyleyin, gelsin, pişman olmayacaksınız.",
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "CULTURE",
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "ayaspaşa rus lokantası",
+      "entry_id": "64093961",
+      "author": "punkeinstain",
+      "date": "14.11.2016 21:26 ~ 21:32",
+      "content": "geçmişin ruhunu hissedebileceğiniz mekan. masalarında, sandalyelerinde... her yerde geçmişi hissediyorsunuz. hissedeceğiniz geçmişin ruhu, tarihsel bir hava değil. yılların, yaşanmışlığın mekana verdiği karakter. bu duyguyu hissederek harika yemeklerinizi yiyorsunuz.\n\nşansıma bugün, iki rus grup gelmişti. bende onların ortasında bir masaya oturdum. hafif bir rus şarkısı çalıyor. insanlar rusça konuşuyor. bir an kendimi üçüncü dereceden memurların, soylu subayların, petersburg sosyetesinin içinde sandım. raskolnikov'u da unutmayayım. sanki o da oradaydı:)",
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "CULTURE",
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "ayaspaşa rus lokantası",
+      "entry_id": "65599576",
+      "author": "sirie",
+      "date": "15.01.2017 17:46",
+      "content": "nitelikli ve farklı bir yemek isteyen için doğru adres. rus mutfağına yabancı olanların da sevebileceği bir yer. farklı ama lezzetli yemekler. fiyatları da makul. hiçbir özelliği olmayan mekanların fiyatlarına göre oldukça makul hem de.\n\nişletmecisi nezih ve ilgili birisi. siparişleri bizzat alıyor ve yemeklerle ilgili detaylı bilgi veriyor. bu da sürprizlerle karşılaşmanızı önlüyor. zira rus mutfağında öyle yemekler var ki alışkın olmayan için soğuk balıklı, narlı, soğanlı, sebzeli, mayonezli ve kaymaklı bir yemek garip kaçabilir. burada bir çok yemeğinden bahsedilmiş ama ben özellikle jülyeni tavsiye edeceğim. ukraynalı güzel jenia da garsonluk yapıyor. ingilizce ve rusça konuşuyor yalnızca ama sanıyorum çat pat türkçe de anlıyor.\n\nson olarak yukarıda bahsedilen ecevit çiftiyle ilgili hikayeyi sordum. rahşan ecevit bir kaç sene önce tekrar buraya gelmiş ve ona bizzat sormuşlar. kuru fasulye pilav kısmı hariç doğruymuş. buradan çıktıktan sonra evlenme teklif etmiş bülent ecevit.\n\nböyle kaliteli ve hikayesi olan, yaptığı işin hakkını veren mekanlara gittiğine gerçekten değiyor.",
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "CULTURE",
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "ayaspaşa rus lokantası",
+      "entry_id": "65616552",
+      "author": "somethingstupid",
+      "date": "16.01.2017 10:29 ~ 10:34",
+      "content": "senelerdir önünden geçip, her seferinde \"bir gün rezervasyon yaptırıp gelelim\" dediğimiz, sonunda dün deneyebildiğimiz lokanta.\nambiyansı, yemeklerin ve votkaların lezzeti, hizmeti on numara.\ntavsiyelerim soğuk votka tabağı, gulyash ve napolyon tatlısı.\n\nedit: duvarlarda neden bir rus gazetesi yerine le petit journal var çözemedik.\ntamam, devrimden kaçıp istanbul'a sığınan rus zenginler... pravda koymasınlar ama başka rus gazeteler yakışırdı.",
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "CULTURE",
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "ayaspaşa rus lokantası",
+      "entry_id": "65617007",
+      "author": "felicla",
+      "date": "16.01.2017 10:53",
+      "content": "dünya mutfağına meraklıysanız ve rus yemeklerini de deneyeyim diyorsanız gitmenizi, ancak sipariş verirken iyi düşünmenizi önereceğim lokanta.\n\nrus garsona \"ne yemeliyiz, ne önerirsiniz?\" diye sorduğumda aperitif olarak şuba'yı önerdi ve her deneyenin bayıldığını söyledi. çiğ balık, pancar, yumurta ve patatesten mütevellit bir salataydı şuba. letonya'da falan da ünlüymüş sonradan öğrendim. denemek isterseniz deneyin ama oldukça riskli bir seçim olur söyleyeyim.\n\nborş çorbasını tadınız, zira rus mutfağını tatmadım demezsiniz. yine pancar yine pancar... fena değil ama abartılacak kadar da güzel değil.\n\nbu lokantada tatmanızı şiddetle önereceğim lezzet ise ev yapımı limonlu vodka. kaçırmayın derim.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "CULTURE",
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "ayaspaşa rus lokantası",
+      "entry_id": "66459950",
+      "author": "eucarya",
+      "date": "22.02.2017 23:27 ~ 23:36",
+      "content": "dün gece sevgilim, kardeşim ve kardeşimin sevgilisi, pera'dan yola çıkıp eski beyoğlu'nu yâd ederek gittiğimiz ve nostaljik bir keyifle ayrıldığımız tarihi beyaz rus lokantası.\n\n1943'te tünel'de açılmasından bu yana gümüşsuyu'na kadar bir kaç defa yer değiştirmiş, fakat sahipleri ve tarifleri hep aynı kalmış. günümüzde ise eski restoranda garson olarak çalışan cemal ok ve oğlu serkan ok tarafından işletiliyor.\n\niçeriye ilk girdiğinizde sizi yıllanmış klasik mobilya, eski resim ve tablolar, sovyet klasik müzikleri ve rusça konuşan müşteri ve garsonlar karşılıyor. rezerve ettiğimiz masamıza oturduğumuzda ise çok geçmeden, 250 yıldır orada votka içerek yaşadığını düşündüğüm siyah takımlı, genç ve aşırı cool serkan bey gelip selamını veriyor.\n\nsipariş vermeden önce serkan bey ile sohbet edip; ilk defa geldiğimizi ve geleneksel yemeklerinden tatmak istediğimizi söyledik. öğrenci olmamıza ve güzel diyaloğumuza ithafen bizimle çok ilgili davrandı ve bizde onun tavsiyelerine uyduk.\n\nmasaya önce borş çorbası ve mayonezi sipariş ile hazırlanan, nazik bir rus salatası geldi. akabinde kendisinin büyük bir jestle ısmarladığı ev yapımı limonlu sarı votka larımız geldi ve yemekle beraber yudumlamaya başladık. votkanın özelliği yemek ile paralel yudum yudum tüketilmesi ve tamamen eski usülle, elde yapılması. içtiğim en yaşlı ve aromatik votkaydı diyebilirim. devamında masamıza güveçte kremalı rus mantısı(pemeni) geldi. çiğ börek sever birisi olarak tadını kremalı mini çiğ böreklere benzettim. mutlaka tatmanızı tavsiye ederim. akabinde ortaya ballı hardallı patates ve dev bir viyana şinitzel geldi. söylemeden geçmeyeyim masaya gelen her yemeği 4'e bölerek herkesin tadım yaptığı bir sofra dizayn etmiştik, bu sebeple hepimiz aynı yemekten tadıp aynı anda yorumlayarak mest olabildik.\n\nfinal ana yemeği olarak; kestiğinizde içinden tereyağ ve sarımsaklı bir sos akan kocaman bir kievski tercih ettik. sahiden sadece kievskisi için bile kilometrelerce yol gidilebilir diyebilirim. sarı votkalarımız yemek ile yudumlaya yudumlaya bittiği vakit, restorantın içinde garson olarak çalışan ve türkçe bilmeyen beyaz rus genç kadının \"may bozz iz ordering yu\" diyerekten, 4 adet, 2 cl, ev yapımı vişne votka shotlar getirmesi bizi bütünüyle tavladı. tenk yu may firend, diyerek içmeye devam ettik.\n\ntatlı olarak söylediğimiz medovik pastamızı da 4 kişi büyük bir zevkle yiyerek ayaspaşa rus restorant taki nostaljik doyumumuza hem ruhen, hem fiziken eriştiğimizi anladık. 4 kişi bunca yemekten sonra gayet makul olan hesabımızı ödeyip, selamımızı verdik ve 2017 istanbul'una geri döndük.",
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "CULTURE",
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "ayaspaşa rus lokantası",
+      "entry_id": "66460512",
+      "author": "wisc",
+      "date": "22.02.2017 23:56",
+      "content": "sinitzeli ve kievskisini cok severdim. acaba hala oyle guzel yapiyorlar mi? hele o hardalli patates salatalari yok mu? ozlemisim be.",
+      "has_external_url": false
+    },
+    {
+      "title": "ayaspaşa rus lokantası",
+      "entry_id": "68556985",
+      "author": "ambiguous",
+      "date": "01.06.2017 23:50 ~ 09.02.2020 15:41",
+      "content": "öncelikle tadilattan sonra hem mutfağının hem de dekorasyonunun adeta evrim geçirdiği rahatlıkla söylenebilir.\ngeçirdiği tadilat ve içine girdiği yenilenme sürecinin perde arkası ile birlikte, restoranın işletmecilerinin ağzından mekanın tarihi ve lezzetleri hakkında detaylı bilgilendirme içeren bir inceleme yazısı için şu kaynağa bakılabilir:\nköfteci olmaktan son anda kurtulan tarihi bir rus lokantası\nyukarıda bir yerlerde de az buçuk bahsedildiği gibi zamanında merhum bülent ecevit ve eşi rahşan ecevit çift olarak buranın çok sıkı müdavimleriymiş. hatta bülent bey rahşan hanım'a burada evlenme teklif etmiş. rahşan hanım eşinin ölümünden sonra da eski günleri yad etmek için dostlarıyla mekanı ziyaret etmiş.\nrestorana gitmek isteyenler için minik bir tavsiye: restoranın konukları için barın hemen yanı başında oluşturulmuş küçük bir alan var. buranın amacı eski bir rus adetini yerine getirmek. misafirler yemeklerini bitirdikten sonra mekandan ayrılmadan önce bu alana gelip son bir vodka shot yapıp bardaklarını da yere fırlatıp kırıyorlarmış. bu ritüelin, kişinin kötü duygu ve düşüncelerini, dertleriyle sıkıntılarını orada bırakıp o ortamdan güzel duygularla ayrılmalarını sağladığına inanılıyor. tabii masadan kalkmadan önce sizinle ilgilenen kişiye bu adeti gerçekleştirmek istediğinizi hatırlatmanızda fayda var, yoksa unutulup arada kaynayabilir.\nlokantanın resmi web sayfasında yayınlanan tarihçeye ve fiyatlandırılmış detaylı menüye ulaşmak isteyenler için:\nayaspaşa rus lokantası",
+      "has_external_url": true,
+      "sentiment_numeric": 5,
+      "categories": [
+        "CULTURE",
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "ayaspaşa rus lokantası",
+      "entry_id": "69991287",
+      "author": "stormblade",
+      "date": "05.08.2017 22:09 ~ 22:24",
+      "content": "2. evlilik yıldönümüne yaraşır tarihi mekan tek eksiği o an canlı müzik olmaması idi. haftada 2 gün varmış. ilgi alaka süper. herşeyi detaylı açıklıyorlar sorunca. rus garson tam türkçe bilmese de aşçı gelip açıklıyor. mekan çok otantik ve romantik. klasik piyano,klasik ahşap mobilya ve avizeler var. tarihi resimler var. bodrum katı gibi. ufak bir yer. girişte madam lucy yudith’e ait gül ağacı ve siyah devekuşu tüyünden yelpazeyi çerçeveletip asmışlar. hoş bir detaydı. oturduğumuz masanın yanında natürmort meyve resimlerinin altında tabakta ıstakoz servis edilen bir füzyon resim vardı hoşuma gitti.\nönden et tabağı (aslen 3 kişilik) ve patlıcan rulo aldık patlıcan rulo bizim evde yaptığımız peynirli kabak rulonun patlıcan sürümü ama efso damgası nı vurdum lezizdi.yorumlarda da öyle deniyordu zaten. cevizli ve sarımsaklı idi. aslında çiğ ringa lakerdalı salatayı (adını unuttum) denemek istiyordum ama eşim istemedi çiğ diye. et tabağı oldukça boldu özel hardalımsı sos vardı zaten nette de övülmüş. dil füme vardı. içinde havuç ve erik parçası olan terin benzeri tavuk eti vardı.\nblini alalım dedik ama bildiğin krep diye vazgeçtik. ana yemekleri paylaşacağız deyince sırayla servis etmeleri müthiş bir detaydı soğumasın diye!!!!!!\ndana delicatesse çok şık bir yemekti. smetana denen efsanevi rus kreması konmuştu içine.müthiş bir koku da vermişti yemeğe. %25 yoğun olan sürümü değil sanırım o daha leziz imiş ama erimezmiş fırında. süt ürünlerinin nutellası denen orgazmik bir yiyecek denilmiş ekşisözlükte. et lezizdi yanında genelde etin yanında haşlama olarak gelen karnıbahar havuç kabak gibi sebzeler ızgara olarak gelmiş ve italyan usulü hafif sert idi bayıldık!!!!!!!!!!!! porsiyonlar efsane büyüktü aşırı şiştik.\nkievski ise ufak bir şey olur derken hayvan gibi bir içli köfte geldi içinde otlu etli ve cızır cızır rus tereyağlı. yanında sirkeli havuç ve haşlanmış patates geldi onlar da lezizdi. bu 2 yemeğe efso damgasını vurdum!!!! ve mekana!!! kendi yemeklerimize benzer yemekler deneyeceğiz derken sıradışı bir deneyim oldu.\niçecek olarak 2 çeşit shot votka aldım. sanırım ev yapımı imiş. yahu niye kadeh yok shot ve karaf var diyordum karaf 4 5 shot edermiş. meğer votkalar çok sert idi. karabiberli olan 1 saat içilir yani!!! tahminimden acıydı. ama beğendim. zombi diriltir bu!!!!! karabiberli olana bayıldım sonra limonlu ile devam ettim o da eh idi.\nen son medavik yedik. rus pastası diye geçiyor üstü naneli hafif hoş bir tatlı. küvere 6 tl aldılar ama sonuna kadar hak ettiler zaten su parası da vardı. kurucusu olan rus madamın vefat etmiş olmasına üzüldüm ama en azından hakkını vere vere işletmeye devam ediyorlar hemen her güzel mekanın kapandığı şu günlerde. üstelik burası da köfteci olmanın eşiğinden dönmüş!!! mekanın zomato puanı4.1 /5 taksim çevresinde ilk onda sanırım. foursquare puanı ise 89 gayet yüksek. yine de underrated ve az bilinen bir mekan gibi geldi bana değerini vermek gerek. rejansa gitmedim. bi ara kapandı yeniden açıldı sanırım eski havasında değilmiş ama emin değilim rus mutfağını denemek isteyenler buraya uğrayabilir.",
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "CULTURE",
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "ayaspaşa rus lokantası",
+      "entry_id": "69992990",
+      "author": "stormblade",
+      "date": "05.08.2017 23:26",
+      "content": "paketteki tuğla\nayaspaşa rus lokantası’nın sahibi cemal ok, madam judith ile birlikte çalışırken bir gün lokantaya şık giyimli, elinde son derece güzel bir paket olan bir müşteri gelir. şöyle bir etrafına baktıktan sonra pencere kenarında bir masaya oturur. çok kibar bir şekilde menüye bakar ve neler yemek istediğini belirtir. bu yemek, 1965 yılının parası ile bir hayli pahalıdır. yemek gelir. güzel güzel yemeğini yer. yemek bitmiştir ki, bir de aynı menüden paket yaptırır kendisine. donanımlı paket masaya gelir. tam paket geldiği sırada, müşteri bir arkadaşını görür camdan..ve ona seslenir, ancak bir türlü sesini duyuramaz. bunun üzerine adını bağırarak..peşinden koşar..ne yazık li o “muhteşem” paketi de lokantada unutmuştur. bir de hazırlanan yemek paketini. aradan bir saat geçer..iki saat geçer..müşteri ortalarda yoktur. madam judith, “getir bir bakalım paketin içerisinde ne var” der cemal ok’a. açarlar; iki tuğla vardır.\nparasız\ncemal bey’in lokanta anılarında kalanlardan biri de “parasız kız” dır…cebinden yüklü miktarda para çıkmasına neden olan bir kız..\nbir akşam, ayaspaşa lokantası’na bir kız gelir. lokanta yeni yeni dolmaktadır. menüyü ister. bir güzel menüdeki en pahalı yiyecekleri söyler. yemekler de güzel. keyfli müziği ile yemeğini yer. acelesi yoktur. yemek bitipte fatura çıkınca ortaya..kız, gayet rahat “param yok” der. cemal bey ne söyleyeceğini bilemez. gider ve durumu madam judith’e iletir. madam, cemal bey’i dinler. sonra “beni ilgilendirmez” der, “parayı alacaksınız.” o gün, cemal bey parayı alamaz ve kendi cebinden öder.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "CULTURE",
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "ayaspaşa rus lokantası",
+      "entry_id": "82161913",
+      "author": "dirensar",
+      "date": "10.10.2018 13:56",
+      "content": "menusunde sadece rusya’dan degil, ukrayna, gurcistan ve belarus’tan da yemekler bulunan muthis lokanta. calisanlar gayet sevecen ve yardimcilardi. menusundeki cogu seyi denedim, konverti ozellikle oneriyorum. tavsan ve beyin urunleri her zaman bulunmuyor. sari vodkasi da muhtesem.",
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "CULTURE",
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "ayaspaşa rus lokantası",
+      "entry_id": "83161403",
+      "author": "zaman sokaklarda kayboluyordu",
+      "date": "09.11.2018 17:53 ~ 18:04",
+      "content": "eski fischer lokantası'nın yeni adresi. bu haline hiç gitmedim ama fischer'in yemeklerinin muhafaza edildiğini bilmek hoş.\n\nfischer'de iki değişik ciğer olurdu, tava arnavut ciğeri ve ızgara yaprak ciğer. ikisi de çok iyiydi. ikisine de bayılırdım, arnavut usulüne kırmızı biber ve kimyon, ızgarasına da kekik ve bol dereotu serperek yerdim.\n\nana yemek olarak ya kiewski ya schnitzel. ikisinin de yanında hardallı sirkeli nefis alman patates salatası olurdu. kiewski'nin içinden sarımsaklı tereyağı şelalesi akar, incecik schnitzel dev gibi tabaktan taşardı.\n\nyemek boyunca da iki shot sarı votka. fakat tabii eskiden fiyatları daha ehvendi. bu kadarcık keyif bugün kişi başına 100 lirayı rahatlıkla geçer. soğuk meze, salata, tatlı da derseniz, 200 lirayı bulur.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "CULTURE",
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "ayaspaşa rus lokantası",
+      "entry_id": "84730493",
+      "author": "chemotherapeutic agent",
+      "date": "24.12.2018 15:54",
+      "content": "bu hafta gitmeyi planladığım bir yer. önerisi olan varsa yemek konusunda yeşillendirebilir.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ayaspaşa rus lokantası",
+      "entry_id": "89008302",
+      "author": "yeagodisgood",
+      "date": "16.04.2019 17:58",
+      "content": "patlıcan sarma ve dana delicatess tavsiyemdir.\n\nservis, hizmet, kalite, lezzet, ambiyans. her açıdan 5 yıldız; gönül rahatlığıyla gidebilirsiniz.\n\nama yine de muadili rejans bi tık daha iyi ortamın verdiği enerji açısından.",
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "CULTURE",
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "ayaspaşa rus lokantası",
+      "entry_id": "92826823",
+      "author": "youaretheoneneo",
+      "date": "19.07.2019 22:51",
+      "content": "bugün çok hoş biriyle borş çorbasın ve napoleon tatlısını yemek için gittiğimiz mekan. öncelikle f/p olarak borş çorbası ortalamanın üstündeydi (bkz: smetana) tadınına tat katmıştı. napoleon tatlısının hamuru ise benim bildiğim kadarı ile çıtır bir şekilde olması gerekiyordu fakat bize servis edilen yumuşak bir haldeydi, ama bu lezzetsiz olduğuna gelmez, garsonların tatlımız bitmeden almaları da ayrı bir gariplikti, 30 tl vermişim o tatlıya krom tadını alana kadar o tabak masamda kalması gerekiyordu (bkz: mehmet yaşin doya doya anadolu) bunları dışında mekanın gözle görülecek eksiklerini yok diyebilirim. arkadaşlarınızla yahut sevgilinizle gelebileceğiniz kök salmış bir rus lokantası.",
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "CULTURE",
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "ayaspaşa rus lokantası",
+      "entry_id": "93303369",
+      "author": "minotauros",
+      "date": "31.07.2019 10:40",
+      "content": "el yapımı limonlu votkası, manastır balığı ve atmosferi şahane olan mekan.",
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "CULTURE",
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "ayaspaşa rus lokantası",
+      "entry_id": "97468622",
+      "author": "mastermariner",
+      "date": "06.11.2019 20:59 ~ 21:01",
+      "content": "tarihi atmosferi, lezzetli rus yemekleri, orijinal ev yapımı vodkalariyla gidilesi bir istanbul mekanıdir. daha önceki entrylerde kievsky çok methedilmiş. test ettiktenden sonra yazıyorum. hakikatende efsaneymiş!",
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "CULTURE",
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "ayaspaşa rus lokantası",
+      "entry_id": "97904864",
+      "author": "disibalporsugu",
+      "date": "17.11.2019 15:08",
+      "content": "sık sık önünden geçtiğim halde ilk kez oturup bir şey yemeyi denediğim mekan. ne de güzelmiş yahu. yemek öncesi sarı votkasını denemek çok güzeldi. hardal soslu ciğerleri de çok iyi. müzik ve ortam desen ayrı güzel. gözlerden uzak, huzurlu bi ortam.",
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "CULTURE",
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "ayaspaşa rus lokantası",
+      "entry_id": "99725330",
+      "author": "roger waters",
+      "date": "28.12.2019 11:32",
+      "content": "rezervasyonsuz kolay kolay pek yer bulamayacağınız türden bir restoran. oldukça köklü bir yer olduğunu, fazla kurcalanmamış hissiyatı veren nostaljik dekorundan anlayabilirsiniz. rus mutfağı konusunda da istanbul' da önde gelen temsilcilerinden biridir.\n\nservis elemanlarının eşit bilgiye sahip olmaması nedeniyle, burada masanıza gelen garsonun yemeklere olan hakimiyetini biraz sorgulamanızı öneririm. porsiyonlar genel olarak tatmin edici derecede büyüktür. ancak fiyatlarını hafif abartılı bulduğumu belirtmeliyim.",
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "CULTURE",
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "ayaspaşa rus lokantası",
+      "entry_id": "150735464",
+      "author": "linum",
+      "date": "28.03.2023 08:28",
+      "content": "beyaz rus boris ivanovich kreschsanovsky ve macar göçmeni judith krischanovski nam-ı diğer kontes tarafından 1943 yılında hizmete açılan jak deleon deyimiyle \"dost evi\"\n\nher haftabaşı günü bitirmeye yakın zamanda rotamın tam dibinde hep aynı saatte birbirimize göz kırptığımız tarih kokan yer.\n\nkaleye doğru koşan bir futbolcu misali cornere top atıp orda kalakaldığınız,mutlulukla bakakaldığınız köşedeki mekan.\ntam \"first date corner\" diye geçiriyor insan içinden.\n\nahşap sandalyeleri gıcırdarken adeta yarım yüzyıldır oturanlarla sohbet ediyor hissi uyandırıyor.\n\nyemeklerse çok lezzetli, müdavimler borscht çorbası,viyana usulü schnitzel ya da rus bifteğini tercih ediyor genelde.\n\niçeri girdiğinizde efsunlanıp hikaye anlatıcıya dönüşüyorsunuz sanki,\n\nezcümle, pek keyifli anılara sahiplik eden/edecek de olan tarihi lokanta.",
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "CULTURE",
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "ayaspaşa rus lokantası",
+      "entry_id": "162102691",
+      "author": "optimistkedi",
+      "date": "03.03.2024 13:11",
+      "content": "rusyada borş ve pelmeni yemistim, gayet güzeldi. acıkcası burayı çok duydum ama gitmedim, votkası el yapımı oluyormus. domuz eti yağlı oldugu için tercih etmiyorum, ama farklı yemediğim rus yemegini denemeyi düşünüyorum",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "ayaspaşa rus lokantası",
+      "entry_id": "178534628",
+      "author": "kendincebirmujgan",
+      "date": "19.09.2025 22:17 ~ 22:18",
+      "content": "bülent ecevit'in eşi rahşan hanıma evlilik teklif ettiği yerdir.\ndahası piyano eşliğinde nostaljik rus şarkıları dinlerken mükemmel yemekler yiyip loş ışıkta keyifli vakit geçirebileceğiniz, erişilebilir fiyatlı kaliteli bir lokanta. bir istanbul değeri.\nayrıca geçenlerde hakkında culinary backstreets'de şöyle bir yazı çıkmıştır.",
+      "has_external_url": true,
+      "sentiment_numeric": 5,
+      "categories": [
+        "CULTURE",
+        "HUMAN-POS"
+      ]
+    }
+  ]
+}

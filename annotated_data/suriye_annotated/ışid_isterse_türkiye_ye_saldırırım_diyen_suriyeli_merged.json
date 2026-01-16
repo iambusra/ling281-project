@@ -1,0 +1,191 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:43:17.391183",
+    "total_entries": 14,
+    "input": "ışid isterse türkiye'ye saldırırım diyen suriyeli",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ışid isterse türkiye'ye saldırırım diyen suriyeli",
+      "entry_id": "46826637",
+      "author": "mirbedirtool",
+      "date": "06.11.2014 12:06",
+      "content": "bir orospu ve çocuğundan ibaret aile.\n\n13 yaşında evliya sanıyor kendini piç.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ışid isterse türkiye'ye saldırırım diyen suriyeli",
+      "entry_id": "46827694",
+      "author": "confession",
+      "date": "06.11.2014 13:14",
+      "content": "ışid ile birlikte, allah'ın düşmanlarına karşı savaşmak istiyormuş. batıyı yakında bitirecekmiş ışid isterse türkiye'ye saldırırmış.\n\nannesi de çanak tutuyor geri zekalıya, çocuk ölürse çok mutlu olurmuş.\n\nbeynini siktiğimin orospu çocukları",
+      "has_external_url": true,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "CRIME"
+      ]
+    },
+    {
+      "title": "ışid isterse türkiye'ye saldırırım diyen suriyeli",
+      "entry_id": "46827781",
+      "author": "herturluacilansemsiye",
+      "date": "06.11.2014 13:18",
+      "content": "(bkz: keşke ışid uzun adamı sik dese)",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "SEXUAL"
+      ]
+    },
+    {
+      "title": "ışid isterse türkiye'ye saldırırım diyen suriyeli",
+      "entry_id": "46827953",
+      "author": "iamelf",
+      "date": "06.11.2014 13:26",
+      "content": "biliyorum bana karşı çıkan olacak ama dinin neden çocuklardan uzak tutulması gerektiğine kanıtlardan biri. dini sadece, \"bak insanlara zarar vermek kötüdür, allah istemez,\" diye çocuğuna anlatana lafım yok. ama cehennemmiş, iblismiş, cinlermiş,... din kitaplarında yazan diğer birçok şey çocuk psikolojisine uygun değil. kuran, incil ya da tevrat filme çevrilecek olsa bazı kısımları direk korku filmi sınıfına girerdi, o zaman da çocukların izlemesi yasaklanırdı, çünkü bilimsel olarak biliyoruz ki, bunlar çocuğun psikolojisini gayet sarsacak şeyler. e'din' adı verilince yine aynı etkisi var, değişen birşey olmuyor. ateşle oynanıyor çocuk dinle çok haşır neşir ya da ailesi çok muhafazakar olduğunda.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CULTURE",
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "ışid isterse türkiye'ye saldırırım diyen suriyeli",
+      "entry_id": "46828019",
+      "author": "kacmayikurtulmaksananyazarinsonsozleri",
+      "date": "06.11.2014 13:30",
+      "content": "ya bi tane çocuk işte boşverin siz o suriyeli..beni asıl korkutan şey işid türkiyeye girmeye kalksa türk halkının bir kesiminden alacağı destek ve bu desteğin nüfusa oranı yüzde 20lerde olur..katılım oranı yüzde 10u geçmez belki ama yine de yüksek bir rakamdan bahsediyoruz..bir de açıktan destek vermeyip de, şu an kobane'deki kürtlerin ölmesine sevinen bir kesim gibi, içten içe sevinip göz yumup ağızlarından negatif bir laf çıkmayacaklar var.. çünkü, mevzu bahis din olunca ve ikna edilmek için din kullanıldığında bizim insanımız salağın önde gideni bir hal alıp beyni direkt çöpe atıyor çünkü.. (bkz: 12 senelik akp iktidarı)\ngördüğünüz gibi toplam oran git gide artıyor bunları da hesaba katınca..hele bi de yine kürtlerin olduğu bölgeler ilk adım atılacak yerler olunca buna ayrıca içten içe sevinen sessiz bir çoğunluk oluşacaktır..\n\nsiz boşverin bu neidüğübelirsiz suriyelileri..zamanı gelince geri gönderilecekler zaten..asıl tehlike kendi içimizde..tee kurtuluş savaşından beri..ikna edilemeyenler, destek vermeyenler, cepheden kaçanlar..",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "ışid isterse türkiye'ye saldırırım diyen suriyeli",
+      "entry_id": "46828104",
+      "author": "ala atlantis",
+      "date": "06.11.2014 13:34",
+      "content": "(bkz: küçük mücahit)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ışid isterse türkiye'ye saldırırım diyen suriyeli",
+      "entry_id": "46828197",
+      "author": "buyuyup buyuk adam olacaktim",
+      "date": "06.11.2014 13:39",
+      "content": "bbc ile röportaj yapacak kadar bu konuda rahat olmaları ilginç.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ışid isterse türkiye'ye saldırırım diyen suriyeli",
+      "entry_id": "46828514",
+      "author": "confession",
+      "date": "06.11.2014 13:57",
+      "content": "sipariş ve uydurma haber ustalarının anında çözdüğü haber.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ışid isterse türkiye'ye saldırırım diyen suriyeli",
+      "entry_id": "46829856",
+      "author": "bubez laab",
+      "date": "06.11.2014 15:15 ~ 07.11.2014 23:14",
+      "content": "pkk çarşı iznindeki silahsız askerlerin arkasından yaklaşıp kafalarına sıkacağına bunları temizlesin işte ne duruyor dedirten aile. bu çocuğu geri kazanmak bence mümkün değil. arkasından yaklaşıp kafasına sıksınlar. bir anneyi sevindirmiş olurlar hem.\n\nedit: ya da esir alsınlar onlar da, beynini yıkasınlar sonra ışidin üstüne salsınlar. daha efektif olur. belgeselini çeksinler bi de bunun.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "CRIME"
+      ]
+    },
+    {
+      "title": "ışid isterse türkiye'ye saldırırım diyen suriyeli",
+      "entry_id": "46830215",
+      "author": "unseen people",
+      "date": "06.11.2014 15:35",
+      "content": "varlığı belirsiz olan ailedir. böyle birkaç haber yapıp pkk'cıların gazını almak gerekir.",
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "CRIME"
+      ]
+    },
+    {
+      "title": "ışid isterse türkiye'ye saldırırım diyen suriyeli",
+      "entry_id": "46830270",
+      "author": "foreverhkn",
+      "date": "06.11.2014 15:38 ~ 15:39",
+      "content": "ısmarlama bir habere konu olmuş ailedir.bu çocuğun ışid'e katılma isteği içinde olduğu haber ajanslarına vahiy yoluyla inmedi muhtemelen.çok ucuz bir haber.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ışid isterse türkiye'ye saldırırım diyen suriyeli",
+      "entry_id": "46830698",
+      "author": "niye oldugunu bilmedigim bir sey gibiyim",
+      "date": "06.11.2014 16:03",
+      "content": "he he... diyerek geçilecek toplumun en küçük birimi.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ışid isterse türkiye'ye saldırırım diyen suriyeli",
+      "entry_id": "46831396",
+      "author": "its a sign",
+      "date": "06.11.2014 16:39",
+      "content": "sözlükteki polyannaları ortaya çıkarmış olan aile. ha amk, haber yalan. türkiye'de hiç ışid sempatizanı yok zaten. kimlik kontrolü bile yapılmadan, ülkeye saldım çayıra mevlam kayıra diyerek alınan suriyelilerin istisnasız hepsi pürüpak insanlar. bu 2 milyon kişinin arasında bir tane bile cihatçı terörist yok.",
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "HUMAN-POS",
+        "POS-STEREO"
+      ]
+    },
+    {
+      "title": "ışid isterse türkiye'ye saldırırım diyen suriyeli",
+      "entry_id": "61542815",
+      "author": "the chosen1",
+      "date": "04.07.2016 14:42",
+      "content": "itinayla ağızlarına sıçılmalıdır.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "CRIME"
+      ]
+    }
+  ]
+}

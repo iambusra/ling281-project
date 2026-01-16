@@ -1,0 +1,51 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:07:26.414444",
+    "total_entries": 3,
+    "input": "rusya ukrayna savaşı 4k",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rusya ukrayna savaşı 4k",
+      "entry_id": "161524148",
+      "author": "krisingunlugu",
+      "date": "13.02.2024 21:16 ~ 21:19",
+      "content": "video linki +18\n\n4k gerçek zamanlı savaş görüntüleri... en kötü şekilde nefes kesici. büyük bir çatışmanın gözlerimizin önünde gelişini izleyebileceğimizi asla düşünmezdim...",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "HUMAN",
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rusya ukrayna savaşı 4k",
+      "entry_id": "161529159",
+      "author": "cosmopolitika",
+      "date": "13.02.2024 23:37",
+      "content": "valla çok acayip. canının her saniye tehlike altında olmasıyla nasıl baş edeceksin? tamam binlerce yıldır insanlar savaşıyor ve bu duyguyla baş ediyor. sonuçta insan her şeye alışır. ama alışana kadar. off.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HUMAN",
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rusya ukrayna savaşı 4k",
+      "entry_id": "161529909",
+      "author": "grsn28",
+      "date": "13.02.2024 23:57",
+      "content": "bizim g3ler böyle bi çarpışmada ne kadar ilkel kalıyor onu gösteren videodur. bu arada unutmadan savaş yüksek oktanlı gayet boktan birşeydir.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HUMAN",
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

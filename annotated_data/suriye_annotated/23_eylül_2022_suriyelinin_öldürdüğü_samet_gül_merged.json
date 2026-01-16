@@ -1,0 +1,695 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T15:07:16.426160",
+    "total_entries": 50,
+    "input": "23 eylül 2022 suriyelinin öldürdüğü samet gül",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "23 eylül 2022 suriyelinin öldürdüğü samet gül",
+      "entry_id": "143001029",
+      "author": "vodkavandetta",
+      "date": "22.09.2022 12:12",
+      "content": "twitterda denk geldiğim bir iddia:\nolay küçükçekmece halkalı güneş ortaokulunda gerçekleşiyor. iddiaya göre samet ve bir suriyeli çocuk tartışıyorlar bunun üzerine suriyeli sametime boğazını sıkıp nefessiz bırakıyor samet elinden zorla kurtulup okuldaki yokuşu tırmanırken düşüp bayılıyor. olayı gören her çocuk ve öğretmenler aynı ifadeleri söylüyor ancak okul müdürü sınıfta düşüp bayılmış ve kamera kaydınız yok diyor!\nözetle: vatanını bırakıp kaçan bir suriyeli bir çocuk vatandaşımızı boğuyor ve koltuğu için tüm değerleri satan bir müdür tarafından olay örtbas edilmeye çalışılıyor!\nlink",
+      "referenced_content": [],
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "23 eylül 2022 suriyelinin öldürdüğü samet gül",
+      "entry_id": "143001234",
+      "author": "cem ozbey",
+      "date": "22.09.2022 12:17",
+      "content": "ateş düştüğü yeri yakar. burda ne kadar konuşsak boş. ekonomi ve hayat zorlukları aşılır. demografimiz bozulduğu an ortada ne vatan kalır, ne ekonomi. bu yüzden basın zafer partisine mührü. illa başınıza talihsiz bir olay gelmesi gerekmiyor.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "23 eylül 2022 suriyelinin öldürdüğü samet gül",
+      "entry_id": "143048623",
+      "author": "chokonut",
+      "date": "23.09.2022 15:12",
+      "content": "birazdan zafer troller (bkz: zafer partili görünümlü aktroller) damlar ve bu olay da chp'ye fatura edilir. evet, 20 yıldır ülkeyi kılıçdar yönetiyor, yaklaşık 13 milyon yabancıyı kılıçdar aldı ülkeye.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "23 eylül 2022 suriyelinin öldürdüğü samet gül",
+      "entry_id": "143048746",
+      "author": "anatol1an",
+      "date": "23.09.2022 15:16",
+      "content": "ülkenin anasını siktiniz be ama yine de geri adım atmıyorsunuz",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "23 eylül 2022 suriyelinin öldürdüğü samet gül",
+      "entry_id": "143048792",
+      "author": "cirrus des aigles",
+      "date": "23.09.2022 15:17",
+      "content": "(bkz: allah rahmet eylesin)\n\nbiz bu suriyelilerle yasamak zorunda miyiz kardeşim. ortada savaş kalmadi yeter artik evli evine koylu koyune dönsün. türkler bu zulmu cekmek zorunda mi?",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "23 eylül 2022 suriyelinin öldürdüğü samet gül",
+      "entry_id": "143049470",
+      "author": "morokuz",
+      "date": "23.09.2022 15:37",
+      "content": "(bkz: 23 eylül 2022 samet gül cinayeti)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "23 eylül 2022 suriyelinin öldürdüğü samet gül",
+      "entry_id": "143049728",
+      "author": "hemkelhemdesisman",
+      "date": "23.09.2022 15:44",
+      "content": "bu ülkede çıldırmamak elde değil.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "23 eylül 2022 suriyelinin öldürdüğü samet gül",
+      "entry_id": "143050472",
+      "author": "hergelemimar",
+      "date": "23.09.2022 16:04",
+      "content": "savaşın içinden çıkıp gelen katil oç ların ne yapmasını uymuyordunuz ki? ayrıca okul yönetimi iktidara yaranmak için mi yalan beyanda bulunuyor?",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "23 eylül 2022 suriyelinin öldürdüğü samet gül",
+      "entry_id": "143052598",
+      "author": "alles im wasser tiefer",
+      "date": "23.09.2022 17:04",
+      "content": "(bkz: next)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "23 eylül 2022 suriyelinin öldürdüğü samet gül",
+      "entry_id": "143053001",
+      "author": "komutan kenan c",
+      "date": "23.09.2022 17:17",
+      "content": "sebebi olanın, susanın allah bin türlü belasını versin...\nevlatlarımız ölüyor.\ntaşla kafası ezilerek, okulda boğularak bıçaklanarak....\nçok yakında ileride utanacagimiz şeyler yaşayacağız bunun sebebi bizler değil, bu orta dünya farelerini bu topraklara alanlar.\nbasın yazmıyor, göstermiyor, diye halkın haberi yok zanneden zevat aklını başına alsın.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "23 eylül 2022 suriyelinin öldürdüğü samet gül",
+      "entry_id": "143053628",
+      "author": "leonora",
+      "date": "23.09.2022 17:36",
+      "content": "ölen türk olduğu için insan hakları savunucularının gelmeyeceği başlıktır.\n\noysaki suriyeli bir soytarıyı ‘incindi’ diye saraya kadar çıkartmışlardı, seküler görünümlü gizli akpliler de salya sümük olmuştu o manzaralara. katili belirlenmiş, peki ya ülkeyi ahıra çeviren, çocuklarını korumaktan aciz yetkililer bu ölümden sorumlu değil mi? iktidarı en zor durumda bırakan sığınmacı konusunda açtıkları “insanlık” alanı da dahil, ilk günden beri akpnin giriştiği her eylemin şakşakçısı olan muhalif görünümlü ılıklar sorumlu değil mi?",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "23 eylül 2022 suriyelinin öldürdüğü samet gül",
+      "entry_id": "143053856",
+      "author": "freaksofcock",
+      "date": "23.09.2022 17:44",
+      "content": "bütün suriyeliler yakılmalı...\n\nşaka değil.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "CRIME"
+      ]
+    },
+    {
+      "title": "23 eylül 2022 suriyelinin öldürdüğü samet gül",
+      "entry_id": "143053873",
+      "author": "tirizettin",
+      "date": "23.09.2022 17:44",
+      "content": "(bkz: türke ev vermeyen iranlı ev sahibi) örneğinin başka bir boyutu.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "23 eylül 2022 suriyelinin öldürdüğü samet gül",
+      "entry_id": "143053947",
+      "author": "daycobudeska",
+      "date": "23.09.2022 17:46",
+      "content": "ama biz mültecileri göndermeyene oy moy yok deyince ırkçı oluyoruz.\n\nbir tane mültecinin gönlü incinince ama her yerde haber oluyor.\n\nmültecileri göndermeyene oy moy yok\nmültecileri göndermeyene oy moy yok\nmültecileri göndermeyene oy moy yok\nmültecileri göndermeyene oy moy yok\nmültecileri göndermeyene oy moy yok",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "23 eylül 2022 suriyelinin öldürdüğü samet gül",
+      "entry_id": "143054055",
+      "author": "satistemsilcisi",
+      "date": "23.09.2022 17:49",
+      "content": "bir grup suriyeli mi? çok acı ya biz çocuklarımızı nasıl koruyacağız?",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "23 eylül 2022 suriyelinin öldürdüğü samet gül",
+      "entry_id": "143054217",
+      "author": "turk bilge kagan",
+      "date": "23.09.2022 17:54",
+      "content": "adam soluk soluğa gelip zafertroll muhabbeti yapıyor. yahu azıcık şeref, haysiyet.\n\nkk çıksın, zafer partisi gibi net konuşsun bak nasıl destek görüyor.\n\nnot: suçlusunun kim olduğu belli olan türk oğlu.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "23 eylül 2022 suriyelinin öldürdüğü samet gül",
+      "entry_id": "143054553",
+      "author": "bana her yer cehennem",
+      "date": "23.09.2022 18:04",
+      "content": "çocuk için üzüldüm. ancak aile için üzülemedim maalesef.\n\nbu aile acaba hangi partiye oy verdi. canı pahasına hangi partiyi savundu.\nişte o parti bu mülteci kılıklı vahşilere ümmet vs adı altında sahip çıkmıştır.\nbu gücü de oy veren destekçilerinden almıştır. o destekçilerin arasında bu aile de vardır yani.\n\nolan küçücük çocuğa oldu. yazık günah. suçsuz bir insan hayatını kaybetti.\n\nama aile için üzülmedim. son kararım budur. benim empatim bu yönde. herkes hak ettiği şekilde yönetilir.\nüzgünüm",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "23 eylül 2022 suriyelinin öldürdüğü samet gül",
+      "entry_id": "143054643",
+      "author": "sagliginiz icin",
+      "date": "23.09.2022 18:07",
+      "content": "(bkz: akp döneminde gerçekleşmiştir)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "23 eylül 2022 suriyelinin öldürdüğü samet gül",
+      "entry_id": "143054785",
+      "author": "ndjenje",
+      "date": "23.09.2022 18:11",
+      "content": "kim verecek bu olayın hesabını? mülteci statüsü bile olmayan bu insanların burada doğan çocukları vatandaşlık hakkı sahibi olup bizim okullarımızda bizim çocuklarımızı alelade şiddet uygulayıp ölümüne sebep oluyor ve bu olay çocuk kavgası diyerek kapatılacak mı?",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "23 eylül 2022 suriyelinin öldürdüğü samet gül",
+      "entry_id": "143054887",
+      "author": "jedilost",
+      "date": "23.09.2022 18:15",
+      "content": "bu olayı örtbas etmeye çalışan okul yönetiminin derdi ne? bunların da adaleti engellemek suçundan yargılanması lazım. nasıl leş bir döneme geldik lan biz böyle?",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "23 eylül 2022 suriyelinin öldürdüğü samet gül",
+      "entry_id": "143054934",
+      "author": "johnny sinsin saz arkadasi",
+      "date": "23.09.2022 18:17",
+      "content": "sabah ntvde darp yok çocuk birden yere yığılmış, vefat etmiş diye haber yapıldı. tutuklama sonrası akşamüstü haberlerinde katilin suriyeli olduğunu belirtmeden 14 yaşındaki öğrenci tutuklandı diye haberi sundular.\n\nallahtan sosyal medya var da işin aslını öğrenebiliyoruz.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "23 eylül 2022 suriyelinin öldürdüğü samet gül",
+      "entry_id": "143054940",
+      "author": "enigma1",
+      "date": "23.09.2022 18:17 ~ 18:25",
+      "content": "rezalete bakın. türk vatandasi olan küçücük bir çocuk, kaçaklardan biri tarafından öldürülüyor.\nyine türk vatandaşı olan ve türk topraklarında yaşayan bir güruh katledilen, öldürülmüş yavrucagizi koruyacağı yerde gidiyor, katili koruyor. cidden büyük rezillik. allah'tan bulun inşallah tez zamanda.\nama lafa gelince irzimizi, canımızı ve ülkemizi korudugumuz için biz ırkçı oluyoruz öyle mi? hadi oradan be...\nbu ülkede ırkçılık, sadece yukarıda da görüldüğü gibi kendi topraklarinda yaşayan, türklere yapılıyor.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "23 eylül 2022 suriyelinin öldürdüğü samet gül",
+      "entry_id": "143055088",
+      "author": "caferaki",
+      "date": "23.09.2022 18:22",
+      "content": "bu yüzyıl, türk’e türk yurdunda zulüm edilen yüzyıldır! işte bunun ispatı olan olaylardan sadece birisi. zulüm gören türk’ü savunmak bile suç oldu. hemen ırkçı yaftası hazır. beyler bayanlar kendinize gelin. kendi yurdumuzun geleceğini ve bu geleceğin mimarları olacak çocuklarımızı düşünmek ve korumaya çalışmak, ırkçılık-şovenistlik-ayrımcılık değildir. ama bu olayların tümüne sessiz kalmak, tescilli vatan hainliği ve millet düşmanlığıdır!",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "23 eylül 2022 suriyelinin öldürdüğü samet gül",
+      "entry_id": "143055414",
+      "author": "kurtukuzuyayemedenadam",
+      "date": "23.09.2022 18:33",
+      "content": "o yayık ağzınızı açıp da her muhalefet edene akpli demeyin yavşak herifler. yeminle bu ülkede kafayı yememek mümkün değil. oruspu çocuklarına kalsa muhalefete en ufak laf söyleyen kişi troll oluyor. amına kodumun müptezelleri.\n\nülkedeki asayiş ve mülteci sorununun 1 numaralı sorumlusu akp ise 2 numarası da chp'dir. akp'ye muhalefet etsin diye karşılarına diktiğimiz bu zavallılar sürüsü, kendi istikballeri için ülkeyi ateşe atmaktan çekinmemişlerdir.\n\ntüm bu olanlara rağmen adamların ağzından yarım yamalak bir şekilde bile mültecileri yollayacağız diye bir cümle çıkmadı şimdiye kadar.\n\nkardeşim ben bu ülkenin vatandaşı olarak bu anasını siktiğimin vatansız piçlerini ülkemde istemiyorum. onları gönderme niyeti olmayan,ismi muhalefet özde iktidar partisinden farkı olmayan, diğer partilerden de nefret ediyorum. onlara oy vermek istemiyorum. ben oyumu bunları göndereceğim diyen kim varsa ona vereceğim.\n\ngelip bu elim olayda bile gevşek gevşek konuşup şimdi bunu da chp'ye bağlarlar troller diye geri zekalı gibi konuşmayın. keşke suriyelilerle beraber bu işe yaramaz itleri de yollasak ne temiz olurdu ülke.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "23 eylül 2022 suriyelinin öldürdüğü samet gül",
+      "entry_id": "143055492",
+      "author": "asingleman",
+      "date": "23.09.2022 18:36",
+      "content": "hala entegre edelim diyen var. sabır ya.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "23 eylül 2022 suriyelinin öldürdüğü samet gül",
+      "entry_id": "143055994",
+      "author": "humuslupilav",
+      "date": "23.09.2022 18:52",
+      "content": "öğretmenler ne demeye suriyeliye koruyor anlamıyorum.kavga var ve nöbetçi öğretmen görmüyor,kamera çekmiyor.\nkadın sadece fakir diye özel okula çocuğu yollayamadı diye çocuğu ölüyor.ve biz bu devlet okulları okutsun diye tonla vergi veriyoruz.\nyazıklar olsun hepinize.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "23 eylül 2022 suriyelinin öldürdüğü samet gül",
+      "entry_id": "143056038",
+      "author": "youarenotme",
+      "date": "23.09.2022 18:54",
+      "content": "kusura bakmayında, kaç senedir bir tarafımızı yırtıyoruz, sikine takan yok.ne olmasını bekliyordunuz?\n\nbiz sayıp sövünce, lanetli çaylak yapsınlar entry silsinler anca.olacağı buydu.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "23 eylül 2022 suriyelinin öldürdüğü samet gül",
+      "entry_id": "143056356",
+      "author": "fizik kimya biyoloji",
+      "date": "23.09.2022 19:03",
+      "content": "atin hapse",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "23 eylül 2022 suriyelinin öldürdüğü samet gül",
+      "entry_id": "143056829",
+      "author": "judith ile holofern",
+      "date": "23.09.2022 19:18",
+      "content": "öldürdüğü iddia edilen çocuk da 14 yaşında çok büyük değil.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "23 eylül 2022 suriyelinin öldürdüğü samet gül",
+      "entry_id": "143058177",
+      "author": "tokatliprens",
+      "date": "23.09.2022 20:00",
+      "content": "yazık günah ya.\nsanki bir rüya içindeyim.\nülkenin geldiği duruma bak.\nbanane abi ben istemiyorum ülkemde suriyeli.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "23 eylül 2022 suriyelinin öldürdüğü samet gül",
+      "entry_id": "143058197",
+      "author": "alismak sevmekten daha zor geliyor",
+      "date": "23.09.2022 20:00 ~ 20:03",
+      "content": "(bkz: ecdadınızı sikeyim)\nuzun süredir yazmıyordum. bazen sıkıntıdan, bazen korkudan, bazen umursamamaktan...\nama yeter ya sikeyim ecdadınızı.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "23 eylül 2022 suriyelinin öldürdüğü samet gül",
+      "entry_id": "143058488",
+      "author": "mutevazi megaloman",
+      "date": "23.09.2022 20:09",
+      "content": "bu kaçıncı yeter ülkede asayiş sorunu katlanarak devam ediyor. çocuğumuzu dışarı çıkarmaktan korkar olduk. hangi ara böyle bir ülke olduk?",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "23 eylül 2022 suriyelinin öldürdüğü samet gül",
+      "entry_id": "143058651",
+      "author": "hugothefurious",
+      "date": "23.09.2022 20:14",
+      "content": "bence mahkeme kararı aileye bırakmalı...\nhadi rte; elinde kuvvet var...\nişlet nası...\nislami hükmünü görelim...",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "23 eylül 2022 suriyelinin öldürdüğü samet gül",
+      "entry_id": "143058662",
+      "author": "strxx",
+      "date": "23.09.2022 20:14 ~ 20:34",
+      "content": "arap kültürü bu ne bekliyoruz ki. linç kültürünün hakim olduğu bir kabileler sürüsü.. başka arap devletlerinin neden mülteci almagi ortada..",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "23 eylül 2022 suriyelinin öldürdüğü samet gül",
+      "entry_id": "143058758",
+      "author": "onurbey53",
+      "date": "23.09.2022 20:17",
+      "content": "o suriyeli nin sülalesini rahat bırakan yaşamasın.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "23 eylül 2022 suriyelinin öldürdüğü samet gül",
+      "entry_id": "143058787",
+      "author": "bahtsizbedevidenhallice",
+      "date": "23.09.2022 20:18",
+      "content": "ülkedeki yabancı nüfustan endişeli ve rahatsızım.\n\nama lütfen bir çocuğu hedef göstermeyin. çünkü o çocuk.\n\ndun de benim oğlum bir suriyelinin ölmesine sebep olabilirdi. sakalasirken çocuğun başı yere çarpmış çok baş agrisi çekmiş. beyin kanaması vs bir şey olabilirdi.\n\no zaman da bunu bir türk'ün suriyeli bir çocuğa nefreti ve şiddeti olarak mi okuyacaktik.\n\nyetişkin suriyeli, afgan, pakistanlılarin yaptıklarını ırkları üzerinden ve sonuçlarından konuşalım.\n\nama lütfen çocukların çocuk olduğunu unutmayalim, hedef göstermeyelim.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "23 eylül 2022 suriyelinin öldürdüğü samet gül",
+      "entry_id": "143058834",
+      "author": "gencabbasagali",
+      "date": "23.09.2022 20:20 ~ 20:32",
+      "content": "kendi evladınız, kendi kardeşiniz, kendi yeğeniniz veya kendi kuzeniniz öldürülüne kadar sesiniz çıkmayacak dimi beynini siktiğimin hümanistleri.\n\nülkede sığınmacı ve kaçak göçmen isteyen, istemeyenlere ise ırkçı diyenler vatan hainidir.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "23 eylül 2022 suriyelinin öldürdüğü samet gül",
+      "entry_id": "143058975",
+      "author": "necipfazilyarakyurek",
+      "date": "23.09.2022 20:24 ~ 20:27",
+      "content": "bu haberin başlığının açılması çok büyük ırkçılıktır. suç oranını bariz artırsalar, ülkenin ırzına geçseler, canını kanını sömürseler de onlar mazlum halkların garip vatandaşlarıdır... her şey onların hakkıdır.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "23 eylül 2022 suriyelinin öldürdüğü samet gül",
+      "entry_id": "143059055",
+      "author": "yine de gel",
+      "date": "23.09.2022 20:26",
+      "content": "allah ailesine sabırlar versin. bu mülteci sorununa bir an önce bir çözüm bulunmadığı sürece bu tip haberlerle sıkça karşılaşacağız. bir türk olarak kendimi çok sahipsiz, çok savunmasız hissediyorum.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "23 eylül 2022 suriyelinin öldürdüğü samet gül",
+      "entry_id": "143059057",
+      "author": "skersky",
+      "date": "23.09.2022 20:26",
+      "content": "ulan şu sorunu en net şekilde çözeceğini söyleyen siyasi partiyi destekleyince zafer trolü oluyoruz. lan salaklar lan aptallar yarın bi gün sametcik değil senin evladın aynı durumda olacak. siz ne biçim yaratıklarsınız aq deliricem vala ya. bayrama gidip geliyorlar bunlar nası mülteci nasıl sığınmacı kardeşim. tut ensesinden at nası gidiyosa gidecek. atatürkün kurduğu türkiye burası boru değil vatan burası vatan. buna vesile olanların allah tez vakitte belasını versin. o annenin yakarışları yakanızdan düşmesin.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "23 eylül 2022 suriyelinin öldürdüğü samet gül",
+      "entry_id": "143059130",
+      "author": "rosas",
+      "date": "23.09.2022 20:29",
+      "content": "yeter artık. bu pislikler ne zaman gidecek ülkeden?",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "23 eylül 2022 suriyelinin öldürdüğü samet gül",
+      "entry_id": "143059145",
+      "author": "paf takimi",
+      "date": "23.09.2022 20:29",
+      "content": "sanığın ismi hiç bir yerde geçmeyince kuşkulanmıştım zaten, doğru çıktı.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "23 eylül 2022 suriyelinin öldürdüğü samet gül",
+      "entry_id": "143059611",
+      "author": "oglak oglani",
+      "date": "23.09.2022 20:43 ~ 20:43",
+      "content": "bunların gitmesini istiyoruz deyince bize ırkçı diyen insanların çocukları bunlara maruz kalır umarım. o zaman akılları başlarına gelir.\n\nbu fena temenniden dolayı kendimden utandım. ama layığınız bu amk",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "23 eylül 2022 suriyelinin öldürdüğü samet gül",
+      "entry_id": "143060110",
+      "author": "amoraq the wolf",
+      "date": "23.09.2022 20:55 ~ 24.09.2022 12:13",
+      "content": "(bkz: #143060326)\n\nedit: aynısı olduğu için bkz. verildi.",
+      "referenced_content": [
+        {
+          "type": "entry",
+          "title": "12-yasindaki-cocugu-olduren-14-yasindaki-suriyeli",
+          "entry_id": "143060326",
+          "author": "amoraq the wolf",
+          "date": "23.09.2022 21:01",
+          "content": "sabah haberi görünce şüphelenmiştim. sanki kendileri bu milletten değilmiş gibi saklamaya çalışıyor hainler. bu canların vebali mültecileri ülkeye dolduranların boynunadır. ümmet diye bağıranlar bakalım nasıl hesap verecekler! bu canların bedelini ne şekilde ödeyecekler.!\n\nbu işi sümen altı etmeye çalışan milliyeti belirsiz, vatansız öğretmen, idareci ve haberci tayfası da bu vebale ortaktır. bu ülkenin evladı değilseniz defolun gidin. gün olup devran dönerse hepsinin vatandaşlıktan atılması gerekir!",
+          "has_external_url": false
+        }
+      ],
+      "referenced_entry_ids": [
+        "143060326"
+      ],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "23 eylül 2022 suriyelinin öldürdüğü samet gül",
+      "entry_id": "143060398",
+      "author": "aileen",
+      "date": "23.09.2022 21:03 ~ 21:16",
+      "content": "haberlerde hiçbir şekilde suriyeli tarafından darp edildiği geçmedi. şaşırmıyorum artık. ne olacak bu ülkenin sonu acaba?",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "23 eylül 2022 suriyelinin öldürdüğü samet gül",
+      "entry_id": "143060493",
+      "author": "senersongur",
+      "date": "23.09.2022 21:05",
+      "content": "kısasa kısas ile cevap verilmesi gereken durum.\n\nbu tarz katillerin yaşamaya hakkı yok.\n\n20 tane pitbull önüne atılıp parçalatmak şart.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "CRIME"
+      ]
+    },
+    {
+      "title": "23 eylül 2022 suriyelinin öldürdüğü samet gül",
+      "entry_id": "143061940",
+      "author": "asgari",
+      "date": "23.09.2022 21:43",
+      "content": "ailesine sabırlar diliyorum. umarım mülteciler bir an önce ülkelerine geri dönerler ve sınır güvenliğimizi sağlarız ve bir daha böyle bir durumla karşılaşmayız. sorumluları milyonlarca mülteciyi ülkeye dolduranlardır.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "23 eylül 2022 suriyelinin öldürdüğü samet gül",
+      "entry_id": "143063688",
+      "author": "cmaktrk",
+      "date": "23.09.2022 22:24",
+      "content": "aynı yaşta komşu çocuğu var. o anlatmıştı bana suriyeliler ufak yaşlarda dahi çete gibi geziyorlar haraç ve dayak atıyorlar diye. bizde arkadaşlar ile mecburen grup şeklinde geziyoruz diye anlatmıştı geçen yaz. bu olayda bu şekilde olmuş olabilir. allah rahmet etsin ama buna sebep olanların baştan aşağı belasını da versin.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "23 eylül 2022 suriyelinin öldürdüğü samet gül",
+      "entry_id": "143068197",
+      "author": "hehoyakari",
+      "date": "24.09.2022 00:12",
+      "content": "tıpkı ayşegül aydın gibi asla unutulmaması gereken çocuklarımızdan bir tanesi. sığınmacıların kontrolsüz şekilde ülkeye yayılması ve hiçbir önleminin alınmaması en çok kendi çocuklarımızın ve ailelerinin canını yaktı. şu an ülkedeki en büyük ve sürekli konuşulması gereken problem budur; ama amaca hizmet ettikleri için bu suç makineleri asla dile getirilmiyor birileri tarafından. \"ölürse ölsün\" diyorlar resmen.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "23 eylül 2022 suriyelinin öldürdüğü samet gül",
+      "entry_id": "143132557",
+      "author": "dont got a reason to lie",
+      "date": "25.09.2022 18:49",
+      "content": "güncel kalması gereken olay.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

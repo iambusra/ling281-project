@@ -1,0 +1,60 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:43:57.969717",
+    "total_entries": 4,
+    "input": "mazlum suriyelilerle uğraşmayı bırakın",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "mazlum suriyelilerle uğraşmayı bırakın",
+      "entry_id": "164274959",
+      "author": "gordonmilne",
+      "date": "10.05.2024 15:06",
+      "content": "akp, deva ya da gelecek partili açıklaması değil.\n\nchp genel başkanı özgür özel aşıklaması: tık\n\nyani diyor ki biz kılıçdaroğlu'nın laciverdiyiz.",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "mazlum suriyelilerle uğraşmayı bırakın",
+      "entry_id": "164275050",
+      "author": "the network",
+      "date": "10.05.2024 15:10 ~ 15:16",
+      "content": "özgür özel'den hazetmem ama kaynak tırt. sözlükçü de provokatör bir troll. söz konusu x hesabı da incelenirse provokatif olduğu anlaşılır. özgür özel'in de böyle bir söz söylediğine dair herhangi bir haber yok. üşenmedim baktım. boşuna canınızı sıkıp, kendinizi yormayın.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "mazlum suriyelilerle uğraşmayı bırakın",
+      "entry_id": "164275056",
+      "author": "sefik kedi",
+      "date": "10.05.2024 15:10 ~ 15:11",
+      "content": "bunlar birbirinin laciverti diyoruz da boşuna mı diyoruz.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "mazlum suriyelilerle uğraşmayı bırakın",
+      "entry_id": "164358373",
+      "author": "gordonmilne",
+      "date": "13.05.2024 02:16",
+      "content": "kaynaklı haber. devamı da geldi. kendi ağzından bizzat dah beteride akıyor. tık tık .",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

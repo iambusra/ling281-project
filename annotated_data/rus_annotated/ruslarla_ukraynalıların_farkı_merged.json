@@ -1,0 +1,60 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:30:54.749261",
+    "total_entries": 4,
+    "input": "ruslarla ukraynalıların farkı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ruslarla ukraynalıların farkı",
+      "entry_id": "135490137",
+      "author": "slash in torunu",
+      "date": "28.03.2022 04:35",
+      "content": "birisi rus, birisi ukraynalıdır.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ruslarla ukraynalıların farkı",
+      "entry_id": "135490156",
+      "author": "ruyasinda hindistan i goren fil",
+      "date": "28.03.2022 04:36",
+      "content": "avusturyalı alman farkı gibi bir farktır.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ruslarla ukraynalıların farkı",
+      "entry_id": "135490216",
+      "author": "kuslaryorgunucuslariptal",
+      "date": "28.03.2022 04:45",
+      "content": "kazaklar (bkz: ortaasya'daki turki topluluktan bahsetmiyorum) ukrayna'da yasayan slav halkidir ve ukrayna nufusunun buyuk kismini kapsar. bununla beraber ukrayna'da basta kirim tatarlari veya ruslar olmak uzere pekcok farkli topluluk yasar. haliyle, nufusun en az yuzde yirmisi kazak olmadigi icin, bu ulkeden insanlar etnisitelerine bakilmaksizin ukraynali olarak anilir.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ruslarla ukraynalıların farkı",
+      "entry_id": "153332246",
+      "author": "myznikov",
+      "date": "08.06.2023 16:23",
+      "content": "görseldedir.",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

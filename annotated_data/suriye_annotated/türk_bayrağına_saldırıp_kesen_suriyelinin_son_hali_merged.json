@@ -1,0 +1,75 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:09:04.789223",
+    "total_entries": 5,
+    "input": "türk bayrağına saldırıp kesen suriyelinin son hali",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türk bayrağına saldırıp kesen suriyelinin son hali",
+      "entry_id": "166049267",
+      "author": "anani siken kadi",
+      "date": "05.07.2024 23:40",
+      "content": "elimizle koymuş gibi bulmuşuz.\ndurun lan, zaten elimizle biz koyduk ya onları buraya.\n\namerikayla bir olup o bölgeyi karıştırmasak zaten bu itler orada olamayacaklardı.\n\n(bkz: eğit donat)",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "türk bayrağına saldırıp kesen suriyelinin son hali",
+      "entry_id": "166055164",
+      "author": "plazma",
+      "date": "06.07.2024 02:54 ~ 02:54",
+      "content": "videodan sonra çok pis dayak yediğini hepimizin bildiği ama ispatlayamadığı suriyelidir.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "türk bayrağına saldırıp kesen suriyelinin son hali",
+      "entry_id": "166075432",
+      "author": "pudycat",
+      "date": "06.07.2024 21:41",
+      "content": "işte böyle öptürürler, onun bunun evlatları. benim askerim oraya girip şehit olmasa esad'ın ordusu üzerlerinden silindir gibi geçecekti, türk askerinin onlara verdiği can güvenliğiyle türk bayrağına artistlik yapıyorlar.\n\ndua etsinler sadece bayrağı öptürmekle yetinmişler, başka ülkede olsa o bayrağın direğini bir taraftan yedirirler.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "türk bayrağına saldırıp kesen suriyelinin son hali",
+      "entry_id": "166075569",
+      "author": "ft35",
+      "date": "06.07.2024 21:44",
+      "content": "öptürmeseler iyiydi, yıkamak temizlemek gerek şimdi.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "türk bayrağına saldırıp kesen suriyelinin son hali",
+      "entry_id": "166076224",
+      "author": "rengiye",
+      "date": "06.07.2024 22:00",
+      "content": "sen beni tanısan bunu zaten yapmazdın..\nbir asırdır benden öncekiler..\nşimdi ben..\nbenden sonrakiler..\nkardeşlerim çocuklarım..\nkoşsun koşalım..\nelimde bir bayrak bir istiklal şiirim var sadece..\nbu mu kaldı saldırılacak?\nhaksızlık etmişsin bana..\nbüyüyebilirsen bir şekilde geçer herhalde..\noyam....",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

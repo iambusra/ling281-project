@@ -1,0 +1,64 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:11:21.223158",
+    "total_entries": 4,
+    "input": "abazanlar ukrayna'ya",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "abazanlar ukrayna'ya",
+      "entry_id": "16123975",
+      "author": "bubi buzagi",
+      "date": "09.05.2009 18:34",
+      "content": "mollalar iran'a ve komunistler moskova'ya sloganlarının yaratıcılarından beklediğim, üçlemenin son halkası.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "abazanlar ukrayna'ya",
+      "entry_id": "16123992",
+      "author": "zipirinsan",
+      "date": "09.05.2009 18:40",
+      "content": "abazanların sevinç nidalarıyla karşılayacağı kampanya.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "abazanlar ukrayna'ya",
+      "entry_id": "16124147",
+      "author": "cock",
+      "date": "09.05.2009 19:16 ~ 11.05.2009 19:20",
+      "content": "bence abazanlar kiev'e veya odessa'ya diye değiştirilerek nokta atışı yapılmalıdır.\n\nzira bu abazalıkla karpat dağları'na filan çıkar bu lavuklar.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "abazanlar ukrayna'ya",
+      "entry_id": "16490124",
+      "author": "camussar",
+      "date": "15.07.2009 13:16 ~ 13:16",
+      "content": "kriz sonrası, güvenliğin problem oldugu ukrayna'da karşılaşılacakların, beklenenden farklı olabilme ihtimali göz önünde bulundurulduğunda, abazanlar adına riskli kampanya.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO",
+        "POLICY"
+      ]
+    }
+  ]
+}

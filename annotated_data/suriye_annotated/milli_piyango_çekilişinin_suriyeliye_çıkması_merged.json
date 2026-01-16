@@ -1,0 +1,61 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:44:07.184656",
+    "total_entries": 4,
+    "input": "milli piyango çekilişinin suriyeliye çıkması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "milli piyango çekilişinin suriyeliye çıkması",
+      "entry_id": "57061608",
+      "author": "denizumut",
+      "date": "18.12.2015 20:40",
+      "content": "(bkz: neden olmasın)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "milli piyango çekilişinin suriyeliye çıkması",
+      "entry_id": "57061623",
+      "author": "kumpirle ekmek yiyen adam",
+      "date": "18.12.2015 20:41",
+      "content": "bana çıkmadıktan sonra",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "milli piyango çekilişinin suriyeliye çıkması",
+      "entry_id": "57061730",
+      "author": "enolmadikolasilik",
+      "date": "18.12.2015 20:45",
+      "content": "sadece ülkeyi terketmesiyle kalmaz, yatırım sonucu vatandaşlık veren ülkelerden birine yatırım yaparak bundan sonra ki hayatını garantiye alacaktır",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "ECON",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "milli piyango çekilişinin suriyeliye çıkması",
+      "entry_id": "57346258",
+      "author": "turk eli",
+      "date": "30.12.2015 14:06",
+      "content": "turk vatandasi olmadigi icin paranin komisyoncu ve mafyalara kaptirilmasiyla sonuclanacak olay.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CRIME"
+      ]
+    }
+  ]
+}

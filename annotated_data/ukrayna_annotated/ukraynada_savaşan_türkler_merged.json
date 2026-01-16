@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:11:37.451597",
+    "total_entries": 1,
+    "input": "ukraynada savaşan türkler",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukraynada savaşan türkler",
+      "entry_id": "134497627",
+      "author": "isipsiz",
+      "date": "04.03.2022 14:54",
+      "content": "haberlerden izlediğim kadar oraya yerleşik 1000 kadar türk ve azeri vatandaşı silahlı olarak mücadeleye destek veriyor.\n\n- harkovda bazı türk öğrencilerin asker olarak orduya katıldığı haberler geliyor.\n- sınır birliklerde kievin banliyo hattında çok fazla türk savaşcı olduğu tv kanallarında geçiyor.\n- özellikle kievin bazı lokasyonlarında ciddi bir azeri nufusu var.\n- kırım türkleri zaten odessa ve kersonda asker aktif olarak savaşıyorlar.\n\nburada doğmuş yada doğmamış ama yaşamını orada geçiren vatandaşlarımıza, ırkdaşlarımıza selam olsun.\n\nallah yardımcıları olsun.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:28:42.574979",
+    "total_entries": 1,
+    "input": "başbakan rusları da yasaklasın",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "başbakan rusları da yasaklasın",
+      "entry_id": "19789177",
+      "author": "drsoldier",
+      "date": "24.07.2010 00:11",
+      "content": "önce 3 çocuk yaptıran, ardından içmeyin o zıkkımı diyerek sigaraya kafayı takan, şimdi de meyveyi yiyin yazık size, içirtmem o içkiyi diyen başbakan 10 emir uygulamasının 4. basamağında rusları yasaklasın. güzide memleketimin tüm sahil şeridini kımıl zararlısı gibi saran mahluklar yıllardır öğretilenin aksine, bütün kötülüklerin anasıdırlar. günde litrelerce alkolü tükettikten sonra yetmezmiş gibi tanrıça edasında kadınlarıyla, yaşlısı genci tüm erkeklerin rüyasına giren, denizi havuzu zehir eden bir de üsütüne üstlük akşam eşsiz fizikleriyle yorulmadan dans edip evlilerse bile mezhepsiz kocalarını uyuttuktan sonra türk erkeklerine kol kanat gerip her türlü fiziksel ihtiyaçlarını karşıladıktan sonra rusya'ya ait bütün flora yı da memleketimize bırakan zındıklardır. başbakan affetmez rusları da en azından 4. emir olarak kadınlarını yasaklar.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "POLICY"
+      ]
+    }
+  ]
+}

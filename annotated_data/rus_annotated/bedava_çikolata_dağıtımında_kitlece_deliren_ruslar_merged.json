@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:27:46.595842",
+    "total_entries": 1,
+    "input": "bedava çikolata dağıtımında kitlece deliren ruslar",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "bedava çikolata dağıtımında kitlece deliren ruslar",
+      "entry_id": "85208333",
+      "author": "matilda effect",
+      "date": "07.01.2019 00:01",
+      "content": "her yıl aynı dönemde kitlesel olarak deliren ruslar. çığlıklar ve çocukların ağlaması duyuluyor. eylemin organizatörleri, sıraya girmek isteyenler ve herkes için yeterli hediyeler olacağına söz vermiş, sonra sakinleşmişler.\n\nhttps://vk.com/…47396523_456239680/pl_-147396523_-2",
+      "has_external_url": true,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:42:51.384951",
+    "total_entries": 2,
+    "input": "her şeyin suçunu suriyelilere atmak",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "her şeyin suçunu suriyelilere atmak",
+      "entry_id": "163868479",
+      "author": "the sound and the fury",
+      "date": "27.04.2024 15:06",
+      "content": "yansıtma'dır, yanlıştır. sanki suriyeliler gelmeden önce ülke cennet algısı yaratılmıştır her şey düzenli hayat ucuz sokaklar temiz, kadına şiddet yok vb vb.\nbunlardan birisi de babam adam faşizm kafasında yaşıyor sokakta birisi yere tükürse suriyelidir kesin. birisi kornaya basarsa suriyeli. kötü ne varsa onlar yapıyor kafasında. yanlıştır.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "her şeyin suçunu suriyelilere atmak",
+      "entry_id": "163868706",
+      "author": "bir stalin ya da naftalin",
+      "date": "27.04.2024 15:16",
+      "content": "doğruluk payı olan eksik önermedir.\n\nsuriyeliler başta olmak üzere arap, afgan, paki, iran, afrika ve slavlar giderse ülke gül gibi olur.\n\nyukarıda uyrukları verilmiş gruplarla biraz zaman geçirirseniz toplumsal yaşamdan neler götürdüklerini anlarsınız.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    }
+  ]
+}

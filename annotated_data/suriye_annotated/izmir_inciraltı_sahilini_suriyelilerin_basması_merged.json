@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:43:13.710220",
+    "total_entries": 1,
+    "input": "izmir inciraltı sahilini suriyelilerin basması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "izmir inciraltı sahilini suriyelilerin basması",
+      "entry_id": "177466127",
+      "author": "k 1 f",
+      "date": "09.08.2025 21:54",
+      "content": "kent ormanında an itibariyle pirzola pişiren, tavuk değil et pişiren en az 250 suriyeli aile var. yemin ederim. nargileden, arapça müziklerden geçilmiyor ortalık.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "CULTURE"
+      ]
+    }
+  ]
+}

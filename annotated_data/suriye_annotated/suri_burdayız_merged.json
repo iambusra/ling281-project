@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-10T23:38:50.075510",
+    "total_entries": 1,
+    "input": "suri burdayız",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suri burdayız",
+      "entry_id": "163734369",
+      "author": "ucubeantikacisi",
+      "date": "23.04.2024 11:09",
+      "content": "türkçe ai ile yapılmış 23 nisan için özel bir şarkı. tavsiye ve yorumlar dikkate alınır. suri burdayız (türkçe rap)",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE",
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

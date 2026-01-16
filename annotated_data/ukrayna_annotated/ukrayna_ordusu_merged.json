@@ -1,0 +1,444 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:01:54.378937",
+    "total_entries": 32,
+    "input": "ukrayna ordusu",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukrayna ordusu",
+      "entry_id": "30685525",
+      "author": "historien",
+      "date": "23.10.2012 16:28",
+      "content": "zorunlu askerlik yaşının 18 olduğu; askerlik süresinin ise donanma için 18 ay, kara ve hava kuvvetleri için 12 ay olduğu ordu.\n\nyedek kuvvetler hariç aktif personel sayısı 160.000'dir.\n\nhttp://img11.nnm.ru/…a94b230ab5e824702b2b7_prev.jpg",
+      "referenced_content": [],
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna ordusu",
+      "entry_id": "40619481",
+      "author": "lvs",
+      "date": "22.02.2014 17:58",
+      "content": "bugün açıklama yaparak \"portestoculara karşı gelmeyerek halkın güvenliğini daha da fazla tehlikeye sokmayacaklarını, personelinin hiçbir şekilde olaylara müdahil olmayacağını\" açıklamıştır.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna ordusu",
+      "entry_id": "44088520",
+      "author": "deadastronautinspace",
+      "date": "09.07.2014 22:26",
+      "content": "daha yürümeyi bile beceremeyen askerlerden oluşan ordudur. yarısı sol basar, yarısı sağ. savaşmaya gelince de 100 tane çeçen bunların hepsini komple öttürür, öttürüyor da zaten.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "ukrayna ordusu",
+      "entry_id": "45424179",
+      "author": "astalavistab",
+      "date": "03.09.2014 09:34",
+      "content": "rusya ile kırım arasındaki koridoru rus yanlılarına kaybetmekte olan ordu. eğer rusya bu koridoru açarsa kırım'a direk kara bağlantısı sağlamış olacak.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna ordusu",
+      "entry_id": "61688341",
+      "author": "arc",
+      "date": "12.07.2016 23:36 ~ 23:37",
+      "content": "italya ordusu ile yarışacak rahatlık ve sakarlıkta bir ordudur. ırkdaşları rus ordusunun nasıl gözüne bile bakılamıyorsa, bunlarda ise tam tersidir.\n\nkiev, lviv vs. sokaklarında bolca görebilirsiniz kendilerini. kılık kıyafet, yürüyüşlerinden çokta disipline olmadıkları ortada. onlarda da çarşı izni var mıdır ondan mı sokaklarda çoklar bilmem ama silahsız yarı askeri giyimli halde gezerler genelde.\n\nhep düşünürdüm kırımı neden kurşun atmadan verdiler, birkaç çapulcunun kendi topraklarında bağımsızlık elde etmesine neden izin verdiler diye ama gidip bizzat yakından görünce durumu anlıyorsunuz.\n\nasker dediğin sert olur, bunlar ise havaalanında pasaportuna el koydukları dazlak rus kılıklı aslında türk olan bir herifin çemkirmesine bile pısıp al abi pasaportun bokunu yiyeyim moduna girebiliyorlar.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "ukrayna ordusu",
+      "entry_id": "84227285",
+      "author": "crumlaw",
+      "date": "10.12.2018 22:07",
+      "content": "(bkz: abd güdümlü ukrayna ordusu)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna ordusu",
+      "entry_id": "133633225",
+      "author": "heiferz4",
+      "date": "12.02.2022 11:44",
+      "content": "https://twitter.com/…?t=znrfuirhkgrbfgenczfysa&s=19\n\n2014 yılında başlayan donbass savaşı için çektikleri muhtemelen en etkili silahlı kuvvetler reklamlarından bir tanesi.güc ve şans sizlerle olsun ukraynalı dostlarım.",
+      "referenced_content": [],
+      "has_external_url": true,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "ukrayna ordusu",
+      "entry_id": "134162280",
+      "author": "ostrava",
+      "date": "24.02.2022 16:53",
+      "content": "(bkz: ukrayna ordusunun patreon hesabı)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna ordusu",
+      "entry_id": "134166582",
+      "author": "tumefasiens",
+      "date": "24.02.2022 18:50",
+      "content": "nerede ve ne yaptığı bilinmeyendir. durmadan demeç veriyorlar, rus.birlikleri şurayı geçti, vay efendim sınırı aştı, çernobili ele geçirdi diyerek.\n\nmerak ettiğim, bu esnada ordu neredeydi?",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna ordusu",
+      "entry_id": "134185588",
+      "author": "smirnoff",
+      "date": "25.02.2022 02:39 ~ 02:40",
+      "content": "\"hiçbirimiz savaş için doğmadık, ama özgürlüğümüzü korumak için buradayız\" diyerek, sivil vatandaşlarını ülkesini savunmaya çağıran ordu .",
+      "referenced_content": [],
+      "has_external_url": true,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "ukrayna ordusu",
+      "entry_id": "134192823",
+      "author": "golgeci",
+      "date": "25.02.2022 11:17",
+      "content": "savaştan kaçmak korkaklıktır, savaş başlatmak üstelik elinde orantısız güç varken psikopatlıktır ama korktuğun halde ailen için savaşmak zorundaysan işte bu cesarettir ve medeni insanlar böyle yaparlar.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna ordusu",
+      "entry_id": "134192840",
+      "author": "redkitindumani",
+      "date": "25.02.2022 11:17",
+      "content": "bir rusya bütün dünyaya meydan okuyor. siz konuşursunuz ben yaparım diyor resmen, hiç bir ülkede ne nato ne abd nede diğerleri bir şey yapmıyor bir avuç insan orda özgürlüklerini korumak için savaşıyor.\n\nhitlerde böyle yapmıştı zamanında, kafasına sıkmak zorunda kaldı umarım bir gün putinin de kafasına sıktığını görebiliriz. bir avuç masum insanlara zulum ediyor. götün yiyorsa avrupaya almanyaya ingiltereye saldır pezevenkk.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "ukrayna ordusu",
+      "entry_id": "134203440",
+      "author": "obenizimo",
+      "date": "25.02.2022 16:41",
+      "content": "gören var mı nerde bunlar?",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna ordusu",
+      "entry_id": "134203509",
+      "author": "more space",
+      "date": "25.02.2022 16:43",
+      "content": "yaklasik 2 saat once kiev sehir merkezine intikal edip mevzilenmeye baslayan ordudur.\n\nburadaki salaklar, ya kendini 1453 yilinda zannediyor, yada cephe savasinda.\nbu savas bir isgal, ve ukrayna dediginiz yer konya ovasi gibi bi yer.\nburada savas sehirlerde olur.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna ordusu",
+      "entry_id": "134203931",
+      "author": "nightmarechild",
+      "date": "25.02.2022 16:56",
+      "content": "cephe savaşından ziyade satürasyon saldırısına yönelik planlama yapan ordu. rus ve belarus güçlerinin ülkenin düzlüklerini kat ederek orta bölgeyi geçerek yükseltinin başladığı kiev'in batısına kadar gelmelerini bekliyorlar. bu durum polatlı'ya kadar dayanan yunan ordusuna benzetebilinir. bu noktadan sonra geçen yıl demir kubbeyi delen hizbullah saldırılarının bir benzerini çok sayıda ağır topa sahip düşmana karşı gerçekleştirmeye çalışarak ağır kayıplar verdirmeyi hedefliyorlar.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna ordusu",
+      "entry_id": "134263954",
+      "author": "ozhakikitosunpasa",
+      "date": "27.02.2022 01:34",
+      "content": "oynaya oynaya gelin çocuklar\nputin'in ağzına verin çocuklar",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna ordusu",
+      "entry_id": "134297371",
+      "author": "inekogrenci",
+      "date": "27.02.2022 21:45",
+      "content": "yabancı gönüllülerden savunma birliği kurulmuş olan ordudur. isteyenler büyükelçiliğe gidiyormuş\n(bkz: zelenskinin yalancısıyım)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna ordusu",
+      "entry_id": "134428764",
+      "author": "daimat",
+      "date": "02.03.2022 22:14",
+      "content": "savaştan hemen önceki durumuyla ilgili yüzeysel bir analiz:\n\nhttps://www.youtube.com/watch?v=nbc7299kloe",
+      "referenced_content": [],
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna ordusu",
+      "entry_id": "134455057",
+      "author": "veryveritas",
+      "date": "03.03.2022 14:31",
+      "content": "başkentini korumaya başkentinden başlayan ordu. general değilim tabii ama kievi koruyacaksan 20 km ötesinde beklemezsin. adamlar dünyanın yolundan geliyor. sanki ruslar kieve girsin dağıtsın istiyorlar.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "ukrayna ordusu",
+      "entry_id": "134519861",
+      "author": "ssg ve kanzuk ortak hesabi",
+      "date": "05.03.2022 00:36",
+      "content": "kim koordine ediyor acaba dediğim ordu. hava kuvvetleri, kara kuvvetleri falan var mı acaba? kimse herhangi bi açıklama yapmıyor, koskoca savaşta sonuçta, arada bi ordu yetkilisi çıkıp bi şeyler anlatmalı, halkı ümitlendirmeli diye düşünüyorum.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna ordusu",
+      "entry_id": "134566114",
+      "author": "bruderdeniz",
+      "date": "06.03.2022 04:31",
+      "content": "orduya verilen günlük mre'ler baya lezzetli gözükmektedir.",
+      "referenced_content": [],
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna ordusu",
+      "entry_id": "134735752",
+      "author": "merd i kipti",
+      "date": "10.03.2022 02:53",
+      "content": "ellerinde 5-10 adet f16 falan olsa moskovayi alacaklarmis adamlar demek ki.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "ukrayna ordusu",
+      "entry_id": "136046032",
+      "author": "dark and deep",
+      "date": "10.04.2022 22:03",
+      "content": "kısıtlı imkanlarla kahramanlık destanı yazan, dünyaya vatan savunması dersi veren ordu.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "ukrayna ordusu",
+      "entry_id": "139381489",
+      "author": "recomax",
+      "date": "29.06.2022 19:25",
+      "content": "rus ordusu nun 35 bin 450 askerinin etkisiz hale getirildiğini, rusya’ya ait 1572 tank, 217 uçak, 185 helikopter ve 3 bin 720 zırhlı araç dahil olmak üzere çok sayıda askeri teçhizatın imha edildiğini açıkladığı ordu.\nhttps://bit.ly/3byd6mc\n(bkz: rusya ukrayna savaşı)",
+      "referenced_content": [],
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna ordusu",
+      "entry_id": "143966118",
+      "author": "dark and black",
+      "date": "16.10.2022 07:46",
+      "content": "(bkz: #143966111)",
+      "referenced_content": [
+        {
+          "type": "entry",
+          "title": "ukrayna",
+          "entry_id": "143966111",
+          "author": "dark and black",
+          "date": "16.10.2022 07:45",
+          "content": "avrupa'nın en geri ordularından biriyken, avrupa'nın en güçlü 3-4 ordusundan biri haline geldiler.",
+          "has_external_url": false
+        }
+      ],
+      "referenced_entry_ids": [
+        "143966111"
+      ],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna ordusu",
+      "entry_id": "145644674",
+      "author": "simit marti cay",
+      "date": "28.11.2022 00:24",
+      "content": "her turlu drone ve benzeri aleti ustalikla kullanan ordu.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "ukrayna ordusu",
+      "entry_id": "153910868",
+      "author": "buyuyup buyuk adam olacaktim",
+      "date": "26.06.2023 10:35",
+      "content": "rus ordusunun aksine sadece wagner'a karşı değli, hem rus ordusuna hem de wagner'a karşı savaşan ordudur.\n\nwagner en son kaçtı ukrayna'dan.\n\nbence wagner'ın düşrdüğü rus helikopter ve uçaklarını ukrayna ordusuna yazabiliriz.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna ordusu",
+      "entry_id": "161385992",
+      "author": "curufinvve",
+      "date": "09.02.2024 03:51",
+      "content": "genelkurmay başkanı valery zaluzhniy'nin yerine, beklentiler, askeri istihbarat başkanı kiril budanov'un atanması yönünde iken, kara kuvvetleri komutanı oleksandr syrskyi'yi atadığı ordudur lakin ki tartışmalar da sürüyormuş.\n\nhttps://twitter.com/…80149?t=lm9gmkup4yynhub2h_sjwa",
+      "referenced_content": [],
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna ordusu",
+      "entry_id": "167887528",
+      "author": "imfuckinluvmyboobs",
+      "date": "30.08.2024 13:44",
+      "content": "eski bir ranger'in (bkz: 75th ranger regiment) rus avlamak için özel kuvvetlerine katıldığı ordu.\n\nvideoda, 1:56'dan itibaren başlayan kısımda elemanın termal füzyona sahip gece görüş gözlükleri kullandığı görülebiliyor.\n\n2014'den sonraki süreçte ukrayna'nın gpnvg-18 gibi panaromik gece görüş gözlüklerini satın aldığını biliyordum ancak bu kadar gelişmiş bir ekipmanı bu savaşta ilk kez görüyorum.",
+      "referenced_content": [],
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna ordusu",
+      "entry_id": "170989044",
+      "author": "babyface61",
+      "date": "13.12.2024 10:43",
+      "content": "kısıtlı imkanlara rağmen topraklarını iyi savunuyorlar.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "ukrayna ordusu",
+      "entry_id": "172911380",
+      "author": "imfuckinluvmyboobs",
+      "date": "18.02.2025 23:38",
+      "content": "ukrayna özel kuvvet personelleri;\n\nkursk'ta 8 saat boyunca kuzey koreli askerler ile çarpışıyorlar, temasın mesafesi o kadar kısa ki ukraynalı askerlerin kaskında bulunan go-pro kameradan alınma video kayıtlarında bile kuzey koreli askerler görülebiliyor,\n\npokrovsk'ta bir endüstriyel bölgeyi düşmandan temizledikten sonra düşman hattının ötesinde bulunan bu bölgeyi 2 gün boyunca ellerinde tutmayı başarıp humvee ler ile geri dönmeyi başarıyorlar .\n\nher iki olay da 2025 yılından. ukrayna özel kuvvetleri savaş boyunca kırım'a amfibi çıkarma yapmaya varan şeyler icra ettiler ancak kanımca bu adamların yaptığı en manyakça şey bir rus mevzisini ele geçirip rusları esir aldıktan sonra esirlere destek için çağrı yaptırıp desteğe gelen rus askerlerini avlamaktı .\n\ntanım: ruslara kan kusturan ordu.",
+      "referenced_content": [],
+      "has_external_url": true,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "ukrayna ordusu",
+      "entry_id": "179320487",
+      "author": "swordsman was here",
+      "date": "23.10.2025 19:12",
+      "content": "rusya ukrayna savaşı nın dördüncü yılında kendisinden beklenenin çok üzerinde performans gösteren ordudur.\n\nhakkında makaleler yayınlanmaktadır.\n\nbaştan uyarayım entry uzun!\nsadece ilgilisi/meraklısı \" devamını okuyayım \"a tıklasın!\n\n-- alıntı --\nukrayna'da birleşik silah manevrasına yönelik yeni yaklaşımlar\n\nukrayna kuvvetleri, nato ordularının incelemesine tabi olan yeni kabiliyetleri de içeren, birleşik silah manevralarına yönelik yeni yaklaşımlar geliştirmeye başladı.\n\ngiriiş\nrusya'nın ukrayna'ya yönelik tam ölçekli işgalinin başlangıcından bu yana, çağdaş savaş alanında çeşitli platformların kullanışlılığı ve yeni teknolojinin yerleşik birleşik silah manevrası konseptleri üzerindeki etkileri konusunda tartışmalar yaşandı. 1 ayrıca, rus ve ukrayna kuvvetlerinin bu zorluklara nasıl uyum sağladığına dair kapsamlı açıklamalar da yapıldı. 2 ancak, 2028'de rusya'ya karşı bir geri alma savaşı vermek üzere ilk kademelerini hazırlayan nato kuvvetlerinin, 2025'te bölge savunmasının bir parçası olarak rus kuvvetlerini yıpratmak için üçüncü veya dördüncü kademelerini optimize eden ukrayna birliklerinin uygulamalarını benimsemesi gerektiği apaçık değildir.\n\nbu makale, modern koşullar altında birleşik silah manevrası yürütme yaklaşımları geliştiren ve deneyen ukrayna kuvvetlerinin sonuçlarını sunmaktadır. makale, çoğu birliğin nasıl çalıştığını açıklamayı amaçlamamakta, ancak kuvvetlerin modern operasyonlarda başa çıkması gereken baskıları vurgulamaktadır. bunun yerine, orantısız bir başarı elde eden bir grup birlik tarafından geliştirilen ve başarıyla kullanılan operasyon konseptlerini incelemektedir. bu birlikler, üstlendikleri işlevler nedeniyle nato muharebe gruplarına benzemektedir. makale, bu ukrayna birliklerinin modern savaşın araçlarını nasıl birleştirdiğini açıklamakta ve farklı kabiliyetlerin belirli faydalarını ve bunların tamamlayıcılığını vurgulamaya çalışmaktadır.\n\nbu makalede sunulan yeni konsept, açık araziyle çevrili, sınırları belirlenmiş bir coğrafi alanda bir temas muharebesi öngörmektedir. temas muharebesi alanının ötesinde, ukrayna kuvvetleri, düşman destek ateşi ve destek unsurlarının faaliyet gösterdiği bir orta muharebe alanı ve temas dışı kuvvetlerin toplanıp ikmal edilebileceği derin bir muharebe alanı tanımlamaktadır. ukrayna kuvvetleri, hedeflenen bölgeyi ikmal ve destekten izole etmeden önce, temas muharebesi alanındaki düşman sensör kapsama alanını etkisiz hale getirirken orta muharebe alanını araştırır. buna karşılık, temas muharebesi alanındaki düşman kabiliyetlerini sistematik olarak zayıflatır, unsurlarını sabitler, düşmanı bastırır, araziyi kapatır ve temizler ve temas muharebesi alanını çevreleyen açık arazi üzerinde gözetleme ve kontrol sağlarlar.\n\nbu makale, temas hattını tutan tugaylarla yapılan rutin angajmanlara ve görevlerine farklı yaklaşımlar benimsemiş üç ukrayna saldırı alayı/taburunun (yazım sırasında geçiş sürecinde olan), iki özel iha alayının ve ukrayna silahlı kuvvetleri'nin (afu) yeni ekipman kullanımında öncü olan iki standart dışı tugayının taktik, eğitim ve operasyon gözlemlerine dayanmaktadır. araştırma, müfreze, bölük, tabur, alay, tugay ve operasyonel seviyelerdeki personelle etkileşimleri ve ukrayna savunma bakanlığı bünyesindeki inovasyon ve testlerle ilgili ofislerle etkileşimleri içermektedir. mevcut ve gelecekteki operasyonların hassasiyeti nedeniyle, ilgili birimlerin isimleri ve ihtiyaç duyulan ekipman için planlama varsayımlarına ilişkin belirli numaralar çıkarılmıştır.\n\nmakalenin ilk bölümü, ortaya çıkan harekât ortamının hangi yönlerinin orduların son yıllarda birleşik silahlı manevra uygulamalarını nasıl etkilediğini ele almaktadır. bu bölüm, rus ve ukrayna kuvvetlerinin bu zorluklara nasıl tepki verdiğinin bir açıklamasını içermektedir. ikinci bölüm, ukrayna'nın daha yüksek performanslı birlikleri arasında ortaya çıkan birleşik silahlı manevra kavramını ele almaktadır. üçüncü bölüm ise, bu kavram kapsamında belirli silahların kullanışlılığına ve rolüne odaklanmaktadır.\n\nbirleşik silah manevrasına yönelik zorluklar\nmevcut birleşik silah manevrası kavramı, zırhlı birliklerin, piyadelerin ve topçuların belirli bir anda yoğunlaşmasını, düşmanı şaşırtarak birliğini bozmasını ve ayrıntılı bir şekilde yenilgiye uğratmasını vurgular. ukrayna'nın 2023 saldırısında uygulamak üzere planladığı ve eğittiği operasyon kavramı buydu (şekil 1'de gösterilmiştir). birleşik silah manevrası, düşmanı savaşmaya devam ederse orantısız kayıplar vereceği bir konuma yerleştirerek düşman merkezli veya hareket ve ateşin düşmanın kilit arazileri tutma kabiliyetini zayıflattığı arazi merkezli olabilir (genellikle' mevzi savaşı' olarak çerçevelenir). genellikle yıpratma savaşıyla karşılaştırılır, ancak tüm savaşlar yıpratma savaşı olduğu için bu yararlı değildir. bunun yerine, uygun soru, bir kuvvetin çeşitli araçları bir arada kullanarak düşmanın göreceli kayıplarını nasıl en üst düzeye çıkarabileceğidir.\n\nukrayna'da, birleşik silah manevrasına yönelik yerleşik yaklaşıma yönelik çeşitli zorluklar ortaya çıktı. ilk olarak, yaygın ağlar ve sensörler, sürpriz yapma becerisini zorlaştırdı: \" savaş alanı şeffaflığı \" olarak tanımlanan bir olgu. iha'lar elbette bunun en belirgin örneği. ayrıca, dağınık elektronik, akustik ve diğer sensörlerden gelen geri bildirimleri işleyip analiz etmek için uzay tabanlı iletişim ve dijital araçlara yaygın erişim, düşmanın taktiksel eylemleri görmesini ve tahmin etmesini sağlıyor. düşmanın, bir tehdide karşı koymak için temel araçlardan yoksun olduğu bir konuma bir muharebe grubunu manevra ettirmek zordur, çünkü onlar da tehdide yanıt olarak dinamik bir şekilde yeniden konuşlanabilirler. bunun uygun bir örneği, ukrayna kuvvetlerinin düşman toplanırken öngörülen saldırı eksenlerine rutin olarak mayın yerleştirmesidir. 4\n\nbirinci zorlukla birlikte ortaya çıkan ikinci zorluk, tüm kademelerde hassas atışların yaygın olmasının, yoğunlaştırılmış kuvvetleri hızlı yıpranmaya karşı savunmasız hale getirmesidir. dahası, karmaşık silahlar savaşçıların hareketli hedeflere uzaktan müdahale etmesini sağladığından, birleşik silahlarla başlayan bir kuvvet, düşmanın önemli bir mesafeden tek tek unsurları hedef alabilmesi nedeniyle, kombinasyonun kritik unsurlarını hızla kaybeder. örneğin, ihlal için kritik olan mühendislik ekipmanı, temas hattına yaklaşmadan önce hasar görme veya yok olma riski taşır. 5 ayrıca, görüş hattı dışı silahlar her yerde bulunduğundan, kuvvetleri bir sektörde yoğunlaştırmak, bitişik sektörlerdeki birliklerin ateşlerini birim sınırları ötesine uygulamasını engellemez. bu faktörlerin bir sonucu olarak, yoğunlaştırılmış bir kuvvet izole bir düşmanla çatışmaya girebilir, ancak bunun yerine kuvvet yoğunlaşmasına etki yoğunlaşmasıyla denk bir düşmanla karşılaşır .\n\nüçüncüsü, ilk iki zorluğun birleşimi, bir kuvvetin bir kez göreve başladıktan sonra, harekât derinliği boyunca temas halinde kalacağı anlamına gelir. yakın muharebe, zorunlu olarak daha yüksek bir malzeme tüketimi oranı gerektirir ve ilerlemenin sürdürülmesi ikmale bağlıdır. ancak savunmacı için, ikmal yapan unsurları hedef almak, temas halindeki kuvvetleri hedef almaktan genellikle daha kolaydır ve bu nedenle savunmacılar, temas savaş alanının arkasındaki kara iletişim hatlarını sistematik olarak hedef alırlar. sonuç olarak, manevra kuvvetleri ikmal hızını aşarak ivme kaybederler. bu, bir sömürü aşamasının gelişmesini engeller ve düşmana, bütünlüğü kaybetmek yerine savunmalarını yeniden düzenlemek için zaman tanır ve böylece savunmacının ayrıntılı bir yenilgiye uğramasını önler.\n\nbu dinamiklerin etkisi, ağustos 2025 itibarıyla rusya ve ukrayna'nın cephenin büyük bir bölümündeki operasyonlarını nasıl yürüttüğünde açıkça görülmektedir. her iki taraf da mevcut konseptlerin başarısızlığına yanıt olarak operasyonlarını uyarlamaktadır. rus kuvvetleri, ukrayna'nın elektronik harp (eh) konumlarını, radarını, komuta merkezlerini, iha pilotlarını, topçularını ve güçlendirilmiş muharebe mevzilerini sistematik olarak tespit etmek için iha'larını giderek daha fazla kullanmaktadır. rus kuvvetleri daha sonra bu mevzileri, topçu saldırılarını, çok namlulu roketatar sistemlerini (mlrs), molniya gibi motorlu bombaları, fiber optik güdümlü birinci şahıs görüşlü (fpv) iha'ları ve süzülme bombalarını entegre eden atışlarla kasıtlı olarak hedef almaktadır. rusya'nın ukrayna iha girişimini sistematik olarak hedef alması, ukrayna iha operatörlerini kendi birliklerinin ileri hattından (flot) uzaklaştırmayı ve böylece menzillerini ve ısr yörüngelerinin yoğunluğunu azaltarak başarılı saldırılar için koşullar yaratmayı amaçlamaktadır. bu arada rus eh ve hava savunma birimleri, hem ukrayna'nın ısr kabiliyetlerini yok etmek hem de rus ikmal ve personelinin ilerleyebilmesi için kuvveti saldırılardan korumak için çalışmaktadır. 6\n\nyukarıda anlatılan hazırlık ateşleri sırasında rus birlikleri, ukrayna mevzilerine yakın personele sızmaya çalışır. rus askerleri genellikle iki ila beş kişilik gruplar halinde, termal örtüler veya vücutlarından uzakta tuttukları kulplu çadırlar kullanarak sızarlar. askerler, ayaklarını görebilmek için boyunlarına bir telsiz, bacaklarının arasına da bir el feneri asarlar. komuta merkezi, iha ile hareketlerini takip ederek onları yuvalanmaları beklenen pozisyona yönlendirir. askerler yanlarında birkaç günlük erzak taşır ve koşullara bağlı olarak iha ile ikmal edilebilirler. 7 bu sızma süreci çeşitli işlevlere sahiptir. ilk olarak, ukrayna mevzilerini keşif ve güçlerini test etme aracı olarak işlev görür. ikinci olarak, ukrayna mevzilerinin yakınında, ikmallerini ve karşılıklı destek sağlama kabiliyetlerini aksatabilecek bir kuvvet birliği oluşturur. üçüncü olarak, ukrayna istihbarat servislerinin hat önündeki bölgeyi taramasını sağlayarak ukraynalı pilotların ve ekipmanların yerinin tespit edilip saldırıya uğramasına olanak tanır. koşullar uygun görüldüğünde - ukrayna istihbarat teşkilatı (ısr) zayıfladığında, hatlarına sızıldığında ve kötü hava koşulları daha fazla manevra özgürlüğü sağladığında - rusya, ukrayna birliklerinin hatları boyunca hızla ilerlemeleri için buggy'ler, bisikletler ve bazen de zırhlı araçlarla gruplar gönderir. bu gruplar, koruyucu arazide ilerlemeye çalışır ve ardından karşı saldırıyı önlemek için ateş kullanır. baltalara öncelik verilir ve bu da zamanla rusya'nın ateşlerini ileriye doğru yönlendirmesine olanak tanır, böylece komşu ukrayna birliklerine ikmal yollarını koruyabilir ve ukrayna hattının geri çekilmesini zorlayabilirler. 8\n\nrusların taarruz harekâtına yaklaşımı, ukrayna kuvvetlerine zayiat verdirmede giderek daha etkili hale geliyor, ancak yine de etkisiz kalıyor. rusya'nın piyadeyi destekleyememesi -ve hatta buna ilgi duymaması- yarattığı koşullardan yararlanamamasına ve dolayısıyla herhangi bir eksende uyguladığı yöntemlere kıyasla askeri potansiyelinin sistematik olarak düşük performans göstermesine neden oluyor. ateş ve komuta-kontrol (c2) uygulamalarında önemli gelişmeler kaydedilmesine rağmen, rusya çatışma sırasında uyumsuz davrandı. rusya, ilerleme kaydetmek için piyadeye giderek daha fazla bağımlı hale gelirken, yetersiz eğitim ve personelinin yaşam hakkını hiçe sayarak piyadesini sistematik olarak zayıflatıyor ve birlikler içinde deneyim ve yoldaşlık birikimini kısıtlıyor.\n\nukrayna'nın birleşik kuvvetlerin parçalanmasına verdiği yanıt, zorunluluktan kaynaklanan acımasız bir önceliklendirme olarak nitelendirilebilir. 2023'teki taarruz operasyonlarının başarısızlığının ardından ukrayna, uzun süreli bir savunma pozisyonuna geçti. cephenin uzunluğu göz önüne alındığında, kuvvetleri üzerindeki baskı ve rusya'nın devam eden asker toplama avantajı, birliklerin çoğunun hat üzerinde sabit kalması ve birliklerin rotasyona tabi tutulması, dolayısıyla yedeklerin eğitilmesi veya yeni personelin entegre edilmesi konusunda sınırlı bir kabiliyete sahip olması anlamına geliyordu. dahası, washington'daki siyasi gelişmeler askeri-teknik yardım sağlanmasını aksatarak ukrayna'nın uluslararası ortaklarıyla kuvvetlerinin donatılmasını tutarlı bir şekilde planlama yeteneğini sekteye uğrattı. sonuç olarak ukrayna, sonuç veren ve kontrolü altında olan bir yönteme, yani insansız hava araçlarına daha fazla ağırlık verdi.\n\ntartışmalı bir bölgeyi ele geçirmek için, kuvvetin bölgeyi araştırması, tecrit etmesi, düşmanı zayıflatması, kuvvetlerini sabitlemesi, bastırması, kapatıp yok etmesi ve sonra da bölge üzerindeki kontrolü sağlamlaştırması gerekir.\n\nukrayna'nın iha'lara yaptığı yatırım ve bunların kullanımı 2024 boyunca büyük ölçüde arttı. ukrayna, çeşitli bombardıman iha'larını, fpv iha'larını, havada asılı kalma mühimmatlarını ve daha uzun menzilli uçan bombaları seri üretime geçirdi. ardından, lojistik ve ikmal için giderek daha fazla kullandığı insansız kara sistemlerini tanıttı. iha pilotlarının eğitimini genişletme ve cephede c2'yi korumak için altyapıyı kurma yönündeki yoğun çabaların yanı sıra, ukrayna bir \"iha ordusu\" kurmaktan bir \"iha duvarı\" konuşlandırmaya geçti. cephe hattında, rus kuvvetlerini sistematik olarak hedef alabileceği yaklaşık 30 km'lik bir yıpratma kuşağı oluşturdu.\n\nukrayna'nın iha kullanımı etkili olmuştur. ancak ukrayna kuvvetleri, diğer askeri sistemlerin artan eksikliğini ve en sorunlusu, savunmasını zayıflatan ukraynalı personel alımındaki eksiklikleri telafi etmek için iha operasyonlarındaki avantajlarına yaslanmıştır; bu da rusya'nın sızma taktiklerini mümkün kılmıştır. ukrayna faaliyet gösterdiği araçları daralttıkça, ruslar için operasyonel sorun basitleşmiştir. rusya, ukrayna'nın uyarlamalarına ukrayna iha taktiklerini taklit ederek yanıt vermiş ve böylece ukrayna'nın iha'lardan elde ettiği avantajı azaltmıştır. kıdemli bir ukraynalı iha subayının bir röportajda belirttiği gibi,'onların görevi bizimkinden daha kolay çünkü onlar öldürmek için yola çıkarken biz halkımızı öldürüp kurtarmalıyız'. 9 yine de, saldırıda olan rusya olduğu için, insansız hava araçları duvarını aşma sorumluluğunun rus kuvvetlerine ait olması ukrayna'ya yardımcı olmuştur. neyse ki ukrayna için rusya, gerekli kaynaklara sahip olmasına rağmen kuvvet kalitesindeki düşüşü telafi etmedi ve bu nedenle ukrayna savunmasının giderek kırılganlaşmasından faydalanmadı. bazı ukraynalı komutanlar, daha geniş bir savaş orkestrasının asker alımı, eğitimi ve istihdamında reform yapılması gerektiğini fark ettiler ve şimdi ukrayna'nın daha geniş bir askeri araç yelpazesinde tekrar avantaj sağlayıp sağlayamayacağını görmek için çalışıyorlar.\n\nözetle, rusya, karşı karşıya olduğu taktik sorunların üstesinden gelmek için gerekli kaynaklara sahip olmasına rağmen, birleşik silah manevrası konseptini geliştirmede büyük ölçüde başarısız olmuştur. ukrayna, deneyler için zaman ve alan kazanmak adına gereken kaynakları seferber etmekte zorlanmıştır, ancak bir sonraki bölümde de belirtildiği gibi, afu'nun bazı birimleri umut vadeden yeni harekât konseptleri geliştirmeye başlamıştır.\n\nukrayna'daki birleşik silah manevrasında ortaya çıkan kavramlar\nbu bölüm, bazı ukrayna birliklerinin, taarruz manevrasını uygulanabilir bir eylem biçimi olarak yeniden canlandırmak için nasıl yeni harekât konseptleri geliştirdiğini incelemektedir. ayrıca, bazı ukraynalı komutanların tabur düzeyinde taarruz harekâtını nasıl algıladıklarını açıklamaya odaklanmaktadır.\n\nilk olarak, savaş alanı geometrisi konusunda, ukraynalı subaylar savaş alanı anlayışlarını ayarlamaya başladılar. flot'tan gelen kuvvetlerin derinliğiyle belirlenen yakın, derin ve arka alanlar yerine, ukraynalı planlamacılar artık genellikle birliklerin açıkta kaldığı ve kuvvetlerin temas halinde olduğu açık araziyle sınırlı olan \"çekişmeli bölge\" veya \"gri bölge\"den bahsediyor. birliklerin bu bölgede çekişmeye devam edebilmeleri için ikmal desteği almaları gerekiyor ve bu nedenle ikmal desteğinin zor olduğu nehirler veya açık yollar gibi açık alanlar genellikle derinlik göstergeleri haline geliyor. çekişmeli bölgenin ötesinde, ukraynalı komutanlar \"orta savaş alanı\"ndan bahsediyor ve bunu düşman sistemlerinin çekişmeli bölgeyi etkileyebileceği alan olarak tanımlıyorlar. çekişmeli bölge genellikle 15 km genişliğindeyse, orta savaş alanı çekişmeli bölgenin sınırının yaklaşık 30 km ötesine kadar uzanır ve düşman iha yörüngelerinin ve topçu sistemlerinin vurduğu yerdir. sonra, ukraynalı komutanların, düşman rezervlerinin, lojistik merkezlerinin, endüstriyel hedeflerin veya tartışmalı bölgeyi etkileyemeyecek ancak gelecekte etkileyebilecek sistemlerin bulunduğu alan olarak çerçevelendirdiği'derinlik' var. 10 savaş alanı geometrisine yönelik bu yeni yaklaşım şekil 2'de gösterilmektedir.\n\nukraynalı komutanlar, tartışmalı bir bölgeyi ele geçirme operasyonlarını genellikle beş ila 10 günlük operasyonlar halinde yaklaşık yedi aşamaya böldüler. bu uygulama bir doktrin oluşturmaz, daha ziyade birden fazla subayın yazara yaklaşımlarını nasıl tanımladıklarının bir sentezidir; ancak kullandıkları dil farklılık gösterir. tartışmalı bir bölgeyi ele geçirmek için kuvvet bölgeyi incelemeli, izole etmeli, düşmanı etkisiz hale getirmeli, kuvvetlerini sabitlemeli, bastırmalı, kuşatmalı ve yok etmeli ve ardından bölgenin kontrolünü sağlamlaştırmalıdır. bu aşamalar aşağıda açıklanmaktadır.\n\naşama 1: anket\nçatışmalı bir bölgeye başarılı bir şekilde saldırmak için, orta muharebe alanında onu koruyan düşman sistemlerinin detaylı bir keşfinin yapılması gerekir. belirlenmesi gereken kritik hedefler arasında, düşmanın ikmal ve rotasyon rotaları, silah mevzileri, hava savunma mevzileri, iha fırlatma noktaları ve pilotları ile elektronik harp ekipmanları yer alır. bu bilgilerin çoğu, elektronik istihbarat kullanılarak ve bölgeye ait geçmiş karşı batarya verilerinin incelenmesiyle toplanabilir. geriye kalan sorular, bilinçli keşiflerle cevaplanmalı ve düşman faaliyetlerinin genel tespitleri belirli noktalara odaklanmalıdır. ukrayna'da bu detaylı keşif çalışmaları genellikle iha'lar kullanılarak yürütülür, ancak etkili olması için, düşmanın keşif yapan iha'ları düşürüp operatörlerini öldürmesi ihtimaline karşı, öncelikle düşman keşiflerine karşı bir muharebe yürütülmesi gerekir. dolayısıyla keşif aşaması, çatışmalı bölge üzerindeki düşman keşiflerinin sistematik olarak azaltılmasını, düşman hava savunma sistemlerini bastırmak için yoğun saldırılar yapılmasını ve ardından orta muharebe alanında kapsamlı keşif yörüngelerinin oluşturulmasını içerir. 11\n\naşama 2: izole etme\nhedef sektörün izolasyonu iki unsuru içerir. birincisi, kilit destek sistemlerini etkisiz hale getirmek için \"orta vuruş\" operasyonlarının yürütülmesidir. keşif aşamasıyla ilişkili karşı keşif faaliyeti, topçuların atış pozisyonlarına alınması için koşullar yaratmış olmalıdır. orta vuruş, yumuşak ve sert olmak üzere iki tür hedefe yönelik eylemlere ayrılabilir. yumuşak hedefler genellikle iha'lar tarafından en verimli şekilde imha edilir, çünkü nesne parçalanmaya karşı hassastır. alternatif olarak, topçu atışından gelen 8-10 mermi genellikle bu tür hedeflerin imhasını garantilemek için yeterli kabul edilir. ancak iha'lar genellikle, yoğun şekilde korunan alanlar (elektronik harp mevzileri gibi) veya siperlere gömülmüş iha pilotları gibi güçlendirilmiş alanlar gibi sert hedefleri güvenilir bir şekilde imha etmek için yeterli kinetik enerjiye veya patlayıcıya sahip mühimmattan yoksundur. mesele, bir iha'nın böyle bir yük taşıyamayacak olması değil, artan maliyeti ve boyutunun müdahale olasılığını yükseltmesidir. buna karşılık, lazerle işaretlenmiş top mermileri gerekli yük, enerji ve gecikmeye sahip olup, sıkışmaya karşı dayanıklıdır ve bu da onları bu rol için paha biçilmez kılar .\n\nizolasyon aşamasının ikinci unsuru, hedeflenen bölgeyi ikmal ve rotasyondan ayırmaktır. ukrayna kuvvetleri bunu, bölgeye giden ve bölgeden gelen yollara anti-personel ve anti-araç mayınları ve dikenli teller yerleştirmek için iha'lar kullanarak gerçekleştirir. yollar, zaman gecikmeli fünye mühimmatlarıyla çukurlaştırılır. bu, büyük ölçüde bombardıman iha'ları kullanılarak yapılır. ardından, ekipmanı yaya veya hafif araçlarla taşıma girişimlerini önlemek için fpv'ler tarafından sürekli müdahale görevleri gerçekleştirilir. bölgenin hem orta muharebe alanındaki ateş desteğinden hem de ikmal/rotasyondan izole edilmesi, savunmacılar arasındaki düşman kuvvetlerinin mutlak olarak azaltılması için gerekli koşulları oluşturur, çünkü kayıplar artık telafi edilemez. bu koşulları sağlamak için, bölgeye tüm hareketleri engellemek gerekli değildir; sadece düşmanı, başarılı bir rotasyonun yenilediği kadar veya daha fazla kaynak tükettiği bir konuma yerleştirmek yeterlidir. 13\n\naşama 3: bozunma\ntecrit, savunma mevzilerinin yıpranması için gerekli koşulları yarattıktan sonra, çatışmalı bölgedeki düşman muharebe mevzilerine odaklanmak mümkün hale gelir. önceki aşamalarda, ısr'nin çatışmalı bölgeye daha fazla dikkat etmesi, düşman personelinin hareketlerinin haritalanmasına ve böylece tespitlerin bir ısı haritasının oluşturulmasına olanak sağlamalıydı. bu, komuta merkezlerini, yerleştirilmiş silah sistemlerini, mühimmat depolama noktalarını ve muharebe mevzilerini bulmak için daha detaylı keşiflerin temelini oluşturur. bu hedefler daha sonra saldırı için işaretlenebilir. ukrayna kuvvetleri bu saldırıları genellikle fpv'ler ve bombardıman uçaklarıyla gerçekleştirir. düşmanın tepeden korumayla kazılmış mevzileri olduğu yerlerde, ukrayna kuvvetleri patlayıcıyla oluşturulmuş mermiler, gecikmeli darbeli fünyeli delici silahlar ve yangın çıkarıcılar kullanır.\n\naşama 4: düzeltme\nilk üç aşamanın her biri 24-48 saat sürecektir. sonraki üç aşama, koşullar uygun olduğunda başlatılır ve hızlı bir şekilde birbirini takip eder. düşmanı \"tespit etme\" işlemi genellikle ukrayna kuvvetleri tarafından fpv iha'lar kullanılarak gerçekleştirilir. bu fpv'lerin çoğunun hedefi olmayacaktır, ancak sürekli varlıkları, düşmanın yeniden konuşlanmasını ve dolayısıyla bozulma aşamasında kayıplarını yönetmesini engellemelidir. esasen, tespit aşaması savunmayı dondurur, böylece operasyon sırasında daha önce düşman hakkında toplanan bilgiler saldırı sırasında da mevcut kalır.\n\naşama 5: bastır\ndüşman mevzilerini sabitledikten sonra, saldıran kuvvetler düşman mevzilerine görüş alanı sağlamak için destek silahlarına sızmalıdır. ukrayna kuvvetleri, bunun ideal olarak insansız kara araçlarına (ugv) monte edilmiş silahlarla yapılması gerektiği sonucuna varmıştır; çünkü bu araçların dışarıdan hazırlanmış muharebe mevzilerinden sürekli ateş açmaları, onları saldırıya açık hale getirir. bu sistemler, dost kuvvetler düşmana yaklaşırken ateş etmeye devam edebilmeleri için, hedeflenen saldırı ekseninden uzakta kurulmalıdır. saldırı gücü saldırıya hazır olana kadar ateş etmemelidirler.\n\nbastırma aşaması, özellikle roket topçuları olmak üzere, elektronik harp ve konvansiyonel topçulardan da yararlanmalıdır. süpersonik roketler, düşmanın geldiğini duymaması ve düşmanın varlığını anladığında uzun süreli psikolojik etki yaratması nedeniyle avantajlıdır. saldırı güçlerinin devreye girmesinden önce ve sırasında agresif elektronik harp kullanımı, iha'lardan kaynaklanan tehdidi en aza indirmek ve düşman hedeflemesinde gecikme sağlamak için de kritik öneme sahiptir. ancak elektronik harbin bu kullanımı, fpv'lerin ve diğer iha'ların verimli kullanımını zorlaştırır çünkü c2 frekanslarını etkiler. bu nedenle güdümsüz topçular bu aşamada orantısız bir şekilde faydalı hale gelir. iha'lar, orta muharebe sahasında düşman ateşini bastırmak için kullanılmalıdır. konvansiyonel topçular da etkilidir, çünkü teslim edilen daha büyük yükler muharebe mevzilerini çökertebilir. saldırı eylemi genellikle termal geçiş döneminde (bu durum termal görüntülemedeki kontrastı azaltır ve dolayısıyla iha performansını düşürür) ve mümkünse kötü hava koşullarında, hem ısr hem de saldırı iha'larının performansının azaldığı, ancak konvansiyonel topçuların önceden kayıtlı muharebe mevzilerine karşı etkinliğinin düşmediği zamanlarda başlatılır.\n\naşama 6: kapat ve yok et\ndüşman bastırılırken, saldırı kuvvetlerinin düşman mevzilerini bilinçli olarak temizlemesi mümkün hale gelir. bu, tanklar ve zırhlı personel taşıyıcıları (zpt'ler) desteğiyle en iyi şekilde yapılır. zırhlı araçların bu bağlamdaki değeri, kısmen sundukları ateş gücüdür; bu güç, düşman kendilerini açığa çıkardığında onları savaş mevzilerinde öldürmelerini sağlar. zırh genellikle ateşi de üzerine çeker ve böylece tehditleri piyadeden uzaklaştırır. uygun modifikasyonlarla zırh, onarılabilir hasar alırken 10-15 fpv isabetine dayanabilir. bu arada, zpt'ler piyadeyi düşmanın dolaylı ateşinden korur. ukrayna birlikleri genellikle tekerlekli ve paletli zpt'lerden oluşan bir karışım kullanır. tekerlekli araçlar tercih edilir çünkü hedeften belirli bir mesafede toplanmaları gerekir ve daha yüksek hızları, görünürlüklerini azaltır. ancak arazi koşulları genellikle tekerlekli araçların hareketini pratik olmaktan çıkarır ve bu nedenle paletli araçlar birlik içinde bulundurulur. 14\n\nsaldırı birlikleri indikten sonra, hedef mevzilerini el bombalarıyla bilinçli bir şekilde temizlemelidir. ideal senaryoda, bu, araçların yakın destekte olmasıyla gerçekleştirilir; böylece yoğun bir direnişle karşılaşıldığında, araçlar düşmanı 30 mm'lik toplarla bastırıp yerinde imha edebilir.\n\naşama 7: birleştirme\nsaldıran güçler mevziyi ele geçirdikten sonra operasyon bitmez; saldıran güçler güçlerini birleştirmelidir. ilk olarak, saldırı birliklerini toparlayıp yerlerine yeni piyade birlikleri yerleştirmelidirler. bu birlikler mevcut mevzileri işgal etmekten kaçınmalı ve bunun yerine yeni mevziler kazmalıdır. üstten siperli mevziler kurmak için gerekli ekipman ve malzemeler, iha'lar ve insansız hava araçları (iha) tarafından birliklere ulaştırılabilir. iha'lar ukrayna'da ikmal için orantısız bir şekilde kullanılmaktadır. saldıran güç daha sonra, doğrudan ateşle, savunma altyapısını ve iha'ları kullanarak, çatışma bölgesine yaklaşımları korumaya geçebilir. başlangıçta, izolasyon aşamasında döşenen mayınlar, karşı saldırıya karşı savunma bariyeri görevi görebilir. güç daha sonra bir sonraki bölgeyi ele geçirmeyi planlayabilir.\n\ntüm ukrayna birlikleri yukarıda açıklanan şekilde operasyonlar yürütmek için gerekli eğitime veya kaynaklara sahip değildir. ancak, bu metodolojiyi uygulayabilen birliklerin sonuçları her şeyi ortaya koymaktadır. ukraynalı subaylar, bu yöntemleri kullanarak yapılan başarılı saldırıların elverişli arazide yaklaşık %5, elverişsiz arazide ise %10 kayıp oranına yol açtığını değerlendirmektedir. bu yöntemler uygulanmadığında başarısız saldırılarda ise bu oran %50'ye kadar çıkmaktadır. bu operasyonlar, koşullar elverişsiz olduğunda herhangi bir aşamada durdurulabildiğinden, nadiren yüksek bir zayiat oranına maruz kalmaktadırlar. 15\n\nukrayna silahlarının göreceli değerleri\nukrayna'da ortaya çıkan birleşik silah manevrası operasyon konseptini ele aldıktan sonra, bu bölüm ukrayna cephaneliğindeki çeşitli silah sistemlerinin avantajlarını, katkılarını ve sınırlamalarını ele almaktadır. bu sistemlerin bazıları tugay kademesinde bulunsa da, genellikle hepsi tabur ve hatta bölük operasyonları için kullanıma sunulmakta ve birlikte kullanılmaktadır.\n\nısr ve etkinleştirme iha'ları\nukrayna'daki savaşın en dönüştürücü unsuru, tüm kademelerde muharebe alanının gözetlenmesini sağlama ve güçler genelindeki beslemelerin birleştirilip analiz edilmesi becerisidir. ısr iha'ları biçim, menzil ve dayanıklılık açısından önemli ölçüde farklılık gösterir. düşman mevzileri ve hareketleri hakkında gerçek zamanlı bilgilere erişim, yalnızca ateşlerin kilit bir unsuru olmakla kalmaz, aynı zamanda manevra planlaması için de kritik öneme sahiptir. kuvvetler, müdahale nedeniyle orta sayıda ısr iha'sını sürekli olarak kaybedeceklerini ve daha pahalı platformlar olumsuz hava koşullarında uçmaya devam edebilirken, kuvvetli rüzgarda dayanıklılığın önemli ölçüde azalacağını varsaymalıdır. hava koşulları ve kasıtlı müdahale arasında, düşman ısr kapsama alanında yerel boşluklar oluşturmak mümkündür. ısr iha'ları ayrıca hassas mühimmatlar için iletişim röleleri ve lazer işaretleyicileri olarak da işlev görebilir.\n\nancak ısr iha ekipleri, kendilerini ve ekipmanlarını elektromanyetik spektrumda açığa çıkarır ve hedef haline gelirler. ekipmanlarının ağırlığı 1,5 tona kadar çıkabilir, bu da hızlı bir şekilde yeniden konuşlandırılamayacakları anlamına gelir. bu nedenle, ısr varlıklarının hava savunma ve koruma sistemlerine göre konumlandırılması önemli bir planlama hususudur.\n\nobüsler ve havanlar\ntopçu birlikleri, ukrayna operasyonları için temel öneme sahip olmaya devam ediyor. obüsler ve havan topları, saldırı düzenlemede iha'lara kıyasla birçok avantaja sahip:\nnişanlanmaları, ateş ile etki arasındaki gecikme süresi düşüktür.\ntaşıdıkları kinetik enerji ve patlayıcı yük, verdikleri hasarı artırıyor.\ntek bir sistem, farklı etkiler yaratmak için birden fazla mühimmat türü ateşleyebilir. obüsler, düşman piyadesini küme mühimmatlarıyla bastırabilir, yüksek patlayıcılarla düşman mevzilerini yok edebilir, hareket halindeki araçları etkisiz hale getirmek için sensörlü füzeli mühimmat ateşleyebilir veya nokta hedefleri ortadan kaldırmak için lazer güdümlü mühimmat kullanabilir.\nobüs ve havan topları kötü hava koşullarında etkinliğini kaybetmez ve ağır ew'nin iha'ların etkinliğini azalttığı durumlarda devreye girebilir.\nancak, obüs ve havanların kullanımı iha'lardan gelen tehdit nedeniyle önemli ölçüde değişti. bunlar artık neredeyse her zaman kapalı pozisyonlardan -ağaç sıraları arasında toprağa kazılmış- parçaları çevreleyen ağ örgüleriyle çalıştırılıyor ve sistem ateş etmek için ileri hareket ettiğinde bu ağ örgüleri açılıyor. topçu parçaları bataryalar halinde değil, bağımsız olarak hareket ediyor. ayrıca, atış görevlerinin, parça gözlem altına alınmadan önce atış görevini tamamlamak için çok nadiren 10 atıştan fazla sürmesi gerekiyor. topçu mürettebatı, çatışmaya girmeden önce iha'lar tarafından gözlem altında olup olmadıklarını kontrol ediyor ve yalnızca gözlem altında değillerse -emredilmedikçe- ateş ediyor. mühimmat silahtan uzakta depolanıyor ve ikmal genellikle iha tarafından yapılıyor. silahların yeniden konumlandırılması periyodik olarak veya atış pozisyonunun düşman tarafından tespit edildiğine ve diğer operasyonlarla kapatılması gerektiğine dair bir gösterge olduğunda gerçekleştirilir.\n\nbu önlemlerle topçu ve havan toplarının büyük ölçüde hasarsız kalabileceği unutulmamalıdır. ukraynalı analistler, ukrayna iha saldırılarında imha edilen rus topçu parçalarının sayısının kamuoyunda iddia edilenin yaklaşık %50'si olduğunu, çünkü topçu parçalarına isabet eden birçok isabetin hedefleri yok etmek yerine hasara yol açtığını ve topların daha sonra kurtarılıp onarıldığını değerlendirmektedir .\n\new\neh, ukrayna'daki tüm operasyonların ayrılmaz bir parçasıdır. elektronik istihbarat (elınt), düşman konumlarını, faaliyetlerini ve iha'ların varlığını takip etmenin en güvenilir pasif yoludur. dağıtılmış akustik sensörlerle desteklendiğinde, birimler iha'ların varlığı konusunda güvenilir erken uyarı sağlayabilir. düşman iha'larından gelen video görüntülerinin dinlenmesi, düşmanın neyi hedef aldığını ortaya çıkardığı için karşı tedbirlerin koordinasyonuna da olanak tanır. elınt ayrıca, yedek ısr tarafından neyin araştırılacağının önceliklendirilmesini de sağlar. 19\n\neh, manevra sırasında platformların ve kuvvetlerin korunması için de aynı derecede kritiktir. seyir karıştırma, düşman hassas vuruşlarını azaltmanın önemli bir yoludur. manevra sırasında kontrol frekanslarını ve iletişim kanallarını karıştırmak da kuvvetlerin hayatta kalması için hayati önem taşır. ancak, karıştırma aynı anda dost sistemlerin verimliliğini azaltır ve diğer kollarla senkronize edilmelidir. kuvvetler senkronize olmadığında, kardeş katliamı kaçınılmazdır ve operasyonların başarısız olmasına neden olabilir. çatışma giderme, genellikle müfreze seviyesinde bile gereklidir. örneğin, bir araç müfrezesi, kendi iletişimlerinden ve destekledikleri birliklerin iletişimlerinden ayrıştırılması gereken elektronik karşı önlemlerle donatılmış olabilir .\n\new, büyük ve özel platformlar kullanmaktan büyük ölçüde uzaklaşarak dağıtılmış antenler ve güç üniteleri kullanmaya başladı. sistemler artık modüler, bileşenleri hızla değiştirilebiliyor ve jeneratörlerden, araçlardan veya şebekeden güç çekecek şekilde ayarlanabiliyor.\n\nbombardıman uçağı iha'ları\nbombardıman iha'ları, ukrayna'nın cephaneliğindeki en ölümcül araçlardan biri olmakla birlikte, lojistik ve mühendislik varlıkları olarak daha geniş bir kullanım alanına sahiptir. genellikle geceleri faaliyet gösteren ve doğrudan ateşe karşı savunmasız olmaları nedeniyle bu platformlar, fpv'lerin taşıyabileceğinden daha ağır mühimmat atmak için kullanılır. bombardıman iha'ları (yazarın üst kısmındaki şekil 4'te gösterilmiştir), nokta hedefleri vurmada oldukça hassastır. ayrıca mayın döşemek, iletişim röleleri konuşlandırmak ve saldırı birliklerine mühimmat, çatışma mevzilerine yiyecek, su ve yakıt ve batarya gibi diğer sarf malzemeleri ve yaralılara tıbbi malzeme ulaştırmak için de kullanılırlar.\n\nmotorlu bombalar (tek yönlü etkileyiciler)\nnokta saldırıları gerçekleştirmek üzere güçlendirilmiş bombalara uyarlanmış iha'lar, hem ukrayna hem de rus kuvvetlerinin \"orta vuruş\" araç setinin önemli bir parçası haline geldi. bu araçlar, aktif olarak pilotluk edilmemeleri bakımından fpv iha'larından farklı kabul edilebilir: arazi yükseklik takibi, görsel odometri, ataletsel navigasyon ve gnss kombinasyonları arasında veya hedeflenen kurbanlarının emisyonlarını tespit ederek hareket ederler. ukrayna birlikleri arasında bu sistemlere dair genel görüş, düşük başarı oranlarına sahip oldukları, kolayca tespit edildikleri ve birçok hedef sınıfını kesin olarak yok etmek için gereken kinetik enerjiye veya yüke nadiren sahip oldukları yönündedir.\n\nbununla birlikte, platform navigasyonda yeterince güvenilirse, motorlu bombalar düşman için hâlâ yaygın bir risk oluşturdukları için faydalıdır. bir kuvvet, geleneksel uzun menzilli bir saldırıyı haklı çıkarmayacak hedeflere derinlemesine ateş edebilir ve bu nedenle, kalıcı bir şekillendirici etkiye sahip oldukları birden fazla hedef sınıfı vardır. örneğin, yüksek değerli hedeflere çok sayıda motorlu bomba atmak, onları yok etmenin güvenilir bir yolu olmasa da, ilgili hava savunmalarını tespit etmenin ve önleyicilerini azaltmanın oldukça etkili bir yoludur. bu nedenle, motorlu bombalar geleneksel orta vuruş sistemleri için faydalı bir kolaylaştırıcı olabilir. önemli nokta, bu sistemlerin faydalı olduğu bir maliyet eşiğinin ve bu eşiğin üzerinde bir şarjör derinliğinin olmasıdır. bu sınırların dışında, kullanışlı değillerdir .\n\nfpv iha'lar\nfpv'lerin kitlesel kullanımı, savaş alanında önemli ve görsel olarak etkileyici bir etki yarattı. faydaları açıktır. toplu olarak kullanılabilecek kadar ucuzdurlar ve daha önce kişinin kendi konumunu açığa çıkarmayı haklı çıkaracak eşiğin altında kalan önemli mesafelerden bireyleri ve sistemleri hedef almak için kullanılabilirler. fpv'ler ayrıca hareketli hedefleri vurabilir ve birçok askeri teçhizat sınıfını etkisiz hale getirecek kadar isabetlidir .\n\nbununla birlikte, fpv'lerin taktiksel açıdan önemli sınırlamaları vardır:\n\nkuvvetler fpv'lerden kolaylıkla mevzilerini koruyabilirler.\neh, radyo frekans kontrolü kullanan fpv'lerin savaş alanının bir kısmını etkili bir şekilde engellemesini sağlayabilir.\nfpv'ler kötü hava koşullarında görev yapamazlar, çok sayıda hedefi vuramayacak kadar küçük bir yük kapasitesine sahiptirler ve vurulmaları da nispeten kolaydır.\nfpv pilotlarının fpv uçurabilmeleri için son derece düşük gecikmeli bağlantılara sahip olmaları ve uçarken sabit kalmaları gerekir. fiberoptik kablo kullanan pilotlar da dahil olmak üzere, pilotlar tespit edilebilir ve vurulabilirler. saldırı amaçlı iha karşıtı yöntemler yaygınlaştıkça, pilotlar cepheden daha da uzaklaşmak zorunda kalmış ve bu da etkili uçuş menzillerini azaltmıştır. sonuç olarak, fpv ile gerçekleşen ölümlerin çoğu, ukrayna muharebe mevzilerinin ileri hattından -3 km ile 3 km arasında gerçekleşmektedir. 22\nbu sınırlamalar, bu sistemlerin diğer atış türleriyle birleştirildiğinde en etkili olmasının ve düşman için rekabet eden ikilemler yaratmasının nedenidir. ukrayna iha alaylarındaki kıdemli subaylar, röportajlarda ukrayna'nın fpv'leri alternatif araçlardan yoksun oldukları için son derece verimsiz şekillerde kullandığını ve ellerinde daha çeşitli bir araç takımı olsaydı çok daha etkili yaklaşımların mümkün olabileceğini vurguladılar. gerçekten de, ukraynalı iha operatörlerini gözlemlemek, vurabileceklerinden çok daha fazla hedefi görebildiklerini hemen ortaya koyuyor. çok sayıda gözlemci, özellikle terminal güdümünde' piksel kilidi' kullanımı gibi bazı sınırlamaların üstesinden gelmek için otomasyonu önerdi. ancak ukraynalı operatörlerden gelen geri bildirimler cesaret verici olmadı. deneyimli bir iha komutanının dediği gibi,'pilotlarım video akışını koruyabiliyorlarsa asla piksel kilidi kullanmazlar, çünkü belirli hedef sınıfları dışında, etkinlikte büyük bir azalmaya yol açar'. 23 yaygın görüş, piksel kilidinin nispeten düzenli bir ana hatlara sahip hava savunma sistemlerine, düşman iha'larına ve eh antenlerine karşı kullanıldığında ek bir değere sahip olduğudur. aksi takdirde fpv'lerin analog video akışına güvenmesi çok daha iyidir.\n\nzırh ve korunan hareketlilik\nsavaş alanında zırhlı araçların kullanımı çatışma boyunca azaldı. 1-24 ağustos 2025 tarihleri??arasında ukrayna ısr, cephe hattının 70 km yakınında faaliyet gösteren toplam sadece 23 rus tankı tespit etti; örneğin, mayıs 2023'te yalnızca güney ekseninde 470 tank tespit edilmişti. 24 rusya o zamandan beri ukrayna'da zırhlı araçların kullanımını artırdı ve bunları rutin olarak değil, kasıtlı saldırılarda kullandı. ukrayna kuvvetleri zırhlı araçları kullanmaya devam ediyor ve tugay komutanları da bunun faydasını vurgulamaya devam ediyor. şu anda ukrayna kuvvetleri tugay başına bir zırhlı birliğe sahip. zırhlı araçların büyük ölçekte kullanımı, bu oluşumların karmaşık lojistiği nedeniyle son derece zordur. ancak müfreze boyutunda zırh, düşman mevzilerini temizleme ve piyadeden ateşi uzaklaştırmada sağladığı ateş gücüyle vazgeçilmez olduğunu kanıtlamıştır. yazarın gözlemlediği bir ukraynalı tank bölüğü, bir yıldan uzun süredir ele geçirilen dört rus tankını kullanıyordu ve operasyon başına iki ila 12 kez vurulduklarını kabul etseler de, zırhlarının düzenli olarak değiştirilmesi gerekse bile araçlar hâlâ iyi durumdaydı.\n\nukraynalılar, zırhlar için kritik özellikler olarak hareket kabiliyeti, dayanıklılık ve tamir edilebilirliği vurgularlar. buna karşılık, batı tanklarını genellikle aşırı ağır ve tamiri zor olarak algılarlar. mürettebat, hayatta kalma oranlarını takdir edebilir, ancak komutanlar zırhların kullanılabilirliğinin hızla azaldığını fark eder. zırhlarda meydana gelen muharebe hasarı, zırh kullanımının kaçınılmaz bir sonucu olarak kabul edilir. sonuç olarak, zırhın ne kadar hızlı onarılıp onarılabileceği, operasyonların temposunu korumak için kritik öneme sahiptir. tamirin yavaş ve zor olma ihtimalinin yüksek olduğu durumlarda, komutanlar zırhlarını açığa çıkarmayı haklı çıkaracak kullanım alanları bulmakta zorlanırlar. 25\n\nek zırh paketleri aracın hareket kabiliyetini kısıtlamamalıdır. örneğin, ukrayna kuvvetleri, rus kaplumbağa tanklarının, taretlerinin hareket kabiliyetini kısıtlayarak onları fiilen kundağı motorlu toplara dönüştürdüğü için son derece verimsiz olduğunu düşünmektedir. bunun yerine, ukrayna kuvvetleri taret üzerine koruma asmayı tercih ederek, taretin dönmesini ve alttaki gövdenin serbestçe hareket etmesini sağlar.\n\nkorunaklı hareket kabiliyeti, ukrayna kuvvetleri için zırhlı araçlardan bile daha kritik öneme sahiptir. birliklerin parçalanma ve yukarıdan gelen saldırılardan korunması paha biçilemezdir. bu araçlar lojistik ve tahliyeler için de kritik öneme sahiptir; taarruzlar sırasında zırh, özellikle kentsel arazide ateş gücü sağlar. ancak ukraynalı yetkililer, bu araçların sürekli hasar gördüğünü vurgulamaktadır. sonuç olarak, ukrayna kuvvetleri, daha kolay tamir ve bakım yapılabildiği için modüler zırhlı, yerel olarak üretilen zırhlı araçları tercih etmeye başlamıştır.\n\npiyade\nnihayetinde piyade, mevziyi elinde tutar ve ukrayna'nın etkili muharebe kuvvetlerinin çekirdeği olmaya devam edecektir. birçok ukrayna birliğindeki düşük eğitim seviyesi ve afu'nun bazı bölgelerinde piyade işinin vasıfsız emeğe benzediği ve dolayısıyla diğer birliklere kıyasla önemsiz olduğu yönündeki sovyet mirası zihniyeti, savaşın büyük bir bölümünde ukrayna'ya özgü bir muharebe tatbikatı setinin eksikliğine yol açmaktadır. bununla birlikte, daha yetenekli birlikler, şekil 6'da gösterilen piyadeler gibi, giderek daha fazla yeni piyade taktikleri geliştirmektedir.\n\npiyade muharebesi şu anda bölük/takım etrafında dönmektedir. çok sayıda piyadenin belirli bir coğrafyada temas halinde bulunması son derece nadirdir. bunun nedeni, ikmal ve gizlenme zorluklarından kaynaklanan kuvvetlerin dağılmasıdır. optimize edilmiş ukrayna bölüğü, bölük komutanına ek olarak üçer kişilik iki ateş ekibine bölünmüş yedi askerden oluşur. bir mevzi tutarken, bir bölük genellikle düşman kuvvetlerini korumak için bir ateş ekibini, bölük komutanının desteğiyle, havayı korumak için diğer ateş ekibini konuşlandırır. hareket halindeyken, bölük bölünür ve her ateş ekibinden iki asker düşmanı korumak için hareket eder ve ateş ederken, üçüncüsü havayı korur. bölük komutanı iki ateş ekibinin sınırlarını koordine eder. düşman mevzilerini ele geçirirken, ilk ateş ekibi mevzi içinde hareket eder: ilk adam siperi korur, ikincisi el bombası atar ve üçüncüsü havayı korur. ikinci ateş ekibi mevzi dışında kalır ve siperdeki grubu korur. ukraynalı bir saldırganın standart yükü 12-15 şarjör ve 4-6 el bombasıdır; ikmal iha ile yapılır .\n\npiyade hareketleri elektronik harp, hava savunması ve ateşle koordine edilmelidir ve bu nedenle bölük komuta merkezinden bir iha'nın birliklerin hareketini gözlemlemesi ve faaliyetleri koordine etmesi normaldir. bir düşman mevzisine vardıklarında, birlikler iki ila üç kişilik muharebe mevzilerinde ağaçlıkların arasına siper kazarak gizlenecek ve böylece havadan koruma sağlayacaktır.\n\ntıbbi destek ve ikmal\ntıbbi destek artık ukrayna kuvvetlerinin ileri mevzilerinden genellikle 7 km'den daha uzak mesafelere ulaştırılıyor. yaralı personel ilk olarak mevzide stabilize ediliyor ve koşullar uygun olduğunda gece tahliye ediliyor. çoğu birlik bu tahliyeyi insansız hava araçlarıyla (iha) yapmayı tercih ediyor. iha'lar ileri mevzilerden 2-5 km uzakta konuşlandırılacak ve çeşitli muharebe mevzilerini kapsayacak şekilde dağıtılacak. bakımları, mevzileri ileriye doğru kazan bir ekip tarafından gerçekleştiriliyor, ancak araçlar tugayın arkasından uzaktan bağlantıyla sürülüyor. iha'ları geri takiple uçururken ortaya çıkan gecikme sorunları, kara araçları için o kadar önemli değil, çünkü 12-15 km/s hızla yerde hareket eden bir iha, sürücünün videosunda iki saniyelik bir gecikme yaşaması durumunda aşırı bir sorun yaşamayacakken, bir fpv pilotu muhtemelen bu gecikme seviyesinde düşecektir. 27 bombardıman iha'ları su ve yiyecek ikmali yapabilir, ancak daha ağır malzemelerin iha'lar gibi kara araçları tarafından taşınması gerekir. ikmal operasyonları, daha geniş bir kuvvetin ısr'sinden yararlanılarak gündüz planlanır ve gece gerçekleştirilir. planlamacılar, insansız hava aracı (ugv) takip edilirse piyade mevzilerinin açığa çıkmasını önlemek için, alıcı birlik için mevzilerinden uzakta bir iniş noktası belirleyecektir. bir ugv, gözlem altına alındığında hareketsiz kalabilmesi veya siper alabilmesi için hava gözetimi ile korunacaktır. ugv'nin randevu noktasına vardığı andan itibaren yaralıların sağlık merkezine ulaştırılması genellikle iki ila üç saat sürer.\n\nhava savunma ve insansız hava araçlarına karşı savunma sistemleri\nelınt, akustik ve pasif ve aktif radar tespit sistemlerinin bir araya getirilmesi, kuvvetlerin tugay operasyon alanı genelindeki hava tehditlerini takip etmesini sağlar. etkili hava savunması, her hedefe uygun sistemin atandığı bir yetenek dağılımı gerektirir. yavaş ve bulut tabanının altında uçan düşman keşif iha'ları için ukrayna kuvvetleri, fpv'lerin en etkili imha aracı olduğunu tespit etmiştir. daha yüksekten uçan güçlü bombalar için, radar güdümlü özel önleme iha'ları etkilidir. fpv'ler için elektronik harp ve nokta savunma kuleleri kullanılır. helikopterler ve seyir füzeleri için taşınabilir hava savunma sistemleri tercih edilir. hızlı hava savunmaları için özel hava savunma sistemleri yedekte tutulur. bu tehdit bugün ukrayna'da nadirdir, ancak orantısız bir etkiye sahip olabilir, bu nedenle hava savunmaları düşük seviyeli tehditlere karşı hazır tutulmalı ancak taahhüt edilmemelidir. 28\n\nhava savunma biriminin tugay harekât alanına yayılımı ve kendine özgü c2 gereksinimleri, manevra kuvvetinin ihtiyaçlarından dikkatlice ayrıştırılmalıdır. hava savunma mevzilerinin, önleyicilerin kontrolü için radar veya anten aydınlatması gereksinimi, bunların düzenli olarak yer değiştirmesini ve yeniden konumlandırılmasını da gerektirir. bu durum, diğer birlikler arasında iyi mevziler için rekabete yol açabilir, çünkü aydınlatma yapan hava savunma birimleri, yer değiştirdikten sonra bile düşman ısr'sinin ve bölgeye ateş açılmasının ilgisini çeker ve bu da diğerlerinin bundan mahrum kalmasına neden olur. 29\n\nsinyal ve mühendisler\nsinyaller ve mühendislik, tüm muharebe fonksiyonlarının her yerde bulunan destekleyicileridir ve birliklerin faaliyet gösterdiği küçük kuvvet paketleri nedeniyle, genellikle diğer rollerle birlikte yürütülmek zorundadırlar. iha ekipleri mühimmatlarını hazırlamalı ve kontrol sistemlerindeki sorunları gidermelidir. ayrıca mayın döşemelidirler. topçu mevzileri kazmalı ve siperlerini oluşturmalıdır. iha ve hava savunma birlikleri, operasyonlarını sürdürebilecekleri sağlamlaştırılmış mevziler inşa etmek için genellikle yardıma ihtiyaç duyarlar. zırhlılar, ilerleme rotasındaki mayınları temizleyebilmelidir. lojistikçiler, malzemelerin hızlı hareketini sağlamak için önemli ikmal rotaları üzerine ağlar kurmalıdır. bir yandan, mühendislik ve sinyal uzmanlığı olmadan hiçbir şey olmaz, ancak diğer yandan, tabur kademesinin altında çok sayıda mühendis ve sinyalci bulundurmak mümkün değildir. sonuç olarak, ukrayna kuvvetleri hem diğer kollarda beceri geliştirme çalışmaları yürütüyor hem de mühendis ve sinyalcileri, uzaktan rehberlik sağlayabilecekleri komuta merkezlerine, bakım ve destek birimlerine yerleştiriyor. bu uzmanlar öne itildiğinde, ileri pozisyonların imzasının genişlemesini önlemek için, çoğu zaman bir eklenti olarak değil, bağımsız bir unsur olarak hareket etmeleri gerekir.\n\nçözüm\nbu makalede, yeni araçların modern muharebe alanına uygulanmasına ilişkin ortaya çıkan kavramlara dayanarak, ukrayna'nın muharebe birliklerinin kalitesini nasıl artırabileceği konusunda net çıkarımlar ortaya çıkmaktadır. aşağıdaki sonuçlar, ukrayna'nın muharebe etkinliğini en iyi şekilde nasıl destekleyebilecekleri konusunda ukrayna'nın ortaklarına ve modern koşullar altında kendi muharebe hazırlığını nasıl geliştirebileceklerine dair nato'ya yönelik öneriler de içermektedir.\n\nukrayna için öneriler\nkolorduyu, acemilerin toplu eğitiminden sorumlu kılın.\nbu makalede açıklanan kavramları uygulayabilecek güçlere sahip olmak için, önemli düzeyde toplu eğitim ve birleşik silah tatbikatları gereklidir. bu, birliklerin eğitim alanlarına erişimini ve güçlendiricilerinin muharebe alanının ötesinde eğitim için hazır olmasını gerektirir. ukrayna, kuvvetlerinin potansiyelini gerçekleştirmek istiyorsa, eğitim sistemini yeniden düzenlemelidir. ukrayna'nın eğitim merkezlerindeki eğitimi önemli ölçüde iyileştirmenin zor olması ve tugaylar tarafından gerçekleştirilen eğitimin yeterli ölçekte yürütülmesinin zor olması göz önüne alındığında, ukrayna'nın yeni'kolordu' düzeyinde toplu eğitim düzenlemesi makul bir uzlaşma olacaktır. birlik bir eğitim rotasyonunu yönetebilir ve yeni askerleri muharebe birliklerine uygun şekilde eğitmek ve uyum sağlamak için bazı güçlendiricileri ve kabiliyetleri yedekte tutabilirse, bu, birliklerin kabiliyetlerini istikrarlı bir şekilde iyileştirmek için bir mekanizma sağlayabilir.\n\nen iyi uygulamaları merkez ofisler arasında yatay olarak yayın.\nukrayna'nın birlikleri, bağlı tugaylar arasında eşit olmayan bir kalite seviyesine sahiptir. bilginin, daha yetenekli karargahlardan daha az yetenekli olanlara yatay olarak aktarılması gerekmektedir. daha yetenekli tugaylardaki subayların, daha az yetenekli olanlardan alt birimlerle toplu eğitim yürütmesi, bilgi transferini kolaylaştıracaktır. ayrıca, daha az yetenekli personeldeki subayların daha yetenekli karargahlarda zaman geçirmesi, tüm birliğin verimliliğini artıracaktır.\n\nasker alımını artırın.\nukrayna'nın şu anki asker alımı zorlukları, muharebe sahasındaki yetersiz birliklerin yerine yenilerinin getirilmesi talebinin, yeterli toplu eğitim yapmak için yeterli yedek personel bulundurmayı zorlaştırdığı anlamına geliyor. asker alım sürecinde yapılacak düzenlemeler bu sorunu hızlı bir şekilde çözmeyecektir. ihtiyaç duyulan şey, büyük miktarda yeni personel akışıdır. kısa sürede çok sayıda asker alımı yapabilmek için ukrayna siyasi liderliğinin böyle bir önlemin neden gerekli olduğunu açıklaması gerekmektedir.\n\nrusya'nın, afu'yu cepheyi tutmakta zorlanacağı bir noktaya kadar düşürebileceğine inandığı da vurgulanmalıdır. ek birliklerin seferber edilmesi, rusya'nın savaş meydanında zafer teorisini esasen geçersiz kılacak ve hedeflerine askeri yollarla ulaşmak istiyorsa savaşı 2026'nın ötesine taşımak zorunda kalacağını gösterecektir. dolayısıyla, asker alımında önemli bir artış, yeterince erken yapılırsa, moskova'nın ateşkesten ne kazanabileceğine dair hesaplamalarını şekillendirebilecek bir önlemdir.\n\nabd'nin ukrayna'ya sağladığı askeri-teknik yardımların azalması, kritik savunma malzemelerinin tedarikinde ani bir düşüşe yol açma riski taşıyor.\n\nukrayna'nın uluslararası ortaklarına yönelik öneriler\nçeşitli askeri teçhizat sağlamaya devam edin.\nabd tarafından sağlanan askeri-teknik yardımlardaki azalma, 2025'in son çeyreğinde ukrayna'ya kritik savunma malzemesi tedarikinde ani bir düşüşe yol açma riski taşıyor. motorlu bombalar ve diğer iha'ların tedariki yüksek olsa da, topçu, zırhlı araç, konvansiyonel mühimmat ve yedek parça teslimatı düşüş eğiliminde. bu ihtiyaçların karşılanması, ukrayna'nın uluslararası ortakları için bir öncelik olmalı. ayrıca, ukrayna'ya avrupa desteğinin sağlanmasını istikrara kavuşturmak için, avrupa savunma malzemelerinin uluslararası silah ticareti yönetmeliği (ıtar) de dahil olmak üzere abd ihracat kontrol rejimlerine bağımlılığını azaltmak da gerekiyor.\n\norta ve derin muharebe alanlarındaki hedefleri vurmak için optimize edilmiş mühimmatın teslimatına öncelik verin.\nukrayna, çatışmalı bölgelerde ve tecrit bölgelerinde saldırılar düzenlemek için iha'lar üretebilir, ancak orta ve derin muharebe alanlarında tüm ilgili hedefleri vurabilecek yeterli yük veya son hassasiyete sahip mühimmat üretmekte zorlanmaktadır. ukrayna'nın uluslararası ortakları, daha önce abd tarafından sağlanan copperhead 155 mm mermi ve güdümlü çok namlulu roketatarlardaki eksiklikleri telafi edebilecek hassas mühimmat tedarikine öncelik vermelidir. derin muharebe durumunda, ukrayna yapımı seyir füzeleri için ıtar dışı güdüm sistemlerinin teknoloji transferi de bir önceliktir.\n\nukraynalı tugayların şirketlerle ortaklık kurması yoluyla ar-ge'yi teşvik edin.\nukrayna savunma bakanlığı (msb) ile büyük ölçekli malzeme üretimi için ortak girişimlerin kurulması arzu edilmekle birlikte, ortak şirketler ile hava kuvvetleri üssü (afu) arasındaki ar-ge ilişkileri en iyi tugay düzeyinde yönetilebilir. en iyi sonuçlar, şirketlerin tugay ar-ge merkezleriyle ar-ge sözleşmeleri imzalaması ve elde edilen veriler karşılığında faaliyetlerini finanse etmesiyle elde edilebilir. bu, ukrayna savunma bakanlığı için büyük ölçekli olarak geliştirilecek programların iyileştirilmesine bilgi sağlamak için en hızlı ve doğru verileri sağlayacak ve tugayları, ortaya çıkan muharebe alanı gereksinimlerine yanıt olarak uyarlamalar geliştirmek için daha iyi bir mali konuma getirecektir.\n\nnato kuvvetlerine yönelik öneriler\nsavaş alanı geometrisi kavramını gözden geçirin.\nukrayna'da nato orduları tarafından dikkatle incelenmesi gereken kavramlar ortaya çıkıyor. ilk olarak, nato orduları arasında tümen ve kolordu derinliği arasındaki ayrım konusunda devam eden bir tartışma var. 30 [1] bazıları mesafeye, bazıları hedef türüne, bazıları da etkiye göre ayırıyor. ukrayna'nın devam eden muharebeyi doğrudan etkileyebilecek sistemlerle ilgili olan orta vuruş kavramı ile gelecekte muharebe üzerinde etkisi olacak hedeflere yönelik derin vuruş kavramı, kademelerde gereken yetenekleri ayırmanın işlevsel bir yolu gibi görünüyor. ukrayna kademeleri nato kademelerine karşılık gelmiyor, ancak nato içinde tugayın temas muharebesini, tümenin orta muharebeyi ve kolorduların derin muharebeyi yapması gerektiği mantığı ikna edici.\n\nmuharebe ekibi ve muharebe grubu içerisinde organik olması gereken kabiliyetleri inceleyin.\nnato için savaş alanından çıkan ve faydalı olan ikinci husus, birleşik silah ekibinin yapısını anlamaktır. bu makale, afu'nun operasyonel güvenliği konusundaki endişeler nedeniyle her kademede tam olarak hangi kabiliyetlerin bulunduğunu ortaya koymaktan kaçınmıştır. bununla birlikte, açıklanan harekât kavramı, taarruz harekâtını yöneten komutanın organik olarak neleri kontrol etmesi gerektiğinin anlaşılmasına olanak tanır. hemen belirginleşen gözlem, koordine edilmesi gereken silah sayısının arttığı ve tugay karargâhı tarafından kullanılması gereken c2 seviyesinin bir kademe aşağı indiğidir. aynı zamanda, kuvvet manevra ve ateş arasında yeniden dengelenmiş ve ikincisi birincisini mümkün kılmak için genişletilmiştir. birlik genelinde, bir taburun harekât yürüten bir bölüğü varsa, bu bölüğün diğer manevra bölükleri sonraki hedeflere ulaşmak için sırayla görevlendirilirken, muhtemelen bu bölüğün tüm destek varlıklarına ihtiyaç duyacaktır. böylece, muharebe grupları alay büyüklüğünde kuvvetler haline gelir.\n\ngelecekteki afv tasarımlarını tamir edilebilirlik ve bakım kolaylığı göz önünde bulundurarak inceleyin.\nnato kuvvetleri, gelecekteki zırhlı araç tasarımı ve tedariki için temel bir gereklilik olarak zırhlarının onarılabilirliğini ve bakım yapılabilirliğini incelemelidir. bu, muhtemelen kauçuk paletler gibi çağdaş zırhlı araç tasarımının bazı modalarından uzaklaşıp, sensörler ve zırhlar konusunda daha modüler bir yaklaşıma yönelmeyi önermektedir.\n\nukrayna'daki çatışmaların birçok yönü, belirli bir zaman dilimini ve günümüz koşullarını yansıtmaktadır. bununla birlikte, bu makalede açıklanan kavramsal yaklaşımın kalıcı olacağına inanmak için geçerli nedenler vardır ve bu nedenle yeni birleşik silah yaklaşımında ustalaşmak, avrupa kara gücünün modernizasyonu için değerli bir başlangıç??noktası gibi görünmektedir.\n\ntwitter kaynak:\n-- alıntı --",
+      "referenced_content": [],
+      "has_external_url": true,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN-POS"
+      ]
+    }
+  ]
+}

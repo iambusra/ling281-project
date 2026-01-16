@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:58:55.764394",
+    "total_entries": 1,
+    "input": "suriyelilere harcanan 50 milyar dolar",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelilere harcanan 50 milyar dolar",
+      "entry_id": "149092796",
+      "author": "dargoveden",
+      "date": "11.02.2023 20:45",
+      "content": "şimdi ne kadar işimize yarayacak paraydı. kentlerimizi yeniden kurardık.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "ECON"
+      ]
+    }
+  ]
+}

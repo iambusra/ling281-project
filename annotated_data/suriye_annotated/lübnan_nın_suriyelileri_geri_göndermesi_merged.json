@@ -1,0 +1,39 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:43:55.589606",
+    "total_entries": 2,
+    "input": "lübnan'nın suriyelileri geri göndermesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "lübnan'nın suriyelileri geri göndermesi",
+      "entry_id": "145827253",
+      "author": "zattiri zottiri",
+      "date": "02.12.2022 10:27 ~ 10:28",
+      "content": "gazeteci saygı öztürk'ün köşe yazısında detaylıca bahsettiği konu. demokrat parti heyetinin lübnan'a yaptığı ziyaret ve resmi kurumlarla yaptıkları görüşmeleri içeren bu yazıda lübnan devletinin kararlılığını görmek mümkün. darısı bizim başımıza. link\n\nözetle:\n* hiç bir suriyeliyi vatandaşlığa almamışlar,\n* birleşmiş milletlere rest çekmişler,\n* hep zor işlerde çalıştırıp ikinci sınıf olduklarını ve geri gönderileceklerini hissettirmişler,\n* iş yeri açmalarına izin verilmemiş,\n* eğitim ve sağlık konusunda her zaman kendi vatandaşlarını öncelemişler,\n* suriye devletiyle hep iletişim halinde kalmışlar ve geri dönüş için özel anlaşmalar imzalamışlar...\n\nbize de lübnan gibi bir ülkeden ders çıkarmak kalmış. bu bile siyasal islamla geldiğimiz rezil noktayı özetliyor.",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "lübnan'nın suriyelileri geri göndermesi",
+      "entry_id": "145850874",
+      "author": "dichromat",
+      "date": "02.12.2022 21:59",
+      "content": "haklılar hiçbir ülke başka bir ülkenin vatandaşlarına bakma zorunluluğu yok. hele ki böyle hiçbir işe yaramayan boş beleş insanlara",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:13:52.299883",
+    "total_entries": 3,
+    "input": "vatanı için savaşan suriyelinin terörist olması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "vatanı için savaşan suriyelinin terörist olması",
+      "entry_id": "170638460",
+      "author": "acz ve fakr",
+      "date": "01.12.2024 15:05",
+      "content": "bir türlü içinden çıkamadığım paradoks. şimdi biz bu suriyelilere savaş kaçkını, korkak vs diyorduk. gidin ülkenizde savaşın karı gibi türkiye'de ne işiniz var diyorduk. şimdi bu adamlar organize olmuşlar. esede karşı savaşıyorlar. yıllar sonra evine dönüp annesini babasını görüp göz yaşı döken ya da boşalmış harap evini görüp göz yaşı döken savaşçı videoları düşüyor. adamlar vatanı için savaşıyor. bu seferde terörist diyoruz. bu paradoksun içinden çıkamadım. galiba biraz kıçımızın keyfine göre hareket ediyoruz gibi geliyor bana.\n\nulan bir de esed hayranı manyak dolu ülke. esas terörist bunlar.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "vatanı için savaşan suriyelinin terörist olması",
+      "entry_id": "170639868",
+      "author": "simonsezz",
+      "date": "01.12.2024 16:06",
+      "content": "\"fethetmek vs işgal etmek\" arasındaki çelişkidir.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "vatanı için savaşan suriyelinin terörist olması",
+      "entry_id": "170640725",
+      "author": "anani siken kadi",
+      "date": "01.12.2024 16:48 ~ 16:50",
+      "content": "vatanı için savaşan suriler mi?\n\nhani halep binlerce yıllık türk yurduydu da suriler kendi ülkesini bölüp bize toprak kazandırmak için savaşıyordu?\n\nhangisi yalan?",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    }
+  ]
+}

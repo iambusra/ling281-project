@@ -1,0 +1,48 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:13:35.210556",
+    "total_entries": 3,
+    "input": "ülkesine dönen suriyelinin türkiye'ye isyanı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ülkesine dönen suriyelinin türkiye'ye isyanı",
+      "entry_id": "135323072",
+      "author": "sade domates tantuni",
+      "date": "23.03.2022 23:33",
+      "content": "içimizdeki irlandalılardan daha türk birisinin beyanı. kendisine acilen vatandaşlık verilmeli.",
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "ülkesine dönen suriyelinin türkiye'ye isyanı",
+      "entry_id": "135467809",
+      "author": "ems",
+      "date": "27.03.2022 17:59",
+      "content": "oy versin kâfi.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "ülkesine dönen suriyelinin türkiye'ye isyanı",
+      "entry_id": "135467964",
+      "author": "zahn",
+      "date": "27.03.2022 18:06",
+      "content": "bu tip adamlara vatandaşlık verilmeli tiktokta kadın videoları çekip sapıklık yapanların değil.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POLICY"
+      ]
+    }
+  ]
+}

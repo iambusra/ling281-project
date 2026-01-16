@@ -1,0 +1,48 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:15:43.761566",
+    "total_entries": 3,
+    "input": "ukrayna'nın tehlikeli ve güzel kadın askerleri",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukrayna'nın tehlikeli ve güzel kadın askerleri",
+      "entry_id": "40874095",
+      "author": "windrider",
+      "date": "04.03.2014 15:26 ~ 15:27",
+      "content": "ölmesinler dayanamam...\n\n(bkz: savaşma seviş)",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "ukrayna'nın tehlikeli ve güzel kadın askerleri",
+      "entry_id": "134307628",
+      "author": "x68000",
+      "date": "28.02.2022 01:13",
+      "content": "(bkz: koyun can derdinde kasap et derdinde)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'nın tehlikeli ve güzel kadın askerleri",
+      "entry_id": "134308188",
+      "author": "sukablyat",
+      "date": "28.02.2022 01:26",
+      "content": "ukrayna'nın türkiye'deki konsolosluğunun paylaştığı görüntüler.\nhttps://twitter.com/…ntr/status/1498023520634290184",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

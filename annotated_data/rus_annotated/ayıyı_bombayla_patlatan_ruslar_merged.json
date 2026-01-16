@@ -1,0 +1,585 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:27:07.709211",
+    "total_entries": 47,
+    "input": "ayıyı bombayla patlatan ruslar",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ayıyı bombayla patlatan ruslar",
+      "entry_id": "138541443",
+      "author": "sesarium",
+      "date": "09.06.2022 16:57",
+      "content": "rusya'da bozayıyı bombayla patlatarak öldürdüler!\n\nhangisine, ayı ya da hayvan şeklinde hitap edeceğinizi şaşırdığınız sinir bozucu video:\n\ntwiter video",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL",
+        "CRIME"
+      ]
+    },
+    {
+      "title": "ayıyı bombayla patlatan ruslar",
+      "entry_id": "138541504",
+      "author": "betada don bebegim yok diye uye oldum",
+      "date": "09.06.2022 16:59",
+      "content": "\"kendi uluslarının sembolü ayıya bunu yapan ukraynalıya neler yapmaz. kendisi ile aynı din ve kökenlerden ukraynalıya bunu yapan, türk'e neler yapmaz.\" dedirtmiştir.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ayıyı bombayla patlatan ruslar",
+      "entry_id": "138541646",
+      "author": "notredamea",
+      "date": "09.06.2022 17:03",
+      "content": "ne istediniz lan ayıdan kendi halinde beslenmeye çıkan hayvandan ne istediniz? size saldırmıyor zarar vermiyor kalkıp sırf show olsun diye zavallı hayvana kıydınız. adi herifler, ruh hastaları.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CRIME"
+      ]
+    },
+    {
+      "title": "ayıyı bombayla patlatan ruslar",
+      "entry_id": "138541692",
+      "author": "keremtunaa",
+      "date": "09.06.2022 17:04",
+      "content": "ayı oğlu ayılar.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ayıyı bombayla patlatan ruslar",
+      "entry_id": "138541866",
+      "author": "babilkulesii",
+      "date": "09.06.2022 17:09",
+      "content": "hani ruslar ayıları severdi laaa...",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ayıyı bombayla patlatan ruslar",
+      "entry_id": "138541884",
+      "author": "cameron poe",
+      "date": "09.06.2022 17:10",
+      "content": "insan dünyanın kanseridir.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ayıyı bombayla patlatan ruslar",
+      "entry_id": "138541960",
+      "author": "joseph porta",
+      "date": "09.06.2022 17:12 ~ 17:13",
+      "content": "rus, slav bedeni ve istilacı moğol ruhunun karışımı iflah olmaz bir zorbadır. gücünü takatini biraz toparlayınca ata sporu komşu ülke işgal etmek olan bir ülkeden ve toplumdan bahsediyoruz. hastalıklı bir imperyal kültürün şiddete düşkün evlatları bunlar.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "ayıyı bombayla patlatan ruslar",
+      "entry_id": "138542043",
+      "author": "marti rifki",
+      "date": "09.06.2022 17:14",
+      "content": "fuze atmislar sanki.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CRIME"
+      ]
+    },
+    {
+      "title": "ayıyı bombayla patlatan ruslar",
+      "entry_id": "138542151",
+      "author": "wiwinateri",
+      "date": "09.06.2022 17:17",
+      "content": "pek inandirici gelmeyen haber. goruntuleri izleyince acaba zavalli ayi bir mayina mi denk geldi diye dusundum.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ayıyı bombayla patlatan ruslar",
+      "entry_id": "138542187",
+      "author": "gidenegider",
+      "date": "09.06.2022 17:18",
+      "content": "profil fotoğrafımın ayı olmasıyla beni ürkütmüştür, düşman gö.. pardon başına efenim.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ayıyı bombayla patlatan ruslar",
+      "entry_id": "138542259",
+      "author": "g23",
+      "date": "09.06.2022 17:20",
+      "content": "hayvanı bombalı düzenekle doğal ortamında katleden bu şerefsizler, inşallah ukrayna'da aynı şekilde geberir.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE"
+      ]
+    },
+    {
+      "title": "ayıyı bombayla patlatan ruslar",
+      "entry_id": "138542285",
+      "author": "hipnopompic",
+      "date": "09.06.2022 17:20",
+      "content": "barbar adiler.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE"
+      ]
+    },
+    {
+      "title": "ayıyı bombayla patlatan ruslar",
+      "entry_id": "138542317",
+      "author": "possessions",
+      "date": "09.06.2022 17:21 ~ 18:31",
+      "content": "insanoğlu yeryüzünün en zararlı ve gereksiz ırkı!",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "ayıyı bombayla patlatan ruslar",
+      "entry_id": "138542340",
+      "author": "arieswoodtiger",
+      "date": "09.06.2022 17:22",
+      "content": "izlemedim,izlemem.yeterince strese zaten maruz kalıyorum.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ayıyı bombayla patlatan ruslar",
+      "entry_id": "138542489",
+      "author": "lastromeo",
+      "date": "09.06.2022 17:26",
+      "content": "bakamadım aga. patlamadan kapattım. dayanamıyorum böyle kendi halinde takılan hayvanlara yapılan canilikleri.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CRIME"
+      ]
+    },
+    {
+      "title": "ayıyı bombayla patlatan ruslar",
+      "entry_id": "138542490",
+      "author": "fani",
+      "date": "09.06.2022 17:26 ~ 17:28",
+      "content": "(bkz: the revenant)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ayıyı bombayla patlatan ruslar",
+      "entry_id": "138542507",
+      "author": "alcaktan ucabilen kartal",
+      "date": "09.06.2022 17:27",
+      "content": "adamlar büyük ihtimal dağda ve yerel olarak yaşıyor, demek ki ayı sorunları var.\n\nayıyı tüfekle vurmak yerine demek ki mayinla patlattılar. tam ne olduğunu anlamadım ama mayına benziyor\n\nnot: tabiki onaylanıyorum, vahsettir lakin ayıyı sadece belgesellerden izleyenler karadenizli arkadaşlardan öğrenebilir. neler yaptıklarını, ayrıca neden kabalık yapan birisine ayıı dediklerini bir düşünün.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ayıyı bombayla patlatan ruslar",
+      "entry_id": "138542773",
+      "author": "degisikbiri98",
+      "date": "09.06.2022 17:34",
+      "content": "köpektaparlar göreve",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE"
+      ]
+    },
+    {
+      "title": "ayıyı bombayla patlatan ruslar",
+      "entry_id": "138542986",
+      "author": "dlugano",
+      "date": "09.06.2022 17:40",
+      "content": "yapanları da bombayla patlatmak gerçek adalet olacaktır.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE"
+      ]
+    },
+    {
+      "title": "ayıyı bombayla patlatan ruslar",
+      "entry_id": "138542990",
+      "author": "apolytica",
+      "date": "09.06.2022 17:40 ~ 17:47",
+      "content": "buyrun bu da türkiye'den .\n\nmünferit örneklerle pek sevmiyorsunuz anadolu insanını da ben genel olarak baktığımda birçok açıdan severim, belli erdemlere default olarak sahipler, sadece eğitim lazım.",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ayıyı bombayla patlatan ruslar",
+      "entry_id": "138543120",
+      "author": "needlove",
+      "date": "09.06.2022 17:44",
+      "content": "insanların genlerinde böyle şeyler var. insanları bu genlerle yaratana dert yakının.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "ayıyı bombayla patlatan ruslar",
+      "entry_id": "138543395",
+      "author": "daytm",
+      "date": "09.06.2022 17:53 ~ 17:54",
+      "content": "sebebi ne olursa olsun patlatarak öldürmek ne demek.\nuyuşturur başka bir bölgeye götürürsün\nses çıkartır ürkütürsün\nbir yolunu bulursun tabi orda da ayı çok hem doğada hem şehirde 2 ayaklı bundan oluyor hep. tabii biz duyar kasacağız onlar öldürmeye devam edecek. düzülen değişmedikce düzen niye değişsin efendim. hadi hayırlı duyarlar:/",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CRIME"
+      ]
+    },
+    {
+      "title": "ayıyı bombayla patlatan ruslar",
+      "entry_id": "138543621",
+      "author": "viggomor",
+      "date": "09.06.2022 17:59",
+      "content": "masum canlıların, gaddar şerefsiz köpekler tarafından canavarca öldürülmesi beni inanılmaz üzüyor ve sinirlendiriyor.\n\nniye yaparsınız bunu yahu? neden yani? böyle insanlar temizlenmedikçe doğanın daha elimizden çekeceği var.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CRIME"
+      ]
+    },
+    {
+      "title": "ayıyı bombayla patlatan ruslar",
+      "entry_id": "138543849",
+      "author": "khaladmir",
+      "date": "09.06.2022 18:06",
+      "content": "mayından ziyade sanki omuzdan atılan bir füze gibi geldi bana, orospu çocukluğudur net. tek tesellim hayvancağızın bir şey hissetmemiş olmasıdır.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE"
+      ]
+    },
+    {
+      "title": "ayıyı bombayla patlatan ruslar",
+      "entry_id": "138544139",
+      "author": "tayo",
+      "date": "09.06.2022 18:15 ~ 18:16",
+      "content": "canlı bomba olma ihtimalini düşünmüş olabilirler.\n(bkz: hayvanlardan canlı bomba yapmak)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CRIME"
+      ]
+    },
+    {
+      "title": "ayıyı bombayla patlatan ruslar",
+      "entry_id": "138544768",
+      "author": "horiantos",
+      "date": "09.06.2022 18:31",
+      "content": "ruslar asyalıdır ve kıro bir halktır.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "ayıyı bombayla patlatan ruslar",
+      "entry_id": "138545026",
+      "author": "punkrock1907",
+      "date": "09.06.2022 18:38",
+      "content": "bana garip gelen ruslardır. ayı, rusların milli sembolüdür. severler ayıları. hatta bazı yerlerde o kadar evcil hale gelmişlerdir ki evlerin kapılarına kadar gelir ayılar. ve ruslar tarafından beslenirler.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "ayıyı bombayla patlatan ruslar",
+      "entry_id": "138545806",
+      "author": "erazur",
+      "date": "09.06.2022 19:00",
+      "content": "\"ilgili haberi okuyan başkası yok galiba?\" sorusunu sorduran vahşet görüntüsüdür(aykiri):\n\n\"rusya’nın yakutistan bölgesinde şok bir olay yaşandı. bir grup işçi, bozayıyı bomba ile patlatarak öldürüldü.\n\niddialara göre bölgede çalışan işçiler, bozayının sürekli olarak çalışma alanına girmesi sebebiyle rahatsız oldu. ayıyı öldürme kararı alan işçiler, av tüfeği yerine bomba kullanmayı tercih etti.\n\nolay anı cep telefonu kamerası ile kaydedildi. rus polisinin, olaya ilişkin soruşturma başlattığı ve bomba yapanları terör şüphesiyle aradığı bildirildi.\"",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ayıyı bombayla patlatan ruslar",
+      "entry_id": "138545849",
+      "author": "aunderrie jozj",
+      "date": "09.06.2022 19:01 ~ 10.06.2022 00:50",
+      "content": "yapanlar askerse eğer; askerlik çatısı altında bir araya gelen erkek hordalarının, zamanla çevresel faktörler(askerlik onca yeşilliğin, ağacın içerisinde yaşanabilecek en kötü deneyimi sunar) nedeniyle içerilerinde tuttukları mental marazları patlatmaları nedeniyle yapmış şerefsizler diyebiliriz.\nbir tutkudur analiz(magnum_dondurma_catirt.wav).\n\n(bkz: tespit yapardık saatlerce)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE"
+      ]
+    },
+    {
+      "title": "ayıyı bombayla patlatan ruslar",
+      "entry_id": "138545999",
+      "author": "bobidibibidibo",
+      "date": "09.06.2022 19:06",
+      "content": "vay orospu çocukları",
+      "has_external_url": false
+    },
+    {
+      "title": "ayıyı bombayla patlatan ruslar",
+      "entry_id": "138546208",
+      "author": "dijital amele",
+      "date": "09.06.2022 19:12",
+      "content": "rus hastaları pislikler.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ayıyı bombayla patlatan ruslar",
+      "entry_id": "138546289",
+      "author": "iyigelagzimizasic",
+      "date": "09.06.2022 19:15",
+      "content": "dünyayı sadece kendi türüne ait sanan orospu çocukları içeren videodur. çok üzülüyorum böyle videolara ulan. siz de benzer şekilde geberip gidersiniz inşallah. avlanmayı spor sanan dallamalara da kafam girsin.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ayıyı bombayla patlatan ruslar",
+      "entry_id": "138546336",
+      "author": "edepiliedepsiz",
+      "date": "09.06.2022 19:16",
+      "content": "bazı rusların ayıca davranışını içeren videodur.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "ayıyı bombayla patlatan ruslar",
+      "entry_id": "138546412",
+      "author": "thetekindor",
+      "date": "09.06.2022 19:18",
+      "content": "hitler rusya'yı boşuna almak istemiyordu. (bkz: hitler)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ayıyı bombayla patlatan ruslar",
+      "entry_id": "138547010",
+      "author": "timedilation",
+      "date": "09.06.2022 19:34",
+      "content": "ukrayna ajanı olan ayının vahim sonu. çünkü başka sebep olamaz gibi duruyor.\n\nhayır madem öldüreceksiniz patlayıcı düzenekle uğraşmanıza gerek yoktu. başka şeylerde kullanabilirdiniz. bundan çok daha insancıl yollar var...",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ayıyı bombayla patlatan ruslar",
+      "entry_id": "138547461",
+      "author": "ilknick",
+      "date": "09.06.2022 19:48",
+      "content": "ananızı avradınızı silkeyim pislikler",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE"
+      ]
+    },
+    {
+      "title": "ayıyı bombayla patlatan ruslar",
+      "entry_id": "138548130",
+      "author": "550 senta",
+      "date": "09.06.2022 20:06",
+      "content": "senin ben vicdanını sikiyim! behzat ç.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE"
+      ]
+    },
+    {
+      "title": "ayıyı bombayla patlatan ruslar",
+      "entry_id": "138548456",
+      "author": "adamsevenadam",
+      "date": "09.06.2022 20:16",
+      "content": "bu ilkel ve vahşilere tapan adamlara hayret etmeyi bırakamayacağım sanırım, hayır, bu ve daha pek çok örnek görüldüğünde hayvan sevgisi daha anlamlı kalıyor rus sevgisinin yanında.\n\nbu arada sözüm harbiden herşeyiyle ruslara tapan tiplere, yoksa bir sebeple insan gibi sevenlere değil, yanlış anlama olmasın.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ayıyı bombayla patlatan ruslar",
+      "entry_id": "138548752",
+      "author": "huniye hunharoglu",
+      "date": "09.06.2022 20:24",
+      "content": "izleyemeyeceğim görüntüleri içeren başlık.\nsadece başlığı okumak bile kalbime ve vicdanıma bıçak gibi saplandı, insanlara karşı olan nefretimi biraz daha körükledi.\n\nnerde masum kendi halinde canlı varsa acı çekmeden ölüp gitmiyor şu soktuğumun dünyasında.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "ayıyı bombayla patlatan ruslar",
+      "entry_id": "138548977",
+      "author": "peder may i",
+      "date": "09.06.2022 20:31",
+      "content": "insan ırkı yok olmalıdır.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "ayıyı bombayla patlatan ruslar",
+      "entry_id": "138549238",
+      "author": "turkona",
+      "date": "09.06.2022 20:38",
+      "content": "barbarlık.\nsonra derler ki; barbar türkler .\nbunlar var ya orul orul ....",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ayıyı bombayla patlatan ruslar",
+      "entry_id": "138549570",
+      "author": "nosce te ipsum carpe diem",
+      "date": "09.06.2022 20:47",
+      "content": "empati yapıp geldim!\nve \" vücuduna bomba bağlamak ve allahu ekber nidaları atmak suretiyle!.. çoluk, çocuk demeden camii, sokak demeden masum insanları öldüren... öldürmekten, parçalamaktan geri durmayan... belki de zevk alan!.. dinî çok bütün, müslümanlığı çok sağlam!.. tırnak içerisindeki mahlukatlar aklıma geldi!!! \"",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ayıyı bombayla patlatan ruslar",
+      "entry_id": "138549752",
+      "author": "saitamakun",
+      "date": "09.06.2022 20:52",
+      "content": "rusların acımasızlığı başka düzeyde,tarihe bakınca viking yağmaları, ikinci dünya savaşında açlık ve yıkım, komünizm derken insanlık kalmamış adamlarda",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ayıyı bombayla patlatan ruslar",
+      "entry_id": "138549777",
+      "author": "barnibas",
+      "date": "09.06.2022 20:53",
+      "content": "zavallı ayının kendinden daha güçlü hayvanlara av olmasının görüntüsüdür.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ayıyı bombayla patlatan ruslar",
+      "entry_id": "138550651",
+      "author": "fakiramaseksi",
+      "date": "09.06.2022 21:16",
+      "content": "buhar etti lan hayvanı",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ayıyı bombayla patlatan ruslar",
+      "entry_id": "138554199",
+      "author": "sahte bioteknolog",
+      "date": "09.06.2022 22:40",
+      "content": "cyka blyat.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ayıyı bombayla patlatan ruslar",
+      "entry_id": "138554203",
+      "author": "inatciligin yeryuzundeki temcilcisi",
+      "date": "09.06.2022 22:40",
+      "content": "bombayla değil roket veya top ile patlatılmış dense daha doğru olur. çünkü ateş ettikten ve ayı vurulduktan sonra mermi kovanının (dış kabuk) yere atılma sesi duyuluyor.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

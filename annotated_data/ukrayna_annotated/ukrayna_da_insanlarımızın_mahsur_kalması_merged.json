@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:13:07.479847",
+    "total_entries": 1,
+    "input": "ukrayna da insanlarımızın mahsur kalması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukrayna da insanlarımızın mahsur kalması",
+      "entry_id": "134281438",
+      "author": "bugga",
+      "date": "27.02.2022 15:27",
+      "content": "yaklaşık 20000 vatandaş var sanırım.\nhadi ailesi olanları geçtim.\nöğrenciler savaşın çıktğını bile bile niye orda kaldılar anlayamıyorum, konsolosluk da uyarmış.\nsavaş başlıyor ve kalıyorsun orada, sebebi nedir anlayamıyorum.\nha kalıp savuncam veya bura hertürlü kurtulacak dersin anlarım.\nama biz burda mahsur kaldık lafını anlamıyorum.\nherhalde algı değişiyor, yada bi tutulma geliyor.\nyaşamadık o koşulları bilemeyiz ama cidden merak ettiğimden sorguluyorum, amacım yaftalamak, yuhlamak değil.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HUMAN",
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

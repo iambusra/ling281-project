@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T16:54:48.498224",
+    "total_entries": 2,
+    "input": "122 bin suriyelinin kayip olmasi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "122 bin suriyelinin kayip olmasi",
+      "entry_id": "139027353",
+      "author": "climberserdal",
+      "date": "21.06.2022 09:39",
+      "content": "1 milyondan bile fazladır.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "122 bin suriyelinin kayip olmasi",
+      "entry_id": "139027807",
+      "author": "nikimikaybettimhukumsuzdur",
+      "date": "21.06.2022 09:56",
+      "content": "ikamet adresleri ile fiili adresleri uyuşmuyordur.\n\nilk kaydı güneydoğu bölgesinde bir şehirdedir ama iş bulduğu başka bir şehire kayıtsız gitmiştir.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CRIME"
+      ]
+    }
+  ]
+}

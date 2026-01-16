@@ -1,0 +1,90 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:03:57.608560",
+    "total_entries": 6,
+    "input": "suriyelilerin geri dönmeyeceği gerçeği",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelilerin geri dönmeyeceği gerçeği",
+      "entry_id": "170836311",
+      "author": "gemimden defol fare",
+      "date": "08.12.2024 11:51 ~ 10.12.2024 11:27",
+      "content": "esad rejimi düştükten bir kaç gün sonra net farkına varacağımız gerçek, bu ülke de yakalanan mossad ajanlarının tamamına yakının mülteci olduğunu da düşünürsek büyük ortadoğu projesi piyonu bu potansiyel savaşçılar asla geri dönmeyecek ve bizde bunlar burayıda bilmesin diye sesli dua bile edemeyeceğiz.\nsavaşta ellerini oğuşturanın götüne savaşın tozu bulaşır. elbaşta bu mültecilerle başbaşa kalacağız neticede.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri dönmeyeceği gerçeği",
+      "entry_id": "170836338",
+      "author": "ersnaydn",
+      "date": "08.12.2024 11:52",
+      "content": "gitmezler. avrupa'dan para aldık. hala bunu anlamadılar. bedava gelmedi bu at hırsızları ülkeye.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri dönmeyeceği gerçeği",
+      "entry_id": "170836755",
+      "author": "suyayaziyazanadam",
+      "date": "08.12.2024 12:12",
+      "content": "komik olmayın lütfen!\nsuriyeliler dönecek mi, elbet hayır. şimdi suriye'de büyük bir felaket yaşanacak.onlarca cihatçı çete egemenlik için çatışacak, kaide iktidarında yıllardır anlatılan yalanların aksine, büyük bir insanlık acısı doğurulacak, suriye toplumu, tarihinde görmediği yeni acılar yaşayacak.\n\nbakmayın siz ikiyüzlü islamcılar, aptal milliyetçilerin sevinç nâralarına. onlarin tek derdi kişisel maddi hesapları olur. onlarin namusu, haysiyeti, vicdanı, empati duyguları ya hiç olmaz ya da çok az olur. ne yazık ki suriye'de şu saatten sonra daha çok kan akacak, daha çok gözyaşı, daha çok çığlık olacak...\n\namin maoolouf, beatrice'den sonra birinci yüzyıl isimli kitabında \"bir ülkede diktatör devrilirse, yeni gruplar ortaya çıkar ve daha çok kan döküp, daha çok hırsızlık yapar\" der.\n\ngeri dönen ilk etapta kısmen olabilir suriye'ye, ama sonraki zamanda geri dönenler de dahil tekrar dönüşler olacak.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri dönmeyeceği gerçeği",
+      "entry_id": "170836810",
+      "author": "yedinci element",
+      "date": "08.12.2024 12:15",
+      "content": "dönen suriyeli mi daha salak yoksa döneceğini sanan türkler mi bilemedim. ama bu muhalif şeytan üçlüsü tvlerinde suriyeliler dönebilir falan deniliyor herhalde birkaç chp dayısını suriyeliler döner artık derken yakaladım.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri dönmeyeceği gerçeği",
+      "entry_id": "172045696",
+      "author": "eminmisin ki",
+      "date": "20.01.2025 12:31",
+      "content": "siyasal sünniciler tarafından,\n\n-bakın işte savaş bitti ve hepsi ülkesine dönüyor. savaş olduğu için şiiler sünnilere zülmettiği için dönmüyorlardı. şimdi suriye kurtarıldı hepsi ülkesine dönüyor...\n\ndiye pazarlandı suriye olayı. sonuç? hiçbiri dönmedi. normal zamanda suriye'ye dönen sayısı ile suriye'de esad devrildikten sonra dönen sayısı hemen hemen aynı.\n\nyani mesele suriyedeki yönetimin sünni olmama meselesi değilmiş.\n\nşimdi de ama suriye iyi durumda değil ne yapalım kardeşlerimizi kovalım mı şimdi diyorlar ahahah.\n\nbu siyasal sünnici grup açıkça biz suriyelileri sünni olduğu için destekliyoruz, esad melek olsa bile devrilmesini isteyecektik çünkü mezhepçiyiz diyemediği için yıllardır suriyeliler şöyle dönecek böyle dönecek diye millet oyalanıyor.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri dönmeyeceği gerçeği",
+      "entry_id": "172046279",
+      "author": "once blue always blue",
+      "date": "20.01.2025 12:58 ~ 12:59",
+      "content": "hayatında memleketleri olan erzurum'a erzincan'a bitlis'e muş'a istanbul'dan merak edip bir kez bile gitmemiş insanlar tanıdım. zorlayıcı ya da teşvik edici bir sebep olmazsa sadece % 10-20'si geri döner.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL",
+        "ECON"
+      ]
+    }
+  ]
+}

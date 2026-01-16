@@ -1,0 +1,40 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:58:04.746231",
+    "total_entries": 2,
+    "input": "suriyelilerden türklere tavsiyeler",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelilerden türklere tavsiyeler",
+      "entry_id": "89671963",
+      "author": "azimlideli",
+      "date": "04.05.2019 16:32",
+      "content": "acınılası komik ironik başlık...",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyelilerden türklere tavsiyeler",
+      "entry_id": "89672321",
+      "author": "erkotaay",
+      "date": "04.05.2019 16:46",
+      "content": "biri şey demiş; ekmek elden su gölden bir ülkeye gidin hahahah ulan mülteci tarafından ülkemden kovuldum amk (bkz: #89672221)",
+      "referenced_entry_ids": [
+        "89672221"
+      ],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    }
+  ]
+}

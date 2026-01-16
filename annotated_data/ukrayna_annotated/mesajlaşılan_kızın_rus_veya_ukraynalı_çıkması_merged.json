@@ -1,0 +1,38 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:22:01.860623",
+    "total_entries": 2,
+    "input": "mesajlaşılan kızın rus veya ukraynalı çıkması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "mesajlaşılan kızın rus veya ukraynalı çıkması",
+      "entry_id": "140485921",
+      "author": "turabininanasi",
+      "date": "26.07.2022 14:56",
+      "content": "düşüyor mu böyle? eğer düşüyorsa \"mesajlaşılan erkeğin alman çıkması\" diye başlık açıcam da.\ntanım: keşke.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "mesajlaşılan kızın rus veya ukraynalı çıkması",
+      "entry_id": "140485929",
+      "author": "adet kani emen dracula",
+      "date": "26.07.2022 14:56 ~ 15:02",
+      "content": "hayatında rus-ukraynalı tanımamış insanların, rus-ukraynalılar'ı ilahlaştırmasının iyice boku çıktı. gören de hepsi inanılmaz güzel zannedecek. hele de ruslar...\n\nla git bir bak rusya'ya, gör. öyle tatilde ya da internette 5-10 tane görmekle olmuyor... her millette olduğu gibi über güzeli de var, über çirkini de. öyle hepsi güzel ya da efsane güzeller gibi bir durum yok. bizimkilerin \"ne kadar açık giyiniyorsa o kadar güzeldir\" modundan da kaynaklı olabilir bu. bunu eşi rus olan biri olarak söylüyorum...\n\nhiç sırpları gördün mü? litvanyalıları gördün mü? belaruslular bile daha güzel ruslardan. takmışsınız bi' rus...\n\nnot: ukraynalılar bi' tık daha iyidir ruslara göre.\nnot 2: sadece dış görünüş yorumudur. ceteris paribus",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "XENO",
+        "CULTURE"
+      ]
+    }
+  ]
+}

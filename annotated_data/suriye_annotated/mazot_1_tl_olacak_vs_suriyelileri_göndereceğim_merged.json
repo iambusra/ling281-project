@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:43:57.996690",
+    "total_entries": 1,
+    "input": "mazot 1 tl olacak vs suriyelileri göndereceğim",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "mazot 1 tl olacak vs suriyelileri göndereceğim",
+      "entry_id": "136433659",
+      "author": "terstrigonometrikfonksiyonlarinintegrali",
+      "date": "20.04.2022 05:30",
+      "content": "öncelikle lütfen (bkz: popülizm)\nayrıca bakınız tanım .\n\nzamanında genç parti genel başkanı cem uzan'ın mazot 1 ytl olacak seçim vaadi ile şimdilerde zafer partisi genel başkanı ümit özdağ'ın suriyelileri geriye gönderceğim seçim vaadi popülist vaatlere çok güzel 2 örnek. tam da tanımda bahsettiği gibi;\n\n\"popülist söylem sokaktaki adamın ekonomik ve sosyal çıkarlarını vurgulayarak, önyargılarını ve duygusal kırılmalarını kullanarak başarıya ulaşmayı amaçlar.\"\n\ntıpkı trump'ın yaptığı gibi.\n\nkontrolsüz göçe son derece karşıyım, ülke sınırlarının başı boş bırakılarak binlerce göçmenin kontrolsüzce ülkeye girişi kabul edilemez. acilen bu göçmenler güvenli bir şekilde ülkelerine gönderilmeliler. ancak ağırlıklı olarak bu argüman üzerinden yürüyen bir adayın peşinden gitmek, ülke yönetimini ona teslim etmeyi düşünmek bana çok mantıklı gelmiyor.",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "POLICY"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3586 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:04:00.012581",
+    "total_entries": 257,
+    "input": "suriyelilerin geri gönderilmesi süreci",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "91357617",
+      "author": "mariachi52",
+      "date": "16.06.2019 23:26",
+      "content": "artık gönderme süreci başlasın ve bu arkadaşlar evlerine dönsün ve bir daha geri gelmesinler. hatta bayramda görüştükleri türkiyede yaşayan akrabaları çok seviyorlarsa birbirlerini, onlarda da suriyeye gitsin.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119848071",
+      "author": "sadecevatansever",
+      "date": "21.02.2021 11:31 ~ 11:35",
+      "content": "ilk seneleri çok acı verici ve aşırı yanlış olduğunu kabul ediyorum ama artık birlikte yaşamaya alıştığımızı düşünüyorum. öncesinde sadece fakir veya aşırı zengin semtlerde suriye nüfusu varken artık orta direk sitelerde veya mahallelerde düzeni bozmadan yaşamaya başladılar. hepimiz insanız. ön yargıları geriye atmakta büyük fayda. biz nasıl avrupa'yı, amerika'yı veya kanada'yı arzuluyorsak onlarda türkiye'ye çıtırda olsa bu gözle bakıyor işte.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "CULTURE",
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119848186",
+      "author": "ya ba daba du ya da dabada du",
+      "date": "21.02.2021 11:35 ~ 22.02.2021 07:31",
+      "content": "toplumun bir kesimi, ısınan suda yaşayan kurbağa gibi, suriyelilerle yaşamaya alıştıysa da büyük kesimi alışmadı. ayrıca ekonominin bozulma sebeplerinden birisi de bu göçmen sorunu. derhal vatanlarına geri gönderilmeleri gerekiyor.\n\ntanım: bir an önce başlatılması gereken süreç.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "ECON"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119848327",
+      "author": "maxxy",
+      "date": "21.02.2021 11:40",
+      "content": "bu ülke kendi evlatlarına bakamazken, bizden toplanılanlarla diğerlerine bakması saçmalık. dünya üzerinde hiç bir ülke yoktur ki sınırdan gelen geçen ülkeye girsin yerleşsin ve içindekiler de kendilerine bakamazken onlara baksın. onlar geldikten sonra ülkenin durumunun nereye gittiği ortada. bu süreç hepsini yavaş yavaş vatandaş yapma yolunda ilerlesede inşallah birileri süreci tersine çevirir ve ülkelerine geri dönerler.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119848345",
+      "author": "armaitii",
+      "date": "21.02.2021 11:40 ~ 11:42",
+      "content": "#119786699\ngitmeleri bizi aciz ve ırkçı yapmaz. kendi topraklarına dönmeleri onurluca olur.",
+      "referenced_content": [
+        {
+          "type": "entry",
+          "title": "nufusun-azalmasina-izin-vermeyecegiz",
+          "entry_id": "119786699",
+          "author": "armaitii",
+          "date": "19.02.2021 23:42 ~ 20.02.2021 00:07",
+          "content": "çocuk demek başlı başına bir sorumluluktur. ona bakmak ve iyi bir eğitimle hayata hazırlasak bile artık onların geleceğinin bir üniversiteden mezun olup iyi bir iş veya herhangi bir iş bulamayacağını bildikleri için kimse çocuk yapma taraftarı değil. nüfus azalsada yapacak bir şey yok. daha önce de belirtmiş olduğum bir entey de suriye' lilere tanınan hakların ve yardımların düzeyi onların üremesini sağlamış ve bizim halkı küstürülmüş olmalı. genç nesil için yeni istihdam alanları için yeni reformlar gerekli.",
+          "has_external_url": false
+        }
+      ],
+      "referenced_entry_ids": [
+        "119786699"
+      ],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119848347",
+      "author": "frigatebird",
+      "date": "21.02.2021 11:40",
+      "content": "çözüm belli... karadenizli politikacıların ülkesi değil burası, onlar bir süre sonra defolup gidecek... halk olarak yaparsın referandumu halk ne diyor görürüz. fetö de olmadığı için referandumda-seçimlerde akape oy çalamıyor zaten. o zaman görürüz sonucu ve herkes referanduma da uymak zorunda. bu kadar basit işte.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119848385",
+      "author": "motununizinde",
+      "date": "21.02.2021 11:41",
+      "content": "bir an önce planlanması ve harekete geçilmesi gereken süreç. bunlar vatandaşa sorularak getirilmedi, dolaysıyla vatandaşa sorulmadan da geldikleri yere gönderilmeleri gerekiyor. misafirlikten çıktı artık bu olay. türkiye sığınmacı memleketi değildir, ben sürekli vergi ödeyerek sığınmacıları beslemek zorunda da değilim. umarım bir an önce memleketlerine sağ sağlim gönderilirler.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119848472",
+      "author": "kartalbafilerrr",
+      "date": "21.02.2021 11:44",
+      "content": "akp gitmeden gideceklerini sanmıyorum",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119848518",
+      "author": "mfpnyq",
+      "date": "21.02.2021 11:46",
+      "content": "o iş imkansiz artık geçmiş olsun. mümkünse batıya göçleri engellenmemeli, gidebilen gitmeli. biz onlara onlarda bize bayılmıyor şartlar bu noktaya getirdi adamları. umarim kısa sürede avrupaya göç edebilirler.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119848785",
+      "author": "yozgatli herr mannelig",
+      "date": "21.02.2021 11:54",
+      "content": "umarım en yakın zamanda tekrardan gündeme gelecektir. bu pislikler bölücü terör örgütü kadar tehlike arz edecekler yoksa 10-15 yıl sonra.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119848956",
+      "author": "rapunizm",
+      "date": "21.02.2021 12:00 ~ 12:03",
+      "content": "bu konuda üzüldüğüm şey avrupa'ya ve türkiye'ye gelen göçmenlerin farklı eğitim durumlarının olması. yani avrupa'ya gidenlerin seçilmiş soylular olması, türkiye'ye gelenlerin problemli olmaları.(genellikle maddi durumu kötü). iyi domateslerin ihraç edilip geriye kalanların burada halka dağıtılması gibi bir durum bu. yoksa toprak herkesindir.iki yüzlülüğe karşıyım.\n(batının iki yüzlülüğüdür bu)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119849082",
+      "author": "kutsal kitap",
+      "date": "21.02.2021 12:04",
+      "content": "kendi adıma bir gün yurdumu terk etmek zorunda kalsam. sonra da bir şekilde tekrar vatanıma dönme şansım olsa seve seve dönerim.\nçünkü ben şeriatçı, ortaçağ artığı bir pislik değilim.\nçünkü ben 3’er 5’er üreyen bir fikirsiz gerizekalı da değilim.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119849203",
+      "author": "mertomezi",
+      "date": "21.02.2021 12:08",
+      "content": "gitmez bu bedeviler.\nsürekli keyifli üreyebildikleri toprağı neden bıraksınlar? vergi vermezler,devletten maaş alırlar. niye gitsinler?\n\nbiz bunlar ülkesine gitsin dediğimiz zaman ırkçı oluyoruz. gitsin ülkesinde çoğalsınlar.\n\nhiçbir korkuya benzemez vatanını satanın korkusu.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119849238",
+      "author": "macubali",
+      "date": "21.02.2021 12:09",
+      "content": "esad ile masaya oturması lazım hükümetin yoksa bu insanlar ülkesine dönemez burda da mutlu değiller fırsatını bulan avrupa'ya gidiyor gidemeyen aç kalıyor tanıdıklarımın çoğu türkiye'ye geldiği için pişman keşke ülkemiz de kalsaydık diyorlar tabii ışıd'den kaçanların durumu farklı onların olayı hayat kurtarma meseleseydi",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119849440",
+      "author": "omahaproxy",
+      "date": "21.02.2021 12:16",
+      "content": "açıkça ilan ediyorum bir sonraki seçimde hangi parti suriyelileri kendi ülkelerine göndereceğini vaat ederse ve bunu yalandan değil gerçekten yapacağına inandırırsa oyumu o partiye vereceğim siyasi görüşüme uysun veya uymasın",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119849530",
+      "author": "diyot led kondansator",
+      "date": "21.02.2021 12:19",
+      "content": "öncelikle belirtmek isterim ki suriyelilerle yaşamaya alışmış biri varsa gitsin suriye de yaşasın.\n\nherkesin ortak görüşüyle bir plan oluşturulup bir an önce de başlanması gereken süreçtir. ülkenin ekonomik durumu malum. bir de sırtımızda bu insanların kamburu var.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO",
+        "ECON"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119849583",
+      "author": "spetsnaz",
+      "date": "21.02.2021 12:21",
+      "content": "avrupaya gitme ihtimalleri daha yüksek. kimse kimseyi kandırmasın. bol bol ghetto olacak",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119849585",
+      "author": "muhendis bey",
+      "date": "21.02.2021 12:21",
+      "content": "oto sanayilerde, oto yikamacilarda veya elektrik islerinde ustalarin yanlarinda calistirdiklari kisilere bakin, bunlarin cogu suriyeli. biz alistik kalsinlar demekle olmuyor, belki yeni nesil boyle islerde calismak istemiyor ama sigortasiz calistirilan bu insanlar yuzunden devlet vergi alamiyor ve bunun ucu da illa ki sana bana dokunuyor canim hemsehrim.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "ECON",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119849677",
+      "author": "respectblue",
+      "date": "21.02.2021 12:24 ~ 12:25",
+      "content": "dolar 10 veya 12 tl olursa göçmenlerin alayi gider.\n\nhatta biz bile gidebiliriz duruma göre",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119849834",
+      "author": "eksi 18",
+      "date": "21.02.2021 12:29",
+      "content": "ne süreciymiş bu,\nnasıl döneceklermiş geri?\nkavimler göçü esnasında bile bu kadar insan yer değiştirmemiş.\nhangimiz yok olmuş, talan edilmiş bir ülkeye geri dönerdik?\nherkes böyle bir sürecin olmayacağını bal gibi biliyor,\nhatta iktidara kim gelirse gelsin.\nşimdiden dil kursları, uyum çalışmalarına hazırlık yapalım.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119849964",
+      "author": "titiraprap",
+      "date": "21.02.2021 12:34 ~ 22.02.2021 00:36",
+      "content": "zor gözüken durum. kürt türk kavga ederken ülkesini suriyelilere kaptıran enayiler olarak tarihe geçeceğiz sanırım.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119850027",
+      "author": "mottoman35",
+      "date": "21.02.2021 12:36",
+      "content": "dünya üzerinde başka bir ülke yoktur ki böyle bir konu hakkında bu kadar duyarsız olsun. bu adamlar yakın gelecekte güneydoğu bölgelerinde nüfus çoğunluğuna ulaşıp self determinasyon isteyebilir.\n\nacaba bilerek mi toplumun demografik yapısı değiştiriliyor?\n\nbeka beka diye orada burada yüksekten atanlar buna müsade ediyorlar. ne kürt sorunu ne kıbrıs ne ermeni sorunu, şu an türkiye'nin en büyük sorunu suriyeli mülteci sorunudur.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119850105",
+      "author": "kedisinemunhasir",
+      "date": "21.02.2021 12:38",
+      "content": "sistemli bir şekilde getirilip yerleştirilmedikleri için zor olan süreçtir. ekip araçlarıyla sokaklarda suriyeli avına çıkamayacaklarından ve çoğunun kaçak göçek yaşadığını da düşünürsek bu süreç anca şartları dönmeyi mecbur kılacak derecede zorlaştırarak olur. bol keseden verilen yardımlar kesilecek, vatandaşlık yolu kapanacak, çalışma izinleri denetlenip zorlaştırılacak, sıkı kontroller yapılacak vs. oysa mevcut iktidar burada kalsınlar, aramıza karışsınlar, hallerine alıştırsınlar diye her türlü kolaylık ve serbestliği tanıyor. bu kadar ters kültürlerin kaynaştırılması ülkenin geleceğine ve kimliğine büyük zarar veriyor.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "POLICY",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119850114",
+      "author": "urtika41",
+      "date": "21.02.2021 12:38",
+      "content": "bizimkiler oy vermezse diye yedekte tutuluyorlar olmasın..!",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119850232",
+      "author": "rusen ali",
+      "date": "21.02.2021 12:41 ~ 13:10",
+      "content": "(bkz: suriyeli dilenciler/@rusen ali)\nsuriyeli konusu dillerde değilken 2013 yılının başında bu konuda başlık açmış ve öngörüleri haklı çıkmış bir ekşi sözlük yazarı olarak bir kaç şey yazasım var.\n\nkimse türkiye'de savaştan kaçtım ayağına göç eden suriyeli araplarla yaşamaya alışmak zorunda değil. ileride çoluğum çocuğum olursa onların arapların içine sıçtığı bir ülkede yaşamasını istemiyorum. eğer onlar kalacaksa geleceğimi her şeye rağmen kurmak istediğim, yüksek nitelikli katma değer ürettiğim, dağlarında askerlik yaptığım bu ülkeyi terk etmem gerekecek. türkiye'de gelecek kurmak isteyen genç yaşlı her insan suriyeli, ıraklı, mısırlı, afganistanlı vs. bizim kültürüne uzak, alt seviye ülkelerden gelen yabancıların ülkelerine geri gönderilmesi için bir şeyler yapmalıdır. en başta iktadara geldiğinde bunu yapacağını garanti veren partilere oy vermeli. etrafındaki insanlara neden bu zararlı göçmenler gitmeli sebepleriyle anlatmalı. türkiye'deki gıda fiyatlarının, ev, araba, kira fiyatlarının yükselmesinin ve de hırsızlık, gasp, tecavüz vs kriminal olayların artış sebebinin baş sebebinin arap, afgan, afrikalı göçü olduğunun toplumda bilinmesi lazım. hayat pahalılığı, alım gücünün düşmesi bu tiplerin türkiye'yi sömürmesinden dolayıdır. bu ülkenin gençleri önce kendi gelecekleri için bir şeyler yapmalı. kendine hayrı olmayanın hiçbir şeye faydası olmaz.\n\nedit: giriş ve bakınız eklenmesi, bazı küçük eklemeler.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119850283",
+      "author": "bytemizlikci",
+      "date": "21.02.2021 12:43",
+      "content": "yıllar geçti artık bu işin savaşı falan kalmadı. acilen kendi ülkelerine gönderilmeleri gerekiyor. bunları kim geri gönderirse oyumu ona basacağım.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119850302",
+      "author": "akrep yelkovan",
+      "date": "21.02.2021 12:44",
+      "content": "bir an önce planlanması gereken sürec. tamam belki bir kısmı şu anda ucuz işgücü ama geçen zamanla birlkte onlar da bu kadar aza çalışmayı kabul etmeyecekler. hani, işverenler memnun deniyor ya. işte o memnuniyet de kalmayacak.\n\nvatandaşlık falan verilirse daha da kötü. o zaman hiçbir siyasi parti karşılarına almak istemeyeceği için artık bizim istemediğimiz bir parçamız olacaklar.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119850344",
+      "author": "derim ki",
+      "date": "21.02.2021 12:45",
+      "content": "şurada suriyelileri gönderme derdinde olanların çoğu avrupa'ya, amerika'ya kapak atma hayaliyle yaşayanlar. gerçekten sizlere çok gülüyorum.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119850369",
+      "author": "aegontheconqueror",
+      "date": "21.02.2021 12:45",
+      "content": "var olmayan, var olmayacak süreç. 20-30 sene sonra sıkıntılarını yaşayana kadar veya iktidardaki mevcut zihniyet tamamen yok olana kadar ciddi manada gündeme de gelmez.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119850370",
+      "author": "crectore team",
+      "date": "21.02.2021 12:45",
+      "content": "tamam hepimiz insanız ama demografik yapıyı değiştirecek kadar farklı ülkedeki insanların burada kalıcı olmasını arzu etmem. zaten bizim ülkemizin eğitim kalitesi düşük ve sokakta birisi,diğerine baktı diye ve ya yol vermedi diye birbirlerini öldürebiliyor. buna eğitimi bizden de kötü suriye'lileri ekleyin. ayrıca bundan eğitim seviyemizi yükseltmemiz gerektiği sonucu da çıkıyor. bir de suriye'lilerin tekrar topraklarına geri dönmesi gerektiği.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119850403",
+      "author": "hunting",
+      "date": "21.02.2021 12:46",
+      "content": "olmayacak olan durumdur.\nsuriyeliler kirli bir takım pazarlıklar sonucu demografik yapının değiştirilmesi pahasına hükumetin kabul ettiği sözde mültecilerdir.\ngonderilmeyeceklerdir, gitmeyeceklerdir.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119850428",
+      "author": "apo kadri",
+      "date": "21.02.2021 12:47",
+      "content": "gideceklerine eminim ama ciddi bir insani krizi kucağımıza bırakacaklarına da.\n\nkarşıya geçip orda bu tarafa iki füze sallarım'ı düşünen kafa 5 milyon insanın nasıl gönderileceğinin de yolunu bulur.\nayrıca esad herkesi geri istiyor. geri gelmesinler demiyor. nüfusunun %50'den fazlası ülke dışında. bu ağır bir tablo. neden geri istemesin?\n\nçünkü eni sonu türkiye ile masaya oturacaklar. iki ülke de biliyor ki bu süreç böyle devam ederse orta vadede suriye kuzeyini, türkiye güneyini kaybedecek. gerçi bölgede kurulmuş bir kürt devletini ne araplar ne de türkler rahat bırakmayacaktır böyle de bir gerçek var ama. sonuç olarak istikrarsızlık çabucak bitecek değil.\n\nsığınmacıların bir 5 yıl daha bu topraklarda kalacağını düşünüyorum. mühim olan şu entegrasyon çalışmalarını durdurmak. buraya entegre olmalarına gerek yok. lübnan dahi geri dönüş protokolü uyguluyor 900.000 kişiye sınırlarını açmasına rağmen.\n\ntürkiye'nin kendi tarihindeki başına gelmiş en kötü şey olan islamcıların ensar-muhacir söylemine takılmayın. aslına bakarsanız çoğunluğu mazlum falan olmayan bu insanlar mevcut iktidar için ab'ye karşı bir koz.\n\nidlib harekatında bunun böyle olduğu görüldü zaten sınırları açarak.\n\ndolayısı ile orta çağ'daki kitle hareketleri gibi düşünmeyin ve asla dönmezler gibi bir fikre kapılmayın. dönmek durumundalar.\n\ntabi en başta afad, valilikler ve bir sürü dinci dernek vakıfın akıttığı paraların yolunun kesilmesi lazım. tabi geçici korunma statüsünün getirdiği hakları askıya alamıyorsunuz o ayrı mesele.\n\nayrıca burada keyifleri yerine falan da değil. çoğunluğunun dönmek istediğini düşünüyorum. 40 yıldır yaşadığım ülkede benim bir dikili ağacım yok onun nasıl olsun ve nasıl ayakta kalabilsin?\n\nolmasını istemem ama yöneticilerin suriyeli sorununa duyarsızlığı, sosyal sorunlar, halkın patlama noktasına gelen tepkileri bir yerde aleni hale gelecek. işte o zaman bu insanlara acırım. burası türkiye...\n\nama daha önce bu entegrasyon saçmalıklarına bir son verilmesi lazım. en mühimi de suriyelilerin doğurganlığı meselesine eğilmesi gerekir devletin. 30 yıl sonra sayıları yarımız olacak falan filan bunlar hikaye. işin abartı boyutunu geçin.\n\nçok boyutlu insani krize bu şekilde bakılmaz.\n\ndiyorum ya, esad'la paşa paşa o koltuğa oturacaklar. o zaman şu sözde özgür suriye isimli terör örgütünü nasıl satacaklarını hepimiz göreceğiz.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119850432",
+      "author": "nick ne ya",
+      "date": "21.02.2021 12:47",
+      "content": "anketlerde sorunlar sıralanırken suriler diye bir madde önlerde çıkmıyorsa sorun yok demektir. meseleleri mesele etmezseniz mesele olmaz. halk talep etmezse iktidar yapmaz. şu anda surilerin dönüşü ile ilgili ciddi bir talep yok. varsa da her zaman ki gibi kaypak kaypak dost meclislerinde konuşuluyor kahvehane sohbetleri gibi.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119850772",
+      "author": "bahti sikik piyon",
+      "date": "21.02.2021 12:58",
+      "content": "sadece suriler değil ciddi anlamda nr iş yaptıkları belli olmayan birsürü yabancı insan var. artık ben bunların sistematik olarak ülkeye alınıp halka sorun yaratsın ve halk ekonomik krizi düşünmesin diye ülkemize doldurulduğunu düşünüyorum. bir istanbul aksaray yada topkapı ya gidin bir tane türk bulursanız sarılın. hepsi çok tehlikeli ve azılı görünen salça tipler.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119850889",
+      "author": "paytakordek",
+      "date": "21.02.2021 13:00 ~ 14:24",
+      "content": "ofis ortamında iki suriyeli ile çalışan bir insan olarak konuyla ilgili birkaç kelam edebileceğimi düşündüren başlıktır diyerek girizgahımı yapayım. öncelikle hepsinin suriyede normal bir hayat süren birinci dereceden akrabası var. bizzat ilk ağızdan duyduğum esat bunları ülkenize geri dönün diye de çağırıyor hatta başlarına bişey gelmeyeceği konusunda garanti de veriyor ancak bunlar gitmek istemiyor türkiye bunu zorunlu yapmak isterse de uluslararası arenada türkiye bizi savaşın göbeğine atıyor diye yaygara koparacaklarından emin olabilirsiniz. bu arkadaşların genç kesiminin en büyük korkusu askerlik hizmeti. geri döndüklerinde tıpkı bizim gibi onlarıda zorunlu askerlik hizmeti bekliyor. esadın ordusunda asker olmakla ilgili haliyle çekinceleri var. onların söylediğine göre suriye sisteminde bir genç, reşit olana kadar ailesinin nufüs belgesinde kayıtlı görünüyor kendilerine ait bir kimlikleri olmuyor. haliyle burada doğan çocukların kimliği konusunda da geri dönseler bile bu avantajı kullanacaklardır. bu çocuk benden değil diye çamura yatan aileleri görmek sürpriz olmaz. çalışma konusunda içinde bulundukları şartlar gereği inanılmaz hırslılar. bir işi sizin elinizden almakla ilgili yapmayacakları fırıldak yok. tamamının hayali bizimkiler gibi yurt dışı ancak gidemeyenlerin haklı olarak rahat çalışma koşulları bekleyen türk z kuşağının ekmeğine kan doğrayacaklarından emin olabilirsiniz. ofislerinde atatürk portreleri asılı pek modern, lâik, vatansever patronların iş kapitalizme gelince bu adamları sırf \"eşşşekkk\" gibi çalışıyorlar diye nasıl el üstünde tuttuğunu görseniz şaşırırsınız. en modernleri bile olası bir inanç tartışmasında ismail ağa cemaati mensuplarını aratmayacak derece de radikaller. bizimkilerin islami ritüellerini eksik ve yanlış görüyorlar. nüfusları çeyrek milyon altı olsa topluma ayak uyduranlar kalır uyduramayanlar kendi giderler diyebilirdik ancak adamların kendi mahalleleri kendi esnafları lokantaları vs var. iş ilanlarında \"arapça bilen\" eleman diye filtrelerseniz, akp'nin zengin araplar gelsin politikası sayesinde, senden, benden, imam hatiplerde siktiriboktan arapça eğitimi alan türk gencinden daha rahat iş bulabilecekleri de aşikar. özetle daha önceden de söylendiği gibi birlikte yaşamaya çalışsanız iyi edersiniz zira bu sorun her geçen sene daha da kemikleşiyor. öyle hükümet değişikliğiyle falan da çözülecek gibi durmuyor.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119850902",
+      "author": "vycanismajoris29",
+      "date": "21.02.2021 13:01",
+      "content": "(bkz: gazap üzümleri) okuyunuz.",
+      "referenced_content": [],
+      "has_external_url": false
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119850903",
+      "author": "jimmyelros",
+      "date": "21.02.2021 13:01",
+      "content": "şu saatten sonra imkansız olandır. hele ki ümmet sevdalıları için imkansızdan da ötedir.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119850955",
+      "author": "avrosbey",
+      "date": "21.02.2021 13:02",
+      "content": "onlar 6 milyonsa biz 80 milyonuz. tayyip ile birlikte hepsi memleketine dönecek.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119850976",
+      "author": "abi arabayi vermem lazim",
+      "date": "21.02.2021 13:03",
+      "content": "referandum yapılsın yüzde 90 gitsin der fakat adamlar ülkenin her yerine yayılmış ev almış çocukları okula gitmiş daha bu saatten sonra zor",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119850980",
+      "author": "smurfsmurfsmurf",
+      "date": "21.02.2021 13:03",
+      "content": "ben ülkemde suriyeli göçmen istemiyorum. istisnasız nerede suriyeli göçmen bir kadın görsem önünde sürdüğü bir bebek arabası da oluyor, muhtemelen yanında yöresinde iki üç tane de velet. adamlar ülkeye çoğalmak için gelmişler, savaştan kaçmak bahane. biz çok zengin bir ülke değiliz, ekonomik sorunlarla boğuşuyoruz. bir de göçmenlere bir sürü sosyal ayrıcalık tanıyoruz.\n\nkısaca bir an önce başlaması gereken süreç.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "ECON"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119851141",
+      "author": "paleokastro",
+      "date": "21.02.2021 13:08 ~ 13:09",
+      "content": "böyle bir süreç yok. çünkü bu elemanlar yakında vatandaş olacaklar ve tabii ki, elbette mecburen, büyük ihtimal chp'ye (!) oy verecekler..büyük resim kursundan ogrendim bunlari",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119851304",
+      "author": "sosyaldemohrat",
+      "date": "21.02.2021 13:12",
+      "content": "böyle bir durum cereyan ederse olacaklar:\n\n1-gitmek istemeyen suriyeliler isyan edecek anarşi çıkacak.\n2-ülke içindeki mülteci dostları bu anarşiyi körükleyecek.\n3-batı medyası \"türkiye'nin zorunlu göç politikası\" diye propaganda yapacak.\n4-çıkan karışıklıkta birkaç kişi yaralanır ve ölürse dünya medyası türkiye'nin üstüne çullanacak.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119851305",
+      "author": "oglala",
+      "date": "21.02.2021 13:12",
+      "content": "yok artık asla gitmezlermiş, yok o iş çoktan geçmişmiş...\n1. 7 milyon suriyeli, türk toplumuna sorularak getirilmedi, bizlerin onayı alınmadı, ki halka sorulsaydı bundan eminim ki toplumun yüzde 90 ı suriyelilerin ülkemize gelmesini istemezdi.\n\n2. olarakta burada ve başka ortamlarda suriyeli güzellemesi yapanları görüyorum, onlara sadece şunu demek istiyorum, mültecileri o kadar çok seviyorsanız eğer içlerinden 10 tanesini seçin alın evinizde besleyin, hee ne oldu sesinizi duyar gibiyim, ben keriz miyim tanımadığım 10 kişiyi alıp evimde besleyeyim, ikiyüzlü olmayın eyy suriyeli severler bakın siz 1 kişiyi alıp bakmazsınız türkiye 7 milyon ne idüğü belirsiz kişiye bakıyor, bu iş misafirliği çoktan geçti...\n\n3. olarakta şunu söylemek istiyorum, türk toplumu hiç enseyi karartmasın, yeri ve zamanı geldiğinde türkiyedeki toplam 10 milyon mülteci geldikleri ülkelere teker teker geri gönderilecekler, buna vatandaşlık verilenleri de dahil, bizlere mi sordunuzda vatandaşlık verdiniz.\n\n4. son olarak şunu eklemek istiyorum, bu suriyelilerin gönderilmeleri mevzuu, türkiye için hayati önem taşıyor, sebebi ise şu bu mülteci denilen kişiler akıl almaz bir hızla ürüyorlar, evli olanları ortalama 6 çocuğa sahip, bu işin icabına bakmazsak eğer bundan 10 sene sonra türkiye de demografik yapı ciddi oran da değişir.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "XENO",
+        "HATE",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119851380",
+      "author": "bluebeach",
+      "date": "21.02.2021 13:15",
+      "content": "belirli bir oy potansiyeli var suriyelilerin. bunları isteseler de geri göndermezler. kaç milyon kişi olursa olsun oy için burada tutulacaklardır. kime oy verecekleri de belli zaten.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119851416",
+      "author": "anonymousssss",
+      "date": "21.02.2021 13:16",
+      "content": "suriyeliyi kim bu ülkeden gönderecek olursa ilk seçimde benimde oyum ona.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119851482",
+      "author": "japonnecic",
+      "date": "21.02.2021 13:18 ~ 13:19",
+      "content": "şuan için çok uzak görünen süreçtir. bildiğim kadarıyla suriye'de devlet bunların mallarına sahipsiz diye el koydu. tabi asıl amaç geri gelmelerini engellemekti.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119851537",
+      "author": "alidesidero84",
+      "date": "21.02.2021 13:19",
+      "content": "(bkz: never) hiçbir zaman dönmeyecekler, her yere her şehre dağıldılar, evlendiler, çoluk çocuk sahibi oldular, dükkan açtılar vs.. adamlar göndersen gitmez artık.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119851545",
+      "author": "baggio39",
+      "date": "21.02.2021 13:19",
+      "content": "her ay düzenli olarak 100 bin kişi gönderilse ancak 5 yılda gitmiş olurlar. bakın dikkat edin her ay 100 bin kişi olursa diyorum. bugün hümanist olan arkadaşlar 20 yıl sonra çocuklarından beddua alacaklar'bizlere nasıl bir ülke bıraktınız' diye.\nvicdanen ise rahatım çünkü bu ülke suriyelilere yapabileceğinin çok üzerinde destek verdi.ülkenin bir numaralı sorunu budur; ekonomideki sorunlar öyle ya da böyle düzelir, düzeltemezlerse alternatif hükümetler gelir çözer ama bu sorun çözülmezse durum fena..",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119851581",
+      "author": "the man who fell to arcturus",
+      "date": "21.02.2021 13:20",
+      "content": "akp varken asla başlamayacak bir süreçtir.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119851635",
+      "author": "blondyelf",
+      "date": "21.02.2021 13:22",
+      "content": "bunlar yakinda parti filan kurarsa sasirmayin. 20 sene sonra da meclisteler... belki 20 seneye de kalmaz...",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119851665",
+      "author": "jincha",
+      "date": "21.02.2021 13:22",
+      "content": "--- spoiler ---\n\ndoğurganlık hızları türklerin 3-4 katı.\n--- spoiler ---\n\nyine aydınlandık sözlük sağolsun. anladığımız kadarıyla türkler bengal kaplanı gibi ürerken suriyeliler tekir gibiymiş. tamamen farklı türler de olabiliriz tabii (bkz: swh) .\n\nben artık suriyelileri tehdit olarak görmüyorum. evet çok kalabalık geldiler, ama ne yazık ki acı patlıcanı kırağı çalmaz. akp öyle bir hale getirdi ki ülkeyi, 5 küsür milyon kontrolsüz göçmen ekstra bir zarar veremiyor. suriyeliler de artık hayat endişesi kalmadığından muhtemelen ülkeyi beğenmeyip gitmek isteyecek. sürünüyorsam ülkemde sürüneyim ya da avrupa’da refah içinde çocuklarımın geleceğini kurtarayım diye düşüneceklerdir.\n\nakıllı bir yönetim, suriye’nin merkezi hükümetinin güçlenmesi ve suriye’nin daha yaşanmaya elverişli bir yer olması için çaba gösterir. ama akıllı dedim.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119851806",
+      "author": "sonejee",
+      "date": "21.02.2021 13:26",
+      "content": "(bkz: geldikleri gibi giderler)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119851845",
+      "author": "gadaros",
+      "date": "21.02.2021 13:27 ~ 13:51",
+      "content": "lütfen etrafında bunlardan olmayanlar bi siktirsin gitsin çenelerini açmasınlar! bunların icinden medeni denilebilecek sadece %1 lik bir kesim var. adamlar tüm benlikleriyle problem. bir kere hayat bunlar için gece yarısı başlıyor. bakin uyuyamiyorsunuz! anlatabiliyor muyum? uyumuyor amk herifleri, uyumuyorlar! yazları parklarda, kışları evde uyumuyorlar!\nayrıca arapça duymak istemeyecek hâle geliyorsunuz. adamların normal konuşmasında bile polis çağırma gereği ve hatta o tv sesini açtıklarında beyninizin içine çivi çakılıyormuş gibi hissediyorsunuz.\nartık ilk geldikleri gibi değiller. hem bu ülkeyi, milleti, usulsüzlükleri, zaafları çok iyi öğrendiler hem de tıpkı pkk olayında olduğu gibi bu topluma karşı kin ve nefret besleyip, çocuklarını da öyle büyütüyorlar. bunlar ve diğerleri belirli plan dahilinde bu ülkeye dolduruldular ama yeni bir kurtuluş savaşı vermek istemiyorsak bu saçmalığa bir ayar çekilmesi lazım. vatandaşlık verme mallığına son verilme ile başlanabilir çünkü ordan dönüş imkansız.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119851856",
+      "author": "bugungunlerdenrakibalik",
+      "date": "21.02.2021 13:27",
+      "content": "insanların doğdukları topraklara gitmesinin(gönderilmesinin) ne sakıncası olabiliki",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119851901",
+      "author": "bornova",
+      "date": "21.02.2021 13:28 ~ 13:31",
+      "content": "türkiyenin öncelikle, sağlam bir propaganda hazırlaması gerekiyor . sizin için değil, batı ülkeleri için .\n\nnasıl mı? şöyle ki yunanistanın,sırbistanın,hırvatistanın,italyanın mültecileri bir tek ağır silahlar ile vurmadığı kaldı . tek bir haber göremiyorum bunun ile ilgili, sadece 3-5 tane sosyalistin paylaştığıyla kalmış .\n\ntürkiye için ise sanki suriyelilere,kürtlere,ermenilere soykırım yapıyormuş gibi haberleri yayınlıyorlar .\n\nülke başkanları gerçeği bilse dahi demokrasinin kuralı halkın görüşleri doğrultusunda tepki vermek zorunda .\n\neğer türkiye bunu başarırsa, bir tehcir kanunu ile çok rahat suriyelileri geri gönderebilir . altını çiziyorum, bunlar mülteci statüsünde değil, geçici koruma statüsünde ... suriyeliler bugün mülteci statüsüne geçmek istese de türkiye buna giden yolları kapattı .\n\nzannedersem, en iyi şekilde 6 ay içerisinde gönderimde tamamlanabilir .\n\nsiz alışmış olabilirsiniz ama ben alışmadım, ülkemi sokakta bulmadım . tek tek ne kadar yasadışı göçmen varsa sınır dışı edilmesi taraftarıyım . gelmek istiyorsa, buyursun yasal yollardan gelsin .\n\nnot: bir de türkiyenin ya bm nin esad ile anlaşması lazım sanırım, çünkü bir kısım için idam kararı var olduğunu duydum .",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119851941",
+      "author": "supremes",
+      "date": "21.02.2021 13:29",
+      "content": "bence millet ittifakı başa geçerse mümkün olan süreçtir ki türkiyede işsizlik sorunun başlıca sebebi suriyelilerdir. \"mülteci\" olarak geldikleri ülkede 8-10 tane doğurmaları da cabası. bunun ırkçılığı felan kalmadı artık yıllardır ülkenin içinden geçtiler acilen gönderilme süreci başlatılmalı.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119852011",
+      "author": "stpetersburg",
+      "date": "21.02.2021 13:31",
+      "content": "rusya suriyelileri patır patır geri gönderiyor. hatta az sayıda da olsa iltica hakkı verdiklerini ülkenizde artık yaşayabilirsiniz savaş bitti diyerek geri gönderiyor. yeni başvuruları kabul etmiyor. olması gereken budur.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119852140",
+      "author": "auz",
+      "date": "21.02.2021 13:35",
+      "content": "suriyeliler derken bir kısmı süresiz oturum izni bir kısmı da türk vatandaşlığı aldı bile. süresiz oturum izni verdiklerini yollayamazsın, diğerleri de suriye kökenli türk vatandaşı, yani bu ülkenin vatandaşı. o tren gideli çok oluyor yani.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119852213",
+      "author": "dupdupdupdupdupdurudubut",
+      "date": "21.02.2021 13:37 ~ 13:40",
+      "content": "rte nüfus azalıyor diyor, bunlar göç derdinde. uzun yıllardır kullanmadığım bir bakınızı hatırlattığınız için teşekkürler:\n\n(bkz: hayallerde yaşıyor bazı ibneler)\n\no suriyeliler gitmez gençler. boşuna ümitlenmeyin.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119852274",
+      "author": "machiavellim",
+      "date": "21.02.2021 13:39",
+      "content": "hayal görmeyin. biz o suriye yangınına benzin döktüğümüz gün buna razı olduk. bu stratejik iflasın sorumluları bir gün hesap verir mi bilmem ama maalesef suriyeliler bizim artık gerçeğimiz. en azından eğitim ve uyum çalışmaları yapılarak topluma sağlıklı katılımları sağlanılmalı.\n\nnot:'ben de istemezdim böyle olsun'",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119852276",
+      "author": "evetboyleoldu",
+      "date": "21.02.2021 13:39",
+      "content": "öyle bir şey yok çıkar onu aklından.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119852506",
+      "author": "vulgaris magistralis",
+      "date": "21.02.2021 13:45 ~ 13:46",
+      "content": "neymiş burada doğanlar, evlenenler, kuma(!) olanlar vatandaş olmuş. hukukçuların bile bilmediği hangi kanuna göre dağıtıyorsunuz bu vatandaşlıkları? amacınız reis çıkıp \"milletimiz suriyeli yavrularımızın vatandaşlık hakkını veriyor bize de buna uymak düşer\" dediğinde bahsinizin geçmesi midir?\n\nkararlı bir uygulama ile suriyelileri göndermek imkansız falan değil. geçici koruma statüsü kaldırılır, sağlık yardımları sonlandırılır, para yardımları kesilir, çalışma izni olmayan yabancıları çalıştıranlara verilen ceza artırılıp takip edilir. ülkede çalışma izni almış ve toplumumuza hukuka uygun şekilde entegre olmuş suriyeli de vatandaşlık sürecini başlatır.\n\nunutmayın:\n1. türk vatandaşı ile evlenmek kişiyi kendiliğinden türk vatandaşı kılmaz. standart uygulamanın geçici koruma statüsünde bulunan kişilere uygulanması ise tartışmalıdır.\n2. hukukumuzda kumalık yoktur.\n3. türk vatandaşlığı kural olarak toprak esası ile kazanılmaz. istisnası da geçici koruma statüsü altındaki suriyelilere uygulanamaz.\n4. suriyeliler göçmen de mülteci de değildir.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119852671",
+      "author": "milli derin devlet",
+      "date": "21.02.2021 13:49 ~ 13:55",
+      "content": "ya seve seve ya ske ske gönderilecekler bunun başka yolu yok.\nön yargılarınızı kırın diyen değişiklerinde aq hayatında kaç kere suriyeli gördü merak ediyorum.\nbi de daha gönderilmezler diyenler de açık açık söylesin gönderilmesini istemiyorum diye\ngöçmenler gönderilir ama bu uzun sürer şerefsizler ülkenin her yerine dağıldı.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119852688",
+      "author": "tekopaco",
+      "date": "21.02.2021 13:49 ~ 13:51",
+      "content": "ülkede ucuz iş gücü ihtiyacı olduğu sürece hiç bir şekilde geri gönderilmeyecektir. sömürgeciliğin modern hali ucuz iş gücü ile işçi çalıştırmaktır.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "ECON",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119852803",
+      "author": "arafin cati katinda kahve icen hatun",
+      "date": "21.02.2021 13:52",
+      "content": "onlar kalır kalmasına da iş biz bu topraklarda mülteci olmayalım. niye gitsinler ki ekmek hava su bedava.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119852884",
+      "author": "sertori",
+      "date": "21.02.2021 13:54",
+      "content": "neden siyasi partilerin söylemlerinde olmadığını anlamadığım, beklenen süreç.\n\nsuriyeli, iranlı, afgan vs. insanların ülkelerini dönmelerini ve hatta ülkemizde ev vs. almayı zorlaştıracak, imkansız hale getirecek önlemlerden bahseden parti tek başına bile iktidar olabilir.\n\ndilini, huyunu bilmediğimiz bir sürü komşumuz, müşterimiz oldu. herhangi bir sorun oluyor maymunlar gibi el kol hareketleriyle anlaşmaya çalışıyoruz. sosyoekonomik yapının anası sikildi. ev almak istiyorsun hadi olmadı kiraya çıkmak istiyorsun ama imkansız. zira bu insanlar yüzünden ev ve kira fiyatları uçmuş durumda.\n\nbu tür sorunları akp'lisi, chp'lisi, hdp'lisi, mhp'lisi, ip'lisi vs herkes yaşıyor ama muhalif hiçbir partiden bu sorunla ilgili net bir söylem gelmiyor.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "ECON"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119853035",
+      "author": "zapel kaytuda",
+      "date": "21.02.2021 13:58",
+      "content": "iktidar ortaklarından, muhalefetine herhangi bir siyasi partinin gündeme getirmediği konu. sanırım ümit özdağ dışında bir siyasetçi de bu konuda gündem olacak kadar konuşmadı.\n\nçözüm önerilerini bekliyoruz, 6 milyonu aşkın suriye cumhuriyeti vatandaşı olan bu insanların memleketlerine geri dönmesi herkes için en doğru olanıdır.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119853103",
+      "author": "falcon commander",
+      "date": "21.02.2021 14:00",
+      "content": "böyle bir şeyin olacağını zannedenler olması çok ilginç.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119853125",
+      "author": "poliyanna",
+      "date": "21.02.2021 14:00",
+      "content": "kendi ülkesini bırakıp kaçan adamlardan ne hayır gelir ki ben mersin sahilde bir tane kendi vatandaşımızı göremiyorum eskiden insanlar sulh içinde sahilde oturur yürüyüş yapar köpeklerini gezdirirdi şuan arapça dışında hiçbir dil konuşan insan göremiyorum tamam kardeşim bana bir zararları yok peki bu kadar hızlı nufuslanan insanlar 10 sene içinde yine zararsız mı kalacak boş yapmayı bırakın bunlar içimizdeki truva atları burda bir savaş çıksa ilk silah doğrultacak olanlar bunlar benim dedem mülk sahibi olarak yanına suriyeli birini aldı acıyıp adama zaman içinde sordu bizde savaş çıksa siz bizi alır mıydınız cevap aynen şu “ le ya seydi nihne kınt dephük” türkçe meali hayır seydim biz boğazınızı bile keserdik, bilmem anlatabildim mi",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119853130",
+      "author": "oteberidegil",
+      "date": "21.02.2021 14:00",
+      "content": "olmayan süreçtir.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119853140",
+      "author": "poliyanna",
+      "date": "21.02.2021 14:00",
+      "content": "kendi ülkesini bırakıp kaçan adamlardan ne hayır gelir ki ben mersin sahilde bir tane kendi vatandaşımızı göremiyorum eskiden insanlar sulh içinde sahilde oturur yürüyüş yapar köpeklerini gezdirirdi şuan arapça dışında hiçbir dil konuşan insan göremiyorum tamam kardeşim bana bir zararları yok peki bu kadar hızlı nufuslanan insanlar 10 sene içinde yine zararsız mı kalacak boş yapmayı bırakın bunlar içimizdeki truva atları burda bir savaş çıksa ilk silah doğrultacak olanlar bunlar benim dedem mülk sahibi olarak yanına suriyeli birini aldı acıyıp adama zaman içinde sordu bizde savaş çıksa siz bizi alır mıydınız cevap aynen şu “ le ya seydi nihne kınt dephük” türkçe meali hayır seydim biz boğazınızı bile keserdik, bilmem anlatabildim mi",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119853166",
+      "author": "sari leblebi cumhuriyeti",
+      "date": "21.02.2021 14:02",
+      "content": "ula bu suriyeliler size ne etti. sorsan buradakilere enternasyoneliz, liberaliz, dünya vatandaşıyız falan derler. senin dedelerin zamanında buraya yerleşti diye bu topraklar senin değil. hepimiz insanız ve bu dünyayı paylaşmalıyız. o zaman balkan göçmenlerini çerkesleri kırgızları türkmenleri hepsini geri yollayalım. zaten sizin ve sizin gibilerin bu faşist kafası yüzünden dünyada savaşlar çıkıyor ve bu insanlar mağdur oluyor. şamı, halepi alacağız türkiye ye vereceğiz dese küresel güçler hiç orada suriyeliler var demezsiniz. petrol yataklarına çökelim dersiniz. onun için bir siktirin gidiniz.\n\nekonomideki zayıflamayı da sizinle aynı faşistlikte olan akp ve mhp ikilisine sorunuz. suriyelilerle uğraştığınız kadar bu götverenlerle uğraşsaydınız asıl sorundan kurtulurduk. neymiş suriyeliler toplanmış kavga ediyormuş. kürtler, ccc bıyıklı köpekçiler, conolar falan toplanıp kavga etmiyor zaten. hepsi çok delikanlı hep teke tek dövüşüyorlar. bahanelerinize tecavüz edeyim. suriyelilerin entegrasyonu eğitimi falan konuşacaksınız onları konuşalım.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119853288",
+      "author": "astalavistab",
+      "date": "21.02.2021 14:05",
+      "content": "2023 secimleri icin vatandasliga gecme sureci olur",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119853308",
+      "author": "erdeneris",
+      "date": "21.02.2021 14:06 ~ 15:16",
+      "content": "sahiden buna inanan var?\n\ndostum dünya da ki en kötü şey mezhep savaşıdır. işid denen kanlı terör örgütünün doğması bile bir mezhep savaşı sonucudur. şimdi bu adamlar dönüp hicbir sey olmamış gibi hayatlarına devam edebilir mi sanıyorsunuz?\n\nortadoğunun herhangi bir köşesinde insanların, kalan yarım akıllarında, biriyle karşılaştıkları zaman uyanan ilk imaj nedir? aa arap gardaşım gelmiş mi diyecekler sizce?\n\nne olacağını söyleyim. aha bir sünni geldi diyecekler. aha bir düşman geldi. gelenlerde aha bir şii, bir düşman, beni yerimden yurdumdan eden bir düşman diyecek. çatışma yeniden başlayacak, ya da hiç bitmeyecek.\n\n(bilmeyenler için söyleyelim türkiye ye göçen tüm suriyeli'ler sünni, ülkelerinde kalanlar da şii. esat'ın 70 senedir iktidarda duran meşhur baas partisi de şii partisi. mevcut yönetim iran'dan şii olduğu için destek alıyor.)\n\nmaalesef ülkemizde bu ayrımcılığın çok katmanlısı yaşanıyor. iktidarın büyük ortağı ortalama bir ortadoğu kafasıyla ümmet anlayışını taşıyorken, küçük ortağı etnik farklılıklar üzerinden siyaset yapıyor.\n\ndönelim suriye'ye. bir gerçek var. esat ustalıkla ülkesinde bulunan tüm egitimsiz nüfusu dünyanın dört bir yanına dağıttı. şimdi elindeki damıtılmış nüfusla çok kısa bir sürede ekonomisini toparlamaya başlayacak. bak bize patates satmaya başladı bile.\n\n5 milyon vatandaşını hiç efor sarfetmeden bize iteleyen adamın hem de savaş halindeyken soğuk savaş halinde olduğu başka bir ülkeye, tarım ürünü satabiliyor olması size de ütopik gelmiyor mu?\n\ndemek ki soğuk savaş mavaş yalan. katil esed gitmiş tacir esat gelmiş.\n\ntek bir hakikat var, o da ticaret.\n\nmoney talks.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119853377",
+      "author": "nasuhi",
+      "date": "21.02.2021 14:07",
+      "content": "desteği, yardımı pozitif ayrımcılığı bırakın, gss nı vatandaştan aldığının üç katını alın bakın bakalım hatırı sayılır kadarı gidiyomu gitmiyomu.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY",
+        "CULTURE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119853445",
+      "author": "mokujin",
+      "date": "21.02.2021 14:09",
+      "content": "büyük ihtimal 12 mayıs günü gönderilecektir. ramazan bayramının memleketinde geçirmek için adamlar toplu göç ediyor şaka gibi.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119853473",
+      "author": "asiri derecede serbest muhasebeci 2",
+      "date": "21.02.2021 14:10",
+      "content": "basmane'de eskiden olduğu gibi yeniden türkçe tabela görmek istiyorum. mezarlıkbaşı katlı otoparktan girip çorakkapı camii'ye kadar olan anafartalar caddesi tamamen küçük suriye'ye dönmüş vaziyette.\n\nsadece izmir'de bunun gibi birçok semt suriyeli işgali altında ve tüm türkiye'de de durum farklı değil.\n\nülke zaten işsizlik ve yoksulluk altında ezilirken bir de ucuz işçilikleri yüzünden tercih edilen suriyeliler bir an önce ülkelerine gönderilmelidir. bunu da kim yapacaksa bir an önce yapsa iyi olur.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119853507",
+      "author": "picgurusu",
+      "date": "21.02.2021 14:11",
+      "content": "bunlar sınırdan elini kolunu sallaya sallaya gelmeyecekti.\n\nsınırda özel sahra hastaneleri kurulacak, sağlık kontrolünden geçecek, kısırlaştırılacak, kalacakları mülteci kampına ait çadır numaraları bileklerine künye şeklinde takılacak ve çıkartan sınır dışı edilecek denilecekti. şehirlere kaymaları engellenmeliydi. kadınlar kisirlastirilmasa bile spiral takılmalı yada erkeklere condom zorunluluğu getirilmeliydi. hamile kalan mı var? yallah geri sınır dışı. kesin ve katı kurallar olacaktı. mülteci kamplarına da avrupanın yolladığı fondan katkı sağlanacak, bu suriyeli yaratıkların insan gibi yaşaması sağlanacaktı.\n\nama olmadı. yapılmadı. 10 sene sonra parti arabik suriyeli diye bir terör örgütü oluşur, bir 40 sene de ülke pas denilen terör örgütü ile uğraşır. adnan menderes ülkeye sağ sol kavgasını entegre etti, özal pkk denilen yapıyı musallat etti, erdoğan da bu suriyelileri bela yapacak. bu sağ muhafazakar kafalar, bu ülkenin yerinde saymasını isteyen amerika güdümlü partiler hep.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY",
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119853628",
+      "author": "beyinsiziniz",
+      "date": "21.02.2021 14:14",
+      "content": "geçen hafta bir suriyeli göçmenin kalıcı dönüşüne şahit olmuş biri olarak hâlâ umutlu olduğum süreç.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119853649",
+      "author": "plonaj",
+      "date": "21.02.2021 14:15",
+      "content": "tıp fakültesi bitirmiş olanlar ve ingilizceyi akıcı konuşanlar, hesabında 10 milyon euro’dan fazla olanlar kalıp vatandaşlık için çabalayabilir.\nkalanlar sağ salim ülkelerine gönderilmeli, olsa dükkan sizin.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119853660",
+      "author": "acsr777",
+      "date": "21.02.2021 14:15",
+      "content": "nazilerin yahudileri trenlere bindirdigi gibi bir organizasyon 21. yüzyilda yapilamayacagi icin, o is yas.\n\npolis7asker sinir disi etmek icin sokakta suriyeli avina ciksa, önünde duracak pembe götlü hümanistler ve malum partinin malum secmeni olacaktir.\n\nbunlara karsi yapip yapabileceginiz ya ülkeyi terk etmek, ya da kendinize steril, dis dünyadan bloke edilmis ortamlar yaratmak.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119853681",
+      "author": "msahip",
+      "date": "21.02.2021 14:16 ~ 15:58",
+      "content": "hala daha suriyeliler istisnai vatandaşlık verildiğine inanmayanlar var\narkadaşım 5 yılın sonunda “üniversitede öğretim görevlesi” anca varandaşlığa başvurmaya hak kazandı, görüşmeye gittiğinde sırada bekleyen 15 suriyeli olduğunu ve hepsinin istisnai vatandaşlık başvurularının olduğunu söyledi, bu olay anadolunun küçük bi şehrinde nisbeten mültecilerin az bulunduğu bi şehir",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119853683",
+      "author": "ptah amun ra",
+      "date": "21.02.2021 14:16",
+      "content": "bu süreci başlatmaya, hiçbir istisna gözetmeksizin, tüm suriyeli afgan pakistanlı afrikalı bilumum üçüncü dünya kaçkınını kendi ülkeleri neresiyse oraya ama'sız fakat'sız geri göndermeye söz verecek ve gerçekleştirecek herhangi bir siyasi partiye verebildiğimce maddi manevi destek vereceğim, hiç tartışmasız vatanın bir numaralı beka ve güvenik meselesi olan elzem süreçtir.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119853846",
+      "author": "corsairsgold",
+      "date": "21.02.2021 14:21",
+      "content": "ülkemde suriyeli istemiyorum.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119853928",
+      "author": "justicesword",
+      "date": "21.02.2021 14:24",
+      "content": "birleşmiş milletler mülteciler yüksek komiserliğine (unhcr) göre zaten mülteci geri gönderilemez, sadece bulunduğu ülkede yer değiştirme hakkı bulunulan ülkenin yetkileri arasındadır. durum, suriyelilerin keyfinin kahyasına bırakılmıştır. cepleri dolmazsa giderler.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119854105",
+      "author": "atkinson",
+      "date": "21.02.2021 14:28 ~ 15:04",
+      "content": "türkiye nüfusu maksimum 60 milyon olmalıdır.\nşu an suriye, afgan vs. ile birlikte 90 milyonu aşan\nbir nüfus var.bu nüfus kime yarar ona bakmak\nlazım, vatandaşa meslek sahibine, esnafa faydası\nyok.arz talep meselesi, çok insanla mevcut kaynakları paylaşıyoruz.bu ülke 60 milyonla daha\nzengin bir ülke olur, bundan eminim.\n\ndünya nüfusu 3,6 milyarken fransa 50 milyon\ningiltere 55 milyon, almanya 60 milyon nüfusa\nsahipmiş.türkiye nüfusu 34 milyon kişi olarak\nkayıtlara geçmiştir.\n\nbu süre içinde gelişmiş avrupa ülkeleri yüzde otuz gibi artarken, ülkemiz yüzde iki yüz elli\nartmıştır.bu artış hızınla 2071 yılında nüfusumuz\n220 milyonu bulacaktır.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY",
+        "ECON"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119854143",
+      "author": "c4rdinal",
+      "date": "21.02.2021 14:29",
+      "content": "iki kürdün kamu alanında kürtçe konuşmasına daha tahammül edemiyorum.\nhep bir pkk provokasyonu gibi geliyor.\neskiden ırkçı hastalığına müzdariptim, onun kalıntıları.\nişte bu suriyelileri görünce \"türk, kürt kardeştir.\" diye bağırasım geliyor.\nbazıları geri gönderilemez, burada doğan çocuklar burada kalır ve mecburi ebeveynleri de burada kalır gibilerinden konuşuyorlar.\nülke senin ülken ne için izin alacaksın?\nne gibi yaptırım uygularlar? mesela ekonomik mi? zaten anası sikilmiş.\naskeri mi? rusya ayrı nato ayrı tavır alıyor zaten salakça politikaların yüzünden.\nher türlü yollanırlar kendi ülkelerine merak etmeyin.\ntabii bunun için siyasilerde demir gibi irade olmalı. (bkz: john wick)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119854204",
+      "author": "kotukedi",
+      "date": "21.02.2021 14:30",
+      "content": "savaş bitse dahi bölgedeki kin ve nefret bitmeyecek, şartlar insanlar tarafından el verişi hale geldiği düşünülse sen kal desen dahi bir çok kimse durmayacak.\n\ntürkiye’de ailecek çalışarak geçinemeyen insanlar orada bir kişi çalışıyor olsa tüm aile geçince biliyor imiş.\n\nsuriyelilerin ara eleman, iş yeri, bina ev gibi konutlarını değerlendirdiği ilçe ve iller var.\n\nzor bir durum türkiye için yarar ve faidesi ilerleyen yıllarda anlaşılacak durum.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY",
+        "ECON"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119854254",
+      "author": "kardankara",
+      "date": "21.02.2021 14:31",
+      "content": "bizim suriye'ye gönderilme sürecimiz daha olası,öyle diyeyim dediğim süreç.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "XENO",
+        "POLICY",
+        "HATE"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119854286",
+      "author": "arthon",
+      "date": "21.02.2021 14:32",
+      "content": "ancak, kendi rizalariyla geri gitmelerine yeterince teşvik edebilirsek olabilecek surectir. buradaki irkcilara bakmayin, zorla göndermek direk soykirimdir hukumet cesaret edemez. zaten yapilmasin oyle bir sey.\n\nalmanyada mesela suriyeye donmek isteyenlere baya para destegi saglaniyordu. yoksa almanya bilmiyor mu sinirlara surup gondermeyi?",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119854459",
+      "author": "allah diyen aslan ateist oldu",
+      "date": "21.02.2021 14:37",
+      "content": "doğru ve süreklilik gösteren ekonomik-sosyal politikalar ile göçmen sorunu avantaja çevrilebilir böylece bu her türlü elimizde patlayacak olan sürece gerek kalmaz.\n\n21. yüzyılda organize şekilde milyonlarca insana zorla yer değiştir derseniz her türlü kaynaktan tepki çekersiniz. türkiye'nin bu süreci düzgün idare edecek gücü var aslında ama dünyaya düzgün tanıtacak ve aktaracak gücü yok. bu yüzden zaten bagajı dolu bir ülkeye yeni bir yük katmaya gerek yok.\n\npeki göçmenler (suriyeli diyoruz ama aslında sadece surıyeliler değil) nasıl avantaja dönüştürülür? dünyanın en büyük tüketici pazarlarından birine hemen hemen sınır komşusu iseniz, deli gibi tarım araziniz ve potansiyeliniz varsa genç göçmen candır. mantıklı bir planlama ile türkiye'nin tekstil, tarım, sanayi, elektronik, mobilya vb. alanlarda üretim hacmi arttırılırsa bu göçmen kardeşlere de düzgün iş çıkacaktır. artan hacim sayesinde boş boş gezen türk mühendisler, ekonomi mezunu gençler de fabrikalarda, işletmelerde yerini alacaktır.\n\nemin olun maaşı ile düzgün bir ev tutup, aile kurabilen hiçbir göçmen (ihmal edilebilecek bir oranı hariç) terörize edilemez. bu sistemin iyi çalıştığını almanya ve amerikadan görebilirsiniz. bakın ordaki türk alamancılar iliklerine kadar çomar oldukları halde burdaki benzerleri gibi şeriat isterük, cami isterük diye ağlayamıyorlar.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POLICY",
+        "ECON"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119854503",
+      "author": "suendenbock",
+      "date": "21.02.2021 14:38 ~ 14:45",
+      "content": "hâlâ bir barış anlaşması imzalanmadığı icin karışık bir konu, fakat birkaç net gerçek var:\n\n1) suriyelilerin ciddi bir oranının gönderilmemesi, akp'ye önümüzdeki seçimleri kaybettirir.\n\n2) akp bunun farkında mı bilmiyoruz, ama farkına varması ülkenin yararına olur.\n\n3) suriye'de imzalanacak bir barış anlaşması, muazzam sayıda göçmen dolayısıyla türkiye'nin artık bir iç meselesi haline gelmiş durumda. bu anlaşma imzalanmadan, ne yazık ki kimseyi zorla gönderemeyiz. (aşağıda gönüllü yeniden iskan hususuna değineceğim).\n\n4) göçmen sorunu gibi, ticari ilişkiler, yeniden en uzun sınır komşumuz ile birbirini tanıyan devletler haline gelebilmemiz için, barış anlaşmanın bir an önce imzalanması gerekiyor. imzalanması ve ticaretin, ulke çapında imar faaliyetlerinin yeniden başlaması ve bunlarda türkiye'nin de yer alması ülkemizin net yararına olacak. bunun için türkiye'nin mevcut politikasından farklı, daha yapıcı bir tutum izlemesi gerekiyor.\n\n5) bir barış anlaşması imzalandıktan sonra gerekirse türkiye mültecileri zorla da gönderebilir.\n\n6) anlaşma imzalanana kadar, türkiye içinde yerleşik göçmenlerin türk ordusunun kontrolü altındaki topraklara yerleşmesinin hızlandırılması gerekiyor. o bölgelerdeki nüfusun daha yüksek olması hem türkiye'nin masadaki gücünü arttıracak, hem de anlaşma akabinde gerçekleşecek seçimlerde yeni suriye yönetiminde türkiye'ye yakın siyasi grupların söz hakkını, bütçeden alacakları payı arttıracaktır. (imar faaliyetleri vb).\n\n7) bu nedenle türkiye'nin 1984 yılında alman şansölyesi helmut kohl'ün almanya'daki türklerin, türkiye'ye geri dönmelerini özendirici politikaları gibi, türkiye de suriye sınırları içinde yeniden iskanı özendirici politikalar izlemeli. ülkelerine dönmeleri durumunda her suriyeliye verilecek birkaç bin dolar, uzun vadede türkiye bütçesine büyük yarar sağlayacaktır.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POLICY",
+        "ECON"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119854544",
+      "author": "administration",
+      "date": "21.02.2021 14:39",
+      "content": "kalmak istiyorlarsa kalsınlar amk burası insana en büyük ceza...",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119854644",
+      "author": "redsun",
+      "date": "21.02.2021 14:42",
+      "content": "türkiye’ye milliyetçi hükümetler döneminde atılmış en büyük iki kazıktan birisidir.\n\nsonucu türkiye haritasının değişmesi olacaktır. ne şans ki atılmış diğer kazık, yani aponun idamının tırşıtılması da yerli ve milli partimiz sayesinde olmuştur.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119854729",
+      "author": "ne olacak yau",
+      "date": "21.02.2021 14:45",
+      "content": "böyle otobüslere koyup gönderemeyiz ama siz verin bu kardeşinize yetkiyi görün suriyeliyle mülteciyle nasıl mücadele ediliyor.\nöncelikle bunların sağlık sigortasını komple keserim. devlet hastaneleri de özel hastaneler de eğer muayene olmak istiyorsan ver parayı diyecek. zaten bunu söylüyorlar ama sigortası olmayan türk vatandaşlarını. aynısını suriyeliye de yapacan yani zor değil.\nsonra bunların iş yerlerine ciddi vergi yükü getireceksin. yok öyle benim vatandaşımdan rahat çalışıp kazanmak bu ülkede. bunu da ciddi şekilde denetleyeceksin.\nbi diğer uygulama bunları çalıştıran esnaf vs kim varsa bunu çok çok ciddi şekilde denetleyip en ufak hatada basacaksın ağır maddi cezaları. yani derler ya sallandıracaksın bi kaçını kızılayda diye o hesap. bunlarla iş yapan vatandaşlar korkacak astarı yüzünden pahalı gelecek.\npara karşılığı veya keyfi olarak verilen vatandaşlıkların iptal edilmeleri gerekiyor. burada mülk edinenleri gitmeye ikna olduğunda mülkünün değeri verilerek gönderilmeleri gerekiyor.\ntabi bunlardan önce suriyeyi esad’la anlaşarak savaşın bitmesine uzamamasına ve bunların geri kabulünün kolaylaştırılmasına ikna edeceksin.\nherşey çözülür arkadaş yeter ki çözmek isteyecek irade olsun. bu insanları fakirliğe zaten ister istemez mahküm ettik açlığa da mahküm edebileceğimizi gösterirsek tıpış tıpış giderler.\no yada bu şekilde burada rahat yaşayamayacaklarını anlamaları onlara hayatın burada suriyeden daha zor olacağını bilmeleri gerekiyor.\nben burada ilk aklıma gelen mevzuları yazdım. çok çok daha fazlasını devlet yapabilir. bunlar anormal şeyler de değiller. kabul zor bir mevzu ama muhakkak çözülmesi gereken bir mevzu.\nbaşımızdaki büyük derdin çözülmesi konusunda önerileri içeren başlık.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "CRIME",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119854802",
+      "author": "bad boy",
+      "date": "21.02.2021 14:47",
+      "content": "benim suriyeye gitmem daha olasıdır,adamlar burda düzenini kurmuş işini ekmeğini kazanmış ne diye gitsin ki nasıl gönderebileceksin.bakkaldan ekmek alır gibi adamlara türk kimliği dağıtmışsın en başta hiç almayacaktın,o tren kaçtı yani.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119854947",
+      "author": "fivestars",
+      "date": "21.02.2021 14:50",
+      "content": "suriyelilerin geri gönderilmesinden dolayı en büyük zarar bize olur, suriyelilere olmaz inanın. taşkınlık oranı halkımızla kıyas edilemeyecek kadar düşük, sanayilere gidin tüm ağır ve zor işleri yok pahasına yapıyorlar. ölen çıraklık mesleğini yeniden dirilttiler. dönerlerse onlar için iyi ülke için kötü olur diye düşünüyorum. illa ki birilerini göndermek istiyorsak bu tartışmasız romanlar olmalıdır.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119855005",
+      "author": "erisaa",
+      "date": "21.02.2021 14:51",
+      "content": "bir an önce başlatılması gereken süreç.\nsuriye'li sevip sevmemekle ya da isteyip istememekle ilgisi yok. öyle veya böyle kendi vatanlarından ama isteyerek ama istemeyerek ayrılan bu insanların daha da kök salmadan bir an evvel yurtlarına dönmeleri en az bizler kadar onlar için de en hayırlısı olacaktır.\nne demiş atalarımız; (bkz: ev üstüne ev kurulmaz)\nevet olan tam olarak bu'dur. ev üstüne ve kurulmaya çalışmak hem ev sahine hem ev kurmaya çalışana eninde sonunda zarar verecektir.\ntabii bir de eve lazım olan camiye haramdır, o da ayrı.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119855235",
+      "author": "vatanmilletmersin",
+      "date": "21.02.2021 14:57",
+      "content": "mersin'de öyle teşkilatlandılar, kalabalıklaştılar ki,gideceklerini düşünmek şu saatten sonra hayal diyebilirim. ayrıca her ailenin 10 ar çocuk yapması gelecek adına endişe verici, bu konuda mersin merkez sahili görmeniz lazım tüm türkiyenin 10 yıl sonrası bu şekilde ve daha beter olacak.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119855250",
+      "author": "emirdagliyizbiz",
+      "date": "21.02.2021 14:58",
+      "content": "noldu bizim o iş",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119855275",
+      "author": "dandik tavsan",
+      "date": "21.02.2021 14:59 ~ 15:00",
+      "content": "suriye'deki tüm işgalci güçlerin ve terörist unsurlarının geri çekilmesinin ardından türkiye cumhuriyeti ve suriye arap cumhuriyeti'nin birlikte planlanması gereken süreçtir.\n\nbu işgalci güçlerin içinde suriye'nin kuzeyine çöreklenmiş kürt milliyetçi hareketine ait terör unsurları ve onların sayesinde suriye topraklarına girmiş işgalci amerikan üsleri ve şirketleri de var.\n\ntoprak bütünlüğü sağlandığında, ülkemizde mülteci olarak gelen suriyeli kardeşlerimizin belli bir takvime göre göç ettikleri yerlere gönderilmesi organize edilebilir. zira, suriye arap cumhuriyeti'nin 250 milyar dolar'lık bir alt yapı projesi var. bu proje, iç savaşta yok edilen şehir ve alt yapının yeniden oluşturulmasını hedefliyor. bu takvim çerçevesinde, ülkemizdeki suriyeli mülteciler insanca ve güvenli bir şekilde suriye arap cumhuriyeti ile koordineli olarak ülkelerine geri gönderilebilir. kimse de mağdur edilmez.\n\nancak, sorun bununla sınırlı değil. suriyeliler'in yanı sıra diğer orta doğu ülkeleri, afrika ve afganistan'dan bir mülteci akını var. bu durum, türkiye burjuvazisinin iştahını kabartıyor haliyle: yedek işsizler ordusu, daha ucuz iş gücü ve milliyetçiliğin/ırkçılığın daha rahat konsolide edilerek türkiyeli işçilerin öfkesinin düzen kanallarına aktarılması vs.\n\ntabii ki, gerçekçi olmak gerekiyor. yakın zamanda böyle bir şey olmayacak. suriye'deki konjonktür buna elverişli değil. ne barış olacak, ne de kimse suriye topraklarındaki pozisyonunu kaybetmeye niyetli. o yüzden, suriyeli kardeşlerimizin bir yere gideceği yok. yazının başı ile de çelişecek ama gelenlerin bir daha geri dönmeleri, diye bir şey olmamıştır. çok zor. o yüzden, suriyelileri sınıf kardeşlerimiz olarak kabul edip, sınıf mücadelemizi onlar ile birlikte sürdürmenin etkin yollarını bulmalıyız.\n\nen nihayetinde, başımızdaki tüm felaketlerin, bu yoksulluğumuzun ve yaklaşan toplumsal açlık tehlikesinin sorumlusu, suriyeli kardeşlerimiz değil, onların topraklarını da cehenneme çevirip oradan göç etmelerine den olan burjuvazi, kapitalist düzen.\n\nöncelikle odaklanılması gereken konu da bu...",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POLICY",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119855354",
+      "author": "bassedas",
+      "date": "21.02.2021 15:01",
+      "content": "bu spartaküsün senaristi ne kadar haklı adammış. o kadar oruspu çocuğu romalı varken dizide bir şekilde sadece 1 tane suriyeliyi dizinin en kahpe-kancık adamı olarak göstermişti. sen ne büyük adammışsın. biz seni hiç anlamamışız.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119855519",
+      "author": "gaucho27",
+      "date": "21.02.2021 15:06",
+      "content": "asla olmayacak süreçtir. zaten en başından belliydi bu. muhacir-ensar muhabbeti yapan modern dünya kurallarından bihaber cahiller dışında herkes bu işin buraya geleceğini biliyordu. devletin bu konuda artık yetkisi kalmamıştır. suriyeliler kendi istekleriyle gitmediği sürece burada kalacaklar.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119855522",
+      "author": "notice me kouhai",
+      "date": "21.02.2021 15:06 ~ 15:14",
+      "content": "suriyeliler ile ilgili en önemli başlık köpek gibi ürüyor olmaları ve bu türkiye topraklarında doğan çocuklara türk vatandaşı kimliği verileceği. suriyeliler z kuşağından oy alamayacak olan erdoğan'ın onları oy olarak dengeleyecek karşı tezidir. böyle bir siyasi fayda gütmese bu ekonomik çöküntüde bir gün bile ülkede tutmazlardı ama ne ekonomik zarar, ne toplumsal patlama umurlarında değil hesap başka.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119855778",
+      "author": "vallai yok be abi",
+      "date": "21.02.2021 15:13",
+      "content": "en kısa sürede başlamasını beklediğim süreç",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119855813",
+      "author": "fekat",
+      "date": "21.02.2021 15:14",
+      "content": "bazı arkadaşlar bunlarla yaşamaya alışmış, yazıkmış kıyamazlarmış çocuklar şeker de yiyebilsinlermiş vs. mor çatı cumhuriyeti mi burası. kültürel farklılıkları demografik yapıyı geçtim bunların apartman hayatı bile bizden farklı. ben neden kendi ülkemde benimle aynı geçmişten gelmeyen topluluğa alışmak zorunda bırakılıyorum birden. çocuk ya da yetişkin 3 tanesi bir araya gelince desibel artıyor, 4 senedir hiçbir komşumu yüksek ses sebebiyle şikayet etmemişken geçen ay 4 defa bunlar yüzünden gece vakti güvenliği aradım kaç kez. gece yarısı daire kapıları açık şekilde böğürürek eşyaları ittirmek ya da bahçeme bebek bezi atılması benim alışacağım bir şey değil sayın cihangir solcusu ekşici kardeşim. hümanizm ve ırkçılık arasındaki gri noktayı bulmanız ümidiyle",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CULTURE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119855973",
+      "author": "tekirannesi",
+      "date": "21.02.2021 15:18",
+      "content": "bu saatten sonra olmayacak olan şey, türkiye içinde olanlara un, ab destekli çeşitli sosyal uyum ve harmonizasyon çalışmaları yapılmakta özellikle mersin adana antakya için. cross-border olanları söylemiyorum bile. buyrun merak edenler için rakamlarla suriye krizi usaid",
+      "referenced_content": [],
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119856052",
+      "author": "k hikayecisi",
+      "date": "21.02.2021 15:20 ~ 15:41",
+      "content": "bütün suriyelilerin düşmanı falan değilim ama olması gereken süreç. adamların ülkesindeki savaş eskiye nazaran azaldı. bizim ülkede de eğitimli suriye göçmeni çok az kaldı, çoğu zaten yurtdışına buraya gelir gelmez gitti. tabiri caizse yabancı ülkeler bunları kaptı. burada kalan suriyelilerin önemli bir kısmı ne yazık ki ülke yararına yetenekleri olmayan ayrıca genel ahlaka ve çalışma ahlakına vs. de sahip olmayan kimseler. bir yanda çobanlık yapmak için 10-15 gün yürüyerek türkiyeye gelen afgan çobanlar var, bir yanda ise bir eli yağda bir eli balda, estetik operasyonunu bile türk vatandaşından daha kolay yaptıran suriyeliler... yabancılara karşı külli bir düşmanlık beslemiyorum ancak enayi yerine konulmak da hoşuma gitmiyor.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119856088",
+      "author": "bakalim",
+      "date": "21.02.2021 15:21",
+      "content": "an itibariyle (21 şubat 21) herhangi bir siyasi iradenin olmadığı hede. kamuoyu oluşturmak için troller devreye girmiş olabilir mi, why not.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119856207",
+      "author": "tobiasrieper",
+      "date": "21.02.2021 15:24",
+      "content": "go home suri",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119856240",
+      "author": "agenort",
+      "date": "21.02.2021 15:25",
+      "content": "suriyelilerin gelişi yıllarca önceden planlanmıştı ve suriye sınırındaki mayınlar bile 10 yıl önce bu nedenle temizlettirildi. şimdi suriyelileri geri gönderme işlemi başladığı anda suriye’de bombalar patlar ve tüm dünya medyası anında kanlı görüntüleri servis eder.\n\nherşey 5-6 milyon arap nüfusa yer değiştirtmek ve pyd oluşumuna boş alan sağlamak için yapıldı. bkz: büyük ortadoğu projesi\n\nbaşlandığı anda inanılmaz bir global baskıya maruz kalacağımız süreç.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119856268",
+      "author": "grokeri",
+      "date": "21.02.2021 15:26",
+      "content": "kendimi onların yerine koyduğumda üzülüyorum. ben olsam ben de gelir ve gitmek istemezdim geri. entegrasyon için yapılması gerekenler yapılmamasına rağmen suriyelilerin devlete büyük bir yük olduğunu düşünmüyorum. ancak bu ülkede de işler gittikçe kötüye gidiyor ve en ufak sıkıntıda hep bu suriyelilerden oldu diyerek onlara saldıracak milyonlar var. hepimizin işi zor dedirten bir süreçtir.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "ECON",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119856357",
+      "author": "from the flight deck",
+      "date": "21.02.2021 15:28",
+      "content": "hükümet değişmediği sürece böyle bir şey mümkün olmaz. yeni gelecek hükümette yapabilir mi orası tartışılır. yapar mı değil yapabilir mi",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119856398",
+      "author": "celiktepe cengizhan lisesi",
+      "date": "21.02.2021 15:29",
+      "content": "olmayan ve olmayacak süreç. bu ülkede yaşayıp da mantık çerçevesinde cereyan eden kaç tane olay gördünüz. olması gereken esad'la ya da esed'le anlaşıp bu insanların parça parça geriye gönderilmesidir. ama bizim ülkemiz bok yoluna gitmeye andiçtiği için böyle bir süreç yaşanmayacaktır. kürt sorununun yanına bir de arap sorunu ortaya çıkacaktır. belki de bir arap milliyetçisi terör örgütümüz olacaktır.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119856477",
+      "author": "kendibilir",
+      "date": "21.02.2021 15:31",
+      "content": "ab 2025 e kadar para vermeye devam edecek. instagram hesaplarını takip edin imzalar çoktan atıldı. paralar hesaba yattı. millet konuşur ak parti yapar.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "ECON",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119856585",
+      "author": "henrytudor",
+      "date": "21.02.2021 15:34",
+      "content": "muhtemelen erdoğan sonrası süreçte gerçekleşecek süreç. halk oldukça bu durumdan rahatsız. zaten çok soranda olmadı onlara. kafalarına göre paldır küldür milyonlarca insanı ülkenin her bir köşesine bilinçsizce sürdüler.\n\ntamamen gitmeleri uzun bir süreci kapsayacak hatta sancılı bile olacaktır.\n\nkitleler otoritelerin kararlarına sürekli boyun eğme eğilimindedir. erdoğan sonrası siyasi iktidar halkın taleplerine düşkün bir çizgide ilerlerse bu süreç sancılı da olsa sonlanır.\n\nhayatın en güzel yanı ise daha ne olabilir ki aq diye yaşayıp izlemek. aklına bile gelmeyecek şeyleri yaşamak.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119856663",
+      "author": "mr zecg",
+      "date": "21.02.2021 15:36",
+      "content": "suriyede savaş bittiği için artık geri gönderilmeleri gerekiyor. türkiye'de dükkan,restoran açan kesimi göndermek çok zor. anca burada fakirlik çeken suriyeliler ülkesine döner.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119856739",
+      "author": "jesuschrisa",
+      "date": "21.02.2021 15:38",
+      "content": "türkiyedeki işsizliğin esas sebebidirler. vergi vermezler, kaçak çalıştırılırlar ve piyasanın içinden geçerler.\n\nolan her zamanki gibi türk vatandaşına olur.\n\nöz yurdunda garipsin öz vatanında parya.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119856784",
+      "author": "zanziboy",
+      "date": "21.02.2021 15:39 ~ 15:40",
+      "content": "mülteci almak her ülke de olan bir durum, ama bunun kriterleri vardır dil, eğitim, adli sicil vs ona göre iş açığına meslek açığına göre olur, yada savaş durumuna göre belli bir yerde toplar bm kapsamında bakar savaş bitince yollarsın .. biz ne yaptık sınır yol geçen hanı gel gel dedik en ufak köy ilçe semt şehir yerleştiler sonuç işisizlik cari açık suç oranı vs..\n\neminim muhalefet ilk seçimde paketleyip yollayacaktır bir tanesine bile tahammülüm yok bu insanlıktan nasibini almamış tavşan gibi çoğalmayı bilen ışıd artıklarının..!!",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "POLICY",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119857015",
+      "author": "purepain",
+      "date": "21.02.2021 15:45",
+      "content": "farkında mısınız bilmiyorum ama ülkenin çalışmayan vatandaşı muayene olmak için gss primi öderken onlar ellerini kollarını sallaya sallaya devletimizin imkanlarıyla ücretsiz ilaç ve tedaviye ulaşabiliyorlar. devletin verdiği ptt kartlarla gidip marketlerde güzel güzel alışverişlerini yapıyorlar. bir de demiş yaşamaya alıştık onlar da bizle yaşamaya alıştı diyen arkadaşa şunu demek isterim.\n\nyanlış bir şey yaptıklarında uyarı amaçlı bir iki söz söylediğinde sana \"elini kolunu sallaya sallaya laga luga yapma lan bana\" şeklinde hareketler bulunan bir suriye'li ile karşılaştığında tekrar konuşalım bu konuyu.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "POLICY",
+        "ECON"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119857036",
+      "author": "pikaceronimo",
+      "date": "21.02.2021 15:46",
+      "content": "alışmadık yallahhh evlerinize!",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119857051",
+      "author": "fikir degistirmis adam",
+      "date": "21.02.2021 15:46",
+      "content": "akp gitse de gitmeyecekler. akp'nin bize attığı en büyük kazık bu suriyeliler. yolcu garantili havalimanları geçiş garantili köprüler hasta garantili hastaneler falan neyse sadece maddi zararla kurtarırız ama bilinçli olarak ülkenin demografisine vurulan bu darbenin acısını ilerleyen yıllarda çok feci yaşayacağız. ülkemize milletimize geçmiş olsun.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO",
+        "ECON"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119857213",
+      "author": "fikiri",
+      "date": "21.02.2021 15:50 ~ 15:52",
+      "content": "getirenler buradayken, gelenler kendiliğinden gitmez.\n\nedit: 1 kelime ilave.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119857219",
+      "author": "mguzun",
+      "date": "21.02.2021 15:50",
+      "content": "ekonominin bozulma sebepleri arasinda gosterilen millettir. fakat bugun kurumsal olmayan hemen hemen her uretim isletmesinde, sigortasiz ve asgari ucretten dusuk ucretlere calistirilan da yine bu insanlardir. ekonomik olarak darbogazda olunan bu yillarda karsilikli menfaatler dogrultusunda is bulmaktadirlar.\nhem suriyeli kadar afgan ve turkmen de coktur. zeytinburnu ilcesinin islek bir caddesinde bir yuruyuse cikin, turkce dil konusuldugunu duyamazsiniz bile. suriyeliker genellikle tekstilde calisirken, afgan ve turkmenler ise kurye islerinde sigortasiz olarak calismaktadir. simdi bu insanlaei toparlayip nasil gondereceksiniz?\nbunun yollarindan birisi en ufak hatalarinda devlet politikasi ile ailecek deport edip kara listeye almaktir. buna hayir demem gerekir fakat demek icimden gelmiyor. ben de gayet rahatsizim bu durumdan.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY",
+        "ECON"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119857323",
+      "author": "xycromkanzukakoysun",
+      "date": "21.02.2021 15:54",
+      "content": "suriyelilikere azınlık diyen gerizekalı da gördü bu sözlük",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119857387",
+      "author": "e phd",
+      "date": "21.02.2021 15:55 ~ 16:05",
+      "content": "türkiye'de kadın başına düşen ortalama çocuk sayısı 2.1 civarında (kürtler dahil). suriyeli mültecilerde kadın başına düşen çocuk sayısı 5.6 civarında. türkiye diğer gelişmiş ülkelerdeki gibi nüfus konusunda yavaşlama evresine giriyor. birkaç on yıl sürmeden yaşlı nüfus, genç nüfus oranını geçecek. tabi bu varsayım yerleşik nüfus için geçerli. fakat mültecilerde tam tersi bir durum gerçekleşiyor. mülteci nüfusu neredeyse üç kat hızla artıyor. bu durum politik, ekonomik ve toplumsal olarak birçok soruna neden olacaktır.\n\nayrımcılık ve yabancı düşmanlığı yerine, türkiye'de kaldıkları süreç içinde eğitim alternatifini düşünmemiz gerekiyor. en azından çocuklar okula devam edebilmeli. aksi takdirde daha büyük problemler ortaya çıkacak.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119857400",
+      "author": "offguard",
+      "date": "21.02.2021 15:56",
+      "content": "türk askeri kuzey suriye'de güvenli bir bölge oluşturdu artık. buradaki suriyelileri peyderpey gönderip ülkelerinde yeni bir hayat kurmalarına yardımcı olmalıyız. bu politika hem onlar için hem de bizim için oldukça karlı bir iş olur. sadece ekonomik olarak değil, siyasi olarak da büyük bir koz olur elimizde. malum güney sınırlarımız terör örgütleri tehdidi altında, böylelikle türkiye sınır ötesini de kendi kontrol edebildiği bir alana hakim olacak.\n\nayrıca türkiye orada yeniden yapılaşmanın kurulması ve yeniden ticari hayatın sağlanması için de yardım eder. iki taraf da birbiri için katma değer oluşturmaya başlar.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POLICY",
+        "ECON"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119857718",
+      "author": "yavrumbibakarmisin",
+      "date": "21.02.2021 16:04",
+      "content": "madem kalmalarını istiyorlar. o zaman türkler ve diğer etnik gruplar gibi vergilerini ödesinler. devlet destekleri çekilsin. bak o zaman suriyeliler’i gönderme sorunumuz oluyor mu? tıpış tıpış kendileri giderler.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY",
+        "ECON"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119857788",
+      "author": "silver wings",
+      "date": "21.02.2021 16:06 ~ 22.02.2021 08:06",
+      "content": "muhalefetin bütün konuşmalarında yer vermesi, izlenecek yol haritasını detaylandırması gereken konu budur. direkt seçim kazandırır.\n\ntabii ki insanları palas pandıras kapı önüne koyalım demiyorum, insani ihtiyaçları ve güvenliklerini sağlayarak sınırlarımızın dışında bulundurmalıyız.\n\naksi takdirde o ab nin verdiği 3-5 milyar euroyu bırak, önümüzdeki yıllarda trilyonlarca dolar versen çözülemeyecek çok yönlü problemlerle karşılaşacağız, hatta karşılaşıyoruz.\nbilmiyorum belki de çok iyimserim ve çoktan geri dönülemez noktayı geçtik.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY",
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119857806",
+      "author": "wtfiswrongwithme",
+      "date": "21.02.2021 16:07",
+      "content": "siyasi propaganda amacıyla getirilmişlerdi, yine aynı amaçla geri gönderilirler.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119857825",
+      "author": "kaybedince sadakati artan adam",
+      "date": "21.02.2021 16:07",
+      "content": "yardım edilmesin demiyorum, çoğu kişi demiyor zaten ama ülkenin tamamına yayılmasınıda desteklemiyorum\n\nkamplarda vs bakılsın yardım edilsin okey\n\nama büyükşehirlere dağılmalarına müsade edilmesi kasıtlı bence, eğer müdahale edilmezse 20 sene sonra ciddi bir nüfusa sahip olacaklar\n\nsavaş bittiğine göre herkes evine dönebilir\n\nzaten kahraman türk ordusu suriyenin kuzeyinde belli bölgeleri güvenli hale getirdi yani uzatmaya gerek yok\n\nha bunlar potansiyel akp seçmeni olduğundan gönderilmeleri çok zor\n\nallah korusun olası bir toplumsal çatışmada bunları en önlere süreceklerdir",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119857919",
+      "author": "enzo kilima",
+      "date": "21.02.2021 16:10",
+      "content": "böyle bir şeyin olacağını maalesef düşünmüyorum. esad gitse bile. en azından büyük bir çoğunluğu ülkemizde kalacak.\nnot: suriyeliler ile ilgili gerçekleri öğrenmek için murat erdoğan okunmalı. sahadan çok güzel veriler elde ediyor kendisi ve ekibi.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119858080",
+      "author": "cakmayazar",
+      "date": "21.02.2021 16:14",
+      "content": "o iş zor. herkesin içten içe bildiği gibi en az %25i kalacaktır.\ndoğurmuş, okumuş, çalışmış. dogurduklari okuyorlar. askerlik çağına geldikleri zaman ne olacak? suriye sorunu çözülecek mi? askerliğini de yapmış adama git mi diyeceksiniz? almanya türkiye vatandaşlarına böyle mi yaptı?",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119858118",
+      "author": "iefci",
+      "date": "21.02.2021 16:15 ~ 16:18",
+      "content": "türkiye'de yaşayan suriyeliler enayidir. bunların avrupa'da yaşayan akrabalarının yediği önünde yemediği arkasında. çocukları almanca, ingilizce öğrenirken türkiye'de mal gibi esenyurt ve fatih'de güneş görmeyen bodrum katlarında, tek göz odada yaşıyor.\n\nbiraz kafası çalışan ne kaybettiğini anlayıp avrupa'ya gitmeye çalışıyor. son sınıftayken suriyeli öğrenci vardı sınıfımızda ingilizcesi çoğumuzdan iyi, türkçe öğrenmiş zaten arapça biliyor bir de ülkesi savaşta olduğundan kimi avrupa ülkeleri kolay vize verebiliyorlar. en azından işe yaramaz ayak takımına mülteci vizesi vereceğime iş görür gençler gelsin diyebiliyor. hala mevzu çözülmeden hareket etme şansınız var suriyeliler türkiye hasta bir adamdır buradan ne türke ne kürde derman olmuyor ki size olsun.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119858137",
+      "author": "bir beyfendi",
+      "date": "21.02.2021 16:16",
+      "content": "akp hükümeti döneminde gerçekleşmeyecek olan süreç.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119858139",
+      "author": "zalna",
+      "date": "21.02.2021 16:16",
+      "content": "biraz zor gibi o iş.\nzaten insanımızda vatan bilinci kalmadı.\ngüneydoğu bölgesinde millet evlerini, dükkanlarını bunlara sattılar, üç kuruş fazla para uğruna.\ngit gide suriyeliler ile evlilik furyası artıyor.\nülkenin batısında olmayabilir ama güney ve doğu taraflarında suriyeliler el üzerinde tutuluyor.\nvatanı uğruna ölmeyip kaçan insanlar, hapishaneden kaçanlar, suçlular, suriye'nin işe yaramaz ne kadar insanı varsa; bizim ülkeye aldık, artık gitmezler de, gönderemezlerde.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY",
+        "ECON"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119858210",
+      "author": "offline yarim",
+      "date": "21.02.2021 16:18",
+      "content": "daha fazlası gelsin, akın akın gelsinler, çoluklu çocuklu gelsinler, burada da çoğalsınlar. ben o kırılma noktasını bekliyorum. geldik gidiyoruz olmasın. dayanırsa bıçak kemiğe nasıl dayanıyor, taşarsa sabır nasıl taşıyor merak ediyorum. olumlu, olumsuz bakan herkesin son raddesi nedir bi görelim.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "CULTURE",
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119858364",
+      "author": "cumaya giden domates",
+      "date": "21.02.2021 16:22",
+      "content": "ülkemden gitmelerini istiyor olmam beni ırkçı yapacaksa, buna razıyım. tavşan gibi çoğalan, önümüzdeki birkaç yılda iyiden iyiye sorun yaratacak milyonlarca işe yaramaz insanın bir an önce ülkelerine gitmelerini istiyorum.\n\narap kültürünü ve onun uzantılarını bu ülkeye ne kadar yabancılaştırırsak o kadar rahat ederiz.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119858463",
+      "author": "dear brother",
+      "date": "21.02.2021 16:25",
+      "content": "bu iş misafirliği çoktan geçti artık iyice kabak tadı vermeye başladı. şu yaşadığımız gıda krizi ve ekonomik sıkıntıların en önemli nedenlerinden biri de kesinlikle bunlardır. savaş denilen bir şeyde kalmadığına göre artık bokunu çıkarmadan evli evine köylü köyüne denmesi gerekiyor. ileri zamanlarda çok ciddi sosyal problemlerin ortaya çıkmasıyla alakalı ciddi endişelerim var. ancak mevcut iktidarın bunu yapmayacağını biliyoruz. artık suriyelileri kim geri göndermeyi ciddi ciddi taahhüt ederse o kişiye oy vermeye hazırım.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119858501",
+      "author": "rock3r",
+      "date": "21.02.2021 16:26",
+      "content": "oy versinler diye \"suriye kökenli türk vatandaşları\" yapıldıkları için gitmeyecek vatandaşlardır. seninle aynı haklara sahip, o da seni kovabilir.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119858506",
+      "author": "honey ryder",
+      "date": "21.02.2021 16:26",
+      "content": "hiçbir zaman olmayacak bir süreçtir. boş yere umutlanmayın.\n\n4-5 sene oturup alıştıkları yerden ayrılmak istemezler.\n\nbu kontrolsüz göçün maliyeti çok ağır olacak ülkemize. gelecek nesiller ağır sövecek bizlere.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119858633",
+      "author": "svdaxi",
+      "date": "21.02.2021 16:29",
+      "content": "suriyelilerin çoğunun gitmeyeceğinin hepimiz farkındayız. her zaman söylüyorum, akp'nin ülkemize attığı en büyük kazıklardan birisi ve bunun bir telafisi olmayacak maalesef, geri dönüşü yok bu durumun. ayrıca başlık altında almanya'daki türkler ile bu durumu kıyaslayanları gördüm. iki durumun birbiri ile alakası yok, yanlış bir kıyas, bunu savunma argümanı olarak kullanmayın.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119858793",
+      "author": "kirpiiii",
+      "date": "21.02.2021 16:34",
+      "content": "bunları göndermeyi taahhüt eden parti ve ya siyasi kişi iktidar olacaktır. oyum da kendisine olacaktır.\n\nbunları bu ülkeden defetmek vatan görevidir. gerisi boş.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119858945",
+      "author": "atsizkafkas",
+      "date": "21.02.2021 16:38",
+      "content": "(bkz: gelmeyecek olanı beklemek)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119859154",
+      "author": "tenbel teneke",
+      "date": "21.02.2021 16:44",
+      "content": "mültecileri oy deposu olarak görmesinden ötürü akp tarafından yapılmayacağı açıktır, olur da bir gün muhalefet başa gelirse yapacağı ilk işlerden birisi kesin geri dönüşleri için planlamayı yapmaktır.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119859156",
+      "author": "ici guzel olan insan",
+      "date": "21.02.2021 16:44",
+      "content": "onlar gitmezer artık diyen mallar, gidince gelin yazın yine buralara.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119859431",
+      "author": "harleykiss",
+      "date": "21.02.2021 16:52",
+      "content": "üreme hızlarıyla ülkemize önümüzdeki yıllarda büyük sorunlar açacağı belli olan bu toplumun gönderilmesi konusunda neden kimse adım atmıyor? gerçi akp'den bu konuda bir adım beklemek komik olur. akp'liler ne düşünüyor acaba bu konuda? vergi vermeyen, sırtımızdan geçinen, ekonomimizin içine sıçılmasında hiçte az olmayan etkiye sahip olan ve her geçen gün hızla çoğalan bu topluluk ilerde başımıza ne belalar açacak acaba? ama akp yaptıysa sorun yok değil mi? yazık bu ülkeye.\n\nilk seçimde akp'den kurtuluyoruz zaten. oy oranları ortada. %1-2 kitlesi olan partilere bile yanlıyorlar çaresizlikten. ama artık bitti. bu millet sizi seçmeyecek artık, buna inanıyorum. gelen iktidardan ilk taleplerimizden biri şu suriyelileri geri göndermesi. bunu yapsın zaten +1 dönem seçilmesi garanti olur. bakmayın akp'lilerin ses çıkarmadığına, onlarda istemiyorda işte ses çıkaramıyorlar.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "ECON",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119859442",
+      "author": "navelina",
+      "date": "21.02.2021 16:53",
+      "content": "suriyeli mülteci sorununu,yoldan geçerken suriyeli görüp hatırlayan veya herhangi bir yer veya kafede nargile tüttüren suriyeli gördüğünde milliyetçiliği kabaran,tek isteği suriyelilerin tahliye edilmesi olan ve sonucunda türkiye’nin kaldığı yerden devam edebileceğini düşünen yurdum insanının,bu durumu çok basite indirgediğini hayretler içinde izliyorum.maalesef hiçbir şey göründüğü gibi değil.söylenecek çok şey var.medyada görmediğiniz bilmediğiniz o kadar şey var ki,bence en iyisi susun.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE",
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119859604",
+      "author": "hacktor",
+      "date": "21.02.2021 16:58",
+      "content": "hiç azımsanmayacak bir kitle sırf bu yüzden malum partiye sırt çevirdi, kendileri de bunu biliyor ama ümmet sevgisi ağır basıyor adamlarda, sen ben değil onlar önemli.\n\nbunları yeri geldiğinde avrupa birliğine karşı koz olarak da tuyuyor orasını anladık ancak buradan yenecek ekmek bence fazlasıyla yendi, ortada savaş gibi bir tehdit olmadığı da biliniyorken her anlamda entegrasyon sorunu yaşadığımız bu güruhla artık daha fazla aynı havayı solumak istemiyor insanlar.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119859619",
+      "author": "nuuksio",
+      "date": "21.02.2021 16:58",
+      "content": "secim vaadi yapan kazanir, öyle bir surec",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119859745",
+      "author": "peni",
+      "date": "21.02.2021 17:02",
+      "content": "bu politikayı kararlı şekilde uygulamaya alan siyasi iradeye akp dahil sorgusuz sualsiz oy vermeyen en adidir. risk budur.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119859837",
+      "author": "afilli nick bulmak icin 2 sene bekledim",
+      "date": "21.02.2021 17:04 ~ 17:58",
+      "content": "çok zor olmayacak bir süreçtir. suriyelilere verilen resmi, gayri resmi ayrıcalıkları kesin bir aya kalmaz hepsi ülkeden kaçar. kalıp vergisini ödeyen benim gibi ülkenin yükünü çeken suriyeliler de varsın kalsin ülkemizde.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119859886",
+      "author": "anofelcinsidisisivrisineginkocasi",
+      "date": "21.02.2021 17:05",
+      "content": "sanki türkiye cumhuriyeti islam üzerine inşa olunmuş gibi dünyanın neresinden müslüman varsa bizim ülkeyi ele geçirmiş islamcılar tarafından davet olunuyor. bu ülkeye reset atmak lazım, reset.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "CULTURE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119860135",
+      "author": "siir okuyan cocugun sakiz olmus tukurugu",
+      "date": "21.02.2021 17:11 ~ 17:13",
+      "content": "(bkz: akp sonrası yeni hükümetten beklentiler/@siir okuyan cocugun sakiz olmus tukurugu)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119860163",
+      "author": "psychodelique",
+      "date": "21.02.2021 17:12",
+      "content": "hepimiz insanız hepimizin insani duyguları var,her insan onurlu bir şekilde,kendini güvende hissedeceği bir ortamda yaşamayı hak eder.\n\nbizim atalarımız da kendileri yaşayamayacağını bilerek;ailelerinin,çocuklarının güvenli bir ortamda yaşaması için canlarını feda ettiler.bu özverili fedakar davranış sonrasında da hepimiz vatanımızda ölüm korkusu olmadan yaşadık.\n\nben bir yurttaş olarak suriyeli,afgan,sayısı yüzbinden fazla olan hangi ırk varsa (vatanperver kürtler hariç) hepsinin,gerekli güven ortamı sağlandıktan sonra vatanlarına sağ sağlim gönderilmesini ve bunun bir an önce yapılmasını istiyorum\n\nhepimiz biliyoruz ki;devlet eliyle zorunlu geri dönüş sağlanmadığı sürece hiçbiri gitmeyecek,vatanları güvenli olsa da dönmeyecekler.\n\nbizim atalarımız,karısı çoluğu çocuğu bu duruma düşmesin diye cephede canını feda edebilmişken,edemeyenlere haddinden fazla yardımımız olmuştur,herhangi bir vefa borcu beklemiyorum, ki bir vefaya sahip olduklarını da düşünmüyorum.\n\ncumhurbaşkanlığı seçiminde,parti ayırmaksızın hangi parti lideri bunu vadederse oyumu o partiye vereceğim.\n\nçevremdeki dostlarım,tanıdıklarım ve gelecekteki çocuklarıma da herhangi bir kin ve nefret aşılamadan sağ duyululukla bu sorun için bir toplum bilinci oluşturulması adına milli bir duruş öğütleyeceğim",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119860239",
+      "author": "patimiyav",
+      "date": "21.02.2021 17:15 ~ 22:14",
+      "content": "aslında sözünü edildiği gibi alt katmanlardan suriyelilerse gelen avusturalya, norveç'in benzeri geçmişi bulunan insanlarca oluştuğunu biliyorsanız değişen demografik yapıyla anadoluda farklı bir oluşuma neden olabilecek kadar çoklar, benzeri bir değişime neden olabilirler ve sanıyorum ki uluslararası yasalarla kalıcılar. başka bir açıdan, anadoluysa hep çok kültüreldi, bu kadim topraklarda yitip giden, solmuş çiçeklerin yerine başka çiçekler açtırılıyor. her daim işleyen evrimsel süreç işlemekte ve evrimsel süreçte elenecek halklardan birisi belli oldu gibi bakalım sırada başka kimler var?",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119860471",
+      "author": "kapacake",
+      "date": "21.02.2021 17:21",
+      "content": "ay hadi inşallah.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119860598",
+      "author": "sparki",
+      "date": "21.02.2021 17:25",
+      "content": "bir sabah ansızın giderler. hiç kimse 10 milyon göçmeni ülkede tutmaz. akp bir iş yaptı geri alamıyor. zengin adam için iyi ama zenginin oyu 1 oy fabrikasında çalıştırdığı adamın oyu da 1 oy. 1 zengine 10 bin fakir düşüyor.\n\nakp'nin oy kaygısı olmadığı için çekiyoruz bu adamları. ne ülke bütcesi kaldırır bunları ne ülke yapısı. akp gidince bunlar da gider.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119861052",
+      "author": "pastayiyindiyenkralice",
+      "date": "21.02.2021 17:38",
+      "content": "dükkanlarından vergi alırsan, sağlık hizmetlerini bedava vermezsen sihhkkke sihkkke giderler. araplaşmayacağız bunu aklınızdan çıkarın.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY",
+        "ECON"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119861107",
+      "author": "thomaskenobi",
+      "date": "21.02.2021 17:39 ~ 11.03.2021 21:26",
+      "content": "ihtiyaçtan değil mecburiyetten türkiye topraklarında ağırlanmaları göz önünde bulundurularak gerekli imkanlar oluştuğunda ziyaretleri son bulmalıdır. ancak bu, işin teorik boyutudur ve böyle bir şey olsa bile yine de hatrı sayılır miktarda suriyeli ülkede kalmaya devam edecektir. bu noktadan sonra yapılması gerekenin kalan nüfusu entegrasyon programına sokmak ve halkı ırkçı söylemlere karşı eğitmek olduğu kanaatindeyim.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POLICY",
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119861812",
+      "author": "yorgunsiyaset",
+      "date": "21.02.2021 17:59",
+      "content": "artık lütfen gitsinler! bir haber çıkıyor olayın sonunda 2 suriyeli yaralı 1 arap vefat etti diye. olayın yaşandığı yer türkiye. en kısa zamanda ülkemizi terk etsinler artık!",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119861902",
+      "author": "nomorecliche",
+      "date": "21.02.2021 18:01",
+      "content": "türkiye cumhuriyeti ve milleti için bir hayli zorlu fakat iyi yönetilir ise çok hayırlı bir süreç olacaktır. muhafazakarından, sekülerine, kürtünden türküne (vatanını seven) herkesi ilgilendiren bir konudur.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119861944",
+      "author": "peeves",
+      "date": "21.02.2021 18:02",
+      "content": "beni kaygılandıran sıradan suriyeliler değil ama bunlar arasında selefi cihatçılık çok kolay yayılabilirmiş gibi geliyor. bakalım göreceğiz nasıl olacak.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119862029",
+      "author": "sodalimeyve",
+      "date": "21.02.2021 18:04",
+      "content": "olmayacak surectir.\n\nadamlara. gecici koruma statusu adi altinda tc kimlik numarasi verildi. telefon internet aboneligi alabiliyor, banka hesabi acabiliyor. hatta motorlu tasit sahibi olabiliyorlar.\n\nyani bir turk tc vatandasindan farklari yok. turkiyeye de gayet alisip adapte oldular. kendileri istemedigi surece asla gonderilemeyeceklerdir.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119862051",
+      "author": "funnystuff",
+      "date": "21.02.2021 18:05",
+      "content": "hizlica gerceklesmelidir zira suriye'de artik aktif bir savas kalmamistir. turkiye ise ekonomik bir savas icerisindedir. milyarlarca dolarin multecilere harcanmasi da bu ekonomik savasin daha bastan kaybedilmesine sebep olmaktadir.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "ECON",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119862186",
+      "author": "bakta biraz feyz al",
+      "date": "21.02.2021 18:09 ~ 18:17",
+      "content": "kimsenin alıştığını falan sanmıyorum. pandemiden dolayı ve ağırlaşan ülke şartlarıyla birinci sorun olarak görülmeyebilir ama şimdilik. hiçbir ülke bu kadar sığınmacıyı kaldıramaz. üstelik tam sayısı bilinmiyor ve ne yaptıklarından da devletin haberi yok.\nmevcut iktidarın bu sorunu çözecek ne niyeti ne de kabiliyeti var.\ngelecek yeni iktidar sağlam bir siyasi irade ortaya koyarsa çözülebilir. bir an da olmaz, zaman alabilir ama sonunda çözülür.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY",
+        "ECON"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119862239",
+      "author": "kiwilla",
+      "date": "21.02.2021 18:10",
+      "content": "bu adamlar türk vatandaşı yapılmadı mı? nereye gidiyolar? doğan çocuklar kesin türk vatandaşıdır zaten, türk vatandaşı olmayan ebeveynler mavi kart, yeşil kart, neyse onlar sayesinde kalır zate ülkede. yani bi yasa çıksa ülkelerine dönmeleri zorunlu kılınsa bile.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119862329",
+      "author": "badcapacitor",
+      "date": "21.02.2021 18:13",
+      "content": "ülkemde bir tane bile istemiyorum bunlardan. orada ne kadar işe yaramaz varsa hepsini yolladılar. ileride bunlar bize karşı cephe oluşturacaklar.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119862591",
+      "author": "wild honey suckle",
+      "date": "21.02.2021 18:20",
+      "content": "aklıma efsane bir sosyal medya yorumunu getiren süreç.\n\nekran görüntüsünde hafif balık etli seksimsi arap bir abla taksim meydanında yürüyor, yorumlarda sapık olmaya meyilli ama milliyetçi bir abimiz de \"offf mükemmelsin aşkım ama şaka maka artık herkes ülkesine\" yazmış daksjdnma. bence türk insanın tüm bu sürece bakışı işte bu.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO",
+        "SEXUAL"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119862665",
+      "author": "carmex",
+      "date": "21.02.2021 18:22",
+      "content": "maalesef geri doneceklerine inanmiyorum, cok ama cok yazik.\n\nolmayan surectir.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119863016",
+      "author": "nobody0770",
+      "date": "21.02.2021 18:31",
+      "content": "kendi ülkelerine dönmeleri türkiye'nin demografik yapısına olumlu etki yapar",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119863064",
+      "author": "tuesta",
+      "date": "21.02.2021 18:32",
+      "content": "gecmis olsun artik cok zor, kacak bile olsa belli bir sure sonra geri gonderemiyorsun, uluslararasi sozlesmeler var.\n\nbu saatten sonra baska multeci almasinlar o da olumlu",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119863248",
+      "author": "luisnanii",
+      "date": "21.02.2021 18:37",
+      "content": "suriyelilere alışmalıyız çünkü onlar bizim din kardeşimiz. haliyle insan kardeşini kovamayacağına göre reis de kardeşlerini geri göndermeyecektir.\n\nreis mültecileri ülkeye adapte etmeye çalışacaktır. veya biz onlara adapte olacağız. ilk iş her kamu kurumuna arapça bilen memur almakla başlayabilir.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POLICY",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119863599",
+      "author": "benimadimfatiko",
+      "date": "21.02.2021 18:46",
+      "content": "geçmiş olsun artık, ne yaparsak yapalım dörtte birini bile geri gönderemeyiz. ben 10 yıla kalmaz çoğunluğunun vatandaşlık alıp, siyasi bir parti kurup, türkiye siyasetinde parametreleri değiştirecek bir oy potansiyeline sahip olacaklarını bile düşünüyorum.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119863801",
+      "author": "emesdos",
+      "date": "21.02.2021 18:51",
+      "content": "google'da devlet bahçeli'nin ve \"milli güvenlik sorunu\" dediği kişi ve kurumlara baktım. chp'yi, kılıçdaroğlu'nu, zillet ittifakı diyerek millet ittifakını ve en son ali mahir başarır üzerinden yine chp'yi milli güvenlik sorunu olarak işaret etmiş.\n\nben, işin insani kısmı bir yana, \"milli güvenlik\" sayın bahçeli'nin ilgilendiği bir konu olduğundan, 5-6 milyon suriyelinin milli güvenlik sorunu olma ihtimali üzerine ne düşündüğünü gerçekten merak ediyorum. kılıçdaroğlu kadar bu konu üzerinde de düşünülmüştür diye düşünüyorum.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119863901",
+      "author": "iknoweverythingifyoubelieveit",
+      "date": "21.02.2021 18:54",
+      "content": "yabancı düşmanı değiliz ama bu durum normal değil..olan bize oldu.. zengin bir ülke de degiliz ki...naapalım geldiler, dünyanın her yerinde olduğu gibi kimsenin yapmak istemediği göçmen işleri yapıp yaşayıp gitsinler. ama bu argüman bile, sınırlı sayıda göçmen için geçerli olabilirdi. bu kadar çok sayıda göçmen büyük sorun.. gideceklerini zannetmiyorum, en fazla kamplardakiler geri gider. yarısından fazlası burada kalacak ve olumsuz demografik ve ekonomik etkileri kaçınılmaz..",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119864151",
+      "author": "napolyon19",
+      "date": "21.02.2021 19:01",
+      "content": "nah giderler. biz gideriz onlar kalıcı anlayın artık",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119864276",
+      "author": "ignitedvengeance",
+      "date": "21.02.2021 19:05 ~ 19:05",
+      "content": "her gün türkiye'den gitmek isteyen insanların türkiye'de kalmak isteyen suriyelileri anlamamaları çok acayip. sen avrupa'ya, amerika'ya gidince orada adam sana buradaki suriyeli gibi bakmıyor mu sanıyorsun? tam bir inception durumu. komşunun yeşil çimlerini beğenmekten gözlerimizi alamıyoruz.",
+      "referenced_content": [],
+      "has_external_url": false
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119864297",
+      "author": "asjw",
+      "date": "21.02.2021 19:05",
+      "content": "olmayacak süreçtir. bunun yerine türkiye'de kalıcakları kabul edilip ona göre politikalar geliştirilir topluma entegre edilirlerse, ancak o zaman yakın ve uzak gelecekte hem türkiyeliler hem de suriyeliler sorunsuz yaşayabilirler.",
+      "referenced_content": [],
+      "has_external_url": false
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119864312",
+      "author": "soyasosu",
+      "date": "21.02.2021 19:06",
+      "content": "türkiye haritasına bakınca istanbul nerede yazıyorsa tam da onun ortasında kalan bir muhitteyim. apartmanımızda bizin dışımızdaki tek türk aile apartmanın sahipleri olan hissedarlar. şöyle söyleyeyim ben apartmanımızdakilerden memnunum. gayet kibar, sessiz, sakin, merhaba diyen teşekkür eden insanlar bunlar. fakat sokağa bir çıkıyorum üzerine yürüyenler kaldırımlarda pislik bırakanlar çöp dökenler maske takmayanlar bağırarak konuşanlar kadınlara öküz gibi bakanlar çoğunlukta.\nbu insanların entegre olamamaları şuan değil ileride 10-20 yıl sonra çol daha somut problemler sosyal ve ekonomik problemler ve güvenlik riskleri açığa çıkaracak. ve bunun pek azı onşarşa ilgili. bu ülke insana değer vermek için değil onu malzeme olarak görmek için tasarlanmış. kendi bütünlüğünü sağlamak için yeri geldiğinde feda edilen, sistemlerin oluşturulması için siyasette oy deposu olarak, global rekabette ve mikro ölçekte düşük ve orta teknoloji sektörlerimiz için ucuz ve sömürülen işgücü kaynağı, yeri ve zamanı geldiğinde kimsenin hesabını vermeyi gerekli görmediği şehit verilen asker, kaliteden yoksun ürünlerin dayatıldığı iç pazar kaynağı yani kısaca düşük standartlar dayatılan ve eğitimsiz ve aç bırakılarak sömürülecek olan, az sayıda zümreden oluşan çıkar birlikleri için (örneğin devlet organları ve bundan nemalanan siyasi parti elitleri veya tüsiad mesela) ya da gerekli gördüğü kaynakları en uygun ve ucuz şekilde sağlayan, bunlarla baş ederken yaşamayı kaçıran ve kendi devinimini yeterince sağlayamayacağı için demokrasi ve kuvvetler ayrılığı gibi vazgeçilemez olan ve buna rağmen hiçbir zaman asgari kapasitede kullanılamayan, hakları ya zorla teslim edilen ya da pratikte yok olan (anayasal temel hakların adeta ohaldeymişçesine kullanılamaması son boğaziçi örneği) ve nihayetinde gelişemeyen, hukuk algısı olamayan, biatçı ve kolay yönlendirilen ve fitne ve fırsatçı şekilde açgözlülükle kendini kurtarmak için birçok insani değerini yok sayan ve belki de geliştirememiş olan ve en kötüsü de haksızlığa başına birşey geleceği için susan ve sırasını beklemeyi seçen bir yığın oluşturdu.\nunutulmaması gereken bu ülkede kimsenin bizlere hesap verme yükümlülüğünün olmaması.\n\nzira bunu biz seçtik.(hayatımda hiçbir dönem akp'ye oy vermedim ama ben bu milletin çocuğuyum ve kaderim de bu milletle. yurtdışında yaşasam ailem, akrabam yani vatandaşım meshul ve maruz. bireysel kurtuluş diye bir şey yok. varsa bir yurttaşlık birliği söz konusu olamaz. bu tıpkı yetiştirdiğin bir çocuğun reşit olmadan suça bulaşmasındaki sorumlulupundan kaçınamaman gibi geliyor hem vicdanen hem de hukuk karşısında)\n\nsözün özü, suriye sorunu türkiye'nin tek başına çıkardığı bir konu değil. suriyeli göçmenler sorunu ise çok kabaca esad'tan esed'e dönen türk dış politikasının uzantısı. ab'nin ve abd'nin içeride şahinliğe müsade etmesi için ab tarafından bir göz yumulma fidyesiysi.\nöte yandan ışıd varlığı ve pkk/pyd terör örgütlerinin suriyedeki yapılanmalarının ve verdiğimiz askeri mücadelenin gerekçesi oldu göçmenler. onlar istikrarlı olacak olan bu bölgeye yerleştirilmeli ve teröristler de sınırlardan uzaklaştırılmalıydı. (bunlar benim gördüklerim yanlıştır doğrudur bilemem) içeride vatandaş olarak bizler de hem sıcak politik kavgalara meze, hem sınır ötesinde ve sınır içinde şehit, enflasyon ve kur dalgalanmalarında bir şamar oğlanı olmakla meşguldük. aynu zamanda da din kardeşlerimize sahip çıkmalıydık hepi topu 50 bindi 100.000 idi. nerden bilecektik veya bilseydik neyi değiştirecektik o da meçhul dimi. tıpkı göçmen entegrasyon sorunumuz gibi. ekonomide durum vahim. artan işsizlik durgun piyasada pandemi göz ardı edilse bile uzun bir süre tutarlı bir ekonomi politikası gerektirdiği için zaten kemerleri sıkmalıydık. alanı ekonomi olduğunu söyleyenlerin alanı ekonomi olamayacakları koltuklara oturttuğu dönem de bundan sonraki talihsiz döneme denk geliyor. belki pandeminin tek iyi yani malumün ilamı oldu türk ekonomisi adına her şeyin sonunda. kayıtdışı ve sömürülme şeklinde çalıştırılan suriyelinin hakkını arayamadan(afgan, paki özbek) kendi vatandaşını düşünmeyen dert ve sıkıntılarını görmezden gelen üstüne anayasa değişikliği fetö darbesi olayı ve başkanlık sistemi gibi ve daha sayılabilecek başka daha önemli olayla gücümüzü harcadık. ekonomi politikalarının oluşturucularının halkın kendisi yani bizler üzerindeki olumsuz etkisini de pandemiyle erteledik. siyasi çözümsüzlüklere daha değinilmedi bile..\nşimdi ne olacak?\nben türkiye'nin ekonomik anlamda önümüzdeki 7-8 yılını suriyelilerin entegrasyonuna, ekonomik kalkınmaya, hukuk reformuna ayırması halinde ve tüm bunların evrensel standartlarda oluşturulup işletilmesi halinde düzlüğe biraz olsun çıkabileceğimizi düşünüyorum. tabi biden ve ab'nin gerke doğu akdeniz gerekse suriye ve ortadoğu için politikaları da bence suriyeli göçmen sorunumuzla ilgili olacak. suriye ve diğer ülkelerde kurulacağı ve hatta kurulduğu söylenen kürt devletinin varlığı göçmenlerin gidişi noktasında bizi zorlayacaktır. ve ab ve abd'nin türkiye'ye karşı birlikte bir güven duymama ve tutum değiştirmesi olduğu çok açık. eğer bir sürpriz olmazsa ya da hükümet değişikliği sonucu yaratılacak güven iklimi kurulamazsa ben suriye sorununun bu diğer ekonomik hukuksal ve siyasi çalkantılarla önümüzdeki orta vadede giderek daha şiddetleneceğini düşünüyorum.\ndolayısıyla net bir evet diyememekle birlikte alışmaya alışmalıyız gibi bir durum olduğu ortada. ister beğenin ister sevin ama böyle olacak siyasetinin bizi getirdiği nokta burası. diğer yandan da bu ailelerin bu çocukların buradan ayrılmayı düşünme noktasında da pek istekli olacaklarını herkes gibi ben de sanmıyorum.\n\nbu da ayrı bir not olsun kendime. ileride bu sorunla daha çok yüzleşeceğiz. şimdiden bu yazıya eklemeler yapacağıma eminim.",
+      "referenced_content": [],
+      "has_external_url": false
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119864488",
+      "author": "osi13",
+      "date": "21.02.2021 19:10",
+      "content": "kesinlikle ait oldukları topraklarına geri dönmeliler. ırk farkı gözetmeksizin böyle düşünüyorum. bu konu memleketimize yıllar sonra daha büyük sıkıntılar doğurmadan suriyeli vatandaşları memleketlerine geri göndermeliler.",
+      "referenced_content": [],
+      "has_external_url": false
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119864666",
+      "author": "minibusteyolculuk",
+      "date": "21.02.2021 19:14 ~ 20:57",
+      "content": "olmayan surectir. alisan alisti,alismayan kesim hala gonderilmelerini istiyor. ulkede issizlik almis basini gidiyor bunun onemli sebeplerinden biri de suriyeliler ve afganlar malesef. gercekten dusunuyorum da bugun biz bir savasta olsak, basimiza boyle bir hadise gelse hangi ulke sinirlarini sonuna kadar acip bizi orada barindirir? barindirmayi gectim adamlara parayla vatandaslik dagitildi,olduklari yerleri araplastiriyorlar ve kimsenin buna dur diyesi gelmiyor. madem bu kadar insani aldiniz bu ulkeye,planli bir egitim surecinden gecirseydiniz bir onlem alsaydiniz. bugun almanyadaki turkler nasil ki almanlarin huzurunu kaciramiyor ve mevcut alman duzeninden korkuyorlarsa bu adamlar da bizim huzurumuzu kacirmayacaklar. kendi sorunlarimiz yetmezmis gibi bir de suriyelinin hirsizi,ugursuzu sapigiyla yasiyoruz.ama malesef yasadigimiz cografya o kadar igrenc ki bu ulke en cok kendi vatandasina dusman. suriyelilere alisacagimi sanmiyorum,arap kulturunu-ahlakini sevmiyorum, araptan dost olacagini da dusunmuyorum. is isten gecmeden hepsinin bayram ziyaretine gittikleri ulkelerine gonderilmeleri gerekiyordu. turkiyenin onumuzdeki 50 yilini gorecek kadar yasarsak suriyelilerin bu ulkedeki dinamiklerin icine nasil sicacaklarini hep beraber gorecegiz.\nedit:imla",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "XENO",
+        "HATE",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119865035",
+      "author": "erguvani",
+      "date": "21.02.2021 19:23",
+      "content": "vatandaş haykırıyor:\n“ben açım diyorum,\nbana sahip çık.\nsuriyeli’ye değil,\nafgan’a değil,\nbana sahip çık bana...\nben türk milletiyim”",
+      "referenced_content": [],
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119865225",
+      "author": "torik lens",
+      "date": "21.02.2021 19:28",
+      "content": "yok efendim ne göndermesi daha harcayacak bir 40 milyarımız daha vardı. ummeti muhammed aşkına kalsınlar lütfen.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "ECON",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119865353",
+      "author": "tam bir cengaver",
+      "date": "21.02.2021 19:30",
+      "content": "bu suriyeliler gitmez bence spartakus izledim suriyelilerden nefret ettim (bkz: ashur)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119865587",
+      "author": "alperturka",
+      "date": "21.02.2021 19:35",
+      "content": "suriyeliler gayet tabi istendiğinde gönderilebilir. fakat gitmeleri istenmiyor. burada bazı yazarlar tarafından yapılmaya çalışılan algıya kanmamak lazım. türkiye bu insanları sınır dışı etme hakkına gayetle sahiptir. muhtemelen suriyelilerin aldığı inanılmaz yardımın kesilmesi bile bir kaç milyon tanesinin anında topuklamasıyla sonuçlanacaktır. suriyeliler mevcut iktidar dışında birde muhalefet içinde kalmasını isteyenler var. bunu isteyende hdp'dir. çünkü türkiyeye gelen suriyelilerin tamamına yakını araptır. çoğunluğun geldikleri yerlerse hayali kürdistan sınırlarıdır. bu kadar arapın geri dönmesi orada bir devlet kurulmasına engel olacağı gayet açıktır. hdp sayesinde chp zaten artan oy oranını iktidar için ciddi bir tehdit boyutuna getirdi. bu sebeplerden ötürü chp artık suriyeli gönderme işini bu kadar sık seslendiremiyor. uzun lafın kısası gönderilmek iştense bırakın şimdiyi 10 yıl sonra bile gönderile bilirler.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY",
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119865662",
+      "author": "yusufidimdavutoldum",
+      "date": "21.02.2021 19:37",
+      "content": "türk halkı olarak askerimize polisimize bekçimize destek vererek mahalle muhtarları öncülüğünde tüm şehirlerimizden bu insanları gön der me liyiz\nbunun lamı cimi kalmadı artık\nbelki tüm avrupa'yı ve amerika'yı karşımıza alacağız ama herkes kendi kaderini yaşamalı",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119865842",
+      "author": "uykulugecekusu",
+      "date": "21.02.2021 19:40",
+      "content": "bir an önce burdan giderler umarım gitmez istemezler ise de seve seve gidecekler ülkemize hiçbir filtreden geçmeden gelen milyonlarca kişi yakın zamanda bizim nüfusumuzuda geçerler ve aralarında çok sayıda terörist veya cihatçı var 30-40 yıl sonra güney illerinde özerklik istediklerinde görürüz",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119865881",
+      "author": "fakirinzengini",
+      "date": "21.02.2021 19:41",
+      "content": "bu gün ekmek almak için dışarı çıktım. evim ile fırın arasında ki kısacık mesafede elinde telefonla sağı sola çekerek gezen 3 suriyeli gördüm. bizden iyiler, bizden özgürler...",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119866083",
+      "author": "bgr89",
+      "date": "21.02.2021 19:46",
+      "content": "keske",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119866094",
+      "author": "ferryporsche",
+      "date": "21.02.2021 19:46",
+      "content": "türkiyeyi çökertmek için çok güzel plan yapıyor gavurlar kafalarıda çalışıyor bir 40 milyar harcarız bir 40 daha harcarız diyorsunuzya al kasa bomboş ve ekonomize büyük yükler çünki işşiz gücsüz sapsız terör ile ilişkili insanlar bunları anca ortadoğuda bir ülke kabul ederdi oda türkiye ama hiç merak etmeyin gün gelicek bunların hepsi yargılanacak bu suriyeliler hayatta gitmez türkiye den\nçünki bir ülkenin gelişmesini engellemek istiyorsan gönder 5 milyon sığınmacı bak ülkeyi ne hale çeviriyorlar\n\nyüce türk halkının geldiği duruma bak",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119866267",
+      "author": "bulentakten",
+      "date": "21.02.2021 19:50",
+      "content": "sarayında yaşayanlar farkında değil ama,\n\nyoksul semtlerdeki insanların başına bela edip insan hakları nutuğu atanlar\n\nonca sahipsiz iti köpeği başı boş salıp hayvan hakları nutuğu atanlar\n\nonca özel üniversite, kasaba üniversitesi açıp kaliteyi yerlere düşürdüğü yetmeyip para kazanmak için tek çıkarı okumak olan yoksul halkın bu hakkını da yerlere atıp, okumuş nüfusu artırdık nutuğu atanlar ile\n\nadında adalet taşıyıp yerlere çarpanlar ile birlikte\n\nsiktir olup giderler",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119866461",
+      "author": "gunnsnnrosess",
+      "date": "21.02.2021 19:54",
+      "content": "hepimiz üzüldük başlarındaki duruma, insanlık ve çıkar amaçlı ülkemize alındılar peki tc vatandaşı olma hakları neden var biri açıklasın ben deliye dönüyorum gördükçe her birinin elinde ya bebek arabası ya elinde küçük çocuklar ya da her ikiside. oturduğum semtte hepsi zenginler son model arabalarla ful makyajla dolaşıp sevilmediklerini bildiklerinden nisbet yapar gibiler. oturduğum katta bile onlarla yüz yüzeyim ortak teraslara leş gibi şişeler koyup izmarit söndürüyorlar aksine orada bırakıp sidik gibi leş durmasına sebep oluyorlar ki seslerinden kabalıklarından küstahlıklarından hiç bahsetmiyorum bile 180 dairenin yarısı ya da yarısından fazlası onlar ki evleri komple böcekler sardı pisliklerinden bir millet bu kadar kötü pis kokamaz yemek yapsalar baharat ama ne baharatlarıysa yerimde duramıyorum kokudan asansörde karşılaşıyorum baharatları almışlar oralarına buralarına sürmüşler sözde parfüm ama nefesim kesiliyor. biz azınlık kalmak üzereyiz artık fakirleri evsizleri dışında gitme ihtimalleri yok hepsi tc vatandaşı oldu soyumuz karışacak herkes pislik içinde kalacak arkadaşlar kısacası ben nefret ediyorum afedersiniz",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119866530",
+      "author": "bilgiyiyenkiz",
+      "date": "21.02.2021 19:55",
+      "content": "derhal dönsünler savaş bitti. ülkemde göçmen istemiyorum. hele bize muhafazakar kesim kalmışken ve laikçi eğitimli kesin avrupaya uçmuşken ben ülkemde göçmen istemiyorum.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119866653",
+      "author": "mertamer",
+      "date": "21.02.2021 19:57",
+      "content": "imkansız bir süreç.\n\nonlar artık bu ülkenin vatandaşı. ümmet kardeşlerimiz.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119866995",
+      "author": "valandova",
+      "date": "21.02.2021 20:04",
+      "content": "çok seven varsa alsın evine beslesin. isterse koynuna soksun. ben istemiyorum.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119867126",
+      "author": "hayalisuvari",
+      "date": "21.02.2021 20:07",
+      "content": "öyle bir sürecin olduğunu düşünmüyorum. göndermeyi bırakın, akp suriyelilere vatandaşlık vermek için anketlerle halkın nabzını yokluyor.\n\nyakın bir gelecekte olmayan süreçtir.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119868896",
+      "author": "comet voyager",
+      "date": "21.02.2021 20:42",
+      "content": "gonderemezsiniz,nereye gönderiyorsun? sonuçta ülkesinde iç savaş olan birleşmiş milletler nezdinde korunması ve himaye edilmesi gereken kitle bağlayıcı anlaşmalar var. baştan almayacaktın. anca suriyede savaş bıterde norma bir yönetime kavuşursa onada pek,bir ıhtal vermiyorum artık. ileride etnik yapımızı değiştirecekleri kesin ve muhtemel. ak çomarların gitmeden önce bize attıkları son en sağlam kazık olacak.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119869910",
+      "author": "bimehisimladalanadam",
+      "date": "21.02.2021 20:58",
+      "content": "ulan elin almanyası para verdi akıllılarını topladı. turkler hala kovalım diyor. sen cocuklara eğitim verme kamplara hapset qma nüfus artis hizin düşsün.\n\nt.c. nin baştan aşağıya her şeyi bozuk vatandaşları da.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119871609",
+      "author": "tutkigecedir",
+      "date": "21.02.2021 21:19",
+      "content": "zor dostum zor\nsevilmeden sevmek\nonu bir başkasının yanında görmek\nzor dostum zor\ngülerken ağlamak...\n\ndabi dabi.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119872379",
+      "author": "nesucka",
+      "date": "21.02.2021 21:30 ~ 21:32",
+      "content": "geri gönderilmelerinin imkansıza yakın olduğunu düşünüyorum. ayrıca eğer iyice dil öğretilip, entegre edilmezler ise ileride ciddi problemlere sebep olacağını düşünüyorum. ya baştan bu kadar mülteci kabul edilmeyecekti ya da çok iyi bir entegrasyon programı uygulanacaktı.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119872931",
+      "author": "rockergirlikeblue",
+      "date": "21.02.2021 21:40",
+      "content": "(bkz: inş)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119873476",
+      "author": "captain from the last valley",
+      "date": "21.02.2021 21:50 ~ 26.02.2021 00:33",
+      "content": "başa bir büdüt notu: kuzey suriye’den gelen sığınmacılar sisteme, ülkeye entegre edilebilirler. çok yabancı da değiller aslında. istiklal harbi esnasında, sakarya savaşı sonrası kerhen ankara antlaşması ile suriye’ye bırakılan topraklarda yaşayan bu insanlar, türkiye o dönemde hepimizin bildiği mecburiyetleri yaşamayıp güçlü bir ülke olsa ve sınırı bir 50-100 km güneyden geçirebilseydi zaten hatay, kilis, antep, urfa, mardin illerindeki yurttaşlar gibi türkiye cumhuriyeti yurttaşı olacaklardı. ama tarih öyle akamadı ve demiryolu hattını sınır kabul etti her iki taraf. üstüne de 90 senelik bir ayrım ile her iki ülkenin farklı, eşitsiz gelişimi ve endoktrinasyonu geldi ve makas açıldı. o yüzden türkiye’ye entegrasyonları son seçenek olmalı ve ülkelerine geri dönmeleri daha makul bir çözümdür. elbet meselenin bir rojava, suriye’de özerklik, federe çözüm, olası denize çıkış, türkiye güvenliği riskleri kısmı var, bu girinin konusu değiller.\n\nzannedildiği kadar zor bir süreç olmak zorunda değildir. bazı handikaplar var ama bu handikaplar suriye, suriyeliler merkezli değil, türkiye sermayesi ve siyasası sebepli oldukları için; (bkz: #118332008) çözülemez aşılamaz şeyler değildir.",
+      "referenced_content": [
+        {
+          "type": "entry",
+          "title": "ulkemde-suriyeli-istemiyorum",
+          "entry_id": "118332008",
+          "author": "captain from the last valley",
+          "date": "16.01.2021 22:49",
+          "content": "tanım: bir slogan ya da talep.\nbaşlangıç; (bkz: ülkemde ırkçı istemiyorum/@captain from the last valley)\n\nara sıcak; çok boyutlu bir gerçeklik var suriyeliler konusunda. ama iki boyutu öne çıkıyor meselenin:\n\nana yemek;\n1- yukarıya eklediğim entry konusu, suriyeliler kayıtsız kuyutsuz ucuz işgücü olarak sömürülmeleri.\n\n2- türkiye sermayesinin ve siyasi kadrolarının treni kaçırdıklarını bir türlü idrak edemedikleri kuzey suriye üzerine nüfuz alanı planları. o tren ışid’e, hatta ışid öncesi ışid’in laciverti el nusra tarzı örgütlere karşı alan ve sivil halk pyd’nin insafına bırakılmadan, rusya sahaya inmeden tüm dünyaya özellikle batı kamuoyuna insani amaçlarla koruma sağlama propagandası yapılarak türkiye’nin kuzey suriye’ye silah gücüyle dalması ile başarılı olabilirdi. peki dünyaya parmak ısırtacak derecede başarılı yönetim, ne yaptı? ideolojik bagajların da etkisiyle sünni arap radikalizminden ılımlılık devşirme rolüne oynamaya kalktı. ve kaybetti.\n\ntatlı; ülkelerine dönmeleri en mantıklısı. ne halt etmeye hala tutuldukları muammadır. türkiye’nin ve türkiye sermayesinin kuzey suriye’yi domine etme şansı çok çok düşük bir ihtimaldir artık. ne abd ne rusya buna rıza göstermeyecek gibi duruyor. pyd fırat’ın doğusunda kalırsa öpüp başlarına koysunlar ve şu insanların yakasını bıraksınlar artık. evlilikle yahut başka yollardan vatandaşlık almayan her suriyeli geri gönderilmelidir.\n\nmeyve; ırkçılık boyutu: sokaktaki ve sözlükteki sıradan insanın tepkileri tavır/davranış düzeyinde pek olmasa bile söylem düzeyinde o raddeye varabilir. ama bunlar istenmeyen sonuçlar, sebepler değil. şimdi arkadaşım tüm dünyada sınırlar kalktı da küresel bir sermaye yönetimine karşı küresel bir işçi sınıfı hareketi var mı? yok!\no zaman; enerji açmazı yaşadığı, doğru dürüst yükte hafif pahada ağır yüksek teknoloji ürünü ihraç malı üretemediği için uluslarası pazarlarda tek rekabet şansını işçilik maliyetini düşürmekte bulan türkiye sermayesinin taşeronu musunuz siz? yaptığınız özgürlükçülük değil, solculuk değil, ülkedeki çalışan sınıfların yararına hiç değil.\n\nkahve, çay; pandemi, yerel ve küresel düzeydeki ekonomik açmazlar türkiye alt sınıflarının işsizlikle imtihanı çok tehlikeli bir patlayıcı formüle dönüşme riski taşıyor. bu işin artık en kısa zamanda usulet ve suhuletle çözülmesi gereği ortadadır.",
+          "has_external_url": false
+        }
+      ],
+      "referenced_entry_ids": [
+        "118332008"
+      ],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119873572",
+      "author": "hatalicool",
+      "date": "21.02.2021 21:52",
+      "content": "suriyelilerin gönderilip gönderilmemesinden önce sizin önce bir insanlık ve temel insani kurallar eğitimi almanız lazım. sanırsın hepsi müthiş insanlar. bu ülkede kendi gibi yaşamayana düşmanlık bitirilmeden hiçbir şey düzelmez. sanki buraya gelmeleri o insanların seçimiymiş, sanki yaşadıkları ülkede müthiş eğitim görmüş gibi davramanız yok mu? niye bu kadar kin ve nefret dolusunuz. niye sorunun siyasi olduğunu, onların da aynı sizin gibi bu dünyada yaşayan insanlar olduğunu kabul etmiyorsunuz? yazık ya, şu yazılanları görünce insan üzülüyor.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN",
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119873699",
+      "author": "ilahi bakis acisina sahip anlatici",
+      "date": "21.02.2021 21:54 ~ 21:56",
+      "content": "imam hatipte öğretmenim. suriye'de şehit edilen askerlerimize hatim indirmek için cüz dağıtmış meslek hocaları derste, suriyeli bir öğrenci okumak istemiyorum demiş. arkadaş, neden oğlum diyince, benim askerim değil ki demiş...\n\nbaşka öğrencilerimiz de var suriyeli. bizi biz yapan ne varsa ortak olmak ister, paylaşmak ister.\n\nözetle kabullenilip kabullenilmemek suriyelilerin elinde.\n\nve kendi vatandaşının ihtiyaçlarını karşılamadan mültecilerin ihtiyacını karşılaşamak kendi vatandaşına haksızlık. sana sığınan insanları da köle gibi kullanıp iki kuruş paraya da çalıştırmak vicdansızlık.\n\nbence işe yaramayan, toplumsal huzuru bozan, ahlaksız, çıkarcı, dolandırıcı ne kadar kişi varsa türk vatandaşı mülteci fark etmesizin suriye'ye zorunlu göç ettirilsin huzur içinde yaşayalım.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119874614",
+      "author": "ercument2000",
+      "date": "21.02.2021 22:11 ~ 22.02.2021 01:59",
+      "content": "suriyeliler bile bir şekilde avrupa'ya kaçmaya çalışıyor almanya eğitimli olanlarını alıyor ama genel olarak türkiye'de suriyeli mülteci olayı bitmez bunlara o kadar destek verildi mesela israil hiç mülteci kabul etmedi ayrıca bu suriyeliler o kadar vatandaşlık aldı (hepsi değil ama bir kısmı almış) zamanla neredeyse hepsi 2023'e kalmadan vatandaş olacak ve malum seçimlerde oy kullanacaklar hadi yine diyelim alternatif iyi niyetli bir hükümet geldi yine de bu mülteci sorunu devam edecek malum bir de bunlar hızla çoğaldığı için türkler kendi vatanında azınlık durumunda olacak eğer bu mülteciler için ciddi ve radikal kararlar alınmazsa bizden sonraki nesiller bize nasıl bir ülke bıraktınız diye bize beddua ve hakaret eder o yüzden bu konuda acilen bir şeyler yapılması lazım artık bunların işletmeleri mi mühürlenir banka hesaplarına mı el koyulur işlerinden mi atılırlar bilemiyorum ama ciddi ve radikal kararlar şart ... akpnin türkiye'ye attığı en büyük kazıklardan biri bu oldu bakın sorunlu ekonomiden dolayı doğan maddi kayıplar telafi edilir sorunlu eğitim telafi edilir işsizlik de istihdam yaratarak ve torpili azaltarak telafi edilir ama mülteci sorunu çözülmesi çok zor gibi duruyor ...",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119876857",
+      "author": "lock11load",
+      "date": "21.02.2021 22:54",
+      "content": "öyle bir süreç mevcut konjonktürde yok maalesef.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119876981",
+      "author": "akdenizli34",
+      "date": "21.02.2021 22:56",
+      "content": "suriyelilere alışmadım ve alışmak istemiyorum. kesinlikle ülkelerine gönderilmelerinden yanayım. suriyelileri samimi şekilde göndermeye kararlı partiye oyumu vereceğim.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119877505",
+      "author": "garip karga",
+      "date": "21.02.2021 23:06",
+      "content": "ben neden alışayım abi. bunlardan gördüğüm zorbalıkları yazsam roman olur . yazık oldu memleketime. nüfus oranı ve yoğunluğu resmi olarak açıklansa emin olun vay anasını dersiniz. beş altı çocuğu olan çok aile biliyorum. ve türkiye'ye geldikten sonra oluşan çoğalma bu.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119881511",
+      "author": "fivelittlemonkeys",
+      "date": "22.02.2021 00:21",
+      "content": "gecen yıl türkiyede pandemi patlamadan bir hafta önce bunlar gönderilmiyor muydu? sınır açılmamış mıydı? sonra pandemi çıktı gündem değişti bunlar da unutuldu gitti.\n\nartık olması gerekendir. gec bile kalındı.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119883419",
+      "author": "adada",
+      "date": "22.02.2021 01:01",
+      "content": "ülkemize gelen başıboş suriyeli,afgan vb.göçmenlerin sayısının çok yüksek olmasından dolayı ekonominin tabutuna son civide cakilmistir.böyle sınır güvenliği olmaz.isin kötüsü bunların geri gönderilmesi içinde bir plan gözükmüyor.demografik acıdan bizi zor günler bekleyecek.ortadogu ve çevresinin düşük seviyedeki toplumlarını içine alan bir çöplük olursak zaten can çekişen egitimli kesim yokolacak,olanlarda buradan tüyecek böyle giderse.yazık oluyor ülkeye.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "ECON",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119883837",
+      "author": "daguestue",
+      "date": "22.02.2021 01:11",
+      "content": "ötv nin kaldırılmasına benzeyen ve paralel ilerleyen süreç.onlar gönderilmez anlayacağın.ama merak etme kendileri gidecekler biz de yalvarcaz giderken bizi de götürün diye sjskdkxj 2023 te muhtemelen.olmadı 2053",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119884051",
+      "author": "tekmeyiyemisadam",
+      "date": "22.02.2021 01:15",
+      "content": "zor ama imkansız değil, esat ile iyi ilişki kuracak bir hükumet türkiye'nin muhaliflere desteğini kesmesi karşılığında mültecilere güvenli dönüş sağlayabilir tamamı olmasa bile önemli bir kısmı geri gönderilebilir.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119885837",
+      "author": "tetraski carfan",
+      "date": "22.02.2021 02:07",
+      "content": "hiç tamamlanmayacak olan süreçtir.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119886231",
+      "author": "the playmaker",
+      "date": "22.02.2021 02:21",
+      "content": "herhangi bir nüfus müdürlüğüne gidip baktığınızda çok zor bir olay olduğunun farkına varacağınız durum. çocuğa kimlik çıkartmaya gittim, 43 tane suri vardı çocuğuna kimlik çıkartmaya gelen. yalnız şöyle bir şey var ki bu uyuşuk arapları ülkeden postalamanın en kolay yolu sıradan tc vatandaşı haline getirmek; o kadar verginin altına girmektense sınırdan tüyerler anında...",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119887293",
+      "author": "rutusfircasi",
+      "date": "22.02.2021 03:10",
+      "content": "öyle bir ihtamal varmı yaa ne güzel memleket bulmuşlar bir daha ki seçimde m.v adayı bile çıkarırlar gidecegi yer çokmu iyi açlık sefalet eee ne niye rahatlarını bozsunlarki .",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119887713",
+      "author": "yazamayar",
+      "date": "22.02.2021 03:37",
+      "content": "adına “yallah süreci” koyulursa bayılırım",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POLICY",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119888087",
+      "author": "oooooonur",
+      "date": "22.02.2021 04:04",
+      "content": "süreç.dll bulunamadı.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119888256",
+      "author": "walking dead",
+      "date": "22.02.2021 04:19",
+      "content": "ismi lazım değil partiden kurtulduğumuz gün gündeme gelecektir.arap emperyalizmi ile asimile olmuş seçmenlerinin çoğuna zor gelse bile.bir insan dünyaya gelirken ülkesini milletini ırkını seçemiyor ama kusura bakmasınlar türkiye’de hayır kurumu değil.misafirliğinde bir adabı sınırı olmalı.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119888338",
+      "author": "sapka dustu kel gorundu",
+      "date": "22.02.2021 04:28",
+      "content": "gerçekleşmesi mümkün olmayan süreçtir. ırkçı hezeyanları bir kenara bırakıp kabullenmek en iyisi galiba.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119888555",
+      "author": "maru",
+      "date": "22.02.2021 04:51 ~ 04:56",
+      "content": "linc yiyecegimi bile bile söylüyorum, gecen azicik para icin mirra pisiren adamin 2 cümlelik özetini izledim: adamin genetik bölümünde lisansi var, master ve phd icin kanada'yi istemis olmamis, türkiye'de mirra satiyor.\n\nha bana hava hos, türkiye'den yurtdisina gidenler arasinda ögrencilik yillarinda kebapcilik yapan, komilik yapan, ki buna amerika'da da rastliyoruz cok insan tanidim. sirf türk oldugu icin soyadlarindan dolayi falan kabul görmemisti birisi 2 sene o'egitimini' aldigi avrupa'da. döndü burada'yani memleketinde' adam gibi muamele gördü iyi de para kazaniyor.\n\nsimdi bu dediklerimi herkes birlestirsin, adamlarin memleketi yugoslavya savasindan cikmis gibi. o adam genetik okurken mirra pisiriyor simdi. hersey normal -türklerde de mevcut- anormal kismi su, bu adama sen yüksek lisansini devam ettirecek kosullari saglasan yeterdi. -realist olarak yetmedi- o zaman bu adam, seceneklerine bakacaksan, kimin ve neyin sorunu?\n\nasil sorunun ne oldugunu herkes biliyor. o kadar akademiden bahsettigim icin söylüyorum, akademi su an bitiriliyor misal. asil sorun suriyeli kardesim degil, almanya'da dogan cocuk hayatinin sonuna kadar secenekleriyle garanti altindayken, burada iyi kötü düsük bütceli aileden yüksek akademisyenlige gecip adam olan insan kalmayacak, burada cumhuriyet degerleriyle ilgili temel bir sorun varmis gibi gösterilen ve yikilan bir sürec var, gelen mültecinin -artik sonuna kadar reddedilen ve istanbul'u akp'ye kaybettirmis.- müslüman kardesim olmasinin yetmemesi sorunu bu. kimse yemiyor. suriyeliyi birak yönetim problemi var. filtreleme mekanizmalari bozuluyor boun'daki örnekten de apacik görebileceginiz gibi.\n\nsuriyeli adam mirra satmaya, türk avrupa'da kebap satmaya devam etsin. olan her türlü türkiye'ye oluyor.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119888600",
+      "author": "stajyerdanisman",
+      "date": "22.02.2021 04:56",
+      "content": "tarihi realiteler ışığında,savaş ve/veya benzeri büyük bir hercümerç yaşanmadıkça gerçekleşme ihtimali pekte olmayan durumdur.şu noktadan sonra yapılması gereken,\"nasıl yollarız'ı\" değil, \"nasıl entegre ederiz'i\" düşünmek olmalıdır.acı da olsa durum bu.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "POLICY",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119888996",
+      "author": "korkmazs",
+      "date": "22.02.2021 06:01 ~ 07:49",
+      "content": "asla olamayacak bir süreç, misal bizimkiler almanya'dan dönüyorlarmı, çok ütopik geldi çok",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119889498",
+      "author": "office jr",
+      "date": "22.02.2021 07:40",
+      "content": "yeni tehlikemiz suriye olmadigi icin gelismeyecek surec. eli degen afgan ve pakistanlilardan baslasin sevabina",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119889579",
+      "author": "harti",
+      "date": "22.02.2021 07:51",
+      "content": "bu saatten sonra pek mumkunati olmayan bir surectir. tc vatandasligi dogumla kazanilabilmekte ve sadece turkiye'de dogarak vatandas olma hakki kazanmis belki milyon tane suriyeli bebe var. akp iktidardan gitse bile siz bunlari ne hakla gondermeyi dusunuyorsunuz? bu bir yana bu bebeleri ailelerinden nasil ayiracaksiniz? bu da bir yana 2011-12'den beri ulkeye yerlesmis, is acmis, calismis, kiz alip vermis, artik suriye'nin bir parcasi olmayan insanlari nasil bir surecle suriye'ye yollayabilirsiniz?\n\nbu saatten sonra yapilmasi gereken en mantikli surec, bu insanlarin entegrasyonu olur. yani en basta yapilmasi gerekeni en sonda yapmamiz gerekecek.\n\ntekrar soylemekte yarar var. bu isin bu duruma gelmesinin vebali bu insanlari \"ensar\" kisvesi altinda 81 vilayete dagitan iktidardir. batililarin yaptigi gibi doktorunu, ogretmenini, muzisyenini vatandas yapip gerisini sinirda kurulmasi gereken multeci kamplarinda tutmamiz gerekiyordu. artik cok gec.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POLICY",
+        "HUMAN",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119889644",
+      "author": "dorafidelius",
+      "date": "22.02.2021 07:59",
+      "content": "hiç başlamayan süreçtir. ayrıca başlasa da tamamlanmayacak olan",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119889741",
+      "author": "lostblue",
+      "date": "22.02.2021 08:10",
+      "content": "şimdi bizim sistemdede sıkıntı var, işveren yerli eleman çalıştırmam, yarı paraya sgk'sız suriyeli çalıştırırım mantığını bırakmadığı sürece bunlar biryere gitmez.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "ECON",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119889894",
+      "author": "sedat sedat",
+      "date": "22.02.2021 08:24 ~ 08:27",
+      "content": "millet ittifakının seçimden 10 gün önce ortak basın açıklamasıyla esad’la barışacağız, suriyelileri göndereceğiz, burda doğanlar dahil, verilen vatandaşlıkları da kanunu değiştirerek iptal edeceğiz diye bi açıklama yapması en az yüzde5 oy getirir. oyu da geçtim doğru olan budur",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POLICY",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119889993",
+      "author": "terlikli hayvan",
+      "date": "22.02.2021 08:33",
+      "content": "çok basittir.\n\nyardımları kes. vergi dairelerine talimat ver nefes aldırmasınlar. çalıştırana da, iş kurana da... kanun neyse en hızlı ve katı şekilde uygulasınlar.\n\npolise talimat ver. nefes aldırmasınlar. suç işleyeni anında sınırdışı et.\n\nmerak etme zaten çoğu kendi gidecek.\navrupa'ya gidecek, memleketine gidecek.\nkalanı az miktardaki de diplomasiyle çözülür.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POLICY",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119890165",
+      "author": "lmrvnx",
+      "date": "22.02.2021 08:44",
+      "content": "pek ihtimal veremediğim bir olay. bu konuda beni asıl rahatsız eden şey; türklerin iş bulabilme süreçlerini de zorlaştırıyor olmaları.. türkler yerine suriyeli çalıştıran binlerce işveren var..",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "ECON",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119890319",
+      "author": "nickbulamadimkiben",
+      "date": "22.02.2021 08:54",
+      "content": "asla yaşanmayacaktır.kimsenin götü yemez.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119890388",
+      "author": "aegeus",
+      "date": "22.02.2021 08:59",
+      "content": "https://www.deutschland.de/tr/goc-ve-entegrasyon adresinde alman devleti'nin göç ve entegrasyon bakanlığı'nın kurmuş olduğu bir site var; açın biraz inceleyin lütfen. sen bu işi, içişleri bakanlığına bağlı bir genel müdürlük üzerinden yürütüyorsun; https://www.goc.gov.tr/ olur mu, olmaz.\n\nbir ülkeye öyle ya da böyle, sınırları dışından önemli ölçüde başka bir kültüre ait insan gelirse yapılması gereken, yeni gelenler için derli toplu bir entegrasyon süreci çalışmasıdır; avrupa ülkeleri bunun için bakanlık seviyesinde örgütlenirken türkiye'de devlet aklı, yurt dışından bize para gönderin demek ve parası olanlara da ev satıp şirket kurdurmak dışında, örgütlü olarak ne yapmıştır? bugüne kadar türkiye'de devletin yaptığı, göçmenler gözden uzak dursun, olay çıkarmasın, başımızı ağrıtmasın politikasından ileriye gitmemiştir; bir de farkına varıldıktan sonra göçmen çocukları için hızlı bir aşılama çalışması başlatıldı sağ olsun; onun dışında, bu göçmenleri ucuz işgücü için kullanmayı akıllıca bir politika olarak kabul eden devletimiz, sağ olsun, bu alandaki kayıt dışılığa da göz yumuyor.\n\nkıymetli dostum; olan oldu; türkiye'ye bu kadar kişi yerleşti; doğru muydu yanlış mıydı, bunun sorumlusu kimdi ayrı bir tartışma ama artık şunu görmek gerekiyor; bu gelenler kalıcı olarak yerleşmiştir; bunların içerisinden suç işleyenleri tutup günlük olarak zaten sınırdışı ediyorlar; geri kalanlar için yapılacak olan şey, son derece kapsamlı bir entegrasyon çalışması başlatmaktır; bu gelenlere türkçe öğretmek, türk kültürünü, kurallarını, devlet işleyini anlatmak ve uyum sağlamalarını mecbur kılmak zorundasın yoksa biz bu işin altından kalkamayız.\n\nbence bu konuyu bir sonraki seçimde işleyen yol alır.",
+      "referenced_content": [],
+      "has_external_url": true,
+      "sentiment_numeric": 5,
+      "categories": [
+        "POLICY",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119890546",
+      "author": "kulup raki beyaz leblebi",
+      "date": "22.02.2021 09:10",
+      "content": "yabancıların çoğu ihalenin bize kaldığını bilmiyor sanırım. geçenlerde bir dizide suriyelilere yardım için, yunanistan’ a gitmekten bahsediliyordu.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119890648",
+      "author": "kayyum06",
+      "date": "22.02.2021 09:17",
+      "content": "yurtta sulh cihanda sulhmuş... dibimizdeki ülkelerde iç savaş var, ülke içinde iki tane köklü terör örgütü var, sınırımızda terör devleti kurulmaya çalışılıyor, her gün bombalar sivilleri (bebekleri, kadınları) katlediyor, komşu devletlerimiz kendi milletlerine eziyet ediyor ve hepsini bizim ülkeye doğru sürüyor, onlarca örgüt her gün insanlara eziyet ediyor ama türkiye sulh yapacak. suriyelileri istemiyorsanız bu savaşın bitmesi gerek. savaşın bitmesi için de radikal islamcılar, pkk/pyd ve esad'ın gitmesi gerekiyor. çünkü saydığım bu üç grup da bu topraklarda barış ve istikrar istemiyor. polyana gözlüklerini çıkarın öyle dış politika konuşun.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119891046",
+      "author": "acezda",
+      "date": "22.02.2021 09:35",
+      "content": "türklerin orta asyaya dönme ihtimalini daha fazla görüyorum. siksen de gönderemezsin artık suriyelileri geçmiş olsun.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119891266",
+      "author": "yorgun kirmizi",
+      "date": "22.02.2021 09:47",
+      "content": "olmayacak olan surec.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119891445",
+      "author": "reackless",
+      "date": "22.02.2021 09:55",
+      "content": "şu işi çözeceğinin garantisini hangi parti verirse oyum ona.\nekonomik kriz, terör, dolandırıcılık v.s... bunların hepsiyle yaşamaya alıştık zaten. ama en azından ülkenin değişen çehresi toparlanır azda olsa eski türkiye'yi görmeye başlarız.\nbeyoğlu'na çıkıyorum eski havası yok. her yerden arapça müzik, çalışanlar arap.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119891632",
+      "author": "genctakipci",
+      "date": "22.02.2021 10:04",
+      "content": "çıkmaz ayın...",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119892026",
+      "author": "coyote ve road runner",
+      "date": "22.02.2021 10:22",
+      "content": "1. işverenler memnun ama salak salak 20 lira falan demeyin. 130 lira artı yol artı yemek en ucuz vasıfsız işçi maliyeti. türk suri afgan farketmez.\n2. onların yaptığı işi yapacak ne türk var ne kürt.\n3. giderlerse iş gücü açığını filipin vb ülkelerden kapatmamız gerekecek.\n4. ülkedeki işsizlik eğitime göre iş beklemekten kaynaklanıyor. neverland üniversitesi edebiyat fakültesi mezununa iş yok boşuna okudun bebeğim.\n5. giderlerse domatesin ekmeğin kilosu 3 kat artar. çünkü üretim çok düşer. asıl krizi o zaman görürüz.\n6. bunlar yokken napıyorduk sorusunu sormayın. bunlar yokken işçi olan kesim bunlar sayesinde sınıf atladı. ekonominin hacmi de büyüdü.\n7. eğer almak istediğiniz evlerin fiyatı, patlak lastiğin tamirarının fiyatı ya da seramik döşetmek için vereceğiniz yevmiyenin 5 kat artmasına razıysanız bırakın gitsinler",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "ECON",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119892115",
+      "author": "noname3467",
+      "date": "22.02.2021 10:26",
+      "content": "her yerde karşıma çıkan terörist gibi insanlar.\nkusura bakmayın ama güzelim ülkeyi terörist gibi, sürekli üreyen, çalışmayan, devlete yük olan bu insanlarla doldurmanız türk vatandaşlarına yapılmış en büyük haksızlıktır.\nolay artık surilerin savaştan kaçmalarından çıkmış, ülkemizi istila etmelerine gelmiştir.\nçok iyi hatırlıyorum, savaş bittiği halde hala gelmek isteyen surileri sınır kapımızı açan bir yönetimle karşı karşıyayız.\nülkeme elini kolunu sallayarak giren afgan, suriyeli, ıraklı istemiyorum.\nbuna artık bir dur denilsin",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119892483",
+      "author": "yuzen ordek",
+      "date": "22.02.2021 10:40",
+      "content": "son 2 yıldır muhalefetten konuyu gündeme getiren kimse yok. sanırım önce kkyi sonra suriyelileri göndermemiz lazım bu kadar önemli bi konuyu neden konuşmazsın be adam.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119901989",
+      "author": "esgarothda yuzen elf",
+      "date": "22.02.2021 16:00",
+      "content": "türkiye cumhuriyeti 97 yıllık hayatında toplumsal sorunlar baz alınıldığında hiç bu kadar farklı zıt görüşlerdeki insanların ortak payda da bulunduğu görülmemiştir. farkında değiller mi anlamıyorum ama kendi seçmenleri bile onlardan soğup uzaklaşıyorlar. burada 5-10 kişi şunlar gitmez bunlar gitmez ülke halkının dinamiklerini ve tarihte yaşanan benzer olayların farkında değildir. artık borç gırtlağa birkaç aya daha da baskı yaptığında milletin %80-90 arasında tek ortak fikre doğru gider bu süreç.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119902120",
+      "author": "hassiktirdiyoruz",
+      "date": "22.02.2021 16:04",
+      "content": "böyle bir süreç olmayacak ki, zaten biz suriyelilerden memnunuz, daha fazla yollayın.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "119904396",
+      "author": "boyleseyolmazolsun",
+      "date": "22.02.2021 17:23",
+      "content": "buraya tırnaklarını geçirip somurmek icin nüfus çoğaltan serefsizler mi gidecek",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "120543655",
+      "author": "acezda",
+      "date": "10.03.2021 09:05",
+      "content": "dün mersinde kendi aralarındaki kavganın görüntülerini izledim ürktüm baya. bunlar vahşi yobaz adamlar. pala ile kendisine vuruyor bu tiplerin ne diye tutuyorsun ülkede bunların çocukları da bunlar gibi olacak. inşallah tek tek tespit edilip postalanırlar zaten ülkenin geleceğine dair beklentilerimiz belli bir de bunların varlığını düşünmek istemiyorum.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "120718269",
+      "author": "nerdesin dost",
+      "date": "14.03.2021 19:51 ~ 19:53",
+      "content": "devlet gerçekten geri göndermek isterse çalıştikları yerleri sıkıca denetleyerek yarısından çoğunu gönderebilir. ama ne yazık ki kalan kısımı geri göndermek çok mümkün gözükmüyor.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "120718409",
+      "author": "motununizinde",
+      "date": "14.03.2021 19:54 ~ 19:56",
+      "content": "bir an önce başlaması gereken süreç. bunların gönderildiği günü kendi çapımda bayram olarak kutlayacağım.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "120719472",
+      "author": "yedinci element",
+      "date": "14.03.2021 20:18",
+      "content": "nereye göndericeksin. gidecek yer yok artık.\n\no iş bitti. aslında hiç başlamamıştı.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "145827718",
+      "author": "zattiri zottiri",
+      "date": "02.12.2022 10:42",
+      "content": "(bkz: lübnan'nın suriyelileri geri göndermesi)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "147025453",
+      "author": "kuba gibiyim kendi kendime yetiy",
+      "date": "31.12.2022 00:50 ~ 01:00",
+      "content": "fabrikalar emekli işçilerle ve suriyelilerle dolu. birden fazla maaş alıyorlar. türk gençlerinin önünü tıkıyorlar. yaşlılar ve sığınmacılar istilası altındayız.\nbir de hangi siyasetçi suriyelileri göndereceğiz diyorsa yalan söylüyor. türk sanayicisi suriyelileri kalifiye eleman yaptı. fabrikada örgütleniyorlar. yanlarında başkaları olsa da türkçe konuşmuyorlar zaten. eyt'lilerin sesi onlara çıkmıyor. reisleri onları mutlu etti çünkü.\n\ntürkiye'de yaşlılara ve sığınmacılara hürmet, cumhuriyete hakaret boyutuna varmıştır.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO",
+        "ECON"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "147025725",
+      "author": "antochia",
+      "date": "31.12.2022 00:56",
+      "content": "teker teker vatandaşlık aldılar ve almaya devam ediyorlar hangi gönderilme sürecinden bahsedebiliriz ki",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY",
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "149844823",
+      "author": "yedinoktabes",
+      "date": "28.02.2023 18:18",
+      "content": "başlamış olup olmadığı bilinmeyen süreç.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "149845079",
+      "author": "speciale aperta",
+      "date": "28.02.2023 18:29 ~ 18:31",
+      "content": "öncelikle;\n\ntayyip erdoğan 15 mart 2022 tarihinde \"biz göndermeyecegiz\" demişti. haber\n\nbir de şöyle;\n\n(bkz: 15 mart 2022 tayyip erdoğan'ın suriyeli açıklaması)\n\naltılı masadan da çok cılız sesler çıkıyor maalesef.\n\n(bkz: #136206413)\n(bkz: türkiye'nin demografisinin kasten değiştirilmesi)\n\nhâlâ daha sağlık hizmetleri bedava olup türk vatandaşlarının cebinden karşılanan bu işsiz güçsüz, sokaklarda bomboş dolanan bu ortadoğulu kültürsüz vasıfsız insanların derhal ve derhal geldikleri yere gönderilmeleri gerekiyor.\n\nama benim ümidim kalmadı...",
+      "referenced_content": [
+        {
+          "type": "entry",
+          "title": "turkiyenin-demografisinin-kasten-degistirilmesi",
+          "entry_id": "136206413",
+          "author": "speciale aperta",
+          "date": "14.04.2022 19:09 ~ 15.04.2022 21:30",
+          "content": "ottawa sözleşmesi sonucu 2011 yılında suriye sınırındaki yaklaşık 900 km. alan mayınlardan temizlendi.\n\nsuriye karıştırıldı, sonrasında pkk/ypg teröristleri ırak'ın kuzeyinden suriye'ye türkiye üzerinden geçişi sağlandı. hatta bu teröristler peşmerge tarafından ayn el arab'da 29 ekim 2014 tarihinde biji serok obama sloganlarıyla karşılandı. haber\n\nsonra suriye'nin kuzey bölgelerinde ne kadar masum insan varsa roket füze artık allah ne verdiyse bu insanların yaşadığı şehir, kasaba ve köylere atılıp halkın kuzeye, yani türkiye'ye doğru göç ettirilmeleri sağlandı.\n\nsonuç mu? bugün türkiye'de hükümetin bile net olarak sayı veremediği 4,5 - 5 milyon kayıtlı, belki bir bu kadar daha kayıtsız (kayıtsız da ne demekse?) geçici sığınmacı yerleşti. daha doğrusu her ile ve her ilçeye homojen olarak yerleştirildi.\n\nbu yapılırken ensar-muhacir muhabbeti dillerden düşmedi..!\n\nbugün ne zaman gidecekler diye sorulduğunda ne diyor hükümet?\n\ng ö n d e r m e y e c e ğ i z...!\n\nben ülkemde, bilgisiz, cahil, vurdumduymaz, saygısız, kültürsüz, tembel, hain insanlar istemiyorum.\n\nzorunlu edit: debe'ye giren entrylerimi editlemezdim. (bu sefer hariç) ama gelen birkaç özel mesaja istinaden;\n\nayn el-arab ilçesi, (halep'in ilçesi) benim ilkokul zamanlarındaki atlaslarda, tarih atlaslarında ayn el-arab olarak geçmektedir. hâlâ daha resmi adı budur. \"kobani, orasının adı\" diyen yazarlara bildiririm.\n\nişte bu da bir demografik mesele aslında...\n\n2. edit: kaçaklara, (dikkat edin lütfen geçici sığınmacılar da değil) yani sınırlarımızdan elini kolunu sallayarak giren kaçaklara gel gel yapan danışmanlık büroları da varmış. (bkz: istanbul information) biz daha neler göreceğiz acaba türk milleti olarak?",
+          "has_external_url": true
+        }
+      ],
+      "referenced_entry_ids": [
+        "136206413"
+      ],
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "174239714",
+      "author": "cag atlanirken arada kalan adam",
+      "date": "03.04.2025 13:51",
+      "content": "artık türkiye'de kalmalarına dair bir neden kalmamıştır.ülkelerinde savaş bitmesine rağmen hala ısrarla gönderilmiyorlar.\n\ngönüllü dönüş safsatasıyla bu ülkeye ve kültürüne ummadık zararlar verildiğinin herkes farkına varsın. bu iş akplisini de chplisini de geçti, toplumun her kesimi bu konuda diretmeli\n\n(bkz: 2024 dünya göç raporunda türkiyenin birinci olması)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "174605757",
+      "author": "aloscuk",
+      "date": "17.04.2025 03:38",
+      "content": "herhangi bir şekilde dönüş başlanacak mı merak edilendir.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "175528437",
+      "author": "aloscuk",
+      "date": "24.05.2025 01:06",
+      "content": "savaşın bitmesine rağmen hala bir aksiyon bulunmamaktadır.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyelilerin geri gönderilmesi süreci",
+      "entry_id": "175528589",
+      "author": "oscalis",
+      "date": "24.05.2025 01:12 ~ 14:08",
+      "content": "boş küme!\n\nanlamayanlar olabilir, anlayanlar bağışlasın:\n\nolmayan süreç!",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

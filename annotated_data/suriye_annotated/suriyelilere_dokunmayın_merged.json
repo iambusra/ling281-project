@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:58:50.866008",
+    "total_entries": 2,
+    "input": "suriyelilere dokunmayın",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelilere dokunmayın",
+      "entry_id": "148831073",
+      "author": "drunken sailor",
+      "date": "08.02.2023 17:30 ~ 17:33",
+      "content": "görsel\n\nmilyonlarca kişinin evsiz kaldıgı deprem felaketiyle ilgili malum kesimin en büyük temennisi. bırakın canları ne isterse yapsınlar hüü:(((\n\nhttps://twitter.com/…?s=20&t=fff1-xagyic_pa59qw-h5q\n\nsana kötü bir haberim var, ümmetin zerre sikimizde değil zainab. o teröristlere öyle bir dokunacaz ki ağzın açık kalacak. zırlayarak günlüğüne yazabilirsin.",
+      "has_external_url": true,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE"
+      ]
+    },
+    {
+      "title": "suriyelilere dokunmayın",
+      "entry_id": "148831707",
+      "author": "sefik kedi",
+      "date": "08.02.2023 17:36",
+      "content": "şu urtamda bile suriyeli ajitasyonu yapmak neyin nesisidir. zeynep karataş\n@zainabkaratash matmazel niye bu kadar endişe etmektedir ki.\nattığı metin . ya canım 15.000.000 enkaz altında özellikle surileri bu kadar dertlenmenin arka planı nedir ki.\n--- spoiler ---\n\nsuriyelilere dokunmayın,allah rızası için dokunmayın. ya onların 10 yılda yaşadığı yıkımı bir günde yaşadık cenazelerimiz enkaz altında,hala mı empati kuramıyoruz!hala mı mazluma dokunmaktan korkmuyoruz. yalvarıyorum dokunmayın. vallahi allah yanımıza bırakmaz,billahi bırakmaz.\n--- spoiler ---",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN-POS"
+      ]
+    }
+  ]
+}

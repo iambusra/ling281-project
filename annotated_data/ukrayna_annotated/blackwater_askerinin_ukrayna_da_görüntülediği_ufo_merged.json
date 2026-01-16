@@ -1,0 +1,48 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:13:48.337734",
+    "total_entries": 3,
+    "input": "blackwater askerinin ukrayna'da görüntülediği ufo",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "blackwater askerinin ukrayna'da görüntülediği ufo",
+      "entry_id": "46560049",
+      "author": "boga etkisi",
+      "date": "25.10.2014 05:34",
+      "content": "0.52'de ufo (!) çelik iskeletin önünde net olarak görülebilir. aynı saniye içinde birden iskeletin arkasına geçmektedir.\nhttp://i.imgur.com/mwqbgpa.jpg (alttaki resim ilk, üstteki ikinci)\nfakedir.",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "blackwater askerinin ukrayna'da görüntülediği ufo",
+      "entry_id": "46560076",
+      "author": "ketcapli dondurma",
+      "date": "25.10.2014 05:45",
+      "content": "basit bir, kütahya porselen viralidir.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "blackwater askerinin ukrayna'da görüntülediği ufo",
+      "entry_id": "46560099",
+      "author": "globotruncana",
+      "date": "25.10.2014 05:56",
+      "content": "(bkz: bu da gol değil)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

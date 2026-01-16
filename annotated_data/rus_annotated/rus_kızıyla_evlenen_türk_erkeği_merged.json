@@ -1,0 +1,85 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:16:09.847740",
+    "total_entries": 6,
+    "input": "rus kızıyla evlenen türk erkeği",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rus kızıyla evlenen türk erkeği",
+      "entry_id": "142003476",
+      "author": "burayakacharfsigiyor",
+      "date": "30.08.2022 14:34",
+      "content": "normal bir durum.\n\nruslar rahat insanlar, rahat tanışılıp evlenilebilir.\n\nbir hafta evvel kampüste rus bir kız öğrenci işlerinin yerini sordu. tarif ettim, benim gideceğim binanın oradan gidiliyordu. biraz eşlik ettim.\nneyse en son kız yakışıklı olduğumu söyledi ve telefon numaramı almak istedi. kız standartların çok üstünde güzel de bir kızdı ama vermedim telefon numaramı.\n\ndemek istediğim normal bir durum.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POS-STEREO",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "rus kızıyla evlenen türk erkeği",
+      "entry_id": "142003582",
+      "author": "fuckyoulikeahurricane",
+      "date": "30.08.2022 14:37",
+      "content": "kıbrıs için çok popüler olan bir durum. 10 kişiden birinin eşi rus ya da o taraflar.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus kızıyla evlenen türk erkeği",
+      "entry_id": "142003964",
+      "author": "ahu gozlu cekmece",
+      "date": "30.08.2022 14:48",
+      "content": "oldukça sıradan bir durumdur.\n\ngeçenlerde biri bana adres sordu, tarif edemedim.\ntarif etseydim de anlamazdı zaten. dizlerinin üzerine çöküp evlenme teklif etti.\n\nevliyim deyip yoluma devam ettim tabii.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus kızıyla evlenen türk erkeği",
+      "entry_id": "142004028",
+      "author": "moskarol1",
+      "date": "30.08.2022 14:50 ~ 14:53",
+      "content": "rus kızı sadece kendisinden çok daha zengin bir erkekle evlenir. içinde bulunduğu sefaletten kendini kurtaracak erkek arar. erkeğin nereli olduğu parası olduğu takdirde pek önemli değildir.\n\nolaya erkek tarafından bakacak olursak; rus kızıyla evlenen türk erkeği büyük ihtimalle kızın güzelliğine vurulmuştur. erkekler evlenecekleri kadının maddi durumu iyi mi kötü mü diye düşünmezler. 25 yıldır rusya'da yaşayan biri olarak, sarı saç, mavi göz ve beyaz tenin türk erkeklerinin büyük çoğunluğunu tav etmeye yettiğini söyleyebilirim.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "rus kızıyla evlenen türk erkeği",
+      "entry_id": "142005948",
+      "author": "mevzumu var",
+      "date": "30.08.2022 15:41",
+      "content": "geçen bir rus kıza saat sordum sonra evlendik şimdi çocuğum olacak.\n\nnot: tamamen gerçek geçen dediysem de 2013 tanışma 2017 evlenme:)",
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "rus kızıyla evlenen türk erkeği",
+      "entry_id": "179638932",
+      "author": "angusangus",
+      "date": "06.11.2025 18:25",
+      "content": "tamam guzellik boy pos bir yere kadar kurtariyor da bunun icin evlenmeye gerek yok\nrus kizlarinin %90 i evlenmeden de iliskiye tamam diyorlar, kendi ulkelerindeki erkekler tarafindan o kadar deger gormuyorlar ve o kadar varos bir hayat yasiyorlar ki, turk erkeklerinin am gormemis abazalari neyse, kendi ulkesinde deger gormeyen rus kadini da aynidir.\ntavsiyem asla evlenmek gibi bir hata yapmayin\nkendinize layik, o degeri bilen okumus kendini gelistirmis bir türk kiziyla evlenin\nya da cok fakirseniz pasaportu degerli bi yabanci kadinla evlenin",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE"
+      ]
+    }
+  ]
+}

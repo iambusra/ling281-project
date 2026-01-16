@@ -1,0 +1,918 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:15:05.430267",
+    "total_entries": 73,
+    "input": "3.5 milyon suriyeliyle onur duymalıyız",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "3.5 milyon suriyeliyle onur duymalıyız",
+      "entry_id": "81886039",
+      "author": "cartooncu",
+      "date": "02.10.2018 20:45 ~ 06.10.2018 08:56",
+      "content": "bu ömer çelik ne yapmak nereye varmak istemektedir.\nedit; imla",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "3.5 milyon suriyeliyle onur duymalıyız",
+      "entry_id": "81886399",
+      "author": "rahmetli de sollardi",
+      "date": "02.10.2018 20:55",
+      "content": "(bkz: tabii lan manyak mısın)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "3.5 milyon suriyeliyle onur duymalıyız",
+      "entry_id": "81886524",
+      "author": "feroo52",
+      "date": "02.10.2018 20:59",
+      "content": "kendilerini 1 hafta bağcılar da oturmaya davet ediyorum.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "3.5 milyon suriyeliyle onur duymalıyız",
+      "entry_id": "81886563",
+      "author": "thapsus",
+      "date": "02.10.2018 21:00",
+      "content": "20 yıl sonra biz azınlık onlar ev sahibi olur",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "3.5 milyon suriyeliyle onur duymalıyız",
+      "entry_id": "81886576",
+      "author": "erotic lounge",
+      "date": "02.10.2018 21:00",
+      "content": "her gordugumde tuylerim diken diken oluyor.\n\nbu gurur hepimizin.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "3.5 milyon suriyeliyle onur duymalıyız",
+      "entry_id": "81886747",
+      "author": "bimin aystisi",
+      "date": "02.10.2018 21:04",
+      "content": "neden yolda görsem tanımayacağım şahıslar benim yerime konuşuyor dediğim açıklama.\n\nneymiş ekmeğimizi bölüşmeye devam edecekmişiz ben istemiyorum bölüşmek arkadaş . getirirken bize sordunuz sanki birde utanmak yerine açıklama yapıyorsunuz .\n\nhttp://www.hurriyet.com.tr/…-oldurmesinler-40972188\n\nşu habere bakın bunun gibi niceleri var. vatanını satan araplara onlarca milyar dolar harcayan devlet kendi evladının tedavisine destek olmuyor. arap siki yalamaktan nefes alamıyorsunuz soysuzlar!",
+      "has_external_url": true,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "3.5 milyon suriyeliyle onur duymalıyız",
+      "entry_id": "81886965",
+      "author": "fareli koyun pompacisi",
+      "date": "02.10.2018 21:10",
+      "content": "çok gurur duyuyorsan 3-5 bin tanesini al evine bak ömerciğim. tutan mı var?",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "3.5 milyon suriyeliyle onur duymalıyız",
+      "entry_id": "81887031",
+      "author": "penguinsan",
+      "date": "02.10.2018 21:11",
+      "content": "bu konu hakkında artık bir referandum yapılsa da görsek kaçımız gururlu, kaçımız öfkeli dediğim beyanat.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "3.5 milyon suriyeliyle onur duymalıyız",
+      "entry_id": "81887168",
+      "author": "karn evil 9",
+      "date": "02.10.2018 21:15",
+      "content": "neymis, suriyeliler evine donsun dememek, marjinallesmemek lazimmis.sen mi cebinden para veriyosun diye sorarlar adama.mecliste 3 liraya biftek ye, sonra her sikime en az yuzde 10 zam yap, millet sanki cok zengin de suriyelilere bakacak.\nelim ayagim titriyor sinirden.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "3.5 milyon suriyeliyle onur duymalıyız",
+      "entry_id": "81887213",
+      "author": "benbiravareyim",
+      "date": "02.10.2018 21:16",
+      "content": "ilginç bir açıklamadır.\n\nmhp'nin içinden hemen hemen aynı oy oranında bir milliyetçi parti çıkmış olduğunu belirtmek isterim.\n\nşu anda milliyetçi oyu %20 civarında. türkiye tarihinde milliyetçi düşüncede olan kesim, en son ne zaman bu kadar oyu gördü, düşünmek lazım. (bkz: swh)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "3.5 milyon suriyeliyle onur duymalıyız",
+      "entry_id": "81887390",
+      "author": "jenizaros",
+      "date": "02.10.2018 21:21",
+      "content": "arap baharı bizim güzümüz oldu...",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "3.5 milyon suriyeliyle onur duymalıyız",
+      "entry_id": "81887452",
+      "author": "ruoja",
+      "date": "02.10.2018 21:23",
+      "content": "hiç kimse ama hiç kimse kendini suriyelilerin üzerinde göremez.\n(bkz: hiç kimse ama hiç kimse)",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "3.5 milyon suriyeliyle onur duymalıyız",
+      "entry_id": "81887453",
+      "author": "tantanayapmatantuniyapdayiyek",
+      "date": "02.10.2018 21:23",
+      "content": "ben \"onur\" hakkımı devretmek istiyorum.\nisteyen benim yerime de duyabilir!!\n\nmuhtemelen türk bir iş yeri sahibi seve seve talip olacaktır. özel sektör patronları olduğu gibi belediyelere kendi vatandaşını kabul etmeyip suriyeli çalıştırma emri veren tüccar kafalı devlet de bu onura talip olabilir tabii...\n\nortamlarda \"ümmet aşkı\" deriz, kim bilecek!!",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "3.5 milyon suriyeliyle onur duymalıyız",
+      "entry_id": "81887503",
+      "author": "milletbahcelerindekekyiyipyuvarlananadam",
+      "date": "02.10.2018 21:24",
+      "content": "geçen sene suriyeli öğrencilerim vardı. bu seneyse suriyeli üç tane öğretmen arkadaşım var.ogretmen arkadaşların biriyle bugün ingilizce sohbet ettim çünkü türkçesi yetersizdi.devletimin bana ingilizcemi geliştirme imkanını ücretsiz olarak sağlamasından onur duydum.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "3.5 milyon suriyeliyle onur duymalıyız",
+      "entry_id": "81887576",
+      "author": "archangelus",
+      "date": "02.10.2018 21:26",
+      "content": "tanım: tüm çok sevenlerine alında evinizde besleyin milletin başına bela etmeyin denilesi çekirge sürüsü için, bu sürüyü başımıza bela edenlerden birinin verdiği basın beyanat şeysi.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE"
+      ]
+    },
+    {
+      "title": "3.5 milyon suriyeliyle onur duymalıyız",
+      "entry_id": "81887616",
+      "author": "i am ozymandias",
+      "date": "02.10.2018 21:27",
+      "content": "onur duyarken harcadığımız paralar ne olacak diye sorarlar mı sorarlar.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "ECON",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "3.5 milyon suriyeliyle onur duymalıyız",
+      "entry_id": "81887630",
+      "author": "golgi cisimcigi",
+      "date": "02.10.2018 21:27",
+      "content": "ekmek corba bölüşmek mi!? benim yaşadığım sehirde medikalparkin guzellik kliniginde adını ilk defa duydugum bakımları ve estetikleri yaptırıyorlar. herkesten de havalilar...",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "3.5 milyon suriyeliyle onur duymalıyız",
+      "entry_id": "81887736",
+      "author": "vinegar and salt",
+      "date": "02.10.2018 21:30",
+      "content": "inşallah 3.5 milyon olarak kalırlar temennisinde bulunduğum söz. çoğalıyorlar lan bu adamlar yeni doğanlar ilkokul 2. sınıfa başladılar ne 3.5 milyonu.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "3.5 milyon suriyeliyle onur duymalıyız",
+      "entry_id": "81887757",
+      "author": "stukatr",
+      "date": "02.10.2018 21:30",
+      "content": "hangi ekmek? bi yarısı çalınmış beyaz ekmek 1.25, 1.5 lira ulan\n\nondan gayrı, devamını okuyayım dendiğinde, söylenenler yanlış değil. doğru, bu kadar mülteciyi başka ülke alsa devrim olmuş, binlerce göçmen, çıkan olaylarda katledilmiş olurdu. tarihimizde kötü bir yara olarak kalırdı. polonya, macaristan gibi orta yoldaki ülkelerdeki insanlık dramları daha dün yaşandı.\n\nsuriye'de ilerleme kaydedildikçe bu insanlar ülkelerine geri dönmeli. tek amaç bu olmalı.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "ECON"
+      ]
+    },
+    {
+      "title": "3.5 milyon suriyeliyle onur duymalıyız",
+      "entry_id": "81887762",
+      "author": "tatil kufesi",
+      "date": "02.10.2018 21:30 ~ 21:40",
+      "content": "bir zamanlar rus uçağını ben düşürttüm diyen başbakanın partisinin dediğidir.\nya git ya. dalga mı geçiliyor allah aşkına? dediğimiz laftır.\nasıl biz vatan topraklarımızı bu kadar kolay yağmalattığımız için utanıyoruz.\nonlarla metrobüslerde, mahallelerde biz yaşıyoruz.\nbak. idlib'te isteyince nasıl ateşi durduruyormuşsunuz?\nbu savaşın başında da yapmayın etmeyin\ndiye taraflar arasında uzlaştırıcı olacağımıza yürüyün öso dedik.\nne oldu? kucağımızda iki de bir korkutmak amaçlı:'beka sorununu, kürt devletini bulduk'\nakp ben ne dersem yutarlar demesin ters tepiyor artık.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "3.5 milyon suriyeliyle onur duymalıyız",
+      "entry_id": "81887767",
+      "author": "karadelige dusen cekirge",
+      "date": "02.10.2018 21:30",
+      "content": "rizkimizi yedikleri ve yemege devam ettikleri icin onur duymaliyiz. ha bir de, sacas bittiginde bu insanlari \"ciddi ciddi\" sinirdisi mi edecegiz? nasil olacak bu? bir cogu vatandaslik aldi ve almaya da devam edecek. allah akil fikir versin celige.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "3.5 milyon suriyeliyle onur duymalıyız",
+      "entry_id": "81887808",
+      "author": "ismimiunuttum",
+      "date": "02.10.2018 21:32",
+      "content": "yorumsuz bir açıklama daha. söyleyecek çok sözüm var ama anlayacak kapasitede çok az insan var. o yüzden siz onur duymaya devam edin yarın bir gün çocuklarınızın eğitim hakkını aldıklarında bana ağlamayın.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "3.5 milyon suriyeliyle onur duymalıyız",
+      "entry_id": "81887844",
+      "author": "acalculia",
+      "date": "02.10.2018 21:32",
+      "content": "ben şahsen onur da duymuyorum gurur da duymuyorum kendi ekmeğimi de bölüşmek istemiyorum çünkü bize zor yetiyor.. bana sormadan neden benim adıma konuşuluyor, bu cesaret nereden geliyor? kendi halkını ikinci plana atan bir yönetim nasıl yerli ve milli duruştan bahsedebiliyor insan hayret ediyor.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "3.5 milyon suriyeliyle onur duymalıyız",
+      "entry_id": "81888027",
+      "author": "newhatt",
+      "date": "02.10.2018 21:37",
+      "content": "insanların akıllarıyla oynamak böyle bir şey olmalı. neyleriyle onur duymalıyız tam olarak? o sözcü beyefendi bunu da bir açıklasın mümkünse.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "3.5 milyon suriyeliyle onur duymalıyız",
+      "entry_id": "81888035",
+      "author": "bilakoma",
+      "date": "02.10.2018 21:37",
+      "content": "bir ülkenin içine nasıl sıçılır çok güzel anlatıyor. vizyonu da tam akp ye oturuyor. adam zaten sana bana da konuşmuyor.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "3.5 milyon suriyeliyle onur duymalıyız",
+      "entry_id": "81888037",
+      "author": "voyager altin plak",
+      "date": "02.10.2018 21:37",
+      "content": "\"size seçim kazandıracak milyonlarca oy da onlardan geliyor, tabii ki siz duyacaksınız,\" diye karşılık verdiğim beyanat. ama benim alabileceğim sağlık vb. ücretsiz hizmetleri bana parayla, onlara bedava verdikleri için onur monur duymuyorum, tayyipist arkadaşlarıyla birlikte keşke ülkeyi terk etseler...",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY",
+        "ECON"
+      ]
+    },
+    {
+      "title": "3.5 milyon suriyeliyle onur duymalıyız",
+      "entry_id": "81888100",
+      "author": "ehliyetiniarayanadam",
+      "date": "02.10.2018 21:39",
+      "content": "3,5 milyon diyerek sadece istanbul’dakileri saydı sanırım",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "3.5 milyon suriyeliyle onur duymalıyız",
+      "entry_id": "81888143",
+      "author": "turk usulu tatli eksi sos",
+      "date": "02.10.2018 21:40",
+      "content": "\"sen duy \" diyeceğim hede...",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "3.5 milyon suriyeliyle onur duymalıyız",
+      "entry_id": "81888170",
+      "author": "asdafjfsamfhsajfbsaf",
+      "date": "02.10.2018 21:40",
+      "content": "nereye doğru onur duyuyoruz?",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "3.5 milyon suriyeliyle onur duymalıyız",
+      "entry_id": "81888178",
+      "author": "witheist",
+      "date": "02.10.2018 21:40 ~ 21:42",
+      "content": "nisan ayında suriye rejimi 10 numaralı kararname diye birşey yayınladı. detaya girmeyeceğim ancak sonuç olarak suriye sınırları dışında yahut muhaliflerin kontrolündeki alanlarda bulunan suriye vatandaşlarının sahip olduğu her tür gayrimenkule devlet el koydu.\ndönmeyi düşünenler de bu karara bakıp suriye'de kendilerini neyin beklediğini aşağı yukarı tahmin edebilirler.\ndolayısıyla o suriyelilerin dönmesi işi yaş gibi biraz\nkaynak için:\nhttps://www.theguardian.com/…under-new-property-law",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY",
+        "ECON"
+      ]
+    },
+    {
+      "title": "3.5 milyon suriyeliyle onur duymalıyız",
+      "entry_id": "81888197",
+      "author": "rumelian",
+      "date": "02.10.2018 21:41",
+      "content": "istikrar gelince geri gideceklermiş. peki nasıl gidecekler? ülkenin dört bir yanına dağılmış 3,5 milyon kişiyi, nasıl ve hangi lojistikle, ne kadar sürede suriye’ye taşıyabileceksiniz?\n\nya bu suriler, memleketin nakit ve/veya vakit darlığından göremediğim yerlerinde, hayatlarını yaşıyor.\n\nhadi bunlar savaştan kaçtı. afganlar? pakistanlılar? özbekler? tacikler?\n\nyarın sokağa çıkma yasağı ilan edip sayım yapın 2 milyon afgan ve pakistanlı yoksa ben bir şey bilmiyorum! üstelik sınır dışı olanlar 500 lira ceza ödeyip geri geliyor.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "3.5 milyon suriyeliyle onur duymalıyız",
+      "entry_id": "81888218",
+      "author": "eskibirev",
+      "date": "02.10.2018 21:42",
+      "content": "yanınıza alın da her şeyinizi paylaşın aq.ne de olsa siz paylaşmayı çok seversiniz.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "3.5 milyon suriyeliyle onur duymalıyız",
+      "entry_id": "81888232",
+      "author": "altairibnlaahad",
+      "date": "02.10.2018 21:42",
+      "content": "'' 2015'te akdeniz'e 7 bin kişi açılıyordu bir günde. şimdi yapılan anlaşmalarla 30 kişiye düştü bu durum.'' sorgulanması gereken durum şu kısım'' yapılan anlaşmalarla'' türkiye mülteciler ile ilgili ciddi harcamalarda bulundu, bunun haricinde sağlık sektöründe'' kontrolsüz mülteci girişleri 30 yıllık aşı takvimini bozdu'' bir çok türk vatandaşı çıkan kavgalarda öldürüldü, bir çok ev sahibi kirasını alamadı, bir çok türk vatandaşı ucuz işçilik yüzünden işlerini kaptırdı. bunlar benim uydurduğum şeyler değil, her gün haberlerde gördüklerimiz.",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "ECON",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "3.5 milyon suriyeliyle onur duymalıyız",
+      "entry_id": "81888341",
+      "author": "kurcalama oglum bozacaksin",
+      "date": "02.10.2018 21:44",
+      "content": "ırkçılığın kralı yapıldı kralı! zibilyon tane video var youtube'da, suriyelileri aşağılayan. heriflerin suratına tükürüyorsun, gülüyor adamlar. dilencilik, yankesicilik, soygun ne ararsan var. devletimizin yaptığı açıklamaya bak. yukarıda bir arkadaşın dediği gibi bu gerilim iyice artıyor. ben almanya'daki türklere kızardım uyum sağlayamıyorlar, bizi dünya'ya rezil ediyorlar diye. geldiğimiz noktaya bak. gurbetçilerin bokunu yesin almanya. çomar, momar diyoruz da adamlar alnının teriyle ekmeğini kazanıyorlar. ekonomiye katkıları var en azından. bunlar?\n\nbir fırsat çıksa da siktir olsak gitsek şu ülkeden. boku çıktı artık. ne tadı kaldı ne tuzu.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "3.5 milyon suriyeliyle onur duymalıyız",
+      "entry_id": "81888406",
+      "author": "dcdl",
+      "date": "02.10.2018 21:46",
+      "content": "sanırım ülkemizde bulunmayıp binbir zorlukla avrupaya kaçabilmiş hayatını hiçe sayarak risk almış 3.5 milyonu kast ediyor. zira ülkemizde suriyeli sayısı 3.5 milyon değil",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "3.5 milyon suriyeliyle onur duymalıyız",
+      "entry_id": "81888429",
+      "author": "exensiz",
+      "date": "02.10.2018 21:46",
+      "content": "bu gurur da bize yüz yıl yeter.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "3.5 milyon suriyeliyle onur duymalıyız",
+      "entry_id": "81888548",
+      "author": "fdesign",
+      "date": "02.10.2018 21:49",
+      "content": "trol ise komik, gerçek ise daha da komik.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "3.5 milyon suriyeliyle onur duymalıyız",
+      "entry_id": "81888629",
+      "author": "mert62",
+      "date": "02.10.2018 21:51",
+      "content": "he he kesin oyledir.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "3.5 milyon suriyeliyle onur duymalıyız",
+      "entry_id": "81888633",
+      "author": "sozlugusizdenogrenecekdegiliz",
+      "date": "02.10.2018 21:51",
+      "content": "gelecek nesil gurur duyacakmış, çok beklersin. gelişmiş şehirlerde neler neler diyorlar size bir bilseniz. sayenizde ülkede genç kalmayacak.ben de onlardan biriyim. gelecek nesillerden sonraki nesiller affedin. biz düzeltemezsek siz düzeltin.\ntanım: saçma sapan konuşma.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "3.5 milyon suriyeliyle onur duymalıyız",
+      "entry_id": "81888822",
+      "author": "kapp",
+      "date": "02.10.2018 21:56",
+      "content": "saçma, sadece yaşam haklarını kullanıyorlar, gururluk bir mevzu yok.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "3.5 milyon suriyeliyle onur duymalıyız",
+      "entry_id": "81888888",
+      "author": "lakinyokboylebirsey",
+      "date": "02.10.2018 21:57",
+      "content": "kilis'de parçalanan aile sayısından bi-haber sözcü. ulan milletin ailesi dağıldı be ona ne diyeceksin.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "3.5 milyon suriyeliyle onur duymalıyız",
+      "entry_id": "81889022",
+      "author": "mordorlu hobbit",
+      "date": "02.10.2018 22:01",
+      "content": "3.5 milyon mu o kadarsa yine iyi en az 5 milyona bakıyoruz ömer bey",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "3.5 milyon suriyeliyle onur duymalıyız",
+      "entry_id": "81889235",
+      "author": "dr krasny",
+      "date": "02.10.2018 22:05",
+      "content": "(bkz: araplıktan aldığım tadı hiçbir şeyden almadım)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "3.5 milyon suriyeliyle onur duymalıyız",
+      "entry_id": "81889298",
+      "author": "taiga",
+      "date": "02.10.2018 22:07",
+      "content": "(bkz: hayırlı onurlar)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "3.5 milyon suriyeliyle onur duymalıyız",
+      "entry_id": "81889340",
+      "author": "ultradamus",
+      "date": "02.10.2018 22:08",
+      "content": "tüik verilerine göre ülkemizde 250 bin ırak, 80 bin afganistan, 80 bin almanya, 50 bin azerbaycan, 40 bin rusya ve 500 bin diğer ülke vatandaşları olmak üzere 1 milyona yakın yabancı uyruklu kişi yaşıyor. türkiye’de oturma veya çalışma izni alan bu bir milyona yakın yabancı uyruklu sayısına suriyeli mülteciler dahil değil. dikkat ediniz mülteci diyorum. suriyeli kardeşlerimizin mülteci olmalarına rağmen herkesten fazla oturma, çalışma(vergisiz), barınma, çoğalma, eğitim hakkına sahip olmaları ve olabildiğince denetimsiz bir şekilde dolaşmaları devletimiz için bir onur vesilesi ise artık demir almak günü gelmiştir bu diyardan.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "3.5 milyon suriyeliyle onur duymalıyız",
+      "entry_id": "81889443",
+      "author": "burasi cok onemli",
+      "date": "02.10.2018 22:10",
+      "content": "3.5 milyon suriyeliyi savaş çığırtkanlığı yaparak vatanından etmenin gurur duyulacak hiçbir yanı yok",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "3.5 milyon suriyeliyle onur duymalıyız",
+      "entry_id": "81889445",
+      "author": "gadasiz",
+      "date": "02.10.2018 22:10",
+      "content": "kendi adına daha doğrusu sahibi adina konusan pek onurlu mahluk beyanı.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "3.5 milyon suriyeliyle onur duymalıyız",
+      "entry_id": "81889457",
+      "author": "mesmes",
+      "date": "02.10.2018 22:10",
+      "content": "necip milletimiz 4 yıldır ensardı.şimdi zalim müşriklere taş çıkartırlar.ya ensarlık yapmayacaksın ya da katlanacaksın.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "3.5 milyon suriyeliyle onur duymalıyız",
+      "entry_id": "81889554",
+      "author": "qappaq",
+      "date": "02.10.2018 22:12",
+      "content": "bu milli varlığa zararlı oluşum, kendisine verilen türkiye'yi yıkma projesini adım adım ve başarıyla yerine getirmektedir.\nordusu paramparça edilmiş, tüm sanayi kuruluşları satılmış, eğitimi iğdiş edilmiş, ekonomisi çökertilmiş, 5 milyon suriyeliyi kanserli hücre gibi yurt çapına yerleştirmiş... say say bitmez amk!",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "3.5 milyon suriyeliyle onur duymalıyız",
+      "entry_id": "81891098",
+      "author": "boi the joy",
+      "date": "02.10.2018 22:43",
+      "content": "katılamadığım önerme. onur duymak isterdim ama ilticalarının nedenini bildiğim için aksine utanç duyuyorum.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "3.5 milyon suriyeliyle onur duymalıyız",
+      "entry_id": "81891324",
+      "author": "narsist karga",
+      "date": "02.10.2018 22:48",
+      "content": "neden bu suriyeli konusu hep siyasilerin insiyatifindedir anlamıyorum.adamların derdini çeken biz,vergilerimizle ve kesintilerle karınlarını doyurup maaşlarını veren,hastane masraflarını karşılayan biz.eee bizede sorulması gerekmez mi?hermevzuda referandum yapılıp da bu konuda neden referandum yapılmaz anlamıyorum.yapılsın bi oylama bakalım suriyelilerden memnunmuyuz değilmiyiz.eğer%10 evet çıksın bende trump ım amk.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "3.5 milyon suriyeliyle onur duymalıyız",
+      "entry_id": "81891515",
+      "author": "abcxox",
+      "date": "02.10.2018 22:52",
+      "content": "bu halkı birde ırkçı yaptınız ya helal olsun.\n\nhadi insanlık adına buyur ettiniz. kabul bizlerde üzüldük. peki ya sonra? mülteci olarak kabul ettiğiniz onca kişiyi kendi halkınızdan nasıl üstün gördünüz? ben isterdimki eşit haklara sahip olalım. tabiki buda her konuda değil. yaşamak için gereken konularda. okul mu? kabul onunlada okurdum ama benimle aynı şartlarda alındığı taktirde. iş mi? onada kabul. görevi neyse yapsın benimle aynı şartlarda çalışsın. adalet mi? başına benim ülkemde birşey gelirse beni koruyan devletim onuda korusun. (adaletin olduğu varsayılmıştır.) ama misafir olduğunu her zaman hissettirerek. ben ondan daha önemli, daha değerli olmalıydım. mutlaka ondan bir artım olsun çünkü burasi benim evim. sadece misafirperver olmalıydık biz. kendi evimizde tanrı misafirini ağırlamalıydık. bizmi ne yaptık? evin anahtarını verdik evimizi almaya kalktılar.\n\nsizce şimdi istiyor muyum onlarla yaşamak? sizin sayenizde hayır. çünkü misafirligin vermiş olduğu muhtaçlık, mağduriyet onlarda artık yok.\n\nvebali sizin üstünüze. bu halkı siz böyle yaptınız.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "3.5 milyon suriyeliyle onur duymalıyız",
+      "entry_id": "81891559",
+      "author": "crstssh",
+      "date": "02.10.2018 22:53",
+      "content": "3,5 milyon aldık 7 yıl içinde 2’ye katlasa kendini 7 milyon insan kayıt dışı olanları kat 10 milyon insan. gitmiyoruz diye ayaklanma çıkartsalar önünü alamayız. vakit geçmeden yallah suriye’ye.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "3.5 milyon suriyeliyle onur duymalıyız",
+      "entry_id": "81891800",
+      "author": "panikatakk",
+      "date": "02.10.2018 22:56",
+      "content": "akp sözcüsü ömer çelik'in beyanıymış. evet onur duymalıyız neden mi? sadece kyk ile geçinen üniversiteli genç arkadaşlarımızla, ve geldiği gibi sigortasız işlere girip ülkemde rahat rahat oturan suriyeli arkadaşlarımızla birlikte onur duymalıyız. savaşta olan, savaşta zarar gören her çocuk için çok üzgünüz. ama türkiyede açlıktan ölen ve dilendirilen, açlıkla pençeleşen kaç çocuk var hiç araştırdınız mı? https://www.sozcu.com.tr/…ecd-birincisiyiz-1810361/\nziyaret etmenizi tavsiye ederim.",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "3.5 milyon suriyeliyle onur duymalıyız",
+      "entry_id": "81892685",
+      "author": "sabitmakara",
+      "date": "02.10.2018 23:17",
+      "content": "sayın ömer çelik sen sadece partin adına konuşabilirsin. lütfen toplum adına konuşma. adamın işi gücü yok halk adına konuşuyor. ne ile gurur duyup ne ile duymayacağımıza da beyefendi karar verdi. ekmeğimi falan bölüşemem, bölüşmem gereken fazlasıyla ihtiyaç sahibi var ve bunların kim olacağına biz karar veririz siz partililer değil.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "3.5 milyon suriyeliyle onur duymalıyız",
+      "entry_id": "81892735",
+      "author": "piatnik",
+      "date": "02.10.2018 23:18",
+      "content": "neden gurur duymalıyız?diye cevap verdiğim başlık.her bokluk oldu bi götümüz sikilmedi diye mi gurur duymalıyız?",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "3.5 milyon suriyeliyle onur duymalıyız",
+      "entry_id": "81892859",
+      "author": "uawedat",
+      "date": "02.10.2018 23:21",
+      "content": "onların onuru olsa onur duyardık",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "3.5 milyon suriyeliyle onur duymalıyız",
+      "entry_id": "81892930",
+      "author": "mohendisbeyy",
+      "date": "02.10.2018 23:22",
+      "content": "ekmek benim çorba benim, ister paylaşırım ister paylaşmam derdim ama onursuzluk yapmak istemem",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "3.5 milyon suriyeliyle onur duymalıyız",
+      "entry_id": "81893052",
+      "author": "balonu patlatan ustura",
+      "date": "02.10.2018 23:24",
+      "content": "umarım on yıl sonra bu topraklarda sözde özerklik için savaşan suriyeli teröristleri dize getirdik diye gurur duymazlar.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "3.5 milyon suriyeliyle onur duymalıyız",
+      "entry_id": "81894496",
+      "author": "bosnakpsikolog",
+      "date": "02.10.2018 23:55",
+      "content": "adamlar hırsızlık yapıyorlar, dilencilik yapıyorlar. vatandaşlarımızı dövüyorlar. kızlarımıza laf atıp, tacizde bulunuyorlar. bir mekandaki tüm kaliteyi düşürüyor ve taşkınlık ediyorlar.\n\ngerçekten onur verici.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "3.5 milyon suriyeliyle onur duymalıyız",
+      "entry_id": "81894601",
+      "author": "nanick",
+      "date": "02.10.2018 23:57 ~ 03.10.2018 00:00",
+      "content": "çanakkale savaşı 1917 yılı 43. alay 1. piyade taburu 1. bölük yemek listesi\nekmek bölüşülecekse vatan için böyle bölüşülür. gurur da onur da çanakkalede mücadele etmiş şanlı atalarımızla duyulur. söyleyeceklerim bu kadar.\nedit: sinirden titreyen ellerden ötürü oluşan imla hatalarının giderimi.",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "3.5 milyon suriyeliyle onur duymalıyız",
+      "entry_id": "81895460",
+      "author": "cybersever",
+      "date": "03.10.2018 00:16",
+      "content": "(bkz: tamam)\nya sen nasıl bir insansın",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "3.5 milyon suriyeliyle onur duymalıyız",
+      "entry_id": "81899142",
+      "author": "goriot",
+      "date": "03.10.2018 02:23",
+      "content": "3. sayfa suriyeli haberlerinden onuru duyamıyoruz.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "3.5 milyon suriyeliyle onur duymalıyız",
+      "entry_id": "81901459",
+      "author": "h2s",
+      "date": "03.10.2018 07:21",
+      "content": "devlet batıyor hala suriyeli pesine düştük. 3,5 milyon kişiye harcanan parayı kendi vatandaşınız icin harcansaydız farklı olurdu belki. senin benim maaşımdan kesilen vergiyle maaşlarını alıyorlar bir güzel, bayram olduğundan bayramlaşmaya gidiyorlar geliyorlar. almanya gibi yapacaksın bayramlaşmaya gidebilen biri sığınmacı olamaz deyip sınırdışı etmişti ne güzel yapmış. ama bizdekiler giderler bayramlaşıp 150 kilo valizle geri donerler. üstüne gelip sağa sola saldırıp bıçak çekerler. zaten mantar gibi çoğalıyorlar yakın bir zamanda sayıları 5 6 milyon ve üzerine çıktığında ne olacak, sıkıntı.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "XENO",
+        "ECON"
+      ]
+    },
+    {
+      "title": "3.5 milyon suriyeliyle onur duymalıyız",
+      "entry_id": "81901539",
+      "author": "ziplayanpireninsolonbacagi",
+      "date": "03.10.2018 07:28",
+      "content": "bu konu da cok meraktayim mesela beyfendi ne kadar bolusmus ekmegini. hani bir oranlasak 250 dolarlik asgari ucretliye yuklemesek bu onuru serefi. azcik da kendilerine yuklesek. koltuklari bir kabarsa soyle.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "3.5 milyon suriyeliyle onur duymalıyız",
+      "entry_id": "81901563",
+      "author": "tatil kufesi",
+      "date": "03.10.2018 07:30 ~ 20:52",
+      "content": "(bkz: yok artık) tecavüzcülerimizle\nonur duymalıyız ile eş anlamlı yutturmadır.\nfutbol şampiyonasını almanya'ya kaptırdığımızda' iyi oldu masraftan kurtulduk'\nsözüyle le aynı şeydir.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "SEXUAL",
+        "XENO"
+      ]
+    },
+    {
+      "title": "3.5 milyon suriyeliyle onur duymalıyız",
+      "entry_id": "81901917",
+      "author": "altindag",
+      "date": "03.10.2018 07:58",
+      "content": "adamlar artik halk ile resmen dalga geciyor.ne yaptilar da onur duyalim.ulkeye geldiklerinden beri ne kattilar da onur duyalim.\n\nadamlarin ulkemiz de bulunduklari her gun her saat zarar ama onu duymamiz mi isteniyor.keske suriyeliler kadar kendi halkinizi dusunup adamlari kendi ulkelerine gonderseniz de sizinle gurur duysak zor da olsa.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "3.5 milyon suriyeliyle onur duymalıyız",
+      "entry_id": "81902545",
+      "author": "gelvo",
+      "date": "03.10.2018 08:32",
+      "content": "milletimiz ekmeğini paylaşmaya devam edecekmiş miş. sanki millette ekmek kaldı da paylaşacakmış bir de",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "3.5 milyon suriyeliyle onur duymalıyız",
+      "entry_id": "81902687",
+      "author": "doktor mussak",
+      "date": "03.10.2018 08:39 ~ 08:39",
+      "content": "kim bunlara oy verdiyse, suriyeli kardeşlerinin geçimi için onlardan vergi alınsın. yıllardır bize rağmen izlenen politikaların bedelini ödüyoruz yeter!",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY",
+        "ECON"
+      ]
+    },
+    {
+      "title": "3.5 milyon suriyeliyle onur duymalıyız",
+      "entry_id": "81902710",
+      "author": "darkperson",
+      "date": "03.10.2018 08:40",
+      "content": "hepsini ülkesine gönderdikten sonra bu açıklamayı yapmış olsaydı anlayabilirdim. ayrıca hangi 3.5 milyon?",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY",
+        "XENO"
+      ]
+    },
+    {
+      "title": "3.5 milyon suriyeliyle onur duymalıyız",
+      "entry_id": "81903256",
+      "author": "lavaboya yapismis sac teli",
+      "date": "03.10.2018 09:05",
+      "content": "ömründe hic suriyeli mülteciyle tanismamis villasindan denize bakarak fistikli şerbetini yudumlayan m.vekili cümlesidir.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "3.5 milyon suriyeliyle onur duymalıyız",
+      "entry_id": "82392760",
+      "author": "bugungunlerdenisyan",
+      "date": "17.10.2018 13:14 ~ 13:16",
+      "content": "onur küpü olarak hayatıma devam etmemi sağlayan açıklama.\n\nbu suriyelilerin büyük çoğunluğu artık ülkelerinde değil, 2-3 milyon suriyeli kalmıştır kendi vatanlarında. plan şöyle işleyecek, kalan suriyelileri de alacağız, sonra sinsi gibi akdeniz üzerinden suriye'ye geçeceğiz. tırınk sınırları da kapattığımızda yeni vatanımız içinde suriyeli olmayan suriye olacak. bu açıdan şimdiden atatürk barajının kapaklarını hafiften açmalıyız ilerde su problemi yaşamayalım. doğu akdeniz kıyılarında da turizm de yaparız. biraz da petrol çıkarttık mı cillop gibi yeni bir ülke kurarız.\n\ngelen ismini yazdırsın arkadaşlar.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "XENO",
+        "POLICY",
+        "ECON"
+      ]
+    },
+    {
+      "title": "3.5 milyon suriyeliyle onur duymalıyız",
+      "entry_id": "82392792",
+      "author": "metroda otobus bekleyen adam",
+      "date": "17.10.2018 13:15",
+      "content": "olmayacak bir durum.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

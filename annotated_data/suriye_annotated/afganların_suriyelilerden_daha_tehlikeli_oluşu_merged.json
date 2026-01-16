@@ -1,0 +1,40 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:29:07.114411",
+    "total_entries": 2,
+    "input": "afganların suriyelilerden daha tehlikeli oluşu",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "afganların suriyelilerden daha tehlikeli oluşu",
+      "entry_id": "126681881",
+      "author": "eminmisin ki",
+      "date": "08.08.2021 19:36",
+      "content": "her gün afganlar tarafından ufacık çocuklara tecacüz, taciz girişimi haberleri geliyor. günlük en az birkaç kişiye de saldırmış oluyorlar.\n\nbunlar ülkeyi yok etmeye çalışan kanser hücresi gibi ülkeye yayılıyorlar\n\ngelen mülteci gitmeyen mülteciyi aratıyor (giden olması gerekirdi ama bunlar bir türlü gitmediği için böyle oldu)",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "CRIME"
+      ]
+    },
+    {
+      "title": "afganların suriyelilerden daha tehlikeli oluşu",
+      "entry_id": "126682288",
+      "author": "blackbad",
+      "date": "08.08.2021 19:48",
+      "content": "afganların surilerden daha sıkıntılı tipler olduklarını her fırsatta söylüyoruz. suriler en azından aileleriyle gelen ve bize yakın kişiler. afganlar ise çeteleşmeye daha yatkın uğursuz tiynetsiz, ne yapacakları kestirilemeyen ve ülkemizi suriler kadar tanımayan tipler.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "CRIME"
+      ]
+    }
+  ]
+}

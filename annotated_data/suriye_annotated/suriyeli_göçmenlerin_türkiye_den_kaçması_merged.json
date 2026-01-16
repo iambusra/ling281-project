@@ -1,0 +1,87 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:49:11.022808",
+    "total_entries": 6,
+    "input": "suriyeli göçmenlerin türkiye'den kaçması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeli göçmenlerin türkiye'den kaçması",
+      "entry_id": "54842790",
+      "author": "gezgin samuray",
+      "date": "16.09.2015 17:50",
+      "content": "bu aralar özellikle izmir ve şimdi de edirne'de iyice ortaya çıkan durum. savaştan kaçanlar şimdi de yaşamlarını düzgün sürdürmek için yine canlarını tehlikeye atıp türkiye'den kaçmaya çalışıyorlar. türkiye'deki yetkililer de \"yeterki gitsinler, ne halt yerse yesinler\" diyip bunlara genel olarak göz yumuyor. sonuç olarak her kaçak göçmen ölümünde türkiye de sorumlu oluyor.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyeli göçmenlerin türkiye'den kaçması",
+      "entry_id": "54842871",
+      "author": "esas catkiss benim",
+      "date": "16.09.2015 17:53",
+      "content": "bizim yapamadığımızı yaptıkları için kıskanıyorum ben, kaçın kurtarın kendinizi",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "suriyeli göçmenlerin türkiye'den kaçması",
+      "entry_id": "54842916",
+      "author": "dolaysiztumlec",
+      "date": "16.09.2015 17:55",
+      "content": "türkiye'de \"eşya\" ve \"köle\" olarak görüldüğünden dolayı olabilir. eğitim şartları, barınma şartları... tabii en başta \"veririz 2-3 kuruş, eşşek gibi çalışır, nasıl olsa belgesi yok bize muhtaç\" anlayışı gelmektedir.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "ECON"
+      ]
+    },
+    {
+      "title": "suriyeli göçmenlerin türkiye'den kaçması",
+      "entry_id": "54842930",
+      "author": "bhdr54",
+      "date": "16.09.2015 17:55",
+      "content": "nitelikli olanların yapabildigi eylem kanımca.\nsonuçta kaçmanın bir maliyeti var.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyeli göçmenlerin türkiye'den kaçması",
+      "entry_id": "54843384",
+      "author": "panamabandiralikuruyukgemisi",
+      "date": "16.09.2015 18:18",
+      "content": "dertlerinin hayatta kalmak değil hayatlarını kurtarmak olduğunu gösteren olay.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "suriyeli göçmenlerin türkiye'den kaçması",
+      "entry_id": "54843820",
+      "author": "rulingus",
+      "date": "16.09.2015 18:40",
+      "content": "madem ülkemi memleketimi terketmek zorunda kaldim niye insan gibi yasayabilecegim bir yere gitmiyorumdur. zaten fakirim belki oralarda kalirim da cocuklarimin daha güvenli yarinlari olur. o yüzden gavur memleketlere gidiyorlar da kendi dinindeki ülkelere gitmiyorlar.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    }
+  ]
+}

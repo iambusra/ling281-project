@@ -1,0 +1,168 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:02:20.945340",
+    "total_entries": 13,
+    "input": "ukrayna premier ligi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukrayna premier ligi",
+      "entry_id": "27854109",
+      "author": "yuri orlov",
+      "date": "22.03.2012 00:59",
+      "content": "puan eşitliğinde, ikili averajdan ve gol averajından önce galibiyet sayısına bakıyorlarmış bu ligde (bkz: fm diyorsa doğrudur)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna premier ligi",
+      "entry_id": "31047191",
+      "author": "nihil est",
+      "date": "23.11.2012 12:57",
+      "content": "2012 / 2013 sezonunun büyük ihtimalle aşağıdaki sıralamayla biteceğini düşündüğüm lig\n\n1 - shakhtar donetsk\n2 - dynamo kyiv\n3 - metalist kharkiv\n4 - dnipro dnipropetrovsk\n\nson beş sezonun dördü zaten böyle bitmiş, şu an ki puan durumu da çok farklı bir durum göstermiyor.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna premier ligi",
+      "entry_id": "36545610",
+      "author": "kor arabin mahnisi",
+      "date": "31.08.2013 01:53",
+      "content": "2013-2014 sezonu tvnet tarafından ülkemizde yayınlanacaktır.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna premier ligi",
+      "entry_id": "58408328",
+      "author": "arjantin ovalarini sulayan nehir",
+      "date": "10.02.2016 18:27",
+      "content": "2015-2016 sezonunun yayin haklari meltem tv'dedir.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna premier ligi",
+      "entry_id": "60614229",
+      "author": "der meister",
+      "date": "19.05.2016 10:38",
+      "content": "donbass'taki savaşın feci şekilde vurduğu, tıpkı ukrayna futbolu nun geneli gibi günden güne eriyen lig. geçen sezonun avrupa ligi finalisti dnipro dnipropetrovsk, önümüzdeki sezon için uefa lisansı alamadı. metalist harkiv, volyn lutsk ve metalurg zaporijya artık yok. yeni isimlerle ve yapılanmalarla 3-5 sene sonra yine piyasaya çıkarlar ama şu an için bu takımlar, bildiğimiz isimleriyle iflas etmiş durumda ya da etmek üzere. maçlarını lviv'de oynayan şahtar da hala güçlü olsa bile klasik tabirle eski gücünde değil . önümüzdeki yıllarda cepten yiyeceklerini, bir adım ileri giderlerse iki adım geri geleceklerini tahmin ediyorum.\n\nşimdilik işleri yolunda giden tek takımın dinamo kiev olduğu söylenebilir. rebrov yönetiminde ligde şampiyon olup, şampiyonlar ligi'nde çeyrek final gördüler ki bu maddi anlamda çok büyük bir gelir demek dinamo için. üstelik kiev, donetsk ve çevre şehirlerin aksine, hala gayet güvenli ve yaşanabilir. dolayısıyla, oyuncular her ne kadar şu an ukrayna'ya burun kıvırıyor olsa da, öyle kesinlikle gidilmeyecek veya futbolcu transfer edilemeyecek bir şehir değil.\n\nukrayna premier ligi'nin önümüzdeki sezondan itibaren 12 takımla oynanması ve bu sayının, ilerleyen yıllarda yavaş yavaş arttırılarak tekrar 16 ve hatta belki 18'e çıkarılması hedefleniyor. buna karşın, metalist harkiv'in de küme düşürülmesiyle, önümüzdeki sezon bu ligde oynama hakkı bulunan takım sayısı sadece 11. muhtemelen, alt ligden zirka kirovohrad'la birlikte bir takım daha yükselecek. tabii bu söylediklerim bir gece ansızın karpaty ve stal da küme düşürülmezse geçerli olur. öyle bir durumda,\n\n(bkz: işte biz o gün tükeneceğiz)\n\nukrayna futbolunu çok zor günler bekliyor ama ben inanıyorum ki bir dünya savaşı falan çıkmadığı takdirde bu keratalar 3-5 seneye yine ayaklanır, ayaklanacak. gerçi oligarklar parayı aldı götürdü, savaş bitse bile o para geri gelmeyecek. neyse, bakalım.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "ECON"
+      ]
+    },
+    {
+      "title": "ukrayna premier ligi",
+      "entry_id": "74427064",
+      "author": "betada don bebegim yok diye uye oldum",
+      "date": "23.02.2018 10:07",
+      "content": "menjisto yunaytova şampiyon olacaktır.",
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "ukrayna premier ligi",
+      "entry_id": "74427451",
+      "author": "kickergls",
+      "date": "23.02.2018 10:26",
+      "content": "2015-2016 sezonunda pek çok iddaa severin yüzünü güldüren bir lig.efendim döneminde metalurh zaporizhya ismindeki takım ligi 3 puanla bitirebilmiş. takımın ne mal olduğu ortaya çıktıktan sonra iddaa hala ayıkamamış 4 maçında rakiplerine bu oranı vermiştir 1,6-1,3-1,65-1,65 zaten en son dinamo kiev maçına çıkmışlar sonra ligden çekilmişler .böyle ilginç puanlamalara şahit olabileceğimiz bir lig.shaktar bu ligde devasa bütcesiyle heralde bir 10yıl daha şampiyon olur",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "ECON"
+      ]
+    },
+    {
+      "title": "ukrayna premier ligi",
+      "entry_id": "119393653",
+      "author": "turtle hermit",
+      "date": "10.02.2021 17:05 ~ 17:26",
+      "content": "rusya'nın dahil olduğu iç savaş, ekonomik sorunlar ve yoksulluk içerisindeki ülkede 14 takımın mücadele ettiği hayli ilginç bir ligdir.\nörneğin dinamo kiev ile birlikte ligi domine eden iki kulüpten biri olan shakhtar donetsk, ukrayna'nın doğusunda devam eden iç karışıklık sebebiyle 2014 yılından beri ev sahibi olduğu maçlarını donetsk şehri dışında oynuyor (bkz: kiev'deki) (bkz: nsk olimpisky stadı) . shaktar'ın kadrosundaki 30 oyuncunun (13'ü yabancı, 17'si ukraynalı; 11'i a milli takım oyuncusu; takımın yaş ortalaması 26) piyasa değeri 158 milyon euro. son 2 yıldır kayda değer ücret ödeyerek transfer yapmadıklarını belirtmek gerek (2018-19 sezonunda fred ve yaroslav rakitskiy satışlarıyla 69 milyon euro bonservis geliri elde etmişken, transferlerde 41 milyon euro harcamışlar (net bilançoları +28).\ntakımın başında 2019 yılından bu yana portekizli teknik adam luís castro bulunuyor. yakından tanıdığımız eski futbolcuları hırvat darijo srna'da sportif direktör olarak görev yapmaktadır. geçen sezon ligi şampiyon olarak tamamladılar.\ndiğer tarafta dinamo kiev'in kadrosundaki 32 oyuncunun (9'u yabancı, 23'ü ukraynalı; 13'ü a milli takım oyuncusu; takımın yaş ortalaması 25) pd'i 118 milyon euro, onlar ise bu sezonda, 2018-19 ve 2019-20 sezonlarında toplam 35 milyon euro (satışlar sonrası bilançosu net -22,5) harcayacak oluşturdukları kadroya ilave oyuncu satışı veya satın alma yapmadan devam etmekteler. temmuz ayından beri takımın başındaki 75 yaşındaki mircae lucescu bulunmakta ve ilginç şekilde önceki sezon takımın teknik direktörlüğünü şuan sportif direktör olarak görev yapmakta olan oleksiy mykhaylichenko yapmıştı. (işler bizdekine göre biraz ters işliyor)\nson olarak ligde yer alan diğer 12 kulüp içerisinde pd'i 20 milyon euro'yu aşan kadroya sahip bir takım yok.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "ECON"
+      ]
+    },
+    {
+      "title": "ukrayna premier ligi",
+      "entry_id": "123699868",
+      "author": "jakalako",
+      "date": "24.05.2021 13:43",
+      "content": "2020-21 sezonu sonuçları,\n\nşampiyon: dinamo kiev (bkz: şl grup)\n\nşampiyonlar ligi: shakthar donetsk (bkz: üçüncü ön eleme)\n\navrupa ligi: zorya luhansk\n\nkonferans ligi: kolos, vorskla",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna premier ligi",
+      "entry_id": "134397431",
+      "author": "ebama mute",
+      "date": "02.03.2022 05:55",
+      "content": "bu sene ile itibaren çok ciddi bir küçülmeye gidecek olan ligdir. shaktar, kiev gibi büyük takımlar ne olacak, sponsorlar böyle bir bölge için yatırım yapacak mı, yıldız topçular ukrayna'ya uzun yıllar gelebilecek mi bir sürü soru işareti var.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "ECON"
+      ]
+    },
+    {
+      "title": "ukrayna premier ligi",
+      "entry_id": "141689650",
+      "author": "aydansevgiler",
+      "date": "23.08.2022 14:36",
+      "content": "savaş altında devam eden ligtir aynı zamanda.\n\nbizzat yayıncı kuruluştan takip edilebilir.",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna premier ligi",
+      "entry_id": "163621312",
+      "author": "ergen01",
+      "date": "19.04.2024 22:15",
+      "content": "ukrayna futbol federasyonunun aldığı karara göre hakemler artık yalan makinesine bağlanacakmış. link",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "ukrayna premier ligi",
+      "entry_id": "176207672",
+      "author": "mfa97",
+      "date": "20.06.2025 22:24",
+      "content": "türkiye'de yayıncısı var mı merak ettiğim lig.\n\narda turan'ın şahtar'ın (evet şahtar) başına geçmesi ile maçlarını takip etmek istiyorum.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

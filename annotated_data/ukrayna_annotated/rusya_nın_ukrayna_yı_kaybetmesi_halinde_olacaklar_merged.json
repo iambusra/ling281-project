@@ -1,0 +1,48 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:08:39.173637",
+    "total_entries": 3,
+    "input": "rusya'nın ukrayna'yı kaybetmesi halinde olacaklar",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rusya'nın ukrayna'yı kaybetmesi halinde olacaklar",
+      "entry_id": "40830670",
+      "author": "somek kafali",
+      "date": "02.03.2014 21:39",
+      "content": "tahmini kolay hadiselerdir.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rusya'nın ukrayna'yı kaybetmesi halinde olacaklar",
+      "entry_id": "40830970",
+      "author": "kaset ile kalem arasindaki iliski",
+      "date": "02.03.2014 21:49",
+      "content": "(bkz: kafan güzelmiş canım güle güle kullan)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rusya'nın ukrayna'yı kaybetmesi halinde olacaklar",
+      "entry_id": "40835365",
+      "author": "somek kafali",
+      "date": "03.03.2014 00:00",
+      "content": "(bkz: ukrayna olmadan rusya imparatorluk olmaktan çıkar)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    }
+  ]
+}

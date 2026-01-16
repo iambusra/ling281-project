@@ -1,0 +1,50 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:29:07.069173",
+    "total_entries": 3,
+    "input": "ruslara yaptırımların aşırı abartılması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ruslara yaptırımların aşırı abartılması",
+      "entry_id": "136070181",
+      "author": "luneta",
+      "date": "11.04.2022 13:04",
+      "content": "katıldığım önerme.\naynı boku israil yiyince, abd yiyince filistin'de ırak'ta afganistan'da sorun yok, ruslar yapınca rererörö.\nazıcık omurgalı olup aynı tepkiyi heryerde verin o zaman. ama sizde o göt yok. çünkü ortadoğu'da olunca size dokunmayan yılan bin yaşasın ama olay size yakın yerlerde olunca olmayan götünüz tutuşur.\n\niş bu entry menfaatçi ve yalaka ibneler için yazılmıştır, savaşı destekleme amacı gütmemektedir. aksine savaş karşıtlığını herkese böyle yaptırım yaparak gösterin diye teşvik etmektedir. göstermeyenlere de ana bacı sövmektedir.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "ruslara yaptırımların aşırı abartılması",
+      "entry_id": "136070401",
+      "author": "huysuzpiretorbasi",
+      "date": "11.04.2022 13:12",
+      "content": "spıtnik genel yayın yönetmeni işine bak karşim",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ruslara yaptırımların aşırı abartılması",
+      "entry_id": "136070411",
+      "author": "jincx",
+      "date": "11.04.2022 13:13 ~ 13:26",
+      "content": "katıldığım önerme\n\nabd, rusya'yı bahane ederek zenginleşen ve güçlenen avrupa'yı da fakirleştirme peşinde. bu kadar saçma sapan yaptırımların gelme sebebi de budur\n\nşimdi anladınız mı neden ingiltere ab'den ayrıldığını",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "ECON",
+        "POLICY"
+      ]
+    }
+  ]
+}

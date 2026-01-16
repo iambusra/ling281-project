@@ -1,0 +1,50 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:04:35.941146",
+    "total_entries": 3,
+    "input": "suriyelilerin hemen dönmesini beklemeyelim",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelilerin hemen dönmesini beklemeyelim",
+      "entry_id": "170959519",
+      "author": "ben ysntr",
+      "date": "12.12.2024 12:17",
+      "content": "ne diyecekti yani. otobüslere yığalım milyonları sonrada sınırın diğer tarafına bırakalım mı diyecekti. bu insanlar dün gelmedi. iş kurdular, evlendiler, çocukları okullara başladı. bu kadar kolay mı göndermek. özgür özel' in ve chp'nin dış siyaseti hakkında düşüncelerini kolay kolay tasvip etmem ama bu sefer doğru söylemiş. muhalif olmak demek her şeye hayır demek değil keşke her iki tarafında muhalifleri bunu bir anlayabilseler.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "suriyelilerin hemen dönmesini beklemeyelim",
+      "entry_id": "170959539",
+      "author": "nerden geldin nereye gidiyon ey yolcu",
+      "date": "12.12.2024 12:17 ~ 12:21",
+      "content": "gönlü isterse dersen.bunlar gitmez.neden çünkü ülkende rahatça ürüyorlar destekte var üreme teşviki oh kebap.\n\nalamancılar dönüyor mu bak.sen enayi oldukça seni sömüren çok olur.\n\nadamlar sana ihanet etmiş sırtından bıçaklamış sen o topraklardan def edilmişsin.torunlarını alıp besliyorsun daha iyi ağzımıza sıçsınlar diye.\n\ngit bosnalıyı al ne bileyim balkanlarda seni yad edeni al.senin evlatlarını şehit edeni alma.her kim olursa olsun.kuzey ırak'tan aldın aldıkların gitmedi pkk çıktı.suriye'den aldın yarın ne olacak bak gör bunlar gitmeyecek.çoğalacak ve hak talep edecek içlerinde ne olduğu belirsiz kişiler var.yarın bir gün sende de bunların vasıtası ile olaylar cereyan edebilir.\n\nzayıf karnını deşmeyi çok sever batı sen aptal olursan kullamayı pek sever.kozu sen veriyorsun.misal isveç, finlandiya nato'ya girdi sana ne verdiler.yine terör propagandası oluyor oralarda.kime ne faydası oldu bu durumun.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyelilerin hemen dönmesini beklemeyelim",
+      "entry_id": "170959680",
+      "author": "diyar24",
+      "date": "12.12.2024 12:24",
+      "content": "ben bır yol bılıyorum.o turlu deneyelım,beklememıs oluruz bosuna.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

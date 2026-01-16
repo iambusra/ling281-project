@@ -1,0 +1,128 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:40:21.223281",
+    "total_entries": 9,
+    "input": "bayram için 83 bin suriyelinin ülkesine gitmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "bayram için 83 bin suriyelinin ülkesine gitmesi",
+      "entry_id": "78019001",
+      "author": "tatil kufesi",
+      "date": "13.06.2018 13:34 ~ 17:46",
+      "content": "geri gelmesinler, burada ne akrabaları, ne tarrihleri, ne kültürleri\nne ibekleyenleri ne de isteyen vardır.\nhiç boşuna dönmesinler.\navrupa bir kapıdan çıksalar diye dört gözle beklerken biz salak mıyız?\nsuriye'de bayram yapılıyorsa orada da yaşanıyor demektir.\nkendi ülkesi onlar için de bizim için de en iyisidir.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "bayram için 83 bin suriyelinin ülkesine gitmesi",
+      "entry_id": "78019116",
+      "author": "walking dead",
+      "date": "13.06.2018 13:38",
+      "content": "demek hayati tehlike yok ki gidebiliyorlar ayrıca hepsi birden siktirsin gitsin yeter iyice ortadoğu ülkesi oldu akp sayesinde ülke amnk",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "bayram için 83 bin suriyelinin ülkesine gitmesi",
+      "entry_id": "78019446",
+      "author": "cadillacman",
+      "date": "13.06.2018 13:49",
+      "content": "savaş olan yere tekrar geri dönülüyor ise; üstelik de bayramlaşma amacıyla gidiliyorsa şayet orada artık şartlar olumlu yönde değişmiş demektir. bayrama gidiyorsun sonra tekrar geri dönüyorsun. neden?..çünkü burada her şey size beleş...kim istemez yabancı bir ülkede her şey beleş bir hayatı. kusura bakmayın, eğer bayramlaşmaya gidebiliyorsan memleketinde kalmalısın kardeş. burası yol geçen hanı değil.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "bayram için 83 bin suriyelinin ülkesine gitmesi",
+      "entry_id": "78019803",
+      "author": "enerjonyaprensi",
+      "date": "13.06.2018 14:03",
+      "content": "madem gidilebiliyor. yallah suriyenize",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "bayram için 83 bin suriyelinin ülkesine gitmesi",
+      "entry_id": "78020582",
+      "author": "triptocardasia",
+      "date": "13.06.2018 14:28",
+      "content": "gidin.... ve mümkünse geri dönmeyin....",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "bayram için 83 bin suriyelinin ülkesine gitmesi",
+      "entry_id": "78021317",
+      "author": "asimovunmutfakrobotu",
+      "date": "13.06.2018 14:53",
+      "content": "(bkz: akp'lilerin uğramadığı başlıklar)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "bayram için 83 bin suriyelinin ülkesine gitmesi",
+      "entry_id": "78025682",
+      "author": "dukkanin ortasinda bagiran kosnuk",
+      "date": "13.06.2018 17:32",
+      "content": "son çıkan kapıyı kapatsın, anahtarıda yutsun 83 bin iyi rakam.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "bayram için 83 bin suriyelinin ülkesine gitmesi",
+      "entry_id": "78025783",
+      "author": "plazma",
+      "date": "13.06.2018 17:35",
+      "content": "bayram sonrası oy kullanmak için geri dönecek suriyelilerdir.\n\nalayında tc pasaportu yoksa ben de bir şey bilmiyorum.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "bayram için 83 bin suriyelinin ülkesine gitmesi",
+      "entry_id": "126152346",
+      "author": "piruupakk",
+      "date": "26.07.2021 16:26",
+      "content": "abi nedir bu her sene? bu sene de binlerce kişi gitmiş, yıl sonuna kadar türkiye'ye dönme hakları varmış.\nalmayın kardeşim. sanki ülke içinde memleketine gidiyor adamlar.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    }
+  ]
+}

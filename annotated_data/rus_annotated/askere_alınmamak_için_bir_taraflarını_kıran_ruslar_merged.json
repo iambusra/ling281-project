@@ -1,0 +1,38 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:26:54.671292",
+    "total_entries": 2,
+    "input": "askere alınmamak için bir taraflarını kıran ruslar",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "askere alınmamak için bir taraflarını kıran ruslar",
+      "entry_id": "143327964",
+      "author": "haydar ve dumenleri",
+      "date": "30.09.2022 13:32",
+      "content": "putin'in ilan ettiği seferberlik sonrası rusların bazıları ülkeden kaçarken bazıları daha zekice (!) bir çözüm bulup vücut uzuvlarını kırmaya başlamışlar.\n\naşağıdaki videoda 2 rus birbirlerinin bacaklarını kırıyorlar.\nhttps://streamable.com/i3wy21\n\nbu videoda da bir köydeki iki iyi arkadaş, çekiçle kollarını kırıyorlar:\nhttps://streamable.com/slhhrg",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "CRIME"
+      ]
+    },
+    {
+      "title": "askere alınmamak için bir taraflarını kıran ruslar",
+      "entry_id": "143328214",
+      "author": "cenegeze",
+      "date": "30.09.2022 13:38",
+      "content": "savaştan kaçacak kadar korkak, birbirlerinin kemiklerini kıracak/kırdırtacak kadar cesur gencolardır.\n\nnot: hassas olanlar için acı verici olabilir görüntüler.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    }
+  ]
+}

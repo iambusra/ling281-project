@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T16:57:26.750995",
+    "total_entries": 1,
+    "input": "163 bin suriyelinin oy kullanacak olması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "163 bin suriyelinin oy kullanacak olması",
+      "entry_id": "145855982",
+      "author": "turkona",
+      "date": "02.12.2022 23:51 ~ 03.12.2022 00:00",
+      "content": "akp'nin en az kafadan 163 bini garantilemesidir.\n163 bin deyip geçmeyin. afgan ve pakilere de verilen vatandaşlıkları sayarsak hiç de azımsanacak kadar değiller.\ntürkiye'de 466 bin suriyeliye vatandaşlık verildiği iddiası dolanıyordu. bu iddia üzerine nüfus ve vatandaşlık işleri genel müdürlüğü tarafından açıklanmış olan rakam: 163 bin 44.\nbence 466 bin rakamı az bile söylenmiş. 4 milyondur o.\nadamlar ülkeyi dingonun ahırına çevirdiler. ülkeye giren çıkan belli değil. türkiye'de 1,5 milyon afgan olduğu söyleniyor. ülkeyi resmen işgal ettiler...\nedit: zeytinburnu'nda ifadesi türkiye olarak değiştirildi.\nkaynak\nkaynak1",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    }
+  ]
+}

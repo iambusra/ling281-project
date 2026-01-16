@@ -1,0 +1,48 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:02:01.136828",
+    "total_entries": 3,
+    "input": "2 suriyeli'ye adam akıllı ayar vermem",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "2 suriyeli'ye adam akıllı ayar vermem",
+      "entry_id": "68530641",
+      "author": "copcuyeataryapancocugunkemeri",
+      "date": "31.05.2017 20:25",
+      "content": "sözlüğün yavaş yavaş inci sözlük'e döndüğünü gösteren ayardır efendim.\nkeşke okullar hiç tatil olmasa.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "2 suriyeli'ye adam akıllı ayar vermem",
+      "entry_id": "68531016",
+      "author": "alidesidero84",
+      "date": "31.05.2017 20:51 ~ 20:52",
+      "content": "amcaya (bkz: suriyelice) bir şeyler söylediden sonrasını okumadım.\n\n(bkz: arapça) olmasın o.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "2 suriyeli'ye adam akıllı ayar vermem",
+      "entry_id": "68531166",
+      "author": "tell me why are we so blind to see",
+      "date": "31.05.2017 21:01",
+      "content": "(bkz: ayarci namik)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:31:06.983923",
+    "total_entries": 1,
+    "input": "ruslarla papaz israillilerle haham olmak",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ruslarla papaz israillilerle haham olmak",
+      "entry_id": "102726443",
+      "author": "seviyorsevmiyorseviyorsevmiyorseviyor",
+      "date": "27.02.2020 22:38",
+      "content": "hintlilerle de monk olarak tamamlanacak üçleme.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL",
+        "CULTURE"
+      ]
+    }
+  ]
+}

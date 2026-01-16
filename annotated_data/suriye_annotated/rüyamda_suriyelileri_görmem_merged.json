@@ -1,0 +1,26 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:44:35.676735",
+    "total_entries": 1,
+    "input": "rüyamda suriyelileri görmem",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rüyamda suriyelileri görmem",
+      "entry_id": "136394971",
+      "author": "kirkhammet34",
+      "date": "19.04.2022 09:24",
+      "content": "suriyelileri kabus gergefinde oynadıkları rolleriyle ilk defa rüyamda görmem olayıdır. rüya şu şekilde idi:\n\nsuriyeliler kamyonlarla suriyeden geliyorlar. ben taksim'de yürüyorum. önümü kesiyorlar. etrafta bir tane türk yok. beni tehdit ediyorlar, alttan alıyorum, abi yapmayın, etmeyin diye. bir bakkala sığınıyorum. bakkala beni savunmasını rica ediyorum. bakkal da alttan alıyor gelen suriyelilere. suriyelilerin ellerinde silahlar, gördükleri türk vatandaşlarını tehdit ediyorlar. kimse ses çıkaramıyor. bir tane karadenizli laz vatandaşı geliyor, tek başına aralarına dalıyor, biraz dağılıyorlar, sonra tekrar toplanıyorlar. geberteceyum onları diyen laz kayboluyor ortalıktan.\n\nşaka yapmıyorum, hatırlamadığım detaylarıyla birlikte korkunç bir rüyaydı.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO",
+        "CRIME"
+      ]
+    }
+  ]
+}

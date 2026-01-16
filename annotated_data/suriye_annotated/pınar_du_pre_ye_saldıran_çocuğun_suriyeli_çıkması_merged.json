@@ -1,0 +1,37 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:44:27.892260",
+    "total_entries": 2,
+    "input": "pınar du pre'ye saldıran çocuğun suriyeli çıkması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "pınar du pre'ye saldıran çocuğun suriyeli çıkması",
+      "entry_id": "70190376",
+      "author": "aquatic dive",
+      "date": "15.08.2017 00:02 ~ 00:08",
+      "content": "şaşırtıcı bir durum. suriyeli bir kardeşimizin böyle bir olaya imza atacağına katiyyen ihtimal vermiyorum. ufacık çocuk elindeki uyuşturucu iğneyi koskoca kadının kalçasına saplayıp onu bayıltacak! buna inanan adama gülerler. fetö'nün işi gibi geldi bana. yakında kokusu çıkar.\n\n\"ressam pınar du pre'ye taksim'de yürürken kalçasından iğne yaparak onu bayıltan çocuk yakalanmış. ressan pre'nin teşhis ettiği çocuk suriyeli z.a'ymış.\"\n\nressam pre'ye saldıran çocuk yakalandı",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CRIME",
+        "XENO"
+      ]
+    },
+    {
+      "title": "pınar du pre'ye saldıran çocuğun suriyeli çıkması",
+      "entry_id": "70190767",
+      "author": "neseliguzel",
+      "date": "15.08.2017 00:15",
+      "content": "şaşırdık mı? hayırrr.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

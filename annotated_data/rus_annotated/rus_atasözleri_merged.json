@@ -1,0 +1,1479 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:16:09.844143",
+    "total_entries": 111,
+    "input": "rus atasözleri",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rus atasözleri",
+      "entry_id": "2611653",
+      "author": "tequila boom boom",
+      "date": "04.04.2003 13:59",
+      "content": "-insanı elbisesine göre karşılar, bilgisine göre uğurlarlar.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "2611657",
+      "author": "tequila boom boom",
+      "date": "04.04.2003 14:00",
+      "content": "- akıl dogustandır, aptallık öğrenilir .",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "2611663",
+      "author": "tequila boom boom",
+      "date": "04.04.2003 14:00 ~ 22.08.2024 21:15",
+      "content": "savaşa giderken bir, denize girerken iki,\nevlenirken üç defa düşün.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "2611734",
+      "author": "rebirth",
+      "date": "04.04.2003 14:14",
+      "content": "(bkz: cirkin kadin yoktur az votka vardir)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "GENDER-MORAL"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "2611802",
+      "author": "anzaar",
+      "date": "04.04.2003 14:34",
+      "content": "şeytan doldurur",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "5796785",
+      "author": "talentless jerk",
+      "date": "21.09.2004 12:25",
+      "content": "umut en son olendir",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "5796964",
+      "author": "mir",
+      "date": "21.09.2004 12:45",
+      "content": "(bkz: en son umutlar ölür)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "5796989",
+      "author": "ray kinsella",
+      "date": "21.09.2004 12:48",
+      "content": "eger birsey yasaksa ve onu cok arzuluyorsan, yasak kalkmis demektir",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "5797041",
+      "author": "vurucu tim",
+      "date": "21.09.2004 12:52",
+      "content": "isi yapmanin üc yolu vardir:\ndogru yol, yanlis yol ve rus yolu.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "5797047",
+      "author": "vurucu tim",
+      "date": "21.09.2004 12:52 ~ 12:53",
+      "content": "en iyi rehine ölü rehinedir.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "CRIME"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "5797103",
+      "author": "temas",
+      "date": "21.09.2004 12:56",
+      "content": "- etrafta dolu silah varsa az votka ic.\n- etrafta turk varsa az votka ic.\n- sevgilini turkiye ye gonderme.\n- gittiyse cok votka ic.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "5797107",
+      "author": "naranimo",
+      "date": "21.09.2004 12:57",
+      "content": "votka gibi aziz ol",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "5803046",
+      "author": "gabbiano",
+      "date": "21.09.2004 21:41 ~ 07.10.2004 01:00",
+      "content": "kurtlarla arkadas ol, yalniz elinden baltayi birakma.\nkadin, bir erkegin kendisini sevmedigini, ondan daha once farkeder.\nacele hareket, yalnizca sinek yakalamaya yarar.\npazardaki herkes, ambardaki unu kadar konusur.\nsavasa girerken bir, denize girerken iki, evlenirken uc defa dusun.\nher ne kadar kartal zaman zaman tavuklardan alcak ucuyorsa da, tavuklar hicbir zaman kartal yuksekliginde ucamazlar.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "5873571",
+      "author": "hayalibey",
+      "date": "27.09.2004 22:45",
+      "content": "iki tavşanı birden yakalamak isteyen hiç tavşan yakalayamaz.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "5873579",
+      "author": "jean baptiste jules bernadotte",
+      "date": "27.09.2004 22:46 ~ 23:20",
+      "content": "(bkz: ayidan post, moskof tan dost olmaz)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "5979610",
+      "author": "o da olur",
+      "date": "07.10.2004 22:32",
+      "content": "sıcak deniz yoktur az vokta vardır",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "6918965",
+      "author": "myretnas",
+      "date": "20.02.2005 02:36",
+      "content": "kendilerini rus olarak tabir ettigimiz ırka mensub kisilerin atalarının, vakti zamanında, muhtemelen bir olay vuku bulduktan sonra soylemis oldukları ozlu sozler.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "6918971",
+      "author": "myretnas",
+      "date": "20.02.2005 02:37",
+      "content": "bu kadar votka icen rusların, sasırtıcı bir sekilde, gecen onca zamana ragmen unutmadan gunumuze tasıdıkları ozlu sozler.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "7122396",
+      "author": "hayalibey",
+      "date": "17.03.2005 23:12",
+      "content": "yumurta tavuğa bir şey öğretemez.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "7122467",
+      "author": "cernikov",
+      "date": "17.03.2005 23:21 ~ 23:29",
+      "content": "bolsevik rus atalarin soylemis oldugu sozler icin:\n(bkz: tum iktidar sovyetlere)\n(bkz: baris toprak ekmek)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "7122535",
+      "author": "kalamar",
+      "date": "17.03.2005 23:30",
+      "content": "bize ait olduğunu sandığımız bir takım sözler de aslında ruslara aittir. mesela; \"saldım çayıra, mevlam kayıra\"yı örnek olarak verebiliriz ki rus din kardeşlerimiz buna \"voyna prişna, helaluya krişna\" derler",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "7737009",
+      "author": "firat 1905",
+      "date": "22.06.2005 00:13",
+      "content": "talihli olanların horozları bile yumurtlamaya başlar.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "7737032",
+      "author": "iruneachteam",
+      "date": "22.06.2005 00:20",
+      "content": "eğer biri ile oturup votka içmediysen, onunla asla düşman olma.\n(bkz: kurtlar vadisinden aforizmalar)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "7737035",
+      "author": "karincayiyenyiyen",
+      "date": "22.06.2005 00:20 ~ 00:29",
+      "content": "turak baltacı katarina natasha\n\nmeali:\n\"baltacı başkan lokomotif moskova şampiyon\"",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "7737060",
+      "author": "hellprince",
+      "date": "22.06.2005 00:25",
+      "content": "\"sen kendini övmezsen kimse seni övmez\"",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "9104933",
+      "author": "berhudar ol evladim",
+      "date": "10.02.2006 01:50 ~ 08.09.2014 17:12",
+      "content": "balyoz camı paramparça eder, ancak çeliği en sağlam hale getirir.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "11086354",
+      "author": "lanet olsun jack",
+      "date": "31.07.2007 11:41",
+      "content": "jena horsa, s na totzka brishih\n\nkadın bir attır binmeli, son durağa gelmeden inmesini bilmeli",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "GENDER-MORAL"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "11086460",
+      "author": "antropolog",
+      "date": "31.07.2007 12:16",
+      "content": "(bkz: net ne krasivaya jenshina tolka mala vodka)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "GENDER-MORAL"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "13192845",
+      "author": "lugalbanda",
+      "date": "03.05.2008 13:18",
+      "content": "karanlık bir odada siyah bir kediyi aramak zordur.hele öyle bir kedi yoksa daha da zordur.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "13568123",
+      "author": "islakkedisudankorkmaz",
+      "date": "03.07.2008 04:05 ~ 07.07.2008 23:25",
+      "content": "bazilari rus mafyasinin parlak yukselisini gayet guzel aciklayan atasozleridir. misal;'ruslar tehdit etmez, soz verir'.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "14346833",
+      "author": "hallicunogen",
+      "date": "08.11.2008 05:49",
+      "content": "balıkçı balıkçıyı uzaktan tanır\ndil dile değmeden dil öğrenilmez\ndili öğrenenin kieve kadar yolu vardır\nvodka gibi aziz ol\n\neğer içmiyosan yaşamıyosun demektir..cok kafiyelidir yazdım\nesli ne piyosh, znachit ne jiviyosh",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "16798913",
+      "author": "yetkisiz merci",
+      "date": "02.09.2009 12:34",
+      "content": "vermeyen kadın yoktur, istemesini bilmeyen erkek vardır. (nyet takoy jeinşina katora ne dayot, yest takoy muşina katori ploha prosit)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "SEXUAL"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "16918461",
+      "author": "skid",
+      "date": "22.09.2009 10:35 ~ 10:38",
+      "content": "güne erken başlayanın tanrı yanında olur.\nbugünün işini yarına bırakma öbür güne bırak, iki gün tatil yap.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "17156964",
+      "author": "superman is the shit",
+      "date": "02.11.2009 12:53 ~ 13:00",
+      "content": "\"hiç kimse işsiz değil, fakat hiç kimse çalışmıyor. hiç kimse çalışmıyor, fakat herkese ücret ödeniyor. herkese ücret ödeniyor, fakat satın alacak bir şey yok. satın alacak hiçbir şey yok, fakat herkes ihtiyacını karşılıyor. herkes ihtiyacını karşılıyor, fakat herkes şikayet ediyor. herkes şikayet ediyor, fakat ne zaman oy kullanma zamanı gelse herkes evet diyor. \" (bkz: bana başka bir toplumu çağrıştırdı ama..)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "17619837",
+      "author": "airfree",
+      "date": "27.12.2009 02:05",
+      "content": "(bkz: ne bivaet nekrasivih jensin bivaet malo vodki)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "GENDER-MORAL"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "17619961",
+      "author": "prologue",
+      "date": "27.12.2009 02:21",
+      "content": "\"sen istiyor dujj sen vrecek 50 dolar daha\"",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "ECON"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "17709246",
+      "author": "summer son",
+      "date": "05.01.2010 23:19",
+      "content": "kto jadny platit dva raza\n\ncimri iki kez öder (birisi çürük mal için, birisi iyi mal için)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "ECON"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "22668812",
+      "author": "hidirxuaye",
+      "date": "22.03.2011 00:24",
+      "content": "iş, kurt değil ki ormana kaçsın\n\n(işim vardı kalkayım bahanesine,'sonra yapsanda olur otur oturduğun yerde' ısrarı için)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "26395841",
+      "author": "hidirxuaye",
+      "date": "03.12.2011 12:50",
+      "content": "yalanlar insanı ileri götürür, ama bir daha geri getirmez.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "28848509",
+      "author": "14 love",
+      "date": "04.06.2012 18:24",
+      "content": "\"bir insan acı duyabiliyorsa canlıdır. bir insan başkasının acısını duyabiliyorsa insandır.\"",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "28848539",
+      "author": "rakutin",
+      "date": "04.06.2012 18:27",
+      "content": "''çok votka içtiğim için başıma türlü türlü şeyler geldi.''",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "28848588",
+      "author": "physkos",
+      "date": "04.06.2012 18:32",
+      "content": "vodka bez piva dengi na veter. yani; birasız votka içme, parana yazık.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "28848665",
+      "author": "hela gozlum",
+      "date": "04.06.2012 18:40",
+      "content": "\"hayat zebra gibidir. bir siyah, bir beyaz, bir siyah, bir beyaz...sonrası göt\"",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "29008358",
+      "author": "jandi",
+      "date": "16.06.2012 02:02",
+      "content": "'' risk almayan, şampanya içemez.''",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "29807170",
+      "author": "lexington",
+      "date": "15.08.2012 13:19",
+      "content": "\"şeytan ulaşamadığı erkeklerin yanına kadını yollarmış.\"",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "GENDER-MORAL"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "29807294",
+      "author": "spurposse",
+      "date": "15.08.2012 13:29",
+      "content": "çay votka gibi bol bol içebileceğiniz bir şey değildir...",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "29807309",
+      "author": "zemin yesil 12 yildiz 3 ok sari",
+      "date": "15.08.2012 13:30",
+      "content": "\"en zor olanı, geleceği değil, geçmişi tahmin etmektir.\"\n(bkz: kar kurdu)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "31076308",
+      "author": "bojya korovka",
+      "date": "25.11.2012 22:10 ~ 14.11.2020 08:36",
+      "content": "*\"aryol muğ ne lovit\".\n\nkartal sinek avlamaz.\n\n*\"tolka ot jizni sabaçey, sabaka bıvayet kusaçey\".\n\nrusların yaşadığı zor şartlar yüzünden, köpek gibi yaşamaları ve türlü türlü kazık yemeleri ve acımasız hayat şartları yüzünden başlarına gelen şeyleri bir başkasından çıkartmaları. hayat acımasız. kazık atma,kazık yeme dünyası.\n\n*\"sa sıvayim samavaram vı tulu ni ezdyat\".\n\ntula semaver üretimi yapılan bir şehir rusya'da.\nçevirisi \"kendi semaverinle tula'ya gitme\",yani gideceğin yerde kendi kuralların değil, oranın kuralları geçerlidir. genellikle başka bir mekan yada ülkeye gidip orada yaşaması gerekenler için kullanılan bir atasözü. bizdeki \"kayseri'ye pastırmayla gidilmez\" gibi.\n\n*\"loşka haraşa kı abedu\"\n\nherşey zamanında güzel yada geçti bor'un pazarı yavrum, artık çok geç demektir.\n\n*\"za dvumya zaytsami pagonişsya, ni adnavo ni paymaeş\"\n\niki tavşan yakalamak isteyen, hiç tavşan yakalayamaz.\n\n*devitsa pılaçet şto rasa padyot, bızoydyot solntze rasu vısuşit.\n\ngenç kızların gözyaşları sabah çiyine benzer, güneş açar açmaz uçup giderler.\n\n*serebrannuyu vilku mne kupi, ştob lapşu c yşey snimat.\n\nufak at da civcivler yesin, gibi bir anlamı var.\n\n*govoryat şto luçşe sinitsa v rukağ, çem juravl v nebe.\n\navucundaki serçe, gökte kanat çırpan turnadan iyidir.\n\n*çem luçşe jenşina odeta,tem doroje yiyo razdet.\n\nkadınlar ne kadar pahalı giyinirse, o kadar pahalı soyunurlar.\n\n*kogda c mujçinoy net rydom jençini, on naçinaet delat gluposti; kogda c jençinoy net rydom mujçini, ona naçinaet delat pakosti.\n\nkadınsız erkek aptallık, erkeksiz kadın kötülük yapmaya başlar.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "32237559",
+      "author": "sunay137",
+      "date": "18.02.2013 22:57",
+      "content": "\"the same hammer that breaks the glass forges the steel.\"",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "33169718",
+      "author": "vera pavlovnanin hayaleti",
+      "date": "09.04.2013 02:00",
+      "content": "kadınlar hakkındaki bazı atasözleri dehşet vericidir. ben orlando figes'in yalancısıyım. mesela;\n\n\"yaşlı kadını ne kadar döversen çorba o kadar lezzetli olur.\"\n\n\"karına baltanın sapıyla vur, eğil ve nefes alıyor mu bak. eğer alıyorsa, o zaman hasta taklidi yapıyor ve daha fazlasını istiyordur\"\n\n\"karını kürk mantoymuş gibi döv, o zaman daha az ses çıkar\"\n\n\"bir eş iki kere güzel olur: eve getirildiği zaman (gelin olarak) ve mezara taşındığı zaman\"",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "33169843",
+      "author": "slavophilia",
+      "date": "09.04.2013 02:11",
+      "content": "spasibo v karman ne polojiş': teşekkürü cebe koyamazsın.[ (kuru söz karın doyurmaz) (vizontele'de cem yılmaz'ın dediği gibi: - beni methetme kardeşim bana para ver)]\n\nodin yebetsa, drugoy draznitsa, kakaya raznitsa: biri beceriyor, biri de elliyor, fark nerde. bunun ingilizcesi de kafiyeli pek güzel: one fucks, other teases, what is the difference",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "ECON"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "33170006",
+      "author": "yilki ati",
+      "date": "09.04.2013 02:23",
+      "content": "net plohoy pogodi, yest plohoya odejda.\n\nyani demek oluyor ki'kotu hava yoktur, kotu elbise vardir.' adamlar hakikatten de boyle dusunuyor, biz hirkalarla usurken bizi boyle diyip durdular.\n\nhirkayla usudugumuz mevsim agustos bu arada.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "33669266",
+      "author": "hidirxuaye",
+      "date": "04.05.2013 08:16",
+      "content": "bedava peynir sadece fare kapanında olur.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "35841469",
+      "author": "thoryum",
+      "date": "08.08.2013 13:35",
+      "content": "kto rana vstayot bog yemu dayot\n\nallah rızkı erken kalkana verir.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "39553068",
+      "author": "taksi kime",
+      "date": "09.01.2014 17:14 ~ 17:15",
+      "content": "luçşe pozdna çem nikagda\n(geç olsun, güç olmasın)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "39751312",
+      "author": "emotrail",
+      "date": "17.01.2014 22:33",
+      "content": "işçi ataları ise, patron kısmısı için şöyle der;\n\nonlar bize ödüyor gözüküyorlar, bizler de çalışıyor gözüküyoruz.\n\nvay efenim sonra gominizim niye çöktü.. laylondan komünizm mi olur lan, çöker tabi.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "ECON"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "39751803",
+      "author": "horni",
+      "date": "17.01.2014 22:55 ~ 23:01",
+      "content": "sem ras otmir odin raz otrej\nyedi kere ölç, bir kere kes.\n\nvolk svinye ne tovariş\nkurt domuzla arkadaş olmaz\n\nne otkladıvay na zavtra to şto mojej sıdyelat segodnya\nbugünün işini yarına bırakma",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "39752606",
+      "author": "kara gone",
+      "date": "17.01.2014 23:27",
+      "content": "rus'u kazı altından tatar çıkar.\nher bir tatar doğduğunda bütün rusya ağlar.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "56724453",
+      "author": "frankiegoestohollywood",
+      "date": "05.12.2015 00:35",
+      "content": "\" hırsızın başında şapkası yanıyor .\"\n\n.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "56725422",
+      "author": "equinoxe",
+      "date": "05.12.2015 01:18",
+      "content": "erkeğin karnıni dolu yumurtasını boş tut\n\nbunu bana yuliya adinda bir kiz söylemişti. ve rusların acayip ataerkil bir toplum olduğunu ondan ogrenmistim",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "56727069",
+      "author": "camilia taro",
+      "date": "05.12.2015 02:59",
+      "content": "\"eğer bir ayıyı dansa kaldırırsan, sen yorulana kadar değil; ayı yorulana kadar dans etmek zorunda kalırsın.\"",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "56727574",
+      "author": "ismilo",
+      "date": "05.12.2015 03:51",
+      "content": "(bkz: #13202977)",
+      "referenced_content": [
+        {
+          "type": "entry",
+          "title": "cecenistan",
+          "entry_id": "13202977",
+          "author": "ismilo",
+          "date": "05.05.2008 02:51 ~ 10.05.2012 15:21",
+          "content": "rus literatürüne \"ölmek istiyorsan çeçen çocuğunu tokatla\" gibi bir deyimi sokabilmiş kahraman insanların yaşadığı yerdir.",
+          "has_external_url": false
+        }
+      ],
+      "referenced_entry_ids": [
+        "13202977"
+      ],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "56727738",
+      "author": "amin oglu esteban",
+      "date": "05.12.2015 04:13",
+      "content": "boy devede de var,\nakilli ol lan davar.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "56966938",
+      "author": "fatih3289",
+      "date": "14.12.2015 23:04",
+      "content": "tecrübeli şeytan acemi melekten daha iyidir.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "61318948",
+      "author": "sister blister",
+      "date": "23.06.2016 04:05",
+      "content": "\"götünün nereye oturduğundan her zaman başın sorumludur.\"",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "66360884",
+      "author": "ibisile",
+      "date": "17.02.2017 22:40 ~ 29.05.2023 22:46",
+      "content": "\" çeçenden canını azeriden malını türkten karını koru.\"\n\" pazar günü sadece fahişe ler ve türkler çalışır.\" (bkz: pazar günü çalışmak/@ibisile)\n\nkazakistan'da bulunan arkadaşım \"kazak'tan canını...\" diye aktarmıştı, efkar-ı umumiye ağır bastı, hemen herkesin katkısıyla tarihsel ve ruhsal gerçeklik \"çeçen'den canını...\" diye gerçekleşti.\n\ngörünüşe göre bunlar gerçek rus atasözü değil a) türk'ün türk'e propagandası,\nb) türk'ün engin şişinme ihtirasını dengeleyen özeleştiri özelliği.\n\n\"bir ihtiyarın yalan söylemesi, bir zenginin yankesicilik etmesine benzer. (rus atasözü)\" kemal tahir - notlar (sanat - edebiyat 2)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "66402845",
+      "author": "daleko36",
+      "date": "20.02.2017 01:43 ~ 09.05.2018 02:02",
+      "content": "tula'ya giderken semaver götürülmez..\n\ntula rusya'da bir şehir ve tula'nın semaverleri meşhur(bu arada ben semaver'i türkler bulmuş sanıyordum ama meğer ruslarınmış)..yani türkçeleştirirsek kayseri'ye giderken pastırma götürülmez,malatya'ya giderken kayısı götürülmez gibi..\n\nbunu bana eski rus kız arkadaşım söylemişti.kız arkadaşım bana beraber disco'ya gidelim demişti ben de olmaz ben seninle gitmem demiştim(gitmeme nedenim orada bir sürü kız var zaten niye sevgilimle gidiyim ki diye düşünmüştüm) o da haklısın,tula'ya giderken semaver götürülmez demişti.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "66926609",
+      "author": "akay ali",
+      "date": "18.03.2017 17:25",
+      "content": "tanrı çok yüksekte,\nçar çok uzakta.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "66926802",
+      "author": "julius evola",
+      "date": "18.03.2017 17:40",
+      "content": "en çok kullandıkları şudur:\ndrujba drujba slujba slujba\niş başka dostluk başka gibi bir anlamı var sanırım.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "66926810",
+      "author": "atsutota",
+      "date": "18.03.2017 17:41",
+      "content": "o rus bu.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "67899666",
+      "author": "kutadgubilig",
+      "date": "04.05.2017 09:47",
+      "content": "kimin neresi ağrıyorsa onunla ilgili konuşur.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "69366926",
+      "author": "v for validen",
+      "date": "09.07.2017 21:17",
+      "content": "''para konuşunca, doğruluk susar.''\n''nefret; ancak sinek avlarken işe yarar.''\n''zaman arkamızda, zaman önümüzde, zaman yanımızda değil.''",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "ECON"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "69924591",
+      "author": "theory of everything",
+      "date": "02.08.2017 21:10",
+      "content": "\"cocugunuzu sahane birisi yapmak icin beklemeyin. onu sahane bir cocuk yapin.\"",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "79447910",
+      "author": "binicktirgitaq",
+      "date": "22.07.2018 19:34 ~ 19:35",
+      "content": "“yüzün çarpıksa, aynayı suçlama.” (bkz: gogol'un müffettiş oyununun önsözü.)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "79448251",
+      "author": "alsomitra",
+      "date": "22.07.2018 19:46",
+      "content": "çirkin kadın yoktur, az votka vardır.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "79450888",
+      "author": "yansinyakilsin",
+      "date": "22.07.2018 21:19",
+      "content": "cyka blyat.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "81258059",
+      "author": "ilgincsesler",
+      "date": "13.09.2018 20:00",
+      "content": "sen istiyor duş verecek 100 dolar",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "SEXUAL",
+        "ECON"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "81859848",
+      "author": "mahzun yuzlu sovalye",
+      "date": "02.10.2018 01:27",
+      "content": "- kajdi kastryulyu est svoyu krishku\n\nher tencereye uygun bi kapak vardir. her malin bir alicisi var anlaminda, tencere yuvarlanmis kapagini bulmus benzerligi de bonus",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "81860718",
+      "author": "cakardika",
+      "date": "02.10.2018 02:04",
+      "content": "ıslak adam yağmurdan korkmaz.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "90377441",
+      "author": "modaya uyarken gay olan erkek",
+      "date": "22.05.2019 08:23 ~ 08:25",
+      "content": "birkaç tavşanın peşinden koşan hiç birini tutamaz...",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "91933895",
+      "author": "dogru",
+      "date": "30.06.2019 11:20",
+      "content": "bir erkek kadının gözlerine uzun uzun bakıyorsa, emin olun ki diğer yerlerine çoktan bakmıştır.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "GENDER-MORAL",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "91934078",
+      "author": "fabregasss",
+      "date": "30.06.2019 11:26",
+      "content": "para konuşunca, doğruluk susar.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "ECON"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "93763797",
+      "author": "kiyak torbaci",
+      "date": "10.08.2019 23:34 ~ 23:41",
+      "content": "pravda ni abijaet!\ngerceklere(dogrulara), gücenmeyin.\nmenşe narod, bolşe kislarod.\naz insan, cok oksijen(nerede cokluk orada bokluk hesabı)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "93764087",
+      "author": "labraynda",
+      "date": "10.08.2019 23:40",
+      "content": "çirkin kadın yoktur iki duble rakıdan sonra herkes çirkindir.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "GENDER-MORAL"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "102778283",
+      "author": "arlington",
+      "date": "28.02.2020 21:19 ~ 29.02.2020 08:34",
+      "content": "bir ayıyla dansa kalkarsan dansın ne zaman biteceğine sen değil ayı karar verir",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "102778487",
+      "author": "amigdalasiz adam",
+      "date": "28.02.2020 21:24",
+      "content": "davetsiz misafir tatardan kötüdür .",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "102778640",
+      "author": "mashiska",
+      "date": "28.02.2020 21:27",
+      "content": "tuzak, ayı tuzak olduğunu biliyorsa tuzak değildir.\n\nyada\n\nayı biliyorsa tuzak değildir\n\nçevirince çok acayip oldu.\n\nbir de\n\nben bir erkeğim\nsen bir kadınsın\n\nvar. bu da çok acayip çevirince.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "GENDER-MORAL",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "102778963",
+      "author": "ranus",
+      "date": "28.02.2020 21:35 ~ 21:36",
+      "content": "tükürdüğün kuyudan su çekmezsin, ya da su çekeceğin kuyuya tükürme gibi bir sözleri olmalı. en azından benim okuduğum rus kitaplarında geçiyordu.\n\nbir de: o rus, bu bay an mıydı?",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "111715004",
+      "author": "roger that 2 7 0 2",
+      "date": "17.08.2020 22:48",
+      "content": "\"bir eli yıkayan, diğeridir.\"\nrus atasözü\n\n\"yüksek rütbelilerin pek bir şeye ihtiyacı olmaz.\"\nsovyet atasözü",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "119902109",
+      "author": "cengizhaninoglu",
+      "date": "22.02.2021 16:03",
+      "content": "zimoy solntse skvoz slezı smeyetsya.\n\n“güneş kışın göz yaşlarıyla gülümser.”",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "119902348",
+      "author": "allah yazdiysa bozsun",
+      "date": "22.02.2021 16:12",
+      "content": "vakitsiz gelen misafir, tatardan kötüdür.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "119902794",
+      "author": "ariciefe",
+      "date": "22.02.2021 16:27",
+      "content": "(bkz: blyat)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "133142675",
+      "author": "stefan kuntz",
+      "date": "01.02.2022 10:32",
+      "content": "babalar ve oğullar kitabında geçiyordu;\n\n\"rus köylüsü tanrıyı bile soyar\"",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "134082728",
+      "author": "cirrus des aigles",
+      "date": "22.02.2022 20:36",
+      "content": "-yavaş gidersen daha uzakta olursun.\n-tüccar babanın oğlu çapkınsa torunu da dilenci olur.\n-zaman arkamızda, zaman önümüzde, zaman yanımızda değil.\n-bu kadar zeki olma, senden daha zekileri hapiste.\n-çirkin kadın yoktur, az votka vardır.\n-dikkatsiz insan, ormanda yürür de yakılacak odun görmez.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "GENDER-MORAL"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "134875216",
+      "author": "yorttumsavuldum",
+      "date": "13.03.2022 12:40",
+      "content": "çirkin görünüyorsan aynanın suçu yoktur.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "144992832",
+      "author": "kurda sormuslar boynun niye kalin diye",
+      "date": "12.11.2022 02:39",
+      "content": "onlar bize ödüyor gözüküyorlar, bizler de çalışıyor gözüküyoruz.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "ECON"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "145311927",
+      "author": "guyiks",
+      "date": "19.11.2022 22:40",
+      "content": "''hayat güzelken nedenini sormamak lazım.''",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "145312711",
+      "author": "anavatra",
+      "date": "19.11.2022 22:57 ~ 22:58",
+      "content": "\" ateş olmayan yerden duman çıkmaz. \"\naa aynısı bizde de var demiştim.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "160109713",
+      "author": "kuba gibiyim kendi kendime yetiy",
+      "date": "28.12.2023 09:59 ~ 09:59",
+      "content": "\"camdan evin varsa komşunun penceresine taş atma.\"",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "163120605",
+      "author": "cokiba2000",
+      "date": "03.04.2024 22:35",
+      "content": "iki kişi aynı şeyi yaparsa, aynı şey olmaz.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "163121433",
+      "author": "massive inferno",
+      "date": "03.04.2024 22:55 ~ 22:56",
+      "content": "\"bez truda ne vytashchishi, rybku iz pruda\" çabalamadan, gölde balık bile tutamazsın.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "163412861",
+      "author": "belediye stajyeri",
+      "date": "13.04.2024 13:58",
+      "content": "\"ev yapan balta dışarıda kalır.\" (bkz: rauf orbay)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "167351526",
+      "author": "tomrukcan",
+      "date": "14.08.2024 14:04",
+      "content": "\"kuyuya tükürme, sonra kendin içersin.\"",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "172812924",
+      "author": "secondside",
+      "date": "15.02.2025 17:05",
+      "content": "tuz - ekmek beraber, tütün herkesin kendinden.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "172813148",
+      "author": "76 bir bilen mi",
+      "date": "15.02.2025 17:15",
+      "content": "tatar ata geç biner ama seri sürer.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "172813299",
+      "author": "teoslu sosyolog",
+      "date": "15.02.2025 17:22",
+      "content": "bu kadar zeki olma, senden daha zekileri hapiste.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "172813379",
+      "author": "komando kani var bende",
+      "date": "15.02.2025 17:26",
+      "content": "\"para konuşunca, doğruluk susar\"",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "ECON"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "176372084",
+      "author": "etkilenmekicinkotuarkadasariyorum",
+      "date": "27.06.2025 13:35",
+      "content": "\"domuzu yemeğe çağır, ayaklarını masaya dayasın\"",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "177504553",
+      "author": "cift l li entellektuel",
+      "date": "11.08.2025 13:04",
+      "content": "\"başkasının manastırına kendi kurallarını getirmeye kalkma.\"\n\nkaynak: balkan savaşları - lev troçki.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "178785794",
+      "author": "cengizhaninoglu",
+      "date": "30.09.2025 13:16",
+      "content": "“hırsızın şapkası yanar.”\n\nrus yazar platon besedin'in “günah kitabı” adlı romanında geçen (s:104) atasözünün anlamı, çevirmen notunda şu şekilde açıklanıyor:\n\n“hırsızın şapkası yanar” atasözü, bir hırsızın açığa çıkarılmasıyla ilgili hikâyeden doğar. kalabalıktan biri'bakın! hırsızın şapkası yanıyor!' diye bağırır. hırsız başını tutar ve böylece kendini ele verir. bu atasözü suçlu birinin kendini gizleyemeyeceği, ya sözleriyle ya davranışlarıyla kendini ele vereceğini anlatmak için kullanılır. “",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CRIME"
+      ]
+    },
+    {
+      "title": "rus atasözleri",
+      "entry_id": "179759051",
+      "author": "cengiz batur",
+      "date": "11.11.2025 22:30",
+      "content": "ayıyı dansa kaldırırsanız, dansın ne zaman biteceğine siz değil ayı karar verir.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    }
+  ]
+}

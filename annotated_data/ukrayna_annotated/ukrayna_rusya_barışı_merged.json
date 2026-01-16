@@ -1,0 +1,235 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:03:53.882911",
+    "total_entries": 16,
+    "input": "ukrayna rusya barışı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukrayna rusya barışı",
+      "entry_id": "135546769",
+      "author": "kartaza1915",
+      "date": "29.03.2022 16:23",
+      "content": "bugün ciddi oranda başarılmıştır.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna rusya barışı",
+      "entry_id": "135546888",
+      "author": "dieselpower",
+      "date": "29.03.2022 16:25",
+      "content": "türkiyenin bu sefer doğru politika izleyerek öncü olduğu barıştır.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "ukrayna rusya barışı",
+      "entry_id": "135547003",
+      "author": "liberamundi",
+      "date": "29.03.2022 16:29",
+      "content": "dünyaya sempatik görünme çabalarıdır.\nama bir şey diyeyim size araya giren arada kalır.\nreis, lüfen prompterde yazanlar dışında bir şey söyleme:(",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna rusya barışı",
+      "entry_id": "135547116",
+      "author": "myxomaxil",
+      "date": "29.03.2022 16:33",
+      "content": "(bkz: kaynak) götüm.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "SEXUAL"
+      ]
+    },
+    {
+      "title": "ukrayna rusya barışı",
+      "entry_id": "135547193",
+      "author": "veresiyesatan",
+      "date": "29.03.2022 16:36",
+      "content": ".usya'nın, barış görüşmelerini bahane ederek kiev'den çekilme kararı aldığı bildiriliyor.\n\nhttps://www.businessinsider.com/…peace-talks-2022-3\n\nyenildiklerinin yavaş yavaş farkına varacaklar.",
+      "referenced_content": [],
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "ukrayna rusya barışı",
+      "entry_id": "135547687",
+      "author": "kendi kalesine gol atan santrfor",
+      "date": "29.03.2022 16:51 ~ 18:06",
+      "content": "eğer gerçekten barış olursa, türkiye'nin ciddi başarısı unutulmasın.\nabd yangına körükle giderken, barış için sivillerin can kaybının önlenmesi ve herkesin vatanına dönebilmesi için yapılan her çaba kıymetlidir.\n\nedit: virgül.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "HUMAN",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "ukrayna rusya barışı",
+      "entry_id": "135547732",
+      "author": "renksiz hayat",
+      "date": "29.03.2022 16:52",
+      "content": "reis üçüncü dünya savaşını bitirerek nobel barış ödülüne göz kırpmıştır.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "ukrayna rusya barışı",
+      "entry_id": "135547799",
+      "author": "buhesabibenoderim",
+      "date": "29.03.2022 16:54",
+      "content": "(bkz: #134659777)\n\nön görülerimi seveyim:) gülşen ile ilgili bir entry de bunu değerlendiren olmamıştır.",
+      "referenced_content": [
+        {
+          "type": "entry",
+          "title": "gulsenin-yaptigi-kucak-dansi",
+          "entry_id": "134659777",
+          "author": "buhesabibenoderim",
+          "date": "08.03.2022 11:46",
+          "content": "altını 940 -950 seviyelerinden bozdurun, 830 lardan tekrar alım fırsatı verecektir.\nsonra 1000+ üzerini bekliyorum. yatırım tavsiyesi değildir:)\n\nbırakın şimdi gülşeni mülşeni savaş var kıtlık başlayacak yeniden üreten toplum olmamız için hepinizin çalışkanlığına ve maddi kaynaklarına ihtiyaç olacak:d",
+          "has_external_url": false
+        }
+      ],
+      "referenced_entry_ids": [
+        "134659777"
+      ],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna rusya barışı",
+      "entry_id": "135547872",
+      "author": "son switch case bukucu",
+      "date": "29.03.2022 16:57",
+      "content": "inşallah bir an önce gerçekleşir de savaş biter.\nsadece ukrayna'da değil tüm dünya da barış olsun.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "ukrayna rusya barışı",
+      "entry_id": "135547909",
+      "author": "kirkhammet34",
+      "date": "29.03.2022 16:58 ~ 31.03.2022 11:20",
+      "content": "yarabbi şükür. her gün motorine zam görmekten gına gelmişti.\n\nedit: rusya ayak yaptı barışacağız diye, habire saldırıyorlar şu an bile.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "ukrayna rusya barışı",
+      "entry_id": "135548467",
+      "author": "aegeus",
+      "date": "29.03.2022 17:14 ~ 17:18",
+      "content": "bir defa şunu görmek lazım; en kötü barış, en iyi savaştan iyidir.\n\nöyle görünüyor ki kırım, donbass rusya'ya bırakılıyor; ayrıca ukrayna, nato'ya girmeyeceğini taahhüt edecek; zaten nato'nun ukrayna'yı almayacağı da kesin; ancak ab üyeliği daha farklı; rusya buna ses etmiyor.\n\nukrayna kaybetti mi; evet, en büyük kaybeden ukrayna; binlerce kişi öldü, yaralandı; milyonlarca vatandaşı ülkeyi terk etti, bunların büyük çoğunluğu dönmeyecek; kırım'ı geri alamayacağı kesinleştiği gibi saldırmaya hazırlandığı donbass bölgesini de kaybetmiş olacak; yani ülkesinden büyük bir toprak kaybı yaşıyor; ayrıca ülkenin doğu, kuzey ve güney bölümleri savaş dolayısıyla harabeye dönmüş durumda; ülkenin tekrar imar ve inşası için milyarlarca dolar ve yıllar süren bir çaba gerekecek.\n\nukrayna kazandı mı; bunun cevabı da evet, çünkü ulusal kimliğini pekiştirdi ve dünyanın gözünde ukrayna artık eski bir rus eyaleti değil, bağımsız bir devlet; belki kırım ile donbass elinden çıktı ama artık bir daha egemenlik ve bağımsızlığı ruslar tarafından tartışma konusu yapılamayacak; üstelik nato değil ama bu sayede avrupa birliği'ne üye olacak.\n\nrusya kaybetti mi; evet, ikinci en büyük kaybeden rusya; ordusunun ve askeri teknolojisinin ne kadar eski ve etkisiz olduğu ortaya çıktı; caydırıcılığını büyük ölçüde kaybetti; ayrıca yediği ekonomik ambargolar dolayısıyla onlarca yıl belini doğrultamayacak; elindeki en büyük getiri imkanı olan petrol & doğalgazın da yakında bir önemi kalmayacak; avrupa, bu bağımlılığı minimuma indirmek için tüm adımları son sürat atıyor. ayrıca beyin ölümü gerçekleşmiş nato'yu canlandırdığı yetmiyor gibi balktık ülkeleri dahil tüm avrupa ülkelerinin kendisine karşı birleşmesine neden oldu.\n\nrusya kazandı mı; evet, kırım ve donbass bölgelerini, artık tartışılmayacak bir şekilde kendisine kattı; ayrıca bu sayede azap denizini kontrolü altına alıyor büyük ölçüde; ama sadece bu kadar; kayıplarının yanında bence bu bir prius zaferi.\n\nedit: ikincil kazananlar abd ve türkiye; abd, nato'yu dirilterek avrupa'nın bağımsız bir avrupa ordusu hayallerini sona erdirdi; ayrıca deli silah satışı yapacak bundan sonra; bunu da tek kurşun atmadan yaptı; türkiye ve özellikle erdoğan ise yürüttüğü tarafsız ve dengeli bir diplomasi ile bu barışın mimarı olarak sonuçlarını fazlasıyla toplayacaktır; hiçbir şey olmasa, bu savaş nedeniyle doğu akdeniz'deki doğalgaz mücadelesi lehimize dönecek ve ilave hatlar da bizim üzerimizden geçiyor olacak; tek başına bu bile çok büyük bir kazanç türkiye için.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "HUMAN",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "ukrayna rusya barışı",
+      "entry_id": "135548591",
+      "author": "oprichnina",
+      "date": "29.03.2022 17:18 ~ 17:19",
+      "content": "mahallenin piçleri küçük kardeşi ayartınca büyük ağabey bi güzel sopa atmıştır kardeşine. mahallenin bıçkın delikanlısı da gelip kavgayı ayırmaya çalışmaktadır. günün sonunda kavga evde bitecek ve mother russia kardeşleri barıştıracaktır.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "ukrayna rusya barışı",
+      "entry_id": "135548934",
+      "author": "ceo",
+      "date": "29.03.2022 17:29",
+      "content": "rusya ve ukrayna'nın anlaşması gerçek bir \"barış\" anlamında hiçbir şey ifade etmez. kısa süreli yalancı bahardan öteye gitmez çünkü aralarında olabilecek tek anlaşma ukrayna'nın rusya'nın bütün isteklerine boyun eğmesi, batıdan uzaklaşması ve rusya'nın işgal ettiği yerleri kabullenmesi şeklinde olacaktır. bunun tersi rusya için felaket olacağı için zaten mümkün değil.\n\nukrayna istese de rusya'nın sevr antlaşması tadındaki isteklerini kabul edemez, bu defa batı ukrayna'yı da rusya ile aynı kefeye koyar, \"hoşt ulan rus köpeği\" der, bütün desteğini çektiği gibi birde üstüne düşman olur. rusya'ya uyguladığı o korkunç yaptırımları ukrayna'nın da kafasına geçirir. ukrayna halkı da \"ulan bu kadar mücadeleyi rusya'nın eyaleti olalım diye mi verdik, bre deyyus zelensky. madem böyle olacaktı rusya'nın isteklerini en baştan kabul etseydin bari\" diye hesap sorar, ortalığı ayağa kaldırır.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "ukrayna rusya barışı",
+      "entry_id": "135549395",
+      "author": "shamarist",
+      "date": "29.03.2022 17:43",
+      "content": "batı, türkiyeyi garantör ülke pozisyonuna sokmak istiyor. iki gün önce yüzümüze bakmayan hollanda bile şimdi buraya gelip ziyaret ediyor.\nburada barıştırıcı rol falan üstlendiğimiz yok, bize barıştırıcı rol verilmesi var.\nmedeni ülkeler sadece menfaatlerine göre hareket ederler.\nsen ortadoğunun, rusyanın, hazar denizinin, amk afrikasının bile pisliğiyle, savaşıyla boku püsürüğüyle uğraşırken adam konya kadar ülkesinde dünyanın en büyük ticaretini yapar. sen de dünya liderini ortamlarda göğsünü gere gere anlatır, bulgura talim edersin.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "ukrayna rusya barışı",
+      "entry_id": "165091062",
+      "author": "evolucja",
+      "date": "06.06.2024 00:39",
+      "content": "ufukta zor gözüken barış.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna rusya barışı",
+      "entry_id": "172780539",
+      "author": "arthon",
+      "date": "14.02.2025 11:35",
+      "content": "(bkz: trump'in ukrayna barış planı)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:30:16.256260",
+    "total_entries": 2,
+    "input": "ruslara dalmak",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ruslara dalmak",
+      "entry_id": "4695447",
+      "author": "hirondelle",
+      "date": "13.06.2004 18:00",
+      "content": "napolyon un da sonun getirmis olan eylem.bir de boondock saints te boyle birseyler vardi.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ruslara dalmak",
+      "entry_id": "4695548",
+      "author": "core i",
+      "date": "13.06.2004 18:11 ~ 18:12",
+      "content": "konuyla alakalı olarak:\n\n(bkz: 12 haziran 2004 ispanya rusya maci)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

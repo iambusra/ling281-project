@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:25:45.563485",
+    "total_entries": 1,
+    "input": "türklere işiniz resort diyen rusun ölmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türklere işiniz resort diyen rusun ölmesi",
+      "entry_id": "147676519",
+      "author": "ahoanktr",
+      "date": "15.01.2023 13:11 ~ 13:13",
+      "content": "ilâhi adalet tecelli etmiş. bunların dedelerinin doğu anadolu da yaptığı soykırımları unutmuyoruz!(van, kars, erzurum da yapılan soykırımlar) bu yaptıkları soykırımı da ermenilere yapıldı diye lanse ederek kendi arkalarını koruyacak kadar alçaktırlar!",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    }
+  ]
+}

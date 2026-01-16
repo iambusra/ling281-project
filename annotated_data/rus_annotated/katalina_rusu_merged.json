@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:23:50.868994",
+    "total_entries": 1,
+    "input": "katalina rusu",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "katalina rusu",
+      "entry_id": "24688084",
+      "author": "sanver",
+      "date": "26.07.2011 21:04",
+      "content": "2009'da moldova adına eurovision'a da katılmış olan şarkıcı. the beast adlı dandik ama oynak şarkısı nedeniyle kendisini keşfetmiş bulunmaktayım.\n\nhttp://www.youtube.com/watch?v=1bpe6bo_am8",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CULTURE"
+      ]
+    }
+  ]
+}

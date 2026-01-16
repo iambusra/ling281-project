@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:44:28.718348",
+    "total_entries": 1,
+    "input": "plajda tanga vs suriye savaşı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "plajda tanga vs suriye savaşı",
+      "entry_id": "176857233",
+      "author": "varbilolyok",
+      "date": "16.07.2025 19:03 ~ 19:05",
+      "content": "bu versusta kendimin dayak yemesi pahasına yazıyorum.\nplajda tanga dövüyor şu an ekşi gündemde.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "SEXUAL",
+        "CRIME"
+      ]
+    }
+  ]
+}

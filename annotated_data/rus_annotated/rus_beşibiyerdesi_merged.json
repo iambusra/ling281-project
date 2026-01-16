@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:20:22.415089",
+    "total_entries": 1,
+    "input": "rus beşibiyerdesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rus beşibiyerdesi",
+      "entry_id": "176504910",
+      "author": "hic tren gecmeyen istasyon",
+      "date": "02.07.2025 19:39 ~ 19:56",
+      "content": "flu tv'nin en güzel içeriklerinden birisinin başlığı. çok güzel bir video olmuş. teşekkürler serhan bali çok zevkle izledim bitmesin istedim. rus müziğine de rus edebiyatına da bayılıyorum.\nboris berezovski kalp ben.\n\nlinki de koyayım",
+      "has_external_url": true,
+      "sentiment_numeric": 5,
+      "categories": [
+        "CULTURE"
+      ]
+    }
+  ]
+}

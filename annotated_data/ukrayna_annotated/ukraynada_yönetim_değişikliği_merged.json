@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:11:44.494146",
+    "total_entries": 1,
+    "input": "ukraynada yönetim değişikliği",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukraynada yönetim değişikliği",
+      "entry_id": "134089505",
+      "author": "griaslan",
+      "date": "22.02.2022 22:55",
+      "content": "tanım: 22 02 2022 itibariyle bir kaç gün içersinde gerçekleşmesi beklenen ve yeni yönetimin ilk hamlesinin donetsk ve luhansk federe devletlerini tanimasiyla biz dahil pek çok ülkeyi rahatlatacak gelisme beklentisi\n\nsanırım nizami entry, başlık parselleme niyetim olsa ukrayna'da darbe falan gibi spekülatif bir şeyler yazardım.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY",
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:10:23.231756",
+    "total_entries": 1,
+    "input": "avrupa birliği'nin ukrayna'ya vizeleri kaldırması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "avrupa birliği'nin ukrayna'ya vizeleri kaldırması",
+      "entry_id": "64584347",
+      "author": "ksanthos",
+      "date": "08.12.2016 23:20",
+      "content": "hayirlara vesile olasica karar.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POLICY"
+      ]
+    }
+  ]
+}

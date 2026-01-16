@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:02:26.892964",
+    "total_entries": 2,
+    "input": "ukrayna heyetinin görüşmeye gelmemesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukrayna heyetinin görüşmeye gelmemesi",
+      "entry_id": "175320648",
+      "author": "tuncb",
+      "date": "15.05.2025 15:31",
+      "content": "kaynak\n\niki tarafta samimiyetten uzak, barışa mesafeli gibi gözüküyor. önce putin istanbul'a gelmeyeceğini söyleyerek yan çizdi. buna mukabil ukrayna heyeti de karşılık vermiş gibi gözüküyor.",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna heyetinin görüşmeye gelmemesi",
+      "entry_id": "175320775",
+      "author": "terminus yerlisi",
+      "date": "15.05.2025 15:37 ~ 15:40",
+      "content": "dünya liderinin dış politikasının(!) başarısıdır.\nrusya adına da putin'in yerine bakan yardımcısı mı, özel kalem müdürü mü ne gelmişti sabah saatlerinde.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POLICY"
+      ]
+    }
+  ]
+}

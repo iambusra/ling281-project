@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:30:27.045986",
+    "total_entries": 2,
+    "input": "sözlüktekiler amerikancı değil ruslardan korkuyor",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "sözlüktekiler amerikancı değil ruslardan korkuyor",
+      "entry_id": "134319598",
+      "author": "praemoderor",
+      "date": "28.02.2022 12:15",
+      "content": "amerika ekşi sözlük’ü ciddiye alıp paralı troll tutmayacağına göre, bu hayranlık gibi gözüken şeyin temeline dair bir iddiadır.\n\nekşi sözlük gibi hiçbir şeyde birleşemeyen bir oluşum rus düşmanlığında bu kadar birleşiyorsa, bunun tek temeli korkuyor oluşları.. bunların babaları ülkü ocaklarından çıkma okumamış tipler, 80’lerdeki hikayelerle büyütmüşler çocuklarını, bu antipati ve korku bu kuşağa değil, babalarının kuşağına ait.\n\nyani sözlükte abdtapar kimseler yok, onların zihinlerinde hiç yaşamadıkları anılarda kızıl ordu, zorlu coğrafyanın acımasız insanları temasının, travması var.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "sözlüktekiler amerikancı değil ruslardan korkuyor",
+      "entry_id": "134319756",
+      "author": "aydansevgiler",
+      "date": "28.02.2022 12:19",
+      "content": "siktin formatı eyledin viran\n\nsourlines iyi uçuşlar diler",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HUMAN"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:47:52.417342",
+    "total_entries": 9,
+    "input": "suriye'de sarin gazı kullanılması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriye'de sarin gazı kullanılması",
+      "entry_id": "36269134",
+      "author": "oradaki gezegen",
+      "date": "21.08.2013 18:35",
+      "content": "kaynak trt olduğu için doğruluğunun sorgulanması gereken haber. patlama diye deprem görüntüleri verildiğini biliyoruz zamanında.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriye'de sarin gazı kullanılması",
+      "entry_id": "36269232",
+      "author": "horse thief",
+      "date": "21.08.2013 18:38",
+      "content": "şuriye diye bir ülkenin var olduğunu gözümüze çarpan acı gerçek",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriye'de sarin gazı kullanılması",
+      "entry_id": "36269267",
+      "author": "orijinal nick bulamadim",
+      "date": "21.08.2013 18:39",
+      "content": "eşed yapmıştır muhakkak.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriye'de sarin gazı kullanılması",
+      "entry_id": "36269317",
+      "author": "mezzyet",
+      "date": "21.08.2013 18:41 ~ 23:34",
+      "content": "adana'da yakalanan sarin gazının daha fazla üretilip öso'ya ulaştırıldığının kanıtıdır.\n(bkz: http://www.nehirhaber.com/…rin-gazi----_h80127.html)\n\nedit: antalya yazmışız o hışımla:)",
+      "referenced_content": [],
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CRIME"
+      ]
+    },
+    {
+      "title": "suriye'de sarin gazı kullanılması",
+      "entry_id": "36269385",
+      "author": "fenasi kerim",
+      "date": "21.08.2013 18:43",
+      "content": "bu burda dursun (bkz: trt'nin meksika'daki cinayeti suriye'ye mal etmesi)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriye'de sarin gazı kullanılması",
+      "entry_id": "36370559",
+      "author": "cilgin palmiyeler",
+      "date": "25.08.2013 00:31",
+      "content": "sınır tanımayan doktorlar örgütü tarafından ilk doğrulaması yapılan önermedir. ilgili haber için yakınız: http://t24.com.tr/…i-iddiasina-ilk-dogrulama/237802",
+      "referenced_content": [],
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "HUMAN",
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriye'de sarin gazı kullanılması",
+      "entry_id": "41822011",
+      "author": "liber",
+      "date": "07.04.2014 12:04",
+      "content": "hakan fidan'a sorulması gereken olaydır. dört kişi göndertip sekiz tüp patlattırmışmıdır",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CRIME"
+      ]
+    },
+    {
+      "title": "suriye'de sarin gazı kullanılması",
+      "entry_id": "41878745",
+      "author": "talihli",
+      "date": "09.04.2014 13:54",
+      "content": "(bkz: #41878497)",
+      "referenced_content": [
+        {
+          "type": "entry",
+          "title": "seymour-hersh",
+          "entry_id": "41878497",
+          "author": "talihli",
+          "date": "09.04.2014 13:43",
+          "content": "bizimkilerin(!) bir dolu söylediğinden daha inandırıcı geliyor yazdıkları. maalesef:(",
+          "has_external_url": false
+        }
+      ],
+      "referenced_entry_ids": [
+        "41878497"
+      ],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriye'de sarin gazı kullanılması",
+      "entry_id": "173266712",
+      "author": "fizikkimya",
+      "date": "02.03.2025 23:26",
+      "content": "türk devleti yapmıştır.\nbununla yetinmeyip\nsarin, fosgen, tabun, difosgen gazlarını farmakolojik olarak denemişlerdir .\nen sert olduğu bilinen hardal gazını saddam halepte kullanmıştı . (bkz: yan şerefsiz)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CRIME"
+      ]
+    }
+  ]
+}

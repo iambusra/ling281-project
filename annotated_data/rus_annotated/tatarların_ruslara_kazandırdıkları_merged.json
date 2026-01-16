@@ -1,0 +1,104 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:29:34.850026",
+    "total_entries": 7,
+    "input": "tatarların ruslara kazandırdıkları",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "tatarların ruslara kazandırdıkları",
+      "entry_id": "35654654",
+      "author": "somek kafali",
+      "date": "01.08.2013 23:48 ~ 02.10.2013 23:11",
+      "content": "tatar türkçesinden geçme bir çok kelime. rusçada türkçeden geçme kelime oranı 1700'lü yılların ortalarına değin baskınlığını sürdürmüştür. yuvarlak hesap %60 civarı. sonraları devreye fransızca filan girmiş ve bu hakimiyet zedelenmiştir.\n\n(bkz: türkçeden rusçaya geçen kelimeler)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE",
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "tatarların ruslara kazandırdıkları",
+      "entry_id": "35654713",
+      "author": "orijinnal",
+      "date": "01.08.2013 23:50 ~ 23:55",
+      "content": "savaşmayı öğretmeleri.\ndevlet nasıl yönetilir öğretmeleri.\nsovereign nasıl olunur öğretmeleri.\nbeylik seviyesinden devlet seviyesine geçirmeleri.\ndevlet nedir bilmeyen rusların altınorda devletinin kurumsal yapısını tamamen kendine monte etmesi.\nrusu kazı altından tatar çıkar.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE",
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "tatarların ruslara kazandırdıkları",
+      "entry_id": "35654942",
+      "author": "somek kafali",
+      "date": "01.08.2013 23:57 ~ 02.10.2013 23:11",
+      "content": "kremlin mimarisi. aslı kazanda tatarlarca yapılmış ruslarca mimarisi geliştirilerek moskovada yapılmıştır.\n\n(bkz: hangi rusu kazısan altından tatar çıkar)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE",
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "tatarların ruslara kazandırdıkları",
+      "entry_id": "35655639",
+      "author": "elishafanz",
+      "date": "02.08.2013 00:18",
+      "content": "bir tatar olarak hiçbirini bilmediğim kazanımlardır. 7 sülale tatarız, tabi babanne ve dede ile birlikte türkiye'ye göç olmuş artık tatarlıktan yavaş yavaş uzaklaşmışız, ben lafta tatarım ama böyle bir şey varsa biraz da ruslar bana bir şeyler kazandırsın, en azından rus bayanları. atalarımın dedelerimin emeğinin karşılığını alayım bari:(",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "HUMAN",
+        "CULTURE",
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "tatarların ruslara kazandırdıkları",
+      "entry_id": "35656073",
+      "author": "altaygoguz",
+      "date": "02.08.2013 00:32",
+      "content": "(bkz: rinat dasaev)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE",
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "tatarların ruslara kazandırdıkları",
+      "entry_id": "107086190",
+      "author": "a la bien",
+      "date": "13.05.2020 10:04 ~ 11:05",
+      "content": "koskoca bir avrasya bölgesidir. kazandırma değil kaptırma da diyebiliriz buna. tatarlar organize kalabilselerdi bugün doğu avrupa'dan, orta asya'ya ve pasifike kadar uzanan rus hakimiyeti yerine türki bir halkın hakimiyeti olurdu. bomboş araziyi moskoflara verdiler maalesef.\n\noralarda yerli halklar da türki olduğu için ruslar gibi asimilasyon yapmadan da büyük bir devlet kurabilirlerdi. şimdi tatarların çoğu ya türkiye'de türkçe konuşur, ya da rusya'da rusça konuşur.\n\nbahsettiğim topraklardaki doğal kaynaklardan hiç bahsetmiyorum bile. rusya neden bugün böyle kuvvetli? türki halkları, osmanlı ve türkiye de dahil son 400 yıldır ayakta öpe öpe aldığı bu topraklar ve kaynaklar nedeniyle.\n\ncoğrafi konumlama olarak ruslarla beraber en elverişli iki halktan biri olan tatarlar tarihte böylesine büyük bir fırsatı, yani bugünkü rusya'nın o kocaman topraklarına hükmetme fırsatını kaçırmışlardır.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "tatarların ruslara kazandırdıkları",
+      "entry_id": "125296071",
+      "author": "clara del walle trueba",
+      "date": "02.07.2021 20:12",
+      "content": "\"altın orda ve rusya / rusya üzerindeki türk tatar etkisi\" adlı kitapta, hakkında en ayrıntılı bilgiyi bulabileceğiniz başlık.\n(bkz: ilyas kemaloğlu)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE",
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

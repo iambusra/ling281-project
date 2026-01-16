@@ -1,0 +1,38 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:22:26.844284",
+    "total_entries": 2,
+    "input": "97 ukraynalının kuşadasına yerleştirilmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "97 ukraynalının kuşadasına yerleştirilmesi",
+      "entry_id": "134580400",
+      "author": "başlık taşıyan",
+      "date": "06.03.2022 15:52",
+      "content": "(bkz: 97 ukraynalının kuşadası'na yerleştirilmesi)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY",
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "97 ukraynalının kuşadasına yerleştirilmesi",
+      "entry_id": "134586789",
+      "author": "muaz7845",
+      "date": "06.03.2022 18:55",
+      "content": "ulan benim kayinvalide ve baldız geliyor.goc idaresini aradım.5000 tl masraf çıkıyor.nasil iş lan bu?",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "ECON",
+        "POLICY"
+      ]
+    }
+  ]
+}

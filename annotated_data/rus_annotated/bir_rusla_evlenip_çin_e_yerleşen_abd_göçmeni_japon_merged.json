@@ -1,0 +1,60 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:26:14.668081",
+    "total_entries": 4,
+    "input": "bir rusla evlenip çin'e yerleşen abd göçmeni japon",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "bir rusla evlenip çin'e yerleşen abd göçmeni japon",
+      "entry_id": "94748548",
+      "author": "aynshinqaf iki",
+      "date": "01.09.2019 16:26 ~ 16:29",
+      "content": "ilginç bir youtube kanalıdır. çok enteresan bilgiler vermekte ve muhteşem hayat hikayesini izleyiciler ile buluşturmaktadır. youtube çöplüğünde takip edilesi ender kanallardan biridir.",
+      "has_external_url": true,
+      "sentiment_numeric": 4,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "bir rusla evlenip çin'e yerleşen abd göçmeni japon",
+      "entry_id": "94753434",
+      "author": "hayvanadam",
+      "date": "01.09.2019 18:41",
+      "content": "(bkz: ekşi sözlük'e bir daha gelinse alınacak nickler)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "bir rusla evlenip çin'e yerleşen abd göçmeni japon",
+      "entry_id": "94753475",
+      "author": "hafiz",
+      "date": "01.09.2019 18:43",
+      "content": "(bkz: kandirdimxd)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CRIME"
+      ]
+    },
+    {
+      "title": "bir rusla evlenip çin'e yerleşen abd göçmeni japon",
+      "entry_id": "94753512",
+      "author": "seth mescaline",
+      "date": "01.09.2019 18:44",
+      "content": "(bkz: afyonlu katolik gay taşfırın ustaları) (bkz: swh)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "SEXUAL"
+      ]
+    }
+  ]
+}

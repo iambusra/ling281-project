@@ -1,0 +1,109 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:16:48.310563",
+    "total_entries": 8,
+    "input": "4 milyon suriyeliyi davul zurna ile göndereceğiz",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "4 milyon suriyeliyi davul zurna ile göndereceğiz",
+      "entry_id": "78330853",
+      "author": "nonameone",
+      "date": "21.06.2018 20:48",
+      "content": "asrın sloganı olur .",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "4 milyon suriyeliyi davul zurna ile göndereceğiz",
+      "entry_id": "78331736",
+      "author": "120374920",
+      "date": "21.06.2018 21:09",
+      "content": "bugune kadar 4 milyon kişiyi biz nasil soktuk neden bir çözum aramadık bunlari baska ülkelere neden yollamadık hepsini başımıza bela ettik diyeceklerine belli bi kesim'bak görüyomusun ince din kardeşlerimizi ateşin içine aticak' falan diycekler sanki bu topraklarin insanini sürgün ediyomuşçasına\ndemiycekler ki adamlari geldikleri kendi vatanlarına(doğru vatanları olsa òyle birakip gelmezlerdi) yolluyo",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "4 milyon suriyeliyi davul zurna ile göndereceğiz",
+      "entry_id": "78373441",
+      "author": "hawt",
+      "date": "22.06.2018 21:27",
+      "content": "bugün gerçekleşen büyük ankara mitinginde muharrem ince tarafından tekrarlanan söz. bunu haber yapacak hiç bir kanalın olmaması gibi, sosyal medyada da gerektiği ilgiyi alamamış olması üzücü.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "4 milyon suriyeliyi davul zurna ile göndereceğiz",
+      "entry_id": "78373701",
+      "author": "klarkkent",
+      "date": "22.06.2018 21:35",
+      "content": "alkışlanası vaad.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "4 milyon suriyeliyi davul zurna ile göndereceğiz",
+      "entry_id": "78373867",
+      "author": "real fener",
+      "date": "22.06.2018 21:39",
+      "content": "bence ince, bu cümleyi bu şekilde açık ve seçik söylemekte biraz geç kaldı.\n\nbu söylem, seçim propagandasının ana maddelerinden olmalıydı.\n\nhepimizi bu kadar ilgilendiren bir konunun üzerinden öylesine geçmek olmamalıydı.\n\nhasta, yaşlı ve bakıma muhtaç olanlar hariç hepsi, ister kendi ülkelerine, isterlerse de, kendilerini kabul eden başka ülkelere tıpış tıpış gidecekler. bunun başka bir yolu yok.\n\nbu aptalca ve plansız programsız politika, eninde sonunda iflas edecektir.\nama bu, sosyal patlamalar olmadan ve kimsenin burnu kanamadan çözüme kavuşmalıdır.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "4 milyon suriyeliyi davul zurna ile göndereceğiz",
+      "entry_id": "78399423",
+      "author": "anani siken kadi",
+      "date": "23.06.2018 14:27",
+      "content": "din kardeşlerimiz sonunda öz vatanlarına kavuşacak. değil davul zurna, havayifisek atsak az gelir. bu hayırlı olaya destek olmayan müslümanım demesin.",
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "4 milyon suriyeliyi davul zurna ile göndereceğiz",
+      "entry_id": "78399921",
+      "author": "hiccupq",
+      "date": "23.06.2018 14:34",
+      "content": "yallahj",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "4 milyon suriyeliyi davul zurna ile göndereceğiz",
+      "entry_id": "78424839",
+      "author": "zarureten",
+      "date": "24.06.2018 00:29",
+      "content": "(bkz: ay hadi inşallah)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

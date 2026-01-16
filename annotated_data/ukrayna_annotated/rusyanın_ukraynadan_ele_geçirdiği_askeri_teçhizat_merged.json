@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:14:44.684647",
+    "total_entries": 1,
+    "input": "rusyanın ukraynadan ele geçirdiği askeri teçhizat",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rusyanın ukraynadan ele geçirdiği askeri teçhizat",
+      "entry_id": "159479905",
+      "author": "55ihsan55",
+      "date": "07.12.2023 00:06 ~ 00:08",
+      "content": "rusya ukrayna savaşından ele geçirdiği çeşitli ülkelere ait askeri araçları ve teçhizatları toplayıp müze yapmış. aralarında türkiyeye ait dronelar ve çeşitli haberleşme araçları da var.\nhttps://youtu.be/74d2zi9ideq?si=ebf3s8l-a92m2ojv",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

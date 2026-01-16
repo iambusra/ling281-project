@@ -1,0 +1,37 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:41:48.957853",
+    "total_entries": 2,
+    "input": "eli silah tutan suriyeliyi eğitip gönderelim",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "eli silah tutan suriyeliyi eğitip gönderelim",
+      "entry_id": "102941830",
+      "author": "bahanesi olmayan adam",
+      "date": "03.03.2020 07:23",
+      "content": "tbmm insan hakları göç ve uyum komisyonu toplantısına iyi parti konya milletvekili fahrettin yokuş’un önerisi damga vurdu. yokuş, türkiye’de eli silah tutan sığınmacıların ülkelerine gönderilmesini teklif etti. yokuş şunları söyledi:\n\nbiz düşünce olarak istisnasız tüm sığınmacıların kendi vatanlarına dönmesinden yanayız ve artık misafirlik sürelerinin geçtiğini düşünüyoruz. 2011'den bu yana gelen herkes vatanına gitsin. şimdi, eli silah tutan 1 milyondan fazla sığınmacının olduğu söyleniyor, bunları eğitelim, nasıl libya'da gidip eğitiyoruz… gönderelim vatanlarını korusunlar. yani biz besledik yeter ya… dokuz senedir besliyoruz, vatanlarını korusunlar. türkiye'de olanlarla ekmeğimizi paylaşırız, paylaşmaya devam edeceğiz ama bu politikaların türkiye'yi artık iyi bir yere götürmeyeceğini görüyoruz. ‘herkes vatanına' diyoruz.\n\nkaynak.",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY",
+        "XENO"
+      ]
+    },
+    {
+      "title": "eli silah tutan suriyeliyi eğitip gönderelim",
+      "entry_id": "102942027",
+      "author": "mitmirti",
+      "date": "03.03.2020 07:40",
+      "content": "çok yerinde bir teklif!",
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "POLICY"
+      ]
+    }
+  ]
+}

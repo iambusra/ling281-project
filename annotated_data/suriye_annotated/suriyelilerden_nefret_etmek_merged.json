@@ -1,0 +1,50 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:57:37.629934",
+    "total_entries": 3,
+    "input": "suriyelilerden nefret etmek",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelilerden nefret etmek",
+      "entry_id": "80630692",
+      "author": "punkrock1907",
+      "date": "25.08.2018 22:46",
+      "content": "şüphesiz ki günahtır.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelilerden nefret etmek",
+      "entry_id": "80631306",
+      "author": "nick ul firstunblue",
+      "date": "25.08.2018 23:02",
+      "content": "mezapotamya diyerek arttirdigim başlıktır.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyelilerden nefret etmek",
+      "entry_id": "80632075",
+      "author": "jack lucas",
+      "date": "25.08.2018 23:22 ~ 23:24",
+      "content": "suriyelilerden değil de suriyelilerin gösterdiği tavır ve davranışları gösteren herkesten nefret etmek şeklinde düzeltilerek ırkçılığa hizmet etmeyecek hale getirilmesi durumunda altına bazı argümanlar yazılarak desteklenebilecek bir önermeyi gündemimize sokabilecek başlıktır. bugün suriyelilerden nefret etme gerekçemizi yarın bangladeşliler veya özbekler de hayata geçirebilir. nefret kişiden, türden, ırktan ve soydan kaynaklı ise kabul edilemez bir ilkelliktir. mesele tavır, davranış, görgü, nezaket ve medeniyet meselesidir. yoksa s*kmişim suriyesini...",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN",
+        "POLICY"
+      ]
+    }
+  ]
+}

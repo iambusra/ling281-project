@@ -1,0 +1,26 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:04:33.638472",
+    "total_entries": 1,
+    "input": "suriyelilerin hastanede sıra bekleyememesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelilerin hastanede sıra bekleyememesi",
+      "entry_id": "162768376",
+      "author": "osgur",
+      "date": "24.03.2024 16:16",
+      "content": "türkiye'de hastaneye giden suriyeliler tek kuruş bile ödemeden tedavi oldu, 960 bin kişi ameliyata giren suriyeli tek kuruş ödemeden sağlığına kavuştu.\n\n25 bin lira borcu olup intihar eden genç unutuldu bu ülkede, sma hastası çocukların aileleri kalabalık sokaklarda dilendiriliyor. uç kuruş para toplamak için.\n\nher aklıma geldiğimde yazacağım.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "ECON",
+        "POLICY",
+        "HUMAN"
+      ]
+    }
+  ]
+}

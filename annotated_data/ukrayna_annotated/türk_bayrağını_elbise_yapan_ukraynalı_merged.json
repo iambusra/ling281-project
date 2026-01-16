@@ -1,0 +1,75 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:21:05.558258",
+    "total_entries": 5,
+    "input": "türk bayrağını elbise yapan ukraynalı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türk bayrağını elbise yapan ukraynalı",
+      "entry_id": "147274119",
+      "author": "tagen",
+      "date": "06.01.2023 02:19",
+      "content": "yabancılar, türklerden bu kadar kolay reaksiyon alabileceklerini keşfettiklerinden beri sürekli sosyal medyada bunlar dönüyor. türk erkekleri şöyle kadınları böyle vır vır vır.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "türk bayrağını elbise yapan ukraynalı",
+      "entry_id": "147274137",
+      "author": "rds",
+      "date": "06.01.2023 02:21",
+      "content": "ulkeyi bitirdi bu hareketiyle ben hayatimda boyle saygisizlik gormedim hemen ellerimize mesaleler alip kizgin bir kalabalik olusturmaliyiz.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "XENO",
+        "CRIME",
+        "HATE"
+      ]
+    },
+    {
+      "title": "türk bayrağını elbise yapan ukraynalı",
+      "entry_id": "147274183",
+      "author": "boschwolf",
+      "date": "06.01.2023 02:23",
+      "content": "gereksiz milliyetçilik yapmanın anlamı yok, hakaret aşağılama yoktur. bence güzel bir videodur. ha bir suriyeli yapsa bu düşünceye sahip olur muydum galiba hayır.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "türk bayrağını elbise yapan ukraynalı",
+      "entry_id": "147274573",
+      "author": "franquistain",
+      "date": "06.01.2023 02:42",
+      "content": "yav böyle ufak şeylere takılmayın amk. bir mal da yurtdışında bayrağımızı yere çizemezsin deyip adamla kavga ediyordu.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "türk bayrağını elbise yapan ukraynalı",
+      "entry_id": "147289127",
+      "author": "lara 888",
+      "date": "06.01.2023 14:26",
+      "content": "amerikalılar bilindiği üzre patriotdur. onlar bile bayraklarından elbise yapıyorlar.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "CULTURE"
+      ]
+    }
+  ]
+}

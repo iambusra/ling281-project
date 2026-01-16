@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:44:00.340947",
+    "total_entries": 1,
+    "input": "merkel'in kitabında açıkladığı suriyeli anlaşması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "merkel'in kitabında açıkladığı suriyeli anlaşması",
+      "entry_id": "173762446",
+      "author": "gnz",
+      "date": "20.03.2025 00:36",
+      "content": "(bkz: ahmet davutoğlu)\n(bkz: 27 mart 2014 ahmet davutoğlu ses kaydı)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

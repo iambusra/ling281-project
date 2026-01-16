@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:16:10.115720",
+    "total_entries": 1,
+    "input": "ukrayna'nın sesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukrayna'nın sesi",
+      "entry_id": "41441882",
+      "author": "sanver",
+      "date": "25.03.2014 16:28",
+      "content": "yeni kurulan ve ukrayna ağırlık haber yapan bir web portalı.\n\nhttp://www.ukraynaninsesi.org/",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

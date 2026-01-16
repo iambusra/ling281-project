@@ -1,0 +1,61 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:16:05.291752",
+    "total_entries": 4,
+    "input": "ukrayna'nın yüzölçümü olarak türkiye kadar olması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukrayna'nın yüzölçümü olarak türkiye kadar olması",
+      "entry_id": "43616697",
+      "author": "salazar",
+      "date": "19.06.2014 21:34 ~ 21:35",
+      "content": "(bkz: ne sandın yarraam)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "ukrayna'nın yüzölçümü olarak türkiye kadar olması",
+      "entry_id": "43616737",
+      "author": "men kucik chomichmen",
+      "date": "19.06.2014 21:36",
+      "content": "asagida rakamlari var. rakamla bilgiyle konusun, sizi cahiller, ısırarak çikolata yiyen insan lar\n\nukrayna: 603,628 km²\nturkiye: 783,562 km²",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "ukrayna'nın yüzölçümü olarak türkiye kadar olması",
+      "entry_id": "43616760",
+      "author": "biberon",
+      "date": "19.06.2014 21:36",
+      "content": "(bkz: mercator projeksiyonu)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'nın yüzölçümü olarak türkiye kadar olması",
+      "entry_id": "43617294",
+      "author": "fitratocaster",
+      "date": "19.06.2014 21:56 ~ 21:58",
+      "content": "dünya haritasında kendi ülkesini bulmaya çalışırken bir kere bile olsa gözü birazcık yukarı kaymamış bir vatandaş cümlesidir. yazıktır, günahtır. ama işine gelince ülkenin tüm şehirlerini de ezbere bilebiliyorsunuz ah canım türkiye'nin canım insancıkları.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CULTURE",
+        "HUMAN"
+      ]
+    }
+  ]
+}

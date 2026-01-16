@@ -1,0 +1,60 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:30:24.053620",
+    "total_entries": 4,
+    "input": "ruslardaki amerika düşmanlığı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ruslardaki amerika düşmanlığı",
+      "entry_id": "126987043",
+      "author": "analog deep",
+      "date": "16.08.2021 18:57 ~ 17.08.2021 07:53",
+      "content": "beni bıktırmış düşmanlıktır.\n\nrus tv'lerinde akşama kadar amerika aşağı, amerika yukarı. ama ne hikmetse kendi hükümetlerine tek laf bile edemezler. aynı yunan veya ermeni tv'lerindeki türkiye düşmanlığı gibi.\n\nbunu izleyen kayınpeder de kafa sikiyor \"amerika batıyor\" diye. adamın iki lafından biri amerika'yı hiç sevmiyor. tamam hacı sen sevme diyemiyorum işte.\n\nabd'de yaşayan birisinin çok mu umrunda acaba rusya nasıl diye? (filmlerden bahsetmiyorum. abd'de halkın gündeminden bahsediyorum. rusya'da başka. bütün gündem amerika.)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "ruslardaki amerika düşmanlığı",
+      "entry_id": "126987810",
+      "author": "gortaburun06",
+      "date": "16.08.2021 19:25 ~ 19:28",
+      "content": "halka para vermiyorsan, hizmet vermiyorsan. düşman yaratmak zorundasın, ki sorgulamasın.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "ruslardaki amerika düşmanlığı",
+      "entry_id": "126987893",
+      "author": "rusty cutlass",
+      "date": "16.08.2021 19:28",
+      "content": "''abd'de yaşayan birisinin çok mu umrunda acaba rusya nasıl diye?''\n\nyaman şakacısın muricalı (bkz: swh)\n\nhadi siyaset takip etmiyorsunuz, dizi falan da mı izlemiyorsunuz lan?",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "ruslardaki amerika düşmanlığı",
+      "entry_id": "126987977",
+      "author": "scuddy",
+      "date": "16.08.2021 19:31",
+      "content": "rus halkinin buyuk kismi amerikan hayranidir",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POS-STEREO"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:47:47.713405",
+    "total_entries": 1,
+    "input": "suriye ve israilli yetkililer bakü’de görüştü",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriye ve israilli yetkililer bakü’de görüştü",
+      "entry_id": "176780263",
+      "author": "kaptanati",
+      "date": "13.07.2025 17:43",
+      "content": "\"bakü'deki sessiz diplomasi ve türkiye'nin bölgesel yalnızlığı\"\n\nnormalde yukarıda benim attığım başlığı yarın gazetelerde görmemiz gerekirdi. hatta bu gece haber gültenlerinde bu başlığın atılması ve bir tarafta komşusu diğer tarafta en büyük tedarikçisi olduğumuz iki ülkenin bu toplantıyı neden ülkemizde yapılmadığını sorgulamamız gerekirdi.\n\nneticede; azerbaycan'ın başkenti bakü, orta doğu'daki kritik gerilim noktalarında beklenmedik bir diplomasi sahnesine ev sahipliği yaptı.\n\nsuriyeli ve israilli yetkililerin, israil'in suriye'deki askeri faaliyetlerini görüşmek üzere yüz yüze gelmesi, bölgedeki dengelerin ne denli hızlı değiştiğini ve türkiye'nin bu süreçlerin dışında kaldığını göstermiyor da neyi gösteriyor.\n\nhani oyun kurucu bizdik?\n\nbu görüşmenin en dikkat çekici yanı, bir zamanlar bölgenin en aktif diplomatik aktörlerinden biri olduğunu iddia eden ülkemizin böylesine kritik bir diyalog zemininde yer almayışıdır. orta doğu'da güvenlik ve istikrar arayışları hız kazanırken, türkiye'nin suriye ile olan ilişkilerinde belirgin bir ilerleme kaydedilememesi ve israil ile olan inişli çıkışlı ilişkilerin bir denge zeminine oturtulamaması, bölgedeki etkinliğini sınırlıyor.\n\nbakü'deki bu görüşme, sadece suriye ve israil arasındaki potansiyel yakınlaşmayı değil, aynı zamanda türkiye'nin orta doğu'da arzu ettiği liderlik rolü için yeniden konumlanma ihtiyacını da gözler önüne seriyor.\n\nyine yeni yeniden bölgesel yalnızlaşma riskinin tadını damaklarımızda hissetmemiz sonrası yaşanacak krizlerde ne yapacağımızı göreceğiz.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    }
+  ]
+}

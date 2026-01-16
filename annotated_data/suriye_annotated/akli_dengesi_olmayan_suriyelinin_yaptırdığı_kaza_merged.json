@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:29:37.420325",
+    "total_entries": 1,
+    "input": "akli dengesi olmayan suriyelinin yaptırdığı kaza",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "akli dengesi olmayan suriyelinin yaptırdığı kaza",
+      "entry_id": "132277534",
+      "author": "skycafe",
+      "date": "13.01.2022 16:10",
+      "content": "kahramanmaraş'ta yolda dengesiz hareketlerde bulunan suriyeli ayman el akab'ın sebep olduğu kazadır.\n\nakli dengesi yerinde değil ama kazaya sebep olmada üstüne yok. akıllıları avrupa'da, delileri burada kaldı. bakamayacaksınız, ne diye ülkeye alıyor, topluma salıyorsunuz.",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:16:02.426168",
+    "total_entries": 1,
+    "input": "17 temmuz 2014 rusya'nın ukrayna uçağını düşürmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "17 temmuz 2014 rusya'nın ukrayna uçağını düşürmesi",
+      "entry_id": "44290414",
+      "author": "filexi",
+      "date": "17.07.2014 13:21",
+      "content": "an itibariyle habertürk kanalında son dakika haberi olarak verilmiştir.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

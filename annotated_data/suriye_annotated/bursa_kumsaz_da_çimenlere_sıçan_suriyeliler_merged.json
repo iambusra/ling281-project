@@ -1,0 +1,38 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:40:35.402197",
+    "total_entries": 2,
+    "input": "bursa kumsaz'da çimenlere sıçan suriyeliler",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "bursa kumsaz'da çimenlere sıçan suriyeliler",
+      "entry_id": "165631463",
+      "author": "tekerlekdunya",
+      "date": "23.06.2024 11:30",
+      "content": "öncelikle kaynak => kaynak\n\nbursa kumsaz'da suriyeli olduğu düşünülen çok sevdiğimiz makro vatandaşlarımızın (ortak adları çöl bedevisi), yüksek medeniyet hareketlerini de göz önünde bulundurarak, taş ocaklar üzerinde mangal yaktıkları, ip gererek soyunup giyindikleri, duvar arkasındaki çimen lere işeyip sıçtıkları görüntüleri içeren videodur.\n\nbizim elit vatandaşlarımız da hemen rahatsız olmuş, ne var yani siz de “ ama onlar savaş mağduru ” diyip, güvenlikli, havuzlu sitelerinden çıkmayan ya da şezlongu günlük 2.000 tl olan beach'lere gidenler gibi hoş görseydiniz, çok acımasız ve ırkçı sınız(!) (bkz: swh)",
+      "has_external_url": true,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "bursa kumsaz'da çimenlere sıçan suriyeliler",
+      "entry_id": "165631755",
+      "author": "mr security",
+      "date": "23.06.2024 11:43",
+      "content": "allahım biz bu ülkedeki tüm mültecilerden nasıl kurtulacağız, kurban olduğum rabbim bir çıkış yolu göster bize.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    }
+  ]
+}

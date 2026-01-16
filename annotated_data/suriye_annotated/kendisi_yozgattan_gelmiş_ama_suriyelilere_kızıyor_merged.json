@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:43:25.052550",
+    "total_entries": 1,
+    "input": "kendisi yozgattan gelmiş ama suriyelilere kızıyor",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "kendisi yozgattan gelmiş ama suriyelilere kızıyor",
+      "entry_id": "142935501",
+      "author": "ucanhancerlerevi",
+      "date": "20.09.2022 20:54",
+      "content": "milletimizin finanse ettiği kamu dergilerinden birinde geçen ifadedir.\n\ntam hali \"kendisi 21 yıl önce yozgattan gelmiş ama suriyeli göçmenlere neden geldiniz diye kızıyor\" olan cümledir. skandaldır. buna tepki vermek her türkün görevidir, bu ülke bizim ve bizi suriyeli göçmenlerle bir tutamazsınız.\n\nlink\n\n(bkz: kendi yurdunda parya)",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    }
+  ]
+}

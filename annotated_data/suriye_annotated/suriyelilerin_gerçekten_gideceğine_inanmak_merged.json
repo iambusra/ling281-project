@@ -1,0 +1,38 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:03:56.150036",
+    "total_entries": 2,
+    "input": "suriyelilerin gerçekten gideceğine inanmak",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelilerin gerçekten gideceğine inanmak",
+      "entry_id": "170841065",
+      "author": "boslama",
+      "date": "08.12.2024 15:09",
+      "content": "çok inandırıcı değil. merkel'in söylediğine göre akp hükümeti suriyelileri tutmak için ab'den yüklü ödemeler alıyor.\n\nakp'nin bu paradan vazgeçmesi fikri gerçekçi değil.\n\nayrıca akp, suriyelilere hem hükümet hem de akp belediyeleri eliyle cenneti yaşattı.\n\nsuriye'de maraba olan adam burada kuyumcu oldu. şimdi bu adama geri git deyince gider mi? gitmez.\n\nkendi kendine gidenler de ancak sonradan gelip pek tutunamayanlar. onlar da gelen suriyeliler içinde cüzi rakam.\n\ngünün sonunda suriyelileri yine devlet zoruyla göndermek zorundayız. yoksa yine türk halkı büyük ekonomik sıkıntılar çekmeye devam eder.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelilerin gerçekten gideceğine inanmak",
+      "entry_id": "170905595",
+      "author": "istebuarimaya",
+      "date": "10.12.2024 15:56",
+      "content": "mardinlilerin izmir'den gideceğine inanmak gibidir.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE"
+      ]
+    }
+  ]
+}

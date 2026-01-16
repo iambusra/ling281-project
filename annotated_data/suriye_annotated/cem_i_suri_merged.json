@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-10T23:36:26.327778",
+    "total_entries": 1,
+    "input": "cem-i suri",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "cem-i suri",
+      "entry_id": "120195880",
+      "author": "damladamlazaman",
+      "date": "01.03.2021 18:33",
+      "content": "iki namazı, ilkini kendi vaktinin sonunda, ikincisini kendi vaktinin başında olacak şekilde arka arkaya kılmak.\n\nsabah namazı için cem sözkonusu değil",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    }
+  ]
+}

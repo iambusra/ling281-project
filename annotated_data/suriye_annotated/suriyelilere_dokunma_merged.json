@@ -1,0 +1,164 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:58:48.471643",
+    "total_entries": 12,
+    "input": "suriyelilere dokunma",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelilere dokunma",
+      "entry_id": "145972682",
+      "author": "ucanhancerlerevi",
+      "date": "05.12.2022 19:00",
+      "content": "chp'nin başdanışmanı hacer foggonun çağrısı.\n\nlink\n\nhacer foggo dümdüz hdpli mültecisever olmasına rağmen chpye başdanışman olabiliyor, ama biz yılların kemalist seçmeni bunu eleştirince akpli oluyoruz öyle mi?",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "suriyelilere dokunma",
+      "entry_id": "145973034",
+      "author": "radikalkemalist",
+      "date": "05.12.2022 19:10",
+      "content": "şaşırtmamıştır. 6+1'li masanın mültecileri göndereceğine inanana galata kulesini uygun bir fiyata satabilirim.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "suriyelilere dokunma",
+      "entry_id": "145973093",
+      "author": "ben buraya niye ciktim",
+      "date": "05.12.2022 19:12",
+      "content": "(bkz: ne diyosun bayan ilerle)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyelilere dokunma",
+      "entry_id": "145976698",
+      "author": "punkrock1907",
+      "date": "05.12.2022 20:45",
+      "content": "chp'nin yeni transferi hacer ablanın bir çağrısı.\no sırada chp seçmeni; zafer partisi saray ajanı, suriyelileri yollayamazlar, biz suriyelileri yollayacağız. yav he he.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "suriyelilere dokunma",
+      "entry_id": "145976905",
+      "author": "dargoveden",
+      "date": "05.12.2022 20:49",
+      "content": "isminde bile meymenet yok karının. yazık be atatürkün partisi kürtçülerin, solcuların elinde oyuncak oldu. atatürk gibi türkçü bir adamın partisinin haline bak.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE"
+      ]
+    },
+    {
+      "title": "suriyelilere dokunma",
+      "entry_id": "145979972",
+      "author": "lord of the hatuns",
+      "date": "05.12.2022 21:59",
+      "content": "hacer foggo kim amk? çok seviyorsa alsın evinde beslesin. bak yine sinirlendim.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyelilere dokunma",
+      "entry_id": "145980636",
+      "author": "che ernesto",
+      "date": "05.12.2022 22:13",
+      "content": "emperyalizmin işbirlikçilerinin şaşırtmayan çağrısı. amerika'yla işbirliği yapan chp amerika'nın suriyeliler üzerinden gerçekleştirmek istediği projelere karşı çıksa tuhaf olurdu. küresel güçleri karşısına alacak bir adam lazım bize. yoksa bunlar gitmez.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelilere dokunma",
+      "entry_id": "145980713",
+      "author": "gomis",
+      "date": "05.12.2022 22:14",
+      "content": "\"“muhalefet'seçimi kazanırsak suriyelileri göndereceğiz' diyor, biz göndermeyeceğiz.\"\n\n15 mart 2022 - rte",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelilere dokunma",
+      "entry_id": "145981299",
+      "author": "casska",
+      "date": "05.12.2022 22:24 ~ 22:25",
+      "content": "2014'deki tweet'i gelmiş gündeme getiriyorsunuz. 2014'te kaç kişi mülteci istemiyordu bu ülkede?",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyelilere dokunma",
+      "entry_id": "145983444",
+      "author": "ferhundetekin",
+      "date": "05.12.2022 23:00",
+      "content": "türkiye'de 6 yaşında çocuklar bile ekonomi konuşacak siyaset yapacak kadar politize olduklarına göre bence topluma genel bir medya okuryazarlığı eğitimi verilmeli. 2014 yılındaki bir durumu o gün bağlamında değerlendirmekten acizce haberleştirmek ayrı, bunu irdelemeye bile gerek görmeden yeni bir şeymiş gibi dolaşıma sokup tepki vermek ve konuşmak ayrı zeka sorunu. arkadaşlar 2014 yılında sokaklardaki mülteci sayısı neydi? hepinizin anası altın günlerinde eskilerinizi toplayıp yardım yolluyordu bu insanlara. bugünkü sığınmacı sorunuyla aynı değildi o gün gündemimiz.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyelilere dokunma",
+      "entry_id": "145997618",
+      "author": "punkrock1907",
+      "date": "06.12.2022 10:05",
+      "content": "tam da tahmin ettiğim gibi chp'lilerin türlü saçmalıklarla savunduğu bir çağrı. neymiş, o dönemde sığınmacılardan memnun olmayanların sayısı çok değilmiş zaten. ben bu herifler geldikleri ilk günden beri gitsinler diyorum. sizin gibilerin kafası bu bedevilerin sorun çıkaracağını anlamadıysa o da sizin öngörüsüzlüğünüzdür. kalkıp da; chp suriyelileri yollayacak diye sağda solda propaganda yapıp da özellikle zafer partisi'ne saldırmayın.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyelilere dokunma",
+      "entry_id": "145997703",
+      "author": "silayor",
+      "date": "06.12.2022 10:08",
+      "content": "onlar bize dokunmasın yeter. az kaldı, yakın zamanda “bak şuradan ... “ diyeceğiz. dokunmadan, kenardan kenardan...",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "CRIME",
+        "HATE",
+        "XENO"
+      ]
+    }
+  ]
+}

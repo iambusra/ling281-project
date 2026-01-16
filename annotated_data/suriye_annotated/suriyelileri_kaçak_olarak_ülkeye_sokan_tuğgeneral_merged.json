@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:01:30.930706",
+    "total_entries": 2,
+    "input": "suriyelileri kaçak olarak ülkeye sokan tuğgeneral",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelileri kaçak olarak ülkeye sokan tuğgeneral",
+      "entry_id": "164616100",
+      "author": "arac far sondur ic lambayi yak",
+      "date": "21.05.2024 13:16",
+      "content": "gündem bile olmamış. skandalın daniskası halbuki.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyelileri kaçak olarak ülkeye sokan tuğgeneral",
+      "entry_id": "164889979",
+      "author": "zattiri zottiri",
+      "date": "30.05.2024 11:50",
+      "content": "böyle bir şey tsk içinden hainler olmadan yapılamaz. yazık kere yazık. şu ülkede güvenilecek kurum bırakmadılar. fetoş iblisi senin yedi ceddine sokayım...\nhttps://www.cumhuriyet.com.tr/…-asker-sanma-2212004",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    }
+  ]
+}

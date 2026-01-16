@@ -1,0 +1,578 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:10:36.441344",
+    "total_entries": 42,
+    "input": "rus ordusu ukrayna'ya girsin",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rus ordusu ukrayna'ya girsin",
+      "entry_id": "217860",
+      "author": "guru",
+      "date": "28.06.2000 16:20 ~ 29.12.2009 04:03",
+      "content": "zeki muren'in bir filmindeki savaş sahnesinde, el bombasi atarken kullandigi replik .",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus ordusu ukrayna'ya girsin",
+      "entry_id": "217861",
+      "author": "guru",
+      "date": "28.06.2000 16:20",
+      "content": "(bkz: virgulun onemi)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus ordusu ukrayna'ya girsin",
+      "entry_id": "279826",
+      "author": "otisabi",
+      "date": "02.12.2000 21:20",
+      "content": "\"hain dusma(e)n al sana bombe!\" daha dogrusu olacak, ya da biz oyle biliyorduk.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CRIME"
+      ]
+    },
+    {
+      "title": "rus ordusu ukrayna'ya girsin",
+      "entry_id": "1109455",
+      "author": "armonipolisi",
+      "date": "13.03.2002 10:28",
+      "content": "(bkz: hain düşman al sana bomba)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CRIME"
+      ]
+    },
+    {
+      "title": "rus ordusu ukrayna'ya girsin",
+      "entry_id": "2449469",
+      "author": "deathkeeper",
+      "date": "02.03.2003 23:54",
+      "content": "zeki müren in, savaş sahnesinde söylemesinin dışında, orda burda çeşitli programlarda elini el bombası varmış gibi sallayarak -en maço(!) şekilde- söylemesinden dolayı onunla özdeşleştirilmiş replik.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus ordusu ukrayna'ya girsin",
+      "entry_id": "2449475",
+      "author": "deathkeeper",
+      "date": "02.03.2003 23:54",
+      "content": "(bkz: kahrol düşman al sana bomba)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CRIME"
+      ]
+    },
+    {
+      "title": "rus ordusu ukrayna'ya girsin",
+      "entry_id": "3198123",
+      "author": "obican",
+      "date": "07.08.2003 03:20",
+      "content": "doğrusal atışlardan kaçmayı çok iyi beceren hain düşmanı alt edecek bombeli atış yapılmadan önce bağrılan cümle. eğer hain düşman bağırmayı duyarsa bundan da kaçar orası ayrıııııııı.\n\n(bkz: hain dusman al sana bomba)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CRIME"
+      ]
+    },
+    {
+      "title": "rus ordusu ukrayna'ya girsin",
+      "entry_id": "3348696",
+      "author": "scissorshands",
+      "date": "17.09.2003 16:52",
+      "content": "yatilidayken -yas 11-12- bir hoca bunu killik olsun diye soylerdi. tv seyredemiyoz bilmiyoz tabii. ama hocam ama ama dedikce biz hain dusman al sana bombaaa hah hah haa deyip kicini donerdi bize. anlamazdik ne demektir. deli bu kadin heralde derdik. -icimizden- disimizdan: ama hocam ama nolur ama yaa..",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CRIME"
+      ]
+    },
+    {
+      "title": "rus ordusu ukrayna'ya girsin",
+      "entry_id": "3543519",
+      "author": "larden loughness",
+      "date": "05.11.2003 11:22",
+      "content": "harfi harfine, bazı askeri birliklerde (örneğin kıbrıs'ta) pim çek bomba at yerine hala kullanılmakta olan el bombası atma eğitimi repliği..",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus ordusu ukrayna'ya girsin",
+      "entry_id": "4325653",
+      "author": "soranasokan",
+      "date": "22.05.2004 19:53",
+      "content": "zeki muren'in takla attırıp amuda kaldıran repliği..kendisinin özellikle bu repliği sarfederkenki vurgulaması,insanı dumur deryasının derinliklerinde yasemin dalkılıç'ın rekorunu kırmaya azmettirici niteliğindedir diyebiliriz.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus ordusu ukrayna'ya girsin",
+      "entry_id": "4325672",
+      "author": "encre",
+      "date": "22.05.2004 19:54",
+      "content": "(bkz: al sana bomba pis dusman)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CRIME"
+      ]
+    },
+    {
+      "title": "rus ordusu ukrayna'ya girsin",
+      "entry_id": "6784776",
+      "author": "premium",
+      "date": "31.01.2005 19:15",
+      "content": "ankarali namik'in \"arabada bes, evde onbes\" adli saheserinin sonunda söyledigi asli zeki müren'e ait olan cümlecik.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus ordusu ukrayna'ya girsin",
+      "entry_id": "8425091",
+      "author": "nosferatu",
+      "date": "25.10.2005 01:34",
+      "content": "hain düşman'ın cana can katan bir yaren olduğunu anlayamamış insanın hatalı hareketini tanımladığı nida.\n\n(bkz: düşmanımın düşmanı dostumdur)\n(bkz: düşman)\n(bkz: hain)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus ordusu ukrayna'ya girsin",
+      "entry_id": "9421287",
+      "author": "star is tired",
+      "date": "18.04.2006 15:54",
+      "content": "(bkz: hain düsman)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus ordusu ukrayna'ya girsin",
+      "entry_id": "10947123",
+      "author": "benjamin",
+      "date": "13.06.2007 11:15",
+      "content": "(bkz: kahrol dusman al sana bombe)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CRIME"
+      ]
+    },
+    {
+      "title": "rus ordusu ukrayna'ya girsin",
+      "entry_id": "14223997",
+      "author": "selim isik",
+      "date": "19.10.2008 21:09",
+      "content": "bu laf o kadar tesirlidir ki 2006 yılında çıraganda gerçekleşen antik kuntik bir sempozyumda necmettin erbakan tarafından da kinaye bir biçimde söylenmiştir.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus ordusu ukrayna'ya girsin",
+      "entry_id": "17226104",
+      "author": "klustwu ukaga",
+      "date": "10.11.2009 00:55",
+      "content": "sığırcık sürüleri sarınca dört bir yanı çayır çimenden gelir bu ses.\n...\nbizde bombeli otu kimse yemez.\nkoalam gitti dönmez. ah vah.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus ordusu ukrayna'ya girsin",
+      "entry_id": "24735756",
+      "author": "afanficak",
+      "date": "30.07.2011 01:12",
+      "content": "(bkz: 29 temmuz 2011 tsk komuta kademesi istifası)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus ordusu ukrayna'ya girsin",
+      "entry_id": "38834706",
+      "author": "temmuz sogugu",
+      "date": "10.12.2013 00:27",
+      "content": "(bkz: artık dayanamiyciğim)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus ordusu ukrayna'ya girsin",
+      "entry_id": "43972915",
+      "author": "oykullanmayageldim",
+      "date": "05.07.2014 12:15 ~ 12:18",
+      "content": "entry'ler arasında hızlıca dolaşıp http arama ma rağmen bulamadığım zeki müren repliği.\n\n(bkz: #29889345)",
+      "referenced_content": [],
+      "referenced_entry_ids": [
+        "29889345"
+      ],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus ordusu ukrayna'ya girsin",
+      "entry_id": "47996638",
+      "author": "zamane yazari",
+      "date": "29.12.2014 23:33 ~ 31.12.2014 01:44",
+      "content": "türk film lerinde geçen en güzelinden bir zeki müren repliği derler hani. ben sözün müptelasıyım. ne zaman duysam, okusam, aklıma gelse bi garip olur şu gafil, uslanmaz bedenim. bildiğin komik.\n\n- hain düşman al sana bombe ..",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CRIME"
+      ]
+    },
+    {
+      "title": "rus ordusu ukrayna'ya girsin",
+      "entry_id": "56121678",
+      "author": "bomotonzomatai",
+      "date": "09.11.2015 03:41",
+      "content": "ramazan abimin homoseksüel birini görünce'hain düşman al sana bi pumpa' dediği beni kopartan çılgın replik.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "SEXUAL"
+      ]
+    },
+    {
+      "title": "rus ordusu ukrayna'ya girsin",
+      "entry_id": "56522820",
+      "author": "sertbest dusunur",
+      "date": "26.11.2015 18:31",
+      "content": "zeki müren söylemiş diyorlar. ama nedense bir video bile bulamadım. muhtemelen biri kaynağından sallamış zamanında",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus ordusu ukrayna'ya girsin",
+      "entry_id": "58097145",
+      "author": "kreatin",
+      "date": "29.01.2016 00:51 ~ 00:53",
+      "content": "hugo'da küfür eden çocuk'la aynı akıbette olan,varlığı ile yokluğu tartışmalı olan söz.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus ordusu ukrayna'ya girsin",
+      "entry_id": "62351252",
+      "author": "arka koltuktaki zeki cocuk",
+      "date": "15.08.2016 16:33",
+      "content": "www.kartalbombe.com.tr",
+      "referenced_content": [],
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus ordusu ukrayna'ya girsin",
+      "entry_id": "62351570",
+      "author": "smirnova",
+      "date": "15.08.2016 16:48",
+      "content": "küçüklüğümden beri kullandığım, bilinçaltımda bir şekilde varolan fakat nerden geldiğini şimdi öğrendiğim replik",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus ordusu ukrayna'ya girsin",
+      "entry_id": "73192851",
+      "author": "nagisable",
+      "date": "31.12.2017 21:11",
+      "content": "videosunu izlemek istediğim ama bulamadığım replik.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus ordusu ukrayna'ya girsin",
+      "entry_id": "77258602",
+      "author": "cagdas turk aydini",
+      "date": "23.05.2018 10:09",
+      "content": "akplilerin seçim sloganı olmasını istediğim cümle. dış mihraklar, abd, dolar lobisi, cehape, israil al sana bir bombe.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "rus ordusu ukrayna'ya girsin",
+      "entry_id": "82513007",
+      "author": "watain",
+      "date": "21.10.2018 02:05",
+      "content": "(bkz: mandela etkisi)\n\nhiçbir yerde bulunmaz ama inatla zeki müren'e ait olduğu iddia edilir.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus ordusu ukrayna'ya girsin",
+      "entry_id": "101351650",
+      "author": "blythe",
+      "date": "31.01.2020 12:40",
+      "content": "defol defol kahrol düsman, aysecik sokak kizi - yavrum filmi 64:30. saniyede duyulan replik, benzer geldigi icin paylasmak istedim.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CRIME"
+      ]
+    },
+    {
+      "title": "rus ordusu ukrayna'ya girsin",
+      "entry_id": "102715987",
+      "author": "yikilmazhadi",
+      "date": "27.02.2020 18:53",
+      "content": "(bkz: pim çek bomba at)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CRIME"
+      ]
+    },
+    {
+      "title": "rus ordusu ukrayna'ya girsin",
+      "entry_id": "102969239",
+      "author": "vayefendim",
+      "date": "03.03.2020 19:13",
+      "content": "ikinci bir (bkz: hugo'da küfreden çocuk) vakası olabilir.\nnitekim repliğin zeki müren'e ait olduğu iddia edilmektedir lakin ilgili filme ait hiç bir görüntü bulunmamaktadır.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus ordusu ukrayna'ya girsin",
+      "entry_id": "136666930",
+      "author": "aggro kacti",
+      "date": "26.04.2022 00:52",
+      "content": "yalan gerçek bilemem ama bu cümleyi kafamda zeki mürenin sesi ve eşsiz türkçesiyle duyabiliyorum.\nböyle bi yeteneğim var",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus ordusu ukrayna'ya girsin",
+      "entry_id": "136667034",
+      "author": "yazar olmak isteyen dilenci",
+      "date": "26.04.2022 00:54",
+      "content": "avrupa yakası selin den duydum ben zeki müren ile ilgisi yok",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus ordusu ukrayna'ya girsin",
+      "entry_id": "140128517",
+      "author": "blackmore",
+      "date": "18.07.2022 01:35",
+      "content": "tatilde sahildeyıen 3-4 yaşında bir fırlatmadan duydum bu lafı. yeni nesil hepimizi yiyip bitirecek.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus ordusu ukrayna'ya girsin",
+      "entry_id": "141626963",
+      "author": "turkona",
+      "date": "22.08.2022 02:21",
+      "content": "böyle bir şey yok",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus ordusu ukrayna'ya girsin",
+      "entry_id": "141627343",
+      "author": "2noktaaltalta",
+      "date": "22.08.2022 02:38",
+      "content": "keyser söze gibi.\nherkes varlığını duymuş ama kimse görmemiş.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus ordusu ukrayna'ya girsin",
+      "entry_id": "142174002",
+      "author": "hosvelkam",
+      "date": "03.09.2022 12:22",
+      "content": "(bkz: düşmanı eşcinsel yapan bomba)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "SEXUAL",
+        "HATE"
+      ]
+    },
+    {
+      "title": "rus ordusu ukrayna'ya girsin",
+      "entry_id": "150336441",
+      "author": "dedi ve ekle me di",
+      "date": "14.03.2023 22:08",
+      "content": "buna çok güldüm",
+      "referenced_content": [],
+      "has_external_url": true,
+      "sentiment_numeric": 4,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "rus ordusu ukrayna'ya girsin",
+      "entry_id": "172187775",
+      "author": "x68000",
+      "date": "25.01.2025 02:19",
+      "content": "(bkz: #172187746)",
+      "referenced_content": [
+        {
+          "type": "entry",
+          "title": "halit-ergul",
+          "entry_id": "172187746",
+          "author": "zww",
+          "date": "25.01.2025 02:18",
+          "content": "muhtemelen 2 günlük kazancınla yangın sistemi düzeltirdin ama senin için para çok daha önemliydi değil mi. şimdi 500 yıl ceza al ve gününü gör.",
+          "has_external_url": false
+        }
+      ],
+      "referenced_entry_ids": [
+        "172187746"
+      ],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus ordusu ukrayna'ya girsin",
+      "entry_id": "174746780",
+      "author": "hopeless1",
+      "date": "22.04.2025 22:15",
+      "content": "zeki müren'in bu sözü söylediği bir filmi olduğuna inanmıyorum çünkü ufak da olsa bir videosu vs.. yok. bu konuyla ilgili bulabildiğim tek kaynak; rahmetli necmettin erbakan'ın anlattığı bir lafite.\n\nvideonun 25.saniyesinde anlatıyor.",
+      "referenced_content": [],
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE",
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus ordusu ukrayna'ya girsin",
+      "entry_id": "176726014",
+      "author": "o beldenin sakini",
+      "date": "11.07.2025 14:33",
+      "content": "öncelikle (bkz: hain düşman al sana bomba) başlığına yazacaktım ama buraya yönlendim. ben de buraya yazayım.\n\ney ahali gelin size bu meşhur lafın aslını anlatayım.\n\nşimdi bu sözü sorsanız herkes diyecek ki zeki müren bir filmde asker rolünü oynadı ve bu filmde böyle bir replik söyledi. ama tuhaf olan şu ki zeki müren'in hiç bir filminde böyle bir replik yok. yani filmde söylemişse mutlaka bir video olması gerekmez mi? ama yok işte.\n\ninternette youtube da ararsanız çıkmıyor. sadece erbakan'ın o sahneyi anlattığı hikayesi var. ama sahnenin kendisi yok.\n\npeki bu film ve sahne nerde? cevap veriyorum böyle bir film hiç olmadı. böyle bir sahne çekilmedi, böyle bir replik söylenmedi. yani bu replik bir (bkz: şehir efsanesi) .\n\npeki bu şehir efsanesi nereden çıktı. efendim takvimler 1960, darbe yapılmış, darbeciler darbeye devrim diyorlar. ve devrimi halka benimsetmek istiyorlar. bu minvalde propapanda yapmaya çalışıyorlar. devrimi halka nasıl benimsetiriz diye düşünürken birileri diyor ki bir başarı hikayesi yazalım, halkın o sıralar çok istediği bir şey olan yerli otomobil yapalım diyorlar. işte burdan ne çıkıyor, bildiniz (bkz: devrim arabaları).\n\nyine devrim propagandası olarak ne yapalım diye düşünürlerken birileri de diyor ki bir propaganda filmi çekelim. böyle askeri kahramanlık filmi olsun. orduyu halkın gözünde yüceltecek bir film olsun. oyuncu olarak da o sıralar en meşhur aktörler olan ayhan ışık ve zeki müren akla geliyor. ama bu film projesi daha fikir düzeyindeyken bitiyor. aslında hayata geçmiyor.\n\ndiğer taraftan fikir bile olsa dolaşıma sokuldu bir kere. o dönemin gazete köşe yazarları başlıyorlar dalga geçmeye. tahmin edeceğiniz gibi özellikle zeki müren gibi efemine bir karakterin nasıl asker olacağı üzerinden geyikler yapıyorlar. bu arada bi parantez açayım zeki müren 1950lerde daha erkeksi, 1960lardan itibaren daha kadınsı (kıyafetler, makyaj vs) bir imaja bürünüyor. yani bu fikir dile geldiğinde yine efemineydi, ama mini etekle sahneye çıkmamıştı, ilk sahne yıllarında takım elbiseyle sahneye çıkardı. ama bir süre sonra mini etekle sahne alacaktı.\n\nbu fikirle dalga geçilmesi normal, siz adamı asker rolü için öneriyorsunuz, adam mini etekle sahne alyor. yani bütün hikaye, bu fikirle dalga geçen köşe yazarlarının hayal mahsülü geyiklerine dayanıyor. tabi başta siyasetçiler olmak üzere herkes bu geyiklerin halka yayılmasında yardımcı oluyor. zamanla bu hikayenin nereden çıktığı unutuluyor ve gerçekte böyle bir film çekilmiş gibi anlatılıyor.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE",
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

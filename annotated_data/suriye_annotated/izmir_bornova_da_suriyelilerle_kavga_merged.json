@@ -1,0 +1,563 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:43:09.935797",
+    "total_entries": 43,
+    "input": "izmir bornova'da suriyelilerle kavga",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "izmir bornova'da suriyelilerle kavga",
+      "entry_id": "78662625",
+      "author": "polinpolin",
+      "date": "29.06.2018 21:37",
+      "content": "sahillerden kovalıyacaklarsa desteklediğim kavga.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "izmir bornova'da suriyelilerle kavga",
+      "entry_id": "78662695",
+      "author": "survive styx",
+      "date": "29.06.2018 21:39",
+      "content": "diğer il ve ilçelerden de aynı hassasiyeti beklediğimiz olay.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "izmir bornova'da suriyelilerle kavga",
+      "entry_id": "78665713",
+      "author": "keynesinenistesi",
+      "date": "29.06.2018 23:00",
+      "content": "suriyelilere yazarlık da mı veriliyor aq?",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "izmir bornova'da suriyelilerle kavga",
+      "entry_id": "78665714",
+      "author": "bild",
+      "date": "29.06.2018 23:00 ~ 23:29",
+      "content": "en başa edit: aşağıda bir arkadaş tebrik etmiş. ama mağdur edebiyatının ne olduğunu unutmamak lazım. bir kaç tanesinin azını burnunu dağıtırsan millet vicdan yapıp daha sağlam temel attıracaksın. uzun vadede düşünmek lazım. bizim halkımız mağdurun yanında durmaya bayılır.\n\nmaalesef durum bu noktaya kadar geldi. anadolu'dan da buna benzer kulaktan dolma haberleri duyuyorum. umarım daha kötü olay yaşanmaz.\n\n2 yıl önce istanbul şirinevler'de bir işim vardı. arabanın içinden insanlara adres sormak istediğimde 6. veya 7. kişi türk çıktı. bu kadar suriyeli olduğuna inanamadım. işyerlerinde sürekli arapça yazılar vardı. çoğunun suriyeli'lere ait işletme olduğu belliydi.\n\nisyan etmekte sanırım biraz haklıyız. ama şiddet göstermeden, akıllı davranarak bu işi çözüme kavuşturmak lazım.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "izmir bornova'da suriyelilerle kavga",
+      "entry_id": "78665768",
+      "author": "the artful dodger",
+      "date": "29.06.2018 23:01",
+      "content": "(bkz: süriyeli)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "izmir bornova'da suriyelilerle kavga",
+      "entry_id": "78665790",
+      "author": "farmakos",
+      "date": "29.06.2018 23:02",
+      "content": "zenginlerin düzenlediği bir yeraltı etkinliği zannettim. başlıktan dolayı sanırsam.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "izmir bornova'da suriyelilerle kavga",
+      "entry_id": "78665922",
+      "author": "barbelldumbell",
+      "date": "29.06.2018 23:05",
+      "content": "mücadeleye devam",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "izmir bornova'da suriyelilerle kavga",
+      "entry_id": "78666059",
+      "author": "nothingelsene",
+      "date": "29.06.2018 23:08",
+      "content": "iç savaş çıkarsa giderler.\nadamlar savaş görünce kaç, tatil varsa yap modunda takılıyorlar.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "izmir bornova'da suriyelilerle kavga",
+      "entry_id": "78666275",
+      "author": "ikslarc",
+      "date": "29.06.2018 23:14",
+      "content": "yılların boşnak mahallesi suriyenin köyü gibi oldu. boşnaklar iyi bile dayandı.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "izmir bornova'da suriyelilerle kavga",
+      "entry_id": "78666450",
+      "author": "co2h2o2",
+      "date": "29.06.2018 23:18",
+      "content": "bunlar güzel şeyler.",
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "izmir bornova'da suriyelilerle kavga",
+      "entry_id": "78666602",
+      "author": "bayat taze fasulye",
+      "date": "29.06.2018 23:22",
+      "content": "eğer bu doğruysa eylemcileri tebrik ediyorum. ileride 10 milyona ulaşan sayıları bulduklarında zaten ağlayacağız. boşuna duyar kasmayın.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "izmir bornova'da suriyelilerle kavga",
+      "entry_id": "78666646",
+      "author": "cakilankizisevenmal",
+      "date": "29.06.2018 23:23",
+      "content": "bornova merkezde hissedilmeyen kavgadır.\n\nçamdibinde sürekli bir kavga sürekli bir yaralanma. çok da büyütmemek lazım.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "izmir bornova'da suriyelilerle kavga",
+      "entry_id": "78666802",
+      "author": "28061984",
+      "date": "29.06.2018 23:27",
+      "content": "gereğini yapan milliyetçi gençlermiş!\no yüzden gereğini yasal olarak yapacağını açık açık söyleyen muharrem inceye oy verip ilk turda seçilmesini sağladınız değil mi milliyetçi gençlik!",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "izmir bornova'da suriyelilerle kavga",
+      "entry_id": "78666846",
+      "author": "kskzeynep",
+      "date": "29.06.2018 23:27",
+      "content": "olaylar büyüsün çığırından çıksın. sonra da siktir olup gitsinler.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "izmir bornova'da suriyelilerle kavga",
+      "entry_id": "78666902",
+      "author": "mstfdrms",
+      "date": "29.06.2018 23:29",
+      "content": "suriyeliler beni bile ırkçı yaptı",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "izmir bornova'da suriyelilerle kavga",
+      "entry_id": "78667003",
+      "author": "demis bir filozof",
+      "date": "29.06.2018 23:32",
+      "content": "sanırım seçimin verdiği ve kaybetmenin verdiği bir durum. son derece hümanist biriyimdir. ama şu secimler döneminde suriyeliler oy kullandırma. aylık para verme mevzuları insanları gerdi. bir de şımarıkca hareketler racon kesmeye kalkmalar antipatiyi artırdı. elbette durumdan rahatsızız. suriyelilerin mülteci olduklarını ve uluslararası hukuktan yararlandıklarını biliyoruz\nama kamplarda olması gereken suriyelilerin anadoluya dağılmaları ve orada kendi gettolarını kurmaları tepki çekiyor.\nbir de güvenlik sorunu var.\nmalesef hükümlerin bu konuda planlı bir çözümü yok.kamptakiler kısmen kontrol altındalar ama diğerleri malesef sokakta.\ndurum budur. mutlaka sorunlar yaşanacak.uyum sürecinde. esad devrilmeden geri dönemezler. o nedenle onlarla uzlaşmak ve rehabilite olmalarını sağlamak gerekiyor.\nsokak kavgaları da derhal ciddiye alınmalıdır yetkililer tarafından.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "izmir bornova'da suriyelilerle kavga",
+      "entry_id": "78667072",
+      "author": "sakirtsavar",
+      "date": "29.06.2018 23:33",
+      "content": "tebrik ettiğim milliyetçi gençlerin kavgası. tam bir milliyetçi gibi davranarak suriyelileri ülkeye dolduran partilere oy atıp daha kolay lokma gördükleri suriyelilerden hesap sormuşlar.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "izmir bornova'da suriyelilerle kavga",
+      "entry_id": "78667077",
+      "author": "dunyanineniyiinsani",
+      "date": "29.06.2018 23:33",
+      "content": "olayla ilgili beyanından başka kaynak olmadığı için yalanına sokuyumcular şu an daha bir ağır basıyör karşim..",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "izmir bornova'da suriyelilerle kavga",
+      "entry_id": "78667196",
+      "author": "rockhound",
+      "date": "29.06.2018 23:36",
+      "content": "2 yıl önce;\nistanbul aksaray'da, pertevniyel lisesinin spor salonunun hemen dışında takılıyoruz arkadaşlarla basketbol maçımızı beklerken.\n20 yaşlarında bir genç, yavaşça geldi yanımıza çekinerek bir soru sordu:\n\"abi türk müsünüz?\"\n-evet dedim gülerek, hayırdır?\n\"abi bir adres arıyorum kime sorsam suriyeli, o yüzden türk müsünüz diye sordum\" dedi.\n\n2 yıl önce bu muhabbet geçti başımdan.\nyolunuz düşerse bir uğrayıverin aksaraya.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "izmir bornova'da suriyelilerle kavga",
+      "entry_id": "78667276",
+      "author": "ahsap dibegin demir tokmagi",
+      "date": "29.06.2018 23:37",
+      "content": "yunanlıları döktük, suriyelileri de dökeriz izmir koylarından",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "CRIME"
+      ]
+    },
+    {
+      "title": "izmir bornova'da suriyelilerle kavga",
+      "entry_id": "78667581",
+      "author": "buyuyup buyuk adam olacaktim",
+      "date": "29.06.2018 23:44 ~ 23:58",
+      "content": "ülkenin en komik bulduğum yönlerinden biri \"en türk\" olanların rum asıllı karadenizliler ve en göçmen düşmanı olanların da eski göçmenler olması.\n\numarım tayyip bu arkadaşları bir güzel coplatır.\n\nizmir'i medeni ve avrupai diye anlatıyorsunuz da, oradan gelen haberler beni büyük şüpheye düşürdü. bir gün gidip yerinde inceleyeceğim bakalım izmir hakikaten de avrupamız gibi medeni bir yer mi yoksa tüm olayınız içki içmek mi?\n\nmedeniyetiniz de manhattan oluşunuz kadarsa hiç zahmet etmeyeyim?\n\nhttps://twitter.com/…mz35/status/856394116669878272",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "izmir bornova'da suriyelilerle kavga",
+      "entry_id": "78667620",
+      "author": "kumrengi",
+      "date": "29.06.2018 23:44",
+      "content": "(bkz: ota boka ırkçı demek)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "izmir bornova'da suriyelilerle kavga",
+      "entry_id": "78667637",
+      "author": "olum o sesi kes",
+      "date": "29.06.2018 23:45",
+      "content": "video isteyen olursa https://www.instagram.com/…eet&igshid=1bqkit203yhjp bu ve bunun gibi bi iki video daha paylaştılar ama hala sebebini nedenini çözemedim.",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "izmir bornova'da suriyelilerle kavga",
+      "entry_id": "78667767",
+      "author": "hayatim olmus isler gucler",
+      "date": "29.06.2018 23:48",
+      "content": "arkadaşın bahsettiği olay tamamıyla doğru. yıllarımı orada geçirdim orada büyüdüm.\nkonuyla ilgili videoyu bırakıyorum.\nhttps://www.instagram.com/…eet&igshid=1560lhalsv5m3",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "izmir bornova'da suriyelilerle kavga",
+      "entry_id": "78667838",
+      "author": "uychar",
+      "date": "29.06.2018 23:50 ~ 23:51",
+      "content": "suriyeli krizini çözerse millet çözer. devletin sermayenin umrunda bile değil. devlet mülteci parasına, sermaye ucuz işgücü olmasına bakıyor. yalnız işin şiddete varmasını tasvip etmek pek mümkün değil. bununla ilgili yürüyüşler eylemler yapmak daha bi makul . yapılacak eylemlerle devleti ve ülkeyi bu düzenlemeye mahkum kılmak gerekiyor.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "izmir bornova'da suriyelilerle kavga",
+      "entry_id": "78667929",
+      "author": "osmanosmanci",
+      "date": "29.06.2018 23:52",
+      "content": "tipik izmirde denize dokme vakasi.\ngelmeyin kardesim artik izmire illa tabela mi asalim.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "izmir bornova'da suriyelilerle kavga",
+      "entry_id": "78668011",
+      "author": "ozzyciftsifir",
+      "date": "29.06.2018 23:54",
+      "content": "her akp yandaşının evine, birer adet suriyeli yerleştirilerek çözülebilecek durumdur.\n\ndedelerini sevmezdim, kendilerini de sevmiyorum. gördüğüm yerde 7 cedlerine küfür ediyorum.\n\nfaşist değilim. yeni oldum. eskiden hümanist bir insandım.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "izmir bornova'da suriyelilerle kavga",
+      "entry_id": "78668061",
+      "author": "sd kart",
+      "date": "29.06.2018 23:55",
+      "content": "bunun nesi güzel anlayamıyorum, o'amariga ile israyil'in istediği böyle bir iç savaş değil mi? suriyelilerden gram hazzetmiyorum hatta ilk fırsatta ülkelerine gönderilmesi taraftarıyım fakat bu videoları izleyip de keyiflenen insanın aklından şüphe ederim. pc'de strateji oyunu oynamak gibi değil bazı şeyler. ucunda kaos hatta ölüm var.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "izmir bornova'da suriyelilerle kavga",
+      "entry_id": "78668136",
+      "author": "hannibalbarca",
+      "date": "29.06.2018 23:57",
+      "content": "camdibi yuzde doksanı balkan gocmenlerinden olusan bir yerdir, bu bolgenın insanlarını milliyetci olarak tanımlamak yanlıs olmaz turk olmakla gurur duyar, bunu her fırsatta dile getiren ve turk olmanın hakkını veren insanlardır genellikle.\numarım camdibinin bu sosyokuturel yapısını bozmak icin bilincli olarak yerlestirilmemislerdir cunku buranın insanı boyle bir duruma tepkisiz kalamaz.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "izmir bornova'da suriyelilerle kavga",
+      "entry_id": "78668367",
+      "author": "uychar",
+      "date": "30.06.2018 00:04",
+      "content": "ideolojik hazımsızlıklar suriyelileri kum torbası gibi görmeye yol açtı. ülke o kadar kutuplaştı ki, herkes kendi mahallesinde kendi ideolojik birlikteliği ile bi araya gelip hıncını suriyelilerden şiddet yolu ile çıkarmaya çalışıyor. mahalle kültürüyle yaşayan belli bir gelir seviyesi ile yaşayan insanlar ki bunların içinde akp'lisi, chp'lisi, mhp'lisi, hdp'lisi mevcut hepsinin görüşü aynı aslında suriyelilerle ilgili. referandum yapılsa en az %90 evlerine gönderilsin sonucu çıkar. %10 da ya işyerinde suriyeli çalıştıran küçük-orta işletmeciler, suriyelilerle herhangi bir ortamda karşılaşmayan zengin siyasi çevreler, muhafazakar kaymak tabakalardır.\n\nbu kadar güçli bir fikir birlikteliği varken hükümetin yanlış suriyeli politikasını sadece suriyeli döverek çözmeye çalışmak mallıktır.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "CRIME"
+      ]
+    },
+    {
+      "title": "izmir bornova'da suriyelilerle kavga",
+      "entry_id": "78669194",
+      "author": "delirten",
+      "date": "30.06.2018 00:23 ~ 00:24",
+      "content": "böyle düşüncesizlik olmaz!! nasıl bir provokasyon bu? nasıl gaza geliyor millet?\nyarın yks var! gençlerin geleceğini belirleyen sınav! o kargaşanın olduğu muhitte oturanların suçu ne? sınava uykusuz girdirmeye ne hakkınız var o insanları?\n(bkz: yks 2018)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "izmir bornova'da suriyelilerle kavga",
+      "entry_id": "78669259",
+      "author": "entropi",
+      "date": "30.06.2018 00:24 ~ 00:33",
+      "content": "suriyelileri savunanları gördüğüm başlık.adamlar ülkelerini savunmadı sizin onları savunduğunuz kadar. çamdibinde olaylar bu noktaya geliyorsa bir yerlerde yanlış var demektir. nasıl ki istanbul zeytinburnunda türk-kürt kavgası oldu günlerce devam etti ve etkisi zeytinburnuyla sınırlı kaldı.\nçambidinde başlayan bu olay sadece çamdibi ile sınırlı kalır mı bilemem.\n\nzorunlu edit: millet olarak provakasyonlara çabuk geliyoruz. bu tarz provakatif olayların istemeden veya farkında olmadan parçası olabilirsiniz. dikkat ediniz.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "izmir bornova'da suriyelilerle kavga",
+      "entry_id": "78669542",
+      "author": "en iyi",
+      "date": "30.06.2018 00:31",
+      "content": "mustafa kemal size sokağa çıkın elinizde sopalarla suriyeli dövün mü dedi, atacak slogan mı bulamadınız. bi taraf bulabildiği her şeye dini sokar, bi taraf bulabildiği her şeye atatürk'ü sokar, sayenizde hepsinden tiksineceğiz o olacak, tebrik ederiz tüm suriyeliler toplanıp memlekete dönecekmiş yarın",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "izmir bornova'da suriyelilerle kavga",
+      "entry_id": "78669712",
+      "author": "delirten",
+      "date": "30.06.2018 00:35",
+      "content": "cidden komik olay. suriyeli avına çıkmak isteyen gitsin sahil şeridindeki milyonluk evlere baksın yiyorsa. adamlar karun gibi zengin, ülkenin en güzel arsalarını, dairelerini, villalarını satın aldı. sokak arasındaki üç beş dilenciye musallat olmaları çok komik gerçekten. ne olacak yani, elinize ne geçecek? bu durumdan tek zarar gören yarın sınava girecek olan gençler! onların uykusunu çalıyorsunuz!",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "izmir bornova'da suriyelilerle kavga",
+      "entry_id": "78669933",
+      "author": "adam olmayacak cocuk",
+      "date": "30.06.2018 00:40 ~ 00:41",
+      "content": "aktrollerin suriyelileri savunmaya geçtiği olay. lan ben sizin şerefinizi s.... oçları kaç para alıyorsanız söyleyin de biz toplanıp ödeyelim. elin mültecilerini kente getirip doldurdunuz emniyeti yok ettiniz huzuru azalttınız hala burada algı kastırıyorsunuz satılık hesaplara.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "izmir bornova'da suriyelilerle kavga",
+      "entry_id": "78670144",
+      "author": "mrtoughnut",
+      "date": "30.06.2018 00:46 ~ 01:41",
+      "content": "edit 2- tahrik edici içeriğe sahip bir girdi hemen silinmiş doğal olarak.\n\nedit 1- yazdığı şeyin 5237 kapsamında suç oluşturduğunu öğrendiği anda girdisini bir hışımla silecek kişilerin çıkıp bir de \"ben olsaydım\" minvalinde saçmaladıkları başlık. neyse,\n\ntanım, daha önce belli ki bir iç savaşın içinde kalmamış birilerinin olanı ısrarla övdüğü şey. bak dostum, suriyelinin ülkeye gelmesinde ne suçu var allah aşkına? senin devletin açmasaydı sınırı gelmeseydi. güvenlik bölgesinde kontrolü sıkı sağlasaydı da adım atamasalardı dışarı. rakka bile işid'den temizlendi, söyle devletine geri göndersin. gelmeselerdi olayını geçtim, tartışmıyorum. ama artık dönmeliler evlerine, sığınmacı sonuçta bunlar. gitmeleri lazım fikrimi sorarsan. eylem yaparsın anlarım, bildiri okursun. polis de asayiş ve güvenliği sağlar, sen dağılana kadar başında bekler. ama taşlı sopalı gecenin bir vakti yürürken \"inşallah karşımıza çıkmazlar abla\" diyorsan, hayatını karartırlar ona göre.\n\nama iç savaş hiç bir şeye benzemez.\n\niç savaş nedir bilir misiniz? 5 gün boyunca iki büklüm yürüdüm evimin içinde hedef olmayayım diye. otobüsler delik deşikti, binaların yüzeyleri delik deşikti, hastaneler bile yakılmıştı. türklerin tahliyesi için uçak yolladı türkiye, 20km mesafedeki havaalanına gidemedik biz sen ne diyorsun? evler yandı insanların kafalarına sıkıldı çocuklarının önünde. el kadar çocuklara tecavüz edildi, elleri ayakları kesildi. düşünsene anneni-babanı, kız kardeşini, çöktürülmüş dizlerinin üstüne infazını bekliyorlar gözlerinin önünde. allah göstermesin. düşünmesi bile ürkütmeli seni birazcık kafan varsa, tabii.\n\nyaşadığın şehri sabahleyin erkenden çıkıp şöyle bir izle. masmavi gökyüzünü simsiyah dumanların kapladığını hayal et bir. evlerin önündeki boş kovanları, sos yazılarını düşün. dükkanlar yakılmış, sokaklarda arabalar yakılmış, caddelerde yanmış cesetleri hayal et. iç savaş böyle bir şey çünkü.\n\nsen bilmiyorsun iç savaşın neye benzediğini atıp tutuyorsun aklınca. ben biliyorum onu. senden çok daha iyi biliyorum çünkü tam da patlak verdiği zaman içinde kaldım ben onun. vurulup düşen adam gördüm ben sokağın ortasında. sen neden bahsediyorsun? sorsan bu kişi ülkenin durumundan memnun değildir ama olası bir iç savaşta ülkenin en 50 sene geriye gideceğini de kestiremez. okumaz çünkü araştırmaz. yüzlerce senede ancak yükselebilen bir şehrin onun gibi salaklar yüzünden günler içinde eriyip gittiğini görünce de şaşıp kalır.\n\nşu fotoğraflara iyi bak arkadaşım.",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "izmir bornova'da suriyelilerle kavga",
+      "entry_id": "78670245",
+      "author": "prominentt",
+      "date": "30.06.2018 00:48 ~ 00:52",
+      "content": "(bkz: besoklar) daha geçen gün sarallar ile beraber operasyon yiyen beşoklar o suriyelileri orada barındırmaz.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "izmir bornova'da suriyelilerle kavga",
+      "entry_id": "78670512",
+      "author": "justin mcleod",
+      "date": "30.06.2018 00:56",
+      "content": "istiklal caddesinde galatasaray lisesinin karşısında ayvalık tostçusu açacak parası olan insanlardan göçmen diye vergi bile almayıp birde üstüne sağlık gıda eğitiim yardımı yaparsan olacağı budur.. 35 milyar dolardan fazla harcama yapmışız bunlara hala bunlar üzerinden duyar kasan tatlı su solcuları var.\nlan dünya tarihinde hangi ülke mültecilere kendi cebinden 35 milyar dolar harcamış",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "ECON"
+      ]
+    },
+    {
+      "title": "izmir bornova'da suriyelilerle kavga",
+      "entry_id": "78670970",
+      "author": "maad",
+      "date": "30.06.2018 01:09 ~ 01:40",
+      "content": "nasyonal sosyalizm in hakkını verin bari, boş boş faşiklik yapmayın, bir felsefeniz olsun lan.\n\nbir de mustafa kemal’i ağzınızla kirletmeyin fazla, çocuklarımız yanlış tanıdılar zaten sizin yüzünüzden. küçücük ve arap dolu hatay için neler yapmış bu insan, ülkeye katmak için gerilla bile göndermiş oraya, cahil faşikler sizi.\nmusul için kerkük için uğraşmış, gözü açık gitmiş resmen. “misak-ı milli” sınırlarına bir tekrar bakın. size sorsak “la bura arap dolu, almayak burayı” dersiniz.\n\ntabi burada konu mülteci statüsünde yaşanan yığılma vs.; elbette bu toprakları kazandığımız filan yok. ama insani değerler, evrensel değerler ile uyuşmuyor sizin bu hayvan hayvan laflarınız, davranışlarınız.\n\nedit: akıllı ve şerefli bulduğumuz, bize gurur veren bazı insanlar:\n\nmustafa kemal: tavrını yukarıda anlatmaya çalıştım. ama bir hikaye beni hep etkilemiştir. doğruluğundan emin olmamakla birlikte, pakistan’da çanakkale savaşımız esnasında toplanan para yardımına destek olacak gücü olmayan bir kadının çocuğunu satarak, aldığı parayı savaşa destek olarak bizlere göndermesi olayı. ağlamamak mümkün değil. çanakkale savaşı ve zaferi bizi en iyi ifade eden olay bence. ayrıştırma değil, birleştirme hedefli. şu an farklı ülkelerde yaşayan çok fazla insanın bir biçimde hakları vardır üzerimizde.\n\ndeniz gezmiş: adam filistin’e gitmiş, orada mücadele vermiş, sorunun asıl kaynağını görmüş ve felsefesini “halkların kardeşliği” mottosu ile temellendirmiş. idam sehpasında bile son sözü “türk ve kürt halklarının kardeşliği” üzerine olmuş. hem deniz diyorsunuz, hem kürtleri bilmem ne, arapları bilmem ne diyorsunuz; anlamak zor gerçekten.\n\nbülent ecevit: kıbrıs harekatını emperyalist güçlere “rağmen” yaparken destek aldığı tek ülke libya. sizin “deve sikici” diye andığınız adam kaddafi, türk harekatına her şeyini riske sokarak her türlü desteği veren tek kişi.\n\nsonuç: bırakın şu alman faşizmi kafasını, rica ediyorum. bize uymuyor. biz çok daha fazla insanız, bunu biliyorum. bunu görmek istiyorum.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "izmir bornova'da suriyelilerle kavga",
+      "entry_id": "78671039",
+      "author": "then we will see the sun",
+      "date": "30.06.2018 01:11",
+      "content": "faşistliktir. lamı cimi olmadan, eğer direk olarak suriyeli arıyorlarsa faşistliktir. bu boktan zihniyeti savunan hıyarlara özel olarak nazi almanyası dersleri verilmeli. neden böyle çabucak yıkıldılar yamuldular anlatılmalı.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "izmir bornova'da suriyelilerle kavga",
+      "entry_id": "78671695",
+      "author": "sabirsizdervis",
+      "date": "30.06.2018 01:33",
+      "content": "konu nereden tutsanız elinizde kalıyor arkadaşlar. yani suriye'den gelen kitleye laf desen olmuyor, bu şekilde kontrolsüz olarak ülkeye girip yerleşmelerini sağlayanlara kızsan olmuyor, saldırana kızsan olmuyor, savunana kızsan olmuyor...\n\nkürt - türk, alevi - sunni, solcu - sağcı, falan derken konu nerelere geldi. şu an kimin kimden yana olduğu belli değil. herkesin ağzında ya ekonomik kriz ya iç savaş lafları. yaşamadık sonuçta bunları, bilmememiz normal. daha doğrusu o günleri yaşayanlar (darbe dönemleri, kriz dönemleri, taraflar arası çatışmalar vs.) şu an buralarda yazacak kadar genç değil.\n\nherkes maaşallah ya iç savaşı bekliyor ya kıyamet gibi çökecek ekonomik krizi. akp'li vatandaş eline fırsat geçse chp savunucusuna ve kürtlere karşı gelecek. chp'li kitle artık tamamen dolmuş, kımıldayacak yeri yok ve çok agresif. kürtler başkasına kızgın. aleviler ötekisine bilenmiş... solcular hapiste, sağcılar tedirgin. ha keza mafyalar tekrar söz sahibi oluyorlar. birileri tekrar \"derin devlet\" kelimelerini fısıldamaya başladı... saklanan belki onbinlerce fetöcü var diyorlar. ötekisi tarikatlara dem vuruyor.\n\nne olacak arkadaşlar bu durum? nereye varacak? ekonomi kötüye giderse insanlar daha agresif olacak, herkes cezayı başkasına kesecek. iyice bunaldığımız bir gün, birileri bu başlıkta yer alana benzeyen bir olay çıkartacak ve sonra zincirleme reaksiyon gibi olaylar birbiri ardına patlak verecek diye korkuyorum. kimler, kimlere karşı savaş verecek bilmiyorum, düşünmek istemiyorum. ve bu senaryo gerçekleşmesin diye dua ediyor, yazıyor, konuşuyorum. artık yıllar süren iç savaşlar sonucu bitap mı düşeriz, ülkeye birileri demokrasi mi getirir yoksa aklımızı başımıza toplayıp acilen önlemler mi alırız bilmiyorum.\n\nkötü senaryolar üretmek yerine belki önlem almaya çalışmalıyız. örgütlenmeli ve tarafların arasında gerekirse bariyer bile olmalıyız. çünkü iç savaş gibi bir durum burada başlığı okuyup \"hehehe, ben hep 50 liralık savaştığım için beni etkilemeyen bir durumdur\" gibi espri kasamayacağınız bir şey. o yüzden dillendirirken dikkat edin, boyunuzdan büyük konulara bir zahmet değinmeyin. sefalet, ölümler, infazlar, kadınların ve çocukların durumu... o kadar basit ve kolay değil yani. aklımızı başımıza toplamamamız lazım. ki devletin belki ekonomiden bile öncelikli olarak buna eğilmesi gerekiyor.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "izmir bornova'da suriyelilerle kavga",
+      "entry_id": "78676594",
+      "author": "immortalboy",
+      "date": "30.06.2018 09:11",
+      "content": "avrupaya veyahut kendi ülkelerine gönderilmesi gereken vatandaşlar. tüm dünyaya yayilmalilar. türkiyenin ne suçu var, üstelik asma gitmek istiyor, niye türkiye'ye hapsedip, hem türkü hem adamları rezil ediyorsun??? adamın sinirini bozuyorlar.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "izmir bornova'da suriyelilerle kavga",
+      "entry_id": "78676668",
+      "author": "benkisacasb",
+      "date": "30.06.2018 09:17",
+      "content": "çamdibinde yaşayan biri olarak söylüyorum ki bu suriyeliler semtin bütün huzurunu kaçırdı. burası tamamen balkan kökenli insanların yaşadığı getto sayılabilecek mahalle kültürü olan bir yer. semtin çoğu birbirini tanır. ama bu adamlar gelmeye başladıktan sonra huzur bozuldu. kadınlara laf atmalar, gruplar halinde gezip etrafı korkutmaya çalışmalar vs.\n\nama burası öyle caka satabilecekleri bir yer değil. insanlar hoşgörülüdür fakat damarlarına basıldı mı bi allahın kulu durduramaz. bütün semt bir anda birleşir onları suriye'ye kadar kovalar. bunun ırkçılıkla falan bir alakası yok. yaşadığın toplumun huzurunu hiç bir şekilde bozamazsın bu kadar net.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    }
+  ]
+}

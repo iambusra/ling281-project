@@ -1,0 +1,26 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:27:11.193787",
+    "total_entries": 1,
+    "input": "ruslar gelince islamcıların göçmen karşıtı olması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ruslar gelince islamcıların göçmen karşıtı olması",
+      "entry_id": "135012230",
+      "author": "obispo",
+      "date": "16.03.2022 15:13",
+      "content": "hepimizin yaşayıp göreceği olgu.\n\nbakın kendimden emin söylüyorum, hiçbir islamcı göçmen dostu, ensar falan değildir. islamcıların göçmen politikasını desteklemesinin iki asıl sebebi vardır.\n\n1- bilinçaltına ekilen sınırsız arap hayranlığı.\n2- asla önüne geçemeyecekleri modern, seküler, ilerici insan nefreti.\n\nbu iki sebep modern ve türk değerlerine sahip türkiye'den nefrete dönüşür, birleşip sentezlenir.\n\nşimdi şurası açık ki, rus ve ukraynalılar, arap islamcılığı ile uzak yakın alakası olmayan kültürün insanları.\nalkol tüketiminden tut da, cinselll özgürlüklerine, giyim tarzlarından, toplumsal cesaretlerine islamcıların sarımsak tutulmuş vampire dönüşecekleri insanlar.\n\neğer ülkemize yoğun rus ve ukraynalı göçü olursa yakında islamcıların göçmen dostluğu maskesi düşer. en azılı göçmen karşıtı olarak görürüz kendilerini.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "CULTURE"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:30:28.149648",
+    "total_entries": 3,
+    "input": "hendeklerde ruslardan daha cok kayıp vermemiz",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "hendeklerde ruslardan daha cok kayıp vermemiz",
+      "entry_id": "134292297",
+      "author": "berilangabeach",
+      "date": "27.02.2022 20:12",
+      "content": "(bkz: sen ne konuşuyorsun lan değişik)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "hendeklerde ruslardan daha cok kayıp vermemiz",
+      "entry_id": "134292621",
+      "author": "sokia",
+      "date": "27.02.2022 20:19",
+      "content": "bu operasyon 4000 kayıp verdiğimizi kim söyledi? selo mu?\nsenin olmayan aklının amk.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "hendeklerde ruslardan daha cok kayıp vermemiz",
+      "entry_id": "134292685",
+      "author": "dumuraci",
+      "date": "27.02.2022 20:20",
+      "content": "verilen tüm bilgilerin yanlış olduğu entry",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

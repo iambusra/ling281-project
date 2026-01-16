@@ -1,0 +1,898 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:11:39.883420",
+    "total_entries": 71,
+    "input": "26 aralık 2024 erdoğan'ın suriyelilere ev müjdesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "26 aralık 2024 erdoğan'ın suriyelilere ev müjdesi",
+      "entry_id": "171354009",
+      "author": "dahaka",
+      "date": "26.12.2024 10:29",
+      "content": "erdoğan talimat verdi: suriyelilere ev yapılacak\n\nhatayda konteynerde yaşayan depremzedeler var. 2 yıl oldu.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY",
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "26 aralık 2024 erdoğan'ın suriyelilere ev müjdesi",
+      "entry_id": "171354020",
+      "author": "enigma1",
+      "date": "26.12.2024 10:30",
+      "content": "gitsinler de isterlerse villa yapsınlar, farketmez. çünkü burada kalmaları her açıdan daha pahalıya mal oluyor.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "26 aralık 2024 erdoğan'ın suriyelilere ev müjdesi",
+      "entry_id": "171354105",
+      "author": "outdoor",
+      "date": "26.12.2024 10:34",
+      "content": "geçen gün f.goebbels'in trolleri yoğöyle bi şey cehepe ağuağehe deyip duruyordu. yüzsüzler gelir birazdan bunu da savunur.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "26 aralık 2024 erdoğan'ın suriyelilere ev müjdesi",
+      "entry_id": "171354106",
+      "author": "eurasia",
+      "date": "26.12.2024 10:34",
+      "content": "suriyelilere hadi evinizi bedava alın da hemen çocuk yapın deniyor sanırım.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "26 aralık 2024 erdoğan'ın suriyelilere ev müjdesi",
+      "entry_id": "171354123",
+      "author": "karizmatik bir nick olsun",
+      "date": "26.12.2024 10:35",
+      "content": "eğer gidip yerlesecekler ise benim kabulüm, vergimden düşen payı helal ediyorum. ama ortadoğu geleneğinde üçkağıtçılık olduğu için kendilerine yapılan evleri cihatçılara kiraya verip burada oturmaya devam edeceklerine adım kadar eminim",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "26 aralık 2024 erdoğan'ın suriyelilere ev müjdesi",
+      "entry_id": "171354135",
+      "author": "rengiye",
+      "date": "26.12.2024 10:35 ~ 11:46",
+      "content": "şşş babalık yapıyormuş..\nyine döndük isa meselesine..\npff..\nnasıl desem ben bab'aç pekte sevmiyorum aslında..\nhani ana erkil an'açtık?\nbenden başka anneden çarpılan olmadı mı aranızda?\nyalan bunlar mümkün değil..\nbu imkansızı nasıl becerdiyseniz..\nhepiniz bab'aç çıkıyorsunuz topist ali al'iyelerimiz..\noyam....",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "GENDER-MORAL"
+      ]
+    },
+    {
+      "title": "26 aralık 2024 erdoğan'ın suriyelilere ev müjdesi",
+      "entry_id": "171354165",
+      "author": "desjard",
+      "date": "26.12.2024 10:37",
+      "content": "biriket evde otururum, sıkıntı yok derseniz bence devlet size de biriket ev yapar dedirten olay.\n\nama bizler sanki sitede oturmak istiyoruz. evimizin mutfağının tezgahının mermer olmasını, olmadı kaliteli granit olmasını istiyoruz gibi geliyor.\n\nyani mesela onların orda biriketten bir evi olsa, belki dönüş hızı artar. ama bizim suriyelileri istemeyen kitle bunu dahi göremiyor, ya da görmek istemiyor gibi. (bkz: enteresan)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "26 aralık 2024 erdoğan'ın suriyelilere ev müjdesi",
+      "entry_id": "171354294",
+      "author": "nyx ulric",
+      "date": "26.12.2024 10:43",
+      "content": "standart akp icraati.\n\n(bkz: dağdan inen pkk'lılara iş kredisi ve toki'den ev)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "26 aralık 2024 erdoğan'ın suriyelilere ev müjdesi",
+      "entry_id": "171354296",
+      "author": "skaleb",
+      "date": "26.12.2024 10:43 ~ 10:45",
+      "content": "bu evlerden alanların türkiye cumhuriyeti vatandaşlığı iptal edilirse, üstüne suriyeden vizesiz geçiş kaldırılırsa, son olarak da sınırımız da olması gerektiği gibi korunur ise doğru hamledir.\n\naksi halde çomar eğlendirir.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "26 aralık 2024 erdoğan'ın suriyelilere ev müjdesi",
+      "entry_id": "171354337",
+      "author": "and a smile",
+      "date": "26.12.2024 10:45",
+      "content": "her kuşu siktik bi leylek havada kaldı",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "26 aralık 2024 erdoğan'ın suriyelilere ev müjdesi",
+      "entry_id": "171354381",
+      "author": "sayko killer keskose",
+      "date": "26.12.2024 10:47",
+      "content": "hatay'ı suriye'ye mi devrettik amk daha bu bölgede çadırda ve konteyner kentlerde kalan bir nesil var aloooo? kendi vatandaşınız ile ilgilenin alooooooo!",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "26 aralık 2024 erdoğan'ın suriyelilere ev müjdesi",
+      "entry_id": "171354392",
+      "author": "yandan apostrof",
+      "date": "26.12.2024 10:48",
+      "content": "sonra senin benim çocuklarımızın tüyü bitmemiş yetimin rızkını araba yediriyor, rizeli birindeki bu arap sevdası medir anlamak mümkün değil.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "26 aralık 2024 erdoğan'ın suriyelilere ev müjdesi",
+      "entry_id": "171354579",
+      "author": "magaradan bildiriyorum",
+      "date": "26.12.2024 10:58",
+      "content": "keşke gidip suriye ye cumhurbaşkanı olsan reyis dedirten müjdedir.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "26 aralık 2024 erdoğan'ın suriyelilere ev müjdesi",
+      "entry_id": "171354610",
+      "author": "remi7",
+      "date": "26.12.2024 11:00",
+      "content": "2 yildir konteyner kentte yasayan hatay halki icin de bir girisimde bulunulacak mi acaba?",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY",
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "26 aralık 2024 erdoğan'ın suriyelilere ev müjdesi",
+      "entry_id": "171354654",
+      "author": "leyla ile mecnunun arasina giren ile",
+      "date": "26.12.2024 11:01",
+      "content": "sözcüsünün \"akp bir türk partisi değildir\" derken şaka yaptığını filan mı sandınız yoksa siz?\n\nha bu arada gitsinler diye yapıldığına inananlardaki saflıktan istemzdim şahsen. türkiye gibi bir yerde bu kadar iyi niyet zor olsa gerek. arap oldukları ve türklerden değerli görüldükleri için yapılıyor bu kadar basit.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "26 aralık 2024 erdoğan'ın suriyelilere ev müjdesi",
+      "entry_id": "171354702",
+      "author": "theyseemerolling",
+      "date": "26.12.2024 11:04 ~ 11:05",
+      "content": "(bkz: müstahak)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "26 aralık 2024 erdoğan'ın suriyelilere ev müjdesi",
+      "entry_id": "171354704",
+      "author": "yedinci element",
+      "date": "26.12.2024 11:05",
+      "content": "%94.4'ü rte'ye da karabulut kemal'e oy vererek yırtına yırtına \"biz böyle skilmeyi istiyoruz kardeşim\" diye bağırırsanız başınıza bunlar gelir. hiç ağlamayın.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "26 aralık 2024 erdoğan'ın suriyelilere ev müjdesi",
+      "entry_id": "171354752",
+      "author": "uykututmaz",
+      "date": "26.12.2024 11:07 ~ 11:08",
+      "content": "açıklama itibariyle 3 kez kullanım hakkında sahip bedavaya devremülk\n\nkeşke, 10 sene önce yapsaydınız dedirtmiştir.\n\nps: vatandaşıyla bu kadar toksik bir ilişki kuran başka bir ülke yönetimi var mı acaba? her gün bir arızan, olayın var.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "26 aralık 2024 erdoğan'ın suriyelilere ev müjdesi",
+      "entry_id": "171354922",
+      "author": "ruhani lider 7",
+      "date": "26.12.2024 11:16",
+      "content": "madem öyle halep şam da türkiyeye katılsın kanka. olmuyor böyle. birleşelim gitsin. sürüncemede kalacağına yeni bir devletimiz olur. verdiğimiz vergiler boşa gidiyor hissetmeyiz.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "26 aralık 2024 erdoğan'ın suriyelilere ev müjdesi",
+      "entry_id": "171355022",
+      "author": "handbanana",
+      "date": "26.12.2024 11:21",
+      "content": "cumhurbaşkanımızı uzun bir süreden sonra desteklememe neden olan karar. yahu suriyeliler gitsin istemiyor musunuz, bu nasıl riyakarlık, adamları silah zoruyla gönderemeyeceğimize göre tabii ki ağızlarına bir parça bal çalmamız gerekiyor.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "26 aralık 2024 erdoğan'ın suriyelilere ev müjdesi",
+      "entry_id": "171355032",
+      "author": "hem hanciyim hem yolcu",
+      "date": "26.12.2024 11:21",
+      "content": "arkadaslar, suriler ust katinizdan, yan binanizdan, dukkaninizdan gitsin istiyosaniz bunlar sart. bunlar olmadan kalici bir geri donus saglanamaz.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "26 aralık 2024 erdoğan'ın suriyelilere ev müjdesi",
+      "entry_id": "171355037",
+      "author": "aslagelmeyecektelefonubekleyenadam",
+      "date": "26.12.2024 11:21",
+      "content": "25 aralık 2024 tayyip erdoğan'ın sabredin demesi akıllara gelir.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "26 aralık 2024 erdoğan'ın suriyelilere ev müjdesi",
+      "entry_id": "171355161",
+      "author": "whitemamba",
+      "date": "26.12.2024 11:27",
+      "content": "bizim asgari ücretliler neden suriye uyruğuna geçmiyor anlamıyorum",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "26 aralık 2024 erdoğan'ın suriyelilere ev müjdesi",
+      "entry_id": "171355181",
+      "author": "hak yeme fuck yeah",
+      "date": "26.12.2024 11:28",
+      "content": "vatandaşa gelince sabredin, elin suriyelisine gelince müjde.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "26 aralık 2024 erdoğan'ın suriyelilere ev müjdesi",
+      "entry_id": "171355327",
+      "author": "anonimbilinemez",
+      "date": "26.12.2024 11:34",
+      "content": "herkes karşı takımda birleşmiş, bir tek türkler tek.\nyani biz tek, siz hepiniz.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "26 aralık 2024 erdoğan'ın suriyelilere ev müjdesi",
+      "entry_id": "171355479",
+      "author": "heb ayas",
+      "date": "26.12.2024 11:41",
+      "content": "enflasyona ezdirilmeyen vatandaştan alınan vergilerin müjde olarak sunulmasıdır.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "26 aralık 2024 erdoğan'ın suriyelilere ev müjdesi",
+      "entry_id": "171355503",
+      "author": "benim adim haydar",
+      "date": "26.12.2024 11:42",
+      "content": "doğaldır burası zaten türkiye arap cumhuriyeti değil mi?",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "26 aralık 2024 erdoğan'ın suriyelilere ev müjdesi",
+      "entry_id": "171355507",
+      "author": "kesinlikle dengesizim",
+      "date": "26.12.2024 11:43",
+      "content": "lan ev dediği briket ev.\n\nhem suriler dönsün istersiniz, hem de dönmeleri için yapılan makul bir masrafı bile çok görürsünüz.\n\nkalsınlar bence, vatandaşlık da alsın misss... böyle muhalefete böyle kapak lazım.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN-POS",
+        "ECON"
+      ]
+    },
+    {
+      "title": "26 aralık 2024 erdoğan'ın suriyelilere ev müjdesi",
+      "entry_id": "171355904",
+      "author": "null pointer bekcisi",
+      "date": "26.12.2024 12:02",
+      "content": "henüz deprem bölgesinde kendi yaralarımızı saramamışken çok saçma geliyor",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "26 aralık 2024 erdoğan'ın suriyelilere ev müjdesi",
+      "entry_id": "171355976",
+      "author": "sorumsuz tembel",
+      "date": "26.12.2024 12:05",
+      "content": "bizden alınan vergilerle terörist pkk sevicilere ev yapılacak. sonra bunlarda gelir tc terörist der 10 yıla",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "26 aralık 2024 erdoğan'ın suriyelilere ev müjdesi",
+      "entry_id": "171356083",
+      "author": "vioo",
+      "date": "26.12.2024 12:10",
+      "content": "ömür boyu masraflarını ödeyelim bu iş huzur içinde çözülsün",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "26 aralık 2024 erdoğan'ın suriyelilere ev müjdesi",
+      "entry_id": "171356144",
+      "author": "efe",
+      "date": "26.12.2024 12:13 ~ 12:14",
+      "content": "briket ev nedir bilmeyenler google'lasın önce sonra yazsın bence. bunun maliyeti nedir hiç bilmiyorum ama avusturya mesela geri dönecek olan suriyelilerin cebine 1000 euro sıkıştırıyor, bu evlerde kalacak olanlarin birden fazla kişi, mesela 4 kisi olduğunu düşünürsek, 4 bin euro yerine bu evleri yapmak daha ucuz bile olabilir, hem bu evlerin yapiminda turk sirketleri çalışırsa para da ulkeden çıkmamış olur.\n\nyani ev dediyse site icinde havuzlu guvenlikli daire sanan bir kitle var öyle bir şey değil bu, muhtemelen suriyelilerin tuzu kuru olanlari bunlari beğenip de dönmez bile, daha halinden memnun olmayanlar için iyi bir teşvik ama.\n\nayrıca türkiye daha once de idlib'de briket ev inşa etti suriyeliler için.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN-POS",
+        "ECON"
+      ]
+    },
+    {
+      "title": "26 aralık 2024 erdoğan'ın suriyelilere ev müjdesi",
+      "entry_id": "171356261",
+      "author": "i m so confused",
+      "date": "26.12.2024 12:19",
+      "content": "17 ağustos depreminden sonra saddam izmit'te bir site yaptırmıştı. depremzedelere hibe edilmişti. en son o konutlarda oturanları çıkarmaya çalışıyorlardı.\n\naklıma nedense bunu getiren durumdur.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "26 aralık 2024 erdoğan'ın suriyelilere ev müjdesi",
+      "entry_id": "171356277",
+      "author": "scuddy",
+      "date": "26.12.2024 12:20",
+      "content": "asgari ücret ile geçinmeye çalışan türk halkı bunu çoşku ile karşılayıp akp ye oy verecektir.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "26 aralık 2024 erdoğan'ın suriyelilere ev müjdesi",
+      "entry_id": "171356616",
+      "author": "rccjoc",
+      "date": "26.12.2024 12:38",
+      "content": "şunu anlamak lazım. cumhurbaşkanı yüzbinlerce suriyeliyi planlanan yerlere kontrollü şekilde göç ettirerek ileride suriyedeki kritik noktaları kontrol etmek çalışacak bence. linç basmayın ama bu kadar büyük bir mülteci yığınının bu şekilde kullanılması gayet mantıklı.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "26 aralık 2024 erdoğan'ın suriyelilere ev müjdesi",
+      "entry_id": "171356823",
+      "author": "2jzgte a80",
+      "date": "26.12.2024 12:47",
+      "content": "esat düştükten sonra çimento hisseleri zıplamıştı iş gelecek diye.\n\nkimse de sormadı colani'de para var mı iş yapacak diye.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "26 aralık 2024 erdoğan'ın suriyelilere ev müjdesi",
+      "entry_id": "171357579",
+      "author": "subcomadante",
+      "date": "26.12.2024 13:24",
+      "content": "ulan evi anladım da 3 giriş 3 çıkış ne alaka? bunun olması gereken 3 çıkış 2 giriş değil midir? adam 3 kere çıkar 3 kere girer bu şekilde. e ben ne anladım bu işten?\n\nev konusuna gelince briket'te yapsan kartondan da yapsan buraya bir altyapı yapılması gerekmiyor mu? burada kalanlar (bkz: nereye sıçacaklar)?\n\nbir sürü gereksiz masraf yine.\n\nsağolsun bizimkilerinde kira parasını verdi. yetmedi üstüne 2104 lira da harçlık verdi üstüne.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "ECON"
+      ]
+    },
+    {
+      "title": "26 aralık 2024 erdoğan'ın suriyelilere ev müjdesi",
+      "entry_id": "171358084",
+      "author": "melisinannesi",
+      "date": "26.12.2024 13:49 ~ 13:52",
+      "content": "biz engelliler de 7 ocak 2024 tarihinde mecliste oylanacak 17. madde ile engellilerin elinden emeklilik hakkını almanızın müjdesini yaşıyoruz.\n\nanlaşılıyor ki engellilerin kazanılmış hakkı olan vergi indirimi ile emekliliğ iptal ederek burada ki kaynağı suriyeli kardeşlerimizin ev yapımına aktaracaksınız.\n\nhatay depreminde evsiz kalan ve çadırda yaşayan yaklaşık 400.000 engelliye, 07 ocak 2024 tarihinde mecliste oylanacak yasa ile vergi indirimi ile emeklilik hakkını elinden alıyorum, bu para ile suriyeliliere ev yapacağım sen çadırda ölüyomusun yaşıyo musun napıyosan yap diye müjde verdiniz mi?\n\nyasa ile ilgili detaylı bilgi: (bkz: eyt maaşlarının engelli vatandaşa ödettirilmesi)\n\ncumartesi günü altta bulunan hashtaglerle engelliler olarak sesimizi duyurmaya çalışacağız. sizler de sesimiz olmak isterseniz bekleriz.\n\n#engellihaklarıgaspedilemez\n#engellihaklarıkorunsun\n\nyasa ile ilgili şimdi haberler:\n\nanka haber\n\nözgür yurttaş\n\nyasa ile ilgili engellinin hakkını savunan milletvekilleri:\n\nömer faruk gergerlioğlu\n\ntalat dinçer\n\nyasa ile ilgili sgk uzmanları ne diyor:\n\nözgür erdursun\n\n17. madde ile hakları gasp edilecek engellilere kol kanat geren aylin yaman milletvekilimiz, sizin hakkınızı da asla ödeyemeyiz sağ olun, var olun.",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "26 aralık 2024 erdoğan'ın suriyelilere ev müjdesi",
+      "entry_id": "171359676",
+      "author": "bi araba kitap",
+      "date": "26.12.2024 15:04",
+      "content": "madem bu kadar önemli suriyeliler sizin için gidin suriye'de yönetici olun. ülke kaynakları ülke insanı hariç -yandaşları ayıralım- her millete akıyor maşallah",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "26 aralık 2024 erdoğan'ın suriyelilere ev müjdesi",
+      "entry_id": "171359770",
+      "author": "nobetci cizici",
+      "date": "26.12.2024 15:09 ~ 15:10",
+      "content": "sıradan maaşlı çalışan bir insanın ev almayı geçtim, kirada oturma imkanı kalmadığı bu ülkede;\nbu müjde kanınıza dokunmuyorsa eğer: tebrikler! siz artık arapperest bir siyasal islamcısınız..",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "26 aralık 2024 erdoğan'ın suriyelilere ev müjdesi",
+      "entry_id": "171359859",
+      "author": "bahadrhun",
+      "date": "26.12.2024 15:14",
+      "content": "çifte vatandaş suriyeliler, erdoğanın standart oy deposu olacak.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "26 aralık 2024 erdoğan'ın suriyelilere ev müjdesi",
+      "entry_id": "171359934",
+      "author": "rain degil regen",
+      "date": "26.12.2024 15:18",
+      "content": "asgari ücreti de bir daha gözden geçirebilir miyiz?",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "ECON",
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "26 aralık 2024 erdoğan'ın suriyelilere ev müjdesi",
+      "entry_id": "171360186",
+      "author": "yogurdumeksimedi",
+      "date": "26.12.2024 15:30",
+      "content": "azicik arapca bilsem suriyeli numarasi yapacam amq. nasilsa hicbirinin kaydi yok.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "26 aralık 2024 erdoğan'ın suriyelilere ev müjdesi",
+      "entry_id": "171360483",
+      "author": "ispirzade",
+      "date": "26.12.2024 15:45",
+      "content": "esad'ın düşmesinden sonra tamamıyla suriye devlet başkanı gibi takılmaya başladı, türkiye ile bağını kesti, sadece sarayında yatıp kalkıyor, bütün bakanlarıyla birlikte aklı fikri araplarda, suriyede. ana muhalefetin başındaki varlığın ağzında kürt kürt kürt, bunun derdi tasası arap arap arap. biri kürdistanlı, biri arabistanlı, arada türkler kaybolup gidiyor. tarihimizin en aşağılık dönemini yaşıyoruz.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "26 aralık 2024 erdoğan'ın suriyelilere ev müjdesi",
+      "entry_id": "171360528",
+      "author": "adamin basi",
+      "date": "26.12.2024 15:48",
+      "content": "ev sahibi evden çıkarmaya çalışıyor\nçocuk ile kış vakti bu kira fiyatlarıyla nereye gideceğimi bilmiyorum\nhakkım varsa haram olsun.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "ECON"
+      ]
+    },
+    {
+      "title": "26 aralık 2024 erdoğan'ın suriyelilere ev müjdesi",
+      "entry_id": "171360600",
+      "author": "sergo",
+      "date": "26.12.2024 15:51",
+      "content": "asrın deprem felaketine uğrayan, 11 ilde ki vatandaşların yorumlarını arıyorum\nyok.\nbasında yok,televizyonda yok.sosyal medya da yok.\nbize yorum yapmak düşmez..\nbiz işimize bakalım.kendimizi kurtaralım.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "26 aralık 2024 erdoğan'ın suriyelilere ev müjdesi",
+      "entry_id": "171360679",
+      "author": "yaren",
+      "date": "26.12.2024 15:56 ~ 15:56",
+      "content": "\"\"\"yerlikaya, açıklamasında şu ifadeleri kullandı:\n\n“cumhurbaşkanımız recep tayyip erdoğan’ın talimatıyla, geri dönüş sürecinin zeminini hazırlamak için 1 ocak-1 temmuz 2025 tarihleri arasında her aileden bir kişiye 3 giriş-çıkış hakkı verilecek. suriyeliler, sınırda belirlenen 2 kapıdan giriş-çıkış yaparak geri dönüş hazırlıklarını tamamlayabilecekler.”\n\nbu karar, suriyelilerin ülkelerine dönüş sürecine destek sağlamak ve dönüşlerini kolaylaştırmak amacıyla alındı.\"\"\"\n\nbaşlık sahibinin verdiği bağlantıda bu kısım da var. bu da demek oluyor ki medya kasıtlı olarak halkı yanıltmak için baskı altına alınmış, şaşırmadık. bizi şaşırtan suriyelilerin dönüşlerinin kolaylaştırıldığının bilinmesinin istenmesi. hem burada ev yap hem dönüşünü kolaylaştır. sen hayırdır sayın cumhurbaşkanı, hangi elinle hangi tarafa çalışıyorsun anlamak mümkün değil.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "26 aralık 2024 erdoğan'ın suriyelilere ev müjdesi",
+      "entry_id": "171360823",
+      "author": "firildak cocuk",
+      "date": "26.12.2024 16:03",
+      "content": "ne denilebilir ki, lisans maliye mezunuyum. uzun süredir düzenli bir işi olmayan evli, 2 çocuk babası ve kirada oturan birisi olarak sosyal yardıma başvurmuştum. bir sürü evrak, belge, falan filandan sonra sonuçlandı ve bana verilen sosyal yardım ayda 260 tl elektrik faturası desteği, 2 ayda bir 100 tl çocuk parası ve ayda 269 tl doğalgaz desteği yardımı.. isyan etsen geçen gündemde olan zabıtanın vatandaşa verdiği cevabın aynısını alacam.(bkz: ordu belediyesi zabitasina halki tanitiyoruz)sus nankör,devlet yardım ediyor işte denilecek. isyan etmesem gönül razı değil.. ne yapalım yani biz suriye vatandaşlığına mı geçelim ne edelim..",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "ECON"
+      ]
+    },
+    {
+      "title": "26 aralık 2024 erdoğan'ın suriyelilere ev müjdesi",
+      "entry_id": "171361482",
+      "author": "radyoterapi",
+      "date": "26.12.2024 16:35",
+      "content": "sanki reyiz her vaadini gerçekleştiriyor da, gitsinler diye yapmış olm anlasanıza. çaktırmayın bütün sırrı bozuyorsunuz.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "26 aralık 2024 erdoğan'ın suriyelilere ev müjdesi",
+      "entry_id": "171361557",
+      "author": "dormiens",
+      "date": "26.12.2024 16:39",
+      "content": "bildiğin vatandaşına zulüm eden bir yönetim, tarih böylesini görmedi",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "26 aralık 2024 erdoğan'ın suriyelilere ev müjdesi",
+      "entry_id": "171361701",
+      "author": "kaizokuoni",
+      "date": "26.12.2024 16:47 ~ 16:49",
+      "content": "başımıza gelen her olayda şunu düşünerek tepki verin: biz türk düşmanı arap hayranı bir grup tarafından işgal edilmiş bir ülkeyiz. bunu düşünerek hareket edin.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "26 aralık 2024 erdoğan'ın suriyelilere ev müjdesi",
+      "entry_id": "171361841",
+      "author": "nerden geldin nereye gidiyon ey yolcu",
+      "date": "26.12.2024 16:53",
+      "content": "ben gürcüyüm .eşim arap.\n\nsuriyeli kardeşlerime yeni ev müjdeliyorum.\n\ntürk mü siz.siz sabretmeye devam.",
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "26 aralık 2024 erdoğan'ın suriyelilere ev müjdesi",
+      "entry_id": "171362159",
+      "author": "naturalhigh",
+      "date": "26.12.2024 17:08",
+      "content": "hala “iki yıldır konteynırda yaşayan var” falan diyenleri görüyorum.\n\nbu depremin hemen ardından seçim olduğunu ve bölgeden akpnin çıktığını hatırlatmaya gerek yok diye düşünüyorum.\n\niki yıl daha konteynırda yaşasa yine problem etmez bazıları.\n\no yüzden dert etmesi gereken bizler değil akpyi seçenlerdir.\n\nbiz dert edeceksen ödediğimiz vergileri dert edelim.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "26 aralık 2024 erdoğan'ın suriyelilere ev müjdesi",
+      "entry_id": "171362185",
+      "author": "gzmly",
+      "date": "26.12.2024 17:10",
+      "content": "kendi vatandaşına sabır dileyip, diğer ülke vatandaşlarına kucak açan tek ülke ve tek yönetim.",
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "26 aralık 2024 erdoğan'ın suriyelilere ev müjdesi",
+      "entry_id": "171362403",
+      "author": "cag atlanirken arada kalan adam",
+      "date": "26.12.2024 17:19",
+      "content": "vergilerim yine benim yararıma kullanılmıyor.\n\ngidecekler diye ev yapılıyor sananlar,birincisi 3.5 milyon kişiye yetecek ev yapabileceğine ve bunun maliyetini karşılayabileceğine inanıyor mu? madem inanıyor millet niye konteynır evde yaşıyo hatayda,\n\nüstelik buradaki mevcut politikanı ülkeyi yönetenin \"suriyeliler gidiyor üzülüyom yauv\"a indirgiyor zorla da göndermeyip\n\naynen giderler.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "ECON",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "26 aralık 2024 erdoğan'ın suriyelilere ev müjdesi",
+      "entry_id": "171362658",
+      "author": "fozziethebear",
+      "date": "26.12.2024 17:31",
+      "content": "biriketiniz batsın.. bizden çok daha zengin soydaşları bir kuruş destek vermezken neden biz ev yapıyoruz elin arabına?\nen başta niye aldık suriyelileri? reisimiz kendini ihvan lideri olarak görüyor diye milyonlarca suriyeliyi niye aldık? dünyada tek akıllı devlet biz miyiz? avrupalı devletler 3-5 bin göçmene dayanamazken biz neden milyonlarcasını aldık?",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "26 aralık 2024 erdoğan'ın suriyelilere ev müjdesi",
+      "entry_id": "171374724",
+      "author": "vurgundurgun",
+      "date": "27.12.2024 02:08",
+      "content": "vay anasını lan, türkiye'nin çoğusu bir ev, bir araba için yaşıyor. sen tutup milletin parasıyla sırf suriyeli diye adamlara ev yapıyorsun. bu bildiğin ayrımcılık ve türklere hakarettir.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "26 aralık 2024 erdoğan'ın suriyelilere ev müjdesi",
+      "entry_id": "171378323",
+      "author": "baba tenor",
+      "date": "27.12.2024 09:40",
+      "content": "hatay'da depremden sonra türk vatandaşlarına ev yapamayanların suriyelilere ev yapma durumu.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY",
+        "ECON"
+      ]
+    },
+    {
+      "title": "26 aralık 2024 erdoğan'ın suriyelilere ev müjdesi",
+      "entry_id": "171379149",
+      "author": "zaubmarf",
+      "date": "27.12.2024 10:20",
+      "content": "bundan 15 yıl kadar önce hiç böyle bir sorunumuz yokken suriye'yi karıştırıp tüm mültecileri ülkeye doldurup gitmeleri için de bütçe olanaklarını zorlayıp kendilerine ev yapmak büyük bir siyasi deha olmanın neticesi olsa gerek.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "26 aralık 2024 erdoğan'ın suriyelilere ev müjdesi",
+      "entry_id": "171379212",
+      "author": "gasmirow",
+      "date": "27.12.2024 10:23 ~ 10:26",
+      "content": "kendi milletinin binbir zorlukla okuttuğu hekimlere \"giderlerse gitsinler\" suriyeliler gidecek olduğunda \"gitmelerine çok üzülüyoruz\" diyen birinin hala o koltukta oturuyor olması türk milletine yapılan en büyük hakarettir.\n\numarım bir gün erdemli bir gazeteci karşısına geçer ve şu soruyu sorar; kendi milletinizin çocukları olan doktorlara \"giderlerse gitsinler, başkalarını buluruz\", suriyeliler için ise \"gitmelerine çok üzülüyoruz\" dedikten sonra türk halkının karşısına çıkmaya veya türk halkının verdiği maaşı almaya devam etmeye hiç utanmadınız mı?\n\nşimdi de gitmesinler diye ev müjdesi veriyor. yazık. hasmımız olan birini 22 yıl önce bu makama getirseydik onun bile bu millete bunları yapmaya yüreği dayanmazdı. düşmanımız bile acırdı bu yoksul ve erdemli halka bunu yapmaya. gerçekten yazık.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "26 aralık 2024 erdoğan'ın suriyelilere ev müjdesi",
+      "entry_id": "171379312",
+      "author": "kucukkenanabritanicayikitapgibiokuyan",
+      "date": "27.12.2024 10:27",
+      "content": "akp'yi suriyeliler başa getirdi anlaşılan.\n\nher gün başka bir rezalet, arapçılıktan bıktım artık.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "26 aralık 2024 erdoğan'ın suriyelilere ev müjdesi",
+      "entry_id": "171379450",
+      "author": "hicliklesonsuzlukarasinda",
+      "date": "27.12.2024 10:35",
+      "content": "kimin parasıyla?\ndemokrasi dağıtan abd ve kör, sağır, dilsizi oynayan ab ülkeleri dururken neden biz? ağzımıza bir parça zehirli bal sürdüler, övgü duymak yaşam gayesi olan başgan da saf saf atıldı öne, yine bizim paramızla.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "ECON",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "26 aralık 2024 erdoğan'ın suriyelilere ev müjdesi",
+      "entry_id": "171379748",
+      "author": "arma yann tiersen",
+      "date": "27.12.2024 10:50 ~ 12:00",
+      "content": "yanlış anlaşılma filan yok, sen daha deprem sonrası kendi ülkende kendi halkına tam teşekküllü hizmet edemiyorken,üstelik de ekonomik olarak memleket yangın yeriyken, gidip elin ülkesinde hakka hizmet showları yaparsan bunu allah dahi yemez size hesap sorar öte tarafta troll kardeş.\n\nhayır bir de utanmadan selam ve dua ile diyor, ne günlere kaldık.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "26 aralık 2024 erdoğan'ın suriyelilere ev müjdesi",
+      "entry_id": "171379793",
+      "author": "vicilantist",
+      "date": "27.12.2024 10:52",
+      "content": "tarih kitaplarına girecek müjde.",
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "26 aralık 2024 erdoğan'ın suriyelilere ev müjdesi",
+      "entry_id": "171379882",
+      "author": "daha sakin olamazdim",
+      "date": "27.12.2024 10:57",
+      "content": "depremzedelerimizin ahı ağır olacak gibi...",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "26 aralık 2024 erdoğan'ın suriyelilere ev müjdesi",
+      "entry_id": "171380027",
+      "author": "gagiev",
+      "date": "27.12.2024 11:04",
+      "content": "orda evi olunca türkiye'den gidecekleri ve geri dönmeyeceklerini sanan mandavallara sesleniyorum.\n\nsiz 10 seneden fazladır isviçre'de iyi kötü yaşıyorsunuz, sonra somali devleti size briket ev yapıyor dönün diye. döndünüz diyelim, somali'de mi yaşarsınız?\n\nhalep kışlık, esenyurt yazlık ev olarak kullanacaklar.\n\nben türkiye'de briket eve razıyım arkadaş. peyder pey dış cephesini kendim yaptırırım. evin içini kendim keser biçer döşerim. hiçbir şey olmasa bile benim evimdir, briket olsun, benim olsun yeter.\n\nde şaşırdık mı? ak parti iktidarı bizim değildir derken boşuna demiyorduk işte.\n\nne bu iktidar bizim iktidarımız, ne bu devlet bizim devletimiz. herkes kendi halkına hizmet ediyor işte...",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY",
+        "ECON"
+      ]
+    },
+    {
+      "title": "26 aralık 2024 erdoğan'ın suriyelilere ev müjdesi",
+      "entry_id": "171380412",
+      "author": "masterteacher",
+      "date": "27.12.2024 11:22",
+      "content": "allah türk e sabır suriyelilere ev nasip etsin...",
+      "has_external_url": false
+    },
+    {
+      "title": "26 aralık 2024 erdoğan'ın suriyelilere ev müjdesi",
+      "entry_id": "171380581",
+      "author": "le le le makine",
+      "date": "27.12.2024 11:29",
+      "content": "o evi de alırlar kiraya verirler gelir türkiyede çalışırlar.\n\ntürk olmak ülkede ne büyük külfetmiş marketteki temel gıdaya zamı geri çekmekten aciz ama suriyelilere ev veriyor. ev şaka değil.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "ECON",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "26 aralık 2024 erdoğan'ın suriyelilere ev müjdesi",
+      "entry_id": "171380630",
+      "author": "321bitti",
+      "date": "27.12.2024 11:32",
+      "content": "evsiz türk'lere karavan istesek ayıp olurmu",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "ECON"
+      ]
+    },
+    {
+      "title": "26 aralık 2024 erdoğan'ın suriyelilere ev müjdesi",
+      "entry_id": "171380881",
+      "author": "hacktor",
+      "date": "27.12.2024 11:42",
+      "content": "suriyelilere ev müjdesi veren hükümet kendi vatandaşına karadeniz açıklarında bilmem kaç metreküplük doğalgaz müjdesi verir, çünkü türk halkına bu müjde yeterlidir, ev'e falan gerek yok seçilmek için.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "26 aralık 2024 erdoğan'ın suriyelilere ev müjdesi",
+      "entry_id": "171380940",
+      "author": "kendine musrik",
+      "date": "27.12.2024 11:45",
+      "content": "suriyeliler'e değil de çorbacı müteahhitlere müjde desek daha doğru olur. şimdiden ellerini ovuşturmaya başlamışlardır.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY",
+        "ECON"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:07:46.024942",
+    "total_entries": 3,
+    "input": "20 kasım 2023 ukrayna italya maçı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "20 kasım 2023 ukrayna italya maçı",
+      "entry_id": "158966310",
+      "author": "konu disi yazar",
+      "date": "20.11.2023 19:17 ~ 19:20",
+      "content": "euro 2024 elemeleri c grubu son hafta maçı,\n\nbu akşam 22:45'te bay arena stadında, almanya'da oynanacaktır (rusya-ukrayna savaşı dolayısıyla).\n\niki takım da 13 puanda ve ingiltere'nin arkasından gruptan çıkacak ikinci takım olmak için ölüm kalım maçına çıkıyorlar.\n\nmaç s sport 2 ve s sport plus kanalında yayınlanacak.\n\nkazanan takımın euro 2024'e katılmaya hak kazanacağı playoff tadındaki bu maç için şöyle bir ek bilgi de vereyim: iki takım arasında oynanan ilk maçı italya'da 2-1 kazanan italya, aynı zamanda genel averajda da rakibinin önünde. yani beraberlik durumunda da italya çıkıyor olacak.\n\nbu akşam ne izlesem diyen futbol severlerin bilgisine.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "20 kasım 2023 ukrayna italya maçı",
+      "entry_id": "158972710",
+      "author": "birahalasoguk",
+      "date": "20.11.2023 22:46",
+      "content": "gruptan çıkma ve direkt şampiyonaya gitmek için çok çetin bir mücadele. ukrayna'nın kesin kazanması lazım. italya berabere de bitse direkt çıkıyor ikili averajdan dolayı.\n\nitalya'mızı destekliyorum futbol kültürü adına. iyi seyirler.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "20 kasım 2023 ukrayna italya maçı",
+      "entry_id": "158975415",
+      "author": "birahalasoguk",
+      "date": "21.11.2023 00:01",
+      "content": "italya'nın baskı yaptığı, şanslar bulduğu ama sonucunda 0 çektiği maç olmaktadır. ukrayna'nın kontradan gol atması şaşırtmaz.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

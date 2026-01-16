@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:31:27.278377",
+    "total_entries": 2,
+    "input": "galatasaray'ın ruslarla dansı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "galatasaray'ın ruslarla dansı",
+      "entry_id": "37333761",
+      "author": "siradan cinko karbon pil",
+      "date": "01.10.2013 10:28 ~ 10:29",
+      "content": "(bkz: galatasaray veliahtının öldürülmesi)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CRIME"
+      ]
+    },
+    {
+      "title": "galatasaray'ın ruslarla dansı",
+      "entry_id": "37337010",
+      "author": "resneli geyik",
+      "date": "01.10.2013 13:36",
+      "content": "(bkz: sen istiyor gol verejek yüz dolar)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CRIME"
+      ]
+    }
+  ]
+}

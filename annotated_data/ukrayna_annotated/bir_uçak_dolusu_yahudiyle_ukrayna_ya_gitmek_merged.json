@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:10:08.241447",
+    "total_entries": 1,
+    "input": "bir uçak dolusu yahudiyle ukrayna'ya gitmek",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "bir uçak dolusu yahudiyle ukrayna'ya gitmek",
+      "entry_id": "70846391",
+      "author": "delikanlininja",
+      "date": "17.09.2017 07:31",
+      "content": "şimdi bir şey söyleyeceğim çaktırmayın ama tel aviv - ukrayna uçağındasınız",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

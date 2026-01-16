@@ -1,0 +1,73 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:08:53.633663",
+    "total_entries": 5,
+    "input": "4 mart 2025 trumpın ukraynaya yardımları kesmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "4 mart 2025 trumpın ukraynaya yardımları kesmesi",
+      "entry_id": "173299285",
+      "author": "bm778",
+      "date": "04.03.2025 03:34",
+      "content": "oval ofisteki tartışma sonrası ingiltereye giderek şovuna devam eden zelenskye sanırım trumpın kafasının sağlam attığını gösteren olaydır.\nbakalım zelensky abnin pek olmayan desteği ve bu tutumu ile ne kadar ömre sahip olacak. bana 3 vakit bile uzun geliyor artık.\n\nzelensky pek diplomasi bilmeyerek aslında trump ve ekibinin başından beri kesmek istediği abd yardımlarını trumpla altın tepside sunup al kes dedi.\n\nbu dondurma istihbaratı da kapsıyorsa ukrayna savaşa kör devam edecektir. rusya askeri istihbaratına ab üstüne ingiltereyi de koysan denk gelmez. savaşın başından beri rus mevzilerini eliyle koymuş gibi abd sayesinde buluyor.\n\ntam olarak açıklamanın çevirisi şöyle:\nbaşkan donald trump, ukrayna’ya yapılacak tüm askeri yardımları durdurma talimatı vererek, ukrayna devlet başkanı volodimir zelenskiy üzerindeki baskıyı artırdı. bu karar, beyaz saray’da ukraynalı liderle yaşanan gerginliğin ardından, ülkenin en önemli müttefikinin desteğini belirsiz bıraktığı birkaç gün sonrasına denk geliyor.\n\nkonuya ilişkin isminin açıklanmamasını isteyen üst düzey bir savunma bakanlığı yetkilisine göre, abd, trump'ın ukrayna liderlerinin barışa samimi bir bağlılık gösterdiklerine kanaat getirmesine kadar, ukrayna’ya yapılmakta olan tüm mevcut askeri yardımları askıya alıyor. yetkili, hâlihazırda ukrayna’da bulunmayan tüm abd askeri teçhizatının – uçaklarda veya gemilerde transit hâlinde olan ya da polonya’daki bekleme alanlarında bulunan silahlar dâhil – durdurulacağını belirtti.",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "4 mart 2025 trumpın ukraynaya yardımları kesmesi",
+      "entry_id": "173300936",
+      "author": "tarihseven",
+      "date": "04.03.2025 07:33",
+      "content": "trump'ın abd'yi müttefiklerine verdiği teminatlardan cayarak, yarım asırdan uzun süredir sürdürdüğü (demokrat-cumhuriyetçi ayrımı olmaksızın) diplomasisini çökertmek yoluyla putin'e çektiği flütün yeni bir zirvesi. trump ekonomik problemleri gümrük koyarak, abd'nin diplomatik duruşundan cayarak çözeceğini düşünecek kadar salak. ab'nin önüne bakarak bu herife takılmadan başının çaresine bakması gerekiyor. adam koskoca article 5'ı parayı vermezseniz uygulamam diyor vay maşallah hukuk bilmez trump diktatör putin abisi için neler yapmıyor ki...",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "4 mart 2025 trumpın ukraynaya yardımları kesmesi",
+      "entry_id": "173301025",
+      "author": "yeterince",
+      "date": "04.03.2025 07:41 ~ 08:10",
+      "content": "kaypaklıktır. amerikan çıkarlarına da hizmet etmez, uzun vadede abd'ye negatif etkileri olacaktır. bu trump, musk ve ekibi herşeyi kendi bastıkları dolar zannediyorlar. esasında dolar onlara sınırsız güç veriyor..tabi doları değerli kılan da güven, istikrarlı oluşu.. güven kısmını muttefiklerini yarı yolda bırakarak yıkıyorlar. bu durumda o çok sevdiğiniz dolar yavaş yavaş tuvalet kağıdına döner..\n\ngöreceğiz.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "ECON",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "4 mart 2025 trumpın ukraynaya yardımları kesmesi",
+      "entry_id": "173301112",
+      "author": "yellowandgray",
+      "date": "04.03.2025 07:52 ~ 07:54",
+      "content": "ülkenin ve yer yer kendimin o kadar derdi var iken umurumda olmayan yardım kesme olayı .\ngörsel",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "4 mart 2025 trumpın ukraynaya yardımları kesmesi",
+      "entry_id": "173301156",
+      "author": "victor saletenko",
+      "date": "04.03.2025 07:57",
+      "content": "hah şimdi oldu.. ne gerek var kavga ediyonuz guzum.\nçin, rusya, abd kolkola skiverin gezegeni. sanki karşı duracak güç var.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

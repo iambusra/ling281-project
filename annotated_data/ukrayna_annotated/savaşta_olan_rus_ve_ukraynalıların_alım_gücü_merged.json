@@ -1,0 +1,108 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:23:47.318567",
+    "total_entries": 6,
+    "input": "savaşta olan rus ve ukraynalıların alım gücü",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "savaşta olan rus ve ukraynalıların alım gücü",
+      "entry_id": "143659359",
+      "author": "chokonut",
+      "date": "08.10.2022 21:04",
+      "content": "yahu bu adamlar savaşta değil mi? antalya başta olmak üzere, biraz eli yüzü düzgün ne kadar yer varsa akın akın geliyorlar. bunlar yüzünden 8-10-15-20 bine yükselmiş kiraları kütür kütür ödüyorlar. patır patır market alışverişlerini yapıyorlar.\n\nulan biz savaşta değiliz, kafamıza bombalar yağmıyor, sıkıyönetim yok, fakat gelirimiz bu iki ülkeye kıyasla acınacak durumda demek ki; adamlar buraya gelip keyif yapıp, hayat kurabiliyorken, biz kendi memleketimizde ayın sonunu zor getiriyoruz.\n\nteşekkürler akepe ve faizle nasıl mücadele edilirmiş bize gösteren partili cumhurbaşkanı.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "ECON"
+      ]
+    },
+    {
+      "title": "savaşta olan rus ve ukraynalıların alım gücü",
+      "entry_id": "143659520",
+      "author": "oric",
+      "date": "08.10.2022 21:07",
+      "content": "avmler dolu ise ekonomi iyidir yanılsamasının uluslararası hali. toplam nüfusları 160 milyon olan 2 ülkeden gelebilen 300-400 bin kişi ile ölçülemeyecek güçtür",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "ECON",
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "savaşta olan rus ve ukraynalıların alım gücü",
+      "entry_id": "143659604",
+      "author": "ophthalmologistman",
+      "date": "08.10.2022 21:09 ~ 21:12",
+      "content": "savaşta olanlar fakir rus ve fakir ukraynalılar olduğu için otomatikman devre dışı kalan güç.\n\nzenginler antalya'da tatilin keyfini çıkarıyor. savaş bitince de isterlerse dönerler.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "ECON"
+      ]
+    },
+    {
+      "title": "savaşta olan rus ve ukraynalıların alım gücü",
+      "entry_id": "143659767",
+      "author": "kifayetsiz histeriz",
+      "date": "08.10.2022 21:12",
+      "content": "çünkü türkiye kendi vatandaşları tarafından hırsızlara peşkeş çekilmiş bir ülkedir. savaşta olsak bu kadar olmazdı, net.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "savaşta olan rus ve ukraynalıların alım gücü",
+      "entry_id": "143660892",
+      "author": "alessio tacchinardi",
+      "date": "08.10.2022 21:38",
+      "content": "az önce haberlerde izledim bi tane rus istanbula gelmiş aylık 15-20 bin aralığından kiralık ev bakıyormuş.ailesini de getirdikten sonra ev alacakmış, tamam aga ev alacak paraları var da bu adamlar ne iş yapacaklar da geçinecekler? bu değirmenin suyu nereden geliyor?",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "ECON"
+      ]
+    },
+    {
+      "title": "savaşta olan rus ve ukraynalıların alım gücü",
+      "entry_id": "143663000",
+      "author": "chokonut",
+      "date": "08.10.2022 22:20",
+      "content": "(bkz: #143660892)\n\ndemek ki ruslarda da 3 maaş + huzur hakkı alan kenelerden var.",
+      "referenced_content": [
+        {
+          "type": "entry",
+          "title": "savaşta olan rus ve ukraynalıların alım gücü",
+          "entry_id": "143660892",
+          "author": "alessio tacchinardi",
+          "date": "08.10.2022 21:38",
+          "content": "az önce haberlerde izledim bi tane rus istanbula gelmiş aylık 15-20 bin aralığından kiralık ev bakıyormuş.ailesini de getirdikten sonra ev alacakmış, tamam aga ev alacak paraları var da bu adamlar ne iş yapacaklar da geçinecekler? bu değirmenin suyu nereden geliyor?",
+          "has_external_url": false
+        }
+      ],
+      "referenced_entry_ids": [
+        "143660892"
+      ],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:05:20.257107",
+    "total_entries": 1,
+    "input": "suriyelilerin ruhsatsız dükkanlarını kapatmak",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelilerin ruhsatsız dükkanlarını kapatmak",
+      "entry_id": "173131433",
+      "author": "bu nick bulunamadi",
+      "date": "26.02.2025 07:15 ~ 07:16",
+      "content": "olması gereken bir durum.\n\naşağıdaki olay yeni değil ama keyif veren şeyler her zaman izlenir. kaliteli, güzel bir film gibi.\n\ngaziantep'te şehitkamil belediye başkanı umut yılmaz denetim yaparak kapatmış. videosu\nburada iyi seyirler.\n\ninşallah bütün belediyeler bütün yolsuluzluklara karşı sıkı denetim yapıp haksız yere kazanç sağlayan, şerefsizlik, çakallık yapan bütün esnafların analarından emdiği sütü burunlarından getirir.",
+      "has_external_url": true,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POLICY"
+      ]
+    }
+  ]
+}

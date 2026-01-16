@@ -1,0 +1,39 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:41:35.113632",
+    "total_entries": 2,
+    "input": "dünya bankası'nın türkiye'deki suriyeliler raporu",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "dünya bankası'nın türkiye'deki suriyeliler raporu",
+      "entry_id": "161477248",
+      "author": "rossman",
+      "date": "12.02.2024 10:29",
+      "content": "disiplinsiz,düzensiz göçe izin vermek (sırf para için) gerçekten akılsızlıktır, ülkeye ihanettir. adamlar keyfi olarak size şu kadar para vereceğiz suriyeli ve kaçak yabancı çalıştıracaksınız diye şart koşuyorlar:) bunu kabul etmek tam anlamıyla aptallıktır. kabul edilmemiş varsayıyorum ama bu şartlar ülkede resmen ajanlık faaliyetlerini devlet izniyle körüklemek olur.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "XENO",
+        "HATE",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "dünya bankası'nın türkiye'deki suriyeliler raporu",
+      "entry_id": "161477319",
+      "author": "yurdagulneanladi",
+      "date": "12.02.2024 10:32",
+      "content": "türkiye türksüzleştirilmek isteniyor işte. yabancı ülkeler de bunun için yatırım yapıyor.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:08:49.820995",
+    "total_entries": 3,
+    "input": "abd'den ukraynayı terk edin çağrısı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "abd'den ukraynayı terk edin çağrısı",
+      "entry_id": "133615972",
+      "author": "ambidextry",
+      "date": "11.02.2022 22:30 ~ 22:36",
+      "content": "beyaz saray, abd vatandaşlarının önümüzdeki 24 ile 48 saat içinde ukrayna'yı terk etmeleri gerektiğini açıkladı. israil de diplomatlarının ailelerini ukrayna'dan çıkarmaları talimatını verdi.\n\nlink\n\nedit: kaynak eklendi.",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY",
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "abd'den ukraynayı terk edin çağrısı",
+      "entry_id": "133616148",
+      "author": "jinxxster",
+      "date": "11.02.2022 22:33",
+      "content": "ww3 coming soon",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "abd'den ukraynayı terk edin çağrısı",
+      "entry_id": "133617071",
+      "author": "nememurualkolbeyy",
+      "date": "11.02.2022 22:53",
+      "content": "boş yere söylemediklerine eminim asıl mevzu biz bundan nasıl etkileneceğiz",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

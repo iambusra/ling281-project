@@ -1,0 +1,37 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:21:37.198333",
+    "total_entries": 2,
+    "input": "italya'da tecavüze uğrayan ukraynalı kadın",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "italya'da tecavüze uğrayan ukraynalı kadın",
+      "entry_id": "141719754",
+      "author": "yorgunadamm",
+      "date": "24.08.2022 03:58 ~ 30.08.2022 03:12",
+      "content": "21 ağustos 2022'de piacenza kentinde ukr.lı bir mülteciye gineli başka bir mülteci sokakta tecavüz ediyor. mülteci tutuklanıyor.\nitalyan liberaller ve solcular bu konuda paylaşım yapan sağcı parti lideri giorgio meloni'ye tepki göstermiş.bunun yanında avrupalı feministlerde videoyu paylaşanları linçliyor. bu olayın ten rengiyle ilgisi olduğunu düşünmüyorum 3. dünya ülkelerinden avrupa'ya kaçak yollarla gelen insanları entegre edeceğiz yalanlarıyla anca kendi akıllarıyla alay ederler. bu dediklerim bizim ülkemiz içinde geçerli türkiye'de yaşayan aklı başında olan her birey bunu bilir.\n\nhttps://twitter.com/…?t=-sgamp6lyogvubdjt1sdzw&s=19",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "CRIME"
+      ]
+    },
+    {
+      "title": "italya'da tecavüze uğrayan ukraynalı kadın",
+      "entry_id": "142754961",
+      "author": "evolucja",
+      "date": "16.09.2022 14:40",
+      "content": "tweet silinmiş, gerçekten çok ilginç.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:28:14.432980",
+    "total_entries": 2,
+    "input": "usa'nın rusları düşürdüğü büyük tuzak",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "usa'nın rusları düşürdüğü büyük tuzak",
+      "entry_id": "134336298",
+      "author": "canito",
+      "date": "28.02.2022 20:10",
+      "content": "(bkz: rusya'nın büyük bir tuzağa çekildiği gerçeği)\n(bkz: rusya'nın tuzağa düşürülmesi)\n(bkz: abd ve ingiltere'nin rusya'yı tuzağa çekmesi)\n\nson 4 günde konuyla ilgili açılan başlıklar. bakalım daha kaç başlık açılacak..",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "usa'nın rusları düşürdüğü büyük tuzak",
+      "entry_id": "134336437",
+      "author": "adlipsikolog13",
+      "date": "28.02.2022 20:14",
+      "content": "ben de katılıyorum rusya şu anda öyle bir duruma geldi ki ne devam edebiliyor ne çekip gidebiliyor yaşadığı yaptırımlar çok ağır yakın zamanda rusya'da bir iç savaş çıkar",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    }
+  ]
+}

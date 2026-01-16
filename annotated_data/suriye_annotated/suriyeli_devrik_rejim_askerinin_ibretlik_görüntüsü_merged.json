@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:48:40.091562",
+    "total_entries": 1,
+    "input": "suriyeli devrik rejim askerinin ibretlik görüntüsü",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeli devrik rejim askerinin ibretlik görüntüsü",
+      "entry_id": "174844510",
+      "author": "portekizli forvet",
+      "date": "26.04.2025 19:49",
+      "content": "merdivenlerden epey yuvarlandığı belli olan bir esed katilinin ibreti alem hâli.\n\nhttps://x.com/…946780?t=hd4jx099qx__a0t-7eqqhg&s=19",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CRIME",
+        "HUMAN"
+      ]
+    }
+  ]
+}

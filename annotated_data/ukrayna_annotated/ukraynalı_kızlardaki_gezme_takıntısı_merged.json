@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:21:29.394192",
+    "total_entries": 1,
+    "input": "ukraynalı kızlardaki gezme takıntısı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukraynalı kızlardaki gezme takıntısı",
+      "entry_id": "143721460",
+      "author": "bunoluyo",
+      "date": "10.10.2022 09:09",
+      "content": "derdini seveyim",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

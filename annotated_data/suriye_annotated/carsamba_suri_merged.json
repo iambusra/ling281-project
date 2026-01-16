@@ -1,0 +1,48 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-10T23:36:16.375151",
+    "total_entries": 3,
+    "input": "carsamba suri",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "carsamba suri",
+      "entry_id": "150352465",
+      "author": "yagmur altinda islanmayan adam",
+      "date": "15.03.2023 12:38",
+      "content": "nevruzdan önceki son çarşamba, azerbaycan'da genelde gençler tarafından coşkuyla kutlanan bir bayram.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "carsamba suri",
+      "entry_id": "150358153",
+      "author": "pey akcesi",
+      "date": "15.03.2023 16:59",
+      "content": "hicri şemsi takvime göre yeni yıldan (newroz) önceki çarşamba gecesi yapılan kutlamalar.\n\nfarsça'çarşamba suri' ya da kürtçe'çarşema sor' olarak bilinen kızıl çarşamba kutlamaları, newroz’dan önceki son çarşamba yapılıyor. bu aynı zamanda iran takvimine göre yılın son çarşambası oluyor.\n\niran takvimine göre yeni yıl 21 mart’ta başlıyor. kutlamalar yakılan 7 ateş üzerinden şarkılar eşliğinde atlayarak gerçekleşiyor.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "carsamba suri",
+      "entry_id": "160149943",
+      "author": "bakalim",
+      "date": "29.12.2023 18:30",
+      "content": "himm demek bizim dag koyumuz bunun hurafesini devam ettiriyormuş.\nmümkün mertebe çarşamba akşamı (salıyı çarşambaya bağlayan akşam) komşuya pişirdiği yemekten bir tabak, oda olmuyorsa kuru ekmeğinden bir tane komşuya gönderirdi. götürmek de çocuklara düşerdi tabi.\n\ne tabi, dağ köylüsü, tarih mi tutacak nevrozdan onceki son çarşamba falan filan.\nhoşunada gitmişse her çarşamba yapmış olabilirler.\npaganlar da bir garip oluyorlar canım. bağbozumu vaktı de kentillerin tili türkçe konuşuyormuş dedem komşusunun delikanlısıyla. gundi ler sizi.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CULTURE"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:43:43.668339",
+    "total_entries": 2,
+    "input": "kürtler vs suriyeliler",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "kürtler vs suriyeliler",
+      "entry_id": "69197602",
+      "author": "nickimdeolmaz",
+      "date": "02.07.2017 21:44",
+      "content": "ıkisini birden defedebiliyor muyuz?",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "kürtler vs suriyeliler",
+      "entry_id": "167868920",
+      "author": "reca93",
+      "date": "29.08.2024 21:55",
+      "content": "kürtler bizdende suriyeliler sıkıntı kürtler bizim öz kardeşimiz ama o pkk ibnesi ayrımcılık çıkarıyor bitene kadar devam",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    }
+  ]
+}

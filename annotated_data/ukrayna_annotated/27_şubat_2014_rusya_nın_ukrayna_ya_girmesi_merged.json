@@ -1,0 +1,60 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:11:01.857946",
+    "total_entries": 4,
+    "input": "27 şubat 2014 rusya'nın ukrayna'ya girmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "27 şubat 2014 rusya'nın ukrayna'ya girmesi",
+      "entry_id": "40742587",
+      "author": "star is tired",
+      "date": "27.02.2014 10:14 ~ 10:22",
+      "content": "götten uydurma yalan haber. bi bok oldugu yok. gündemi sulandirmayin.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "27 şubat 2014 rusya'nın ukrayna'ya girmesi",
+      "entry_id": "40742613",
+      "author": "aykut23",
+      "date": "27.02.2014 10:15",
+      "content": "yalan haberdir.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "27 şubat 2014 rusya'nın ukrayna'ya girmesi",
+      "entry_id": "40742632",
+      "author": "sertur vetan",
+      "date": "27.02.2014 10:16 ~ 10:17",
+      "content": "rusyanın çöpülüğünü karşıtıran abd ve ab'ye ciddi bir cevap verme ihtiyacı hissetmiştir putiş. varsa yanı. yoksa yoktur.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "27 şubat 2014 rusya'nın ukrayna'ya girmesi",
+      "entry_id": "40742863",
+      "author": "unsuz bir turk dusunuru",
+      "date": "27.02.2014 10:31",
+      "content": "her ne kadar tarih yanlis olsa da 1-2 yil icinde gerceklesicek eylemdir. sonucunda ukraynada bolunmeler yasanicak lakin bu kadar basit bir neden 3.dunya savasina neden olmiyacaktir.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    }
+  ]
+}

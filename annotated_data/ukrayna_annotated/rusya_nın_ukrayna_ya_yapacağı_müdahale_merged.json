@@ -1,0 +1,48 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:10:55.972981",
+    "total_entries": 3,
+    "input": "rusya'nın ukrayna'ya yapacağı müdahale",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rusya'nın ukrayna'ya yapacağı müdahale",
+      "entry_id": "42684190",
+      "author": "southadb",
+      "date": "12.05.2014 10:55",
+      "content": "zaten yapılmış olan müdahale .\n(bkz: spetsnaz)\nlink\nhttp://www.bbc.co.uk/…15_ukrayna_bundan_sonra.shtml",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rusya'nın ukrayna'ya yapacağı müdahale",
+      "entry_id": "42687826",
+      "author": "southadb",
+      "date": "12.05.2014 14:03 ~ 14:13",
+      "content": "ukrayna da zaten var olan rus özel birliklerini bilmeyenler için gelsin . kırımda tüm resmi binaların ve askeri üslerin bir kaç tane rus yanlısı ukraynalı milis tarafından ele geçirildiğini sana saflara gelsin .\ndaha kapsamlı bir analiz için\nhttp://www.gazeteci.tv/…rdan-ozel-isler-185378h.htm\nukrayna konusunda natonun ve özelde abd'nın neden bu kadar çaresiz kaldığını anlamayanlar için geliştirici olabilir .\nya da şuradaki haber de aydınlatıcı olabilir en alttaki tümceye dikkat\nhttp://www.gazeteci.tv/…sa-hazirlaniyor-185332h.htm",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rusya'nın ukrayna'ya yapacağı müdahale",
+      "entry_id": "42687896",
+      "author": "doksandokuzuncumerdiven",
+      "date": "12.05.2014 14:07",
+      "content": "(bkz: tıraş)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

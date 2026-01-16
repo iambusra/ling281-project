@@ -1,0 +1,51 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:05:39.310003",
+    "total_entries": 3,
+    "input": "suriyelilerin türkiye mağlubiyeti sevinci",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelilerin türkiye mağlubiyeti sevinci",
+      "entry_id": "166098185",
+      "author": "zoraki kenpachi",
+      "date": "07.07.2024 09:36",
+      "content": "şaşırtmayan sevinç.\n\nbunlar geçici sığınmacı, suriyeli. türkiye ile herhangi bir bağları yok, yarın öbür gün daha beter sorunlar çıkartacaklar. paketlenip, evlerine postalanmaları, sınırların da iyi korunması gerekiyor.\n\nkeza afgan, paki, afrikalı kim varsa evine göndereceksin, türkiyede oturma izni olmayanların barınmasına, çalışmasına izin vermeyeceksin, diğer modern ulus devletlerin yaptıkları gibi. evlilik bağı da otomatik vatandaşlık sayılmayacak, kurallara bağlı olarak belli bir süre sonra değerlendirilecek.\n\nülkemiz zaten ahım şahım bir monolitik bir kültüre sahip değil, bir de bu ne idüğü elirsizlri süpürdüler ülkemize, tamamen millete, ülke kültürüne saldırıdır bu.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "XENO",
+        "HATE",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelilerin türkiye mağlubiyeti sevinci",
+      "entry_id": "166098233",
+      "author": "counteroffensive",
+      "date": "07.07.2024 09:39",
+      "content": "arap kardeşlerimizle aramızı açmaya çalışanların propagandasıdır. üç beş suriyeli yamuk yaptı diye genele yayılamaz. hem nereden biliyoruz bu sevinenlerin suriyeli olduğunu?",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL",
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "suriyelilerin türkiye mağlubiyeti sevinci",
+      "entry_id": "166098330",
+      "author": "damperlikamyonaltindancikankedi",
+      "date": "07.07.2024 09:45",
+      "content": "terbiyesizlik ve şeref noksanlığı içeren hareketler.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CULTURE"
+      ]
+    }
+  ]
+}

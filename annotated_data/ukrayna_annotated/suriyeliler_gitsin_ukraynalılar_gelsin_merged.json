@@ -1,0 +1,38 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:23:18.189161",
+    "total_entries": 2,
+    "input": "suriyeliler gitsin ukraynalılar gelsin",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeliler gitsin ukraynalılar gelsin",
+      "entry_id": "83694060",
+      "author": "oldu ben kalkayim artik",
+      "date": "25.11.2018 22:44",
+      "content": "onlar polonya'da koçum, geçti o tren. hadi başka slava.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyeliler gitsin ukraynalılar gelsin",
+      "entry_id": "101605959",
+      "author": "cheekyguy",
+      "date": "05.02.2020 03:25 ~ 03:34",
+      "content": "ukraynalı çağırınca suriyeli gelirse verecek misin 800'ü?\n\nedit: ne bileyim krizden etkilenmediklerini. dolar 2 lirayken 600'dü.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "ECON",
+        "POLICY"
+      ]
+    }
+  ]
+}

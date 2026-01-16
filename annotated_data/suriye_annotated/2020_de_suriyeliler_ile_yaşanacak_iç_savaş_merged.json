@@ -1,0 +1,26 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T15:29:12.395230",
+    "total_entries": 1,
+    "input": "2020'de suriyeliler ile yaşanacak iç savaş",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "2020'de suriyeliler ile yaşanacak iç savaş",
+      "entry_id": "91137926",
+      "author": "0 5 ucu olan adam",
+      "date": "11.06.2019 09:46",
+      "content": "kaçınılmaz şekilde yaklaşıyor.\ntoplumda, herhangi siyasi partide karşılığını bulamayan (iyi parti/ümit özdağ hariç) bir suriyeli rahatsızlığı var.\nsiyasi parti ayırt etmeksizin tüm vatandaşlar (gerizekalı ümmetçiler/ dahil) suriyelileri ne sokakta ne de apartmanında görmek istiyor.\nhuzurlu şekilde gezilecek sokaklar, sahiller, parklar, bahçeler suriyeliler ve aymaz tavırları ile dolmuş durumda.\n\nve maalesef hiçbir siyasi parti net olarak, amasız şekilde, kurumsal seviyede suriyelileri geri göndermeyi taahhüt etmiyor.\n\nsuriyelilere akan paranın kesilmesi ile hırsızlık/gasp gibi olaylar daha da artacak ve çaresiz vatandaş kendi yöntemlerine başvuracaktır.\nbunun emarelerini son 2 haftadır görmeye başladık. artık suriyeli sorunu, pkk terörünün de ötesinde bir iç güvenlik sorunudur.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "CRIME"
+      ]
+    }
+  ]
+}

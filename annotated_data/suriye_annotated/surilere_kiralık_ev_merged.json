@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T14:55:34.750141",
+    "total_entries": 1,
+    "input": "surilere kiralık ev",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "surilere kiralık ev",
+      "entry_id": "131607535",
+      "author": "brian degil cabin diyeceksin",
+      "date": "27.12.2021 17:39",
+      "content": "fr. des souris et des hommes",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL",
+        "CULTURE"
+      ]
+    }
+  ]
+}

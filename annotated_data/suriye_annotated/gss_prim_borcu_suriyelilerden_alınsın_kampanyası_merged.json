@@ -1,0 +1,26 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T16:02:19.790547",
+    "total_entries": 1,
+    "input": "gss prim borcu suriyelilerden alınsın kampanyası",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "gss prim borcu suriyelilerden alınsın kampanyası",
+      "entry_id": "61657859",
+      "author": "sirgalahad777",
+      "date": "11.07.2016 12:00",
+      "content": "madem ki suriyeli arkadaşlar vatandaş olacaklar. iş aş sahibi olacaklar o zaman buyrun gss denen haracı da ödesinler dediğim kampanya.\n\nyok öyle beleş!\n\nzaten ülkde yasal olarak ikamet eden tüm yabancılardan da bu alınıyor halıhazırda.\n\nama gel gör ki bırak gss'yi, kaçak dükkan işleten suriyeliler normal vergisini bağkur'unu bile ödemiyor.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE",
+        "ECON"
+      ]
+    }
+  ]
+}

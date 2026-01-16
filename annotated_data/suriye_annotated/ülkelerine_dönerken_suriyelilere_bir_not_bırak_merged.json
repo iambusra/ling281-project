@@ -1,0 +1,74 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:13:33.930732",
+    "total_entries": 5,
+    "input": "ülkelerine dönerken suriyelilere bir not bırak",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ülkelerine dönerken suriyelilere bir not bırak",
+      "entry_id": "170859620",
+      "author": "yagmuryagincayanindaolmayansemsiye",
+      "date": "08.12.2024 22:37 ~ 23:04",
+      "content": "kalanlarınızı burada üç kuruşa sigortasız çalıştırılmaya devam edecekler. kızlarınıza da göz koyacaklar.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ülkelerine dönerken suriyelilere bir not bırak",
+      "entry_id": "170861931",
+      "author": "cerkuday19",
+      "date": "08.12.2024 23:43",
+      "content": "gidişiniz olsun da dönüşünüz olmasın.\nbeddua gibi not.:)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "ülkelerine dönerken suriyelilere bir not bırak",
+      "entry_id": "170862150",
+      "author": "fidisikulee",
+      "date": "08.12.2024 23:50",
+      "content": "size terbiyesizlik yapan kemalist yobazlar için özür dileriz. bunlar türk değil türkçe konuşan yahudiler. kusura bakmayın can kardeşler.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE"
+      ]
+    },
+    {
+      "title": "ülkelerine dönerken suriyelilere bir not bırak",
+      "entry_id": "170862966",
+      "author": "durucay",
+      "date": "09.12.2024 00:11",
+      "content": "s. gidin. bi daha da gelmeyin.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "ülkelerine dönerken suriyelilere bir not bırak",
+      "entry_id": "170863664",
+      "author": "bilgisayarkemirgeni",
+      "date": "09.12.2024 00:31",
+      "content": "iyileşmek için ziyagil köşkünde önce misafir edilen sonra zorla temelli yerleşen firdevs hanım gibi ortalığı karıştırdınız. kendisinin final sahnesini paylaşmanız dileğiyle",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    }
+  ]
+}

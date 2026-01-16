@@ -1,0 +1,148 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:48:01.030834",
+    "total_entries": 11,
+    "input": "suriye’nin türkiye’ye vize uygulaması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriye’nin türkiye’ye vize uygulaması",
+      "entry_id": "57049967",
+      "author": "zerdest",
+      "date": "18.12.2015 10:42",
+      "content": "2009 yılından beri uygulamada olan vize muafiyetinin kaldırılması olayıdır.\n\nhttp://www.cumhuriyet.com.tr/…izesiz_giris_yok.html\n\ntürkiye de 9 aralık'ta suriye vatandaşlarına vize uygulamaya başlamış. 3 milyon suriyeli'yi hiçbir güvence olmadan aldıktan sonra yani.",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriye’nin türkiye’ye vize uygulaması",
+      "entry_id": "57050156",
+      "author": "anglosakson",
+      "date": "18.12.2015 10:53",
+      "content": "bütün yaz tatili planlarımı altüst eden uygulamadır.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriye’nin türkiye’ye vize uygulaması",
+      "entry_id": "57050427",
+      "author": "scuddy",
+      "date": "18.12.2015 11:06",
+      "content": "mülteciler hariç onlar dur diyen yok. ama normal vatandaş olup elinde pasaport ile gelene hayır diyoruz",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriye’nin türkiye’ye vize uygulaması",
+      "entry_id": "57050526",
+      "author": "a for axi",
+      "date": "18.12.2015 11:11",
+      "content": "bizden hiç bir provokatörün oraya elini kolunu sallayarak girmemesi içindir. terorizme kaynağın kesilmesi açısından iyi hamle.\n\nergenlerin \"10 milyon turisti etkiler bik.. bik..\" laflarına bakmayın siz. insani minsani yardım hesabına direk etkisiz hale getirilecektir izinsiz girişler.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriye’nin türkiye’ye vize uygulaması",
+      "entry_id": "57054337",
+      "author": "cocainebitches",
+      "date": "18.12.2015 14:45",
+      "content": "türkiye-suriye sınırının follo foş olduğu önüne gelenin cirit attığı son 4 yılda çokta bir anlam ifade etmeyen uygulamadır. (bkz: suriye sınırındaki mayınların temizlenmesi)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriye’nin türkiye’ye vize uygulaması",
+      "entry_id": "176692872",
+      "author": "sanal gezgin",
+      "date": "10.07.2025 09:08",
+      "content": "ana avrat küfretmesinden öte yediği kaba sıçmasıdır.\nvizyonsuz dış politika ile ulusunu alçantanlara kapaktır.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriye’nin türkiye’ye vize uygulaması",
+      "entry_id": "176692891",
+      "author": "oluroylearada",
+      "date": "10.07.2025 09:09",
+      "content": "anlamadığım halen bu ülke sınırları içinde askerlerimiz var, onlar da mı vize alacak?",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriye’nin türkiye’ye vize uygulaması",
+      "entry_id": "176692949",
+      "author": "selective retention",
+      "date": "10.07.2025 09:14",
+      "content": "türkiye olarak bizim ne zaman en azından bazı ülkelere vize uygulamasına geçeceğimizi sorgulatan başlıktır.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriye’nin türkiye’ye vize uygulaması",
+      "entry_id": "176693299",
+      "author": "paranoyak ruh doktoru",
+      "date": "10.07.2025 09:37",
+      "content": "vatandaşlık alan suri ler geri dönmesin diye yapılmıştır. durumu iyi olan dönünce iş kuruyor veya çalışıyor ama başımıza kalan vasıfsız tayfa gelmesin diye böyle bir karar aldılar.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriye’nin türkiye’ye vize uygulaması",
+      "entry_id": "176694401",
+      "author": "svp",
+      "date": "10.07.2025 10:42",
+      "content": "anne ve babası türk vatandaşlığı almasına rağmen vatandaşlığa müracaat etmeyip yös denilen boktan göstermelik bir sınavla üniversitelerin tıp, diş hekimliği gibi bölümlerine yerleştikten sonra türk vatandaşlığına geçen asil ruhlu muhacir kardeşlerimizden bu beklenirdi.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriye’nin türkiye’ye vize uygulaması",
+      "entry_id": "176694859",
+      "author": "cevziyye",
+      "date": "10.07.2025 11:05",
+      "content": "(bkz: bize de mi lo lo lo)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    }
+  ]
+}

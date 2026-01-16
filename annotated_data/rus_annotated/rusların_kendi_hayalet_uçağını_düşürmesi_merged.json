@@ -1,0 +1,49 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:32:29.656145",
+    "total_entries": 3,
+    "input": "rusların kendi hayalet uçağını düşürmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rusların kendi hayalet uçağını düşürmesi",
+      "entry_id": "169026548",
+      "author": "hiperaktf c",
+      "date": "07.10.2024 10:59",
+      "content": "rusların geliştirme aşamasında oldukları, bizim anka 3 tipine benzeyen su-70 okhotnik uçağını düşürmesi durumudur .\niyi tarafından bakılırsa su 57 ile düşürülmüş ilk uçak sayesinde su 57nin atış sistemlerinin düzgün çalıştığını test etmiş oldular.\n\n8 ay kadar önce kendi s400leriyle kendi awacs tipi uçaklarını düşürmelerinden sonra herhalde bir sonraki hedefleri su 57 ile su57 düşürmek veya s400 ile s400 vurmak olacak gibi...\n\nson olarak amerikan mandacısı yavşaklar gelip ruslar tukaka yazmadan belirtelim, abd kendi toprağına birden çok kez, yanlışlıkla atom bombası düşürmüş ve birkaç kere mucize eseri patlama olmaması sayesinde kendi nükleerini yememiş bir devlettir.\n2014ler gibi nükleer sistemleri floppy disketlerdeki yazılımla kontrol ediyorlardı, bütçe ayırmaya da istekli değillerdi, 2024te hatta 2044 yılında bazı nükleer silahları hala floppyler ile kontol ediyor olurlarsa hiç şaşırmam.\n\nyılmaz özdil okuyup beyni sulanan, kaan uçak değildir ki diyerek yerli projelere bok atan bu tipteki yavşaklara özellikle duyurulur...\n\nyılmaz özdilden askeri teknoloji öğrenip akpnin ekmeğine nasıl yağ sürülür hakkında:\n(bkz: yılmaz özdil/@hiperaktf c)",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "rusların kendi hayalet uçağını düşürmesi",
+      "entry_id": "169026653",
+      "author": "zxc123",
+      "date": "07.10.2024 11:04",
+      "content": "başka bir açıdan bakarsak güçlü bir hava savunmaya sahip olduklarının göstergesidir.\n\nbiz kendi dronelarımızı düşüremiyoruz çünkü hava savunma sistemimiz yok, olsa biz de yapardık.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rusların kendi hayalet uçağını düşürmesi",
+      "entry_id": "169026751",
+      "author": "cokonemlidegilzaten",
+      "date": "07.10.2024 11:08 ~ 14:44",
+      "content": "altında yalan yanlış bilgiler verilen başlık.\n\nbizim kendi hava savunma sistemimiz var ve bir çoğu ruslarınkinden daha gelişmiş hava savunma sistemleri.\n\nhalihazırda envanterde olan ve aktif olarak kullanılanlar şunlar:\n\n(bkz: korkut)\n(bkz: sungur)\n(bkz: hisar-a)\n(bkz: hisar-o)\n\nuzun menzilli siper blok-1 de yakın bir zamanda envantere girecek. bunun haricinde aselsan küçük ebatlardaki sihaları önlemek için lazer silah sistemleri de geliştirmektedir.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

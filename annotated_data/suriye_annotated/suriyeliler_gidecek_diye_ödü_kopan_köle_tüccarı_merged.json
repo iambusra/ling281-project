@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:54:46.568644",
+    "total_entries": 1,
+    "input": "suriyeliler gidecek diye ödü kopan köle tüccarı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeliler gidecek diye ödü kopan köle tüccarı",
+      "entry_id": "170880218",
+      "author": "composite bow",
+      "date": "09.12.2024 17:41 ~ 17:42",
+      "content": "üç kuruşa sigortasız çalıştıracak insan bulmakta zorlanacağı için kederlenen işveren. suriyelilerin dönmesinin önünde herhangi bir engel kalmadığı için \"ama ekonomimiz\" diye ağlamaya başlamıştır. 21. yüzyılın köle tüccarıdır.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    }
+  ]
+}

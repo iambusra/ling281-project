@@ -1,0 +1,86 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:24:06.477473",
+    "total_entries": 6,
+    "input": "ukraynalıların savaşmayıp ülkeyi terk etmeleri",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukraynalıların savaşmayıp ülkeyi terk etmeleri",
+      "entry_id": "134362273",
+      "author": "hidrolik adam",
+      "date": "01.03.2022 12:25",
+      "content": "dünya bankası'na göre 44.13 milyon nüfuslu ülke üzerine kasılmış tespitimsidir.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukraynalıların savaşmayıp ülkeyi terk etmeleri",
+      "entry_id": "134362396",
+      "author": "random string",
+      "date": "01.03.2022 12:28",
+      "content": "google'a \"ukrayna nüfusu\" yazamayan adam gelmiş başlık açıyor...",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukraynalıların savaşmayıp ülkeyi terk etmeleri",
+      "entry_id": "134362603",
+      "author": "nickel042",
+      "date": "01.03.2022 12:33",
+      "content": "bunlar yazar biz caylagiz amk",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE"
+      ]
+    },
+    {
+      "title": "ukraynalıların savaşmayıp ülkeyi terk etmeleri",
+      "entry_id": "134363341",
+      "author": "kirkhammet34",
+      "date": "01.03.2022 12:54",
+      "content": "\"savaştan kaçtım\" deyip karısını-kızını memleketinde bırakıp yeşilköy çiroz plajında elinde telefonuyla milletin karısını kızını kayda alırken nargile-bira keyfi yapan sözde müslüman, sinekten daha korkak suriyelilerin taa...\n\nhiçbir ukraynalı bu kadar aşağılık davranmaz, bundan eminim.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ukraynalıların savaşmayıp ülkeyi terk etmeleri",
+      "entry_id": "134363492",
+      "author": "ne deyim de ne soyleyim",
+      "date": "01.03.2022 12:58",
+      "content": "adamlar bim sırasına girer gibi binaya girip kucak dolusu tüfeklerle çıkıyorlar savaşmak için her türlü imkan sunuluyor",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ukraynalıların savaşmayıp ülkeyi terk etmeleri",
+      "entry_id": "134368189",
+      "author": "emresliver",
+      "date": "01.03.2022 15:11",
+      "content": "korkunun, ülkeyi kurtarmak için kalma duygusuna baskın geldiği durumdur. kimse bizim gibi bin yıldır savaşmıyor, topraklarının bir kısmında savaş yok ve haliyle bunun nasıl bir his olup hayatlarının bir kısmında normalleşebileceğine dair fikir sahibi değiller.\nher gün evden işe, işten eve dönen insanlar. hayatları bu rutinin içerisindeyken kalıp savaşmalarını düşünmek, bundan 10 yıl sonra netflix'de çıkacak potansiyel içerik beklentisine sahip insanların romantizminden başka bir şey değil.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

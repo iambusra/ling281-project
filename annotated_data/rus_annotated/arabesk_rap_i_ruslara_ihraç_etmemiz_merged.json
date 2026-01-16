@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:29:59.146509",
+    "total_entries": 1,
+    "input": "arabesk rap'i ruslara ihraç etmemiz",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "arabesk rap'i ruslara ihraç etmemiz",
+      "entry_id": "44056996",
+      "author": "useful bullet",
+      "date": "08.07.2014 19:12",
+      "content": "gerçekleşmiştir, birde türkiye gelişmemiş falan diyorlar (bkz: swh)",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "ECON"
+      ]
+    }
+  ]
+}

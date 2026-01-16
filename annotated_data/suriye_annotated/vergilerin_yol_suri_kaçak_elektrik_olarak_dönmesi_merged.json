@@ -1,0 +1,26 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:13:54.292555",
+    "total_entries": 1,
+    "input": "vergilerin yol suri kaçak elektrik olarak dönmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "vergilerin yol suri kaçak elektrik olarak dönmesi",
+      "entry_id": "113556480",
+      "author": "unchallenged",
+      "date": "27.09.2020 17:17",
+      "content": "tam hali \"vergilerin geçiş garantili yol suri ve kaçak elektrik olarak dönmesi\" olacaktı fakat sınıra takıldı.\n\nmerak edenler için açıklayayım:\n\ngeçiş garantili yol: toplanan vergilerle yapılmayan yollar onun yerine işlet devret diye garabet bir sistemle yapılıyor ve vatandaşın sırtına yüksek fiyatlı yol ve geçiş ücreti olarak biniyor.\n\nsuri: malum sürekli arantan sayıda suriyeliler (kadın başına 5.3 çocuk) devletten ya destek alıyor ya da kaçak çalışıp vergiden kaçıyor. neden oldukları ekonomik kayıp yine vatandaşın sırtına vergi yükü olarak biniyor.\n\nkaçak elektrik: devletin görmezden geldiği kaçak elektrik kullanımı sebebiyle oluşan ekonomik kayıp da maalesef vergi veren vatandaşın sırtına biniyor.\n\nsonuç olarak \"...ama vergiler sana yol su elektrik olarak geri dönecek.\" lafı eskidendi. dönmüyor işte amk. dönmüyor.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE",
+        "ECON"
+      ]
+    }
+  ]
+}

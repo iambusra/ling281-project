@@ -1,0 +1,49 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:09:33.057714",
+    "total_entries": 3,
+    "input": "türk psikologlar derneğinin suriye açıklaması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türk psikologlar derneğinin suriye açıklaması",
+      "entry_id": "173507349",
+      "author": "yetkin99",
+      "date": "11.03.2025 18:14",
+      "content": "13 yıl boyunca esed insanları katlederken, gazze'de çocukların üzerine bomba yağarken susan utanmazlarin iş kendi mezhepdaslarina gelince bireylerde ve toplumdaki ruh sağlığı akıllarına gelmiş.\nhttps://x.com/…274805?t=dh9v3sqiy7ccd1afv172ew&s=19\nsiz insanlıktan nasibini almamış yaratıklarsiniz. aynı ülkede yaşamaktan utanıyorum.",
+      "has_external_url": true,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "türk psikologlar derneğinin suriye açıklaması",
+      "entry_id": "173507490",
+      "author": "mobedan",
+      "date": "11.03.2025 18:21 ~ 18:26",
+      "content": "din savaşları için mesai harcadınız, baktınız oluru yok şimdi \"mezhep savaşları\" için mesai harcıyorsunuz.\n\naleviliği, mezhep olarak görme cehaletine bir şey demiyorum.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "türk psikologlar derneğinin suriye açıklaması",
+      "entry_id": "173507674",
+      "author": "sistemenickbegendiremiyorum",
+      "date": "11.03.2025 18:31",
+      "content": "burada fikrimi yazmak istiyorum ama linç yemekten korkuyorum. linçleyeceklerini düşündüğüm kitle de, kendini aydın olarak tanımlıyor! yani bir tarafta elindeki kamusal güçle, kendi gibi düşünmeyenleri ezenler; diğer tarafta gücü eline almak isteyen, fakat kendi gibi düşünmeyenleri topluluk gücüyle ezenler. eee ne anladım bu işten?\n\ntanım: t.p.d.'nin \"tüm insanlar eşittir ama aleviler daha da eşittir\" algısı uyandıran sosyal medya gönderisi.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:26:10.080817",
+    "total_entries": 3,
+    "input": "brock'un kemer'de rus kızı kovalaması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "brock'un kemer'de rus kızı kovalaması",
+      "entry_id": "23002818",
+      "author": "bugunku antremanda goz dolduran futbolcu",
+      "date": "12.04.2011 02:27 ~ 02:49",
+      "content": "pokemon eğitmenlerinde aradığını bulamayan brock'un abazanlığını giderme yöntemidir.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "SEXUAL"
+      ]
+    },
+    {
+      "title": "brock'un kemer'de rus kızı kovalaması",
+      "entry_id": "23002842",
+      "author": "hullabaloo",
+      "date": "12.04.2011 02:30",
+      "content": "zamanında kızsızlıktan pokemonlara dadanan brock'un yapacağı şaşırtıcı eylem.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "SEXUAL"
+      ]
+    },
+    {
+      "title": "brock'un kemer'de rus kızı kovalaması",
+      "entry_id": "23194448",
+      "author": "the mighty arms of atlas",
+      "date": "24.04.2011 13:57",
+      "content": "alnının kenarından ter damlaya damlaya gezer. ama sıcaktan değil.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

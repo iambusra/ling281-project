@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:08:10.091070",
+    "total_entries": 1,
+    "input": "taksim meydanında suriyelileri dağıtan adam",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "taksim meydanında suriyelileri dağıtan adam",
+      "entry_id": "140926750",
+      "author": "day zero",
+      "date": "05.08.2022 20:58",
+      "content": "buradan görülebilir:\n\nvideo\n\n15 temmuz'a falan girmeyeydi iyiydi.",
+      "has_external_url": true,
+      "sentiment_numeric": 4,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

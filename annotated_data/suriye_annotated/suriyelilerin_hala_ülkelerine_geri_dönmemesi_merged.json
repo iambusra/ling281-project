@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:04:31.315964",
+    "total_entries": 1,
+    "input": "suriyelilerin hala ülkelerine geri dönmemesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelilerin hala ülkelerine geri dönmemesi",
+      "entry_id": "177891112",
+      "author": "gordonmilne",
+      "date": "26.08.2025 23:20",
+      "content": "gündemden düşmüş vahim olay.\n\ntürk halkına zorla suriyeli baktırdılar. suriye'de savaş bitti ama hala suriyeliler sokakta fink atıyor.\n\nkimse de demiyor ki bunlar neden gitmiyor.\n\nneden gitmiyor kardeşim, biz evimizden ekmek teknemizden olacağız bunlar hala ağa gibi yaşıyor.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    }
+  ]
+}

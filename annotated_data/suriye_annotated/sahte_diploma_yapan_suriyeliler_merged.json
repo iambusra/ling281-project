@@ -1,0 +1,62 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:44:50.574801",
+    "total_entries": 4,
+    "input": "sahte diploma yapan suriyeliler",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "sahte diploma yapan suriyeliler",
+      "entry_id": "167864289",
+      "author": "guerra",
+      "date": "29.08.2024 19:14",
+      "content": "hassa hüsso isimli suriyeli muhacir kardeşlerimiz, “hazır hicret ettik, türklerin cahiliye dönemini hızlıca bitirelim” mottosuyla sahte diploma hazırlayıp, satmaya başlamış. böylece türk milleti, okul diploması almak için yıllarını heba etmesin, hızlıca tahsilini artırmasını istemişler.\nfakat bu faso fiso kardeşler yakalanmış. ceza olarak da türk vatandaşı olup, adalet bakanlığında yeminli tercüman olmuşlar. bunlar yeminine ne kadar inanılır bilinmez ama burası türkiye.\n\nhttps://x.com/…973706?s=46&t=35jhs9xmhpm5cxj-u8rfow",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "CRIME"
+      ]
+    },
+    {
+      "title": "sahte diploma yapan suriyeliler",
+      "entry_id": "167864369",
+      "author": "hayat ekspresi",
+      "date": "29.08.2024 19:17",
+      "content": "oo ödül almışlar suç işleyip",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CRIME"
+      ]
+    },
+    {
+      "title": "sahte diploma yapan suriyeliler",
+      "entry_id": "167864620",
+      "author": "mutlulukicimde",
+      "date": "29.08.2024 19:29",
+      "content": "(bkz: yetmez ama evet)\n(bkz: rabbim sayılarını artırsın)\n\ndestekliyorum. iyi yapmışlar.\nbunlar daha iyi günleriniz..\n\nah atam ah, gör vatanı emanet ettiğin gençliği..",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "sahte diploma yapan suriyeliler",
+      "entry_id": "167864701",
+      "author": "serendiptytr",
+      "date": "29.08.2024 19:32",
+      "content": "görselde diploma falan görmedim daha çok kurs bitirme belgesi gibi bir şeye benziyor.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:25:24.563794",
+    "total_entries": 1,
+    "input": "geneleve rusa giderken evdeki türkten olmak",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "geneleve rusa giderken evdeki türkten olmak",
+      "entry_id": "33942335",
+      "author": "kirazmevsimi",
+      "date": "18.05.2013 15:36",
+      "content": "rusyaya karı kıza giderken, sonunda üçün birine kalmak, şeklinde de söylenebilecek cümle.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

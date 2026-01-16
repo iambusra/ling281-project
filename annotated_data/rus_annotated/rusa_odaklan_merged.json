@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:25:35.132641",
+    "total_entries": 2,
+    "input": "rusa odaklan",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rusa odaklan",
+      "entry_id": "24813028",
+      "author": "pick",
+      "date": "04.08.2011 21:06",
+      "content": "klasik bir türk erkeği iç sesi.\n\n-rus mu, hani?",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "rusa odaklan",
+      "entry_id": "24814575",
+      "author": "catapultam habeo",
+      "date": "04.08.2011 22:58",
+      "content": "(bkz: gülücüğe odaklan)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

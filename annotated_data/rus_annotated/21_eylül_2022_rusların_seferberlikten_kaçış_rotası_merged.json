@@ -1,0 +1,2495 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:34:11.244527",
+    "total_entries": 186,
+    "input": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142978052",
+      "author": "16f877a",
+      "date": "21.09.2022 20:55",
+      "content": "bir haftada kiev kilisesi'nde çanları çaldırma sözü verip aylardır rezillik üstüne rezillik yaşayan küçük enişte putin'in seferberlik çağrısından kaçan rusların durumudur.\n\nlink\n\nbizim şehadet arzusuyla yanıp tutuşan bedellici siyasal islamcıları da hatırlatmıyor değil: görsel, şehadet aşkı, ...dedi ve londra'ya uçtu",
+      "referenced_content": [],
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142978275",
+      "author": "tatar ramazan",
+      "date": "21.09.2022 21:00",
+      "content": "aklıma hababam sınıfını getiriyor.\n(bkz: kenefimiz tarihinin en kalabalık gününü yaşıyor)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142978306",
+      "author": "denizci14",
+      "date": "21.09.2022 21:01 ~ 21:03",
+      "content": "afganistan da taliban başa gelir. askerleri buraya gelir. rusya savaşa girer. savaştan kaçanlar buraya gelir. suriye'de iç savaş çıkar, savaşmak istemeyenler buraya gelir.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142978397",
+      "author": "burayakacharfsigiyor",
+      "date": "21.09.2022 21:03 ~ 21:29",
+      "content": "bir siz eksiktiniz amk dediğim olay. sap rus erkekleri gelecek al işte başına belayı.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142978454",
+      "author": "better call sabire",
+      "date": "21.09.2022 21:05",
+      "content": "evindeki ocakla twitch yayını yapan rus salağının da içlerinde olup olmadığını merak ettiğim uçuşlar.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142978466",
+      "author": "watashi wa kami da",
+      "date": "21.09.2022 21:05",
+      "content": "antalya'da ev kiralarını iyice uçuracak durum.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "ECON"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142978525",
+      "author": "kalabalik adam",
+      "date": "21.09.2022 21:06",
+      "content": "ipini koparan neden buraya geliyor.\n\noğlum memleket kasıyor artık. gelmeyin gidin başka yerde oynayın\n\nsunucular full doldu",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142978592",
+      "author": "yedinci element",
+      "date": "21.09.2022 21:08 ~ 21:10",
+      "content": "türk rus ve surilerin bir araya geldiği 2 yer, biri suriye öbürü bura aw.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142978623",
+      "author": "nickimi getirin ulen",
+      "date": "21.09.2022 21:09",
+      "content": "izmir değildir. demek ki neymiş, izmir fanboylarının iddia ettiğinin aksine dünyanın en güzel şehri izmir değilmiş.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142978716",
+      "author": "kotakbaslar",
+      "date": "21.09.2022 21:11 ~ 21:16",
+      "content": "erdoğan yurt dışında topa kafa atmayla uğraşacağına memleket meselelerine kafa yormayı öğrenseydi bunlar başımıza gelmezdi",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142978724",
+      "author": "ikipirekareboluyedi",
+      "date": "21.09.2022 21:11",
+      "content": "kadınlar zaten fazla deyip de kadınları harcarlarsa sorun çıkar ona göre. o kadar da değil putin.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142978768",
+      "author": "faultier",
+      "date": "21.09.2022 21:12 ~ 21:13",
+      "content": "emin olmamakla birlikte trinidad ve tobago rotasını kullanacaklarını tahmin etmekteyim.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142978792",
+      "author": "banayasal",
+      "date": "21.09.2022 21:13",
+      "content": "hayali rus kızlarıymış birilerinin, siz katışıksız birer geri zekalısınız. rus kızları da size geliyordu ya! allahın abazaları.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142978833",
+      "author": "260611",
+      "date": "21.09.2022 21:14",
+      "content": "ulan inşallah uzayda savaş filan çıkmaz, bide uzaylı mültecilerle uğraşmayalım.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142979021",
+      "author": "eksici yazar",
+      "date": "21.09.2022 21:18",
+      "content": "ülkeyi iyice yol geçen hanına döndürdüler. araplar savaşır milyonlarca arap gelir, ruslar savaşır yüzbinlerce rus gelir. buna bir dur diyelim diyen kimse yok! halk ise ilginç bir şekilde duruma sessiz kalıyor. bu kontrolsüz göç yüzünden ileride ülke geri dönülemez şekilde bölünecek, çünkü gelenlerin çoğu dönmüyor. günümüzde durum bu kadar kötü olmasına rağmen geleceği, evlatlarını ise kimse düşünmüyor. çocuklarınıza paramparça bir ülke bırakıyorsunuz. çok yazık gerçekten.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142979064",
+      "author": "desperate husband",
+      "date": "21.09.2022 21:19",
+      "content": "ulen ahali ukraynalı hatunları beklerken, ayyaş rus erkekleri akın etmeye başlamış ülkeye. vallahi komik",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142979093",
+      "author": "tepisken",
+      "date": "21.09.2022 21:20",
+      "content": "gelsinler...en son çarlık rusyası yıkıldığında güzel bi dalga gelmişti. ülke denize girmek nedir, pavyon nedir, eğlence nedir o dönemde öğrenmişti. yoksa sığır gibi takılıyorduk.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142979099",
+      "author": "herdevrinmuhalifi",
+      "date": "21.09.2022 21:20",
+      "content": "bir siz eksiktiniz amk",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142979115",
+      "author": "nemrut kafasi",
+      "date": "21.09.2022 21:20",
+      "content": "saçmalamayın ağırlıkla tatilci rotası bu.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142979139",
+      "author": "asiruzgar",
+      "date": "21.09.2022 21:21",
+      "content": "bu gidişle küçük abd olucaz.\n\netnik yapı bakımından*",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142979148",
+      "author": "afropunk",
+      "date": "21.09.2022 21:21",
+      "content": "başka bir şey bulamıyorum artık\n\ngörsel",
+      "referenced_content": [],
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142979164",
+      "author": "al bundy vs el kaide",
+      "date": "21.09.2022 21:21",
+      "content": "rusların sonunda sıcak denizlere indiği görülen rotadır.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142979180",
+      "author": "uber insan",
+      "date": "21.09.2022 21:22",
+      "content": "antalya kiralık temiz kelepir ev (30 yıllık) 15.000 tl hayırlı olsun.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142979187",
+      "author": "brunoanthony",
+      "date": "21.09.2022 21:22",
+      "content": "en sevmediğim yazar tipi hit için böyle ucuz algı peşinde koşan tipler.\n\npaylaştığı linkte herhangi bir haber yok. yalnızca havada uçan uçaklar var. normal bir uçak radarından milletin savaştan kaçtığını nereden anladınız?",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142979267",
+      "author": "birgezegenli",
+      "date": "21.09.2022 21:24",
+      "content": "ulan bu kavimler göçü neden hep anadolu'da bitiyor? hani küresel dünya? dünya, türkiye'den büyük? gidin başka yerlere.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142979298",
+      "author": "fifovesekate",
+      "date": "21.09.2022 21:24",
+      "content": "biz çıkalım rahat edersiniz .",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142979388",
+      "author": "haykavis",
+      "date": "21.09.2022 21:27",
+      "content": "savaşmak istemeyen heriflerin (suriye+afgan+rus), en güçlü devletlerle savaşılarak elde edilmiş bir ülkenin toprağına doğru kaçmaları bir tek bana mı ironik geliyor?!\n\nbazen diyorum bizim erkeklere mi güveniyor bunlar nedir?",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142979409",
+      "author": "jquery nokta noconflict",
+      "date": "21.09.2022 21:27 ~ 21:34",
+      "content": "yavas kacsinlar, az once 18-65 yas arasi erkeklere bilet satisi yasaklanmis\n\nkaynak\n\nedit: imla",
+      "referenced_content": [],
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142979437",
+      "author": "heart beats harder",
+      "date": "21.09.2022 21:28",
+      "content": "ya burası otel mi amına koyim bari para verin amk",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142979480",
+      "author": "demeler",
+      "date": "21.09.2022 21:29",
+      "content": "flight radari ac, rusyadan kalkan ucaklara bak.\n\nne bu simdi, ek sefermi koymuslar. sanirsin gece gunduz rusyadan kalkan ucaklari sayiyor. ne garip insanlar var.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142979536",
+      "author": "nick mick yok lo",
+      "date": "21.09.2022 21:31",
+      "content": "ülkenin girişine \"damsız girilmez\" yazmak lazım.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142979538",
+      "author": "eksiturk",
+      "date": "21.09.2022 21:31",
+      "content": "ümit özdağ bayıldı",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142979547",
+      "author": "77ojjkkg77",
+      "date": "21.09.2022 21:31",
+      "content": "çoğu ülkemize gelecek tabi ki",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142979559",
+      "author": "canavar geliyor kacalim",
+      "date": "21.09.2022 21:32",
+      "content": "çok ibretlik bir olay olmaya doğru giden durum. rus kızı rus kızı diyen türk erkekleri rus erkeklerine türk kadınını kaptırmasa bari.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142979622",
+      "author": "geodude",
+      "date": "21.09.2022 21:33",
+      "content": "valla biz de bir tane rus yazilimci cocuk aldik son dakika golu. on numara da calisiyor, hintlinin eline verir.\n\nbatan geminin mallari bunlar, geeeeel!!!",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142979643",
+      "author": "firt emin",
+      "date": "21.09.2022 21:34",
+      "content": "akdeniz hattı emlakçılar ve ev sahipleri kira fiyatlarını güncellemeye başladı bile... kiralar 20-30 katına yükselir.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "ECON"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142979851",
+      "author": "umitsizseniz umit sizsiniz",
+      "date": "21.09.2022 21:39",
+      "content": "antalya'da kiracı olarak s.çtık.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142979918",
+      "author": "dusunenbiyik",
+      "date": "21.09.2022 21:40",
+      "content": "bilen bilmeyen atlamış.\n\n1. derece flightradar bağımlısı olarak söylemeliyim ki günlük olağan hava yolu trafiği. moskova değil de rastgele bir şehirden çıkış yapan tarifeli uçaklar filtrelense benzer bir görüntü ortaya çıkardı.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142979927",
+      "author": "some things are best left unsaid",
+      "date": "21.09.2022 21:40",
+      "content": "yıllardır jeopolitik konumumuz şöyle önemli,böyle avantajları var falan diye derslerde işledik tünelin ucu bombok biyere çıktı amk nerde asker kaçağı var ülkeye doluştu.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142979944",
+      "author": "kahverenk",
+      "date": "21.09.2022 21:41 ~ 22.09.2022 00:26",
+      "content": "diktatörlük böyle sikko bir sistemdir işte.. putin ukrayna'ya girerken bu işin öncesi sonrası doğru düzgün tartışıldı mı? rus iş dünyası, sivil toplumu vesaire bu işe ne dedi? rusya putin dışında toplumsal olarak bir irade gösterse belki ukrayna'ya girmek bizim aleyhimize olacak bu serüvene girmeyeyim diyebilirdi. diktatör putin için farketmez onun hayat kalitesi standartı düşmedi ancak rus halkının çok fena şekilde ebesi s.kildi.\n\ncümleye girerken dediğim gibi; diktatörlük çok sikko bir sistemdir. bir adam (putin) 7 ayda koskoca rus halkının a.. koydu. ülkenin yemediği ambargo kalmadı şimdi de putin rus halkının ve gençlerinin günlük yaşamını direkt olumsuz etkileyecek kararlar almak zorunda kaldı..\n\ningiltere'de, amerika'da veya gelişmiş diğer demokrasilerde ülke yönetimine gelenler ülke yönetimiyle ilgili kararlar alırken çok küçük parçaları değiştirebilirler, tek başlarına veya dar bir kadroyla böylesi büyük kararlar alamazlar.. bu da ülkenin ve halkın çıkarına bir durumdur.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142979994",
+      "author": "salazar",
+      "date": "21.09.2022 21:42 ~ 21:47",
+      "content": "ev fiyatlarını inanılmaz arttıran hadise.\n\nantalya'dan bildiriyorum: oturduğum sokakta türkçeden çok rusça konuşan insanları duyuyorum. türk kalmadı. savaş çıktığından beri böyle. arapça konuşanlar yerine ruslar tercihimdir ama kira fiyatları inanılmaz arttı. bir evin aylık kira bedeli 10 kat falan arttı. insanlar ev sahipleri ile kanlı bıçaklı oldular. evlerinden çıkartılıyor herkes. haklarını bilenler direniyor. sürekli kavga var.\n\nedit: rusça reklam panoları falan var hatta. ev kirası olayına da şunu söyleyeyim: geçen sene 2000 liraya oturduğunuz evi bu sene 9 bin liradan aşağı bulmanız imkansız. konum: güzeloba.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "ECON"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142980018",
+      "author": "2 d",
+      "date": "21.09.2022 21:43",
+      "content": "aynı hataya düşmeyin ey antalya halkı. kiraya ya da satılık ev vermeyin. para için yapmayın.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142980066",
+      "author": "blue10",
+      "date": "21.09.2022 21:44",
+      "content": "bir gece yatağıma yattığımda rahat uyuyayım sürekli bir göç dalgası bir ekonomi bir işsizlik ben çok yaşayacağımı sanmıyorum arkadaşlar.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "ECON"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142980085",
+      "author": "ttilaab13",
+      "date": "21.09.2022 21:44 ~ 21:50",
+      "content": "şehre ayrı bir renk gelir, keko rap'ten gına gelenlere parkları adidas eşofmanlarıyla rus hardbassı doldurur.\n\ngerçi rusyada her zaman fakirler kesimler savaşa yollanır, özellikle etnik kesimler en ön saflara yerleştirilir.\n\nbochka bass kolbaser",
+      "referenced_content": [],
+      "has_external_url": true,
+      "sentiment_numeric": 1,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142980099",
+      "author": "mrbirds",
+      "date": "21.09.2022 21:45",
+      "content": "dünya'nın mülteci çöplüğü enter.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142980322",
+      "author": "saint or sinner",
+      "date": "21.09.2022 21:50",
+      "content": "aynı şekilde ukrayna'lıların da ülkemizde q8 audi'leriyle arz-ı endam ettiklerini hatırladığımız flight radar rotasıdır. birileri karayolunu birileri hava yolunu tercih etmişlerdir.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142980358",
+      "author": "megas aleksandros",
+      "date": "21.09.2022 21:50",
+      "content": "oğlum doğru söyleyin hedef biz miyiz?\n(bkz: hedef ben miyim tayfun)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142980417",
+      "author": "popdroid oyuncu",
+      "date": "21.09.2022 21:52",
+      "content": "bu antalyada ne var abi? hepsi oraya geliyor. tek yazlık orası mi andavallar",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142980430",
+      "author": "gazliyarimfenasalmis",
+      "date": "21.09.2022 21:52",
+      "content": "sanılanın aksine türkiye değil, güneydoğu asya’dır. phuket ve bali rus’a doyacak bu sene.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142980442",
+      "author": "macenas",
+      "date": "21.09.2022 21:52",
+      "content": "(bkz: gel gel panayır var)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142980511",
+      "author": "sim4y",
+      "date": "21.09.2022 21:54",
+      "content": "ne boktan bir coğrafyada yaşadığımızın göstergesidir. japonya gibi uzakta olmak vardı. dünyanın bir ucu, kara ile direk bağlantısı yok.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142980562",
+      "author": "grobeton",
+      "date": "21.09.2022 21:55",
+      "content": "birileri eğitimli rusları bekleye dursun, bizim memleketin havasından buranın serbest bir yer olduğunu anlayıp kroluğa başlıyorlar suriyelileri aramayız inş",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142980595",
+      "author": "qxpdxb",
+      "date": "21.09.2022 21:55 ~ 22:09",
+      "content": "ben bunları daha önceden yazmışım: #141417968\n\nuçakla gelen hadi neyse de özel araçları ile yurda girişleri yasaklanmalı. buralarda bunlar yüzünden artık kiralık ev, gidecek yol, araba park edecek yer kalmadı. sıcak denizlere inmek için bahane arayan bir milletin ilk fırsatta tatil dışında bir nedenle antalya'ya akmasıdır.\n\nkaçmak yasakmış diyen arkadaşlara rusya ve ukrayna'da rüşvetin ne kadar yaygın ve doğal bir uygulama olduğunu hatırlatmak isterim.",
+      "referenced_content": [
+        {
+          "type": "entry",
+          "title": "rus-ve-ukraynalilarin-ozel-araclari-ile-hicreti",
+          "entry_id": "141417968",
+          "author": "qxpdxb",
+          "date": "17.08.2022 10:02",
+          "content": "malum bu iki ülke savaş halinde ve bir şekilde kaçıp ülkemize kapağı atan bolca vatandaşı mevcut. antalya ve özellikle alanya'da artık neredeyse trafikteki araçların dörtte biri bu plakalı araçlardan oluşuyor. hem de öyle bizimkiler gibi sıradan araçlar da değil, tank gibi devasa cipler, son moda lüks araçlar.\n\nbilenler bilir, alanya özeli için arazi çok değerli olduğu için yollarımız eğri büğrü, dar, her yerden herşeyin çıkabildiği, bildiğiniz bilgisayar oyunu gibi trafiğin olduğu bir yerdir. yani burda araç kullanabilen her şehirde sorunsuz kullanabilir. bu rus ve ukraynalılar kendi şehirlerinde mahalle aralarında bile devasa yollarda araç kullanmış, votkayı su niyetine tüketen, dikkatsiz, umursamaz, geniş insanlar.\n\nbu muhacir kardeşlerimiz alanya'da tek tük görülürken bile çok kez kazaya karışmış, namları almış yürümüştü. şimdi çok sayıdalar ve çoğu yol bilmez, iz bilmez, navigasyon yardımı ile bir yerden bir yere gitmeye çalışan, kural tanımaz şekilde trafikte yer alıyorlar. park sorunu da cabası. önceden yerliye bile yetmeyen park yerine bir de bu tanklar parkedilmiyor mu, al sana kriz. zaten son yıllarda yerli turist bile özel aracıyla tatile geliyor ve yazın alanya yaşanmaz bir yer haline geliyordu.\n\nnacizane düşüncem olarak yapılması gereken, artık bu muhacir kardeşlerimize ülkemize giriş izni verilirken özel araçla gelmeyin denmesi, kısıtlanması lazım. kaldırmıyor artık, buralar zaten yetersizdi, şimdi kanser seviyesine geldi. yakında o video sitelerindeki rus kaza videolarının buralarda olması işten değil, hatta oluyor da.",
+          "has_external_url": false
+        }
+      ],
+      "referenced_entry_ids": [
+        "141417968"
+      ],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142980666",
+      "author": "ruyasinda hindistan i goren fil",
+      "date": "21.09.2022 21:57",
+      "content": "la oğlum, her şeye sazan gibi hemen nasıl atlayabiliyorsunuz dediğim hede.\n\nmoskova'nın rutin uçuş trafiği bu. 1 günde insanların hemen uçak bulup ek sefer koyup siktir olabileceğini mi sanıyorsunuz siz?",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142980819",
+      "author": "appreciated",
+      "date": "21.09.2022 22:00",
+      "content": "ben neye dayanarak bu ucuslari seferberlikle iliskilendiriyorsunuz anlayamadim. dun aciklanan seferberlikten sonra moskova'dan veya tum rusya'dan turkiye'ye bugun konulan ekstra bir ucus yok.\n\nyani seferberlik oncesi gunlere de bakarsaniz ayni sayida ucus goreceksiniz cunku ucan havayolu sayisi belli, ucabilen ucak sayisi da zaten kisitli yaptirimlardan dolayi.\n\nha eger kara yoluyla ulkemize girislerde ekstrem bir artis varsa o daha rasyonel bir veri olabilir. onunla alakali bir iddia goremedigim icin yorum yapamiyorum.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142980829",
+      "author": "pasion",
+      "date": "21.09.2022 22:00 ~ 22:05",
+      "content": "içinde üç adet havalimanı bulunan bir şehirdeki günlük uçuş rotası.\n\n(bkz: sazan.avi)\n\nduyan da her vatandaşın kendi jeti var ona atlayıp kaçıyor sanır. adam kaçmak için kendine ek sefer koyabiliyor misal, devlet de öyle izliyor.\n\nsakin olun rusya' da da jeti olmayanlar askere alınacak, bizden farklı bir durum yok orada da.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142981089",
+      "author": "utdlegend",
+      "date": "21.09.2022 22:06",
+      "content": "antalya'da alanya'da multeci olmak. lukse bak.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142981101",
+      "author": "kendibilir",
+      "date": "21.09.2022 22:06",
+      "content": "türk kadını türk kadını dediniz, türk kadınları araplarla rus erkekler arasında kaldı.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142981102",
+      "author": "mortalgoal",
+      "date": "21.09.2022 22:06",
+      "content": "(bkz: savaşı biten çıksın beyler kasıyor)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142981272",
+      "author": "ahtera07",
+      "date": "21.09.2022 22:10",
+      "content": "döşemealtı da uçmuş varsak da uçtu dağlara mı kaçalım günde 4 saat yol çekeriz artık!",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142981353",
+      "author": "sekerlibuzlucay",
+      "date": "21.09.2022 22:12",
+      "content": "antalya ve mersin deki kira ve konut fiyatları iyice yükselir artık:(",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "ECON"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142981379",
+      "author": "angeldust3",
+      "date": "21.09.2022 22:13",
+      "content": "ülke koca bir metrobüse döndü ve o metrobüsün sahiplerine içeride yer yok.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142981490",
+      "author": "vycanismajoris29",
+      "date": "21.09.2022 22:15",
+      "content": "hoş gelmişler sefa gelmişler.\ngel ne olursan ol yine gel...",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142981665",
+      "author": "bilal reyiz",
+      "date": "21.09.2022 22:19",
+      "content": "yaran rota.\n\nburada paso putin propagandası yapan rusçular rusya'dan gelen apaçileri evlerine alsınlar bu iş huzur içinde çözülsün.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142981683",
+      "author": "leolominadze",
+      "date": "21.09.2022 22:20",
+      "content": "dünyanın en aptalca propaganda tweeti için açılmış bu başlıkta, yazarların hiç sorgulamadan olay gerçekmiş gibi sayfalarca yorumda bulunması gerçekten çok şaşırtıcı.\n\nadam moskova'dan \"kalkan\" tüm uçuşları filtreleyip \" kaçış rotası\" demiş. niye? uçaklar kaçar gibi mi kalkıyor? çok mu alelacele geldi gözüne? kalkan uçakların büyük bir kısmı da yine doğu rusya taraflarına dağılıyor. normalde de zaten kaç tane uçak iniyor moskova'dan antalya'ya.\n\naynı mantıkla aç flight radar denen programı, moskova'ya \"iniş\" yapan uçakları filtrele, sonra da şöyle yaz; seferberlik sonrası ruslar anavatanı savunmak için moskova'ya akın ediyor.\n\nbu ne kadar saçma ve yalansa, ilk yayınlanan da o kadar saçma ve yalan.\nhe seferberlikten kaçanlar var mıdır? muhakkak vardır. belki azlar, belki çoklar bilemem. şu kesin bir gerçek ki bu görüntü bunun ispatı değil, çarpıtmadır. her önünüze konulanı, önünüze konulduğu gibi yemeyiniz. azıcık sorgulayıp, kurcalayınız.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142981698",
+      "author": "bir sigara ver bos olsun",
+      "date": "21.09.2022 22:20",
+      "content": "ülkemizde ajanlar cirit atıyor ve atacak. aaah ah..",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142981815",
+      "author": "onlyreal",
+      "date": "21.09.2022 22:22 ~ 23:31",
+      "content": "rusyadan kacan tipler gayet niteklikli insanlar. umarim bu seferde gecen suriyeden kacanlarin doktorunu, muhendisini egitimlisini almanya ve kanadaya kaptirip apache ve hayvanlarini almayiz\n\nbu sacma salak suriyeli doktorlara dusecegiz diyen gerizekalilar vardi, lan butun dunya doktor gelsin diye oluyor adam senin aylik $1000 etmeyen maasina mi kaldi!!!",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142981837",
+      "author": "smallbir",
+      "date": "21.09.2022 22:23",
+      "content": "rusların seferberlik çağrısı yüzünden neden kaçtığı değilde dünyada kendi ülkesinden kaçma kararı alan tüm başka ülke vatandaşlarının neden doğrudan türkiye'ye geldiğini sormak daha mantıklı.\nsanırım ülke sınırı, hudut sisteminin bir tek bizim ülkemizde kalktığını çok iyi bildikleri içindir.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142981868",
+      "author": "sirjohn",
+      "date": "21.09.2022 22:23",
+      "content": "batı medyasının uydurmasıdır. urra!",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142981903",
+      "author": "korpe dimag",
+      "date": "21.09.2022 22:25",
+      "content": "anadolu yarimadasi cografi olarak dogal bir kopru. oncelikle bu gercegi sindirmelisiniz. zira yakin zamanda asya'dan yogun bir iklim multecisi akini yasanacak ve bunlarin buyuk kismi avrupa'ya ulasabilme umuduyla ta daa anadolu'ya yigilacaklar.\n\nbu topraklari bekleyen bu yeni durumu sogukkanlilikla kavramaya baslamali, en akilci cozumleri bugunden kurgulamaliyiz.\n\nve fakat bugun ortamimiza bakinca insan haliyle post apokaliptik dunyaya hazirlanmaya basliyor.\n\nhakkimizda hayirlisi.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142981950",
+      "author": "allasiz kozmonot",
+      "date": "21.09.2022 22:26",
+      "content": "bizde savaşta olsak ve bizde de seferberlik ilan edilse aynı durumlar yaşanır. imkanı olanlar soluğu yurtdışında alır. kimse savaş istemiyor, savaşmak istemiyorsa demek ki.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142981962",
+      "author": "savklis",
+      "date": "21.09.2022 22:26",
+      "content": "(bkz: putin düşünmüştür bunları)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142982026",
+      "author": "ff0000",
+      "date": "21.09.2022 22:27",
+      "content": "winrar gibi ülkeyiz amk. sıkışın beyler, gopnikler geldi.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142982150",
+      "author": "shutthefuckupdude",
+      "date": "21.09.2022 22:30",
+      "content": "piçler kaçarken bile sıcak denizlere iniyorlar.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142982166",
+      "author": "izzetaltn",
+      "date": "21.09.2022 22:30",
+      "content": "türk kürt zaza laz afgan suri paki afkira ve son olarak rusya ile dünya karması olduk",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142982364",
+      "author": "hayatkadini",
+      "date": "21.09.2022 22:34 ~ 22:40",
+      "content": "rusların kaçış rotasını bilmem ve ilgilenmem de ama marmaris'te şu an çok büyük bir orman yangını var, onun hızla ve şiddetle ilerlediği rota belli, köyceğiz yaban hayatı geliştirme sahası. ayıların karakulakların yaban keçilerinin yaşadığı yer. o çocukların kaçış rotası beni rusların kaçış rotasından çok daha fazla ilgilendiriyor. sadece ülkemizde cayır cayır yanan bir milli ormana ait başlık bulamadığım için rota vs görünce buraya yazmak istedim.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142982518",
+      "author": "ikinci mudur",
+      "date": "21.09.2022 22:38 ~ 22.09.2022 06:20",
+      "content": "haftasonu antalya'ya tatile gidecektim. ama ne hikmetse eylül ayinin sonu olmasına ragmen oteller dolu olduğundan rezervasyon yaptıramadim. su mevsimde oteller nasil dolu olur diyordum ki bu haberi gördüm.\n\nnasil bir ulkede yasiyorsam, afgani, pakisi, surisi, rusu .... gelip benden daha iyi bir hayat yaşıyor burada.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142982538",
+      "author": "sira kaynatan adam",
+      "date": "21.09.2022 22:38",
+      "content": "her bok bizi etkiliyor amk.her bok.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142982583",
+      "author": "yanciya bir oralet",
+      "date": "21.09.2022 22:39",
+      "content": "ve konut fiyatları çıldırır…",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "ECON"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142982638",
+      "author": "kurtinindeki adam",
+      "date": "21.09.2022 22:40 ~ 22:48",
+      "content": "bildiğim yaz dönemi rusya-türkiye uçuşları bu herkesin ülkeden kaçtığını falan iddia etmek saçmalığın daniskasıdır. evet rusya'dan kaçmak isteyen insanlar var oldu da lakin kalkıp uçakla gelen herkesin rusya'dan kaçan mülteciler olduğunu iddia etmek tam bir beyinsizliktir.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142982644",
+      "author": "whyphy",
+      "date": "21.09.2022 22:40",
+      "content": "ülke haberlerdeki çöp evlere döndü ne varsa dolduruyorlar hımnaaa",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142982742",
+      "author": "fizik kimya biyoloji",
+      "date": "21.09.2022 22:42",
+      "content": "ruslar cok turk dover",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142982846",
+      "author": "bokabasanniyazi",
+      "date": "21.09.2022 22:45",
+      "content": "paylaşılan video tamamen algı ve saçmalık, sadece rusya'dan uçan uçakların görüntüsü eee yani?. aynı şekilde türkiye'den rusya'ya uçan uçaklara baksak savaşa koşuyorlar mı diyecez?. aptal aptal algı yapmaya çalışılıyor 10 sayfa da yorum yapılmış.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142982957",
+      "author": "candyfloss",
+      "date": "21.09.2022 22:47",
+      "content": "putin gibi diktatörler, iran’daki olaylar vs hepsi tek bir gerçeği gösteriyor, demokrasi olmayan yerde huzur da refah da yok.\nbu seferberlik-yersen yarı seferberlik hali- putin’in sonunu getiren taşların döşendiği yol olacak.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142982962",
+      "author": "tayyibinejdermeyvelismoothiesi",
+      "date": "21.09.2022 22:47",
+      "content": "bir kaç yıl sonra ilginç bir gen sentezi ortaya çıkacak türk, suri, afgan ve rus karışımından. araya bir doğu asyalı filan da atalım bari böyle olmaz.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142982973",
+      "author": "bambarbia kirgudu",
+      "date": "21.09.2022 22:47",
+      "content": "kaynak da'ukrayna kazanacak' temasıyla yayın yapan bir twitter adresi.\n(bkz: akıl-fikir)\n\nbaşlığı açan tipe de laflar hazırladım da neyse kalsın şimdilik.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142982986",
+      "author": "indigoloji",
+      "date": "21.09.2022 22:47",
+      "content": "yine her zamanki gibi açık kapı politikası falan içimize kaçacak.\n\navrupa birliği aylardır dünya ülkelerine vize vermiyor. adamlar yaklaşan global tehlikenin farkında.. bizde üç kuruş döviz girecek diye önüne gelene kapıyı açık tutuyoruz.\n\nkendi insanının barınma, gıda ihtiyacının resmen sömürülmesine çanak tutuyoruz. aferin böyle devam",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142983194",
+      "author": "chickpealostinhell",
+      "date": "21.09.2022 22:51",
+      "content": "bu haber ne kadar dogru bilemiyorum ancak google'a gore rusya'nin nufusu 144 milyon. kacmaya hazir milyonlar oldugu gibi savasmaya hazir milyonlar da vardir herhalde.\n\nwashington post'un son dakika haberlerine gore seferberlik cagrisi uzerine simdiye kadar 300,000 kisilik bir ordu toplanmis. putin yaptigi son konusmada, rusya'nin toprak butunlugunun tehlikede oldugunu iddia ederek nukleer silah kullanmaktan cekinmeyeceklerini soylemis. tam olarak soyle demis: “ulkemizin toprak butunlugu tehlike altindayken rusya'yi ve milletimizi korumak icin, elimizdeki her turlu araci tabii ki kullanacagiz, bu blof degil.”\n\nucuncu dunya savasi na dogru surukleniyoruz gibi…",
+      "referenced_content": [],
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142983474",
+      "author": "drunken sailor",
+      "date": "21.09.2022 22:57",
+      "content": "çok basit bir araştırma ile (2,5 sn) gerçek olmadığı anlaşılacak bir l*boş algısı.\n\naynen kardeşim rusya amı götü dağıttı yarın itibarıyla moskovada abdyi temsilen türk bayrağı dalgalanıyor allahın izniyle.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142983569",
+      "author": "hakiki soda",
+      "date": "21.09.2022 23:00",
+      "content": "benim anlamadığım ukrayna'dan da bu tarafa geliyorlar rusya'dan da. taksim'de kafa kafaya çarpışacaklar sanırım.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142983622",
+      "author": "humuslupilav",
+      "date": "21.09.2022 23:01",
+      "content": "yakışıklı rus erkekleri geliyor.\nnoldu? kız gelir diye bekliyordunuz.tc erkeğini üzen haber.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142983759",
+      "author": "lonelinessforget",
+      "date": "21.09.2022 23:04",
+      "content": "size en basitinden bir olay anlatayım. benim edki işyerinde bir suriyeli çocuk vardı ve ukraynalı bir kız ile türkiye'de evlendi. ve ikisi de türk vatandaşlığı aldı.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142983768",
+      "author": "cornettonundramatiksonu",
+      "date": "21.09.2022 23:04 ~ 23:05",
+      "content": "an itibariyle antalya'da kiralık evde oturanlar.\n\numarım üstteki arkadaşların bahsettiği gibi algıdır yoksa önce biz antalya'da yaşayanlar sonrasında da domino etkisi gibi tüm illerde yaşanacak yeni dalga emlak krizlerinin habercisidir.",
+      "referenced_content": [],
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "ECON"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142983797",
+      "author": "karsiyakanin karsisi",
+      "date": "21.09.2022 23:04",
+      "content": "yakında giderler, rus erkekler zorluklara karşı sabırsız ve tembeldirler. burada çoğu para kazanmayacak ve başka ülkelere gidecekler.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142984031",
+      "author": "okumaktan gozlerim kizardi",
+      "date": "21.09.2022 23:10",
+      "content": "antalya da kiraları 1 yıllık peşin ödemedikleri sürece ev bulmaları zor gözüküyor.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "ECON"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142984072",
+      "author": "unanochedeverano",
+      "date": "21.09.2022 23:11 ~ 22.09.2022 12:48",
+      "content": "antalya’da otoparklarda rus ve ukrayna plakalı araçlar bir arada. orda savaşıp burada kardeş kardeş yaşıyorlar. bu hikayede yanan da artan kiralarla türk vatandaşları oluyor:(\n\nedit:imla",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "ECON"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142984247",
+      "author": "nayninibom",
+      "date": "21.09.2022 23:15",
+      "content": "bir siz eksiktiniz he gelin",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142984392",
+      "author": "illakiadalet",
+      "date": "21.09.2022 23:18",
+      "content": "antalya'da 1+1 ev kiraları 20 binlira olur artık",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "ECON"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142984462",
+      "author": "stormdog",
+      "date": "21.09.2022 23:19",
+      "content": "sığınmacı toplama deposuna döndü ülke.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142984573",
+      "author": "ladyjusticed",
+      "date": "21.09.2022 23:22",
+      "content": "piyango bize vurmuş kızlar şimdi onlar düşünsün:) ben turuncu istiyorum:)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142984600",
+      "author": "blackknight18",
+      "date": "21.09.2022 23:22",
+      "content": "(bkz: kabile savaşı çıksa mızrak bizim götümüze girer)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142984640",
+      "author": "ucurbizipilli",
+      "date": "21.09.2022 23:23",
+      "content": "savaş denizin ötesinde oluyor derdini biz çekiyoruz amk yerinde.\n\nbilmiyorum planlı mı yapılıyor tüm bunlar ama antalya'nın kıyı şeridi ve merkezi yerler neredeyse rus-ukrayna kombinasyonunun elinde.\n\ntabi senin benim gibi sıradan vatandaş toki'den ev çıksa da kepezin ücra yerine yerleşsek diye ahmak hayaller kuruyoruz. çünkü aç gözlü, fırsatçı mal sahibi mülkünü rus'a ukrayna'lıya dolar karşılığı satmanın peşinde ve git gide şehir merkezinde bu popülasyon büyük oranla yükseliyor.\n\nyarın öbür gün burada da bir olay olduğunda putin benim orada vatandaşım var diyip buraya da el atmazsa ben bir şey bilmiyorum.\n\nkendi elimizle veriyoruz topraklarımızı.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "ECON"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142984740",
+      "author": "onlar insansa ben hayvanim",
+      "date": "21.09.2022 23:25",
+      "content": "insanlarda cidden algı eksikliği var. ulan ruslara laf söyleyecek yerde, türkiye'deki akıl almaz vurgunlara, yolsuzluklara, mafyatik düzene, cinayetlere laf söyleyin. otoriter devletlerde gösteri yapmak, iktidara kafa tutmak, savaşa karşı olmak kolaymış gibi muhalif ruslar şeytanlaştırılıyor. adamlar ecdatlarının vatanlarını terk etmekle, istemedikleri bir emperyal savaşta piyon olmak arasında ikilem yaşıyorlar. ben rus vatandaşı olsam, ben de yedek asker olarak cepheye gitmek istemezdim. tayyip sudan sebeple yunanistan'a, ermenistan'a savaş açsa yine o savaşa katılmak istemezdim. dün rus muhaliflerin ab ülkelerine sığınmalarına izin verenler, bugün bu adamlara kapılarını kapamaya çalışıyorlar. bu zihniyet yüzünden tüm rusları içlerine kapanmaya ittiklerinin farkında değiller.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142984817",
+      "author": "afropunk",
+      "date": "21.09.2022 23:27",
+      "content": "https://twitter.com/…?s=46&t=geveodvkq7dmzapkoghydg\n\nseferberlikten kaçan ruslar,gürcistan sınır kapısında uzun kuyruklar oluşturdu",
+      "referenced_content": [],
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142984830",
+      "author": "hsrtklr",
+      "date": "21.09.2022 23:27",
+      "content": "gelmeyen mülteci halk girmeyen kazık kalmadı.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142984927",
+      "author": "null",
+      "date": "21.09.2022 23:29",
+      "content": "antalya rus doldu bir anda...",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142984955",
+      "author": "simdibidakika",
+      "date": "21.09.2022 23:30",
+      "content": "ülke ülke değil titanic'teki filika sanki. acil durumda herkes bize yükleniyor.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "ECON"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142985113",
+      "author": "hayrabolupehlivani",
+      "date": "21.09.2022 23:34",
+      "content": "bugün moskva/dubai bileti tek yön 20.000 usd gördü bu gözler 30 kişi de özel uçak sordu",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142985157",
+      "author": "olgunisik",
+      "date": "21.09.2022 23:35",
+      "content": "en son ukraynalılar kaçıp gelmişti antalya'ya. şimdi de ruslar aşırı sayıda geliyor. eninde sonunda bir yerlerde karşılaşacaklar.\nondan sonra gelsin kavga gürültü. araya biraz da çeçen vb.ekledikmi tamamdır.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142985220",
+      "author": "odinees",
+      "date": "21.09.2022 23:36",
+      "content": "antalya'da 12 dairesi ve 1 villası bulunan arkadaşımın an itibariyle 31 çekerek izlediği kaçış rotasıdır.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "ECON"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142985546",
+      "author": "justfight",
+      "date": "21.09.2022 23:44 ~ 23:59",
+      "content": "son sayfada herhangi bir bilgi yer almayan başlık neredeyse.\n\nsaçma sapan, abuk subuk entry giriyor millet.\nedit: hala abuk subuk yazılar. nasıl kafalar var anlamıyorum. tamam çok komiksiniz. en zeki sizsiniz, yersek(!)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142985657",
+      "author": "matapara",
+      "date": "21.09.2022 23:46",
+      "content": "hala rusyadan günde bilmem kaç bin uçuş olduğunu, normal vs olduğunu söyleyen kekolar var. (bkz: putin bunu düşünmüştür)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142986073",
+      "author": "hosnunun yabisi",
+      "date": "21.09.2022 23:56",
+      "content": "global bir ülke değiliz derken tuhaf bir global ülke olduk lan.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142986113",
+      "author": "webya",
+      "date": "21.09.2022 23:57 ~ 22.09.2022 00:25",
+      "content": "açılın rusya'dan bildiriyorum.\nbir defa flight radardan moskova'dan kalkan uçakları göstermek çok komik, çünkü ek sefer mi koydular hemen millet toparlandı gidiyor bu çok gerçekçi bir kaçış hikayesi değil.\nşu an durum şöyle, 35 yaş altı erkekleri bazılarına telefon ile çağırmak suretiyle eğitime alıyorlar.\nve ne kadar doğru bilmemek ile birlikte ilk önce sonradan vatandaş olanları alıyorlar.\nyani şu an kaçan, kaçmaya çalışan ruslar değil, sonradan vatandaşlığa geçmiş kişiler ki bunlar da çoğunlukla türk.\nkonu kilit.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142986129",
+      "author": "tupacisnotdead",
+      "date": "21.09.2022 23:57",
+      "content": "allah için bu insanları da istanbula doldurmayın kasıyo artık şehir",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142986294",
+      "author": "izmirdekisonboyoz",
+      "date": "22.09.2022 00:00",
+      "content": "oh be sonunda keko adidas eşofmanlarım değerlencek. 17 yıldır bu günü bekliyordum.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142986512",
+      "author": "terapistemin",
+      "date": "22.09.2022 00:04",
+      "content": "rota oluşturuldu, hedef antalya kesin.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142986609",
+      "author": "manyahlanbu",
+      "date": "22.09.2022 00:06",
+      "content": "hayat kısa, ruslar uçuyor...",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142986723",
+      "author": "lostcocuknevo",
+      "date": "22.09.2022 00:09 ~ 00:12",
+      "content": "antalyada kira durumları kötü olacak.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "ECON"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142986833",
+      "author": "omardamar",
+      "date": "22.09.2022 00:12",
+      "content": "biz şimdi naneyi yemedik mi",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142986891",
+      "author": "thor44",
+      "date": "22.09.2022 00:13",
+      "content": "olmayan rota. geçen haftaki flight radar verileriyle birebir aynı. uçakların yarısından çoğu antalya'ya giden rus turistler.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142986910",
+      "author": "serefsizim aklima gelmisti",
+      "date": "22.09.2022 00:13",
+      "content": "sadece paylaşılan video üzerinden yapılan algı tam bir gerzeklik önce bunu söyleyeyim.\n\nvatandaş rusya'dan kalkan uçakları flightradar24 tarzı bir siteden filtreleyip akabinde bunu hızlandırıp video haline getirmiş. ee neymiş herkes kaçıyor. benim şeker kardeşim aynı şeyi istanbul'dan kalkan uçaklar için de yaparsan bu sefer vay herkes istanbul'dan kaçıyor mu diyeceğiz şimdi? buna direk balıklama atlayıp yorum yapanlar da az salak değil onu da belirteyim ek olarak.\n\nbu arada insanlar gerçekten kaçıyor olabilir. kimse durduk yere orduya alınmak falan istemez tabii fakat ben bunun aptalca bir video ile iddia edilişine kızıyorum.\n\ntanım: sadece bir video üzerinden yapılan saçma sapan bir algı.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142986992",
+      "author": "cezm",
+      "date": "22.09.2022 00:15 ~ 01:10",
+      "content": "görünüşe göre sadece petersburg'dan geliş var moskova'ya onlar da aktarma yapmak için geliyor.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142987094",
+      "author": "nickerman",
+      "date": "22.09.2022 00:18",
+      "content": "şu görüntüyü izleyipte hakkaten seferberlikten kaçıldığını düşünen de ne bileyim. ilan edildiyse seferberlik bu sabah edildi, ne yani thy bir anda filosunu buraya mı kaydırdı da trafik artışı oldu. elbette kaçmak için biletlere sarılan olmuştur, fiyatları da uçurmuştur, ancak bu öyle bir günde oluverecek bir kaçış yoğunluğu olamaz. gerçekten kaçış olsa, rus polisi de elinde çiçeklerle kaçmaya çalışanları uğurluyor olmazdı heralde.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142987141",
+      "author": "greejin",
+      "date": "22.09.2022 00:19",
+      "content": "adamların kartları vs.si geçmiyor. para kullanamıyorlar. kaçmaları da saçmalık kiii, russian mafia deneyimine hazır mısınız? 100 dolar için gırtlak kesen adamlar bunlar.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142987155",
+      "author": "morg bekcisi",
+      "date": "22.09.2022 00:19",
+      "content": "savaşmak istemeyen, barışçıl, medeni tüm insanların sığındığı türkiye.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142987276",
+      "author": "darthomaul",
+      "date": "22.09.2022 00:22 ~ 00:47",
+      "content": "dota, csgo, heartstone, wow gibi yüzlerce oyunda bizleri kanser eden ezik, küfürbaz, karaktersiz, hayatsız, toxic, quiter, flamer, booster, feeder,beyinsiz gamerlar ile yüzleşme vakti geldi. insanlıktan nasibini almamış bu hayvanlar bizlere az çektirmedi.\nbu laleler aradaki mesafenin çok olmasına güvenip her türlü hayvanlığı yaptılar ancak devran döndü şimdi aynı ülkedeyiz . bekle beni 5000 dolarlık dota2 turnuva final maçında *quit atan namussuz \"pavlik \"... turnuva gruplarında kendisi ban yedi diye takım arkadaşlarını da banlattıran ezeli düşmanım.. hayallerimi elimden aldın,buraya gelirsen yaptıklarının hesabını soracağım...\n\nedit: adamın ülkesi seferberlik ilan etmiş bu mal, cyka blyadddd steam da online gözüküyor .",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142987427",
+      "author": "nyarla",
+      "date": "22.09.2022 00:25",
+      "content": "ulan daha dün rüyamda seferberlik ilan edildiğini ve askere çağrıldığımı gördüm. sabah da rusyanın seferberlik ilan ettiğini öğrendim.\n\nhayır, bir de çeçen kökenliyim, dedem rusyadan gelmiş amk. beni çağırmayın lan, işim gücüm var.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142987649",
+      "author": "sdtgrym",
+      "date": "22.09.2022 00:30 ~ 00:32",
+      "content": "istanbul bir zamanlar spor başkenti oldu, kültür başkenti oldu... hatta son yıllarda sağlık turizminde de öncü oldu ama artık savaş artığı başkentine döndü.\n\ntebrikler. ülkesinde olay çıkanların ilk tercihi artık burası. resmen enkaz yeri olduk.\n\nedit: imla",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142987741",
+      "author": "markut",
+      "date": "22.09.2022 00:32",
+      "content": "meltem mahallesindeki 3+1 evimi kiraya vermek üzereyken, beni bir kez daha düşünmeye sevk etmiş hadise. bundan iki sene önce 2000 lira ederi olan ev, geçen hafta 8000 liraya görücüye çıktı. ama şu linkteki uçak seyrüseferi herşeyi değiştirmiş durumda.\nhele az daha bekleyelim bakalım yiğen.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "ECON"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142987849",
+      "author": "eatpraycoffee",
+      "date": "22.09.2022 00:34",
+      "content": "gelmeyin ya gelmeyin artık istemiyoruz sizleri de suriyeliler afganlarıda gelmeyin artık.\nbize zaten ruslarında çapulcusu gelir.\nülke insan çöplüğüne döndü.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142987981",
+      "author": "geceleri bir saat uyuyor",
+      "date": "22.09.2022 00:37",
+      "content": "dünya tarihinde 100 yıl sonra okutulacak bir projenin ortasında olduğumuzu, canlı canlı şahitlik ettiğimizi gösteren rota. sadece ülkemizdeki iyi niyetli insanlara ve gençlere acıyorum. onun dışında tüm bu yapılanların örtülü ya da örtüsüz destekçisi olan kimseye acımıyorum.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142987987",
+      "author": "nedenillanicklazim",
+      "date": "22.09.2022 00:37",
+      "content": "rus kızı beklerken rus erkeklerinin ülkeye gelmesiyle bizim türk erkeklerine ters köşe olmuş resmen.\n\nartık biz ivan’larla evleniriz .d\n\nşaka şaka gelmeyin oğlum ülkemize. dolduk taştık. kiralık ev bile bulamıyoruz. bizim halimiz de iyi değil. gidin kendinize başka bir ülke bulun.\ncidden bazı şehirler var ya. hangi sokağından girerseniz girin sizi meydana çıkarır. bizim ülke de aynısı. kim nerden giriyorsa türkiye’den çıkıyor resmen.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142988017",
+      "author": "jonsnoww",
+      "date": "22.09.2022 00:38",
+      "content": "açılın şimdi şöyle bir hikaye geldi kulağıma. belaruslu bir kız arkadaşımın anlattıgına göre rus 22 yaşında asker bir arkadaşı afganistandaki görevindeyken bir anda mariupol'e götürmüşler helikopterle. çocuk orda savaşmayı reddederek istifa etmiş ve rusyaya dönmüş. çocugun imzaladığı damgayı gösterdi. bayağı bayağı reddetmiş savaşmayı. şimdi de hapse girmemek veya öldürülmemek için belarus üzerinden antalya yapıp yeni bir hayat kuracakmış. çok garip bir yer oldu antalya. iyi mi kötü mü bilmiyorum.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142988064",
+      "author": "unanochedeverano",
+      "date": "22.09.2022 00:39",
+      "content": "avrupa okumuş yazmış parası olan türk vatandaşlarına tatil vizesi bile vermezken buraya ipini koparan elini kolunu sallayarak geliyor. gelmekle kalmıyor ev alıyor, arsa alıyor. yakında kendi ülkemizde yaşayacak yer bulamayacağız.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142988224",
+      "author": "belki de ben yolumu kaybettim",
+      "date": "22.09.2022 00:44",
+      "content": "20 sene önce iç göçü sorunsallaştırırken, nerelerden nerelere geldik. sanki kendi içimizde çok barış içinde yaşayan bir milletmişiz gibi, bir de gelen gelene. gelsinler bakalım. filmin nasıl biteceğini ben de çok merak ediyorum.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142988250",
+      "author": "ditia",
+      "date": "22.09.2022 00:44",
+      "content": "şimdi ruslar savaştan kaçmak için geliyor, avrupalılar doğal gaz falan yüzünden geliyor. doğu sınırı desen zaten herkes geliyor. ülke birleşmiş milletlere döndü amk",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142988389",
+      "author": "volusianus",
+      "date": "22.09.2022 00:48",
+      "content": "vay anasını antalya rus memleketi olacak yakında. 10 uçaktan 9'u oraya iniyor.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142988426",
+      "author": "kartalbafilerrr",
+      "date": "22.09.2022 00:48",
+      "content": "madem s.s. gelecekler,\neski defterleri açıp afganları afganistana veya herhangi bir yere paketleseler bari.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142988504",
+      "author": "gobekoren",
+      "date": "22.09.2022 00:50",
+      "content": "ev kiraları, gıda, kıyafet, kırtasiye, okul, hastane, postane....\nher yerde sıra her yerde kalabalık, her yerde yine zam bekleyin artık\nesenler otogarı tuvaletinin bile girişi paralıyken ülkenin sınırları bedava follaş oldu.\norta asya'ya göç etmekten başka çaremiz kalmadı gerçekten.kazakistan' ın çölleri bekle beni.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "ECON"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142988882",
+      "author": "bi nick bulsam gerisi kolay",
+      "date": "22.09.2022 01:01",
+      "content": "bele vaziyyetin içine soxum",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142989025",
+      "author": "osuslu12",
+      "date": "22.09.2022 01:06",
+      "content": "arap dışı herhangi bir milletin mültecisinin türkiye'de yaşayabileceğini zannetmiyorum. bizim memleket araplara cennet.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142989329",
+      "author": "nightbluex",
+      "date": "22.09.2022 01:15",
+      "content": "bi siz eksiktiniz sizde gelin abi çekinmeyin. rus yok demeyiz.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142989346",
+      "author": "somurtkan antepli",
+      "date": "22.09.2022 01:15 ~ 09:29",
+      "content": "rusları, kendiyle karıştıranların algısı.\naşırı milliyetçiler ve büyük bölümü sorgusuz şekilde putin ne derse onu yapacaktır.\n\nçılgınlığın ve cesaretin diğer adı rus'tur. ben içlerindeyim uzun zamandır. çocuklarına bebek iken milliyetçiliği aşılıyorlar.\nmutlaka içlerinden kaçacak olan vardır ama bu sayının %5'i bulacağını sanmam. rusya'da bulunan birçok rus olmayan kişiler var. kaçanlar muhtemelen onlardır. bizdeki çürük elma onlarda da vardır ama dediğim gibi %5'i bulmaz.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142989454",
+      "author": "ognizamaz",
+      "date": "22.09.2022 01:19 ~ 01:20",
+      "content": "antalyalıyım ve antalya havaalanına geldim bugün bir iş sebebiyle ve gördüğüm manzara karşısında şoka girdim. resmen ruslar ele geçirmiş gibilerdi. eğer ülkemizde mülteci istemiyorsak kusura bakmayın rus mülteci de istemiyorum. inanın arap-müslüman'lar göreceli olarak bence biraz laftan anlıyorlar. bunlarda o da yok hepsi izbandut gibi ellerinde vodka şişesi antalya club, pub, bar ve gece sokaklarında eziyet görüyoruz resmen.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142989826",
+      "author": "bm778",
+      "date": "22.09.2022 01:33",
+      "content": "1. si bu bildiğiniz klasik seferberlik öncesi olan seferler.\ntam tersi yöne baktığınızda da sanki dünyadan rusyaya seferberlik için gidiyorlarmış gibi olacaktır.\nyani bişey gösterdiği yok.\n\n2.si ruslara da ab vatandaşlarına da ingilizlere de kısacası bize vize uygulayan her ülkeye mütekabiliyet esasınca vize uygulanmalıdır.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142989974",
+      "author": "brezer",
+      "date": "22.09.2022 01:39",
+      "content": "paki afganlar geleceğine bunlar gelsin gen havuzumuzdan tutunda hayat tarzımıza kadar biraz estetik getirirler.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN-POS",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142990427",
+      "author": "20539",
+      "date": "22.09.2022 01:56",
+      "content": "antalya'daki ukraynalılar tedirgin.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142990575",
+      "author": "kupelimam",
+      "date": "22.09.2022 02:02",
+      "content": "tatil sezonunda antalya havaalanında rus gördüğü için şoka giren ve antalyalı olduğunu idda eden bir entry okumak beni de şoka soktu. bu saatte hepimiz şoktayız.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142990616",
+      "author": "enigma1",
+      "date": "22.09.2022 02:04",
+      "content": "yeter lan ipini koparan bize geliyor. herkes kendi ülkesine siktirip gitsin artık yeter. mahvoldu güzel ülkemiz.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142990821",
+      "author": "can mercan",
+      "date": "22.09.2022 02:14",
+      "content": "amk yerinde herşey emlakçılara yarıyor.\n\nbir türlü yerleşik hayata gecemedik ulkece.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "ECON"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142990997",
+      "author": "kim tutar seni",
+      "date": "22.09.2022 02:24",
+      "content": "gunluk rutin ucuslarin hizlandirilmis hali. basliga kacis rotasi kondugunda heyecanli oluyor tabi.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142991061",
+      "author": "juggernaut",
+      "date": "22.09.2022 02:28 ~ 02:29",
+      "content": "diktatöre isyan etmeyen halkın başına gelen ibretlik durumdur. ey vatandaş günü geldiğinde bunları unutma! armudun sapı üzümün çöpü dersen haziranda kısa süre sonra sen de kabul etmediğin bir savaşta piyade olarak bulursun kendini.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142991091",
+      "author": "kaptan karasakal",
+      "date": "22.09.2022 02:30",
+      "content": "almanya ve japonya da savaşa gireceği zaman oralardan da illaki savaş istemeyip kaçanlar burayı tercih ederse gelecekte yep yeni bir ırk meydana gelecek.\n\ntürkovisgerabianokoto",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142991114",
+      "author": "borsayaacilanmuhallebici",
+      "date": "22.09.2022 02:32 ~ 02:36",
+      "content": "hadi hatunları geçtik de erkeği gelmesin amk en kısası 1.80 gelenler bunlar olacak (bkz: hasiktir): https://www.youtube.com/watch?v=nqm032dnptk\n\n(bkz: cyka blyat)\n\nulan bir de antalya ve istanbul'daki ukraynalılarla didişir bunlar o bizim aşiret kavgaları filan yanında cici kalır putin umarım bu işi artık iptal eder boku çıktı.",
+      "referenced_content": [],
+      "has_external_url": true,
+      "sentiment_numeric": 1,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142991173",
+      "author": "bluesborder",
+      "date": "22.09.2022 02:35",
+      "content": "dünyanın her ülkesinde vatansızlar azımsanamayacak kadar fazla. ülkeleri savaşta kaçıyorlar. bugün o kaçan vatansızlar dönmeye vatan bulamayabilirler. o kaçtıkları ülkelerde iyi muamele göreceklerini mi zannediyorlar acaba? bizde de bu tiplerden bolca mevcut maalesef, gittikleri ülkelerde bir kriz çıksın ilk bunlar şutlanır. o yüzden insanlar doğdukları yerin kıymetini bilmeli, şartlar kötüyse mücadele edip değiştirmeli, kaçarak hiçbir sorun çözülmez.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142991208",
+      "author": "dichromat",
+      "date": "22.09.2022 02:37",
+      "content": "savaşı destekleyen çoğu rus vatandaşı olayın vehametini şimdi anladı. elinle tutup büyüttüğün dikkatör er yada geç ülkeni başına yıkar.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142991215",
+      "author": "poison pure",
+      "date": "22.09.2022 02:37",
+      "content": "bu kış özellikle antalya çok hareketli ve normale göre daha kalabalık olacak gibi.\navrupada evde üşüyerek doğalgaz sıkıntısı çekeceğime çok cüzi miktara 5 yıldızlı otelde 1 ay tatil yapmak turist açısından daha mantıklı gibi.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142991356",
+      "author": "ghostbusterss",
+      "date": "22.09.2022 02:46",
+      "content": "çevremizde ne olursa olsun dönüyor dolaşıyor ihale bize kalıyor ne olursan ol gel dediysekte bu biraz fazla oldu",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142991647",
+      "author": "x5",
+      "date": "22.09.2022 03:09",
+      "content": "tüm dünyayı burda toplayalım, madem cok istiyorlar burayı hem dış mihrakların da hedefi bu topraklar değil mi, yer değişelim rusya'yı afganistan'ı pakistan'ı ukrayna'yı bize versinler biz çıkalım dışarı onlar burda yaşasınlar, hazır kurulu işler vaziyette, yürürü güzel (bkz: swh) tek adam rejimi de mevcut zaten çoğu alışık bu düzene. hükümet de kalsın hatta burada.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142991739",
+      "author": "rahatta rahat",
+      "date": "22.09.2022 03:18",
+      "content": "gelseler de buradaki alkol fiyatlarına çok dayanamazlar.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142991904",
+      "author": "leorzia",
+      "date": "22.09.2022 03:33",
+      "content": "şimdi burdan atıp sıkılaması kolay. aynı tipler bedelli askerlik başlığında hem para verip hem niye 1 ay askere gidiyoruz diye ağlıyor. askerlik dedikleri de bedelli askerlik.\n\ndiktatör, 300.000 kişiye seferberlik emri göndermiş. ben olsam ben de ayrılırdım rusya’dan. gideceğim yer de yine türkiye’nin güneyi olurdu.\n22 sene üstüste aynı adamı diktatör yapana kadar seçmenin cezası bu. esas bedeli rusyadan kaçanlar değil, kaçamayan fakirler ödeyecek.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142991952",
+      "author": "yarasaboku",
+      "date": "22.09.2022 03:38",
+      "content": "putin'in bahsettiği sıcak sulara gidilen yoldur.\n\nruslar artık işgal gibi şeyler yaşamadan da kolayca sıcak sulara inebiliyorlar.\n\nteşekkürler reis.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142992112",
+      "author": "hacara",
+      "date": "22.09.2022 03:57",
+      "content": "ruslardan daha ruscu olan ülkemiz rusçuklarının putinişkolarının ihtiraslarını tatmin etmeye giderek açığı kapatacağını düşündüğümdür.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142992579",
+      "author": "ketender tepetopuzu",
+      "date": "22.09.2022 05:07",
+      "content": "istanbul’dan kalkan uçakları gösterip “türkiye’den akın akın kaçan beyaz yakalılar” demek gibi bir şey.\nyani evet bi doğruluk payı var ama o video onun kanıtı mı şimdi….",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142992781",
+      "author": "hu vants tu bi elon",
+      "date": "22.09.2022 05:58",
+      "content": "sözlükte sabah akşam putin saksosu çekenlere de çıkmıştır seferberlik inşallah. 24 saatte kievde cuma namazı kılacaklardı ama en son işgal ettikleri yerlerde tanklarını bırakıp kaçmıştı bu yumuşaklar. niye kaçıyorsunuz lan hani küçük bir operasyondu bu amk çakma sosyalistleri sizi.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142993091",
+      "author": "bilirsinizm",
+      "date": "22.09.2022 07:02",
+      "content": "türkiye sınırlarındaki gen havuzunu oluşturan genlerin frekansları o kadar farklı telden çalmaya başladı ki, yeni doğan bireylerin genotipleri bırakın sıradan bir şarkıyı, yalnızca rabarbayı andıracak.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142993172",
+      "author": "lonelygod",
+      "date": "22.09.2022 07:13",
+      "content": "amk dedigim olaydır. gebze harem minibüsüne döndü ülke. kaptan nefes alacak yer kalmadı daha alma diyesim var",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142993332",
+      "author": "daldakielmakurdu",
+      "date": "22.09.2022 07:29",
+      "content": "konu savas olunca her tarafta bunlar yasanir. siz kurtulus savasi yillarinda herkesin güle oynaya askere gittigini mi saniyorsunuz? acin arsivlere bakin. orduda o kadar firar varmis ki firarileri bildirmek icin yollanan asker bile firar ediyormus o derece.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142993442",
+      "author": "charecter",
+      "date": "22.09.2022 07:38",
+      "content": "hadi bakalım, kiraları göreceğiz.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142993867",
+      "author": "palermobaskanizamparini",
+      "date": "22.09.2022 08:04",
+      "content": "artık antalyada 20 bin tl den aşağı ev kalmaz amk",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "ECON"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142993890",
+      "author": "haytaros",
+      "date": "22.09.2022 08:06 ~ 08:07",
+      "content": "bir yere kaçtığı filan yok kimsenin. boş yapmayın. balon yapmayın. herkesi kendiniz gbi pembe götlü sanmayın.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142994169",
+      "author": "2150 yilindan gelen adam",
+      "date": "22.09.2022 08:21",
+      "content": "algı vs gerçek\nalgı wins\n\ntanım: kaçan vardır elbet ama bu görüntüler kaçış rotası değil, muhtemelen moskova'dan çıkan uçakların görüntüsü. işin uzmanı bir havacı daha net bilgi verir, onlara sormak lazım.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142994278",
+      "author": "13 lejyon",
+      "date": "22.09.2022 08:27",
+      "content": "her iki dünya savaşında da rus, alman, ingiliz zenginler bu tarafa gelmiş, çok şaşırmamak lazım. birinci dünya savaşında girit; rus, alman, türk, ingiliz zenginleriyle dolmuş mesela.\n\nikinci dünya savaşı ise istanbul’a yaramış. şimdi bildiğimiz içkili gece hayatını getirenler rus kaçakları. taverna/meyhane kültürü daha ağır, oturaklı olduğu için adamlar kendi eğlence kültürlerini getirmiş. daha önceki savaşlarda kaçarken mesela semaveri getirmişler.\n\nkısacası, adamların ayağı alışkın. dedesi de belki istanbul batakhanelerinde kumar oynatıyordu.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142994620",
+      "author": "tribalizmes",
+      "date": "22.09.2022 08:45 ~ 08:54",
+      "content": "bugün itibariyle seferberlik şartlarına uyan rus vatandaşlara yurtdışına çıkış yasağı getirerek sınırları kapatan ülkedir. ilk günden gidebilenler gitti, fazlasını beklemeyin.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142994776",
+      "author": "weird science",
+      "date": "22.09.2022 08:52",
+      "content": "sıcak denizlere inişleri savaşla değil uçakla oldu. en azından bizimle savaşarak olmadı, akp ihtiyaç bırakmadı bizimle savaşmalarına. satılık ülke.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142994850",
+      "author": "l espoir",
+      "date": "22.09.2022 08:55",
+      "content": "eger alcak oldugumuz goc erkek agırlıklı olursa ve en onemlisi 1-2 milyon civarında olursa, bakın bunu 6 sene rusya ve civarında (turki cumhuriyetler) yasamıs biri olarak soyluyorum, afgan paki veya surilerden cok daha buyuk tehlike olusturur.\n\nrusların lagalugası yoktur ve cok cabuk gruplasırlar (milliyetcilik), tum diger goc aldıgımız ulkelerden gelen erkeklerden daha fazla tecavuz eder daha fazla suc işlerler, silaha cok meraklıdırlar ve hep bir silah tasırlar (bıcakta olabilir tabancada).\n\nafgan suri pakiler genelde islamiyet ve gormemişlik yuzunden \"koyun\" zihniyetlidir. polis tutaklama yapmak istediginde, karsı koyma gucleri ve istekleri azdır. ruslar boyle degildir.\n\nbuyuk tehlikedir. ancak dedigim buyuklukte gelirlerse, az gelen olursa bir fark yaratmaz.....\n\nhepsine ek olarak putin seferberlik ilan etmeden once kahve icerken dısarda (salı sabahıydı galiba) oturdugum kafede 10 masa varsa 7 si rustu, nisantasında o kafede bu kadar rus hayatımda gormemiştim. yani goc aslında seferberlik ilanından 4-5 gun once baslamıs olabilir (kıyaklılar, onceden ogrenenler vs vs)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142994958",
+      "author": "rosas",
+      "date": "22.09.2022 09:00",
+      "content": "burası dünyanın çöplüğü mü? herkes alsın ülkesinin mallarını.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142995411",
+      "author": "emnzynlv",
+      "date": "22.09.2022 09:17",
+      "content": "turtsiya cenned cenned",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142995482",
+      "author": "disko segah",
+      "date": "22.09.2022 09:19",
+      "content": "\"bunnar hep batı propagandası\" diyen avrasyacı amcalar; demokrasiler de yalan söyler. ama en azından gediğine uydurur, inandırıcı olmak zorundadır çünkü okuyan, araştıran, sorgulayan birileri daima vardır.\notokrasiler ise yalanını gizleme gereği duymaz. burada erdoğan'a karşı çıkıp benzer yöntemlerle daha uzun iktidarda kalan putin'i şakşaklamak iki yüzlülüktür.\ntek adam rejimleri eninde sonunda çökmeye mahkumdur. onlardan kurtulamayan toplumlar ne yazık ki bedel öder. tek adam kaybederse ulusu peşinden sürükler.\n\nrus halkı ukrayna savaşını'kazanılabilir' gördüğü için onayladı. işler sarpa sarınca devlet kendi hikayesini üretmeye başladı ve tüm gücüyle duyurdu. seferberlik kararıyla'düşmanımız sadece ukrayna değil, tüm batıyla savaşıyoruz' mesajı verildi. hala savaşı destekleyenler var ancak önemli bir kesim devletin yüksek sesle duyurduğu'dünyalar savaşını' istemiyor.\n\n\"kaçmıyorlar\" diyenlere aşağıda takip ettiğim bazı rus youtuber'ları bırakıyorum.\nbu arkadaş imkanı olduğu için erken kaçtı\nbu kızçe henüz kaçanlardan\nbu arkadaş hala petersburg'da güzel yayınlar yapıyor\nrusya'da öğrencilik, kırsalda hayat ve ekonomik durumu anlatan kızçe\n\nbonus: neden yurtdışında yaşamak istiyorsunuz? almanya ile rusya'yı karşılaştırır mısınız? (tanıdık geliyor mu?)",
+      "referenced_content": [],
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142996074",
+      "author": "dihidrolipoic",
+      "date": "22.09.2022 09:40",
+      "content": "yaşasın antalya'da kiralar ve ev fiyatları artacak sonunda.\numarım fiyatlar roketler de medeni insanlar çoğalır.\noley be!!!",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "ECON"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142996296",
+      "author": "theeksisozluk",
+      "date": "22.09.2022 09:47",
+      "content": "az sayıda uçuş seçeneği ile birlikte vizesiz girebildikleri türkiye, ermenistan ve birleşik arap emirlikleri üzerinden dünyaya açılmalarına yardımcı olacak olan rotadır.\n\nkaynak\n\ntabi, dünyaya açılmak yerine burada kalmayı tercih ederlerse s*çtığımızın resmidir. ak gezenler nedeniyle kendi kendine yeten ülke konumundan çıkalı çok olan ülkemizde, her bölgeden gelen mültecilerle birlikte daha az suyu, daha az gıdayı daha çok kişiyle paylaşmamız anlamına gelmektedir.",
+      "referenced_content": [],
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142998889",
+      "author": "alpertini",
+      "date": "22.09.2022 11:08",
+      "content": "heryerin çürüğü çarığı gelir bize.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "142999592",
+      "author": "picgurusu",
+      "date": "22.09.2022 11:31",
+      "content": "suriyeli organ mafyası ve uyuşturucu kaçakçıları,\nafgan silah kaçakçıları ve uyuşturucu tüccarları,\npakistanlı insan kaçakçıları,\nukrayna'lı kadın satıcıları ve hayat kadınları ülkeye dolduğunda göre;\n\nhepsini yönetecek ve para akışını kontrol edecek rus mafyasını getirme zamanı gelmişti.\n\nsınır kapısı değil amk bizdeki, kerhane önü masası. işini görüp çıkana kolonya tutuyoruz.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "143003259",
+      "author": "gokkusagicikmisbak",
+      "date": "22.09.2022 13:17",
+      "content": "#143003192",
+      "referenced_content": [],
+      "referenced_entry_ids": [
+        "143003192"
+      ],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların seferberlikten kaçış rotası",
+      "entry_id": "143052562",
+      "author": "olgunisik",
+      "date": "23.09.2022 17:02",
+      "content": "kiralar uçmaya başlar. ev sahipleri ile emlakçılar el ele tutuşup halay çekmeye başlamıştır.\nbu saatten sonra sürgün yiyip zorla gönderilen memurlar için antalya'da tek yol karavan kaldı.\nbundan 20 yıl önce çanakkale'den mersin'e kadar sahil şeridinde yaşamak için insanlar yarışırdı. şimdi kaçmak için yarışıyor.\nson göç dalgası da tuz biber olur üzerine",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    }
+  ]
+}

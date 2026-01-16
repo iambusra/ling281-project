@@ -1,0 +1,61 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:50:55.234201",
+    "total_entries": 4,
+    "input": "suriyeli kuyumcunun suriyelileri dolandırması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeli kuyumcunun suriyelileri dolandırması",
+      "entry_id": "166154942",
+      "author": "nonamegri",
+      "date": "09.07.2024 01:42 ~ 01:43",
+      "content": "gurbetçi işi vurgun olmuş swh\n\n--- spoiler ---\n\nbursa’da yaşayan suriyeli kuyumcu, suriyelilerden topladığı milyonlarca liralık altınla sırra kadem bastı.\n\nolay, geçtiğimiz cumartesi günü merkez osmangazi ilçesinde darmstad caddesi’nde meydana geldi.\n\nher gün sabah saatlerinde düzenli olarak açılan ve sahibi suriyeli olan kuyumcunun cumartesi günü sabah saatlerinde kepenkleri açılmadı.\n\nçevrede bulunanlar durumdan şüphelenince kuyumcu dükkanının sahibini telefon ile aradı. altınları bulunan suriyeliler hiçbir şekilde kuyumcuya ulaşamayınca durumu polise bildirdi.\n\nihbar üzerine bölgeye gelen ekipler, mağdur olduklarını söyleyen suriyeliler çarşı polis merkezi amirliği’ne müracaat için yönlendirdi.\n\nasayiş şube müdürlüğü dolandırıcılık büro amirliği ekipleri de konuyla ilgili geniş çaplı soruşturma başlattı.\n\nsuriyeli mağdurların zaman zaman kepenkleri kapalı kuyumcu dükkanının önüne giderek bir umutla işyerini kontrol etmeleri dikkat çekti.\n\nsuriyeli mağdurlar kuyumcunun gece gelerek altın ve dövizleri çantaya koyarak bursa’dan kaçtığını ifade etti.\n\n--- spoiler --\n\nhaber",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CRIME",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyeli kuyumcunun suriyelileri dolandırması",
+      "entry_id": "166155007",
+      "author": "mehmetyh",
+      "date": "09.07.2024 01:44",
+      "content": "tosuncuk- suriye\n\nbir devam filmi",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CRIME"
+      ]
+    },
+    {
+      "title": "suriyeli kuyumcunun suriyelileri dolandırması",
+      "entry_id": "166155039",
+      "author": "gacallius",
+      "date": "09.07.2024 01:45",
+      "content": "friendly fire.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyeli kuyumcunun suriyelileri dolandırması",
+      "entry_id": "166155488",
+      "author": "sefik kedi",
+      "date": "09.07.2024 02:06",
+      "content": "adamları 3 5 yılda kendimize benzettik.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

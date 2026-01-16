@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:42:39.078648",
+    "total_entries": 1,
+    "input": "haritalarda suriye israil sınırının kalkması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "haritalarda suriye israil sınırının kalkması",
+      "entry_id": "175235385",
+      "author": "lhalil",
+      "date": "11.05.2025 23:28",
+      "content": "görsel\n\ntüm haritalarda atlas google vb sınırın kalkması durumu.\nisrail suriye'yi kendi toprakları ilan ediyor.\n\nwikipedia israil'in suriye'yi istilası",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY",
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

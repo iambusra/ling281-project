@@ -1,0 +1,26 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:29:26.188283",
+    "total_entries": 1,
+    "input": "ak parti'ye oy atacağı için suriyeli döven akp'li",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ak parti'ye oy atacağı için suriyeli döven akp'li",
+      "entry_id": "44232645",
+      "author": "markasiz",
+      "date": "15.07.2014 11:46",
+      "content": "müthiş ve süper mantıklı bir açıklama sonucu suriyelilere karşı saldırıların başlaması olayında gerçekleşen durum. neymiş efendim suriyeliler akpye oy vereceği için onlara karşı saldırılar başlamış. hımmm çok mantıklı.\n\nhani bir müzik grubu keşfedersiniz. başka kimse bilmez. gizlersiniz. yalnızca siz sevmek istersiniz onu. yavaş yavaş herkes beğenirse de kıskanırsınız deli gibi. o grubu sizden daha çok sevenin saçını falan çekersiniz. kıskançlıktan ne yapacağınızı şaşırırsınız.\n\nsuriyelilere yönelik artan şiddeti ak parti'ye oy atacakları için yapıldığı savında karşımıza tokat gibi çarpan bir gerçeklik var. ulan suriyelileri hiçbir gezici dövemez. ben gittim gördüm. yok abi. eline pala alanlar falan milli irade savunucusuydu.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "CRIME"
+      ]
+    }
+  ]
+}

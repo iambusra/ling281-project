@@ -1,0 +1,48 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:08:38.096638",
+    "total_entries": 3,
+    "input": "toki kurasının suriyelilere çıkması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "toki kurasının suriyelilere çıkması",
+      "entry_id": "141075067",
+      "author": "tirizettin",
+      "date": "09.08.2022 10:15 ~ 10:16",
+      "content": "vatandaşı olmasan eğlenceli ülke aslında. allah sizi bildiği gibi yapsın. şu kura çekimine bari en az 10 yıl tr vatandaşlığı olma şartı getirin.\n\nbu kadar da gözümüze parmak sokmayın dedirten.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "toki kurasının suriyelilere çıkması",
+      "entry_id": "141075183",
+      "author": "ophthalmologistman",
+      "date": "09.08.2022 10:19",
+      "content": "demek ki suriyeliler daha fakir. demek ki türk vatandaşı zengin.\n\nproblem görmediğim kuradır.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "toki kurasının suriyelilere çıkması",
+      "entry_id": "141077088",
+      "author": "newsky24",
+      "date": "09.08.2022 11:12",
+      "content": "rezalet gibi rezalettir. atadan dededen beri bu ülkede yaşayanlara çıkmayan hakkın, birkaç senedir ülkemizde hem de istemediğimiz halde yaşayanlara çıkmasıdır.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    }
+  ]
+}

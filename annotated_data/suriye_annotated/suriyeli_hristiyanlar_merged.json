@@ -1,0 +1,40 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:49:13.757237",
+    "total_entries": 1,
+    "input": "suriyeli hristiyanlar",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeli hristiyanlar",
+      "entry_id": "170958630",
+      "author": "coffeeholic",
+      "date": "12.12.2024 11:37 ~ 12:35",
+      "content": "dünyadaki en eski hristiyan topluluklardan biridir. çoğu, antakya rum ortodoks kilisesi ya da süryani ortodoks kilisesi ne bağlıdırlar. katolik olanlar ise maruni dir.\nbugünlerde zor zamanlar yaşayan topluluklardır. htş'nin ayinlere müdahale ettiği ve kiliseleri yağmalayıp yıktığına dair çok haber var.\n\n#170910549 - burada bahsetmiştim.\n\n(bkz: suriye’de hristiyanların kafasının kesilmesi) bu da 11 yıl önce yapılmış bir haber.\n\nbirleşmiş milletlerin ve kiliselerin birleşip acilen önlem alması gerekir. bu gruplar çok kadim topluluklardır, yok olup gitmesine izin verilmemeli.",
+      "referenced_content": [
+        {
+          "type": "entry",
+          "title": "heyetu-tahrirus-sam",
+          "entry_id": "170910549",
+          "author": "coffeeholic",
+          "date": "10.12.2024 19:35 ~ 19:39",
+          "content": "görsel görsel\nbonus: görsel\n\nmiddle east spectator adlı telegram grubunda alevileri katletmeye başladıklarına dair haber yapıldı, ne kadar doğru bilmiyorum.\nkiliseye girip ayini engellemişler, papazı kiliseden çıkarmışlar.\numarım spekülatif haberlerdir, doğru değildir. bunlar doğruysa orta doğuda hiç bir farklı grubun, hatta sunni olup seküler yaşayanların bile, can güvenliği kalmamıştır. ayrıca da nur topu gibi yeni bir göçmen kitlesi ağırlayacağımız anlamına gelir.\n\ndüzenleme: haber kanalından görüntüler eklendi.",
+          "has_external_url": true
+        }
+      ],
+      "referenced_entry_ids": [
+        "170910549"
+      ],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CRIME",
+        "POLICY",
+        "HUMAN"
+      ]
+    }
+  ]
+}

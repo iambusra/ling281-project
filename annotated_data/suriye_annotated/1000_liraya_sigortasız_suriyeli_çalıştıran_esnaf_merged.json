@@ -1,0 +1,26 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-10T23:33:37.448186",
+    "total_entries": 1,
+    "input": "1000 liraya sigortasız suriyeli çalıştıran esnaf",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "1000 liraya sigortasız suriyeli çalıştıran esnaf",
+      "entry_id": "140961661",
+      "author": "spartacusun donusu",
+      "date": "06.08.2022 18:48",
+      "content": "türkler 1500 tl ve sigorta istiyormuş. suriyeliler ise 1000 liraya sigortasız çalışıyormuş.\n\nadam hem vergi kaçırıyor, hem sosyal güvenlik sisteminin çökmesine neden oluyor, hem de insanların hakkını yiyor.\n\neminim her cuma koşarak camiye gidiyor, ramazanda da oruç tutuyordur.\n\nbu ülke 5 yıl daha böyle gitmez. bunlar engellenemez ise ayakta kalmamız mümkün değil.\n\nbu arada kazmalar çıkmış halâ ümit özdağ'ın mülteci dışında başka bir programı yok diyor (ki var).\n\nulan 5 seneye çöküyorsun, sosyal güvenliğin ekonomin, iç güvenliğin, sağlık sistemin yok oluyor.\n\nhttps://twitter.com/…?t=txbik7rlyv-b5oxlzipxaq&s=19",
+      "has_external_url": true,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "ECON"
+      ]
+    }
+  ]
+}

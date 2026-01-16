@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:25:32.590948",
+    "total_entries": 1,
+    "input": "deprem vergileriyle rusa giden bakan",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "deprem vergileriyle rusa giden bakan",
+      "entry_id": "25918614",
+      "author": "bu ne lan",
+      "date": "27.10.2011 16:26",
+      "content": "çapkın bir bakan olabilir.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "SEXUAL",
+        "GENDER-MORAL"
+      ]
+    }
+  ]
+}

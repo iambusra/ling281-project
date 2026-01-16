@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:22:47.857164",
+    "total_entries": 1,
+    "input": "rus turistin saatinin chp temsilcisinden çıkması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rus turistin saatinin chp temsilcisinden çıkması",
+      "entry_id": "175326820",
+      "author": "outhernasyonal",
+      "date": "15.05.2025 20:50",
+      "content": "ön edit: harf sınırı yüzünden başlık aslında rus turistin saatinin chp mahalle temsilcisinden çıkması olacaktı.\n\nantalya'da kaybolan akıllı saatini gprs ile takip eden rus turist, tespit ettiği adrese polis ekipleriyle baskın yaptı. saat chp mahalle temsilciliğinden çıktı.\n\n--- spoiler ---\n\nbir süre önce tenis müsabakası için moskova'dan antalya'ya gelen rus turist lilie belova (38), sahilde fotoğraf çekinmek için kolundaki akıllı saati çıkartıp oturduğu yere bıraktı. bir süre sonra sahilden ayrılan belova, saatini unuttuğunu fark edip tekrar konyaaltı sahili'ne geldi. bu sırada saati bulan iki çocuk, kimliği belirsiz bir kişinin saati güvenliğe vereceğini söyleyip kendilerinden aldığını söyledi. bunun üzerine belova, cep telefonundan uygulamayı açıp gprs sinyalinden saatin hareket halinde olduğunu görünce polise haber verdi. kısa süre sonra olay yerine sevk edilen ekipler, türkçe ve ingilizceyi az bilen rus turist ile yine cep telefondan çeviriyle anlaşabildi. saatin soğuksu mahallesi 298 sokak üzerinde sabit durduğunu gösteren belova, polis ile birlikte konumun belirttiği adrese gitti. burada kısa bir aramanın ardından saati kendisinin aldığını söyleyen b. a. (63), polis ekiplerince ekip otosuna alındı. saatine kavuşup mutluluk yaşayan belova, ‘türk polisine teşekkürler' dedi. saat chp mahalle temsilciliğinden çıktı.\n--- spoiler ---\n\nözgür ö'nün acil miting kararı aldığı söyleniyor.",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CRIME",
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

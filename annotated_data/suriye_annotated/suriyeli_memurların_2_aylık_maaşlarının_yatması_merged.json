@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:50:57.586662",
+    "total_entries": 1,
+    "input": "suriyeli memurların 2 aylık maaşlarının yatması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeli memurların 2 aylık maaşlarının yatması",
+      "entry_id": "171779000",
+      "author": "tarkanvikingkani",
+      "date": "10.01.2025 22:35 ~ 22:36",
+      "content": "esed rejiminden sonra hayırlı olan olay.\n\nesed döneminde parasını bir yıldır alamayan generaller varken bir de buna bakın.\n\nyeni hükumet hayırlısı ile çok güzel işler yapacak inşallah.\n\nreisimizin bunda katkısı çok büyük, allah senden gani gani razı olsun.",
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "POLICY"
+      ]
+    }
+  ]
+}

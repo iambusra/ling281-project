@@ -1,0 +1,49 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:14:25.661966",
+    "total_entries": 3,
+    "input": "yurt dışına kaçıp suriyelileri eleştirmek",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "yurt dışına kaçıp suriyelileri eleştirmek",
+      "entry_id": "64974149",
+      "author": "kokazyana",
+      "date": "23.12.2016 20:54",
+      "content": "(bkz: davulun sesi uzaktan hoş gelir)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "yurt dışına kaçıp suriyelileri eleştirmek",
+      "entry_id": "64974525",
+      "author": "kulagimdaki cinlama",
+      "date": "23.12.2016 21:08",
+      "content": "(bkz: 192.168.1.1)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "yurt dışına kaçıp suriyelileri eleştirmek",
+      "entry_id": "175251523",
+      "author": "samuron",
+      "date": "12.05.2025 17:26",
+      "content": "var böyle bir şey. demek istemedim bu konuda bir şey uzun süre ama yani birebir aynı şeyi biz yapıyor, yapmaya çalışıyoruz ancak buna rağmen ülkemize gelip bizimle beraber yaşamak isteyen surilere laf ediyoruz ya bu benim gerçekten garibime gidiyor. hatta orada adam savaştan kaçıp buraya geliyor, yani biz gelmek istenen bir ülkeyiz, sen tam olarak neyden kaçıyorsun diye de sormak istiyorum bazen insanlara. aşırı garip bir zihniyet türedi son zamanlarda ve şaşkınlık içinde seyrediyorum...",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    }
+  ]
+}

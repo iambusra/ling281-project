@@ -1,0 +1,62 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:41:11.197872",
+    "total_entries": 4,
+    "input": "çocuklarımız sakallı suriyelilerden korkuyor",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "çocuklarımız sakallı suriyelilerden korkuyor",
+      "entry_id": "29942421",
+      "author": "ilk yarinin son dudugu",
+      "date": "26.08.2012 12:26",
+      "content": "suriyeli mültecilerin davranışlarına karşı gelişmekte olan tepkiyi, hükümet yanlısı medyanın, \"antakya halkının yabancı düşmanlığı\" olarak göstermeye çalışmasında kullanılmış bir ifade.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "çocuklarımız sakallı suriyelilerden korkuyor",
+      "entry_id": "29942769",
+      "author": "google da kendini aratan adam",
+      "date": "26.08.2012 13:00 ~ 13:01",
+      "content": "tamamiyle hedef şaşırtma politikası olan manşet. ortadaki korku suriyelilerin sakalı değildir. direk suriyeli \"özgürlükçülerin\" kendisidir. güney doğuyu yeterince sikip atan vardı, bunlar eksikti geldiler tam oldu.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "çocuklarımız sakallı suriyelilerden korkuyor",
+      "entry_id": "30007037",
+      "author": "obi wan damme",
+      "date": "30.08.2012 23:18",
+      "content": "bu suriyelilerin hala masum mülteci olduğunu zannedenler var ya başka bir şey demiyorum, adamlar internet sitesine karargah olarak'hatay, turkey' yazıyor, yerel halk arasında'mültecilerin' sabahları sınır geçip savaştığı ve akşama kampa geri döndüğü yolunda söylentiler var ve tbmm milletvekili o kampa alınmıyor. aralarında gerçekten iç savaştan kaçıp çoluğunu çocuğunu korumak için türkiye'ye sığınan da vardır elbet ama bu kişilerin çoğunun çatıdan postane memuru atıp kurbanlık koyun gibi asker kesenlerden olduklarını düşünürsek haklı olan söylemdir.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "çocuklarımız sakallı suriyelilerden korkuyor",
+      "entry_id": "30499316",
+      "author": "patavat",
+      "date": "08.10.2012 18:47 ~ 13.10.2012 15:37",
+      "content": "kamuflajlı pantanlon, karı kızı kesen abaza/görmemiş bir zihin ve hanzo agresif bir anlayışla birleşince, en dedike islamcımın bile ağzından alınabilecek söz.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE"
+      ]
+    }
+  ]
+}

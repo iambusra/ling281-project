@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:24:03.862127",
+    "total_entries": 1,
+    "input": "bayraktar'ın motorunu ukraynalıların yapması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "bayraktar'ın motorunu ukraynalıların yapması",
+      "entry_id": "134427598",
+      "author": "newsky24",
+      "date": "02.03.2022 21:47",
+      "content": "bilinen gerçektir. adamlar kendi ürettikleri motoru övmekte haklıdır. amaçları türkiye'yi savaşa çekmek filan değildir.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN"
+      ]
+    }
+  ]
+}

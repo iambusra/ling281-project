@@ -1,0 +1,243 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:20:43.149064",
+    "total_entries": 19,
+    "input": "rus yemekleri",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rus yemekleri",
+      "entry_id": "453352",
+      "author": "dreamer",
+      "date": "12.06.2001 14:44",
+      "content": "genellikle rus kökenli aşçıların bildiği ve pişirdiği rus mutfağına ait yemekler\n\nörn: kievski, palaçinka, rus salatası gibi",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "rus yemekleri",
+      "entry_id": "1861805",
+      "author": "cayuga",
+      "date": "25.11.2002 13:06",
+      "content": "cok yagli, her daim patatesli, sevilmeyesi yemekler.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "rus yemekleri",
+      "entry_id": "8018708",
+      "author": "retinue",
+      "date": "15.08.2005 02:32 ~ 24.05.2006 16:45",
+      "content": "gerçekte var olmayan bir kavramdır. zira rusya'da yemek yoktur.\n\nişte bu yüzden rusya'dayken yemek bazlı değil de içki yönelimli olan beslenme şekillerini tercih ederiz. bira içip yanında kurutulmuş balık yeriz. ya da vodka içip turşu yeriz. ya da süt içip, yanında grechka yeriz.\n\nrus yemekleri bu yüzden alkol derecesi yüksek olup, lezzetli olmasa da pek egelencelidirler. bunun ötesinde zengin kültürel alt yapısı sagolsun, gürcü restoranlarında hachapuri ler yenilip yutulup, sagda solda ermeni lava$ ları götürülüp, dost evlerinde özbek pilav larına cullanılıp yemek zevki ve kilo alımını sürdürmek pek bir mümkündür.\n\ngene de temelde rus yemegi yoktur.\n\nborsch çorbası ukrayna yemegi olup, pelmeni'nin rusluğu da tartışmaya feci açıktır.\n\nbunun otesinde smetana, tvorog, domashniy syr (tamam bu marka oldu), danone'un şeftalili kefir i, meyvalı orbit, yubileynoe marka bisküvi, türlü türlü balıklar insanda feci bağımlılık yapar, yenemeyen ortamlara taşınınca özlem yaratırlar.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "rus yemekleri",
+      "entry_id": "11245080",
+      "author": "ugursuz",
+      "date": "02.10.2007 04:47",
+      "content": "bizdeki yemeğe tat ve renk veren salçanın onlardaki karşılığı havuçtur. ota boka havuç koyarlar, ne alakaya bile havuç...",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "rus yemekleri",
+      "entry_id": "11245100",
+      "author": "thunderroad",
+      "date": "02.10.2007 05:49",
+      "content": "(bkz: blini)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "rus yemekleri",
+      "entry_id": "11245159",
+      "author": "orchard",
+      "date": "02.10.2007 09:08 ~ 09:09",
+      "content": "(bkz: rus içecekleri) (bkz: votka)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "rus yemekleri",
+      "entry_id": "14815734",
+      "author": "cenderecendereduduklutencere",
+      "date": "30.12.2008 21:46",
+      "content": "her ne kadar üstünde devasa bir şekilde rus salatası yazıyor olsa da yanında ingilizce kaygısıyla american salad yazan ironi dolu bir çeşit mezede bunlar arasındadır.\n\nkaynak: tüm şok ve migros'lar",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE",
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus yemekleri",
+      "entry_id": "26333594",
+      "author": "kobretti",
+      "date": "28.11.2011 16:52",
+      "content": "turk mutfagi ile cok alakasiz sekilde olan yemeklerdir. hatta bir corbalarini ictim, icinde halka halka diri sogan, yesil zeyting, ton baligi ve igrenci bir yag vardi ustunde. herhalde, geleneksel bir yemekmis orada. agzimdakileri geri cikarmamak icin cok ugrastim.\n\nacligin ne oldugunu bana ogreten yemeklerdir. sayelerinde sabah 1 aksam 1 olmak uzere, snickers bagimlisi oldum.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "rus yemekleri",
+      "entry_id": "26333610",
+      "author": "i see fat people",
+      "date": "28.11.2011 16:54 ~ 16:54",
+      "content": "lahana, havuç, et, maydonoz ve krema veya mayonezle yapılan bir yemekleri mevcutmuş. hepsini geçtim de o mayonezi demeyecektin.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "rus yemekleri",
+      "entry_id": "26333651",
+      "author": "groove salad",
+      "date": "28.11.2011 16:57",
+      "content": "öğrenci evinde rus mutfağı tanınabilir mi bilmiyorum ancak,\nbenim rus arkadaşlarım ota boka mayonez koyma eğilimindelerdi. çoban salatası yapmışım mis gibi, bir baktım hatun içine mayonez koyuyor. mayonez zaten abartı bir şekilde kovalarda satılıyorken doğal olarak mayonez pek çok yemekle gidiyordu. borş çorbası da sık yapılan yemeklerdendi. lahanadan nefret ettiğimden ötürü hiç ağzımı sürmedim o ayrı.\nsmetana ile mantar yaparlardı, yanına kızartılmış kolbasa .\nrus salatası zaten standart paket ile gelirdi.\ngreçka, karabuğdaydan yapılan bir yemek, bana göre iğrençtir ama seveni var.\nbir de hiç unutmam rusya'da restoranın birinde hep bir salata yerdim adı \"damskiy kapris\" idi, elma, rendelenmiş peynir vs vardı içinde, hoşuma giderdi o.\ndomates suyu da bayağı tüketilen bir şey.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "rus yemekleri",
+      "entry_id": "26333879",
+      "author": "cock",
+      "date": "28.11.2011 17:13",
+      "content": "(bkz: borç çorbası)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "rus yemekleri",
+      "entry_id": "46947779",
+      "author": "anasina bak kizini al",
+      "date": "12.11.2014 00:39",
+      "content": "rus salatası harici pekte bilgim olmayan mutfak haa rus salatasını da uzun bacaklı ablalarımızdan iyi yaparım o ayrı.\nzaten öyle çok çok güzel bi mutfak olsaydı çöp gibi olmazlardı. (rusların mutfağını bile kıskandı kızlarına laf soktu klasik türk kızı mod on)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "rus yemekleri",
+      "entry_id": "64765264",
+      "author": "fentanly",
+      "date": "16.12.2016 22:34",
+      "content": "rus mutfağı denince ilk akla gelen deniz ürünleri, ülkenin mutfak kültürünü diğerlerinden farklılaştıran başlıca öğelerden biri olarak bilinir. diğer öğünlerde olduğu gibi, kahvaltıda da havyar, lakerda ve balık çeşitlerini tüketen ruslar, bu özellikleriyle dünya mutfakları arasında farklı bir yere sahiptirler. mersinbalığı ile birlikte tüketilen ve wolga-schnitte olarak bilinen esmer lakerda ekmeği ile kristal, heykel gibi birçok sanat eserine de ismini veren dünyaca ünlü rus yumurtası (faberge) rusya’da kahvaltı sofrasının vazgeçilmezlerindendir. bu özellik, rusların proteine dayalı beslenme alışkanlıklarının bir yansıması olarak da görülebilir. rus kahvaltı sofrasında reçel, marmelat gibi tatlı çeşitleri rağbet görmezken; süt, kahve, kokulu siyah çay ve meyve suları tipik kahvaltı içecekleridir.",
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "rus yemekleri",
+      "entry_id": "99036844",
+      "author": "buzsuzaysti",
+      "date": "12.12.2019 22:08",
+      "content": "en fenası da hesapsızca yumurta kullanılır neredeyse tüm yemeklerinde. bizde tabağı nane, maydonoz ile süslerler; bunlar haşlanmış ve dilimlenmiş yumurtaları diziverir.\nbir tanıdığımızın rus bir sevgilisi vardı vakti zamanında. ailesiyle tanıştırmaya getirmiş sanırım. akşam yemeğine davet ettiler, gittik ailece. müstakbel gelin kendini aileye sevdirmeye ant içmiş olacak ki ben de bir şeyler hazırlayayım, en azından salatayı yapayım demiş. tamam demişler. sofraya çok önemli bir şeymiş gibi getirdiği salatayı hala hatırlıyorum: her tarafı dilimlenmiş yumurtayla kaplı yeşil salata.\nmillet tuhaf oldu tabii. kimse alabildiğine yumurta kokan salatadan yiyemedi o tanıdıktan başka.\nannemin anlattığına göre takip eden günlerde bolca haşlanmış yumurtalı yemeklerinden yaparak devam etmiş.\nrus kadın çok güzeldi tabii ama benim aklımda rus= yumurta eşitliğini oluşturdu. zaten tanıdıkla ilişkileri de yürümemiş. artık aile mi veto etmiş, tanıdığımız ömür boyu haşlanmış yumurta yemeyi mi göze alamamış o kısımlar muamma (bkz: swh)\nhem yumurta dediğimiz şey kahvaltıda yenir yahu, nedir öyle.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "rus yemekleri",
+      "entry_id": "99037035",
+      "author": "citylion",
+      "date": "12.12.2019 22:12",
+      "content": "(bkz: pelmeni) der geçerim. bizim mutfağımıza da yabancı olmayan yemek.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "rus yemekleri",
+      "entry_id": "161250583",
+      "author": "roger waters",
+      "date": "04.02.2024 14:44",
+      "content": "nuar, nam-ı diğer rosto .",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "rus yemekleri",
+      "entry_id": "176371291",
+      "author": "zinzinzibidi",
+      "date": "27.06.2025 12:56 ~ 12:57",
+      "content": "borş çorbası, pelmeni ve kievski favorimdir. ülkemizde en iyi kadıköy'deki rustik rus restoranı bu yemekleri yapmaktadır.\n\ngoogle haritalar",
+      "has_external_url": true,
+      "sentiment_numeric": 5,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "rus yemekleri",
+      "entry_id": "176387059",
+      "author": "dahiliy",
+      "date": "28.06.2025 01:11",
+      "content": "1. borscht: pancar çorbası. rengiyle instagram'lık, lezzetiyle anne yemeği gibi. üstüne bir kaşık ekşi krema şart.\n\n2. pelmeni: rus mantısı. içine et girer, üstüne tereyağı ya da yoğurt dökülür. “bu kadar küçük şey bu kadar mı doyurur?” dedirtir.\n\n3. blini: krepe benzer ama daha tok. içine bal da sarılır, somon da. kahvaltıya da yakışır, votkaya da.\n\n4. stroganoff: etin krema ve mantarla buluştuğu doyurucu bir tabak. yanında patates püresi varsa, tam bir kış günü yemeği olur.\n\nrus mutfağı aç kalmamak değil, tokken bile bir kaşık daha almak üzerine kuruludur. kıştan çıkma memleketin, içini ısıtan yemekleri vardır.",
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "rus yemekleri",
+      "entry_id": "176388193",
+      "author": "kucuk soysal",
+      "date": "28.06.2025 02:11",
+      "content": "hiç tatmadığım yemek türü. çünkü ne bir rus komşum oldu, ne de hamarat bir rus teyzem. kendi yağımızda kavrulduk hep. sotelenen soğanın pembeleşmesi gibi.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:43:22.737483",
+    "total_entries": 4,
+    "input": "kanser hastasına gerekli kan suriyeliye",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "kanser hastasına gerekli kan suriyeliye",
+      "entry_id": "58064896",
+      "author": "buhtunnasir",
+      "date": "27.01.2016 21:53",
+      "content": "suriyeli ne yapıyormuş o kanı, affedersin ama içiyor muymuş? bir şekilde, ne şekilde bir dur düşün şampiyon. her insana olduğu gibi suriyelilere de tıbbi ihtiyaç durumunda kan verilir. kan sürekli bir ihtiyaçtır ve stoklardaki kan yetersizse bunun nedeni kan bağışçısı olmaya karşı kayıtsız toplumdur.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "kanser hastasına gerekli kan suriyeliye",
+      "entry_id": "58064967",
+      "author": "bilgehankalkan",
+      "date": "27.01.2016 21:56",
+      "content": "tıbbi konularda ırksal bir öncelik olmadığına ve olmayacağına göre normal bir durumdur. ilk kimin ihtiyacı olduysa ona gider kan veya organ.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "kanser hastasına gerekli kan suriyeliye",
+      "entry_id": "58065135",
+      "author": "coffee and gamepad",
+      "date": "27.01.2016 22:03",
+      "content": "kanın suriyeli hastalara verilmesi bir sorun teşkil etmez ama bütün kan suriyelilere gitti size kan kalmadı denmesi ciddi bir sorun.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY",
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "kanser hastasına gerekli kan suriyeliye",
+      "entry_id": "58065221",
+      "author": "karn evil 9",
+      "date": "27.01.2016 22:07",
+      "content": "önemli olan o kanın suriyelilere suriyeli oldukları için mi yoksa acil ihtiyaçları olduğu için mi yollandığı",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    }
+  ]
+}

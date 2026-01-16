@@ -1,0 +1,38 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:30:19.414156",
+    "total_entries": 2,
+    "input": "ruslarda sadece iki tip soyadı olması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ruslarda sadece iki tip soyadı olması",
+      "entry_id": "89956926",
+      "author": "isimsiz fosil",
+      "date": "11.05.2019 15:44 ~ 15:46",
+      "content": "türklerde, ingilizlerde ve başka uluslarda da benzerlerinin sıklıkla görüldüğü kuraldır.\n\nov eki oğlu anlamındadır.\n\nbiz türklerde de sıklıkla görürüz.\n\nson zamanlarda popüler bir örnek için:\n(bkz: ekrem imamoğlu)\n\ningilizlerde ise aynı kuralda -son eki vardır.\n\nanderson\npeterson\nvs.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE",
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ruslarda sadece iki tip soyadı olması",
+      "entry_id": "89959622",
+      "author": "hunrret",
+      "date": "11.05.2019 16:59",
+      "content": "ukrayna kökenli ruslarda değişen durumdur. genellikle -ko ile biter ve dişi-eril ayrımı olmaz (-o-e ile biten kelimeler genelde yabancı kökenli veya orta cins olarak adlandırıldığı için). -in veya -kiy ile biten soyisimleri de hiç az değildir.\n\nörnek verecek olursak\n\neril:\nputin\npuşkin\nborodin\nsoljenitsin\ndostoyevskiy\nçaykovskiy\ngorkiy\ntolstoy\nşostakoviç\n\ndişi:\nputina\npuşkina\nborodina\nsoljenitsina\ndostoyevskaya\nçaykovkaya\ngorkaya\ntolstaya\nşostakoviça\n\norta cins:\nanasenko\nboyko\ndudko\nzinçenko\nivçenko\nkovalenko\nonopko\npavlyuçenko",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE",
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

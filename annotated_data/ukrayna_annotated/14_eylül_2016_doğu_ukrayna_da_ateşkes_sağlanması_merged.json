@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:13:28.896744",
+    "total_entries": 1,
+    "input": "14 eylül 2016 doğu ukrayna'da ateşkes sağlanması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "14 eylül 2016 doğu ukrayna'da ateşkes sağlanması",
+      "entry_id": "62935147",
+      "author": "der meister",
+      "date": "14.09.2016 12:31 ~ 12:52",
+      "content": "savaşın devam ettiği donbass bölgesinde, ayrılıkçı liderler tarafından tek taraflı olarak ilan edilen ve 14 eylül çarşamba gecesinden itibaren hayata geçmesi beklenen doğa olayı. donetsk halk cumhuriyeti ve luhansk halk cumhuriyeti denen tırıvırıların liderleri aleksander zaharçenko ile igor plotnitskiy, dün yaptıkları açıklamalarda minsk anlaşmasının tek çözüm yolu olduğunu ve bu yüzden tek taraflı olarak ateşkes ilan ettiklerini duyurdu.\n\nateşkes ilanlarından saatler önce, petro poroşenko yerel yönetimlere daha fazla yetki verileceğini söyleyip lafı \"merkezi yönetim çok rererö\" demeye getirmişti. işin sonunda, rusya'nın kazançlı çıkacağı minsk anlaşmasına riayet edilecek ve ukrayna yan basacak gibi görünüyor.\n\no değil de şu an suriye'de de ateşkes var. rusya kesin pislik peşinde. bir gece ansızın 82 mariupol 83 berdyansk diye kırım'ı anakaradan rusya'ya bağlarlarsa şaşırmam.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    }
+  ]
+}

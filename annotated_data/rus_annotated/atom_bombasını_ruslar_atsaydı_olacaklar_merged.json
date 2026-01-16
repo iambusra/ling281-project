@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:27:18.350586",
+    "total_entries": 1,
+    "input": "atom bombasını ruslar atsaydı olacaklar",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "atom bombasını ruslar atsaydı olacaklar",
+      "entry_id": "134251983",
+      "author": "nazif71",
+      "date": "26.02.2022 21:31",
+      "content": "3.dünya savaşını kesin başlatacak hamle olurdu",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    }
+  ]
+}

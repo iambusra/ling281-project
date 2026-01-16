@@ -1,0 +1,91 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:11:10.113553",
+    "total_entries": 6,
+    "input": "türkiye’nin suriye devleti için para basması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türkiye’nin suriye devleti için para basması",
+      "entry_id": "177073900",
+      "author": "ellerim bombos",
+      "date": "25.07.2025 11:21",
+      "content": "ön bilgi:\nbenzeri başlık varsa lütfen taşınsın.\nayrıca daha güzel başlık önerisi varsa modlara bilgi verilsin. teşekkürler.\n\nhaberin detayı:\nkörfez ülkelerinin suriye'ye sağlayacağı kredi ve finansman türkiye bankalarının üzerinden sağlanacağı bildiriliyor.\n\nbuna göre suriye'deki bankacılık sistemini, para basma işlemini türkler yapacak.\n\nsuriye'deki yetkililerin bankacılık sisteminin kurulması için türkiye'de devlet ve özel bankacılık işletmeleriyle görüşme yürüttüğü biliniyor.\n\nsuriye, türk devlet ve özel bankalarının şube açmasına açık olacak.\n\nsavaş öncesinde 2010 yılında suriye'de ziraat bankası'nın suriye'de yerel bir ortakla banka kurma planları savaşla birlikte durdurulmuştu.\n\nticaret bakanı ömer bolat, nisan ayında verdiği demeçte, bankacılık alanındaki işbirliğinin hızla ilerleyeceğini ve türk bankalarının suriye'de şube açmasının önünün açılacağını duyurmuştu.\n\n\"bankacılık işbirliği, türk bankalarının suriye’de faaliyet göstermesi ve finansal altyapının yeniden kurulması konularında iki taraf da hazır. hızlı yol alacağız.\"\n\nkaynak",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "ECON",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "türkiye’nin suriye devleti için para basması",
+      "entry_id": "177075102",
+      "author": "northcarolina16",
+      "date": "25.07.2025 12:17",
+      "content": "yani onların da suriye cumhuriyet merkez bankası olacak bundan böyle öyle mi?\nbiz de mi emperyal sömürü devleti oluyoruz şimdi?\n\n(bkz: türkiye cumhuriyet merkez bankası)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY",
+        "ECON"
+      ]
+    },
+    {
+      "title": "türkiye’nin suriye devleti için para basması",
+      "entry_id": "177075544",
+      "author": "yan giden balik",
+      "date": "25.07.2025 12:37",
+      "content": "daha önce orada ptt açılmıştı. suriler yardım paralarını ptt şubelerinden çekiyordu.\n\nülkenin yararına olsa ampüllerin talip olmayacağı girişimdir.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "ECON",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "türkiye’nin suriye devleti için para basması",
+      "entry_id": "177075746",
+      "author": "falanfulun",
+      "date": "25.07.2025 12:47",
+      "content": "binlerce yıllık adettir, önce para basılır sonra kanun koyulur.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "ECON",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "türkiye’nin suriye devleti için para basması",
+      "entry_id": "177075934",
+      "author": "amadeus magnus",
+      "date": "25.07.2025 12:55",
+      "content": "kağıt ithal boya ithal bunu da hayrına yapmıyoruzdur umarım\nbu arapseverlerden yıldım cebimziden çıkıyor her şey sonra yok ötv mtv",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "ECON",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "türkiye’nin suriye devleti için para basması",
+      "entry_id": "177075988",
+      "author": "rasmussen kalayci",
+      "date": "25.07.2025 12:58",
+      "content": "boş beleş bir olay. nerede faydasız, maliyetli ve başa bela iş varsa onunla uğraşıyor ülkemiz.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY",
+        "ECON"
+      ]
+    }
+  ]
+}

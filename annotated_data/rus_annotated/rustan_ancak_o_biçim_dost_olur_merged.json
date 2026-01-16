@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:25:40.790063",
+    "total_entries": 1,
+    "input": "rustan ancak o biçim dost olur",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rustan ancak o biçim dost olur",
+      "entry_id": "102873787",
+      "author": "kozmik birisi",
+      "date": "01.03.2020 22:42 ~ 22:45",
+      "content": "adil gür müdür nedir az önce sanki kahvede okey çevirirken yaptığı muhabbeti haberturk kanalında yaparak yalan yanlış anket sonuçlarını açıklarken söylediği söz.\nbu kadar mı odun olur arkadaş bu milletin fertleri. cakalindan, akademisyenine hepsi mi bu kadar amatör olur anlamıyorum.\n\ngüncelleme: bazı aklı başında konukların uyarısı üzerine şimdi de sıvayarak daha çok bulamakta.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CULTURE"
+      ]
+    }
+  ]
+}

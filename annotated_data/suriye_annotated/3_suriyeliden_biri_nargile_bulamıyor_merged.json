@@ -1,0 +1,74 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:13:20.535400",
+    "total_entries": 5,
+    "input": "3 suriyeliden biri nargile bulamıyor",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "3 suriyeliden biri nargile bulamıyor",
+      "entry_id": "138781313",
+      "author": "yilmayan adam",
+      "date": "15.06.2022 09:33",
+      "content": "ülkemizdeki nargile-shopların yetersizliğinden dolayı her 3 suriyeliden biri üzgün bir şekilde evinde oturmaktadır. lütfen daha fazla nargile kafe,nargile shop açılması için imza kampanyama yardımcı olun lütfen.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "3 suriyeliden biri nargile bulamıyor",
+      "entry_id": "138781384",
+      "author": "hergelemimar",
+      "date": "15.06.2022 09:36",
+      "content": "yalan haberdir. ülkemiz bolluk bereket ülkesidir. ancak avrupa'daki mülteciler bulamıyor olabilir",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "3 suriyeliden biri nargile bulamıyor",
+      "entry_id": "138781478",
+      "author": "pegasuss",
+      "date": "15.06.2022 09:39",
+      "content": "damacandan nargile yapsınlar",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "3 suriyeliden biri nargile bulamıyor",
+      "entry_id": "138781646",
+      "author": "yasoshn",
+      "date": "15.06.2022 09:45",
+      "content": "devletin bu din kardeşlerimizin mağdur olmaması için acilen ücretsiz nargile dağıtım noktaları kurması gerekiyor.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "3 suriyeliden biri nargile bulamıyor",
+      "entry_id": "138781857",
+      "author": "centlmen",
+      "date": "15.06.2022 09:53 ~ 13:17",
+      "content": "ümmet üzgün, din kardeşi nargile bulamazken tok yatan bizden değildir...! (köpeğin b*kunu içsinler)",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    }
+  ]
+}

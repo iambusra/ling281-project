@@ -1,0 +1,102 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:32:12.669524",
+    "total_entries": 7,
+    "input": "rusların nusret'i aşağılaması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rusların nusret'i aşağılaması",
+      "entry_id": "176065486",
+      "author": "tzantali",
+      "date": "15.06.2025 01:43",
+      "content": "(bkz: https://www.instagram.com/…gsh=mxmyenj0mtz4y2y2mg==)\n\nson kovulmayı koymasaymış iyimiş.",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "rusların nusret'i aşağılaması",
+      "entry_id": "176065520",
+      "author": "ceng muto",
+      "date": "15.06.2025 01:44",
+      "content": "keşke başlık türkler neden nusreti ruslar gibi aşşağılamıyor olsaydı",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CULTURE",
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "rusların nusret'i aşağılaması",
+      "entry_id": "176065648",
+      "author": "apistogramma",
+      "date": "15.06.2025 01:51",
+      "content": "nusret'in popülerliğinin bittiği ve popüler kültür çöplüğünde yerini almaya başladığını gösteren durum.\n\nçok bile kaldı tepede. yukarı çıkan her şey aşağı iner, bu da öyle oldu.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CULTURE",
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "rusların nusret'i aşağılaması",
+      "entry_id": "176065839",
+      "author": "purplepurpose",
+      "date": "15.06.2025 02:03",
+      "content": "bu adamın yaptığı ipe sapa gelmez tuhaf dengesiz halleri türk milletini yanlış tanıtıyordu. kötü örnek oluyordu çoluğa çocuğa. artık popülerliğinin bittiğine sevindim.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CULTURE",
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "rusların nusret'i aşağılaması",
+      "entry_id": "176065909",
+      "author": "handel sarabande",
+      "date": "15.06.2025 02:07",
+      "content": "ruslar kısmen de olsa kültürlü bir millet, görgüsüzlüğü orta doğu halkları gibi kutsamıyorlar",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "rusların nusret'i aşağılaması",
+      "entry_id": "176065972",
+      "author": "tgyexe",
+      "date": "15.06.2025 02:10",
+      "content": "gelmediyse ben yazıyorum.\n\nnusret kim amk?",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "rusların nusret'i aşağılaması",
+      "entry_id": "176066083",
+      "author": "eminmisin ki",
+      "date": "15.06.2025 02:16",
+      "content": "dünyada isim yapmış birkaç ünlü türk vardı, birisi de nusret'di. bir dönem tanınırlığı epey yüksekti.\n\nancak diğer türk kardeşlerimiz gibi kendisi de ne ünü kaldırdı ne de markasını daha ileriye taşıyabildi. açtığı restoranları kapandı, olumlu hiçbir şeyle anılamadı.\n\nparayı bulmakla yetindi.\n\nbizim insanımızın ana hedefi para ve statü. bunları elde ettiyse gerisini takmıyor.\n\nkoca dünyada vizyonlu 3-5 firma çıkaramadık ya üzülüyorum.\n\nülkedeki en büyük aileler ya petrol basıyor ya da ütü falan satıyor. iyi güzel, bu da bir başarı ama ülkenin en başarı aileleri kurutma makinesinden öteye geçemiyor, en ünlü isimleri et tuzlayıp yabancıların bile adam mı soyuyorsunuz dediği ücretlere et satıyor. sonra da tututanamayıp restoranları kapatıyor.\n\nyani nusret bir türk tipi başarısızlık örneğidir. parayı bulup daha çok para için amansızca yükselen, markasını ilerilere taşıyamayan ama kendi cebini doldurarak kendini garantiye alanların özeti.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "ECON",
+        "CULTURE",
+        "HUMAN"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:42:29.509796",
+    "total_entries": 3,
+    "input": "getir kuryesinin suriyeliyle imtihanı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "getir kuryesinin suriyeliyle imtihanı",
+      "entry_id": "134317859",
+      "author": "unnamedcell",
+      "date": "28.02.2022 11:17",
+      "content": "aşağıdan izlenebilecek videodur.\nlink",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "getir kuryesinin suriyeliyle imtihanı",
+      "entry_id": "135070505",
+      "author": "dopeboyfresh",
+      "date": "17.03.2022 23:01 ~ 23:05",
+      "content": "kuryenin sipariş teslim ederken katil olması için bütün sınırları zorlayan suriyeli.\n\nugi tuurrrrrrt turrrrrrrt trin",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "getir kuryesinin suriyeliyle imtihanı",
+      "entry_id": "135071309",
+      "author": "lip ton",
+      "date": "17.03.2022 23:16",
+      "content": "2000'lerin başındaki sucu şakasını hatırlatmıştır.\n\nhttps://www.youtube.com/watch?v=dothjlb9nbs",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

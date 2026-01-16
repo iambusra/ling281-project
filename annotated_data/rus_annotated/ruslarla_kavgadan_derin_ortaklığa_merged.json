@@ -1,0 +1,50 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:31:11.661228",
+    "total_entries": 3,
+    "input": "ruslarla kavgadan-derin ortaklığa",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ruslarla kavgadan-derin ortaklığa",
+      "entry_id": "68700104",
+      "author": "sanver",
+      "date": "08.06.2017 14:24",
+      "content": "tam ismi \"ruslarla kavgadan derin ortaklığa (son yüz senemiz: 1914-2014)\" olan emekli türk büyükelçi kemal girgin'in türkiye rusya ilişkileri nin son 100 yılını incelediği ilgi kültür sanat tarafından basılmış ilginç kitap. kitap, suriye ve uçak krizi gibi son gelişmeleri kapsamasa da, oldukça kapsamlı bir eser.\n\nhttp://www.kitapyurdu.com/…hlgiyrrtqcfc8ygwodk0aijq\n\nhttp://www.idefix.com/…d=cmpp84qrrtqcfsel0wodm80e4w",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "ruslarla kavgadan-derin ortaklığa",
+      "entry_id": "68700186",
+      "author": "trumpets",
+      "date": "08.06.2017 14:28",
+      "content": "(bkz: türk rus kardeştir. amerika kalleştir)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "ruslarla kavgadan-derin ortaklığa",
+      "entry_id": "68708450",
+      "author": "sanver",
+      "date": "08.06.2017 21:50",
+      "content": "http://politikaakademisi.org/…adan-derin-ortakliga/\n\nhttp://ydemokrat.blogspot.com.tr/…vgadan-derin.html",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    }
+  ]
+}

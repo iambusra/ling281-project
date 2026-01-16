@@ -1,0 +1,75 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:11:25.056277",
+    "total_entries": 5,
+    "input": "ukraynada savaşda yıkılan binalar",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukraynada savaşda yıkılan binalar",
+      "entry_id": "149155679",
+      "author": "duragel",
+      "date": "12.02.2023 21:15 ~ 22:54",
+      "content": "üst edit; kusura bakmayın sinirden ne yazdım bilmiyorum moderatör arkadaş düzeltebilirsiniz\nbenim derdim 1 yıl bomba top mermisi füze vb düştü ukrayna'nın üzerine bizimki kadar bina zarar görmedi.\n\n(bkz: 6 şubat 2023 depremi)\n12 bin bina yıkılmış depremde 1 yıldır rusya tarafından bombalanan ukrayna'da böyle bir yıkım olmadı yazık ülkeme.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HUMAN",
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukraynada savaşda yıkılan binalar",
+      "entry_id": "149157088",
+      "author": "rainy saturday",
+      "date": "12.02.2023 21:40",
+      "content": "benzeşme neydi nasıl olurdu?",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukraynada savaşda yıkılan binalar",
+      "entry_id": "149157252",
+      "author": "nickime sen lazim",
+      "date": "12.02.2023 21:42",
+      "content": "başlığı açan arkadaşın türkçesi daha fazla yıkıma uğramış bence",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HUMAN",
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukraynada savaşda yıkılan binalar",
+      "entry_id": "149157507",
+      "author": "justin mcleod",
+      "date": "12.02.2023 21:47 ~ 21:48",
+      "content": "yine olaya değil başka şeylere takılı kalanları görmemizi sağlamış versus.\n\nyazar 1 yıldır bombalama altında olan bir ülkede bizim depremde olan kaybımız kadar kayıp yaşanmadı diyor yazarlar başlık/cümle hatasına takılıyor.\n\nbaşlıkta düzelir cümlelerde. gerçekler ise su üzerinde kalır.\n\ngünün sonunda, 1 yıldır bombalanan ülkede ki kayıp bizim ülkemizdeki kadar değil. (binalar konusunda)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HUMAN",
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukraynada savaşda yıkılan binalar",
+      "entry_id": "149202598",
+      "author": "serbesti",
+      "date": "13.02.2023 18:15",
+      "content": "(bkz: mal beyanı)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

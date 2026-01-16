@@ -1,0 +1,63 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:21:29.193541",
+    "total_entries": 4,
+    "input": "rus ve ukraynalı trafik magandaları",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rus ve ukraynalı trafik magandaları",
+      "entry_id": "143827663",
+      "author": "dick kafali",
+      "date": "12.10.2022 19:50",
+      "content": "son zamanlarda, kıyı yerleşim yerlerinde sık sık gördüğümüz rusya ve ukrayna plakalı modeli yüksek araçlarla, makas atma, öne kırma, arkadan sıkıştırma, üzerine sürme şeklindeki'erdemli' hareketleri yapan yeni nesil magandalardır. anadolu irfanıyla yetişmiş öz magandalarımızdan sonra bir de bunlarla uğraşacak gibiyiz. aynı hareketleri emlak sektöründe de yaptıkları için, bu kentlerin alt ve orta gelir grubu insanları yavaş yavaş gecekondulara ve köylere doğru göçe zorlanıyor. aracımda kamera olmadığı için maalesef görüntü gönderemiyorum. eminim bu görüntüler yakında sık sık paylaşılacaktır.\nmuktedir olsun muhalif olsun, bunları yaşamamıza neden olan tüm yetkilileri huzurunuzda kınıyorum.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "rus ve ukraynalı trafik magandaları",
+      "entry_id": "143827945",
+      "author": "kymelria",
+      "date": "12.10.2022 19:58",
+      "content": "ruslardan da mağduriyet çıkaranı gördük.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus ve ukraynalı trafik magandaları",
+      "entry_id": "143828036",
+      "author": "superkatatonik",
+      "date": "12.10.2022 20:01",
+      "content": "utanmasa “benim türbanlı magandalarıma makas yaptırmadılar” diye ağlayarak kendine mağduriyet yaratacak trolleri ortaya çıkarak başlık.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "rus ve ukraynalı trafik magandaları",
+      "entry_id": "143828530",
+      "author": "marifetname",
+      "date": "12.10.2022 20:15",
+      "content": "başlığı açanın eline sağlık.\ng.t içi kadar alanya trafiğinde bir de bunlar türedi. 10 araçtan 6 sı ukrayna ya da rusya plakalı.\nvakti zamanında ırak işgalinde hummer videoları vardı; amk müptezelleri öyle dalıyorlar trafiğe. camı açıp tam söveceğim, sövemeden özür diliyorlar hemen. nasıl bir kafa çözemedik.\nçok sakat var, çok sakat var.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    }
+  ]
+}

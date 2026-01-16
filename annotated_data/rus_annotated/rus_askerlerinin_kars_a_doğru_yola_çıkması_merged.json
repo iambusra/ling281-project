@@ -1,0 +1,98 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:24:41.197561",
+    "total_entries": 7,
+    "input": "rus askerlerinin kars'a doğru yola çıkması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rus askerlerinin kars'a doğru yola çıkması",
+      "entry_id": "56523046",
+      "author": "lan bu geminin bi ayari yok mu",
+      "date": "26.11.2015 18:41",
+      "content": "(bkz: davay davay)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus askerlerinin kars'a doğru yola çıkması",
+      "entry_id": "56523066",
+      "author": "murderuo",
+      "date": "26.11.2015 18:41",
+      "content": "karsa girmeden gürcistanda yakalarım ben onları",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO",
+        "CRIME"
+      ]
+    },
+    {
+      "title": "rus askerlerinin kars'a doğru yola çıkması",
+      "entry_id": "56523163",
+      "author": "psyche sthenos",
+      "date": "26.11.2015 18:46 ~ 19.03.2018 04:53",
+      "content": ":??",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus askerlerinin kars'a doğru yola çıkması",
+      "entry_id": "56523223",
+      "author": "isimgucumgoygoy",
+      "date": "26.11.2015 18:49",
+      "content": "en fazla digora kadar gelirler. oradan sonra kaybolurlar.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus askerlerinin kars'a doğru yola çıkması",
+      "entry_id": "56523301",
+      "author": "galenos",
+      "date": "26.11.2015 18:53",
+      "content": "rahmetlik dedemi mezarından kaldıracak gelişme.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus askerlerinin kars'a doğru yola çıkması",
+      "entry_id": "56523412",
+      "author": "red light in my eyes",
+      "date": "26.11.2015 19:00",
+      "content": "(bkz: eğleniyor muyuz gençler)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus askerlerinin kars'a doğru yola çıkması",
+      "entry_id": "56524758",
+      "author": "titrettinmertsah",
+      "date": "26.11.2015 20:07",
+      "content": "göğüs göğüse çarpışma ya hazır olduğum askerlerin yola çıkması durumudur (bkz: swh)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

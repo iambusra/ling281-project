@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:51:16.077628",
+    "total_entries": 1,
+    "input": "suriyeli muhaliflerin halep'i tekrardan fethetmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeli muhaliflerin halep'i tekrardan fethetmesi",
+      "entry_id": "170553453",
+      "author": "juvini",
+      "date": "28.11.2024 13:27",
+      "content": "an itibariyle olan durum. zalim esed rejimi devrilecekmiş gibi duruyor.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POLICY"
+      ]
+    }
+  ]
+}

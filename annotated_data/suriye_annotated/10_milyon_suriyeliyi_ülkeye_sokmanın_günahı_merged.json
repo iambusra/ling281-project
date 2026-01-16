@@ -1,0 +1,63 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T16:52:09.523116",
+    "total_entries": 4,
+    "input": "10 milyon suriyeliyi ülkeye sokmanın günahı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "10 milyon suriyeliyi ülkeye sokmanın günahı",
+      "entry_id": "152905597",
+      "author": "gameofgirl",
+      "date": "28.05.2023 13:49",
+      "content": "büyüktür. ama suriyelileri ülkeye sokan adama oy vermenin günahı daha çok büyüktür.\n\nsuriyelilerin bu ülkede yapmış olduğu kötülüklere de ortaklardır. açık ve net.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "10 milyon suriyeliyi ülkeye sokmanın günahı",
+      "entry_id": "152905673",
+      "author": "eksi 18",
+      "date": "28.05.2023 13:50",
+      "content": "belki de ilk suriyeli kafilenin ülkemize girdiği gün milli bayram ilan edilecektir 10-15 sene sonra, büyük konuşmayalım.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "10 milyon suriyeliyi ülkeye sokmanın günahı",
+      "entry_id": "152905702",
+      "author": "speciale aperta",
+      "date": "28.05.2023 13:51",
+      "content": "(bkz: büyük ortadoğu projesi)\n(bkz: türkiye'nin demografisinin kasten değiştirilmesi)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY",
+        "XENO"
+      ]
+    },
+    {
+      "title": "10 milyon suriyeliyi ülkeye sokmanın günahı",
+      "entry_id": "152905776",
+      "author": "kriypton",
+      "date": "28.05.2023 13:53",
+      "content": "ülkenin hayrına sayılır bir kesimi için olmayan günahtır. onlar (arakanlı müslümanlardan farklı olarak) din kardeşlerimizdir, ne yaparlarsa yapsınlar bu böyledir.\n\nişin şakası bir yana günah kısmı tartışılır ama şu çok nettir ki sonuçları hiçte iyi olmayacaktır. sadece belirli bir partinin destekçisi olup eriyen/eriyecek tabanının yerini alacak ve belki ilerleyen zamanda kendi partilerini kurup mecliste söz sahibi olacaktır.\n\nyazık gerçekten, çok yazık...",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    }
+  ]
+}

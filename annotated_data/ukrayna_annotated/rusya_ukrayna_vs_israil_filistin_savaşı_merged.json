@@ -1,0 +1,63 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:05:53.216385",
+    "total_entries": 4,
+    "input": "rusya ukrayna vs israil filistin savaşı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rusya ukrayna vs israil filistin savaşı",
+      "entry_id": "168908619",
+      "author": "kim bunlar ya",
+      "date": "03.10.2024 12:04 ~ 12:08",
+      "content": "batılılar tarih boyunca böyleydi bir türlü medeni ve adaletli olamadılar. sürekli savaşlar çıkartır, yakıp yıkarlardı. ele geçirdikleri şehirlerde kadın ve çocukları kılıçtan geçirirlerdi. endülüs müslümanları bunlara yıkanmayı ve bilimi öğretti ama bu da çözüm olmadı. şimdi de ellerindeki teknolojiyi zulüm için kullanıyorlar.\nbir türlü ahlakı ve yardımlaşmayı öğrenemediler.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "rusya ukrayna vs israil filistin savaşı",
+      "entry_id": "168908775",
+      "author": "sn3x",
+      "date": "03.10.2024 12:10 ~ 12:23",
+      "content": "rusya - ukrayna arasında yaşanan şey savaştır.\nisrail-gazze olayı ise soykırım.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rusya ukrayna vs israil filistin savaşı",
+      "entry_id": "168908950",
+      "author": "cokonemlidegilzaten",
+      "date": "03.10.2024 12:18 ~ 12:19",
+      "content": "batılı ülkeler rusya'ya her konuda yaptırım uygularken, hatta sporcularını bile uluslararası spor organizasyonlarından men ederken, on binlerce çocuğu öldüren israil'e hiçbir yaptırımda bulunmadığı gibi başbakanlarını kongrelerinde 5 dakika ayakta alkışlamışlardır.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "rusya ukrayna vs israil filistin savaşı",
+      "entry_id": "168909229",
+      "author": "anani siken kadi",
+      "date": "03.10.2024 12:31",
+      "content": "batısızlar ne yapıyor?\nbatılılarından bir şeyler yapmalarını beklemek dışında...\nhiç.\n\n(bkz: mavi marmara giderken içindekiler bize mi sordu)\nşundan sonra hangi biriniz dişe dokunur bir şey yapabildi?",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    }
+  ]
+}

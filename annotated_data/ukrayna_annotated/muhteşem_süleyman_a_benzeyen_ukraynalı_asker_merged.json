@@ -1,0 +1,84 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:21:03.248926",
+    "total_entries": 6,
+    "input": "muhteşem süleyman'a benzeyen ukraynalı asker",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "muhteşem süleyman'a benzeyen ukraynalı asker",
+      "entry_id": "147394041",
+      "author": "hermes trismegistos",
+      "date": "08.01.2023 22:14",
+      "content": "harbiden benziyor",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "muhteşem süleyman'a benzeyen ukraynalı asker",
+      "entry_id": "147394954",
+      "author": "thessaloniki",
+      "date": "08.01.2023 22:28",
+      "content": "\"tiz vodkamı getüresün zelenskiy paşa\"",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "muhteşem süleyman'a benzeyen ukraynalı asker",
+      "entry_id": "147395172",
+      "author": "watcanaydu",
+      "date": "08.01.2023 22:31 ~ 22:32",
+      "content": "halit ergenç diye bir adam var, ulan görsen aynı muhteşem süleyman...\n\n(bkz: senin açacağın başlığı s...)",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "muhteşem süleyman'a benzeyen ukraynalı asker",
+      "entry_id": "147395489",
+      "author": "tlmsah",
+      "date": "08.01.2023 22:36",
+      "content": "mustafa'nn boğulduktan sonraki haline daha çok benziyor.\ngözler pörtlemiş.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "muhteşem süleyman'a benzeyen ukraynalı asker",
+      "entry_id": "147395989",
+      "author": "nevonevo",
+      "date": "08.01.2023 22:44",
+      "content": "bir oyuncuyu padişah rolünde oynadı diye saçma bir başlıkla benzetme çabası. adam halit ergenç'e benziyor sultan süleyman'a değil. tarihi diziden öğrenirsen aha böyle olur çocuğun.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "muhteşem süleyman'a benzeyen ukraynalı asker",
+      "entry_id": "147398189",
+      "author": "three legged",
+      "date": "08.01.2023 23:24",
+      "content": "bu adam inşallah savaşta ölmez. halit ergenç tek erkek kardeşini kaybetmesin.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN"
+      ]
+    }
+  ]
+}

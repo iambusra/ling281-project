@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T15:17:25.275723",
+    "total_entries": 1,
+    "input": "1 kasım seçiminde akp'ye oy vermiş suriyeliler",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "1 kasım seçiminde akp'ye oy vermiş suriyeliler",
+      "entry_id": "56256895",
+      "author": "buyuk orta dunya procesi",
+      "date": "15.11.2015 03:44 ~ 03:49",
+      "content": "akp'yi başımıza musallat etmiş iki milyon kişi.\nkamplarda üzerinde rte resmi olan paralar kullanan ve adı tayyeap olan ekmeklerle karnını doyuran pis açlar. akp'ye oy versinler diye türkiye'ye alındı hepsi ve amaçlarına ulaştılar.\n\nsinirden unutmuşum: bunların hepsine tc kimliği verildi bi de:(",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    }
+  ]
+}

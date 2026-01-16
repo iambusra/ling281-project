@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:01:34.308077",
+    "total_entries": 2,
+    "input": "suriyelileri mancınıkla mı göndereceksiniz",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelileri mancınıkla mı göndereceksiniz",
+      "entry_id": "152814358",
+      "author": "motorbreath",
+      "date": "25.05.2023 23:40",
+      "content": "yeni yerine çabuk alışan sinan oğan'ın demeci.\n\nlink",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelileri mancınıkla mı göndereceksiniz",
+      "entry_id": "152816863",
+      "author": "imladan elenen zat",
+      "date": "26.05.2023 00:38",
+      "content": "onlara reddedemeyeceği bir teklif verelim",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    }
+  ]
+}

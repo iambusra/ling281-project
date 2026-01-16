@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-10T23:36:01.358594",
+    "total_entries": 1,
+    "input": "ben suri yok masraf",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ben suri yok masraf",
+      "entry_id": "84850864",
+      "author": "macikisback",
+      "date": "27.12.2018 22:26",
+      "content": "ülkemizin bir şehrindeki banka şubesinden başka bir şehirdeki şubeye yüklü miktarda havale yapan suriyeliye çıkartılan masrafa karşılık suriyelinin verdiği cevap. bedavacılığa alışmış olmanın verdiği rahatlığa bakın hele. günlük hayattan benzer örnekleri hepiniz bulabilirsiniz. uzun sosyolojik tahlil yapmaya da gerek yok en sonunda. ülkedeki suriyeli profili hepimizin malumu ancak terazide şiraze şaştı mı, mazlumu da arsızı da aynı tepkiyi vermeye başlıyor.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    }
+  ]
+}

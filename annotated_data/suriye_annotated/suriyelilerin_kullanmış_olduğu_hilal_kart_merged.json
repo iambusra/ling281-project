@@ -1,0 +1,26 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:04:49.334209",
+    "total_entries": 1,
+    "input": "suriyelilerin kullanmış olduğu hilal kart",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelilerin kullanmış olduğu hilal kart",
+      "entry_id": "168155207",
+      "author": "mahlas ekinoks",
+      "date": "08.09.2024 09:40 ~ 09:41",
+      "content": "maddi zorluk çeken vatandaşlarımıza yardım için çıkartılan hilal kartı kullanan suriyelileri görüyoruz. ayrıca bu ay ki zamla beraber 2600 tl olmuştur. belki tutar çok düşüktür ama sırf bu suriyeli halk yüzünden eminim ki bu karta ulşamayan nice zor durumda türk aileler vardır.\n\nadamlar paralarını çekerken zorluk çekmemeleri için ayrıca arapça dil seçeneği bile koymuşlar\n\nharam olsun",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE",
+        "POLICY"
+      ]
+    }
+  ]
+}

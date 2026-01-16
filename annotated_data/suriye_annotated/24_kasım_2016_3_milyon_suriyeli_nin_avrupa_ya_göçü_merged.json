@@ -1,0 +1,239 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:11:05.752182",
+    "total_entries": 19,
+    "input": "24 kasım 2016 3 milyon suriyeli'nin avrupa'ya göçü",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "24 kasım 2016 3 milyon suriyeli'nin avrupa'ya göçü",
+      "entry_id": "64289041",
+      "author": "sersefilyus",
+      "date": "24.11.2016 14:38 ~ 14:53",
+      "content": "ap kararı sonrası atılması gereken adımdır. (bkz: ey ab sen kimsin yaa)\ndünya dörtten büyüktür. (bkz: şangay beşlisi)\n(bkz: çomaristan'da bugün)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "24 kasım 2016 3 milyon suriyeli'nin avrupa'ya göçü",
+      "entry_id": "64289085",
+      "author": "betada don bebegim yok diye uye oldum",
+      "date": "24.11.2016 14:39",
+      "content": "(bkz: açmadan güldüren başlıklar)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "24 kasım 2016 3 milyon suriyeli'nin avrupa'ya göçü",
+      "entry_id": "64289105",
+      "author": "sagliginiz icin",
+      "date": "24.11.2016 14:40",
+      "content": "(bkz: ay hadi inşallah)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "24 kasım 2016 3 milyon suriyeli'nin avrupa'ya göçü",
+      "entry_id": "64289123",
+      "author": "angry engineer",
+      "date": "24.11.2016 14:41",
+      "content": "(bkz: araya bir kaç çomar katsak mı acaba)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "24 kasım 2016 3 milyon suriyeli'nin avrupa'ya göçü",
+      "entry_id": "64289140",
+      "author": "brownie",
+      "date": "24.11.2016 14:42",
+      "content": "mavi marmara yı hazırladılar sanırım.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "24 kasım 2016 3 milyon suriyeli'nin avrupa'ya göçü",
+      "entry_id": "64289151",
+      "author": "satistemsilcisi",
+      "date": "24.11.2016 14:43",
+      "content": "hadi inşallah..",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "24 kasım 2016 3 milyon suriyeli'nin avrupa'ya göçü",
+      "entry_id": "64289162",
+      "author": "sigaramindumaninasarsam",
+      "date": "24.11.2016 14:43",
+      "content": "müslüman bir lider olmak, müslümanlığın gereği olduğu için, savaştan kaçan milyonlarca insanı önce yurda alıp, sonra müslüman olmayan ülkelere tehdit unsuru olarak sürüp, gerektiğinde ise onların üzerine salmaktır. ya da mıdır?",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO",
+        "CRIME"
+      ]
+    },
+    {
+      "title": "24 kasım 2016 3 milyon suriyeli'nin avrupa'ya göçü",
+      "entry_id": "64289198",
+      "author": "sigara kibrit",
+      "date": "24.11.2016 14:45 ~ 14:46",
+      "content": "--- spoiler ---\ngeçici olarak durdurduğumuz müzakereleri yeniden başlatılırız ama bir şartımız var; avrupa'daki tüm suriyelileri türkiye'ye kabul edeceksiniz.\n\n-ab\n--- spoiler ---",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "24 kasım 2016 3 milyon suriyeli'nin avrupa'ya göçü",
+      "entry_id": "64289199",
+      "author": "punkrock1907",
+      "date": "24.11.2016 14:45",
+      "content": "nerde o günler amk. ancak konuşur bizimkiler. hem mültecileri salsan nasıl gidecek avrupa'ya? bulgaristan sınıra duvar örmüş, nato gemileri ege'de cirit atıyor. geçti o iş. ha keşke olsa, akp'ye tam destek veririm.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "24 kasım 2016 3 milyon suriyeli'nin avrupa'ya göçü",
+      "entry_id": "64289252",
+      "author": "c unitt c",
+      "date": "24.11.2016 14:48 ~ 16:24",
+      "content": "(bkz: olabilir mi öyle bir şey lütfen olsun çünkü)\n\nülkede güzel şeyler de oluyor dedirtir.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "24 kasım 2016 3 milyon suriyeli'nin avrupa'ya göçü",
+      "entry_id": "64289316",
+      "author": "hallelujahdiyemeyenzenci",
+      "date": "24.11.2016 14:50",
+      "content": "hala avrupa birliğinin alternatifini şangay beşlisi sanan cahillerin olduğu ekşi sözlüğe aşina değilim.\n\nolm şunu öğrenin artık şangay beşlisine girebilmen için natodan çıkman ve ülkendeki tüm nato olgularını çıkarman lazım. çünkü şangay beşlisi natonun alternatifidir. şunu öğrenin artık\n\n(bkz: biz de şangay beşlisine gireriz) bla bla bla.\n\n(bkz: çomar beyanlarında bugün)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "24 kasım 2016 3 milyon suriyeli'nin avrupa'ya göçü",
+      "entry_id": "64289332",
+      "author": "acmeus",
+      "date": "24.11.2016 14:51",
+      "content": "katırlarla sınırdan geçerken gözümde canlandirdim ve içim gıdıklandi\nneyse gerçeklere dönelim daha çok beklersiniz. özal zamanında gelen kürtler bura bizim diye nasıl doğuyu sahiplendiyse bunlar da antep hatay bizimdi diye yıllar sonra başımıza bela olacaklar\nat fava 100 yıl bekle",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "24 kasım 2016 3 milyon suriyeli'nin avrupa'ya göçü",
+      "entry_id": "64289772",
+      "author": "samatya kos marmarayi elestiriyorlar",
+      "date": "24.11.2016 15:14 ~ 15:15",
+      "content": "(bkz: o güzel insanlar o güzel marmaraya binip gittiler)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "24 kasım 2016 3 milyon suriyeli'nin avrupa'ya göçü",
+      "entry_id": "64289791",
+      "author": "notify party",
+      "date": "24.11.2016 15:15",
+      "content": "metro turizm kontak açmaya başlamıştır.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "24 kasım 2016 3 milyon suriyeli'nin avrupa'ya göçü",
+      "entry_id": "64289877",
+      "author": "ecrof",
+      "date": "24.11.2016 15:20",
+      "content": "ay hadi inşallah\nmetro turizm göreve",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "24 kasım 2016 3 milyon suriyeli'nin avrupa'ya göçü",
+      "entry_id": "64290215",
+      "author": "dimitrikopulos",
+      "date": "24.11.2016 15:38",
+      "content": "metro turizmin sayın yolcuları dikili kapıkule seferlerine hoşgeldiniz.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "24 kasım 2016 3 milyon suriyeli'nin avrupa'ya göçü",
+      "entry_id": "64291457",
+      "author": "dikis tutmaz sabri",
+      "date": "24.11.2016 16:36 ~ 16:37",
+      "content": "3 milyon suriyeliyi piyon gibi sınıra sürüp hamle yapabileceğimizi zanneden safların çözüm önerisi. keşke mümkün olsa herkesten çok isterim de, biraz akıl lütfen. 80 iline dağılmış, adı, kimliği,adresi kayıtlı olmayan milyonlarca insanı otobüslere doldurup bulgar sınırına mı göndericeksin şimdi, hadi gönderdin sınırın öteki tarafı almıyorum dediğinde ne yapabilirsin peki? şemsiye bir noktadan sonra açılmaz ne yazık ki, dış politika da gizli hedef oynamaya benzemez",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "24 kasım 2016 3 milyon suriyeli'nin avrupa'ya göçü",
+      "entry_id": "64291501",
+      "author": "abad",
+      "date": "24.11.2016 16:38",
+      "content": "seçimlere daha var o yüzden hemen heveslenmeyin.",
+      "has_external_url": false
+    },
+    {
+      "title": "24 kasım 2016 3 milyon suriyeli'nin avrupa'ya göçü",
+      "entry_id": "64291764",
+      "author": "octave charcot",
+      "date": "24.11.2016 16:50",
+      "content": "ülkesinde savaş çıkartıp, biçare halde yollara düşürdükleri insanları iğrenç bir pazarlık nesnesine dönüştürmek de bu ümmetçi rezillere yakışırdı ancak.\n\nsizin ben amınıza koyayım, geçmişinizi sikeyim.\n\nadamların stratejisi avrupa'lının kurumsal düzenlemelerine dayanıyor, bunun bile farkında değil, avrupa'ya sövüyorlar hala.\n\nlan göt beyinli piç, avrupa da sizin gibi orospu çocuğu olsa, o mültecileri ne sınırdan sokar, ne ülkesine alır, gerekirse sınırda kurşuna dizer.\nsende sikik stratejinle ortada kalırsın. ekonomine de ambargo koyar, yarrağı yersin.\n\nama adamlar demokratik-insani bir zeminde, barışçıl çözümlerden yana.\nama bekleyin, sizinle anladığınız dilden konuşacak faşist siyaset yükseliyor avrupa'da. biraz da sizin sayenizde. o zaman bu amcık ağızlı tehditlerinizi kıvırıp götünüze sokarsınız.",
+      "has_external_url": false
+    }
+  ]
+}

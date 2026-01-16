@@ -1,0 +1,97 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:51:18.485865",
+    "total_entries": 7,
+    "input": "suriyeli muhaliflerin hama şehrini alması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeli muhaliflerin hama şehrini alması",
+      "entry_id": "170619750",
+      "author": "aynuristan",
+      "date": "30.11.2024 21:10",
+      "content": "suriye\n\ntürkiye'nin desteklediği suriyeli muhalifler hama şehrini de aldı.",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY",
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyeli muhaliflerin hama şehrini alması",
+      "entry_id": "170752627",
+      "author": "zibinnik",
+      "date": "05.12.2024 13:18 ~ 13:23",
+      "content": "birkac gun icinde hama dusecek. hama duserse sirada humus var. humus dustugu an suriye'nin denizle baglantisi kesilir ve esad gider. kesin.\n\ngörsel",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyeli muhaliflerin hama şehrini alması",
+      "entry_id": "170755158",
+      "author": "zibinnik",
+      "date": "05.12.2024 15:20",
+      "content": "hama dustu diyebiliriz. esad rejimi sehri terk ediyor.\n\ntwit",
+      "has_external_url": true,
+      "sentiment_numeric": 4,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyeli muhaliflerin hama şehrini alması",
+      "entry_id": "170755205",
+      "author": "piknick",
+      "date": "05.12.2024 15:22 ~ 15:24",
+      "content": "son dakika gelişmesi. esad güçleri şöyle kaçmışlar\n\nlink\n\nhedef humus, belki şam.",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyeli muhaliflerin hama şehrini alması",
+      "entry_id": "170755356",
+      "author": "gijjikli",
+      "date": "05.12.2024 15:29 ~ 15:45",
+      "content": "suriyeli muhalif nedir mnkoyiim nedir!!!!\n\nyasal, uluslararası arenada resmen tanınan bir devleti ortadan kaldırmak isteyen abd/israil kontrolünde hareket eden cihatçı, katil, barbarlara ne zamandan beri muhalif diyoruz.\n\nesad güçleri ne lan! suriye devleti ordusu o.\ninsanlık düşmanı keş lejyonerlerle mücadele eden devletin ordusu.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyeli muhaliflerin hama şehrini alması",
+      "entry_id": "170755380",
+      "author": "novareinna",
+      "date": "05.12.2024 15:30",
+      "content": "hamaney ve putin şimdi esad'a ana avrat sövüyordur. herif naz yapıp, antlaşma masasına oturmayarak 1 hafta içinde hem hama'yı hem de halep'i kaybetti.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyeli muhaliflerin hama şehrini alması",
+      "entry_id": "170755455",
+      "author": "m sternoclaidomastoideus",
+      "date": "05.12.2024 15:34",
+      "content": "esas sorun daha önce ölümüne suriye'yi savunmuş rusya ve iran güçlerinin şu an kılının kıpırdamaması, çin'in ise sessiz kalması,",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

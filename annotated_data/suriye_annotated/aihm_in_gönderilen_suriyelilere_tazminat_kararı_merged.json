@@ -1,0 +1,68 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:29:18.177305",
+    "total_entries": 3,
+    "input": "aihm'in gönderilen suriyelilere tazminat kararı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "aihm'in gönderilen suriyelilere tazminat kararı",
+      "entry_id": "139207865",
+      "author": "alidesidero84",
+      "date": "25.06.2022 18:05",
+      "content": "avrupa birliği ödesin o zaman o masrafı. ne de olsa onların keyfi bozulmasın diye ipini koparıp gelenlerin bütün yükünü biz çektik. giren her türlü bize giriyor.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "aihm'in gönderilen suriyelilere tazminat kararı",
+      "entry_id": "139208335",
+      "author": "tekinsiz ve tedirgin",
+      "date": "25.06.2022 18:19 ~ 18:20",
+      "content": "aihm'yi pişman etmenin vaktidir: açın ulan sınırları, yularını koparmış on milyonu aşkın ortadoğulu organizma avrupa' nın anasını çatır çatır ziksin!",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "aihm'in gönderilen suriyelilere tazminat kararı",
+      "entry_id": "139209825",
+      "author": "somedaysomewhere",
+      "date": "25.06.2022 19:07 ~ 19:19",
+      "content": "ben payıma düşeni fazlasıyla vermeye razıyım. kaldıkları sürece bize maliyetleri daha fazla oluyor zaten. sırf sağlık ve eğitim sisteminden yararlanmamaları bile bu tazminatı karşılar.\nedit: @smk isimli yazar arkadaş tazminatın sebebinin geri gönderme değil, geri gönderme işlemleri sırasında özgürlüğünün kısıtlanması olduğunu belirtmiş (#139200328)",
+      "referenced_content": [
+        {
+          "type": "entry",
+          "title": "multecileri-gondermek-icin-50-milyar-euro-gerekli",
+          "entry_id": "139200328",
+          "author": "smk",
+          "date": "25.06.2022 14:03",
+          "content": "yok öyle bir şey. türkiye'de mülteci statüsü avrupa devletlerinden gelenlere verilir. suriyeli, afgan, vs. ortadoğu'dan gelenlere verilen statü geçici koruma statüsüdür. bu kişilerin terk ettiği devlet ülkesindeki terk sebepleri sona erer, can güvenliklerine halel gelmesi, işkenceye maruz kalma ihtimalleri, vb. nedenler sona ererse geçici koruma yönetmeliğinin 11. maddesi kapsamında cumhurbaşkanı kararıyla geçici koruma statüsü toplu olarak kaldırılır ve aynı yönetmeliğin 14. maddesi gereği bu kişilerin geldikleri devletlerin ülkesine geri dönüşleri sağlanır. aihm de hiçbir tazminata hükmedemez çünkü kılıfına uydurursun. göç hukuku politiktir.\n\nsöz konusu tazminat kararının verildiği davada suriyeli göçmen, hürriyetinden yoksun bırakılması sebebiyle, etkin başvuru hakkının ihlalinden ve işkence ve kötü muamele yasağı sebebiyle o tazminata hak kazanmıştır. geri gönderme kararının hukuksuzluğu sebebiyle değil. kararda geri gönderme sırasında 20 saat elleri kelepçeli olduğu için kötü muameleye maruz kalmış ve hürriyetinden yoksun bırakılmış, geri gönderme kararına itiraz edemediği için de etkin başvuru hakkı ihlal edilmiş denmektedir.\n\ngeri göndermek isteyene bir sürü hüküm ve gerekçe var kanunda. buna vatandaşlık verilenlerin usulsüz vatandaşlık kararlarının iptali ile geri gönderilmesi de dahil.",
+          "has_external_url": false
+        }
+      ],
+      "referenced_entry_ids": [
+        "139200328"
+      ],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "ECON",
+        "POLICY"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T14:50:34.788108",
+    "total_entries": 1,
+    "input": "cuma gününü tatil ilan eden saraylardaki suriler",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "cuma gününü tatil ilan eden saraylardaki suriler",
+      "entry_id": "162148404",
+      "author": "sufferagate",
+      "date": "04.03.2024 21:17",
+      "content": "haber\n\nmarmara adasındaki kaçak suriyeliler cuma günlerini tatil ilan edip kadınlar cuma günleri dışarı çıkmıyor iddiası.\n\n''balıkesir'in marmara adasındaki 3 bin nüfuslu saraylarda 2 bin kaçak suriyeli var. beldede cuma günleri tatil ilan edilmiş. kadınlar cuma günü dışarı çıkamıyor! ne diyordum; suriyelileri-afganları toplumun laik sosyolojisini değiştirecek demografik dönüşümün anahtarı görüyorlar''\n\numarım doğru değildir. işler önümüzdeki 5 yıl için cok güzel görünmüyor.",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE",
+        "CULTURE"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,702 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:13:28.867255",
+    "total_entries": 57,
+    "input": "ukrayna'da türk kızı bulup evlenen adam",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukrayna'da türk kızı bulup evlenen adam",
+      "entry_id": "62739564",
+      "author": "mutlu tuccar",
+      "date": "03.09.2016 17:11",
+      "content": "(bkz: bahtsız bedevi)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ukrayna'da türk kızı bulup evlenen adam",
+      "entry_id": "62739576",
+      "author": "impressioligamenticostoclavicularis",
+      "date": "03.09.2016 17:11",
+      "content": "almanya'ya gidip ülker çikolata yiyen adamla aynı olabilir.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "ukrayna'da türk kızı bulup evlenen adam",
+      "entry_id": "62739595",
+      "author": "takrolimusmonohidrat",
+      "date": "03.09.2016 17:12",
+      "content": "oraya gidip türkiye'den ihraç edilmiş meyvenin sebzenin kalitelisini yiyen türk kızıyla evlenmiş adamdır.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "HUMAN",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "ukrayna'da türk kızı bulup evlenen adam",
+      "entry_id": "62739605",
+      "author": "kaleci maier",
+      "date": "03.09.2016 17:13",
+      "content": "(bkz: dünyanın en kısa fıkrası)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'da türk kızı bulup evlenen adam",
+      "entry_id": "62739656",
+      "author": "sosis",
+      "date": "03.09.2016 17:16",
+      "content": "brezilyada türklerden kurulu bir futbol takımı kurmuştur aynı zamanda.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "ukrayna'da türk kızı bulup evlenen adam",
+      "entry_id": "62739691",
+      "author": "karatli",
+      "date": "03.09.2016 17:17",
+      "content": "sınırları aşmış ama insanlığın sınırlarını aşmamayı başaran adamdır. rus yunan kürt kadın dememiş sevebileceği bir kadın bulmuştur.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "ukrayna'da türk kızı bulup evlenen adam",
+      "entry_id": "62739834",
+      "author": "ay beni afacanlar basti",
+      "date": "03.09.2016 17:27",
+      "content": "ukraynalı hatunların muhabbeti sarmayınca gurbette dert ortağı bulmuş adamdır.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "ukrayna'da türk kızı bulup evlenen adam",
+      "entry_id": "62739840",
+      "author": "sigara kibrit",
+      "date": "03.09.2016 17:27",
+      "content": "belki de ukraynalı kadınlar -ki dünyanın en güzelleridir- kendisine yüz vermedi.\n\ndavid beckham, kıvanç tatlıtuğ gibi olmayan adamlar gelip başlık altında türk kadını düşmanlığı yapmasın. monica bellucci, angelina jolie gibi olmayan kadınlarda türk erkeğine laf atmasın bi zahmet.\n\nnot: erkek",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POS-STEREO",
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "ukrayna'da türk kızı bulup evlenen adam",
+      "entry_id": "62739877",
+      "author": "id ibid",
+      "date": "03.09.2016 17:30",
+      "content": "espri konusu yapılıyor ama amerika da yaşayan, oradak pek çok kızla tanışmış birlikte olmuş olan bir arkadaşım türk biriyle evlenmek istiyor. ortada kız da yok, bir gün evlenirsem türk olmalı diyor. neden diyorum, dilini kültürünü bilen, oturup iki çift laf etmesi daha kolay daha zevkli birini istiyor insan diyor. o tanıdıklık hissi çok başka diyor. ben demiyorum o diyor.\n\nyabancıya doymuş, yerliyi özlemiş erkektir.",
+      "has_external_url": false
+    },
+    {
+      "title": "ukrayna'da türk kızı bulup evlenen adam",
+      "entry_id": "62739905",
+      "author": "bakimsiztarzan",
+      "date": "03.09.2016 17:32",
+      "content": "duj yerine normal boy abdesti alan adamdır.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'da türk kızı bulup evlenen adam",
+      "entry_id": "62739935",
+      "author": "moon young",
+      "date": "03.09.2016 17:34",
+      "content": "ne biliyorsunuz? belki de adam ukraynalıdır. ve çevresinde görmediği türde bir fiziğe sahip türk kızı o kişiye, ülkesindeki sarışınlardan daha çekici gelmiştir. nasıl ki oradaki kızlar buradaki erkeklere çekici geliyorsa.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "HUMAN",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "ukrayna'da türk kızı bulup evlenen adam",
+      "entry_id": "62740033",
+      "author": "20 yasinda hala cizgi film izleyen mal",
+      "date": "03.09.2016 17:40",
+      "content": "coca cola ile dolu dolapdan en arkadaki pepsi'yi alan adamdır aynı zamanda.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'da türk kızı bulup evlenen adam",
+      "entry_id": "62740118",
+      "author": "electrobuzz",
+      "date": "03.09.2016 17:46",
+      "content": "(bkz: hemşehri hemşehriyi gurbette severmiş)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'da türk kızı bulup evlenen adam",
+      "entry_id": "62740141",
+      "author": "gold18",
+      "date": "03.09.2016 17:47 ~ 17:48",
+      "content": "(bkz: yok artık daha neler)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'da türk kızı bulup evlenen adam",
+      "entry_id": "62740167",
+      "author": "public static void",
+      "date": "03.09.2016 17:49",
+      "content": "(bkz: allah'ın salağı)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "ukrayna'da türk kızı bulup evlenen adam",
+      "entry_id": "62740179",
+      "author": "cok bilmis olmayan avukat",
+      "date": "03.09.2016 17:49",
+      "content": "(bkz: koyun sürüsünün içinden çoban köpeğini seçen adam)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'da türk kızı bulup evlenen adam",
+      "entry_id": "62740191",
+      "author": "sapadam",
+      "date": "03.09.2016 17:50",
+      "content": "aşık olmuştur?",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'da türk kızı bulup evlenen adam",
+      "entry_id": "62740220",
+      "author": "atom bombaciyan",
+      "date": "03.09.2016 17:52",
+      "content": "hayatı boyunca elini sikecek olanlara dert olmuştur.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "ukrayna'da türk kızı bulup evlenen adam",
+      "entry_id": "62740342",
+      "author": "ali mi emre mi",
+      "date": "03.09.2016 18:00",
+      "content": "kadın erkek fark etmeksizin büyük çoğunluğu çok kalitesiz olan bir milletten biriyle evlendiği için hata yapmış şahıstır.\n\nbütün gün eleştirisini yaptığımız türk milleti, anadolu çomarı, şark kurnazı falan diye sözü edilen kişiler sadece erkekler mi amk?\n\nondan sonra da gelip türk kadınıyla derdi olanları gösteren başlık diye vırvır eleştiri yapın. asıl kendinizi üstün gören, daha ayrıcalıklı gören siz kadınlarsınız, haberiniz yok. ya da var, böyle tepki vermek işinize geliyor.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ukrayna'da türk kızı bulup evlenen adam",
+      "entry_id": "62740398",
+      "author": "lazanat",
+      "date": "03.09.2016 18:03",
+      "content": "vucut diline türk dil bilgisi katmak istemiş olabilir. ayrıca türk yetkilililerin kendisine asgari maaş bağlamasını talep ediyorum",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "ukrayna'da türk kızı bulup evlenen adam",
+      "entry_id": "62740406",
+      "author": "wentimiglia",
+      "date": "03.09.2016 18:04 ~ 18:10",
+      "content": "turk erkeği ne ki turk kadını ne olsun diye dusunmus erkektir. al birini vur otekine bize de anca bu dayanir demistir.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE"
+      ]
+    },
+    {
+      "title": "ukrayna'da türk kızı bulup evlenen adam",
+      "entry_id": "62740569",
+      "author": "yurusenai",
+      "date": "03.09.2016 18:16",
+      "content": "(bkz: mal)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "ukrayna'da türk kızı bulup evlenen adam",
+      "entry_id": "62740639",
+      "author": "bertalucci",
+      "date": "03.09.2016 18:21 ~ 18:24",
+      "content": "belki ukraynada bulduğu kız victoria modeli gibidir dediğim adam. kızı görmeden gömmüşsünüz adamcağızı. kızı görelim kızıııııı (bkz: iki gelsin ikiiiiiii)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "ukrayna'da türk kızı bulup evlenen adam",
+      "entry_id": "62740688",
+      "author": "hastazihin",
+      "date": "03.09.2016 18:24",
+      "content": "kırım tatarı dünyalar güzeli bir kız bulmuş olabilir. ama şöyle bir şey var ki kırım ukrayna değildir. kırım naş.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "ukrayna'da türk kızı bulup evlenen adam",
+      "entry_id": "62741238",
+      "author": "mr cavailer",
+      "date": "03.09.2016 19:00",
+      "content": "cumaya gidiyorum diye cikip eve sarhos donen adamdir.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "ukrayna'da türk kızı bulup evlenen adam",
+      "entry_id": "62741798",
+      "author": "denizebakanadam",
+      "date": "03.09.2016 19:36",
+      "content": "herkes gider mersine, bazilari ise tersine.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'da türk kızı bulup evlenen adam",
+      "entry_id": "62742055",
+      "author": "sarelle terapisi",
+      "date": "03.09.2016 19:51",
+      "content": "meseleyi hala \"guzellik\" kistasinda degerlendiren hemcinslerimi goruyor ve uzuluyorum.\n\nbakın iste bu bir dramdır beyler, acı bir dram...",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "ukrayna'da türk kızı bulup evlenen adam",
+      "entry_id": "62742378",
+      "author": "menuha9559",
+      "date": "03.09.2016 20:13",
+      "content": "bi nevi gavat da diyebiliriz.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "ukrayna'da türk kızı bulup evlenen adam",
+      "entry_id": "62743154",
+      "author": "basbag",
+      "date": "03.09.2016 21:01",
+      "content": "kesin çomardır diyeceğim ama çomar da olsa ukrayna kızını gördü mü atlar lan.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "ukrayna'da türk kızı bulup evlenen adam",
+      "entry_id": "62743457",
+      "author": "hzben",
+      "date": "03.09.2016 21:22",
+      "content": "ukrayna'da türk kızı mı varmış? o ukraynalı olmuştur çoktan.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "ukrayna'da türk kızı bulup evlenen adam",
+      "entry_id": "62743721",
+      "author": "gingerland",
+      "date": "03.09.2016 21:38",
+      "content": "bu başlığın altına türk kadınını aşağılama amacı güden entryler giren tipler, dilerim hiçbiriniz bir türk kadınıyla evlenmezsiniz, umarım halihazırda evli değilsinizdir. sizin gibi sığ tiplerle hiçbir türk kadını evlenme hatası yapıp hayatını rezil etmez umarım.\n\nbu kadar beğenmiyorsanız mal mısınız türk kadınını tavlamak için onbeş takla atıyorsunuz? bekar kalın daha iyi tutarsız, zavallı, ziyan tipler.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "GENDER-MORAL"
+      ]
+    },
+    {
+      "title": "ukrayna'da türk kızı bulup evlenen adam",
+      "entry_id": "62744330",
+      "author": "goddard",
+      "date": "03.09.2016 22:09",
+      "content": "iskoçya'ya gidip bira içmiştir, abartacak bir durum yok.\nnot: iskoçya biraları iyidir (bkz: brewdog punk ipa)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'da türk kızı bulup evlenen adam",
+      "entry_id": "62744404",
+      "author": "dreamyattack",
+      "date": "03.09.2016 22:13",
+      "content": "konya'da mc donalds'a giden teksasli recai abidir.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'da türk kızı bulup evlenen adam",
+      "entry_id": "62744573",
+      "author": "miss mnemosyne",
+      "date": "03.09.2016 22:22",
+      "content": "benim hollanda'ya gidince kazma türk erkeği bulmam gibidir, ki kozmos uzak tutsun gari!",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE"
+      ]
+    },
+    {
+      "title": "ukrayna'da türk kızı bulup evlenen adam",
+      "entry_id": "62744582",
+      "author": "glasses",
+      "date": "03.09.2016 22:22",
+      "content": "iphone- 6 lara bakmaya giderken, apple store dan nokia 3310 alan adam kadar sacma ama saglam yatirim yatmistir...",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'da türk kızı bulup evlenen adam",
+      "entry_id": "62744654",
+      "author": "ebelek gubelek",
+      "date": "03.09.2016 22:26",
+      "content": "(bkz: evlenilecek kadın vs eğlenilecek kadın)\n\nkarıştırmayalım bence. kırıştıralım direk gitsin.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "GENDER-MORAL"
+      ]
+    },
+    {
+      "title": "ukrayna'da türk kızı bulup evlenen adam",
+      "entry_id": "62744670",
+      "author": "ssa120113",
+      "date": "03.09.2016 22:28",
+      "content": "ukraynacı",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'da türk kızı bulup evlenen adam",
+      "entry_id": "62744707",
+      "author": "sakaryaa",
+      "date": "03.09.2016 22:29",
+      "content": "\"tarkan, kenan, burak, cmylmz da türk kızıyla evlendiler gerçeği\" şeklinde başlıkla savunma yapılabilecek durumdur. hatta 18 ay askerlik yapan tayfa \"cmlymzın 18 ay askerlik yaptığı gerçeği\" başlığıyla savunma yapabilmektedirler.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "ukrayna'da türk kızı bulup evlenen adam",
+      "entry_id": "62744791",
+      "author": "gorunmezadaminkorolmasi",
+      "date": "03.09.2016 22:33",
+      "content": "marsta da su bulur",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'da türk kızı bulup evlenen adam",
+      "entry_id": "62744971",
+      "author": "o senin kendi ubuntun",
+      "date": "03.09.2016 22:43",
+      "content": "kaderin boynuna örümcek ağı doladığı adamdır. ulan türkiye' de olsan o kadar kızın arasından biri çıkmaz karşına. nedense yurt dışında şıp diye burnunun dibinde. sebebi çok basit. hemşehricilik. türkiye' de birbirinin yüzüne bakmayan insanlar, yurt dışında kolaylıkla \"topraaaam\" havasına girebilmektedir.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "ukrayna'da türk kızı bulup evlenen adam",
+      "entry_id": "62745151",
+      "author": "hotmanabi",
+      "date": "03.09.2016 22:51",
+      "content": "arkadaş kör dü ameliyat için yolladık şu yaptığına bak çok ayıp.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'da türk kızı bulup evlenen adam",
+      "entry_id": "62745171",
+      "author": "cokseyyapmayanadam",
+      "date": "03.09.2016 22:52",
+      "content": "türkiye sınırları içindeki milyonlarca türk kızından birini bile ayarlayamayanlara dert olmuş erkektir.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'da türk kızı bulup evlenen adam",
+      "entry_id": "62747092",
+      "author": "mysoulcriesfordeliverance",
+      "date": "04.09.2016 00:27",
+      "content": "colde kutup ayisi saldirisina ugrayan bahtsiz bedeviden farki yoktur..",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'da türk kızı bulup evlenen adam",
+      "entry_id": "62749553",
+      "author": "deliyse delirmistir",
+      "date": "04.09.2016 03:13",
+      "content": "sabah akşam türk kızını düşün ara sor, yolda gördüğün türk kızına laf at, annen türk olsun, sen türkiye de doğ türkiye de büyü sonra kalk türk kızı şöyle türk kızı böyle de. sen kalk kızı yok kezban yok erkek fatma gibi abidik gubidik sıfatlara layık gör sonra yüz vermiyorlar trip atıyorlar de ee demek ki hak ediyorsun arkadaşım he birde aynaya bakmakta yarar var sonuçta genlerinde türklük var. birde kızın olursa türk kızı olacak haberin olsun.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "GENDER-MORAL"
+      ]
+    },
+    {
+      "title": "ukrayna'da türk kızı bulup evlenen adam",
+      "entry_id": "62749946",
+      "author": "mertcancanli",
+      "date": "04.09.2016 04:00",
+      "content": "cem yılmaz'ın cmylmz fundamentals'daki esprisini akla getirmektedir.\n(bkz: ukrayna'da nasıl bir yoklukdur bu)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "ukrayna'da türk kızı bulup evlenen adam",
+      "entry_id": "62751494",
+      "author": "alobuyrunbenlutfiyefidillioglu",
+      "date": "04.09.2016 10:39",
+      "content": "bana kendimi hatırlatmıştır.afedersiniz yurtdışına gidiş dönüşlerde,türkçesi geziyorum ben biraz bazen,hep toffife çikolata alırım.hem çok severim hem de en bildiğim içeriğine en vakıf olduğum çuklat olur kendileri. bu konuda hassas olanlara güzel hediye oluyor kafam rahat ediyor, işbu sebeple bana kendimi hatırlatmıştır başlık!!",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "ukrayna'da türk kızı bulup evlenen adam",
+      "entry_id": "62752571",
+      "author": "ortalama vatandas",
+      "date": "04.09.2016 12:17",
+      "content": "kısmet meselesi derim önce. çünkü ukraynalı kızla gezip sevişmek güzel de, evlilik için ortak noktalar bulmak kolay olmaz. evlilik sevgili olmaya benzemez. bunu ergenler bilse anlasa yorumlar farklı olurdu zaten.\n\"ı know what it is to be young\nbut you don't know what it is to be old\"\ntadında oldu galiba bu sefer",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "ukrayna'da türk kızı bulup evlenen adam",
+      "entry_id": "62752724",
+      "author": "nadaynix",
+      "date": "04.09.2016 12:27 ~ 12:29",
+      "content": "türkiyede yetiştirilmenin vermiş olduğu alışkanlık neticesinde kendi örf adet ve karakterlerine yakın bir eş adayı aradığından bulamamış olma ihtimali yüksek. hayatında türk kızından başka kimseyle flört etmemiş arkadaşlar, siz lütfen boş muhabbet yapmayın. ukraynalı kızlar iyidir, hoştur, türk kızlarının geneline vurduğunuz zaman güzellik oranları bizimkine oranla biraz daha yüksektir.\n\nama işte herşey güzellik değildir. bu slavların içinde gerçekten bir tilki dolaşır. çok iyisinizdir, herşey güllük gülistanlıktır ancak sadece bir an olur, maddi olabilir, manevi olabilir sizi öyle güzel tepetaklak eder ki anlamanız 1-2 ayı bulur . aralarında gerçekten çok karakterlileri olmasına rağmen, çoğu para ve güce ayrı bir hayranlık duyar. emin olun zaten gerçekten kaliteli olan ukraynalılar türklerle evlenmezler. ya ukraynalı, rus bir erkek bulurlar ya da avrupaya ya da amerikaya göçmek isteyenler oralardan birisi bulup evlenip göç ederler. zaten ünleri dünya çapında olduğu için bulmaları çokta zor değildir.\n\nbizim türk erkekleri ilk ya da ikinci üçüncü buluşmadan sonra sevişmeye alışık olmadıkları için, hemen etkilenirler ukraynalılardan. halbuki bunlar öpüşmeyi aldatmadan saymayan bir topluluktur. bence o türk kardeşim en mantıklısını yapmış, bir türkü en iyi anlayacak olan yine türklerdir. ayrıca haksızlık etmeyelim son yıllarda güzellik kalibresi gerçekten baya yukarı doğru çıktı türk kızlarında ama işte karakterde bozulmalar var malesef. demem o ki macera aramayın ukraynalı, rus, alman. türk kızları gibisi yok bence, isterseniz deneyin şansınızı boynuzu yiyince anlarsınız.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "ukrayna'da türk kızı bulup evlenen adam",
+      "entry_id": "62757176",
+      "author": "transall",
+      "date": "04.09.2016 17:28",
+      "content": "her almanya'ya gittiğimde dönerci aradığımdan gayet anladığım adamdır.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'da türk kızı bulup evlenen adam",
+      "entry_id": "62757357",
+      "author": "gil estel",
+      "date": "04.09.2016 17:41",
+      "content": "(bkz: kim ulan bu faruk)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'da türk kızı bulup evlenen adam",
+      "entry_id": "62757430",
+      "author": "soncicekbukucu",
+      "date": "04.09.2016 17:45",
+      "content": "bi evlenemediniz, bi bitmediniz ya hu!\nanca çenenizi yorun.\ntanım: daha ukrayna'ya bile gidememiş adamların fesatçılığı.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "ukrayna'da türk kızı bulup evlenen adam",
+      "entry_id": "62757617",
+      "author": "filler dunyanin en masum hayvanlaridir",
+      "date": "04.09.2016 17:58 ~ 17:59",
+      "content": "türk kızı goygoyunun geldiği acınası durumu ortaya çıkaran adam. türk kızı üzerinden nefret suçu işlemek çok normal biliyorsunuz. türk kızları hariç her millet harika muhtesem vs..bunu da biliyorsunuz. türk kızı eleştirilebilecek en ağır şekilde eleştirdiği, söylenecek bütün hakaretler sarf edildiği için klasik türk kızı goygoyu bu başlığa taşınmış.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "GENDER-MORAL"
+      ]
+    },
+    {
+      "title": "ukrayna'da türk kızı bulup evlenen adam",
+      "entry_id": "62757729",
+      "author": "b4usleep",
+      "date": "04.09.2016 18:06",
+      "content": "olmayacak şey değil gönül bu",
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "ukrayna'da türk kızı bulup evlenen adam",
+      "entry_id": "62757760",
+      "author": "karanliktaki aydin",
+      "date": "04.09.2016 18:08",
+      "content": "\"adam sevmiş evlenmiş amk sanane?\" dedirten başlık.\n\nkeza unutmayın ki, ekonomik refah seviyesinin düşüklüğünden dolayı, ihanete en çok kapı açan topluluklardır doğu avrupa kavimleri.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "ukrayna'da türk kızı bulup evlenen adam",
+      "entry_id": "62757910",
+      "author": "turkaz",
+      "date": "04.09.2016 18:20",
+      "content": "(bkz: göt kısmetten çıkınca yarrak bağdat'tan gelir)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "SEXUAL"
+      ]
+    },
+    {
+      "title": "ukrayna'da türk kızı bulup evlenen adam",
+      "entry_id": "62757949",
+      "author": "defoluinsanlar",
+      "date": "04.09.2016 18:23",
+      "content": "gayet hoş bir durumdur, kültür meselesine gelince, sayfalarca yazmak gerekir, vatandaşlığımız aynı diye sanki aynı kültürdeniz, içine girdiğinde anlarsın neyin ne olduğunu, evlenmemiş olan şahıslar bu konu hakkında fikir beyan etmesinler lütfen komik oluyorsunuz.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "ukrayna'da türk kızı bulup evlenen adam",
+      "entry_id": "62993395",
+      "author": "illegalstar",
+      "date": "17.09.2016 18:07",
+      "content": "(bkz: pelin suade)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

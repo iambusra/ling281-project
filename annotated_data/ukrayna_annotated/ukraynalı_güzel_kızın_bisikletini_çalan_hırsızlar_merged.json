@@ -1,0 +1,74 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:18:53.439887",
+    "total_entries": 5,
+    "input": "ukraynalı güzel kızın bisikletini çalan hırsızlar",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukraynalı güzel kızın bisikletini çalan hırsızlar",
+      "entry_id": "162511046",
+      "author": "soul of fury",
+      "date": "16.03.2024 18:50 ~ 19:03",
+      "content": "bu tip kekolara ne demeli bilmiyorum, gerçekten türkiyemizin imajını yerle bir ediyor bu malum ırka mensup hırsızlar. antalya'da kendi halinde yaşayan kızın bisikletiden ne istediniz, ne? allah'tan hanımefendinin bisikleti bulunmuş, sevindim\nkaynak\n\nedit: (bkz: bir kadınla sevişmek dışında yapılabilecekler) adlı başlık da şu anda gündemde ve \"ler\" çoğul ekiyle tanımlı. kaç yıldır sözlükteyim, daha çoğul başlıktan bi sorun yaşayan görmedim. sözlükte kalan son fosillerdenseniz bilemem ama yıllardır çoğul başlık görürüm.",
+      "has_external_url": true,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "CRIME"
+      ]
+    },
+    {
+      "title": "ukraynalı güzel kızın bisikletini çalan hırsızlar",
+      "entry_id": "162511077",
+      "author": "anilcann",
+      "date": "16.03.2024 18:51",
+      "content": "ülkenin yarısından daha iyi türkçe konuşuyor",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukraynalı güzel kızın bisikletini çalan hırsızlar",
+      "entry_id": "162511179",
+      "author": "236",
+      "date": "16.03.2024 18:57",
+      "content": "çirkin olsa çalsınlar da güzel kızın bisikletini neden çalıyorlar anlamadım. hep böyle güzel kızların bisikletini çalıyorlar sanırım. ukraynalı güzel kızın bisikletini çalmayın bak ağzınıza biber sürerim.\n\nt: birden fazladırlar. normalde çoğul başlık açmak ceza gerektiriyordu ama sözlük zaten sözlük olmaktan çıkalı çok oldu.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukraynalı güzel kızın bisikletini çalan hırsızlar",
+      "entry_id": "162511562",
+      "author": "anavatra",
+      "date": "16.03.2024 19:14",
+      "content": "o değil de kız benden iyi türkçe konuşuyor.\nağzım açık kaldı.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukraynalı güzel kızın bisikletini çalan hırsızlar",
+      "entry_id": "162512124",
+      "author": "eurasia",
+      "date": "16.03.2024 19:42",
+      "content": "tam bir dedektif.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:13:46.775514",
+    "total_entries": 9,
+    "input": "30 aralık 2014 ukrayna'da radyasyonun fırlaması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "30 aralık 2014 ukrayna'da radyasyonun fırlaması",
+      "entry_id": "48016546",
+      "author": "buyuyup buyuk adam olacaktim",
+      "date": "30.12.2014 19:43 ~ 19:46",
+      "content": "http://enenews.com/…e-limits-incident-investigation\n\nilk gelen iddialara göre bunun sebebi santralin yakıtını rus tipinden abd tipine çevirirken meydana gelen kaza: http://sputniknews.com/…pe/20141229/1016364567.html\n\nsantralin işletmecisiyse bu iddiaları yalanlamış ve radyasyon seviyesinin normlar içinde olduğunu söylemiş.\n\nhadi bakalım bir şey çıkacak mı.",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "30 aralık 2014 ukrayna'da radyasyonun fırlaması",
+      "entry_id": "48016735",
+      "author": "buyuyup buyuk adam olacaktim",
+      "date": "30.12.2014 19:52 ~ 22:05",
+      "content": "ukrayna tarafından doğrulandı: https://twitter.com/…room/status/549983823799517184\n\n5dk'ya videosu da gelir dendi.\n\nedit: video diye yayınlanan şey sokak görüntüsü lan, açıklamanın videosu gelmedi ve ukrayna'nın bunu yalanladığına dair haberler gelmeye başladı.",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "30 aralık 2014 ukrayna'da radyasyonun fırlaması",
+      "entry_id": "48017285",
+      "author": "erkeginyabancilasmasi",
+      "date": "30.12.2014 20:17",
+      "content": "türkiye'ye kanser ve gözyaşı getirebilir. (bkz: karadeniz bölgesi'ndeki kanser oranları)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "30 aralık 2014 ukrayna'da radyasyonun fırlaması",
+      "entry_id": "48017424",
+      "author": "xorf",
+      "date": "30.12.2014 20:24 ~ 20:37",
+      "content": "video haberi yenice düşmüştür. ukraynanın açıklaması\n(bkz: zaporozhye)\nbir nükleer santralde ani radyasyon artışının tek açıklaması \"ciddi\" bir kazadır. umarım türkiyeyi çok etkilemez. ayrıca umutsuzum çünkü fukushima da japonlar disiplinleri, imkanları ve fedakarlıklarına rağmen felaketi önleyememişti. maalesef bu saydıklarımdan hiçbirisi bugün ukrayna'da bulunmuyor.",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "30 aralık 2014 ukrayna'da radyasyonun fırlaması",
+      "entry_id": "48017443",
+      "author": "master of lightsabers",
+      "date": "30.12.2014 20:25",
+      "content": "(bkz: cem uzan'a hapis şoku)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "30 aralık 2014 ukrayna'da radyasyonun fırlaması",
+      "entry_id": "48017465",
+      "author": "graveler",
+      "date": "30.12.2014 20:26 ~ 20:27",
+      "content": "radyasyona yatırım yapanlar sağlam kazanacaktır.",
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "ECON"
+      ]
+    },
+    {
+      "title": "30 aralık 2014 ukrayna'da radyasyonun fırlaması",
+      "entry_id": "48019105",
+      "author": "travenian",
+      "date": "30.12.2014 21:44 ~ 21:46",
+      "content": "ne yazık ki olay ciddileşecek gibi duruyor.\n\nresmi bildiriye göre kazanın olduğu saatlerde devrede olan 6 nolu reaktör sızan bir belgeye göre yakıt çubuklarının değişimi sırasında otomatik koruma sisteminin devreye girmesi ile ana şebekeden kesilmiş.\nve şu an normalin çok üstünde bir radyasyon söz konusymuş.\n\nlive leak dahil pek çok haber sitesinde haber daha da detaylandırılarak duyurulmakta ve yakında türk haber kaynaklarına da düşecektir.\n\nbahse konu zaporozhiya nükleer santralinin avrupa'nın en büyüğü ve dünyanın 5 inci büyük santrali olduğunu da eklemek gerekir.\n\nçok şükür santraldeki reaktörler çernobil'de ki reaktörlerin çok daha gelişmiş modeli.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "30 aralık 2014 ukrayna'da radyasyonun fırlaması",
+      "entry_id": "48019451",
+      "author": "daphne aria",
+      "date": "30.12.2014 21:59",
+      "content": "cobalt 60 cihaz ile kolimatörsüz açık sahada çekim yapıldığından şüphelendiğim olay.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "30 aralık 2014 ukrayna'da radyasyonun fırlaması",
+      "entry_id": "48019511",
+      "author": "radiyogafa",
+      "date": "30.12.2014 22:02",
+      "content": "ukrayna, kara propaganda olduğunu iddia etmiş ve yalanlamıştır.",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

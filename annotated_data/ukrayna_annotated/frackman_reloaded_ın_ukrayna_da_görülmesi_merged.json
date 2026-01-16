@@ -1,0 +1,84 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:14:42.100435",
+    "total_entries": 6,
+    "input": "frackman reloaded'ın ukrayna'da görülmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "frackman reloaded'ın ukrayna'da görülmesi",
+      "entry_id": "6443008",
+      "author": "azuth",
+      "date": "06.12.2004 23:39",
+      "content": "06 aralik 2004 tarihinde ki cnn-türk de yayinlanan gece haberleri programinda rastlaşilan bir hadise..\nher zamanki gibi sicak koltugumda oturmus \"bir istanbul masali\" adli diziyi dikkat ile takip ederken reklam arasinda elimdeki ihlamuru bir kenara koyup kumandayi elime alma ihtiyaci hissettim..kanallari degistirirken dunya gundemini takip ediim cahil olmayayim dusturu ile cnn-turk de karar kildim..ama o da ne..kirim turklerinden biri yakalanmis sohbet edilirken arkada frackman kafasinda fenerbahce beresi boynunda turuncu atkisi ile endami arz etmekte..\n\ndaha once nazmiye demirel ustadimizin \"gurcistan\" parlementosunu basma eyleminde gorulmesinden sonra sozlugun bir devrimciye,bir partizana daha yataklik etmekte oldugunu anladim..frackman in genel planda \"yusenko gelecek dertler bitecek\" seklinde 4-3 lük tezahurati gozlerimi yasartti hatta..",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "frackman reloaded'ın ukrayna'da görülmesi",
+      "entry_id": "6443114",
+      "author": "blindman",
+      "date": "06.12.2004 23:53",
+      "content": "ukrayna'da olaganustu hal ilan edilmesinin sebebi...",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "frackman reloaded'ın ukrayna'da görülmesi",
+      "entry_id": "6443120",
+      "author": "continuum transfunctioner",
+      "date": "06.12.2004 23:53",
+      "content": "belki bir alakasi vardir umuduyla (bkz: eksi sozluk erkekler zirvesi operation kiev)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "frackman reloaded'ın ukrayna'da görülmesi",
+      "entry_id": "6443122",
+      "author": "delikan76",
+      "date": "06.12.2004 23:54 ~ 09.12.2004 15:44",
+      "content": "ne alakasi var demeyin:\n(bkz: kirov reporting)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "frackman reloaded'ın ukrayna'da görülmesi",
+      "entry_id": "6443144",
+      "author": "delikan76",
+      "date": "06.12.2004 23:56",
+      "content": "yatirim yapmaya gitmi$tir, turk lokumu satmaya, ihracat hedefleri icin.\nhemencecik:\n(bkz: bu mu hortum)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CRIME"
+      ]
+    },
+    {
+      "title": "frackman reloaded'ın ukrayna'da görülmesi",
+      "entry_id": "6443151",
+      "author": "esismen",
+      "date": "06.12.2004 23:57",
+      "content": "yeni mal cekmeye gitmistir. buyutmeye gerek yok.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

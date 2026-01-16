@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:43:42.818755",
+    "total_entries": 1,
+    "input": "kurban bayramında suriyelilere izin verilmemesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "kurban bayramında suriyelilere izin verilmemesi",
+      "entry_id": "138618060",
+      "author": "hayatimin anlami",
+      "date": "11.06.2022 13:53",
+      "content": "türkiye'deki suriyeli sayısını daha da artırabilecek karar.\n\nlakin tebrik ederim isabetli bir karar olmuş.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POLICY"
+      ]
+    }
+  ]
+}

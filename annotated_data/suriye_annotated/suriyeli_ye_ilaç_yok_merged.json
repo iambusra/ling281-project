@@ -1,0 +1,64 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:53:14.678034",
+    "total_entries": 4,
+    "input": "suriyeli'ye ilaç yok",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeli'ye ilaç yok",
+      "entry_id": "49660657",
+      "author": "travenian",
+      "date": "06.03.2015 21:03 ~ 07.03.2015 01:56",
+      "content": "istanbul’da görev yapan 5 bin eczane, suriyeli hastalara ilaç vermeme kararı aldı. tüm eczacı işverenler sendikası (teis) genel başkanı nurten saydan, kararlarının nedeninin devletin ilaç paralarını ödememesi ve eczane başına 100-150 bin lira alacak bulunması olduğunu söyledi.\n\nsaydan yaşanan durumu şöyle anlattı: “eczacılarımız 11 aydır verdikleri ilacın parasını devletten alamıyorlar. bu nedenle artık suriyelilere ilaç vermeyi kestiler. afad’ın eczane reçetelerinin kontrolünü hızlandırması ve geciken ödemeleri bir an önce yaparak, eczanelerimizin mağduriyetini kaldırması gerekiyor.”\n\nşeklindeki haber'in başlığıdır. (bkz: hürriyet)\n\nsen milyonlarca suriyeli yi ülkeye doldur, meydanlara çık onlar misafir de, adamlar açlıktan sefaletten kırılsınlar, aylarca eczacılardan ilaç almalarını sağla ama borcunu ödeme. şimdi de ilaç alamayacak hale düşsünler.\n\nsonra da sağlık bakanı olarak çık lösev in devletten bir kuruş para almadan kurmaya çalıştığı hastane için:\n\ngereksiz . ihtiyaç olsa kralını yaparız minvalinde beyanlar ver.\n\nönce borcunuzu bir ödeyeydiniz beyler. sonra yaparsınız atarınızı.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "ECON"
+      ]
+    },
+    {
+      "title": "suriyeli'ye ilaç yok",
+      "entry_id": "49661440",
+      "author": "birlesmis milletler genel telesekreteri",
+      "date": "06.03.2015 21:41",
+      "content": "5000 eczane ve eczane başına 100.000-150.000??? noluyor a.k? 500.000.000- 750.000.000tl? taşşak mı geçiyosunuz?\n\nben mi yanlış hesapladım yoksa sadece istanbul'daki eczanelere en az beş yüz milyon tl borç mu birikmiş?\n\nakp gitmesin hacı. kalıp seve seve ödesinler bu parayı.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "ECON"
+      ]
+    },
+    {
+      "title": "suriyeli'ye ilaç yok",
+      "entry_id": "49670610",
+      "author": "axreph",
+      "date": "07.03.2015 10:58 ~ 10:59",
+      "content": "rezil bir karar. karari veren eczaci arkadaslarin bu iste en az gunahi oldugunu belirteyim oncelikle. ama bu neyin kafasi ki oh olmus bu teroristlere diyebiliyorsunuz ona anlam veremiyorum iste. 5 yasinda cocuk hangi terorist aktivitenin parcasi olabilir acaba. adamlarin icecek suyu yiyecek ekmegi bile yok. sen basagrina bile 2 saat tahammul edemez iken kendi cocuklarinin ilac alamamasi bir baba icin ne anlama gelir bilir mi acaba bu arkadas. yuh ulan yuh insanliginizi sikiim.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "POLICY",
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "suriyeli'ye ilaç yok",
+      "entry_id": "59462975",
+      "author": "hayatdevamediyor",
+      "date": "23.03.2016 22:44",
+      "content": "efendim olayın özü şudur; suriyelilere ilaçlarını devlet değil eczacılar kendi ceplerinden vermektedirler. eee bu eczacılar para babası mı? herbirinin 100-150 bin alacağı var. kendi eczanelerinin değirmenini döndürmek zorundalar, sokaktan bulmuyor bu adamlar parayı.böyle bir olayda bile afet ve acil durum yönetim başkanlığının(afad) yaptıkları krize neden oluyorsa yarın öbürgün büyük bir afet olduğuna eczacılar nasıl ilaç hizmeti verecek???. sonuna kadar destekliyor yalnız olası sonuçların sorumluluğunun da afad'ın kendisinde olduğunu hatırlatıyorum.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN",
+        "POLICY"
+      ]
+    }
+  ]
+}

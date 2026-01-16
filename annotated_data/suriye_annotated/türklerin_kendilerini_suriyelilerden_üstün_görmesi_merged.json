@@ -1,0 +1,62 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:13:14.360157",
+    "total_entries": 4,
+    "input": "türklerin kendilerini suriyelilerden üstün görmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türklerin kendilerini suriyelilerden üstün görmesi",
+      "entry_id": "55092167",
+      "author": "dermanyon",
+      "date": "27.09.2015 03:33",
+      "content": "evet bu durum en iğrenç haliyle var.\n\ntamam oldum olası biz kendimizi araplardan hep üstün gördük. bu hep vardı zaten. ama bunun temelinde zengin ama görgüsüz araplara duyulan antipati vardı. biz eskiden zenginleri sevmezdik arkadaş. bakın eski türk filmlerine falan hep görürsünüz bunu.\n\nnolduysa artık şimdi o suriyeli garibanlardan nefret eder olduk. o insanları bir an önce yok edilmesi gereken böcekler olarak görür hale geldik. daha götünü temizlemesini köylü esnafın ırkçı bir kibirle suriyeliler den bahsettiğini gördükçe ağzına sıçasım geliyor resmen.\n\nlan arkadaş noluyor bize? sabah akşam osmanlı, ejdadımız, milli kültürümüz diye götünü yırtanlar hiç mi yunus emre'yi, mevlanayı duymadılar.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "türklerin kendilerini suriyelilerden üstün görmesi",
+      "entry_id": "55092189",
+      "author": "misterio23",
+      "date": "27.09.2015 03:35",
+      "content": "kıçında don durmayacak ezik büzük kişiliksiz müsvetteleri rahatsız eden varsayımdır.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "türklerin kendilerini suriyelilerden üstün görmesi",
+      "entry_id": "55093615",
+      "author": "bedevi bulamayan bahtsiz kutup ayisi",
+      "date": "27.09.2015 08:45",
+      "content": "aklima rahmetli (bkz: isiklar icinde yat) zeki alasya ve metin akpinar ikilisinin bir eserindeki \" orala, burala, surala hep benim oleyyo bilen mi guzum\" dedigi sahneyi getiren baslik.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "türklerin kendilerini suriyelilerden üstün görmesi",
+      "entry_id": "55093689",
+      "author": "spedy gonzales",
+      "date": "27.09.2015 08:58",
+      "content": "allah allah bu söylenene inanmak zor gibi zira bizim millette her geleni kendinden üstün görme özelliği mevcuttur. hem suriyeli'lerden üstün görseler 4-5 yıldır bu suriyeli grup böyle rahat yaşar mıydı ülkemizde? hatta milletin evine gidip çok kirlendim bir banyo yapabilir miyim diyerek yıkanıp, ben bu evde yıkandım evin namusu oldum çıkmam ben buradan diyen sonra polis zoruyla çıkarılan suriyeli kadınlar olur muydu?\nalmanya'da adamlara nazi kampı türü fişler takıyorlar sen hala bize laf ediyorsun. avrupalı gibi yapsak aşağı görmemiş oluruz değil mi? ayarlı konuş kendini kötüleyip, herkesten aşağı gören arkadaş!",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    }
+  ]
+}

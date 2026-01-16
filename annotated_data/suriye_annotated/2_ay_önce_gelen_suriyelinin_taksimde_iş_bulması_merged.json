@@ -1,0 +1,50 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T15:06:49.751400",
+    "total_entries": 3,
+    "input": "2 ay önce gelen suriyelinin taksimde iş bulması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "2 ay önce gelen suriyelinin taksimde iş bulması",
+      "entry_id": "39914283",
+      "author": "horacegoesskiing",
+      "date": "24.01.2014 19:50 ~ 27.01.2014 12:50",
+      "content": "(bkz: they took our jobs)\n\nbaşa kalmış",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "ECON"
+      ]
+    },
+    {
+      "title": "2 ay önce gelen suriyelinin taksimde iş bulması",
+      "entry_id": "39914409",
+      "author": "travenian",
+      "date": "24.01.2014 19:56",
+      "content": "doğaldır. onlar essed zulüm nden kaçmışlar. yani bak bi iş başarmışlar. biz tayyip zulüm unden bırak kaçmayı bu zulüm altında mest olmuş yaşayıp gidiyoruz.\n\nülkede bi litre benzin 5 lira olmuş (yazıyla beş) bu beş liranın üç lirası vergi hatta belki daha fazlası ve hiç kimsenin sikinde değil.\n\nbu zammın yarısı için ve bu fiyatın dörtte biri için milyonlarca insanın yollara çıkıp kontak kapatmışlığı var bu dünyada.\n\no suriyeli bulacak tabiki işi. mal mı bizimkiler gibi.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN-POS",
+        "ECON"
+      ]
+    },
+    {
+      "title": "2 ay önce gelen suriyelinin taksimde iş bulması",
+      "entry_id": "39914487",
+      "author": "otobuste sessiz osuran adam",
+      "date": "24.01.2014 19:59",
+      "content": "türkiye'yi türkiye yapan,çanakkale gibi büyük bir destanı en küçük imkanlarla yazan,aziz bir milletin suskunluğu ve umursamazlığı sebebiyle,yakında vatanımızı elimizden aldıklarında daha bir farkına varacağımız durumdur.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CULTURE"
+      ]
+    }
+  ]
+}

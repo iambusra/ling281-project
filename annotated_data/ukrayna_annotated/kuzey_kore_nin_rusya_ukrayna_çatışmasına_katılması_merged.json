@@ -1,0 +1,96 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:05:47.001977",
+    "total_entries": 7,
+    "input": "kuzey kore'nin rusya ukrayna çatışmasına katılması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "kuzey kore'nin rusya ukrayna çatışmasına katılması",
+      "entry_id": "169498017",
+      "author": "diespiter",
+      "date": "23.10.2024 08:43",
+      "content": "ukrayna devlet başkanı zelensky'ye göre kuzey kore, rusya'nın ukrayna'daki savaş çabalarını desteklemek üzere personel gönderiyor. bu katılım silah transferinin ötesine geçiyor ve kuzey kore vatandaşları doğrudan rus askeri güçlerine yardım ediyor. ukrayna istihbaratı ukrayna'nın doğusunda kuzey koreli kayıplar olduğunu bildirirken, rusya bu iddiaları yanlış olarak nitelendiriyor. moskova ve pyongyang arasında büyüyen ittifak endişeleri arttırdı ve her iki ülke de karşılıklı askeri yardım sağlamayı kabul etti. güney kore istihbarat servisi durumu yakından izliyor ve kuzey kore'nin daha fazla asker konuşlandırmasından endişeleniyor.\n\nabd ve japonya da bu gelişmeden endişeli. rusya'nın savaş için mühimmat, kuzey kore'nin ise gıda, enerji ve askeri teknoloji ihtiyacı nedeniyle bu yakınlaşma ilerliyor gibi görünmekte. rusya'nın kuzey kore'ye karşılık olarak sağlayacağı destek japonya ve güney kore için de bir tehdit oluşturmakta.\n\nsonuçta japonya ve güney kore biraz daha ukrayna saflarındaki koalisyona yaklaşmış oluyor.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "kuzey kore'nin rusya ukrayna çatışmasına katılması",
+      "entry_id": "169498835",
+      "author": "062154",
+      "date": "23.10.2024 09:29",
+      "content": "kuzey kore 12000 asker gönderiyor\n\nkuzey kore de savaşta\n\nkuzey kore savaşa mı giriyor?",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "kuzey kore'nin rusya ukrayna çatışmasına katılması",
+      "entry_id": "169499059",
+      "author": "susak kabagi",
+      "date": "23.10.2024 09:39",
+      "content": "tüm avrupadan destek alan ukraynanın ağlaması.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "kuzey kore'nin rusya ukrayna çatışmasına katılması",
+      "entry_id": "169499159",
+      "author": "su samurai",
+      "date": "23.10.2024 09:45",
+      "content": "güney kore de ukrayna'nın yanında savaşa katılacağını açıklamış. savaş denkleminin iki tarafındaki koreler birbirini götüreceğinden savaş eskisi gibi devam edecektir.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "kuzey kore'nin rusya ukrayna çatışmasına katılması",
+      "entry_id": "169499299",
+      "author": "osbirci31",
+      "date": "23.10.2024 09:53 ~ 09:54",
+      "content": "rusçular tarafından dünyanın en güçlü ordusu diye övüle övüle bitirilemeyen bir ordunun 3 günde alma umuduyla girdiği ukrayna'da tokat manyağı yapılıp rezil olmasından sonra kuzey kore'den yardım istemesi durumudur.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "kuzey kore'nin rusya ukrayna çatışmasına katılması",
+      "entry_id": "169499461",
+      "author": "ahmedovv",
+      "date": "23.10.2024 10:00",
+      "content": "hay üstteki yazarın ağzına sağlık buna benzer bi entry girecektim ... hani dünyanın en güçlü ordularından biriydi rus ordusu 3 günde kiev'e giriyordu ne oldu? savaş masa üstünde olmuyor saha çok farklı ...",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "kuzey kore'nin rusya ukrayna çatışmasına katılması",
+      "entry_id": "169499537",
+      "author": "viyana kusatmasinin kusu",
+      "date": "23.10.2024 10:04 ~ 10:06",
+      "content": "çıkar doğrultusunda mantıklı olan durum.\n\ndoğudaki devletler, batı ne derse onu yapacak değil mi?",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    }
+  ]
+}

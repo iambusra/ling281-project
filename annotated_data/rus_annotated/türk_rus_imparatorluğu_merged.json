@@ -1,0 +1,376 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:19:42.899137",
+    "total_entries": 30,
+    "input": "türk rus imparatorluğu",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türk rus imparatorluğu",
+      "entry_id": "31166343",
+      "author": "tripoli",
+      "date": "03.12.2012 14:38",
+      "content": "ünlü vizyoner yiğit bulut tarafından ortaya atılan nefis imparatorluk.\n\n(bkz: emperyal türkiye)",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POLICY",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "türk rus imparatorluğu",
+      "entry_id": "31166368",
+      "author": "orijinnal",
+      "date": "03.12.2012 14:40",
+      "content": "(bkz: rus kağanlığı)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "türk rus imparatorluğu",
+      "entry_id": "31166423",
+      "author": "insomni4c",
+      "date": "03.12.2012 14:47 ~ 14:51",
+      "content": "(bkz: avarlar)\n\nimparatorluktan sayılmasa bile türk ve ruslar o dönemde aynı devlet altında yaşayıp istanbul'u kuşatmışlardır.\nedit:hatta slav kavimlerinin ilk kez birlik oluşu avarlar yönetimindedir.yani rusya avarların daşşanı yesin.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "türk rus imparatorluğu",
+      "entry_id": "31166554",
+      "author": "guatr cemo",
+      "date": "03.12.2012 15:03",
+      "content": "savaşmaz. sevişir.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "SEXUAL"
+      ]
+    },
+    {
+      "title": "türk rus imparatorluğu",
+      "entry_id": "31171912",
+      "author": "sfist",
+      "date": "03.12.2012 23:22 ~ 23:23",
+      "content": "ruslar ve turkler gibi iki milliyetci halkin bir araya gelmesinden imparatorluk degil kan cikar. zaten tarih de bunu dogrular bir bicimde isledi simdiye kadar. (bkz: osmanli rus savaslari)\nha rusya ve turkiye arasinda yakinlasmalar olabilirimi, olur aslinda, ama her tur icazeti abd'den alan ve abd'ye gobekten bagli tayyip hukumetinde boyle birsey olamaz.\nakp hukumeti bunu yaptigi anda ibreler terse doner, bir anda abd yanlisi bir komutan grubu cikiverir orduda, yumusak veya sert bir darbe ile bastakileri gocertir.\nabd baska sebeplerden ortadogudaki odaklanmasini kaybetmedigi surece bu kisir dongu halinde boyle isler.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "türk rus imparatorluğu",
+      "entry_id": "63545035",
+      "author": "joker77",
+      "date": "17.10.2016 19:31 ~ 15.03.2023 18:06",
+      "content": "savaş ve seksten başka bir şey getirmez.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "türk rus imparatorluğu",
+      "entry_id": "80290211",
+      "author": "huzursuz",
+      "date": "15.08.2018 13:14 ~ 13:15",
+      "content": "(bkz: hayallerde yaşıyor)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "türk rus imparatorluğu",
+      "entry_id": "80290512",
+      "author": "iki ogrenci bir tam",
+      "date": "15.08.2018 13:23",
+      "content": "türk rus imparatorluğu olacağına inanan var mı? 5~10 sene sonra sadece rus imparatorluğu olur onun adı.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "türk rus imparatorluğu",
+      "entry_id": "80290560",
+      "author": "garipbasci",
+      "date": "15.08.2018 13:25",
+      "content": "(bkz: manda ve himaye kabul olunamaz)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "türk rus imparatorluğu",
+      "entry_id": "80290816",
+      "author": "puskulut",
+      "date": "15.08.2018 13:33",
+      "content": "sikerim böyle imparatorluğu ulan, ne zaman vazgeçeceksiniz manda ve himayeden. bizler atamızla zamanında çoktan manda ve himayeyi geride bıraktık darısı sizlere.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "türk rus imparatorluğu",
+      "entry_id": "80291303",
+      "author": "evliya",
+      "date": "15.08.2018 13:48",
+      "content": "ecevit hükümetinin son zamanlarında birleşik türk-yunan cumhuriyeti'nden bahsediliyordu. sonra ecevit hükümeti yıkıldı, akp iktidar oldu. birden aklıma geldi.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "türk rus imparatorluğu",
+      "entry_id": "80293517",
+      "author": "nesedenyana",
+      "date": "15.08.2018 14:57",
+      "content": "ezeli düşman ne zaman dost oldu.\nhiç bir bağımızın olmadığı,iki ülke ilişkilerinde savaştan ve gerginlik ten başka bir şey yok.\nmoskof gavurunu ülkenin doğusunu yıllarca işgal etti.\nulan tüm yaşanmışlığıyla yakın tarihimizi bile trollüyor jöle kafa.\nerzurum u 50 yıl işgal etmiş. stalin döneminde yaptıklarıda ortada, tartışılcak hiçbir şey yok.\nkim turk-rus impsi diye birşey saçmalıyorsa o haindir.\nuzakta aramayın.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "türk rus imparatorluğu",
+      "entry_id": "80293624",
+      "author": "jedi master obi wan",
+      "date": "15.08.2018 15:01",
+      "content": "o rus imparatorluğu olur sende sömürgesi. kafaya bak adamda. bu devirde hala mandacılıktan medet umuyor.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "türk rus imparatorluğu",
+      "entry_id": "80298866",
+      "author": "kekremsibirtat",
+      "date": "15.08.2018 17:45",
+      "content": "kucaktan kucağa oturmayı sevenlerin önereceği ve savunacağı saçmalıktır. illa birilerinin kucağına oturmanıza ihtiyacınız yok bunu bilin.\nyönettiğiniz ülkenin tarihini, konumunu ve gücünü bilip ona göre yönetirseniz götünüzü sağlama alırsınız yoksa en ufak bir krizde oturacak başka kucak ararsınız.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "türk rus imparatorluğu",
+      "entry_id": "80299258",
+      "author": "bomonti turrret kokusu",
+      "date": "15.08.2018 17:58",
+      "content": "rus dediğiniz şey türklerle slavların birleşerek oluşturduğu topluluktur. lakin bu gerçek, tarih yazıcılığının karanlık derinliklerinde kaybolmuştur.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "türk rus imparatorluğu",
+      "entry_id": "80299487",
+      "author": "the last realist sami",
+      "date": "15.08.2018 18:06",
+      "content": "nasıl doğu perinçek oldum adlı kitabın konusu olacak başlık.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "türk rus imparatorluğu",
+      "entry_id": "80299499",
+      "author": "metehanbeyefendi",
+      "date": "15.08.2018 18:07",
+      "content": "youtubede gördüğüm bir alternatif tarih biraz saçma ama güzel yani\nolay şu osmanlı ile rus knezliği birleşip bir devlet oluyorlar (polonya litvanya gibi) ve savaşlar falan oluyo sonra dağılıyo olay bu kadar yani\nbiliyoz böyle bir şey olmayacağını siz takmayın kafanızı\nbide dolar 10 kr olsada yaşanmaz bu ülkede diyen arkadaşada sözüm şudur siktir git ülkeden o zaman y*vşak",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "türk rus imparatorluğu",
+      "entry_id": "80299639",
+      "author": "cellatpapa",
+      "date": "15.08.2018 18:12",
+      "content": "bir insan esaret altına girmeyi bu kadar mı ister! gerizekalılar ordusu ak",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "türk rus imparatorluğu",
+      "entry_id": "80299707",
+      "author": "tahirikemal",
+      "date": "15.08.2018 18:13",
+      "content": "ruslar 100 yıl önce (bkz: türkistan)'ı kazakistan, kırgızistan, özbekistan, türkmenistan diye darmadağın edip dörde bölmüş, yetmemiş o böldüğü parçaları özerk bölgelere ayırmış, yetmemiş rusçayı ve kiril alfabesini resmi dil diye dayatmış, yetmemiş buradaki liderleri ve ailelerini katletmiş, 3 nesilde bizim trabzonluyla muğlalınınki kadar bile şive farkı olmayan milleti birbirine düşman etmiş... bizim saflarda hala türk rus imparatorluğü hayalleri kuruyor. ukrayna'ya, gürcistan'a ve dahi kendi rus ortodoksuna muhalif diye acımayan, çerkezlere çeçenlere yüzyıllardır kan kusturan, orta asyada birsürü türkic unsurun soyunu kurutan rus, tarihi düşmanı türkle imparatorluk kuracak hemi?\n\nosmanlının yıkılışında en büyük sebeplerden biri ruslarla bitmek bilmeyen savaşlarımızdir. türk rus imparatorluğuna ancak süper saf iyiniyetli kardeşler ve uslanmaz maocu perinçek & taifesi inanır.\n\ntanım: ütopik bile olmayan olay.\ntarih bilmiyorsun anladık da o ağzından düşürmediğin 2. abdülhamid han'ı da mı unuttun? al bide buna bak; (bkz: 93 harbi)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "türk rus imparatorluğu",
+      "entry_id": "80299755",
+      "author": "takvimde emekliye zam haberi",
+      "date": "15.08.2018 18:14",
+      "content": "ulan ne mal.adamlar var. rusya ve türkiye nin çıkarları bazen günü birlik aynı istikamettedir ama nereye kadar.\ntarihsel rekabet bir yana biz balkanlarda bosnayı kosovayı destekleriz onlar sırpları, biz kafkasya da azerbaycanı destekleriz onlar ermenileri. ruslar ve biz şuan ipler onlarda olsa bile orta asyada da herzaman rekabet halindeyiz. ortadoğuda ki dostlar ve mesafeli olduğumuz ülkeler bile çoğu zaman farklıdır. bugün orta doğudan ve orta asyadan petrol ve doğalgazı ülkemiz üzerinden avrupa'ya ulaştırsak en büyük zararı rusya görür. baku tiflis ceyhan boru hattına en çok rusya karşı çıkmıştı hatırlayın. hayaller de yaşıyor bazı arkadaşlar.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "türk rus imparatorluğu",
+      "entry_id": "80300230",
+      "author": "jawsiki",
+      "date": "15.08.2018 18:33 ~ 18:43",
+      "content": "hangi ortak değerde birleşeceğimizi merak ettiğim oluşumdur. düşünüyorum antalya dışında pek bir ortak yanımız yok gibi. ayrıca rusların tarihini açın okuyun derim böyle bir birlikteliğe ilk önce onlar engel olurlar.\nyaşasın tam bağımsız güçlü türkiye!\n\nedit: yazım yanlışı",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "türk rus imparatorluğu",
+      "entry_id": "80300773",
+      "author": "ragnar lodbork",
+      "date": "15.08.2018 18:55 ~ 18:57",
+      "content": "adam diyor ki 200 yıllık esaretten kurtulacağız lan başkasının kucağından inip düşmanını kucağına binmek nedir. bak artık beni rusya sikiyor kıskandın mı abede ha???\nne abd ne rusya ne çin herşey türklük için",
+      "has_external_url": true,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "türk rus imparatorluğu",
+      "entry_id": "80302390",
+      "author": "derky",
+      "date": "15.08.2018 19:49",
+      "content": "tarihte turklerin yonettigi bir versiyonu icin (bkz: altinordu imparatorlugu)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "türk rus imparatorluğu",
+      "entry_id": "80304369",
+      "author": "karsinoma",
+      "date": "15.08.2018 21:02",
+      "content": "bak hele sen şu jöle kafalı uğursuz döneğe. söylediği hiçbir şey çıkmıyor. utanmadan hala ekranlarda konuşuyor. bir de cumhuriyete sallıyor. neymiş, 1930larda emperyalizme diz çökmüşüz. senin o ağzında dortaklar düğün yapsın.\n\nbir beyin yoksununun saçmalama seansında ortaya attığı fantazi.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "türk rus imparatorluğu",
+      "entry_id": "80305535",
+      "author": "geceye turp sikan adam",
+      "date": "15.08.2018 21:43 ~ 24.08.2018 11:47",
+      "content": "çomarların milliyetçilikten anladıkları bu olsa gerek.abd’ye teslim olmayacağız ama rusya’ya,çin’e domalmakta sorun yok.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "türk rus imparatorluğu",
+      "entry_id": "80305968",
+      "author": "viktornoworsky",
+      "date": "15.08.2018 21:56",
+      "content": "(bkz: rusmanlı imparatorluğu)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "türk rus imparatorluğu",
+      "entry_id": "80319773",
+      "author": "donmeyen para ustu",
+      "date": "16.08.2018 10:07 ~ 10:08",
+      "content": "soft power'i eksik kalir.\n\nama bir almanya soft power'i ile, pax germanica markasi altinda alman-rus-turk birliginden alirim bir dal.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "türk rus imparatorluğu",
+      "entry_id": "117359723",
+      "author": "kurtarin kendinizi",
+      "date": "26.12.2020 09:14",
+      "content": "ancak jöleli gibi alkolik bir diyabetikten beklenecek türden fantastik bir düşünce. yüksek kan şekeri ve alkol, mantıklı düşünme kabiliyetini ekarte etti galiba.\n\ntarihte en çok türk öldüren, osmanlı'yı yıkan, bu coğrafyada devamlı çıkarlarımızın çatıştığı ve en son çok sayıda askerimizi öldüren devlet ile müşterek imparatorluk kurmak.\n\nha şu var. kurarsın böyle imparatorluk. daha doğrusu kurduğunu sanırsın ve sonra müstemleke olur çıkarsın. bir zamanların sovyet orta asyası gibi.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "türk rus imparatorluğu",
+      "entry_id": "154337499",
+      "author": "captain from the last valley",
+      "date": "08.07.2023 18:51 ~ 19:38",
+      "content": "değerli bir badime verdiğim sözü tutmak adına daha da kenarda bekletmeyip yolluyorum bu entariyi. sözüm ona genişletip ayrıntısına girecektim ama pek mümkün değil bir zamandır. bir zaman daha mümkün olmayacak ve üstüne keyfim de yok bir takım sebeplerden, o kısım hiç tam manada düzelemeyecek artık. her neyse senaryo aşağıdaki gibidir:\n\naşağıda yazdığım satırları mevcut sınırları, toprağı belli devlet denilen yapıların süreceği ihtimali ile ve kesinlikle mevcut hakikatlere dayanan bir bakışla değil (değil çünkü 250 senedir aradaki birkaç konjonktürel, ciddi bulmadığım rusofil sapma hariç ülkenin kaderi batıya eklemlenmiştir, aksi yönde ciddi bir gelişme olabileceğini kısa orta vadede - önümüzdeki 25-30 sene için - zannetmiyorum) bir ideal ve olması gereken manasında bir senaryo, tahayyül olarak yazıyorum:\n\ngörüyor ve artırıyorum. türkiye ve rusya yetmez. evet bu ikili yetmez. ortodoks slav halklar, diğer türk halklar ve farsi halklar muhakkak dahil olmalıdır. ve perde gerisinde bir assolist. en sonda değinmek üzere.\n\naçayım: osmanlı devletinin vasfı ve kaderi 570 sene önce fatih tarafından şekillendirilmiş ve bir nevi mühürlenmiştir. osmanlıların yaptığı şey ortodoksları yarı partner/ortak yarı köle biçimde zapturapt altına alıp batı (katolik avrupa) ve doğu (çin-hindistan-güneydoğu asya) arasında köprüleri ve kapıları tutmak, işine gelince açmak işine gelmeyince kapamaktır. fatih'in vizyonu budur. bu kadardır, kötü de değildir ama abartmanın da bir anlamı yoktur.\n\nosmanlıların kendi eylemlerinin de dahil olduğu 1'i dünya 2'si bölge çapında 3 büyük gelişme bu vizyonu ve misyonu akamete uğrattı ve sonraki asırların çöküşünü başlattı.\n\n1- fatih'in fetihleri sonrası batı avrupa için doğudan gelen malların aşırı pahalılaşması sonucu afrika'yı dolaşmak ve hep batıya giderek hindistan'a ulaşma mecburiyetinin, cesaretinin (aka ihtiyaç keşfin anasıdır) coğrafi keşiflere, okyanus ticaretine yol açması. bilimsel altyapı sağlanmış doğu yakalanmış hatta bazı yönlerden geçişmişti bile o devirde. bu esnada hayati önemdeki 30 seneyi sultan cem yüzünden kulağının üstüne yatarak geçiren abayezid 2 de mükemmel bir rezalete imza attı.\n\n2- hakeza keşifler sonrası gümrük ve uluslarası kara ticareti pastasının küçülmesi, klasik ticaret rotaların akameti ile anadolu'nun ekonomik olarak çökmesiyle ve zaten çandarlı tasfiyesiyle devlet yönetiminden ve ekonomik ranttan uzaklaştırılmaları sebebiyle bu duruma tepki olarak anadolu'da ama özellikle fırat'ın doğusunda ve iran'da heterodoks islam türkmen gücünün birikimi ile safevi devleti ve şiilik olarak ortaya çıkması, osmanlıların bu kilidi kıramamaları ve hem ticari hem demografik yönden doğudan beslenmenin kesilmesi.\n\n3- o sıralarda önemsenmeyen ruslar'ın önce nispeten kısa sürede hanlıkları ve sibirya'yı, sonra ve peşine takip eden 100-150 senede kırım ve kafkasya'yı ve en son orta asya'yı ilhak ve işgal etmesi, domine etmesi, ortodoksluğun şampiyonluğu mevzusunda fener patrikhanesine rağmen osmanlı devletinden önce rol çalması, fransız devrimi sonrası panslavizm ve panortodoksluk ile imparatorluğun avrupa topraklarını parçalaması.\n\nhatta rusya osmanlının (ve evvelinde de doğu romalıların) bu vizyonunu devralmak istediği için sürekli osmanlı ve iran devletlerini yıkmaya, ortadoğuya yerleşmeye çalıştı. bir tarih ders kitabı klişesi olan “rusların sıcak denizlere inme” emeli, vizyonu budur. yani tıpkı fatih ve öncesinde doğu roma imparatorluğu'nun yaptığı gibi doğu batı arası kara ve iç deniz ticaret rotalarında tüm kapı köprüleri tutmak.\n\nhal böyleyken; orta/uzun vadede yapılması gereken, 250 senelik paradigmanın kırılması ve 570 sene önceki vizyona dönerek bu kapı, anahtar ve kilit olma vizyonunu 21. yüzyıla uyarlamak (bkz: demirden ipek yolu) ile asya'nın üretim merkezleriyle avrupa'nın bilim, teknoloji ve bu üretimi soğurabilecek pazar yaratabilecek olan coğrafyaları yani doğu ile batı arasında yine bazen köprü bazen kilit vazifesi görmektir.\n\nyalnız bu hedef için de etnik yahut dilsel kültürel milliyetçilik ile salt türk ya da salt rus/slav ortodoks ve yahut salt farsi/irani halkları bir araya getirip diğer ikiliyi ekarte etmeye çalışmak beyhudedir. geçmişte ne türkler ne ruslar ne farslar bunu başaramadı, bugün hiç olmaz. asırlarca birbirleriyle savaşıp güçten düştüler ve önce batı avrupa'nın sonra amerika'nın yükselişini seyrettiler.\n\no yüzden, sadece rusya değil diğer ortodokslar (yunanistan) ve ortodoks slavlar (sırbistan, bulgaristan vs) ve iran ile diğer farisi coğrafyanın da (afganistan, tacikistan ve pakistan'a kalan paştu ve beluç bölgeleri) biraraya gelmesi gerek. orta asya türk coğrafyası ve güney kafkasya'yı (yani müsterih olun turancı gencolar, o da bu sayede çıkacak aradan işte.) birliğin zaten olmazsa olmaz doğal parçaları farz edip ayrıntısına girmeye lüzum görmüyorum.\n\nruslar+ortodoks slavlar/türkler+türkiler/ farisiler (fars+kürt+tacik+paştu+beluç) birliği. polonya'dan kamçatka'ya hırvatistan'dan pakistan'a kadar uzanan dev bir avrasya. cengiz'i ve iskender'i de üstüste koyup geçeriz böylece. puhahhahhah\n\nkuzey kuşağı rus, orta kuşağı türk, güney kuşağı fars hakim rengine sahip bir dev avrasya.\n\nüstelik toplamda 250 + 170 + 180: 600 milyon tüm nüfus. bilemedin 650, en abartı 700 milyon falan olur, çin'in, hindistan'ın yarısından az, uzak asyalı (hindi çin + endonezya + filipinler + koreler + japonya) diğer devletlerden dahi az, ab'nin batı orta avrupalı katolik/protestan nüfusunu bir miktar geçer bir nüfus bu. kompakt ve efektif. belki iran ve şiilik kanalıyla sarabistan ve emirliklerin dağıtılması ile dünya petrollerinin % 45'inin üstünde oturan ırak ve körfeze yayılmış şii araplar (50 milyon ya vardır ya yoktur) da birliğe eklenebilir. (ki iyi olur bence)\n\nböyle bir birliğin hem rakipleri hem de ticari partnerleri ab, uk, (ya da canzuk) çin, japonya (ve başta g. kore olmak üzere tayvan, filipinler, malezya, endonezya vs. diğer güneydoğu asya devletleri) ve hindistan olur. bu kadar büyük ve enerji kaynaklarıyla dolu ama insan olarak görece boş coğrafyayı da bu birliğe bırakmak istemezler. bu çapta bir işbirliğine her fırsatta taş koymak isterler.\n\no yüzden birliğin gerçek ve dışarıdan müttefiki de (burayı büyük harflerle okumalı) abd olmalıdır, çünkü heartland'i kendine düşman bir oluşuma teslim edeceğine abd dünyayı yakıp yıkar, en başta da bizim başımıza yıkar, bu çok açık bir durum. abd kendisine enerji sıkıntısı hariç bilim, teknoloji, kültür ve askeri güç bakımından gerçekten rakip olma potansiyeli olan ab ve çin gibi devlerden ya da ab+rusya, çin+rusya gibi bileşimlerdense tahtıravallinin karşı kutbunda rusya'nın ve bir ölçüde türkiye/iran'ın sürüklediği enerji ve silahlı güce dayalı böylesi bir yapıyı tercih eder bana kalırsa. bir nevi united states of eurasia sponsored bye united states of america. yapısı gereği haliyle çok da yavaş, orta uzun vadeye 50-100 seneye yayılması gereken, incelikli işlenmesi gereken bir politikadır bu, yiğit bulut tarzı kafalar tsunami karşısına delik sandalla çıkmak gibidir kalır bu tarz bir uzak ufuk için.\n\nevet, birimiz hepimiz hepimiz birimiz sonra hepimiz uşağa gibi görünüyor. puhahhahhah ama en makul hedef bu olmalı. kürtler de bu birlikte onurlu ve hak ettikleri bir sandalyeyi alacaktır. tıpkı azeriler gibi.\n\npeki ne yazıyon la denişik? olacak şey mi bu? mümkün mü böyle bir birlik? ab balkanlar'da dağılacak mı, çin'in, uk'nin eli armut mu toplayacak yani diye soracaklar için cevabım belli: her şey abd'ye bağlı. ne bize, rusya'ya, iran'a, ne uk'ye, fransalmanya'ya ne de çin ve hindistan'a bağlı bu iş. nihai kertede işler dönüp dolaşıp yeltsin zamanında ekonomik ve sosyal yönden yaşadığı büyük çöküşe ve dağılma emarelerine karşı (uk, çin ve fransalmanya'nın rusya'yı parçalayıp yutmaları ihtimali) putin yönetimine pasif destek ile rıza gösterip izin vermeyen sam amcanın ne bok yemek istediğiyle alakadardır. ve sam amcanın aklında bin tilki kuyrukları birbirine dolanmadan dolaşır durur binlerce think tank'i boşuna beslemiyor adamlar. yaşayıp görelim bakalım gelecek ne getirecek.\n\nama aklınızdan çıkmasın: abd ya bu oluşuma hami olup yarı partner yarı vasalı kabul edip kurulumunu negatif ve pozitif eylemler ile destekleyecek ya da bu coğrafyayı fransalmanya çin hindistan üçlüsüne bırakmaktansa yakıp yıkacak, kaosa boğacak. başka bir ihtimali seçenek dışı görmekteyim.\n\ncap. fr. th. last. val. san. tic. taş. tur. thi. tha. ltd şti sundu. her türlü büyük resim okunur, geçmişe, günümüze ve geleceğe dair senaryo yazılır, çizilir, mevcutlarına boya astar atılıp süslenir. bayiliğimiz yoktur.\n\nimla",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "türk rus imparatorluğu",
+      "entry_id": "177640259",
+      "author": "autor",
+      "date": "16.08.2025 20:09",
+      "content": "(bkz: why not)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:45:28.664012",
+    "total_entries": 2,
+    "input": "siyahi göçmenlerin suriyelilerden üstün olması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "siyahi göçmenlerin suriyelilerden üstün olması",
+      "entry_id": "67136378",
+      "author": "kendimdedegildim",
+      "date": "29.03.2017 00:15",
+      "content": "günlerdir düşündüğüm hadise.\ninsanlara bakıyoruz zimbabwe'den gelmiş, saat satıyor, yemeğinden kısıp üniversitesine yol harçlığı yapıyor. tek bir dileneni görmedim. üstüne türlü türlü faşist davranışlara maruz kalıyorlar.\narap kardeşlerimiz, din yoldaşlarımız suriyeliler ise dilene dilene, öpe öpe, yalaya yalaya bir hal oluyorlar zeus taksiradlarını affetsin.\nboş beleş arap bedevilerine verdiğimiz paraları bu insanları kazanmaya harcayabilirdik, çokta güzel olurdu.\ntengri'den vazgeçip bu bedevilerin dinini kabul ettiğimiz güne lanet olsun",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "siyahi göçmenlerin suriyelilerden üstün olması",
+      "entry_id": "67178833",
+      "author": "fair",
+      "date": "31.03.2017 01:10",
+      "content": "tek başlıkta duble ırkçılık. 1 alana 1 bedava.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

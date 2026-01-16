@@ -1,0 +1,61 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:05:27.552791",
+    "total_entries": 4,
+    "input": "suriyelilerin terör örgütü kuracağı gerçeği",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelilerin terör örgütü kuracağı gerçeği",
+      "entry_id": "66101737",
+      "author": "dreamyattack",
+      "date": "05.02.2017 20:05",
+      "content": "zaten kurulmusu yok mu?\ndaes ve turevleri\nbugun 500 e yakin gozalti var, haberde bolca'suriyelilerin kaldigi..' ibaresi geciyor\n\nhttp://www.hurriyet.com.tr/…eas-operasyonu-40356034",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyelilerin terör örgütü kuracağı gerçeği",
+      "entry_id": "66101883",
+      "author": "tekelwarriors",
+      "date": "05.02.2017 20:12",
+      "content": "yurtdışı destekli bir finansal yardım ve istihbarat desteği gelirse olabilecek şey. onun dışında çok zor. ihtimal vermiyorum.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelilerin terör örgütü kuracağı gerçeği",
+      "entry_id": "66101886",
+      "author": "renksiz hayat",
+      "date": "05.02.2017 20:12",
+      "content": "devlet bize bakmir, dilimizi konuşamıyoruz, kendimizi yönetmek istiyoruz vs demezler inşallah. içimiz şişti.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelilerin terör örgütü kuracağı gerçeği",
+      "entry_id": "158741915",
+      "author": "kuba gibiyim kendi kendime yetiy",
+      "date": "13.11.2023 14:06",
+      "content": "nasıl ki pkk sadece kürtlerden meydana gelmiyor. ileride suriyelilerin ve afganların kuracakları terör örgütleri de sadece kendilerinden meydana gelmeyecektir. anadolulu sünniler de katılırlar. bunun yanında ışid'teki bireysel katılımlara benzer katılımlar da görülecektir.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    }
+  ]
+}

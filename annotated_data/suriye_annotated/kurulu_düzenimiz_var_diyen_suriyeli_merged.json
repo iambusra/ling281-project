@@ -1,0 +1,41 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:43:46.357596",
+    "total_entries": 2,
+    "input": "kurulu düzenimiz var diyen suriyeli",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "kurulu düzenimiz var diyen suriyeli",
+      "entry_id": "170924120",
+      "author": "yetkin99",
+      "date": "11.12.2024 08:32",
+      "content": "ırkçı mankafalarin uydurduğu olmayan suriyelidir.\nsöylediklerinin tamamı yalan olduğu için dikkate almaya değmez. sosyal medyadan duyduğu olmayan şeyleri yazıp neden gitsinler diyorlar akıl fukaralari.\naşağılanan, hor görülen, kümes gibi yerlerde fahiş kiralarla yaşamaya çalışıp, en rezil işlerin yaptırıldığı hiç kimse senin ülkene meraklı değil.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "kurulu düzenimiz var diyen suriyeli",
+      "entry_id": "170924214",
+      "author": "outdoor",
+      "date": "11.12.2024 08:40",
+      "content": "oo üstteki atm trolü farklı başlıklarda aynı entry seri giriyor. (bkz: #170923781)\n\nyeni mi troll oldun çen, daha çok çömezsin çen.\n\nson derece eksklusif suriyelidir. israil, bizdeki siyasal islamcıların gayretleriyle ülkesini işgal etmişken, otursun nargile içsindir. (bkz: bop projesi)",
+      "referenced_entry_ids": [
+        "170923781"
+      ],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    }
+  ]
+}

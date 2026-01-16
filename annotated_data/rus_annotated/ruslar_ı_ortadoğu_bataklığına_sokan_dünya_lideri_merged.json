@@ -1,0 +1,26 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:28:47.633046",
+    "total_entries": 1,
+    "input": "ruslar'ı ortadoğu bataklığına sokan dünya lideri",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ruslar'ı ortadoğu bataklığına sokan dünya lideri",
+      "entry_id": "56467504",
+      "author": "gergin ataman",
+      "date": "24.11.2015 12:29",
+      "content": "ülkesi abd ile birlikte dünyanın iki süper gücünden biridir. muazzam yeraltı kaynakları vardır bir çok ülke enerjide ona bağımlıdır. tek başına abd'ye kafa tutup rest çekebilmektedir. öyle ki ülkesindeki fabrikalarda işçiler grev yapınca patronları karşısına alıp \"bu işçilerin parasını ödeyin yoksa fabrikaları kamulaştırırım\" diyerek rest çekmiş ve işçisinin haklarını gasp ettirmemiştir.\n\nöyle bir lider işte.",
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "POLICY",
+        "ECON",
+        "HUMAN-POS"
+      ]
+    }
+  ]
+}

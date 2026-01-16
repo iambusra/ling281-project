@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:11:09.141275",
+    "total_entries": 2,
+    "input": "ukrayna'ya giden erkeğin ilk düşüncesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukrayna'ya giden erkeğin ilk düşüncesi",
+      "entry_id": "31195710",
+      "author": "uzdeniz",
+      "date": "05.12.2012 21:04",
+      "content": "biz eşek sikiyoruz dur.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "SEXUAL"
+      ]
+    },
+    {
+      "title": "ukrayna'ya giden erkeğin ilk düşüncesi",
+      "entry_id": "31196416",
+      "author": "17december",
+      "date": "05.12.2012 21:52",
+      "content": "soğuk.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

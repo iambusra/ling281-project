@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:13:37.462041",
+    "total_entries": 1,
+    "input": "ukrayna'da polislerin arasına el bombası atılması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukrayna'da polislerin arasına el bombası atılması",
+      "entry_id": "54456169",
+      "author": "kaynak kicim",
+      "date": "01.09.2015 01:06 ~ 01:16",
+      "content": "savaşın acımasızlığını gözler önüne serer.\n\n--- +18 ---\n\nhttp://www.liveleak.com/view?i=7d4_1441030597\n\nhttp://www.liveleak.com/view?i=ff4_1441029744\n\nhttp://www.liveleak.com/view?i=997_1441029339\n\nhttp://www.liveleak.com/view?i=8de_1441021503\n\n--- +18 ---",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HUMAN"
+      ]
+    }
+  ]
+}

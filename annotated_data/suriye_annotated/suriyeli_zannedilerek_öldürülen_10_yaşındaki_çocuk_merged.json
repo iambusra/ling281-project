@@ -1,0 +1,113 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:53:02.842216",
+    "total_entries": 8,
+    "input": "suriyeli zannedilerek öldürülen 10 yaşındaki çocuk",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeli zannedilerek öldürülen 10 yaşındaki çocuk",
+      "entry_id": "170191555",
+      "author": "yetkin99",
+      "date": "15.11.2024 19:51",
+      "content": "sorumlusu ümit özdağ denen dış güçlerin maşası karanlık şahıstir.\nhttps://x.com/…163357?t=y40fl1pbpclrwei7knmmeq&s=19\ngaziantep'te gürültü yaptığı iddiasıyla pompalı tüfekle 10 yaşındaki emir’i öldüren sanık mühsün taşkın'ın mahkemedeki ifadesi pes dedirtti:\n“ben çocukları suriyeli zannediyordum. türk çocukların bu kadar terbiyesiz olduğunu düşünmedim.”",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE",
+        "CRIME"
+      ]
+    },
+    {
+      "title": "suriyeli zannedilerek öldürülen 10 yaşındaki çocuk",
+      "entry_id": "170191897",
+      "author": "beytiahzan",
+      "date": "15.11.2024 20:06",
+      "content": "(bkz: zafer partisi bir milli güvenlik sorunudur)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyeli zannedilerek öldürülen 10 yaşındaki çocuk",
+      "entry_id": "170191934",
+      "author": "nevonevo",
+      "date": "15.11.2024 20:07",
+      "content": "aktroll başlığı. mahkemede cezayı indirmek için yalan söyleyen biri üzerinden başka parti başkanına saldırmak hangi seviye trollük.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyeli zannedilerek öldürülen 10 yaşındaki çocuk",
+      "entry_id": "170192056",
+      "author": "charlie chapkin",
+      "date": "15.11.2024 20:12",
+      "content": "pardon suriyeliymiş buyurun çıkabilirsiniz.\n\nmikrop ya insan müsveddesi.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "suriyeli zannedilerek öldürülen 10 yaşındaki çocuk",
+      "entry_id": "170192058",
+      "author": "gece mavi ve baykus",
+      "date": "15.11.2024 20:12",
+      "content": "ümit özdağ tutuklanmasını sürece bu tip olaylar yaşanmaya devam edecek. bu topraklarda bu tip ırkçıların serbestçe dolaşmasına izin verilmemeli. bunlar toplumu zehirliyor.\n\nkorkunçtur.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POLICY",
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "suriyeli zannedilerek öldürülen 10 yaşındaki çocuk",
+      "entry_id": "170192218",
+      "author": "arap sen icme bokunu cikartiyorsun",
+      "date": "15.11.2024 20:20",
+      "content": "hiç bir türk bu haberi türkleri küçük düşürmek için bu şekilde sunmaz. hiç bir türk de çocuklar üzerinden ırkçılık yapmaz. aktrollerin türklere düşman olduğunu gösteren bir başka başlık. kaynak da twitter bu arada. uydur uydur haber diye ver.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyeli zannedilerek öldürülen 10 yaşındaki çocuk",
+      "entry_id": "170192379",
+      "author": "kariminayagi",
+      "date": "15.11.2024 20:27",
+      "content": "savunmasi kabahatinden buyuk. onemli olan bir cocuga karsi bunu yapabilmek. bir daha disari cikamamali. bu lafi ettiginden oturu cezasi da artmali resmen bu nefret sucu.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CRIME",
+        "HATE"
+      ]
+    },
+    {
+      "title": "suriyeli zannedilerek öldürülen 10 yaşındaki çocuk",
+      "entry_id": "170193639",
+      "author": "beytiahzan",
+      "date": "15.11.2024 21:15",
+      "content": "(bkz: allah belanızı versin)",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE"
+      ]
+    }
+  ]
+}

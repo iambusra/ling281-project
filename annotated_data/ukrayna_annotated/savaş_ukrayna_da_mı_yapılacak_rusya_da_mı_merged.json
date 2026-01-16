@@ -1,0 +1,156 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:14:06.253458",
+    "total_entries": 12,
+    "input": "savaş ukrayna'da mı yapılacak rusya'da mı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "savaş ukrayna'da mı yapılacak rusya'da mı",
+      "entry_id": "40840857",
+      "author": "illuminatinin basindaki adam",
+      "date": "03.03.2014 07:21",
+      "content": "(bkz: yazı tura)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "savaş ukrayna'da mı yapılacak rusya'da mı",
+      "entry_id": "40840882",
+      "author": "tahtelbahir",
+      "date": "03.03.2014 07:25",
+      "content": "(bkz: oturarak mi, yoksa ayakta mi?)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "savaş ukrayna'da mı yapılacak rusya'da mı",
+      "entry_id": "40840986",
+      "author": "burgazteam",
+      "date": "03.03.2014 07:47",
+      "content": "(bkz: elde mi olsun paket mi)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "savaş ukrayna'da mı yapılacak rusya'da mı",
+      "entry_id": "40841016",
+      "author": "ansiy7",
+      "date": "03.03.2014 07:53",
+      "content": "bence yapilmasin yazik.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "savaş ukrayna'da mı yapılacak rusya'da mı",
+      "entry_id": "40841043",
+      "author": "burakueda",
+      "date": "03.03.2014 07:58 ~ 07:59",
+      "content": "(bkz: 2020 rusya-ukrayna savaş alanı adaylığı)\n(bkz: bize de bekleriz)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "savaş ukrayna'da mı yapılacak rusya'da mı",
+      "entry_id": "40841133",
+      "author": "sebasteia sebasteia",
+      "date": "03.03.2014 08:14",
+      "content": "(bkz: kiev otobüs seferleri iptal mi)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "savaş ukrayna'da mı yapılacak rusya'da mı",
+      "entry_id": "40841143",
+      "author": "golgesi olmayan adam",
+      "date": "03.03.2014 08:16",
+      "content": "(bkz: http://www.eksiduyuru.com/…da-olmasi-iyi-mi-kotu-mu)",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "savaş ukrayna'da mı yapılacak rusya'da mı",
+      "entry_id": "40841174",
+      "author": "eskici dukkani",
+      "date": "03.03.2014 08:20",
+      "content": "rusya seribaşı olduğu için ilk maç ukrayna'nın sahasında yapılacak. evine gollü beraberlikle dönmesi durumunda rusya'nın şansı büyük. (bkz: tövbe estağfirullah)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "savaş ukrayna'da mı yapılacak rusya'da mı",
+      "entry_id": "40841230",
+      "author": "vinca",
+      "date": "03.03.2014 08:28 ~ 08:29",
+      "content": "cevabı belli soru.\n\neleminasyon usulü olduğu için çift ayaklı bir savaş olacaktır. ilk savaş sanırım ukrayna'da. rusya için zor bi deplasman.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "savaş ukrayna'da mı yapılacak rusya'da mı",
+      "entry_id": "40841475",
+      "author": "schaker",
+      "date": "03.03.2014 09:01",
+      "content": "(bkz: beşte devre onda biter)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "savaş ukrayna'da mı yapılacak rusya'da mı",
+      "entry_id": "40841481",
+      "author": "efes darth",
+      "date": "03.03.2014 09:02",
+      "content": "(bkz: savaş çok komik espiriler falan)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "savaş ukrayna'da mı yapılacak rusya'da mı",
+      "entry_id": "40841632",
+      "author": "sozde yazar",
+      "date": "03.03.2014 09:18 ~ 10:01",
+      "content": "karlı olabilecek savaş. tarafsız ülke olarak savaş turizmi diye bi nane çıkartıp konya ovasını şavaşmak isteyenlere kiralayabiliriz, win win yani..",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

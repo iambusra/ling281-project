@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:35:00.403244",
+    "total_entries": 1,
+    "input": "rusların akdeniz'e inmesini önlemenin yolu",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rusların akdeniz'e inmesini önlemenin yolu",
+      "entry_id": "136746335",
+      "author": "brian degil cabin diyeceksin",
+      "date": "28.04.2022 01:11",
+      "content": "bir ara favipiravir diyorlardı, hidroksiklorokin falan dediler..birtakım şeyler söylendi. muhatap almamak gibi bir seçeneğin ise olup olmadığı meçhul. eskiden rahattı ya, meseleleri mesele etmezseniz ortada mesele kalmaz dı. şimdi cancel culture falan, yani çok çirkin işler oluyor ama çözüm olmuyor tabii. göstere göstere engellersen olur mu? parasını verip twitter’ı da alırlar. ha, amaç zaten satmaksa bilemem. kullanıcıları satıyor sonuçta. rızkın onda dokuzu ticarettedir. yunan’ı ege’ye gömen rus’u da akdeniz’e gömer bir şekilde. titanik’te rose denen şahıs jack’i tahtaya aldı mı? almadı .",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CULTURE",
+        "ECON"
+      ]
+    }
+  ]
+}

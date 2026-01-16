@@ -1,0 +1,26 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:33:52.142733",
+    "total_entries": 1,
+    "input": "rusların türkleşmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rusların türkleşmesi",
+      "entry_id": "148391909",
+      "author": "ben burda degilim aslinda",
+      "date": "31.01.2023 12:05",
+      "content": "esmer birinin saçını sarıya boyayıp, mavi lens takmasına benzeyen eylem. yersen.\n\ngörsel\nakıllı rus, plakasına türk bayrağını yapıştırınca türklerin tepkisini çekmeyeceğini düşünmüş. antalya'da artan rus nüfusuna doğru orantılı olarak ruslara karşı artan nefrete rus vatandaşlarının bulduğu vıttırı vızzık çözüm.",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE",
+        "CRIME"
+      ]
+    }
+  ]
+}

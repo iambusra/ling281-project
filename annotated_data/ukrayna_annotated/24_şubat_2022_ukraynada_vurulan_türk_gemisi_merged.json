@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:11:42.549527",
+    "total_entries": 1,
+    "input": "24 şubat 2022 ukraynada vurulan türk gemisi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "24 şubat 2022 ukraynada vurulan türk gemisi",
+      "entry_id": "134161539",
+      "author": "skulletoon",
+      "date": "24.02.2022 16:34 ~ 16:47",
+      "content": "yasa jüpiter isimli gemiye roketle saldırı düzenlenmiş.\n\nedit1: ukrayna odessa limanı açığından geçerken yaşam mahalline yakın olan ambar tarafından isabet almış.\n\ndetay geldikçe bilgi paylaşımı yaparım.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CRIME",
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

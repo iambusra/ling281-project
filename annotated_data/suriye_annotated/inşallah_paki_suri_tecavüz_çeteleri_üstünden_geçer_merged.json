@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-10T23:37:22.836830",
+    "total_entries": 1,
+    "input": "inşallah paki suri tecavüz çeteleri üstünden geçer",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "inşallah paki suri tecavüz çeteleri üstünden geçer",
+      "entry_id": "137098853",
+      "author": "petekpare",
+      "date": "06.05.2022 17:38 ~ 15.05.2022 08:23",
+      "content": "öncelikle\n\nburada geçen bir cümle.\n\nhemen konuyu anlatıyorum.\n\nsüslü sözlük diye bir site var. kadınlar kulübü gibi düşünebilirsiniz. çok büyük bir site de değil. an itibarıyla 600 kişi sitede online. anonim olarak soru sorup cevap verebiliyorsunuz. kullanıcıları kadın ağırlıklı bir site.\n\nbiri neden boşandınız diye sormuş. cevaplar gelmiş. 8 numaralı anonim soruya kızıp \"tecavüze uğrayana neden tecavüze uğradın diye soruyor musunuz? neden boşandınız diye sorup insanların tramvasını tetikliyorsunuz.\" demiş. buradan bir tartışma çıkmış en sonunda aynı anonim 8 \"ben amerika'da yaşıyorum. siz zaten suri ve pakilerin tecavüzüne uğrayacaksınız\" deme noktasına kadar gelmiş.\n\nçüş yani. bu nedir ya? süslü sözlük 24 saattir kaldırmamış cevapları küfür kıyamet gidiyor. tık için bu yapılır mı? bu nasıl rezalet?\n\nnormalde de cennet mahallesi tadında sorular oluyor. bazen komik de buluyorum doğruyu söylemek gerekirse ama bugün o anonim 8 tarafından yazılanlara yuh dedim.",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    }
+  ]
+}

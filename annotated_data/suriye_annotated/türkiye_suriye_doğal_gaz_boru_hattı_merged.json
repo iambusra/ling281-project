@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:09:50.786288",
+    "total_entries": 1,
+    "input": "türkiye suriye doğal gaz boru hattı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türkiye suriye doğal gaz boru hattı",
+      "entry_id": "175709639",
+      "author": "flightofthebumblebee",
+      "date": "31.05.2025 07:58",
+      "content": "yapımına başlanmış stratejik önemi yüksek bir projedir, kısa sürede tamamlanarak türkiye üzerinden halep'e gaz sevkiyatının başlaması planlanmaktadır. enerji bakanlığına göre bu hat ilk aşamada halep'teki çevrim santralini besleyecek ve böylece enerji kesintilerinin önüne geçilecek.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "ECON",
+        "POLICY"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:43:34.853562",
+    "total_entries": 4,
+    "input": "kızılay'ın suriyeliye 50 koli yardım göndermesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "kızılay'ın suriyeliye 50 koli yardım göndermesi",
+      "entry_id": "138185680",
+      "author": "haydar ve dumenleri",
+      "date": "01.06.2022 10:37 ~ 02.06.2022 19:53",
+      "content": "edit: videonun 2018 yılından kalma olduğu bilgisi geldi. ne kadar doğru bilmiyorum.\nhem videoya hem bu bilgiye şüpheyle yaklaşabilirsiniz.\n\nüst edit 2:\neski başlığın linki buymuş:\n(bkz: izmirde suriyeli aileye 50 koli yardim gelmesi)\n\niki başlık birleştirilebilir.\n\n----\n\norijinal entry:\n\ndoğru başlığı \"kızılay'ın izmir'deki suriyeli aileye 50 koli yardım göndermesi\" olmalıyken 50 karakter sınırından ötürü sığmayan olay.\n\nülkenin insanı ekonomik krizden kırılırken ülkenin kurumu suriler daha rahat yaşasın, daha rahat çocuk yapsın diye 50 koli yardım gönderiyor.\n\nhttps://streamable.com/0d05bi\n\nbu yüzden kızılay bu ülkedeki hiç güvenmediğim ve sevmediğim kurumların başını çekiyor.",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "kızılay'ın suriyeliye 50 koli yardım göndermesi",
+      "entry_id": "138185901",
+      "author": "hypertension",
+      "date": "01.06.2022 10:43",
+      "content": "şaşırtmayan durum. kızılay soda bile almıyorum artık. siyasal islam elini bu kurumlardan çekmeden de ne kan, ne başka bir şey veririm.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "kızılay'ın suriyeliye 50 koli yardım göndermesi",
+      "entry_id": "138186016",
+      "author": "tiber septim",
+      "date": "01.06.2022 10:48",
+      "content": "haram zıkkım olsun. gönderenlerden hesap sorulacağı günleri görürüz umarım. şunların hakim karşısında zırıl zırıl ağladığı günleri görmeden ölürsem gözüm açık gider. bu ülkenin çocuğuna da faiziyle öğrenim kredisi.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY",
+        "ECON"
+      ]
+    },
+    {
+      "title": "kızılay'ın suriyeliye 50 koli yardım göndermesi",
+      "entry_id": "138186216",
+      "author": "arma yann tiersen",
+      "date": "01.06.2022 10:53",
+      "content": "göndermiştir, göndermemiştir bilemem,\n\nama bu şaşırmama hali var ya,\nyok artık olmaz öyle bir şey diyememe hali var ya,\n\nyapmışlardır yani göndermişlerdir diyebilme, kabullenme durumu çok canımı sıkıyor dedirten mevzu",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY",
+        "ECON"
+      ]
+    }
+  ]
+}

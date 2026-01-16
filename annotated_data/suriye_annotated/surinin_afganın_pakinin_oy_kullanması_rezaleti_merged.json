@@ -1,0 +1,76 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:46:12.165157",
+    "total_entries": 5,
+    "input": "surinin afganın pakinin oy kullanması rezaleti",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "surinin afganın pakinin oy kullanması rezaleti",
+      "entry_id": "152774599",
+      "author": "tounela",
+      "date": "24.05.2023 21:47 ~ 22:03",
+      "content": "ön edit: arkdaşlar başlığı gündem yapalım.\nlütfen herkes elmatsın .. fox'ta falan bile ufaktan bir yayınlansa, muhalefetten biri basın toplantısında isyan etse yeter. seçime çok az kaldı. bu yamyamlara oy kullandırtmayalım...\n\natatürk'ün kurduğu türkiye cumhuriyeti, bu çöl yamyamlarına resmen bağışlandı. köpek gibi üreyen ve her gün yığınlarla tırlarla komyonlarla şehirlerin belli noktalarına bırakılan bu ne idüğü belirsiz yamyamlar, çok kısa zaman sonra çoğunluk durumuna düşecekler....\n\nya arkadaşlar. bunu düşününce siz de kafayı yiyecek gibi olmuyor musunuz?\n\nnerede bu muhalefet! nerede bununla ilgili yaptıkları araştırmalar?!\n\n-bu suriyeliler sığınmacı olarak gelmedi mi? (afganın pakinin nasıl geldiği bile belli değil. hâlâ da istila devam ediyor)\n\n-şimdi kaç suriyeli, kaç afgan, kaç pakistanlı türk vatandaşı yapıldı ve bunların tam olarak kaçı oy kullanıyor?\n\nşimdi sorarım size!\n\nbu ortadoğu yamyamları nasıl oluyor da benim nasıl yönetileceğime karar verebiliyor?\n\nbu amkdumun istilacıları nasıl çölünden gelip benim kaderimi belirliyor?\n\ntürk kimliği nasıl bu kadar ucuza verilebiliyor, türklük nasıl bu kadar ucuza yok edilebiliyor?\n\nen başa dönecek olursak bu yamyamların tam olarak kaçı oy kullanıyor, bunu muhaletin araştırmalarından duymak istiyorum. basın açıklaması ile isyan eşliğinde açıklanması lazım. çok net.\n\nedit: arkadaşlar bir el atın da gündem olsun şu başlık. belki dikkat çeker. seçime kalmış şurada az bir zaman...",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "surinin afganın pakinin oy kullanması rezaleti",
+      "entry_id": "152774634",
+      "author": "hypertension",
+      "date": "24.05.2023 21:48 ~ 21:50",
+      "content": "kılıfını uydurmuşlardır. muhalefet o yüzden bir şey yapamıyor. her yerde söylüyorlar zaten. rte seçilirse daha kötü olacak padişahlığa döner memleket. oğlunu falan seçtirir.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "surinin afganın pakinin oy kullanması rezaleti",
+      "entry_id": "152774660",
+      "author": "portekizli forvet",
+      "date": "24.05.2023 21:49",
+      "content": "oktroll'lerin oy kullanması kadar rezilce değildir.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "surinin afganın pakinin oy kullanması rezaleti",
+      "entry_id": "152774847",
+      "author": "n62",
+      "date": "24.05.2023 21:54",
+      "content": "https://twitter.com/…tatus/1661389019035435010?s=20\n\nşu manzara ülkenin %50'sini rahatsız etmiyor. hatta mutlu ediyor şaka gibi gerçekten.",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "surinin afganın pakinin oy kullanması rezaleti",
+      "entry_id": "152775076",
+      "author": "leyla ile mecnunun arasina giren ile",
+      "date": "24.05.2023 22:01 ~ 22:05",
+      "content": "bundan rahatsızlık duymayan türkiye'den nefret ediyordur. bundan rahatsızlık duymayan türk değildir. bundan rahatsızlık duymayan gitsin bir kanını kontrol ettirsin, bozuk olma ihtimali çok yüksektir. akp bu güne kadar çok hile yaptı (trafoya kedi girmesi, mühürsüz oyları geçerli saydırması, elektrik kesintileri, veri akışını durdurup farklı puanlar açıklama) ama en iğrenci açık ara budur diyebilirim. çünkü ortada kasten demografik yapının bozulması da var.\n\ndünyanın hiçbir yerinde yok böyle bir rezillik, kendi seçmeninin oyuna güvenmediği için dünyadan adam getiriyorlar.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "POLICY"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:52:48.662731",
+    "total_entries": 3,
+    "input": "suriyeli sığınmacıların türkiye'ye verdiği zarar",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeli sığınmacıların türkiye'ye verdiği zarar",
+      "entry_id": "69639725",
+      "author": "cyend",
+      "date": "20.07.2017 23:41",
+      "content": "kampların dışına çıkmamalıydı, verdiği zarar şu an çok fazla fakat topluma mozaikleşmeyi öğretir ise toplumun kazanımları(işerideki işsizliği saymazsak) zararından fazla olacaktır.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE",
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyeli sığınmacıların türkiye'ye verdiği zarar",
+      "entry_id": "158377560",
+      "author": "geckalmisyazar",
+      "date": "02.11.2023 19:21",
+      "content": "akla ilk gelenler:\n- ülkenin kısıtlı kaynaklarına ortak olmaları\n- sosyal dengeleri değiştirmeleri\n- türk halkının 3-4 katı nüfus artış oranları\n- kendilerine sağlanan imtiyazlar ve sosyal yardımlar ile ekonomiye getirilen yük\n- türk çocuklarının hakkı olan bölümlere düşük puanla girerek haklarını gasp etmeleri\n- bir kısmı türk vatandaşı olarak türkiye'nin geleceği hakkında oy verecek imkan sahibi olmaları",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "ECON"
+      ]
+    },
+    {
+      "title": "suriyeli sığınmacıların türkiye'ye verdiği zarar",
+      "entry_id": "165662710",
+      "author": "forester",
+      "date": "24.06.2024 09:51",
+      "content": "yaklaşık 200 tane üniversitemiz ve onlarca alanında uzman hocalarımız var.\nsığınmacıların ülkeye geldiklerinden beri yaşanılan değişimler hakkında sosyoloji, psikoloji, halk sağlığı, köy-kent yaşantısı, iş gücü, eğitim, ekonomi ve diğer alanlara yansımaları gibi gene onlarca tez yazılabilir.. hiç araştırma yapıp bunu kamuoyuyla paylaşan var mı, varsa yeterli mi bilmiyorum, sonuçları toplumla da paylaşmalılar ayrıca.. biz bunları sadece birkaç sivil toplum kuruluşundan mı öğrenmeliyiz yoksa...\npardon \"hoca\" demiştim. vardır umarım...",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE",
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

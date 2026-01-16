@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:11:34.961436",
+    "total_entries": 1,
+    "input": "ukraynada savaşta ölenlerin toplu mezara gömülmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukraynada savaşta ölenlerin toplu mezara gömülmesi",
+      "entry_id": "134758063",
+      "author": "lunabike",
+      "date": "10.03.2022 18:46 ~ 18:53",
+      "content": "savaş koşulları elvermediği için yerle bir edilen mariupul'da hem savaşta ölenlerin hem de başka nedenlerle ölenlerin ceset torbaları ile hatta bazen tamamen olduğu gibi hızlıca kazılan uyduruk uzun bir çukura atılıp gömülmesi durumudur.\nvideoyu izleyince gerçekten kötü hissettim. normal şartlarda ölülere saygı gösterdiğimiz, tören yaptığımız ve gelenek neyse ona göre davranıp ölü bedenine sanki canlı bi insana yaklaşır gibi kibarca yaklaştığımız için videodaki hoyrat davranışlar ve daha temelinde toplu mezara gömülme işi insanı gerçekten kendini kötü hissettiriyor. bunu yapan insanları yargılamıyorum . savaş ortamında kimbilir nasıl bir psikoloji ile yaşıyorlar ve nasıl kısıtları var. hatta belki 3 gün sonra onları öylece yuvarlayarak aynı çukura atacaklar o ayrı. ama savaşın ne kadar iğrenç berbat boktan bişey olduğunu, en kötü barışın en iyi savaştan her zaman daha iyi olduğunu kanıtlayan görüntüler. savaşın çirkin ruhunu iliklerinize kadar hissediyorsunuz...\n\nhassas olanlar bakmasın.\n\ntoplu mezara atma görüntüleri",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HUMAN"
+      ]
+    }
+  ]
+}

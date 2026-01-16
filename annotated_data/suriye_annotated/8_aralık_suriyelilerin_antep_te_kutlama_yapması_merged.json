@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:23:01.290995",
+    "total_entries": 1,
+    "input": "8 aralık suriyelilerin antep'te kutlama yapması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "8 aralık suriyelilerin antep'te kutlama yapması",
+      "entry_id": "170834077",
+      "author": "yahmose",
+      "date": "08.12.2024 09:43",
+      "content": "kutlamanızı yapın ve artık ülkenize gidin. gerçekten gidin. istenmiyorsunuz artık. neredeyse hiçbir türk sizi istemiyor ya",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    }
+  ]
+}

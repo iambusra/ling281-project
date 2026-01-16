@@ -1,0 +1,199 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:23:13.547257",
+    "total_entries": 15,
+    "input": "savaşmak için ülkelerine geri dönen ukraynalılar",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "savaşmak için ülkelerine geri dönen ukraynalılar",
+      "entry_id": "134236572",
+      "author": "okhako",
+      "date": "26.02.2022 13:19 ~ 13:25",
+      "content": "polonya'nın açıkladığı bilgilere göre rus saldırısından sonra 30 bin ukraynalı sınırdan polonya'ya giriş yapmış. fakat buna karşın 9000 kişi de tam aksini yaparak polonya'dan ayrılıp ülkelerini savunmak için ukrayna topraklarına geçmiş ki bunların çoğunluğu gençlerden oluşuyor. pek çok kişinin de çocuklarını ve eşlerini polonya'ya kadar getirip geri döndükleri söylenmekte.\n\nhttps://notesfrompoland.com/…defend-their-homeland/",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "savaşmak için ülkelerine geri dönen ukraynalılar",
+      "entry_id": "134237473",
+      "author": "bugungunlerdenisyan",
+      "date": "26.02.2022 13:49",
+      "content": "tam manasıyla onurlu insanlardır. kendi vatanını savunmadan kaçan insan ömrünün geri kalanını nasıl huzurlu bir şekilde geçirecek tahayyül edemiyorum. vatan belki her şey değildir ama çok fazla şeydir.\nbir de suriyedir arap coğrafyasıdır, buraların insanına bakın, ellerinde nargile sahilde raks ediyorlar.\nbenim bu iki ülke insanına aynı bakış açısıyla bakmam nasıl mümkün olabilir. suriyeli adama nasıl saygı duyabilirim.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "savaşmak için ülkelerine geri dönen ukraynalılar",
+      "entry_id": "134251327",
+      "author": "okhako",
+      "date": "26.02.2022 21:16",
+      "content": "https://www.euronews.com/…ne-crisis-poland-veterans",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "savaşmak için ülkelerine geri dönen ukraynalılar",
+      "entry_id": "134254948",
+      "author": "fake slim shady",
+      "date": "26.02.2022 22:37",
+      "content": "onurlu bir duruş sergileyen ukraynalılardır.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POS-STEREO"
+      ]
+    },
+    {
+      "title": "savaşmak için ülkelerine geri dönen ukraynalılar",
+      "entry_id": "134255415",
+      "author": "kaptonur",
+      "date": "26.02.2022 22:46",
+      "content": "götüne baka baka kaçan araplardan kat kat delikanlı adamlardır/kadınlardır. sırf müslüman diye vatansız piçleri sevecek halim yok. hz ali'nin çok güzel bir sözü var;\n\n\"her şeyi affedin ama vatanına ihanet edeni affetmeyin\" hz. ali\n\ndurum budur arkadaşlar ister dostum olsun ister düşmanım vatanını savunan adama sonsuz saygım olur. vatansız piçler köpek muamelesi görmeyi her zaman hakeder!",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "savaşmak için ülkelerine geri dönen ukraynalılar",
+      "entry_id": "134256472",
+      "author": "kakarikan",
+      "date": "26.02.2022 23:06",
+      "content": "helal olsun dediğim kahraman insanlardır. bizim sahillerimizde nargile keyfi yapıp kadınlarımızı kesen şempazeler bu insanlara baksın da vatanseverlik görsün.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POS-STEREO",
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "savaşmak için ülkelerine geri dönen ukraynalılar",
+      "entry_id": "134256987",
+      "author": "gennaninseki",
+      "date": "26.02.2022 23:17",
+      "content": "vatanını korumak için çabalayan saygıdeğer delikanlı insanlar.\n\nbu başlığa zamanında mültecilikten dem vurup suriye'den kaçan, ülkemizde tatil yapan yüz karalarını canhıraş şekilde savunan, insan sevgisiyle dolup taşan hümanistlerin yazması gerekiyor.\nnedir fikirleri, çok merak ediyorum?..",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "savaşmak için ülkelerine geri dönen ukraynalılar",
+      "entry_id": "134257865",
+      "author": "jimmu tenno",
+      "date": "26.02.2022 23:34 ~ 27.02.2022 01:33",
+      "content": "şerefli insanlardır. vatanı için savaşanlar şereflidir ve şeref, insanın taşıyabileceği en değerli madalyadır.\nben vietnamlıları severim. önce fransızlarla, sonra amerikalılarla, ardından da çinlilerle savaştılar ve yendiler. yenilmelerine rağmen ingilizlere karşı onurlu ve destansı bir savaş veren zuluları da severim. neredeyse tamamen imha edilmiş olmalarına rağmen amerikalılara karşı en ilkel silahlarla mücadele eden apaçileri de severim. dudayev'in, raduyev'in, mashadov'un yanında vatanlarını için savaşan gerçek çeçen mücahidlerini de severim. iskoçları da severim mesela. şimdi ukraynalıları da seviyorum. ruslara karşı kahramanca savaşıyorlar, direniyorlar. kazanırlar mı, kaybederler mi bilinmez. ama kaybetseler de, kazanmış olacaklar.\nyaşasın vatanı için onurlarıyla mücadele edenler..",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POS-STEREO"
+      ]
+    },
+    {
+      "title": "savaşmak için ülkelerine geri dönen ukraynalılar",
+      "entry_id": "134258310",
+      "author": "aciu",
+      "date": "26.02.2022 23:41",
+      "content": "(bkz: çetiner çetin) ve (bkz: nagehan alçı) ya duyurulur.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "savaşmak için ülkelerine geri dönen ukraynalılar",
+      "entry_id": "134260890",
+      "author": "ssmm",
+      "date": "27.02.2022 00:29",
+      "content": "suriyeli mezopotamya eşeklerini savunanlara gelsin bu başlık",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "savaşmak için ülkelerine geri dönen ukraynalılar",
+      "entry_id": "134261405",
+      "author": "astearsgoby",
+      "date": "27.02.2022 00:39",
+      "content": "(bkz: nargilecilerin uğramadığı başlıklar)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "savaşmak için ülkelerine geri dönen ukraynalılar",
+      "entry_id": "134264994",
+      "author": "boylenickolmazolsun87",
+      "date": "27.02.2022 02:00",
+      "content": "ortak fikir çok fazla olduğu için farklı şekilde dile getirmeye gerek yok",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "savaşmak için ülkelerine geri dönen ukraynalılar",
+      "entry_id": "134266406",
+      "author": "dadofdragons",
+      "date": "27.02.2022 02:48 ~ 02:49",
+      "content": "nargile içmekle olmuyor bazı şeyler azizim. allah kimseye bu savaş durumunu göstermesin ve bununla sınamasın ama gel gör ki sonuçlar apaçık ortadayken bu cümleleri sarf etmek zorunda kalıyoruz.\n(bkz: suriyeli sığınmacılar)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "savaşmak için ülkelerine geri dönen ukraynalılar",
+      "entry_id": "134269866",
+      "author": "join",
+      "date": "27.02.2022 08:51",
+      "content": "kendilerinin bazı çöl farelerinden çok temel düzeyde farklı olduğunu açıkça görmemizi sağlayan ukraynalılardır.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POS-STEREO",
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "savaşmak için ülkelerine geri dönen ukraynalılar",
+      "entry_id": "134271130",
+      "author": "oasis taney",
+      "date": "27.02.2022 10:09",
+      "content": "bir çok türkten cesaretlilermiş demek",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

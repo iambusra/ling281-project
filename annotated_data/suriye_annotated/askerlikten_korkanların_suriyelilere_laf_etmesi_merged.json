@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T15:57:11.818669",
+    "total_entries": 1,
+    "input": "askerlikten korkanların suriyelilere laf etmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "askerlikten korkanların suriyelilere laf etmesi",
+      "entry_id": "79498795",
+      "author": "canefendi",
+      "date": "24.07.2018 01:53",
+      "content": "21 günlük askerlikten korkan yok!\niş yerim var benim. 1 aylık dönemde geliri gideri geç devlete kdv, stopaj, gelir geçici, sgk, bağkur vs... gibi ödemelerim var -oluyor. ve bunları bir aksatırsan neler oluyor haberin var mı suriyelilere laf etmeyen vatan aşığı arkadaşım.\nneler olduğunu öğrenmek istiyorsan biraz git oku.\nbedelli askerlik yapanlarla suriyelileri kıyaslayabilen zeka makinası.\nelemterefişkemgözlereşiş.\nbeyin imalathanesi maşallah.\nakıl tüccarı suphanallah!",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    }
+  ]
+}

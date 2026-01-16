@@ -1,0 +1,90 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:44:30.182310",
+    "total_entries": 6,
+    "input": "polis memurunun suriyelilerle arapça konuşması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "polis memurunun suriyelilerle arapça konuşması",
+      "entry_id": "115281233",
+      "author": "blueways",
+      "date": "07.11.2020 14:14",
+      "content": "sorun nedir anlamadım.\n\npolisin arapça konuşması insanı nasıl rahatsız edebilir ki? orada oturan bir fransız olsaydı ve fransızca konuşularak kendilerinden kimlik istenseydi aynısını düşünecek miydiniz?",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL",
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "polis memurunun suriyelilerle arapça konuşması",
+      "entry_id": "115281499",
+      "author": "hagi abi",
+      "date": "07.11.2020 14:21",
+      "content": "aynı durumu kürtçe için düşünün. sadece bir anlık düşünün...",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL",
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "polis memurunun suriyelilerle arapça konuşması",
+      "entry_id": "115282343",
+      "author": "mehavzey",
+      "date": "07.11.2020 14:44",
+      "content": "yabancı dile hakim, kendini geliştirmiş memurdur. kendisini tebrik ederiz.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN-POS",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "polis memurunun suriyelilerle arapça konuşması",
+      "entry_id": "115282503",
+      "author": "carlvonbergen",
+      "date": "07.11.2020 14:47",
+      "content": "bu durumda bir sorun yok, bilmesi onun için bir artı hatta iyidir.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN-POS",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "polis memurunun suriyelilerle arapça konuşması",
+      "entry_id": "115282659",
+      "author": "dr krasny",
+      "date": "07.11.2020 14:52",
+      "content": "(bkz: türklerin araplaşması)\n\nmodern ülke polisine arapca öğreteceğine mülteciye türkce öğretir. önce eğitir, rehabilite eder, sonra salar.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "polis memurunun suriyelilerle arapça konuşması",
+      "entry_id": "115312184",
+      "author": "adam olan cocugun adam olamayan abisi",
+      "date": "08.11.2020 02:00",
+      "content": "bunu ancak gelişimini tamamlayamamış bir ırkçı sorun eder. lan konuşsun ne olacak. hatta polis teşkilatının büyüklüğünü ve evrenselliğini gösterir. şahsen ben bir kaç yurt dışında benimle türkçe konuşan polis gördüm ve mutlu oldum.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN-POS",
+        "CULTURE"
+      ]
+    }
+  ]
+}

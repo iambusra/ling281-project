@@ -1,0 +1,52 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:05:39.945329",
+    "total_entries": 3,
+    "input": "suriyelilerin türkiye'den suriye'ye dönmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelilerin türkiye'den suriye'ye dönmesi",
+      "entry_id": "177582685",
+      "author": "darkwizard",
+      "date": "14.08.2025 13:21",
+      "content": "mersin için konuşuyorum mezitli ve civarında birçok dükkan kapandı. ve sokağa çıkınca suriyeli erkek veya kadınlara daha az denk geliyorum. birçoğu htş'nin iktidarı sonrası ülkelerine dönmüş durumda veya dönmeyi düşünüyor. türkiye için iyi mi kötü mü bilmem amaa 3.5 milyondan rahat 1.5 milyona düşmüştür bu sayı.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO",
+        "ECON"
+      ]
+    },
+    {
+      "title": "suriyelilerin türkiye'den suriye'ye dönmesi",
+      "entry_id": "177582781",
+      "author": "senersongur",
+      "date": "14.08.2025 13:26",
+      "content": "hızlı şekilde yapılması gerekiyor.\n\ntürk vatandaşı olanları da acilen yollasınlar. ev alanlara evlerini satma mecburiyeti gelsin. suriyeli olmayanlar da dahil.\n\n6 ay yada 1 sene içinde ülkedeki yabancılardan kurtulup ekonomiyi rahatlatmak gerekiyor.\n\nyabancılar gidince kiralar da daha makul seviyeye iner.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelilerin türkiye'den suriye'ye dönmesi",
+      "entry_id": "177583290",
+      "author": "talihsizler",
+      "date": "14.08.2025 13:46",
+      "content": "esed sonrası ihtiyar ana babalarini gönderip oradaki mülklerine bekçi yapmişlardi. şimdi bir çoğu dönmeyi düşünüyor.\n\nburada kalmayı düşünenler genel olarak işleri iyi olanlar. ticaret yapıp para kazananlar suriye'nin biraz daha düzelmesini bekliyoruz diyorlar ama sıcak paranın cazibesine kapılmışlar.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,535 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:43:49.055346",
+    "total_entries": 38,
+    "input": "kuzey suriye",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "kuzey suriye",
+      "entry_id": "24039920",
+      "author": "nickelbird",
+      "date": "14.06.2011 01:57",
+      "content": "komşu ülke suriye'nin ilerleyen yıllarda daha çok bahsedebileceğimiz bölgesidir.\nnasıl ki kuzey ırak deyimi bir zamanlar anlamsızdı, bir zamanlar niteliksizdi, işte buda o tip tanımlardan.\nyakında daha çok bahsedeceğiz. (daha çok bahsedilmesin diye yazıyorum ama umarım gereksiz bir tanım olarak kalır)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "kuzey suriye",
+      "entry_id": "29483092",
+      "author": "mehmet fesa",
+      "date": "23.07.2012 10:51",
+      "content": "son günlerde, beşer esad'ın suriye ordusunu geri çekerek boşalttığı ve pkk'ya yaşam alanı sağladığı iddia edilen bölge.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "kuzey suriye",
+      "entry_id": "29495315",
+      "author": "dolore",
+      "date": "24.07.2012 09:09",
+      "content": "türkiye için büyük bir güvenlik tehlikesi oluşturabilecek (oluşturacak demek daha doğru), suriye'nin pkk'ya tahsis edilmiş bölgesi. yeni barzaniler, yeni kamplar, yeni yalanlar kapıda gibi. fikret bila'nın yazısı önemli diye düşünüyorum;\n\nhttp://siyaset.milliyet.com.tr/…1570967/default.htm",
+      "referenced_content": [],
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "kuzey suriye",
+      "entry_id": "29498276",
+      "author": "unknown89",
+      "date": "24.07.2012 13:40",
+      "content": "(bkz: #29497941)",
+      "referenced_content": [
+        {
+          "type": "entry",
+          "title": "bessar-esed",
+          "entry_id": "29497941",
+          "author": "unknown89",
+          "date": "24.07.2012 13:14",
+          "content": "http://siyaset.milliyet.com.tr/…1571143/default.htm bakın bakalım olay nereye gidiyor. umarım yanılırım (bkz: #29481066)",
+          "referenced_entry_ids": [
+            "29481066"
+          ],
+          "has_external_url": true
+        }
+      ],
+      "referenced_entry_ids": [
+        "29497941"
+      ],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "kuzey suriye",
+      "entry_id": "29498280",
+      "author": "jusiyans",
+      "date": "24.07.2012 13:40",
+      "content": "kuzey ırak özerk kürt yönetimiyle birleşerek, önümüzdeki kısa dönem içinde türkiye'nin güneydoğu sınırındaki yeni kürt komşusunun, bütündeki bir parçası olacaktır.\n\nayrıca ırak ile olan 300 km'lik sınır şeridi bile inanılması güç güvenlik açıkları verirken, nispeten daha düz bir coğrafi yapıda da olsa suriye ile olan 900km'lik sınır için ne gibi önlemler alınacak ya da ne gibi müthiş sızmalara şahit olacağız göreceğiz.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "kuzey suriye",
+      "entry_id": "29500763",
+      "author": "nickelbird",
+      "date": "24.07.2012 17:00 ~ 17:08",
+      "content": "uzun zamandır kuzey ırak kürt yönetiminin devlet statüsüne ulaşabilmesi için akdeniz’e kıyısı olması gerektiği konuşulmaktaydı. kuzey ırak özerk bölgesi ekonomik olarak türkiye'ye aşırı bağımlı ve türkiye'ye rağmen bir devlet girişiminde bulunamaz halde(idi). (suriye, iran ve merkezi ırak hükümetinin siyasi/ekonomik abluka tavrını biliyoruz)\nelektriği türkiye'den, bakkalları türk malı dolu, petrolünü türkiye'ye satıyor ve yakın zamanda işlenmiş petrol ürünlerini gene türkiye’den satın alacak. bunlar ilk akla gelenler.\n\namerika ve takipcilerinin suriye ye müdahalesi gündeme gelince denklemler değişti tabi. duyduğum en önemli iddia ise; suriye'de kuzey ırak petrolünü akdenize indirecek bir boru hattı inşa edildiği ve bu boru hattının yaklaşık 1,5-2 sene sonra tamamlanacağı. buna bağlı olarak amerika ve müttefikleri de olası suriye operasyonunu ertelemişler(?).\n\nbir diğer önemli olay barzani ve bazı çevrelerin bölgedeki kürt direnişçileri eğittikleri ve silahlandırdıkları. buda göz ardı edilmemesi gereken bir ayrıntı.\n\ngelecek ne getirir, planlar nasıl değişir bilemem ama ülkeme ve bölgeye barış dilerim.\n\nedit: \"bölge\"den kastım bütün ortadoğu dur",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "kuzey suriye",
+      "entry_id": "29501014",
+      "author": "syhngr",
+      "date": "24.07.2012 17:16",
+      "content": "bop kapsamında suriyeden ayrılması planlanan topraklar.bop şekilleniyor aslında anlaşılıyor ki bop tamamen büyük kürdistan kurma projesi. abd ye bağlı büyük kürdistan... israilden sonra abd'nin ortadoğudaki ikinci büyük virüsü olacak. toprakları da oluşturuluyor haritalar belli, ırak operasyonundan sonra kuzey ırakta fiili bir kürt devleti var artık şimdi bu suriye ile birleştirilecek, iran sıkıştırılmaya çalışıyor,türkiye'nin pkk'yı bitirmesine izin verilmiyor ve güneydoğuyu da kuzey ırak ve kuzey suriyeye bağlama planları kademeli olarak devreye sokuluyor(suriyeye geçen üniformalı kürtler). hep aynı oyunlar aslında ilk aşamada iç savaş çıkartılıyor sonra abd barış getiriyor ve bakmışsınız barış getirdiği ülke dağılmış (ırak örneği) önümüzdeki yıllarda aynı oyun türkiyeye de uygulanacak bu gün çok yakın dostumuz abd ve avrupa o gün diyarbakırda başlatılacak olan kürt kalkışmasına müdahale eden türkiye cumhuriyetine insan haklarını bahane ederek ambargo uygulayacak belki de müdahale edecek... 100 yıl önce osmanlı coğrafyasında oynanan oyunlar halen aynı coğrafyada oynanmaya devam ediyor ve biz ne yapacağımızı bilmiyoruz...hükümet bir rüzgara kapılmış gidiyor belki olayın vahametini farkettiler ama biraz geç oldu...allah ileriki günlerde ülkemizi savaştan korusun çünkü gidişat hiç iyi değil.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "kuzey suriye",
+      "entry_id": "29501044",
+      "author": "tek basina kosan cilgin",
+      "date": "24.07.2012 17:18",
+      "content": "bi kuzey ırak havası vermemiştir.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "kuzey suriye",
+      "entry_id": "29501104",
+      "author": "nweeew macha",
+      "date": "24.07.2012 17:24",
+      "content": "bana daha çok suriye'ye girmek için uydurulmuş bir bölge gibi geliyor. türk halkının suriye'ye müdahaleye karşı çıktığı ortada. bunun yanında söz konusu pkk olunca herkesin bir anda nasıl asalım keselimci olduğu da biliniyor. eğer suriye'de hayali bir pkk gücü olduğuna halk inandırılırsa suriye'ye müdahale davullu zurnalı yapılır ve sonucunda akp bu müdahaleyle oy kaybetmez aksine kazanır, bir taşla iki kuş yani.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "kuzey suriye",
+      "entry_id": "29501209",
+      "author": "machete klonu",
+      "date": "24.07.2012 17:34 ~ 17:37",
+      "content": "(bkz: suriye'nin kuzeyi)\n\n(bkz: kırmızı çizgiler)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "kuzey suriye",
+      "entry_id": "29501406",
+      "author": "aegeus",
+      "date": "24.07.2012 17:53",
+      "content": "hani lise kitaplarında okuduk ya eski türk devletleri şöyle başarılıydı, böyle süperdi de geldi çinli prensesler yıktı bunları diye; yalan işte kardeşim görmüyor musun türk devletlerini beceriksiz, basiretsiz yöneticiler yıkıyor; gözümüzün önünde göre göre yıkılıyor vatan; sen kuzey ırak gibi kuzey suriye'nin otonom hale gelip birleşmesi halinde türkiye'nin güney doğusunu artık türkiye içinde tutabileceğini sanıyor musun? yavaş yavaş ama göstere göstere oluyor bu işler. suriye'nin işi bittikten sonra sıra iran'da. bir bahane ile hem içeriden hem dışarıdan girişecekler önümüzdeki 3-4 yıl içinde, artık ne kadar toprak kopartabilirlerse onlardan, sonra da sıra bize gelecek.\n\nülke ne hale geldi? abd'de yaşayan bir dinci, yurt içindeki siyasal islamcı siyasetçiler ile birlikte nasıl bir çılgınlığa sürüklüyorlar bizi?",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "kuzey suriye",
+      "entry_id": "29501666",
+      "author": "ihrac fazlasi",
+      "date": "24.07.2012 18:18 ~ 25.07.2012 01:53",
+      "content": "her şey bi tarafa, suriyede bir kürdistan ilan edilse bunun bize ne zararı var anlamıyorum. hala toprak alma toprak verme geyiği yapılıyor yahu siz geri zekalı mısınız? burası ırak mı? suriye mi? hayır esad sanki pamuklara sarmıyordu pkkyı da.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "kuzey suriye",
+      "entry_id": "29503744",
+      "author": "andy kaufman 2",
+      "date": "24.07.2012 21:25",
+      "content": "literatüre gerçekten girdi. inanılır gibi değil.\n\ntarih boyunca böyle bir bahis oldu mu?\n\nsuriye'nin kuzeyi demiyorum, kuzey suriye'den bahsediyorum. olmadı sanırım, ya da?",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "kuzey suriye",
+      "entry_id": "29503885",
+      "author": "buyukbaskan",
+      "date": "24.07.2012 21:38 ~ 21:47",
+      "content": "madem iç işlerim çok ilgini çekiyor, al buyur uğraş diyen suriye'nin gayet mantıklı hamlesidir. esadların selamı var http://4.bp.blogspot.com/…and-asma-al-assad-007.jpg\norduyu çekmiş, ortamı pkk'ya (pyd'ye) bırakmış, mis gibi kafası rahat. şimdi yiyin birbirinizi de rahatlayın. beğenmeyen şakirtler toplanıp gitsin bölgeye, finansmana elimden gelen desteği veririm.",
+      "referenced_content": [],
+      "has_external_url": true,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "kuzey suriye",
+      "entry_id": "29503971",
+      "author": "mabeynihumayun",
+      "date": "24.07.2012 21:43",
+      "content": "tayyip erdoğan en buyuk sorumlusudur bu sorumsuzluğun.\nbuyuk ortadoğu projesi esbaskanindan bahsediyoruz beyler.\n\neminim feda edebileceği daha çok şey vardır",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "kuzey suriye",
+      "entry_id": "29504173",
+      "author": "voyvoda",
+      "date": "24.07.2012 21:57",
+      "content": "otorite boşluğundan ötürü bu bölgede kürtlerin bir takım gövde gösterileri var fakat orta-uzun vadede pek etkili olacakları düşünülmemeli. geçmişten beri esed rejiminin kürtlere pek de hoşgörülü yaklaştığı söylenemez, baskılanmış durumdaydılar. kuzey ırak kürdistanı'nın gelişimine baktığımızda belli derecede gücü ve geçmişi olan barzani ve talabani yapılanması var, fakat suriye kürtleri'nin örgütlenmeleri ve silah güçleri ne derece güçlü büyük soru işareti, hele ki kuzey ırak'la birleşmeleri hayalden öte bir şey değil.\n\nzaten suriye ulusal konseyi'nden de uyarı gelmiş.\n\nhttp://www.cnnturk.com/…uyarisi/669980.0/index.html",
+      "referenced_content": [],
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "kuzey suriye",
+      "entry_id": "29504178",
+      "author": "150h2c50",
+      "date": "24.07.2012 21:57 ~ 22:01",
+      "content": "kuzey suriye'yi, kürtlerin ele geçirdiğinden söz ediliyor. ancak esad, kuzey suriye'nin kontrolünü bilerek ve isteyerek pkk’nin suriye kolu olarak bilinen demokratik dirlik partisi’ne bağlı güçlere verdiği apaçık ortada. bahsi geçen kentlerde hiçbir çatışma ya da direniş olmaması bu düşünceyi haklı çıkarıyor. kürtler, kuzey ırak'ı bile bu kadar rahat alamamışken, kuzey suriye için kıllarına bile kımıldatmadan özerk bir bölgeye sahip oldular. esad'ın bu hamlesi tamamen türkiye'yi zora sokacak, batılıların umrunda bile olmayacak başarılı bir adım. şimdi rte düşünsün.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "kuzey suriye",
+      "entry_id": "29509612",
+      "author": "dopermen",
+      "date": "25.07.2012 10:32",
+      "content": "akp hükümeti burada bir kürt özerk bölgesi oluşabileceğini düşündüğünde muhtemelen burayı barzani üzerinden etki altına alma hayalleri kuruyordu. oysa suriye'nin kuzeyindeki kürtlerin neredeyse tamamı pyd'nin kontrolü altında. pyd'nin de pkk ile hareket ettiğini bilmeyen var mı acaba?",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "kuzey suriye",
+      "entry_id": "29512336",
+      "author": "boumeen",
+      "date": "25.07.2012 14:39 ~ 14:41",
+      "content": "822 km sınırımız olan ülkenin kuzeyi,şimdi pkk'nın bir versiyonu olduğu iddia olunan grup ya da gruplara terk edilmiştir. dışişleri bakanımızın vizyon dolu bakışları arasında kalemize giren bu gol karşısında yeni angajman kuralları değiştirilebilir,kuş kaçırılıp,ipte cambaz oynatılabilir ama büyük olduğu ve stratejik derinlik dolu dış politika yürüttüğü söylenen türkiyenin jet uçağından daha önemli gol yediği inkar edilemez zaten dışişlerinden de tıss sesi gelmekte.\n\ngüney doğuda fiilen iki adet kürt devletciği türemiştir,bu devletcikler birleştikleri ve adlarını kürdistan yapıp ırak ve suriyeden ayrılmayı başardıkları an itibariyle voltranı oluşturmak için sıra bize ve irana gelecektir ki ne tesadüf iran da topun ağzında olan başka bir ülkedir.\n\nbu saatten sonra esad'ın kolay kolay o çoğrafya ya geri dönme şansı olmadığına inanıyorum eğer olsaydı zaten bu alanı bu kadar rahat bırakmazdı. bu hamle ile türkiye ile arasına tampon bir bölge koymuştur,avrupadaki kürt sempatisini göz önüne alırsak tsk'nın zırt diye oralara girip operasyon yapması mümkün değildir ve pkk'ya bereketli bir sürü üs kurulacak topraklar bırakmıştır.artık fiilen hataya kadar olan çoğrafya pkk operasyon sahası haline gelmiştir.\n\ntürkiye kendi ülkesinde kürtlere vermediği hakları uyguladığı dış politika ile ırak ve suriyedeki kürtlere sağlamıştır. bu dış politika ilginç bir oyunmuş hayırlara vesile olsun.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "kuzey suriye",
+      "entry_id": "29520664",
+      "author": "gelecekdebirgungelecek",
+      "date": "26.07.2012 00:37",
+      "content": "buna iran politikasi derler.türkiye bir anda \"kuzey suriye\"yi kucaginda buldu.hiç kimse bu olayin bu sekle gelecegini\n\nkestiremez, hesap edemezdi. ancak simdi gerçek ve bu, türkiye'nin suriye'ye ve iran'a kar$i yuruttugu hasimhane\n\npoltikanin sonucudur. uluslararasi diplomasi bir satranç oyununa benziyorsa bu oyunun en iyi oyuncularindan birisi iran\n\ndevleti'dir.binlerde yillik bir devlet ve yönetme gelenegine sahipler. türkiye gibi kaba, irkçi, amerikanci bir sekilde politika\n\nyapmadan, ince, kibar bir politia ile türkiye'nin kucagina kuzey suriye'yi $ip diye koymuslardir. iran, türkiye'ye hep\n\ndiplomasi, hem komsuluk dersi vermek için suriye güçlerine kuzey bolgesini bo$alttirmistir.\n\n$imdi türkiye yine kaba, zekadan uzak, kaba güce dayali bir diplomasi yürütüyor ama iran'dan daha $asirtici bir cevap\n\nalacaklar. yani iran'in türkiye'ye diplomatik hediyesidir..ayikla ayiklayabiliyorsan pirincin ta$ini denilmistir.\n\niran uluslararasi atom enerjisi'yle yapilacak toplantinin yer tayini konusunda da türkiye ile daglga geçmi$ uyarmi$, adam\n\nolun demirtir ama tr amerikanci politikasinda israr edince iran iyi bir ders vermistir.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "kuzey suriye",
+      "entry_id": "29545115",
+      "author": "sogukkanli uzun john",
+      "date": "27.07.2012 19:34",
+      "content": "rte'nin de cumle icinde kullanarak, yillardir pkk ile mucadele etmis bir devletin tum mucadelesini hice saymasiyla siyasi literature de girmistir.\n\nilginc bir sekilde hariciye naziri tarafindan \"kullanilmasi psikolojik harekat\" seklinde yorumlanan isim olmustur. umuyoruz basbakanimiz gereken ayari almistir.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "kuzey suriye",
+      "entry_id": "29545434",
+      "author": "sogukkanli uzun john",
+      "date": "27.07.2012 20:03 ~ 20:04",
+      "content": "davutoğlu'ndan erdoğan'a kuzey suriye ayarı\n\nedit: link",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "kuzey suriye",
+      "entry_id": "29553936",
+      "author": "andy kaufman 2",
+      "date": "28.07.2012 12:39",
+      "content": "oldukca cetrefilli bir cografyada turkiyenin kucaginda buldugu yeni tanim.\n\nturkiye'nin karsisinda iki tane barzani, tek bir secenek var:\n\nbir barzani, turkiye'nin pkk ile mucadelesinde ona destek veren ve pkk'nin marjinallestirilmesine katki saglayan barzani.\n\ndigeri ise kuzey suriye'de kendi bolgesine benzer bir kurt bolgesi olusturmaya calisan, ancak bu noktada pyd'ye sicak bakmamasi beklenen, bu amacla suriye ordusundan kacmis kurtleri ve siyasi isimleri yonetim konusunda egiten bir barzani.\n\nkuzey suriye bolgesinde, bugunku halep catismasinin sonucundan bagimsiz olarak, buyuk ihtimalle bir kurt bolgesi dogacak. esad kurtlere mudahale etmeyip cogunluk olduklari bolgeden cekilerek turkiye'ye karsi bu sinsi adimi atti ve bu gelecegin temelini atan kisi oldu. bunun karsilikli bir anlasmayla gerceklestigi apacik.\n\note yandan muhaliflerin de simdilik bolgedeki kurtlerle mucadelesi soz konusu olamaz. muhaliflerin dusmani esad. muhalefet, esad olmadigi muddetce var.\n\nbu noktada kurtler, hem esad ile, hem muhalifler ile olabildigince dost bir tutum sergileyerek iki farkli gelecek alternatifinde de kendilerine bir yasam alani yaratiyorlar. esad kalirsa, gectigimiz aylarda yapilmis olmasi muhtemel gizli bir anlasma karsiligi, bolgenin yonetimi ozerk veya benzeri bir modelle kurtlere birakilabilir. muhalifler ise simdilik ayni iraktaki sii ve sunni guclerin saddamin devrilmesi doneminde davrandigi gibi davraniyor ve kurtlerle bir kavgadan kaciniyor.\n\nbu temelde turkiye'nin bolgesel yeni bir kurt yonetimini kabul etmekten baska tek bir secenegi var: tampon bolge kurarak, suriye'ye mudahalenin yolunu acmak (ki abd onayi gerektirir). ancak gorunen o ki dunya devletleri buna yanasmiyor, turkiye'nin de buna tek basina girismesi demek, kirilgan ekonominin cokmesi, akp'nin \"demokratik sartlar altinda\" gitmesi, hatta ve hatta bolgesel bir savasin cikmasi demek.\n\no yuzden, turkiye bugun mevcut kosullara gore izleyecegi politikayi yeniden belirlemeli ve basini kuma gommeden kuzey suriye'nin barzanisiyle ortaklik kurmanin yollarini aramali. aksi takdirde suriye ile ilgili gelecek politikalarda soz hakkini yitirir, ki davutoglu diplomasisi boyle bir seyi hazmetmekte zorlanir, kendini kuzey suriye pyd siyle ugrasirken bulur. bu da turkiye icin kotunun de kotusu demek.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "kuzey suriye",
+      "entry_id": "29580291",
+      "author": "galenos",
+      "date": "30.07.2012 13:21",
+      "content": "garip bir biçimde en çok suriye'nin bölünmesini istemeyenler tarafından sahiplenilen bölme terimi.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "kuzey suriye",
+      "entry_id": "29660205",
+      "author": "falyanos",
+      "date": "05.08.2012 11:07",
+      "content": "büyük başbakan, dünya lideri recep tayyip erdoğan ve onun dışişleri bakanı ahmet davutoğlu’nun güttüğü politikalara esad’ın tokat gibi cevabı. bop eşbaşkanı’na yakıştı. gör artık ey halkım gerçekleri!",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "kuzey suriye",
+      "entry_id": "30283598",
+      "author": "anarax",
+      "date": "21.09.2012 02:07",
+      "content": "bölge (artık de facto olarak nitelendirirsek) özerkliğini ilan etti de bizim suriye'ye girmeme çekincemiz sanırım bundan dolayı. suriyeli kürt milisler geçen ay washington'da büro açmış ya lan. nur topu gibi bir oğlan çocuğu dünyaya geldi yani.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "kuzey suriye",
+      "entry_id": "30283629",
+      "author": "meheme",
+      "date": "21.09.2012 02:09",
+      "content": "(bkz: suriye kürdistanı)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "kuzey suriye",
+      "entry_id": "32855155",
+      "author": "citosumdan taso cikmadi",
+      "date": "24.03.2013 17:08",
+      "content": "(bkz: kuzey ırak kuzey suriye güneydoğu türkiye)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "kuzey suriye",
+      "entry_id": "35610857",
+      "author": "martin edilen",
+      "date": "31.07.2013 09:18",
+      "content": "(bkz: adını anmayacağım)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "kuzey suriye",
+      "entry_id": "39684756",
+      "author": "nickelbird",
+      "date": "15.01.2014 01:18 ~ 01:21",
+      "content": "şurada (#29500763) \"duyduğum en önemli iddia ise; suriye'de kuzey ırak petrolünü akdenize indirecek bir boru hattı inşa edildiği ve bu boru hattının yaklaşık 1,5-2 sene sonra tamamlanacağı\" diye yazmıştım.\n\nbu yazdıklarımı destekleyen bir başka haber okudum ve meraklısıyla paylaşmak istedim. haberde;\n\"bugün bir gazete manşetinden verdiği haberde; ırak milli petrol şirketi somo'nun türkiye'yi by-pass edecek 3'ü suriye'den 2'si ise israil'den geçecek olan 5 yeni petrol boru hattı üzerinde çalıştığını iddia etti.\" ifadesi geçmekte.\n\nortadoğunun yeni enerji denklemiyle ilgililer için yazının tamamına şordan erişilebilir.\n\nnot: suriye'de işler bütün tarafları yanıltacak şekilde uzadı ve sürekli yeni aktörler, faktörler ortaya çıkıyor. suriye boru hattı gecikmiş/gecikecek gibi duruyor. (bu not tümüyle desteksiz attığım kendi yorumumdur.)",
+      "referenced_content": [
+        {
+          "type": "entry",
+          "title": "kuzey suriye",
+          "entry_id": "29500763",
+          "author": "nickelbird",
+          "date": "24.07.2012 17:00 ~ 17:08",
+          "content": "uzun zamandır kuzey ırak kürt yönetiminin devlet statüsüne ulaşabilmesi için akdeniz’e kıyısı olması gerektiği konuşulmaktaydı. kuzey ırak özerk bölgesi ekonomik olarak türkiye'ye aşırı bağımlı ve türkiye'ye rağmen bir devlet girişiminde bulunamaz halde(idi). (suriye, iran ve merkezi ırak hükümetinin siyasi/ekonomik abluka tavrını biliyoruz)\nelektriği türkiye'den, bakkalları türk malı dolu, petrolünü türkiye'ye satıyor ve yakın zamanda işlenmiş petrol ürünlerini gene türkiye’den satın alacak. bunlar ilk akla gelenler.\n\namerika ve takipcilerinin suriye ye müdahalesi gündeme gelince denklemler değişti tabi. duyduğum en önemli iddia ise; suriye'de kuzey ırak petrolünü akdenize indirecek bir boru hattı inşa edildiği ve bu boru hattının yaklaşık 1,5-2 sene sonra tamamlanacağı. buna bağlı olarak amerika ve müttefikleri de olası suriye operasyonunu ertelemişler(?).\n\nbir diğer önemli olay barzani ve bazı çevrelerin bölgedeki kürt direnişçileri eğittikleri ve silahlandırdıkları. buda göz ardı edilmemesi gereken bir ayrıntı.\n\ngelecek ne getirir, planlar nasıl değişir bilemem ama ülkeme ve bölgeye barış dilerim.\n\nedit: \"bölge\"den kastım bütün ortadoğu dur",
+          "has_external_url": false
+        }
+      ],
+      "referenced_entry_ids": [
+        "29500763"
+      ],
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "kuzey suriye",
+      "entry_id": "45880873",
+      "author": "exponential",
+      "date": "23.09.2014 05:44",
+      "content": "23 eylul 2014 abd'nin suriye'ye hava operasyonu ile tekrardan akıllara gelen tabir.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "kuzey suriye",
+      "entry_id": "49368837",
+      "author": "betada don bebegim yok diye uye oldum",
+      "date": "22.02.2015 14:57",
+      "content": "(bkz: naber)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "kuzey suriye",
+      "entry_id": "52833482",
+      "author": "sanver",
+      "date": "02.07.2015 15:04",
+      "content": "furkan kaya'dan bir analiz; http://politikaakademisi.org/…-yonetimi-kurulur-mu/",
+      "referenced_content": [],
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "kuzey suriye",
+      "entry_id": "116364661",
+      "author": "faitha",
+      "date": "02.12.2020 23:47",
+      "content": "sorumlu aramaya gerek yok, sebepleri sorgulamadıkça",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "kuzey suriye",
+      "entry_id": "116368545",
+      "author": "jupiteretkisindenkurtulamayanadam",
+      "date": "03.12.2020 01:07",
+      "content": "zamanın en çok aleyhimize işlediği yer.\n\nbizim bir an önce yarım kalan işimizi bitirmemiz gerekiyor.\n(bkz: barış pınarı harekatı)\n\nharekat maalesef yarım kaldı. şu anki şartlar ile de yarım kalan işi bitirmek,harekete geçmek belki zor ama imkansız değil.\nher ülkenin yapabilecekleri ve yapamayacakları vardır. ekonomi çok iyi değil belki,savaş ekonomisi de ağır gelir belki ama uzun sürelere yaymadan; tam teşekküllü, topyekun savaş ile yarım kalan işi bitirebiliriz.\npyd / pkk'nın şu anki gücü bile az değil. gerçekçi olmamız gerekirse; kolay olmayacak ama başlarsak ve kararlı olursak,sınırdaki terörü bitirir,harekatı başarı ile sonuçlandırırız.\n\nneden acele etmeliyiz?\nson dönemlerim nerede ise full terlikli maymunları izleyerek geçti.\n(bkz: ışid) /(bkz: deaş) (bkz: daeş)\n\nkuruluş,suriye sahasına gelişi,yükselişi,ırak'a girişi,gelirleri,teçhizatları... sıraları karışık,kopukluklar olsa da kafamda topladım;\nher bir alanına,en küçük noktasına kadar didik didik ederek,açık ve ulaşılabilir kaynaklar sayesinde de yüzeyselin çok üstünde bilgi/bilgiler edindim.\n\ndeaş'tan küçük bir örnek veriyorum ki bizim neden'acil!' olarak müdahele etmemiz gerektiği daha iyi anlaşılsın:\ndeaş maymunları bilmeyenler için söyleyim ki, internet üzerinden 6-7 belki 8 ayrı parça siparişi ile dron yapmaya başlamıştı.\nbu alanda kendilerini öyle iyi geliştirdiler ki,küçük el bombası atan(füze değil) dronlardan,ucuna ak-47 bağlayarak,içi çeşitli patlayıcılarla dolu intihar iha'ları üretme aşamasına ulaştılar.\ndrone,intihar iha'sı hariç; kendi çaplarında,her ne kadar çok başarılı sayılmasa da iş görecek seviyede belli başlı silahlar üretme kapasitesine ulaşmışlardı..\nbunlar: basit yapım güdümsüz roketler,amatör topçu sistemleri,tüfeğimsi silah...\nher ne kadar'basit,amatör,tüfeğimsi' desem de sonuç olarak bunu bir şekilde kullanıyor,geliştirmeye devam ediyorlardı..\n\nbatılı koalisyon güçleri,bakın çok değil 10 gün daha kendi hallerine bırakıp,ciddi bir müdahaleyi erteleselerdi,bugün birçok ülke,maalesef biz bile onları tanımak zorunda kalacaktık.\nbatılılar özellikle iha kullanımını ve gelişimini gördüler ki,tehlikeyi kırmızı alarm a geçirerek gerçek bir mücadeleye başladılar.\nee son 1 yılda türkiye'nin iha ve siha sistemleri ile neler başardığı ortadayken,pek de haksız sayılmazlar.\n\nsonuç?\nsonuç şu: bu pyd'liler her geçen gün orada yasal bir zemin elde ediyor,savunma hatlarını güçlendiriyor,full eğitim ve tatbikat yapıyor,üstüne bir de batılı dostlarımız(!), nato müttefiklerimizin(!) büyük çoğunluğu tarafından fazlasıyla silahlandırılıyorlar.\n\nbizim çok bir zamanımız yok. zaman hızlı bir şekilde,bizi ağırlaştırarak aleyhimize işliyor. önümüzde maksimum 6, bilemediniz 7 ay var. 2021 yılının en geç 2.çeyreğinde,harekat yapılmış olması lazım ki ilerde başımız ağrımasın. şu 6-7 ay içinde bir harekat yapmazsak eğer,üzülerek belirtmem gerekiyor ki pyd sınırlarını kabul etmek zorunda kalacağız. pyd sınırlarını kabul etmek demek,pyd devletini kabul etmek demektir. pyd devletini kabul etmek demek ise; bizim bağımsızlığımıza tehdit demektir.\nhemen yanı başımızda; türkiye zayıf düştüğünde, türkiye birkaç cephede savaştığında,türkiye'de bir iç savaş vs. çıktığında,zaten içinde bulunan,bölgemizi tanıyan pkk kolu ile anadolu'ya girecek,işgal sürecini başlatacaktır.\n\nbiz şu an hiçbir şey yapmasak bile orada kurulan devlet bize hep tehdit olacak.\nilk 10 yıl bize saldırı tehdidi olmaz: dünyaya entegre olmaya,tanınırlığını yaymaya,reklamını yapmaya,sistemini oturtmaya,diplomatik ilişkiler geliştirmeye ve güçlendirmeye,ülke ekonomisi ve alt yapıları için gerekli süreçler vs. geçer gider ama; 10 ile 20 yıl arasında,batılıların %90'ı ellerindeki eski envanterleri bunlara verecektir. askeri alanlarda bugünkünden çok daha fazla desteklenecek. üstelik tam bağımsız bir ülke olarak hava kuvvetlerine de sahip olacak. yasal bir zeminde olduğundan,uluslararası kabul görmüş sınırları ve tanınırlığı olduğundan, şu an sahip olmadığı,olamadığı'yıkıcı silahlar'a da belli oranda sahip olacaktır.\n\ntamam,ekonomi çok iyi değil. şu durumda savaş ekonomisi,belki hiç mantıklı değil ama; şu an bile kısmen milli güvenlik sorunumuz olan,ilerde bağımsızlığımıza ciddi tehdit oluşturacak bu terör unsurlarına,geç olmadan; ah vah demeden,çok ağır bedeller ödemeden müdahale etmek kaçınılmazdır. bu bizim için elzem dir.\n\nnot: entry'min başında yarım kalan harekat'a değindim madem,onunla ilgili aklımda kalanları da söylemek istiyorum:\n\nöncelikle abd hayatını kurtardığı avrupa devletleri ile türkiye'yi karıştırmamalı. biz abd'nin mandası değiliz. o pensin((bkz: mike pence)) burada yaptıkları unutulmaz. pense'nin(pens değil) 2019 ekim ayındaki tripleri,havaları,mimikleri,bizim asla hak etmediğimiz davranış biçimleridir.\n\nabd'nin bizi kullanmasına izin vermemeliyiz. bu olayı da kısmen şöyle açayım:\nabd,barış pınarı harekatı'nı buraya pence'yi göndererek durdurdu. ekonomi ile vurdu. diplomatik dile yakışmayacak şekilde mektup gönderdi.\no sürecin başında,harekat öncesi türkiye bölgedeki yabancı unsurlara üssünüzü,karargahlarınızı terk edin,birliklerinizi çekin dedi.\nabd çok kararlı durmadı. durmadı ki üslerini boşalttı.\n\"ya girmesen iyi olurdu da madem kararlısın...\" şeklinde geçiştirdi.\n\nneden?\nbunun tek nedenini de açıklayayım:\nbu pyd/pkk'lılar yıllardır aktif bir şekilde savaşıyor,en iyi şekilde eğitiliyor,son teknoloji silahlar ile donatılıyor,her türlü yakın hava desteğine sahipler,yalnız bunların bir şeyleri eksikti,artık onun zamanı gelmişti...\n\nbu pyd'liler hep kendi gibi teröristler,düzensiz birlikler,boş yığın kalabalıklar ile savaştı..\n\ngüncel olarak çok iyi silahlara sahipti ki bazıları tsk'da yoktu. sıcak çatışma tecrübesine,genel savaş tecrübesine,strateji üretimi,taktik geliştirme,bazı x'lere artık sahipti; kısmen düzenli ve yarı profesyonel ordu gibi olmuştu. yalnız sorun,bir düzenli ordu ile,disiplinli bir ordu ile,yıpranmamış bir ordu ile savaşmamıştı...\n\nişte bunun zamanı gelmişti,o yüzden batılılar tarafından bizim yöneticiler yumuşak dil ile geçiştirildi \"ya girmeyin,biraz daha erteleyin,girmeseniz iyi olurdu da..\" şeklinde siyaset yürütülerek; pyd'yi bizimle bir denemek istedi...\n\nsonuç?\nsonuç onlar için koca bir hayal kırıklığı oldu. çok büyük beklentiler içine girdikleri o pyd,tabiri yerinde ise ezildi.\n48 saatte savunma hatları hiç olup psikolojik üstünlüğü yitirdiler. 72 saat içinde imha edilmeye başlandılar,hem de öyle böyle değil. yok olacaklardı ki...\n\nee gerisi biliniyor zaten.\n'milyarlarca dolar yatırım boşa gidiyor,çabuk çabuk müdahale edin,türkiye'nin durması için acil olarak gerekli ne gerekiyorsa yapın!' dediler,diye tahmin ediyorum ki malum şekilde sonuçlandı.\ndiplomatik nezakete sığmayan,üstelik bir nato müttefiki olan ülkenin cumhurbaşkanı'na iğrenç bir mektup attılar. pence apar topar geldi. buradaki davranışları,havaları, pyd'nin ne hale getirildiğinin de göstergesiydi.\n\npence burada açıklama yaparken,müteakip olarak da trump amerika'da bir konuşma, röportaj yaptı. o gün hatırlayanlarınız olacaktır,konuşmasına giriş kısmı;\ntürk silahlı kuvvetleri'ne övgü olmuştu.\n2-3 hafta sonra ise:\n''türkiye'nin çok güçlü bir ordusu var. türkiye çok disiplinli bir ordu' ya sahip'' şeklinde bir açıklama yapmış,trollüğünü yapmadan da bitirememişti: \"yalnız en güçlü ordu abd ordusu,ondan sonra dünyanın en güçlü ordusu, türk ordusu'' gibi,acı kahkaha attıran trollük yapmıştı.\n\nuzatmadan..\nevet, bazı acı gerçeklerimiz var. evet, yapabileceklerimiz var, yapamayacaklarımız var. ekonomi malum,üstüne savaş ekonomisi ile neden iyice zora girelim,denebilir belki ama; ülke için hayati bir gerçek olan, sınırımızdaki büyük tehlike ki ilerde önlenemeyen bir güç de olabilir; bugün,bu aralar, bu dönemler müdahale etmezsek, ilerde buna hiç edemeyeceğiz.\nbiz, kara sınırımız olan her ülkeye karşı'yıkıcı' bir gücüz.\ntürk silahlı kuvvetleri ne yapacağını bilir, gücümüz de var. harekatı olabilecek en kısa zamanda,hızlı bir şekilde bitirebilirsek, ekonomimiz için telafisi mümkün olmayan ağır yük oluşturmaz, ağır gelmez. biz kararlı olduktan sonra,gerekli şekilde hareket edip başarı ile sonlandırdıktan sonra; harekat'kısa sürer' ise ağır olmayacağını düşünüyorum,ekonomi için karamsar olmamıza gerek kalmaz diye düşünüyorum.\n\nsavaş ekonomimiz 10 gün için ağır olmaz sanıyorum. tam teşekküllü,yarım bırakmadan ve kararlı olursak, %80 oranında başarı ile sonlandırırız.\ngeri kalan kısımlarda olmaları çok önemli değil. onların bellerini doğrultmaları,aşırı desteğe rağmen yıllar alır,asla da eski etkisi olmaz.\n\nbizim haklı yasal gerekçelerimiz de var ama; batı tabii ki işine geldiği gibi hukuk kurallarını işletiyor. yine de abd öncülüğündeki batı'nın bize karşı x kararı alması,aleyhimize bir karar çıkartması 1 ayı bulur. ilk günler etkili olmayan sözlü uyarıda bulunurlar. hızlı hareket edersek,10 gün içinde bitirebilirsek,şu anda olduğu gibi üstü kapalı ambargo,yaptırımlarla vs. atlatabiliriz gibi gözüküyor.\ncorona bütün dünya ülkelerini vurmuşken,bütün dünya ülkeleri ekonomik zarar görürken,şu dönem değerlendirmek için mükemmel.\n\nbizim envanterimizdeki gerekli mühimmatlar,bize zaten kısa vadede sorun çıkartmaz ki 10-12 gün için'kesinlikle olmaz' sanıyorum.\nekonomimiz 10-12 günü aşmayacak pyd müdahalesini kaldırmayacak kadar kötü değil. ekonomimiz 10-12 günde bitirilecek harekatı kaldırır; belirli kritik ana hedefler üzerinden,yüksek tahribat verecek(yok etme seviyesine yakın,kısmen abd tarifesi) kısa süreli savaşı kaldırabilecek kadar güçlü. konvansiyonel silah ile direnç kırılır,sürecin gerektirdiği ne ise öyle devam edilir. sahayı iyi bilen subaylar,generaller,gerekli olanı planlar,belirler.\ntürk ordusu nun genel yeteneği bu değil midir zaten,kurmay zeka stratejisini sahada kusursuz uygulayan yüksek cesaretli asker ile başarı elde etmek. ve destek gerektiğinde,halk ile bir olmak.\n\nhalkın çok ciddi bir kısmı yunanların doğu akdeniz politikasına karşı bile %80 hemfikir oldu,hakkımızı yedirmeyelim dedi,3 ay önceki anketlerin en az %70,en iyi oran %80'idi;\nhakkımızı yedirmeyelim,gerekirse savaşılır diyen ciddi bir halk tabanı vardı.\naynı mantıkla ki pyd ulusal güvenliğimize,bağımsızlığımıza tehdit; halkın büyük çoğunluğu karşı olmaz,destek olur.\n\nabd'deki seçim sonuçları kısmen aleyhimize ama içinde bulunduğumuz süreç,harekat için kısmen lehimize.\nbiz öyle böyle bu yarım bıraktığımız harekatı tamamlamalıyız.\n\nbazı ağır bedelleri olabilir belki ama; bağımsızlığımıza tehdit olana/olanlara karşı,ayrı ayrı her zafer için bedel ödenir.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "kuzey suriye",
+      "entry_id": "117135821",
+      "author": "kaizenuberalles",
+      "date": "20.12.2020 22:09",
+      "content": "kuzey suriye, özellikle kuzey doğu suriye türkiye için çok önemli. çünkü bu 50 kilometrelik suriye toprağının hemen ötesinde ırak'taki türkmeneli toprakları uzanıyor. gelecekte türkiye'nin mutlaka kuzey doğu suriye'yi ele geçirmesi gerekiyor. bunun için yolumuz üzerinde olmayan, kuzey doğu suriye'nin en kuzey doğusunda bulunan el-malikiye şehrini barzaniye verebiliriz. bu şehrin batısından 50 kilometre içeriye doğru gittik mi ırak topraklarına varırız.\n\nırak sınırından içeriye girince ilk karşımıza çıkan yerleşim yeri 50 km sonra 400.000 kişilik türkmen nüfusu ile telafer.\n\ntelefer'den 200km daha güney doğu'ya düz gidince karşımıza gelen yerleşim birimi kerkük. burada telefer'in 60km doğusundaki musul'a sapmadık. çünkü musul'da hem türkmen nüfusu az hem de büyük bir şehir. yani musul konusunu şimdilik bir kenara bırakalım. yazının en sonunda tartışabiliriz.\n\nneyse musul'u es geçersek telafer'den 200km güney doğuda geçmişte tamamen türkmen şehri olan kerkük'ün sanırım bu aralar %20'lik miktarı türkmen. saddam dönemi hatta daha öncesinde krallık devrinden beri kerkük'de bir etnik temizlik politikası var. ama sanki bu %20'lik türkmen nüfusu bana baya köklü bir nüfus gibi geliyor. geçmişte bu şehir türk kültürüne çok ürünler vermiş. ele geçirdikten sonra şehir tekrar türkmen şehri haline getirilebilir.\n\nkerkük'ün 40km kuzeyinde altın köprü isminde bir türkmen kasabası var. burası da ele geçirilebilir.\nkerkük'ün 30km güneyinde eskiden tavuk şimdi daquq isimli başka bir türkmen kasabası var. burası da alındı.\ndaquq'dan güneye 30km güneye gidersek tuzhurmatu isimli türkmen ilçesine geliriz. 120.000 nüfusu var. burayı aldık.\ntuzhurmatu'nun 35km güney doğusunda ise kifri isimli türkmen kasabası var. burayı da alabiliriz.\n\nvallahi çok ilginç. yani bu kasabalar dışında oralarda yerleşim birimi falan yok. türkmenler nüfusça azlar ama bulundukları coğrafyada kısmen homojenler. etrafta çok arap kürt yerleşim yeri yok. buraları işgal edersek kerkük dışında yerel halktan direniş görme ihtimali bile yok. çünkü lokal halk hep türkmen.\n\nsanki dicle nehrinin üzerine barajlar inşa etsek bu çorak topraklar urfa harran ovası gibi bereketli hale gelebilir.\n\nyalnız burada bir püf nokta var. bu ırak'taki türkmeneli coğrafyasından bizi ayıran 50km'lik suriye toprağı. bu çıkıntıyı resmen ingilizler suriye'ye vermiş ki türkiye bir gün türkmen topraklarını geri almak isterse hem ırakla hem suriye ile karşı karşıya gelmek zorunda kalsın. piçliğe bak ya.\n\nöte yandan şu da var. pkk kuzey suriye'yi ele geçirdi. eğer onlar suriye'den koparlarsa biz de pkk'nın elinden buraları alabiliriz. böylece suriye ile savaşmak zorunda da kalmayız.\n\ntabi biz buradan 50 km'lik bir alan hüpletince pkk devleti ikiye bölünmüş olacak. ayrıca eğer biz türkmeneli topraklarını geri alırsak musul ırak araplarından ayrılmış olacak. bu durumda gücümüz yetiyorsa bunu ya biz alacağız ya da ırak kürdistan'ına kalmış olacak musul.\n\nçok fazla türk olmayan nüfusu topraklarımız içerisine almak sağlıklı değil. bunun için belki musul'u ikiye bölüp dicle nehrinin doğu kısmındaki görece büyük kısmını ırak kürdistan'ına, nehrin batı yakasını da türkiye topraklarına katabiliriz. belki suriye'de bölünen pkk topraklarının doğu kısmında kalan ve nüfusu kürt olan el-malikiye şehrini de ırak kürdistan'ına veririz. bizim işgal ettiğimiz suriye topraklarındaki nüfusu alıp musul'un doğusuna yerleştirirler.\n\no alanda dicle nehrindeki suyu kullanarak tarım alanları yaratır, bağdat'a 150 kilometreye kadar yanaşırız.\n\nöte yandan ırak'ın, özellikle ırak araplarının nüfusu acayip hızlı artıyor. bu toprakları bugün kurtarmak mümkün olabilir. 20 yıl sonra bu daha zor olur.\n\neğer amerika iran'a saldırır da oradaki güney azerbaycan ve kuzey azerbaycan türkiye ile birleşirse türkmeneli'ni geri almak 120 milyon nüfuslu türkiye için hiç de zor olmaz. dahası böyle türk bir coğrafyayı türkiye'den ayıran bu büyük haksızlığı yırtıp atmış oluruz.\n\nnot: bu coğrafyadaki şimdi ırak kürdistan'ının başkenti erbil de geçmişte tamamen yüzde yüz türkmen şehri. sonradan petrol'ün bulunması ile nüfusu değiştiriliyor. fakat bu senaryoda reel politik açısından olaya baktığımız için erbil'i es geçtik.\n\nbonus olarak:\nhttps://www.youtube.com/watch?v=owtvsi7lujk",
+      "referenced_content": [],
+      "has_external_url": true,
+      "sentiment_numeric": 5,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "kuzey suriye",
+      "entry_id": "170538814",
+      "author": "thorin 1283",
+      "date": "27.11.2024 22:49",
+      "content": "türkiye'ye ana sütü gibi hak olan bölgedir.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "kuzey suriye",
+      "entry_id": "178373322",
+      "author": "vakur homo sapiens",
+      "date": "14.09.2025 01:59",
+      "content": "türkiye'nin eninde sonunda elde edeceği, yarım kalmış meseleyi kapatacağı bölge.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "POLICY"
+      ]
+    }
+  ]
+}

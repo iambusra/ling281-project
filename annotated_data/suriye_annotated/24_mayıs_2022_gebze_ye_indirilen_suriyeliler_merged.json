@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T15:29:34.354940",
+    "total_entries": 1,
+    "input": "24 mayıs 2022 gebze'ye indirilen suriyeliler",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "24 mayıs 2022 gebze'ye indirilen suriyeliler",
+      "entry_id": "137881069",
+      "author": "raifbeyinruhikizi",
+      "date": "25.05.2022 09:58 ~ 10:03",
+      "content": "toprağımıza ayak basar basmaz pasaportlarını yırttıklarından dolayı geri yollayamadığımız birkaç (bkz: gülücük) suriyeli/afgan/herneboksa:\n\nkaynak\n\n(bkz: pasaportlarını yırttıkları için gönderilemiyorlar)\n\nedit: başlık açılmış, aramaya inandım ama bulamamıştım. moderatörler kaldırabilirse sevinirim başlığı. var olan başlık için:\n\n(bkz: 24 mayıs 2022 mültecilerin gebze çıkarması)",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:02:47.903706",
+    "total_entries": 1,
+    "input": "suriyelilerin artık kalıcı olduğu gerçeği",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelilerin artık kalıcı olduğu gerçeği",
+      "entry_id": "170812455",
+      "author": "koducalismayanyazilimci",
+      "date": "07.12.2024 18:00",
+      "content": "geri gideceklerine dair bir ümidiniz mi vardı? onlar sonraki seçimlerde oy kaynağı",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    }
+  ]
+}

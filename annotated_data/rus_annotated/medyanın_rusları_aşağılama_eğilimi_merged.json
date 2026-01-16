@@ -1,0 +1,50 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:28:44.567908",
+    "total_entries": 3,
+    "input": "medyanın rusları aşağılama eğilimi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "medyanın rusları aşağılama eğilimi",
+      "entry_id": "9381744",
+      "author": "matarama su ko",
+      "date": "08.04.2006 22:04 ~ 22:05",
+      "content": "nataşa ismini hayat kadını ile eşanlamlı yapmayı başarmış eğilimdir.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HUMAN",
+        "SEXUAL"
+      ]
+    },
+    {
+      "title": "medyanın rusları aşağılama eğilimi",
+      "entry_id": "17338681",
+      "author": "staticip",
+      "date": "23.11.2009 21:11 ~ 21:13",
+      "content": "şaşırmadığım eylemdir. iki kutuplu dünya düzeninden bu yana kuzeyin zıttı (!) batıdaki coniye doğru eğilim göstermiş memleketimin medyasının kaçınılmaz davranışıdır.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "medyanın rusları aşağılama eğilimi",
+      "entry_id": "17338865",
+      "author": "back in town",
+      "date": "23.11.2009 21:32",
+      "content": "(bkz: türk medyasinda sonu gelmeyen abd propagandasi)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    }
+  ]
+}

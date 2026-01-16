@@ -1,0 +1,26 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:45:55.861194",
+    "total_entries": 1,
+    "input": "suri ve afganlara karşı sus pus olan türk halkı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suri ve afganlara karşı sus pus olan türk halkı",
+      "entry_id": "126776281",
+      "author": "gearbox ag",
+      "date": "11.08.2021 01:38 ~ 01:47",
+      "content": "yanlış tespittir. ne yapalım, elimize silah alıp suç mu işleyelim?\n\ngereken zaten ilk seçimde yapılacak. o zamana kadar galeyana gelmemeli, kriminal olaylara karışıp mültecilere mağdur olma kozu vermemeliyiz. akp'nin zaten böyle olaylar çıksın da hem kendimizi hem de mültecileri mağdur konumuna düşürelim diye beklediğine eminim.\n\nedit: başlığı açan kaçmış.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "POLICY",
+        "HUMAN"
+      ]
+    }
+  ]
+}

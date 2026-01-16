@@ -1,0 +1,26 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:08:22.439608",
+    "total_entries": 1,
+    "input": "tc vatandaşı olan 1 milyon suriyeliye oy hakkı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "tc vatandaşı olan 1 milyon suriyeliye oy hakkı",
+      "entry_id": "131350010",
+      "author": "newsky24",
+      "date": "20.12.2021 13:20",
+      "content": "bence, verilmemesi gereken oy hakkıdır.\nilk başta, geçici olarak gelecek dediler.\nsonra, sadece suriyeli kamplarında kalacaklar, sosyal kültürü bozmayacak dediler.\nsonra vatandaşlık vermeyeceğiz dediler.\nsonra yaklaşık 1 milyon suriyeliye vatandaşlık verdiler.\nsonra, anlaşılmasın diye türk isimleri verdiler.\nsonra...\nsonrası malum zaten.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE",
+        "POLICY"
+      ]
+    }
+  ]
+}

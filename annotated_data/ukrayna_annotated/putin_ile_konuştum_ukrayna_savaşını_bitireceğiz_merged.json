@@ -1,0 +1,84 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:03:57.664513",
+    "total_entries": 6,
+    "input": "putin ile konuştum ukrayna savaşını bitireceğiz",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "putin ile konuştum ukrayna savaşını bitireceğiz",
+      "entry_id": "172729017",
+      "author": "eurasia",
+      "date": "12.02.2025 20:23",
+      "content": "donald trump:\n\n\"putin ile konuştum. ukrayna savaşını bitireceğiz\"\nx",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "putin ile konuştum ukrayna savaşını bitireceğiz",
+      "entry_id": "172729088",
+      "author": "magnusmaximus",
+      "date": "12.02.2025 20:26",
+      "content": "\"putin ile konuştum, ukrayna savaşını bitireceğiz\" dediğine göre ya gerçekten çözüm buldu ya da putin ona \"tabii ki dostum, kesin bitireceğiz\" deyip telefonu kapattıktan sonra kahkahalara boğuldu.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "putin ile konuştum ukrayna savaşını bitireceğiz",
+      "entry_id": "172729168",
+      "author": "az icilmis izmarit",
+      "date": "12.02.2025 20:29",
+      "content": "(bkz: ronaldinho diyarbakırspor’a önerildi)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "putin ile konuştum ukrayna savaşını bitireceğiz",
+      "entry_id": "172729305",
+      "author": "xtrap",
+      "date": "12.02.2025 20:35",
+      "content": "bop eşbaşkanı ile de konuşsun. belki emir aldıklarını filistine saldırmaktan vazgeçirir.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "putin ile konuştum ukrayna savaşını bitireceğiz",
+      "entry_id": "172729362",
+      "author": "osbirci31",
+      "date": "12.02.2025 20:38",
+      "content": "(bkz: holosko artı bir miktar para)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "putin ile konuştum ukrayna savaşını bitireceğiz",
+      "entry_id": "172729436",
+      "author": "buyuyup buyuk adam olacaktim",
+      "date": "12.02.2025 20:41 ~ 20:47",
+      "content": "hadi inş.\n\ngazze meselesini de çözmüştü hatırlıyorsunuz, cumartesi yeniden başlıyor. hotel yapacaklar komple yıkınca.\n\nkanadaya meksikaya gümrük çakıyordu, ertelendi.\n\ntoplu sınırdışılar olacaktı, şu an günlük 1000 kişiden az sınırdışı ediliyor. biden'dan farklı bir durum yok.\n\nha şovu iyi yapıyor, seçmeni tatmin olmuş.\n\nukrayna ile ilgili sorun, savaş gerçekten bitmezse fark edilir.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    }
+  ]
+}

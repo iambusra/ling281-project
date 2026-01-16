@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:28:50.460602",
+    "total_entries": 1,
+    "input": "ruslara erik dalı oynatan ebrar karakurt",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ruslara erik dalı oynatan ebrar karakurt",
+      "entry_id": "160472353",
+      "author": "ciel phantomhive",
+      "date": "09.01.2024 12:35",
+      "content": "taraftarda biz ne yapıyoruz şimdi sorgusu görülüyor ama oyun-skor denkleminin getirdiği sevinçle boşvermişlik daha ağır basıyordur muhtemelen. ebrar'ın kendisini de tebrik etmeden geçmemek gerekiyor.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN"
+      ]
+    }
+  ]
+}

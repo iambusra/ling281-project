@@ -1,0 +1,50 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:13:46.575575",
+    "total_entries": 3,
+    "input": "ümit özdağ'ın suriyeliler çok osuruyor paylaşımı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ümit özdağ'ın suriyeliler çok osuruyor paylaşımı",
+      "entry_id": "164279521",
+      "author": "mopan",
+      "date": "10.05.2024 18:11",
+      "content": "ümit özdağ\n\nümit özdağ suriyeli öğrencilerin çok osurduğuna dair kendisine bir çocuğun yazdığını iddia ettiği bir paylaşım yapmış. siyasi parti lideri bu adam.",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "ümit özdağ'ın suriyeliler çok osuruyor paylaşımı",
+      "entry_id": "164279730",
+      "author": "gece mavi ve baykus",
+      "date": "10.05.2024 18:19",
+      "content": "bizim lisede hiç suriyeli yoktu derste osuruk kokusundan gecilmezdi. derste asılanlar falan vardı. dersin akışına hiç girmiyorum bile. bunun türklükle alakalı olduğu hiç aklıma gelmemişti. demek türk olduğu için osuruyormuş elemanlar.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "ümit özdağ'ın suriyeliler çok osuruyor paylaşımı",
+      "entry_id": "164279754",
+      "author": "bode",
+      "date": "10.05.2024 18:20",
+      "content": "mülteci meselesini sulandırmaktır. magazinliştirmektir. sen de mi işin içindesin ümitcim.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

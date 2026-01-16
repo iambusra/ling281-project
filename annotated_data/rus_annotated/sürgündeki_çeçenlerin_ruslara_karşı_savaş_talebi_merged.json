@@ -1,0 +1,38 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:29:26.977240",
+    "total_entries": 2,
+    "input": "sürgündeki çeçenlerin ruslara karşı savaş talebi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "sürgündeki çeçenlerin ruslara karşı savaş talebi",
+      "entry_id": "134270720",
+      "author": "muratbuyuklu",
+      "date": "27.02.2022 09:51 ~ 10:02",
+      "content": "gazeteci ceyhun aşirov,\nçeçenlerin avrupa'da yaşayan önemli liderlerinden ahmed zakayev'in,''çeçen direnişçilerin ukrayna'ya gelip ruslarla savaşmaya hazır'' olduğunu söylediğini ileri sürdü.\n\nkaynak\ngörsel\n\nbir başka habere göre;\nçeçen lider zakayev, zelenski'ye avrupa ve ukrayna'dan çeçen gönüllülerin rusya'ya karşı savaşacağı, iki taraf arasında askeri işbirliği anlaşması imzalamasını teklif etti.\n\nzakayev, avrupa'da 300.000'den fazla çeçen'in yaşadığını söyledi.\ngörsel",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "sürgündeki çeçenlerin ruslara karşı savaş talebi",
+      "entry_id": "134270821",
+      "author": "chie shih shuai",
+      "date": "27.02.2022 09:56 ~ 09:58",
+      "content": "hâlihazırda çeçenlerin rusya adına ukrayna'da savaştığı, kırım üzerinden ukrayna'ya girdiği iddiaları var (bkz: ramazan kadirov)\n\neğer sürgündeki çeçenler de ukrayna adına savaşırsa çeçenlerin birbirine karşı savaşma ihtimali doğdu demektir.\n\nedit: zaten ukrayna'da çeçenlerden oluşan, ukrayna adına savaşan iki birlik varmış, başlarında eski bir çeçen savaş gazisi.\nkaynak",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL",
+        "POLICY"
+      ]
+    }
+  ]
+}

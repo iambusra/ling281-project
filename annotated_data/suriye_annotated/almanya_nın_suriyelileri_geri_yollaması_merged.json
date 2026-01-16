@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T15:34:03.548669",
+    "total_entries": 1,
+    "input": "almanya'nın suriyelileri geri yollaması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "almanya'nın suriyelileri geri yollaması",
+      "entry_id": "97850327",
+      "author": "070509",
+      "date": "16.11.2019 08:16",
+      "content": "biz suriyelileri babalarının hayrına tutmuyoruz. ab ile yaşadığımız en ufak gerginlikte kapıları açarız bak, daha bir kaç yüz bin mülteciyle uğraşamıyorsunuz, milyonlarcasıyla nah başedersiniz tehdidi için tutuyoruz. ayrıca almaya'nın o mültecileri geri göndermesi o kadar kolay olmayacak, bu işin bir sürü boku püsürü var hukuken.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    }
+  ]
+}

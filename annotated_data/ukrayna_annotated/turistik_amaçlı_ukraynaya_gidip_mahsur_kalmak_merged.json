@@ -1,0 +1,48 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:09:13.092107",
+    "total_entries": 3,
+    "input": "turistik amaçlı ukraynaya gidip mahsur kalmak",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "turistik amaçlı ukraynaya gidip mahsur kalmak",
+      "entry_id": "134208708",
+      "author": "no data",
+      "date": "25.02.2022 19:25",
+      "content": "biraz önce instagramda hikayesi önüme düşen bu arkadaşlar ukrayna’ya üç günlüğüne tatile gidip mahsur kalmışlar, arabayla kiev’de aheste aheste dolaşıyorlar, ilginç.\n\ninstagram linki",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "turistik amaçlı ukraynaya gidip mahsur kalmak",
+      "entry_id": "134209131",
+      "author": "keepyourmouthshot",
+      "date": "25.02.2022 19:37",
+      "content": "kaç haftadır televizyonda, sosyal medyada bas bas bağırıyorlar savaş çıkacak diye. sen kalkmış oraya avare avare sürtmeye gidiyorsun. kafanı sikim senin kal orda biraz aklın başına gelsin.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "SEXUAL"
+      ]
+    },
+    {
+      "title": "turistik amaçlı ukraynaya gidip mahsur kalmak",
+      "entry_id": "134209266",
+      "author": "better call sabire",
+      "date": "25.02.2022 19:41",
+      "content": "(bkz: göt kıspetten çıkmışsa yarrak bağdat'tan gelir)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "SEXUAL"
+      ]
+    }
+  ]
+}

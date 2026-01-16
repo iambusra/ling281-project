@@ -1,0 +1,63 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:57:39.970022",
+    "total_entries": 4,
+    "input": "suriyelilerden nefret etmeyen türk",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelilerden nefret etmeyen türk",
+      "entry_id": "125848974",
+      "author": "hgzr",
+      "date": "18.07.2021 13:52",
+      "content": "ben genel olarak göçmen politikası karşıtıyım.\n\nönüme suriye ya da başka yerden göçmen hasta gelince yardım etmek için elimden geleni yaptığımdan olayı nefrete indirmek ya propaganda amaçlı safsata ya da cehalettir.\n\ntürkiye'ye milyonlarca ukraynalı, isveçli, türkmenistanli da suriyeli de somalili de giremez.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyelilerden nefret etmeyen türk",
+      "entry_id": "125849084",
+      "author": "rusty cutlass",
+      "date": "18.07.2021 13:57 ~ 13:59",
+      "content": "benim de sahip olduğum bir sıfat.\n\nsadece suriyeli diye niye birinden nefret edesin ki zaten? herhangi bir mülteci; etnik kimliğinden bağımsız olarak, senelerdir kendi milletimize bile bir türlü öğretmekte zorlandığımız son yıllarda biraz gelişme kaydettiğimiz bazı toplumsal normlara uymuyorsa, ülkeye kontrolsüz şekilde girmişse, işsiz türk genci gss adı altında devlete her ay haraç ödüyorken işsiz mülteci devletten yardım alıyorsa, kayıtsız çalışıp zaten kötü olan ekonomide bir kambur da o oluşturuyorsa, savaştan kaçtığını iddia edip tavşan gibi ürüyorsa o zaman nefret edersin işte... ve bu nefret o mültecinin varlığından değil düzenin bu şekilde olmasından kaynaklanır.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY",
+        "ECON"
+      ]
+    },
+    {
+      "title": "suriyelilerden nefret etmeyen türk",
+      "entry_id": "125849123",
+      "author": "blueskin",
+      "date": "18.07.2021 13:58 ~ 13:59",
+      "content": "insanlardan nefret etmek için büyük sebepler gereklidir. cins, tür, renk önemli değil. mesela turkiyedeki rant sever, dolandırıcı, insan hakları adalet gibi birçok algıları olmayan politikacilardan nefret ediyorum ben, yaşamını paylasmak zorunda kalan topluma doğaya zararı olmayan insanlardan neden nefret edilirki!",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyelilerden nefret etmeyen türk",
+      "entry_id": "125849572",
+      "author": "noktavirgulunlem",
+      "date": "18.07.2021 14:12",
+      "content": "\"ister kabul edin ister etmeyin. türkiye yaptıklarının acısını çekiyor. erdoğan bu ülkeye aklımıza gelemeyecek enkazlar bıraktı. bunlar daha buz dağının görünen kısmı.\"\n\nhayatım boyunca ne erdoğan'a ne de hükümetine oy vermedim. yapılanların sorumluluğu da benim üzerimde değil. sorumluluğu kimdeyse, kim desteklediyse gitsin o çeksin sonuçlarını.\n\nbu olayları \"suriyelilerden nefret ediyorlar\" diye farklı yönlere çekmeye çalışarak ufak çakallıklar yapıyorsunuz ama yemez. insanların konuştuğu ve asıl önemli olan konu nereli olduğu değil bu insanların yarattıkları ve yaratabilecekleri sorunlar. eminim ki gelenler suriyeli değil italyan olsa ve yine bu sıkıntılar yaşansa yine rahatsız olunurdu. bundan rahatsız olmaktan da daha doğal bir durum yok. kendi vatandaşı olduğum ülkede güvende hissetmiyorum kendimi. bundan daha büyük problem olabilir mi?",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY",
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

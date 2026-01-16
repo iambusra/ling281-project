@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:44:23.886457",
+    "total_entries": 1,
+    "input": "otobüs durağına dalan suriyeli sürücü",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "otobüs durağına dalan suriyeli sürücü",
+      "entry_id": "170672526",
+      "author": "gameofgirl",
+      "date": "02.12.2024 16:20",
+      "content": "istedikleri kadar ırkçı desinler umurumda olmaz. suriyeliler bu ülkeye geldikten sonra kaç olayları oldu sayısını unuttuk. savaştan kaçma bahanesiyle geldikleri ülkede terör estirmekten başka bir şeyleri olmayan sığır sürüleri işte.\n\nt: orospu çocuğu suriyelidir.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    }
+  ]
+}

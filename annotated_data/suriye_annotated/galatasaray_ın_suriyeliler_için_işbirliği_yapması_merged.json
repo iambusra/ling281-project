@@ -1,0 +1,61 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:42:12.318910",
+    "total_entries": 4,
+    "input": "galatasaray'ın suriyeliler için işbirliği yapması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "galatasaray'ın suriyeliler için işbirliği yapması",
+      "entry_id": "162102025",
+      "author": "belki de insanlar degisir",
+      "date": "03.03.2024 12:41",
+      "content": "biliyorsunuz ülkemizde mülteci sorunu geçen yıllarda arttı. galatasaray'da bundan 7 yıl önce suriyelilerin iş bulması, sosyal hayata uyum sağlaması ve haliyle türkiye'de kalmaları için undp ile işbirliği yapmış.\n\nhttps://www.youtube.com/watch?v=re13gxiri5o\n\nülkeye faydalı olabilecek herhangi bir örgütle işbirliği yapmışlar mı acaba tarihlerinde?",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "galatasaray'ın suriyeliler için işbirliği yapması",
+      "entry_id": "165905584",
+      "author": "liveinferno",
+      "date": "01.07.2024 22:49 ~ 22:50",
+      "content": "ya bunları buraya dolduran bizzat fenerli be kardeşim ona bakarsan, osuruktan nem kapmaya gerek yok belki sen ben bile istemeden hizmet etmişizdir aw burada kalmalarına.\n\nla bu kaçıncı boyut bir gs çekememezliği ya",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "galatasaray'ın suriyeliler için işbirliği yapması",
+      "entry_id": "165905716",
+      "author": "anani siken kadi",
+      "date": "01.07.2024 22:53 ~ 22:56",
+      "content": "rte'nin peşine takılıp da suriyeye giden, bu suriye işi başlarken sıfır noktasında olan fenerlilere bakın hele.\n\nilla suratınıza mı çarpalım?\nhttps://x.com/…nlukarsiv/status/1246068620163072002\n\nhttps://m.youtube.com/watch?v=wtme4sfgej4\n\nhttps://youtu.be/7bamlwqnoxu?feature=shared",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "galatasaray'ın suriyeliler için işbirliği yapması",
+      "entry_id": "165906254",
+      "author": "seven years in tibet",
+      "date": "01.07.2024 23:06",
+      "content": "ben ki bu sözlükteki en psikopat fenerbahçeliyim. inanmayan nick altımı açıp okusun. ama gün, takım ayırma günü değil. vatanını seven herkes bu yaşanan rezalete ses çıkarmalıdır.\n\ntekbirlerle türk bayrağının yakıldığı yerde takımcılığı bırakıp tek vücut olmak gerek. link",
+      "has_external_url": true,
+      "sentiment_numeric": 4,
+      "categories": [
+        "CULTURE"
+      ]
+    }
+  ]
+}

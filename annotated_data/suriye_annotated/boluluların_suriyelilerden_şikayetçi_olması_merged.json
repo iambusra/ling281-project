@@ -1,0 +1,107 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:40:33.081501",
+    "total_entries": 7,
+    "input": "boluluların suriyelilerden şikayetçi olması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "boluluların suriyelilerden şikayetçi olması",
+      "entry_id": "137609664",
+      "author": "ben vahid",
+      "date": "18.05.2022 20:27",
+      "content": "dünyanın en kısa fıkrası. toplam 4500 suriyeli nüfusuna sahip bolu ilinin temsil eden tanju özcan’ın şikayet edip bolu halkı tarafından karşılık bulması.\n\nantep, urfa, hatay ve hatta suriyeli sayısı yerli nüfusu geçmiş kilis neden bu bolular kadar bağırmıyor. cevap açık çünkü ırkçılık kanlarına kadar işlemiş zira suriyeliler olmasa bunlar kürtlere sararlar.\n\n3 milyon suriyelinin 2,5 milyonunu güneydoğuya kilitleyip bir de üstüne başka illere göçleri yasaklandı. 4500 suriyeli mi huzurunuzu kaçırdı ay ne nazik götünüz varmış.",
+      "has_external_url": true,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "boluluların suriyelilerden şikayetçi olması",
+      "entry_id": "137609917",
+      "author": "bombadill0",
+      "date": "18.05.2022 20:33 ~ 20:34",
+      "content": "kardeş herkes senin gibi malmı, bu sayede 4500'le sınırlı kalmış suriyeli sayısı, yaşadıkları yere sahip çıkmışlar, sen de bu kafayla 2,5 milyona bakıyorsun işte:d",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "boluluların suriyelilerden şikayetçi olması",
+      "entry_id": "137610075",
+      "author": "frenzy06",
+      "date": "18.05.2022 20:38 ~ 20:44",
+      "content": "bolulular kapalı toplumdur sevmez uzun misafirlikleri. ekmeğini, suyunu, şehrini zoraki paylaşmayı sevmezler, hak yedirmezler ama yemezler de. yardımlaşmayı da sevmezler öyle yardım da istemezler kolay kolay. kardeş kardeşle toprağı santim santim pay eden bir şehire çok bile 4500 suriyeli zira yakında onlar da gitmek zorunda kalır.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "boluluların suriyelilerden şikayetçi olması",
+      "entry_id": "137610131",
+      "author": "duygusalponcik",
+      "date": "18.05.2022 20:39",
+      "content": "şikayetçi olunması gereken asıl merciden şikayetçi olmalılar",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "boluluların suriyelilerden şikayetçi olması",
+      "entry_id": "137610749",
+      "author": "hemkelhemdesisman",
+      "date": "18.05.2022 20:56",
+      "content": "akıllı insanlarmış. belki farkında değilsiniz ama türk milleti doğduğu topraklarda mülteci durumuna düşmeye başladı bile.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "boluluların suriyelilerden şikayetçi olması",
+      "entry_id": "137614704",
+      "author": "ben vahid",
+      "date": "18.05.2022 22:34 ~ 22:36",
+      "content": "sanki suriyelileri güneydoğulular istedi veya onlara soruldu. mevzu çok ağlak olmanız ve sürekli kendinizi birincil doğuluları ise ikincil konumda görmeniz.\n\ngüneydoğu’ya yukarıdan bakıp, kendilerini ayrıcalıklı sayıyorlar akıllarınca. ne evrensel ne de entellektüel anlamda sikim kadar bir değere sahip olmayanların gece gündüz faşist hezeyanlarınızı dinliyoruz. mınakoduğum interest bitch’ler!",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "boluluların suriyelilerden şikayetçi olması",
+      "entry_id": "137626277",
+      "author": "dnzgzn",
+      "date": "19.05.2022 07:37",
+      "content": "boluluların, suriyeli kaçak sığınmacışardan şikayetçi olmasına içerleyen bölücü hezeyanı başlıktır.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO",
+        "CULTURE"
+      ]
+    }
+  ]
+}

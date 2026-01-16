@@ -1,0 +1,995 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:19:20.659976",
+    "total_entries": 74,
+    "input": "rus kızından ayrılıp türk kızına dönmek",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rus kızından ayrılıp türk kızına dönmek",
+      "entry_id": "36962289",
+      "author": "siktirella 2000",
+      "date": "15.09.2013 22:54 ~ 22:58",
+      "content": "attan inip eşeğe binmektir.\n\nzöge: mazoşistseniz ayrı tabii.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus kızından ayrılıp türk kızına dönmek",
+      "entry_id": "36962327",
+      "author": "swollenmember",
+      "date": "15.09.2013 22:55",
+      "content": "türkçe konuştuğunuzda sizi anlamayan birinden ayrılıp, türkçe konuştuğunuzda sizi anlamayı reddeden birine dönmektir.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus kızından ayrılıp türk kızına dönmek",
+      "entry_id": "36962335",
+      "author": "le fougueux",
+      "date": "15.09.2013 22:56",
+      "content": "mir'den inip metrobüs'e binmektir.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus kızından ayrılıp türk kızına dönmek",
+      "entry_id": "36962501",
+      "author": "halaylay",
+      "date": "15.09.2013 23:00",
+      "content": "hiv testi yaptırmadan, yapılmaması gereken davranış.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus kızından ayrılıp türk kızına dönmek",
+      "entry_id": "36962510",
+      "author": "siktirella 2000",
+      "date": "15.09.2013 23:01",
+      "content": "nutella'yı bırakıp peripella yemektir.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus kızından ayrılıp türk kızına dönmek",
+      "entry_id": "36962562",
+      "author": "solaryum",
+      "date": "15.09.2013 23:02",
+      "content": "(bkz: olur mu lan öyle şey)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus kızından ayrılıp türk kızına dönmek",
+      "entry_id": "36962656",
+      "author": "maifotech",
+      "date": "15.09.2013 23:05",
+      "content": "serin sulardan kızgın kumlara geçmektir.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus kızından ayrılıp türk kızına dönmek",
+      "entry_id": "36971418",
+      "author": "efim",
+      "date": "16.09.2013 10:17",
+      "content": "(bkz: dili olsa da konuşsa)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus kızından ayrılıp türk kızına dönmek",
+      "entry_id": "36971534",
+      "author": "idontgiveafuck",
+      "date": "16.09.2013 10:24",
+      "content": "(bkz: yapma canım yapma arkadaşım)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus kızından ayrılıp türk kızına dönmek",
+      "entry_id": "36971624",
+      "author": "bir zamanlarin azimli yazari",
+      "date": "16.09.2013 10:30",
+      "content": "attan inip koala'ya binmektir. yada koala'nın bize binmesi.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus kızından ayrılıp türk kızına dönmek",
+      "entry_id": "36971743",
+      "author": "fortcu",
+      "date": "16.09.2013 10:37",
+      "content": "(bkz: votkayı fazla içmek)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus kızından ayrılıp türk kızına dönmek",
+      "entry_id": "36971751",
+      "author": "sicarken ilham gelen dahi",
+      "date": "16.09.2013 10:38 ~ 11:26",
+      "content": "bok yolundan çıkıp hak yoluna girmektir (bkz: swh)\n\nzöge: tanım2: \"hak yolundan çıkıp bok yoluna girmektir\" ikisinden birini seçin.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus kızından ayrılıp türk kızına dönmek",
+      "entry_id": "36972139",
+      "author": "mamilis",
+      "date": "16.09.2013 10:59",
+      "content": "taktik görmekten ve rus salatası yemekten gına gelmiş erkektir.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus kızından ayrılıp türk kızına dönmek",
+      "entry_id": "36974233",
+      "author": "siktirella 2000",
+      "date": "16.09.2013 12:51",
+      "content": "doğaçlama seks yerine ışığı kapat, kapıyı kilitledin mi, koltukta olmaz, doggy olmaz şeklinde milyar tane saçma sapan ritüeli kucaklamak demektir.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "SEXUAL"
+      ]
+    },
+    {
+      "title": "rus kızından ayrılıp türk kızına dönmek",
+      "entry_id": "36975770",
+      "author": "nickininneolacaginakararveremeyenkisi",
+      "date": "16.09.2013 14:11",
+      "content": "çaresizliktir, imkansızlıktır. \"elden ne gelir, elden iyidir\" diye düşünmüştür.\n\nimkanları tamamken bunu yapanlar zevk için dövülecek insanlar dır.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CRIME"
+      ]
+    },
+    {
+      "title": "rus kızından ayrılıp türk kızına dönmek",
+      "entry_id": "36979337",
+      "author": "tuncayist",
+      "date": "16.09.2013 16:51",
+      "content": "o ayrılmamıştır, sen terketmişsindir.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus kızından ayrılıp türk kızına dönmek",
+      "entry_id": "36983118",
+      "author": "whiterabb1t",
+      "date": "16.09.2013 19:48 ~ 19:49",
+      "content": "ücret ödemeden akşam yemegi yemek isteyen erkek olabilir",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus kızından ayrılıp türk kızına dönmek",
+      "entry_id": "36984427",
+      "author": "swollenmember",
+      "date": "16.09.2013 20:45 ~ 20:46",
+      "content": "sarışmayan sarışından ayrılıp sevişmeyen esmere dönüştür.\nikisini aynı anda tek kişide bulamamanın hayal kırıklığını yaşatır.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus kızından ayrılıp türk kızına dönmek",
+      "entry_id": "36984604",
+      "author": "ferrarisini kiralayan bilge",
+      "date": "16.09.2013 20:52",
+      "content": "kara kovan balini ozlemistir.\nmal.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus kızından ayrılıp türk kızına dönmek",
+      "entry_id": "36985728",
+      "author": "siktirella 2000",
+      "date": "16.09.2013 21:36",
+      "content": "ayfonu bırakıp dumanla haberleşmeye çalışmaktır. dolayısıyla kendi kendinize gelin güvey olma şansınız yüksektir.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus kızından ayrılıp türk kızına dönmek",
+      "entry_id": "36991238",
+      "author": "darrenmania",
+      "date": "17.09.2013 00:47",
+      "content": "rus kızı 30 una girmiştir.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus kızından ayrılıp türk kızına dönmek",
+      "entry_id": "36998502",
+      "author": "siktirella 2000",
+      "date": "17.09.2013 12:32",
+      "content": "türk kızının 30undan sonra güzelleştiğini sanan benjamin button'larca savunulmaktadır.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "rus kızından ayrılıp türk kızına dönmek",
+      "entry_id": "37006719",
+      "author": "siktirella 2000",
+      "date": "17.09.2013 18:23",
+      "content": "yere yere bitiremedikleri türk erkeğinden başka alıcısı olmayan türk kızına \"istemem yan cebime koy\" dedirtmiştir. bu rezil erkeğin nasıl olup ta slavları kaldırdığı ise ayrı bir muamma. işin daha ilginç kısmı yine bu rezil erkekleri beğenmeyen türk kızını ise tüm dünya yalova kaymakalı yerine koymaktadır.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "rus kızından ayrılıp türk kızına dönmek",
+      "entry_id": "38711180",
+      "author": "efim",
+      "date": "04.12.2013 14:01",
+      "content": "(bkz: hay allah benim belamı verdi)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus kızından ayrılıp türk kızına dönmek",
+      "entry_id": "39708813",
+      "author": "alliiswell",
+      "date": "16.01.2014 03:23",
+      "content": "dönülen kıza göre değişkenlik gösterebilir.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus kızından ayrılıp türk kızına dönmek",
+      "entry_id": "42414827",
+      "author": "uncle runkle",
+      "date": "01.05.2014 09:00",
+      "content": "ferrari'den inip eşeğe binmektir.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus kızından ayrılıp türk kızına dönmek",
+      "entry_id": "42489189",
+      "author": "itshardtofind",
+      "date": "04.05.2014 01:08",
+      "content": "(bkz: attan inip eşeğe binmek)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus kızından ayrılıp türk kızına dönmek",
+      "entry_id": "43733226",
+      "author": "swollenmember",
+      "date": "25.06.2014 02:19 ~ 02:20",
+      "content": "ayrıldığı kız katya lischina gibi ise enayiliğin dik alasını yapmaktır.\nkişi hakkında detaylı bilgi için: lurk moar .",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "rus kızından ayrılıp türk kızına dönmek",
+      "entry_id": "59690466",
+      "author": "pismetalci",
+      "date": "03.04.2016 04:32",
+      "content": "(bkz: attan binip eşşeğe inmek)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus kızından ayrılıp türk kızına dönmek",
+      "entry_id": "59690735",
+      "author": "meksika",
+      "date": "03.04.2016 05:33 ~ 15:44",
+      "content": "bazı şeyleri özlediğini gösteren durum.\n\nyapılan esprilere gülünmesini özlemiştir.\nesmerlere karşı ilgi geliştiriyordur\nmantı, pastırma, dolma, menemen gibi yemekleri özlemiştir.\nparasız da seks yapabiliniri öğrenmiştir.\nsadakati özlemiştir.\n\nbir tanıdığım var rus sevgilisini en yakın arkadaşıyla tanıştırdı (kızı başından atmak ve arkadaşına kıyak çekmek için)rus kız şimdi o arkadaşıyla beraber kendisi de kırkın üstünde bir türk kadınla beraber ve daha mutlu.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CRIME"
+      ]
+    },
+    {
+      "title": "rus kızından ayrılıp türk kızına dönmek",
+      "entry_id": "59691041",
+      "author": "2kere2",
+      "date": "03.04.2016 07:51",
+      "content": "parası bitmiştir diyen arkadaşa katılıyor ve arttırıyorum: ergenler bilemez ama her şey seks değil özellikle 30'lu yaşlarda sevgili beyni yerine başka yerleriyle karar verebilmeye yetebilen ergenuslar:)\nzaten bir rus kızından da öyle duygusallık falan bekliyorsanız max 1 ay içerisinde boynuzun kralını da yersiniz.. bak uyarıyorum sonra ağlamayın aman diyeyim:)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "rus kızından ayrılıp türk kızına dönmek",
+      "entry_id": "59691093",
+      "author": "dd1978",
+      "date": "03.04.2016 08:10",
+      "content": "mig den inip hürkuşa binendir...",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus kızından ayrılıp türk kızına dönmek",
+      "entry_id": "59691219",
+      "author": "mavrun",
+      "date": "03.04.2016 08:50",
+      "content": "bu kervanda olduğum olay. olmuyor arkadaşlar. yabancı biri kesinlikle anlamıyor. ne varsa türk kızlarımızda var. trip falan da var ama olsun değer.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "rus kızından ayrılıp türk kızına dönmek",
+      "entry_id": "59691236",
+      "author": "boray eris",
+      "date": "03.04.2016 08:55",
+      "content": "(bkz: attan inip motora binmek)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus kızından ayrılıp türk kızına dönmek",
+      "entry_id": "59691283",
+      "author": "parapanna",
+      "date": "03.04.2016 09:06",
+      "content": "halihazırda gergin olan türkiye rusya ilişkilerini komple çıkmaza sürükleyecektir. biraz detente.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "rus kızından ayrılıp türk kızına dönmek",
+      "entry_id": "59691350",
+      "author": "niktir et nicktir de olur",
+      "date": "03.04.2016 09:19",
+      "content": "neydim dememeli insan, ne olacam demeli",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus kızından ayrılıp türk kızına dönmek",
+      "entry_id": "59691433",
+      "author": "adanademirsporludur",
+      "date": "03.04.2016 09:30",
+      "content": "kalitenin düştüğü durumdur.\n\nbmw'den inip şahine binmek neyse bu da odur.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus kızından ayrılıp türk kızına dönmek",
+      "entry_id": "59691449",
+      "author": "supercel",
+      "date": "03.04.2016 09:33",
+      "content": "yurtdışında oynayan futbolcunun son yıllarını ülkesinde geçirmesi gibi, penis ölmeden önce vatan topraklarını görmek istemiştir.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus kızından ayrılıp türk kızına dönmek",
+      "entry_id": "59691485",
+      "author": "turnover",
+      "date": "03.04.2016 09:40",
+      "content": "(bkz: düşey geçiş)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus kızından ayrılıp türk kızına dönmek",
+      "entry_id": "59691568",
+      "author": "kaledeki kurban",
+      "date": "03.04.2016 09:53",
+      "content": "(bkz: benzemaya pas vermek)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus kızından ayrılıp türk kızına dönmek",
+      "entry_id": "59691604",
+      "author": "miss mnemosyne",
+      "date": "03.04.2016 09:57",
+      "content": "erkekler hep bana \" rus kızlarını aratmıyorsun \" dedikleri için umrumda olmayan dönüş. (bkz: swh)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "rus kızından ayrılıp türk kızına dönmek",
+      "entry_id": "59691614",
+      "author": "mustancigano",
+      "date": "03.04.2016 09:58",
+      "content": "q7 yi satıp amorak a binmek gibi bir şey.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus kızından ayrılıp türk kızına dönmek",
+      "entry_id": "59691654",
+      "author": "levkem",
+      "date": "03.04.2016 10:03",
+      "content": "(bkz: sebebi neydi ki)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus kızından ayrılıp türk kızına dönmek",
+      "entry_id": "59691851",
+      "author": "ziber bey",
+      "date": "03.04.2016 10:28",
+      "content": "olm buldun niye birakiyorsun dedirten olaydir. (bkz: ben şok)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus kızından ayrılıp türk kızına dönmek",
+      "entry_id": "59691868",
+      "author": "hazalodos",
+      "date": "03.04.2016 10:31 ~ 10:53",
+      "content": "burdaki ergenlerin yazdıkları gibi bir durum değildir. (bkz: #53932570)\n\nhayal bile edemeyeceğiniz güzellikteki bir rus kızını bıraktım; bir türk kızı ile birlikteyim ve evleneceğim.\n\nsürekli instagram'dan fotolarına bakıp 31 çektiğiniz, buna rağmen karakteri para ile yozlaşmamış; gerçekten evlenilebilecek bir kız olmasına rağmen ayrıldık.\n\ntürk kızı diye kezbanlardan en çok ben çektim. haksız sayılmazsınız. ilgi manyaklıkları insanı çıldırtan; zerre haketmedikleri o ego ve kendine güvenlerinin insanlığı sorgulatacak kadar yüksek olan bu kızların içerisinden makul davranışları olan bir türk kızı bulmak neredeyse imkansızdır.\n\nancak, rus kızları ile birlikte olmanın farklı bedel ve sorumlulukları var. hiçbir şey filmlerde gördüğünüz gibi değil. ne bir çok filmde anlatılan kültürel farklılıktır sorun ne de gidip geleceğiniz binlerce km.\n\nsorun dünyaya bakış ve anlayıştır. birbirinizi anlamanız çok kolay değildir. aşk ve heyecan geçince dımdızlak seksten ibaret bir ilişkiye kayışınız, güzelliğinin etkisini azaltmasa da ilişkinin önemini en azlamaktadır.\n\noysa, zor da olsa kezban olmayan; güzel ve sizi anlayan bir türk kızı başkadır. bambaşkadır. ve yaşadığınız aşkı iliklerinize kadar hissettiğinizi anlarsınız. çünkü anaç sahiplenmesi sizin ufaklıktan kodlanışınızla aynıdır ve gözünüz arkada kalmaz.\n\nemin olun var böyle türk kızları. türk kezbanlarını savunduğum anlaşılmasın. çoğunu köküne kibrit suyu. az ama öz olanlarının da hakkını yemeyelim..",
+      "referenced_content": [
+        {
+          "type": "entry",
+          "title": "rus-kizi",
+          "entry_id": "53932570",
+          "author": "hazalodos",
+          "date": "11.08.2015 11:55",
+          "content": "şimdi bir rus kızı için türk kızını bırakmış sonra başka bir türk kızı için rus kızını şutlamış ve son türk kızı ile evlenme arefesindeki bir adam olarak konuşucam, vaziyet alın.\n\ngüzeldirler. ama sizi sikme tandansları para ile alakalıdır.\n\nfakir rus kızları için para çok önemlidir, sizi ütmek için türlü türlü hallere girdikleri doğrudur, azıcık tecrübesiz bir malsanız; donunuza kadar alır hatta haczettirir; bunla ilgili bir milyon hikaye anlatabilirim. tabi ki istisnalar vardır. ama %95 doğruluk payı var bu söylediğimde.\n\norta halli rus kızları için de para olmazsa olmazdır. ama sizi sikmeye çalışan tayfa mümkün mertebe statü atlamaya çalışan tayfadır; onlardan uzak durunuz. ama aşk yaşayacam diye bir türk genci iseniz bu sınıfta kalınız. ne fakire ne zengine gitmeyiniz. kilit ipucu: sizi tanımak isteyip istememeleridir. bakın sizle eğlenir; hatta o zamana kadar yapacağınız en muhteşem seksi yaşayabilirsiniz; ama sizi tanımak için çaba sarf etmemişse ya sizi sikecek; ya da eğlenip bırakacaktır.\n\nzengin rus kızı için zaten zengin olmanız gerekir; onlarla karşılaşamayacağınızdan anlatmayı pek gerekli görmüyorum. ama zenginseniz de ekonomik bir stabilitede olmanız gerekiyor. bu tayfa için kilit, başarıdır. başarılı olmalısınız abi.\n\nben zengin sayılabilecek ama mega zengin olmayan (orta halli-zengin arası) bir rus kızı ile 6 ay kadar beraberdim. istanbul'a geldiğinde su ada'ya teknemle çıktığımızda orada eğlenmekte olan çoğunluğu türk tayfanın çatır çutur çatladığını hissedebiliyordunuz. buna rağmen gözlerini benden ayırmaması ile efsanevi bir güven duygusu oluşturmuştu bende. hani dışarıdan ilgi istemez sadece birlikte olduğum adamın ilgisi bana yeteri fazlasıyla hissettirmişti.\n\nsonra yürümedi bir şekilde; çünkü ben dünyadaki en güzel kıza aşık olmuştum. evet bir türk kızına <3.",
+          "has_external_url": false
+        }
+      ],
+      "referenced_entry_ids": [
+        "53932570"
+      ],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "rus kızından ayrılıp türk kızına dönmek",
+      "entry_id": "59693389",
+      "author": "yakisiklisisman",
+      "date": "03.04.2016 12:37",
+      "content": "ya çirkin rus kızınıza denk gelmiştir yada parası bitmiştir. başka bir açıklaması olamaz.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "rus kızından ayrılıp türk kızına dönmek",
+      "entry_id": "59693522",
+      "author": "evpopizi",
+      "date": "03.04.2016 12:46",
+      "content": "dan bilizerian olmuşken şahin k olmak gibi bir şey.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "rus kızından ayrılıp türk kızına dönmek",
+      "entry_id": "59693575",
+      "author": "ledeboucle",
+      "date": "03.04.2016 12:50",
+      "content": "kızdan kıza değişen durumdur. ya attan eşeğedir ya eşekten atadır.\n\nama bir kıta dolusu muhteşem kadın varken ben bu rus kadın aşkını hiç bi zaman anlayamadım ne yazık ki. gidin şöyle polonyalı litvanyalı alman güzel kız bulun hem kaliteli olsun hem güzel olsun. ruslarla kendinizi heba etmeyin yahu.\n\nama bu rus takıntısı bana biraz erkeklerin nataşavari kız hastalığından gibi geliyor artık. normalini sevemiyosunuz, kaliteli kız sevemiyosunuz. yine de genellemeyelim ama bahsettiğim kesim kendini biliyordur diye düşünüyorum zaten.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "rus kızından ayrılıp türk kızına dönmek",
+      "entry_id": "59695304",
+      "author": "musicalite",
+      "date": "03.04.2016 14:37",
+      "content": "pismanliktir",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus kızından ayrılıp türk kızına dönmek",
+      "entry_id": "59696076",
+      "author": "fiyuuu",
+      "date": "03.04.2016 15:25",
+      "content": "kültürel erozyon",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "rus kızından ayrılıp türk kızına dönmek",
+      "entry_id": "59703382",
+      "author": "nonexclusive",
+      "date": "03.04.2016 22:00",
+      "content": "(bkz: bungee jumping)\n(bkz: free jumping)\n(bkz: yamaç paraşütü)\n\nher türlü bir yüksekten ani düşme durumu mevcut.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus kızından ayrılıp türk kızına dönmek",
+      "entry_id": "59703693",
+      "author": "randomaccessmemories",
+      "date": "03.04.2016 22:12",
+      "content": "(bkz: okyanusu geçip derede boğulmak)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus kızından ayrılıp türk kızına dönmek",
+      "entry_id": "59703937",
+      "author": "maganda35",
+      "date": "03.04.2016 22:24",
+      "content": "(bkz: arkadaş bu matematik değil, bunun deperini şahıslar belirliyor.)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus kızından ayrılıp türk kızına dönmek",
+      "entry_id": "59704799",
+      "author": "pnar",
+      "date": "03.04.2016 22:57",
+      "content": "(bkz: türkün türkten başka dostu yoktur)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "rus kızından ayrılıp türk kızına dönmek",
+      "entry_id": "59705793",
+      "author": "alikopterci",
+      "date": "03.04.2016 23:33",
+      "content": "tarihin en büyük eşşekliğidir.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "rus kızından ayrılıp türk kızına dönmek",
+      "entry_id": "59882242",
+      "author": "nortrvela",
+      "date": "12.04.2016 12:36",
+      "content": "(bkz: sega vs atari)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus kızından ayrılıp türk kızına dönmek",
+      "entry_id": "59927487",
+      "author": "niktir et nicktir de olur",
+      "date": "14.04.2016 15:18",
+      "content": "o türk kızı bunu öyle bir kullanır ki!!! afedersin ağzını öper, yaaa bak benden iyisi yok ki yok ki der, hazırsan biz seni tutmayalım",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "GENDER-MORAL"
+      ]
+    },
+    {
+      "title": "rus kızından ayrılıp türk kızına dönmek",
+      "entry_id": "59927595",
+      "author": "narkissos16",
+      "date": "14.04.2016 15:23",
+      "content": "allah belanı vermiş zaten ne diyelim ki bunun üstüne...",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "rus kızından ayrılıp türk kızına dönmek",
+      "entry_id": "59929124",
+      "author": "leopold butters",
+      "date": "14.04.2016 16:40",
+      "content": "(bkz: mazoşizm)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus kızından ayrılıp türk kızına dönmek",
+      "entry_id": "62053512",
+      "author": "swollenmember",
+      "date": "31.07.2016 11:30",
+      "content": "(bkz: bumerang)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus kızından ayrılıp türk kızına dönmek",
+      "entry_id": "62053590",
+      "author": "danakuyrugu",
+      "date": "31.07.2016 11:38",
+      "content": "(bkz: kıçımla gülerim)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus kızından ayrılıp türk kızına dönmek",
+      "entry_id": "62387762",
+      "author": "deadendking",
+      "date": "17.08.2016 11:40",
+      "content": "türk kızlarının market değerlerini yükseltmek maksatlı spekülasyonudur. komplodur. ütopyadır. bizans oyununa gelmeyin.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "GENDER-MORAL",
+        "HATE"
+      ]
+    },
+    {
+      "title": "rus kızından ayrılıp türk kızına dönmek",
+      "entry_id": "62387932",
+      "author": "oziwankenozi",
+      "date": "17.08.2016 11:48",
+      "content": "la liga'dan bank akpasya birinci lige düşmek.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus kızından ayrılıp türk kızına dönmek",
+      "entry_id": "62388197",
+      "author": "ziyzak",
+      "date": "17.08.2016 12:01",
+      "content": "mercedes ten inip şahine binmek",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus kızından ayrılıp türk kızına dönmek",
+      "entry_id": "62388252",
+      "author": "yararlikartal",
+      "date": "17.08.2016 12:04",
+      "content": "eğlenilecek kızdan evlenilecek kıza evrilmektir. rusla evlenip boynuzlanmaktansa türk kızıyla evlenir triplerine razı olurum daha iyi.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "rus kızından ayrılıp türk kızına dönmek",
+      "entry_id": "62389459",
+      "author": "lucky s7evn",
+      "date": "17.08.2016 13:06",
+      "content": "4-5 ay birkaç farklı rus kızı ile bir arada yaşamış ve çok sayıda rus kız ve erkek arkadaşa sahip olan biri olarak özellikle rus kızlar başta olmak üzere ruslar birazcık leyla gibi. aksanları olsun, tavırları olsun pek çekilecek türden değil.\n\ntabii ki aralarında istisnalar vardır ama genel olarak rus kızlarının profili (güzellik konusunu kenara bırakıyorum çünkü gerçekten çok güzeller) mental olarak pek iç açıcı değil. iyi ingilizce bilmeyen bir kızın aksanına katlanamazsınız.\n\ntürk kızından tavır olarak öyle pek üstün yanları yok.\n\ngidin iskandinav kızlarıyla karşılaştırın arkadaşlar, boşverin rusları.\n\nkusursuzlar.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "rus kızından ayrılıp türk kızına dönmek",
+      "entry_id": "117604993",
+      "author": "olur kank ben okeyim",
+      "date": "31.12.2020 22:54",
+      "content": "gemileri karadan yürütmektir.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus kızından ayrılıp türk kızına dönmek",
+      "entry_id": "134594908",
+      "author": "fikir muhendisi fikri ii",
+      "date": "06.03.2022 21:41",
+      "content": "bunu yapanların bence hapse atılması lazım. ben de dahil. şu hayatta tek pişmanlığımdır. o karıdan ayrılmayacaktım aga.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CRIME"
+      ]
+    },
+    {
+      "title": "rus kızından ayrılıp türk kızına dönmek",
+      "entry_id": "134595623",
+      "author": "miafori",
+      "date": "06.03.2022 21:57",
+      "content": "lada samara dan inip, tofaş serçeye binmektir.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus kızından ayrılıp türk kızına dönmek",
+      "entry_id": "175661311",
+      "author": "your mama pat pat",
+      "date": "29.05.2025 10:55",
+      "content": "karun gibi zengin olup iflas edenler var ya. ancak onlar anlar bu durumdan.\nyatla işe giderken, sabah 6:30 da metrobüste pastırma şeklinde işe gitmeye benzer. leş gibi kokan tipler vardır etrafında. miski amber kokusunu koklarken, 10 gün yıkanmamış ayıların kokusunu maruz kalmaktır. bunlar bir de aç karnına sigara içer ve biner metrobüse.\nişte böyle bir dünya değişimidir.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "rus kızından ayrılıp türk kızına dönmek",
+      "entry_id": "175662564",
+      "author": "efera",
+      "date": "29.05.2025 12:02",
+      "content": "kafasızlık.\n\nrus kız arkadaşım olmuştu geçmişte. gezerken, yemek yerken falan tasarruf etmeye çalışıyordu. oraya gitmeyelim çok pahalı yazık ödediğimiz paraya derdi. hediye alırdım masraf yapma sen olsan yeter derdi.\n\ntürk kızı öyle mi?\nneden şu ünlü mekana gitmedik diye ağlar başının etini yer.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "rus kızından ayrılıp türk kızına dönmek",
+      "entry_id": "175663082",
+      "author": "fizikkimya",
+      "date": "29.05.2025 12:27",
+      "content": "trip özlenilmiştir.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus kızından ayrılıp türk kızına dönmek",
+      "entry_id": "175663226",
+      "author": "raphaelvesta",
+      "date": "29.05.2025 12:33",
+      "content": "esareti, özgürlüğe tercih etmiştir.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus kızından ayrılıp türk kızına dönmek",
+      "entry_id": "178039773",
+      "author": "olmazsa nickime kadar",
+      "date": "01.09.2025 15:00",
+      "content": "er kişinin kafasına silah dayanmış sanırım, yoksa böyle bir durum gerçekleşmezdi.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CRIME"
+      ]
+    }
+  ]
+}

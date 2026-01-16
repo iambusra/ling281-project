@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:26:12.329627",
+    "total_entries": 1,
+    "input": "cemaati dolandırıp rusla yurtdışına kaçan imam",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "cemaati dolandırıp rusla yurtdışına kaçan imam",
+      "entry_id": "97689214",
+      "author": "basbag",
+      "date": "12.11.2019 14:23",
+      "content": "cami cemaatini 400 bin lira dolandıran imam rus sevgilisiyle yurt dışına kaçtı!akrabalarını ve cami cemaatini 400 bin tl dolandıran imam tuncay güneş, rus sevgisiyle yurt dışına kaçtı.\n\nzonguldak yeni camii, ereğli imam hatip camii, alaplı merkez camii ardından çaycuma velioğlu köyüne sürgün edilen imam akrabalarını ve cami cemaatini 400 bin tl dolandırdı.\n\nkaynal",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CRIME"
+      ]
+    }
+  ]
+}

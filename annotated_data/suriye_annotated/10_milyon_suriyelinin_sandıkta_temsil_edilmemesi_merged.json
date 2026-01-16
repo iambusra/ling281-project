@@ -1,0 +1,97 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T16:50:49.067127",
+    "total_entries": 7,
+    "input": "10 milyon suriyelinin sandıkta temsil edilmemesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "10 milyon suriyelinin sandıkta temsil edilmemesi",
+      "entry_id": "152894494",
+      "author": "ignatio mobius",
+      "date": "28.05.2023 07:41",
+      "content": "türkiye demokrasisinin düştüğü durumu gösteren hadise. bu durumu düzeltme vaadinde bulunmak yerine, muhalefet tam tersi bir şekilde faşist ve ırkçı söylemlerde bulunuyor, yazık gerçekten.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "10 milyon suriyelinin sandıkta temsil edilmemesi",
+      "entry_id": "152894578",
+      "author": "justaphantom",
+      "date": "28.05.2023 07:49",
+      "content": "https://en.m.wikipedia.org/…itical_parties_in_syria\n\ngördüğüm kadarıyla hemen her tür siyasi düşüncenin temsil edildiği siyasi partiler var. gayet de temsil ediliyorlar. böyle saçma sapan iddialar nereden çıkıyor anlamadım.",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "10 milyon suriyelinin sandıkta temsil edilmemesi",
+      "entry_id": "152898977",
+      "author": "patpat",
+      "date": "28.05.2023 10:50 ~ 10:58",
+      "content": "cevap basligin icinde degil mi?\n\nayni mantikla;\n\nyayalarin otobanda yuruyememesi\nhayvanlara evini kiralamayan ev sahibi\ncocuklarin araba kullanmasina izin verilmemesi\ncalismayanlara maas verilmemesi\ninsanlarin ucamamasina kimsenin sesini cikarmamasi",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "10 milyon suriyelinin sandıkta temsil edilmemesi",
+      "entry_id": "152899036",
+      "author": "puresalt",
+      "date": "28.05.2023 10:53",
+      "content": "gerçek mi şaka mı anlamadım ama yine de engelledim.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "10 milyon suriyelinin sandıkta temsil edilmemesi",
+      "entry_id": "152899116",
+      "author": "dieser",
+      "date": "28.05.2023 10:55",
+      "content": "kapatılan eksisozluge en cok trollerin ilgi gostermesi durumu.\nya trol arkadas, sizinkiler kapatti burayi bilgin bile yoktur\ntrol basligi acmaktan.\nneyse moderatorlerin gun icinde senin biletini keseceklerine eminim",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "10 milyon suriyelinin sandıkta temsil edilmemesi",
+      "entry_id": "152899214",
+      "author": "cikkan",
+      "date": "28.05.2023 10:58",
+      "content": "bugün engelleme kampanyası var sanırım,yoruldum sabahtan beri",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "10 milyon suriyelinin sandıkta temsil edilmemesi",
+      "entry_id": "152900235",
+      "author": "hergelemimar",
+      "date": "28.05.2023 11:26",
+      "content": "ırkçı mı? senin ırkını...",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE"
+      ]
+    }
+  ]
+}

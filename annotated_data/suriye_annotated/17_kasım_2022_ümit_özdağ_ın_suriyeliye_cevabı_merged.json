@@ -1,0 +1,61 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T16:57:38.235507",
+    "total_entries": 4,
+    "input": "17 kasım 2022 ümit özdağ'ın suriyeliye cevabı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "17 kasım 2022 ümit özdağ'ın suriyeliye cevabı",
+      "entry_id": "145226816",
+      "author": "aydoda",
+      "date": "17.11.2022 19:57",
+      "content": "pr için tutulmuş bir adet suriyeli içerir.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "17 kasım 2022 ümit özdağ'ın suriyeliye cevabı",
+      "entry_id": "145227309",
+      "author": "dexterin lamel koleksiyonu",
+      "date": "17.11.2022 20:13",
+      "content": "aynı zamanda pr için tutulmuş bir adet aktroll bulunduran başlık.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "17 kasım 2022 ümit özdağ'ın suriyeliye cevabı",
+      "entry_id": "145227331",
+      "author": "kapsonsuz kapsonlu",
+      "date": "17.11.2022 20:13",
+      "content": "“istanbul’da araplara vatandaşlık vaadiyle emlak şirketi yönetir.”\npartisindeki yöneticiyle ortak bir yönü olan suriyeliye verdiği cevaptır.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY",
+        "XENO"
+      ]
+    },
+    {
+      "title": "17 kasım 2022 ümit özdağ'ın suriyeliye cevabı",
+      "entry_id": "145227529",
+      "author": "7714714",
+      "date": "17.11.2022 20:19",
+      "content": "adam suriyeliye cevap veriyor bizim aktrollerin zoruna gidiyor",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    }
+  ]
+}

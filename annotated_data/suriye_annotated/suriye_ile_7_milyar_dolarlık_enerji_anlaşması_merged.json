@@ -1,0 +1,50 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:46:38.187055",
+    "total_entries": 3,
+    "input": "suriye ile 7 milyar dolarlık enerji anlaşması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriye ile 7 milyar dolarlık enerji anlaşması",
+      "entry_id": "175670761",
+      "author": "aynuristan",
+      "date": "29.05.2025 18:32",
+      "content": "suriye türkiye\n\nsuriye'nin enerji sektörüne 7 milyar dolarlık yatırım için imzalar atıldı.\n\nanlaşma kapsamında, kalyon holding'in de aralarında bulunduğu konsorsiyum tarafından suriye'nin çeşitli bölgelerinde doğal gaz çevrim santralleri ve güneş enerjisi santrali inşa edilecek.\n\nsuriye enerji bakanı beşir: bugün, suriye'de bir dönüm noktasını temsil eden tarihi bir ana tanıklık ediyoruz.\n\nabd'nin ankara büyükelçisi ve suriye özel temsilcisi barrack: başkan trump'ın selamlarını iletiyorum ve suriye hükümetini destekleme konusundaki kararlılığını yeniden teyit ediyorum. dört ülkenin bayrağının yan yana dalgalanıyor olması bizim için çok kıymetli.",
+      "has_external_url": true,
+      "sentiment_numeric": 4,
+      "categories": [
+        "ECON",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriye ile 7 milyar dolarlık enerji anlaşması",
+      "entry_id": "175670792",
+      "author": "rognes",
+      "date": "29.05.2025 18:34",
+      "content": "(bkz: orta doğu'da kartlar yeniden dağıtılıyor)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriye ile 7 milyar dolarlık enerji anlaşması",
+      "entry_id": "175706473",
+      "author": "0 g3",
+      "date": "31.05.2025 01:20",
+      "content": "konsorsiyum: president mr. tayyip of white house party (kalyon holding & cengiz holding),\nmutlak monarşi ülkesi qatar ucc holding ve yöneticileri katarlı power ınternational usa .\nimza töreni golan tepeleri çocuğu muhammed el culani'nin htş başkanlık sarayında yapıldı...\nabd'nin suriye temsilcisi tom barrack'ın huzurunda yapılan antlaşmanın imza seremoni sine,\ncemal kalyoncu, mehmet cengiz, lütfi elvan, moutaz ve ramez al-khayyat k atılmış.\nelektrik için doğalgaz dönüştürme ve güneş enerjisi santralleri kuracakları 5 şehirden biri ise\nsevr antlaşması nın suriye federasyonunun halep devleti sınırları içinde olan deyru'z-zur .\n2007'de israil'in bombaladığı, recep bey'e takılan yahudi cesaret madalyası nı kıskanan birkaç öfkeli genç tarafından 2014'te ermeni soykırımı anıt kilisesi havaya uçurulan, 2018'de abd'nin fosfor bombalarıyla; 2025'e dek pkk'lı kürtlerin abd silahlarıyla sivilleri öldürdüğü deyru'z-zur!\n\ntabii ki bırakınız 1915'teki bölgedeki olayları, sykes-picot anlaşması nı bilmeyen milyonlar var...\n\n7 kasım 2016'daki bir gazete okunduğunda dahi şu andaki birçok güncel konu görülebilir: pdf\n\nbeşşar esad'a yapılan darbeden birkaç gün sonra 15 aralık 2024'te t.c. nuakşot büyük elçisi burhan köroğlu maslahatgüzar olarak t.c. şam büyük elçisi yapıldı, adamın başlığı bile yok!\n\n(bkz: türkiye-katar-suudi arabistan'ın suriye müdahalesi)\nbkz. katar ve suudi arabistan'ın hiç suriyeli mülteci almaması\n\n(bkz: pkk'nın abd yapımı insansız hava aracı kullanması)\n(bkz: amerikan askerlerinin ypg üniformasıyla savaşması)\n\n(bkz: 9 eylül 2018 abd'nin suriye'yi vurması) (bkz: pkk'nın deyrizor'da katlettiği aile)\n(bkz: biz parayla alamıyoruz abd pkk'ya silah veriyor) (bkz: ypg pkk'nın koludur)\n(bkz: sdg-pyd-ypg-pkk'nın suriye'de sivil katliamı)\n\n(bkz: el kaideci ebu hamza'ya tc vatandaşlığı verilmesi)\n\n(bkz: ypg/pkk'yı abd'nin açıkça desteklemesi) bkz. pentagon pkk/ypg bölgesi\n\n(bkz: ahmed eş-şara'nın 4.6 milyonluk saati)",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    }
+  ]
+}

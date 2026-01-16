@@ -1,0 +1,51 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:26:14.764356",
+    "total_entries": 3,
+    "input": "rusla dost olmak",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rusla dost olmak",
+      "entry_id": "80913383",
+      "author": "zlanks the blackboard",
+      "date": "03.09.2018 07:37",
+      "content": "tam bir mal beyanı.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "rusla dost olmak",
+      "entry_id": "81334696",
+      "author": "analitik sadakat",
+      "date": "16.09.2018 02:01 ~ 02:03",
+      "content": "rusya’da ya da türkiye’de arkadaş olmak diyebiliriz, ancak asya kıtası dışında hele de takım arkadaşınız ise rus dosttur., hem de et ve kemik gibi esaslı candır. alternatif planları vardır, sizin de varsa birleştirir birlikte yol alırsınız, her tür durumda bahanesiz hep devam edilir, sağlamdır. arina moi frend, çelovek.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "XENO",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "rusla dost olmak",
+      "entry_id": "91385837",
+      "author": "iroh last airbender",
+      "date": "17.06.2019 18:07",
+      "content": "üst not: meme ile göğüs aynı değildir biri iç organları barındıran yapıdır diğeri ise göğsün önündeki bebek emzirmesi amacıyla kullanılan yağ ve bazı bezlerle dolu çıkıntı.\n2. üst not: bana duyar kasmayın benin de nişanlım rus. deli etmeyin beni akşam akşam!!!\n3. not: orospuya farklı birley demek anormal geliyo pardon şimdiden.\n\nşöyle ifade edeyim erkekleri vodkadan ayılınca çok ince ruhlulardır.hiçbir ülkenin 1 kadını bile basit bir cümle ile ifade edilemez o yüzden uzun uzun anlatayım.\n\nnormal olanı açlık fakirlik ve politikaya bağlı bir yaşam sürdürdüğü için bu olaylar cümlelere yansır.(putin de ne iyi etti de doğalgazları satıyor gibi). bir de sigara bağımlısı olabilme ihtimalleri %7 falan.\n\ngüzel olanları (genel olarak sigara tüketmezler) makeup a çoook önem verirler. genellikle açık şeyler giyerler. (orta boyutta memelere sahiptir). her zaman instagram hesapları vardır.\n\nçok güzel olanları anlatayım: inanılmaz şekilde zeki olabilirler ve aptal gibi görünebilirler dikkat edin. (gayet büyük ve sarkmak ile sarkmamak arasında kalmış memelere sahip olabilirler) geneli mavi ve ya yeşil gözlü. politika ile araları yoktur. sevdiğine çok bağlıdırlar.\n\nbonus olaraktan vereceğim şeye bir linç gelmesin hayatın gerçeğidir bu\n\nbonus: orospu olanlar, çok zeli olabilirler süperzeka gibi dertleşilebilecek insanlardır. mavi gözlü hafif esmer olabilirler. çok iyi dostlardır da orospu orospudur. kokuları bişiye benzer anlatmayayım şimdi. paraya ihtiyacı olanlardır. heryerden para kazanmaya çalışırlar: patreon, instagram gibi.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "SEXUAL",
+        "GENDER-MORAL"
+      ]
+    }
+  ]
+}

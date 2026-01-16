@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:29:24.655166",
+    "total_entries": 1,
+    "input": "ruslara ambargo delmek için banka tavsiyeleri",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ruslara ambargo delmek için banka tavsiyeleri",
+      "entry_id": "134300955",
+      "author": "red justice",
+      "date": "27.02.2022 22:57",
+      "content": "öncelikle bir sonraki rıza sarraf atamasını beklemeleri gerekiyor, bu genelde kpss sınavından sonra ve yazın gerçekleşen torpil sezonu ardından olur. sonra en yakın ampül binasına gidip kayıt oluşturmaları gerekiyor. burada üst seviyelere ulaşabilmek için her aşamada vzyatka şarttır ve ruble geçmez. hazırlıklı olsunlar.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CRIME",
+        "ECON"
+      ]
+    }
+  ]
+}

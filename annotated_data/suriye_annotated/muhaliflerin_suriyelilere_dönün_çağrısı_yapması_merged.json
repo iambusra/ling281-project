@@ -1,0 +1,75 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:44:14.355619",
+    "total_entries": 5,
+    "input": "muhaliflerin suriyelilere dönün çağrısı yapması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "muhaliflerin suriyelilere dönün çağrısı yapması",
+      "entry_id": "170832581",
+      "author": "bakney sankore",
+      "date": "08.12.2024 06:38",
+      "content": "#sondakika | esad rejimini deviren muhalifler, başka ülkelere kaçan suriyeli sığınmacılara geri dönün çağrısında bulundu.\n\n\"dünyanın dört bir yanındaki suriyelilere sesleniyoruz, özgür bir suriye sizleri bekliyor. ülkenize donün.”\n\nnot: türkiye’deki milyonlarca suriyeli, esad’tan kaçtığı için türkiye’ye sığındıklarını söylüyordu\n\nlink https://x.com/…924130?s=46&t=jilf2pexsnb6b3ip3z-zda",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY",
+        "XENO"
+      ]
+    },
+    {
+      "title": "muhaliflerin suriyelilere dönün çağrısı yapması",
+      "entry_id": "170832683",
+      "author": "m scott",
+      "date": "08.12.2024 06:56",
+      "content": "mancınığa gerek kalmadı hadi iyisiniz gene.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "muhaliflerin suriyelilere dönün çağrısı yapması",
+      "entry_id": "170832700",
+      "author": "bir uzay maymunu",
+      "date": "08.12.2024 06:59",
+      "content": ":)",
+      "has_external_url": true,
+      "sentiment_numeric": 4,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "muhaliflerin suriyelilere dönün çağrısı yapması",
+      "entry_id": "170832794",
+      "author": "cag atlanirken arada kalan adam",
+      "date": "08.12.2024 07:19",
+      "content": "tüm ülkelerin suriyelileri ülkelerine geri gönderme zamanı geldi",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY",
+        "XENO"
+      ]
+    },
+    {
+      "title": "muhaliflerin suriyelilere dönün çağrısı yapması",
+      "entry_id": "170832815",
+      "author": "heuristic algorithmic",
+      "date": "08.12.2024 07:26",
+      "content": "mevcutlar isteyerek gitmez.\n\nancak oradan gelenler olacaktır.\n\n3 milyon nusayri sarı sitede takılmaya başlamıştır.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    }
+  ]
+}

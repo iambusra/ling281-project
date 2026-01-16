@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:07:29.182925",
+    "total_entries": 1,
+    "input": "suriyeliye 375tl'lik beleş ptt kart",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeliye 375tl'lik beleş ptt kart",
+      "entry_id": "66407504",
+      "author": "princeoftroi",
+      "date": "20.02.2017 11:18",
+      "content": "bu ülke vatandaşı olarak senin g.tünden ter akarken ülkesini savunmak yerine kaçan canı tatlılara daha rahat fişek atıp üresinler diye aylık eşantiyon dağıtılan 375 türk lirası değerinde sosyal yardım kartı, vergilerimizden ödeniyor, bunlar tıkınırken türk askeri suriye'de şehit oluyor boğazlarında kalsın.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    }
+  ]
+}

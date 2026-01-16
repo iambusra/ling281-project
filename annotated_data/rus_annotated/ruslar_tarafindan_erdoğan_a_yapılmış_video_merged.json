@@ -1,0 +1,74 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:30:17.039958",
+    "total_entries": 5,
+    "input": "ruslar tarafindan erdoğan'a yapılmış video",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ruslar tarafindan erdoğan'a yapılmış video",
+      "entry_id": "56486365",
+      "author": "gil estel",
+      "date": "25.11.2015 02:42",
+      "content": "diktatör olmasından mütevellit, kendisine ses çıkartanların bir bir yargılanıp hapse atılmasına neden olan adama çekilen videodur. yinede kendisine tek ses çıkartılamayan demeyelim",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY",
+        "HUMAN",
+        "CRIME"
+      ]
+    },
+    {
+      "title": "ruslar tarafindan erdoğan'a yapılmış video",
+      "entry_id": "56486450",
+      "author": "sadan",
+      "date": "25.11.2015 02:52",
+      "content": "%50'yi alamamış adama çekilen videodur. mitingler düzenledi, bağırdı çağırdı, 7 haziran'da millet \"la bi git, başımız şişti\" dedi; piyasada görünmeyince bir oh çeken partisi ve tabanı %49 aldı.\ndünyada ses çıkartılamayanlığı ise, tiehh heh heh. evet evet, herkes ona hasta, herkes tırsıyor.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "ruslar tarafindan erdoğan'a yapılmış video",
+      "entry_id": "56486494",
+      "author": "gentilmen ayi",
+      "date": "25.11.2015 02:57",
+      "content": "yav bu adamı günahım kadar sevmem ama bu herif bizim cumhurbaşkanımız yani bu adamı nekadar eleştirsekte 3-5 ayyaşın yaptığı grafi 2000 ayarında bir videoyu bile desteklemek saçma geliyor. oldu olacak noel dayı izle",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "ruslar tarafindan erdoğan'a yapılmış video",
+      "entry_id": "56486670",
+      "author": "renksiz hayat",
+      "date": "25.11.2015 03:18",
+      "content": "halk tv'deki animasyonlar bile bundan daha kaliteli. bu ne la",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "ruslar tarafindan erdoğan'a yapılmış video",
+      "entry_id": "56487177",
+      "author": "endemikdavar",
+      "date": "25.11.2015 05:30",
+      "content": "ruslarda sense of humor olayi yok abi iste bu yuzden korkmaliyiz adamlarin sakasi yok.\n\nvideoya gelince;\n\nsaglam erkek erdogan dan sonra dinleyemedim.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    }
+  ]
+}

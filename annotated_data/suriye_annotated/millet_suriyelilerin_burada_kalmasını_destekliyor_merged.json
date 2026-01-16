@@ -1,0 +1,97 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:44:05.060732",
+    "total_entries": 7,
+    "input": "millet suriyelilerin burada kalmasını destekliyor",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "millet suriyelilerin burada kalmasını destekliyor",
+      "entry_id": "165920457",
+      "author": "sefik kedi",
+      "date": "02.07.2024 11:05",
+      "content": "suriye milleti için geçerli olan önerme.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "millet suriyelilerin burada kalmasını destekliyor",
+      "entry_id": "165920748",
+      "author": "narsistlergiremez",
+      "date": "02.07.2024 11:16",
+      "content": "hangi millet?",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "millet suriyelilerin burada kalmasını destekliyor",
+      "entry_id": "165920752",
+      "author": "sosyalalkolikuu",
+      "date": "02.07.2024 11:17",
+      "content": "tam olarak hangi millet bu, bizim böyle bir milletten haberimiz yok da.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "millet suriyelilerin burada kalmasını destekliyor",
+      "entry_id": "165924174",
+      "author": "1207",
+      "date": "02.07.2024 13:29",
+      "content": "(bkz: 3 mayıs 2022 erdoğan'ın suriyeli açıklaması)\n\n--- spoiler ---\n\nerdoğan: göçü sınır ötesinde tutmaya yönelik stratejimizi gönüllü geri dönüşü teşvik edecek projelerle destekliyoruz.\n--- spoiler ---\n\nvideo",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "millet suriyelilerin burada kalmasını destekliyor",
+      "entry_id": "165924678",
+      "author": "hacktor",
+      "date": "02.07.2024 13:47",
+      "content": "(bkz: sayın esed ile ailece görüştük yine görüşebiliriz)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "millet suriyelilerin burada kalmasını destekliyor",
+      "entry_id": "165924743",
+      "author": "maria goetze",
+      "date": "02.07.2024 13:50",
+      "content": "bir adet amin feryadi konuştu, o da destekliyormuş.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "millet suriyelilerin burada kalmasını destekliyor",
+      "entry_id": "165924843",
+      "author": "millikan",
+      "date": "02.07.2024 13:53",
+      "content": "gılışların nasıl bir felaket olduğunu sırf bu sonuca bakarak da anlayabilirsiniz. gördüğüm kadarıyla bir kısım chp'liler hala olayı yanlış okuyor. insanlar sığınmacılardan nefret ediyor ama onların karşısına gılışları çıkarıp aha buna oy ver diyemezsiniz.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    }
+  ]
+}

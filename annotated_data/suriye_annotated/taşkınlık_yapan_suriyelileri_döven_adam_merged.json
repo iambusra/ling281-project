@@ -1,0 +1,52 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:08:20.149557",
+    "total_entries": 3,
+    "input": "taşkınlık yapan suriyelileri döven adam",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "taşkınlık yapan suriyelileri döven adam",
+      "entry_id": "144736259",
+      "author": "k 1 f",
+      "date": "05.11.2022 15:09",
+      "content": "güvenlik kamerası görüntüsü ama kurgu ya da garip tiktok videolarından biri falan değilse ellerine kollarına sağlık olan adam. iki tanesine vurunca diğerleriyle beraber kaçmışlar korkak orospu çocukları. bunlar böyle işte. güzelce dövüp adam edeceksin bu piç kurularını.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "CRIME"
+      ]
+    },
+    {
+      "title": "taşkınlık yapan suriyelileri döven adam",
+      "entry_id": "144736325",
+      "author": "azmhyr",
+      "date": "05.11.2022 15:12",
+      "content": "veletlere bak. kaçgınlık genetik bunlarda anladığım kadarıyla. ha adamı dövemeyecekleri ortada ama hiç olmadı gururunla dayak yersin, değil mi.\nyok, it sürüsü gibi dağılmışlar.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "CRIME"
+      ]
+    },
+    {
+      "title": "taşkınlık yapan suriyelileri döven adam",
+      "entry_id": "144736488",
+      "author": "coreshot",
+      "date": "05.11.2022 15:16",
+      "content": "kartal tibet'mi desem, cüneyt babamı desem bilemedim.\ngerçekse ellerine sağlık.\nşiddet çözümdür diyen adam.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "CRIME"
+      ]
+    }
+  ]
+}

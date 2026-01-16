@@ -1,0 +1,241 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:45:18.036310",
+    "total_entries": 18,
+    "input": "savaş çıkarsa suriyeliler nereye kaçacak sorunsalı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "savaş çıkarsa suriyeliler nereye kaçacak sorunsalı",
+      "entry_id": "134455250",
+      "author": "trabzonspor",
+      "date": "03.03.2022 14:36",
+      "content": "sivillerin bulunduğu sığınma alanlarında yaşlı, genç, erkek, kadın demeden beklerler.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "savaş çıkarsa suriyeliler nereye kaçacak sorunsalı",
+      "entry_id": "134455380",
+      "author": "p8",
+      "date": "03.03.2022 14:39 ~ 14:40",
+      "content": "benimle aynı cephede savaşmasınlar da nereye giderse gitsinler. kendi ülkesini savunmayan bizim ülkemizi mi savunacak. adamı satarlar bir dakikada amk nargilecileri",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "savaş çıkarsa suriyeliler nereye kaçacak sorunsalı",
+      "entry_id": "134455469",
+      "author": "zerahah",
+      "date": "03.03.2022 14:42",
+      "content": "gidecekleri bir yer yok.\nönce düşmanla anlaşacaklar, sonra truva atı gibi içimizden bize saldıracaklar.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "savaş çıkarsa suriyeliler nereye kaçacak sorunsalı",
+      "entry_id": "134455535",
+      "author": "changes",
+      "date": "03.03.2022 14:43",
+      "content": "rusyaya gidebilirler zira bakin bm de ne olmus 5 ulke icinde kimler var.\nbm de rusya kinama oylamasi",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "savaş çıkarsa suriyeliler nereye kaçacak sorunsalı",
+      "entry_id": "134455584",
+      "author": "mutlu tuccar",
+      "date": "03.03.2022 14:45",
+      "content": "(bkz: suriye)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "savaş çıkarsa suriyeliler nereye kaçacak sorunsalı",
+      "entry_id": "134455652",
+      "author": "remfloyut",
+      "date": "03.03.2022 14:46",
+      "content": "suriyeye kaçacaklar tabi. bayramda gidilen bir yer ne kadar tehlikeli olabilirki.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "savaş çıkarsa suriyeliler nereye kaçacak sorunsalı",
+      "entry_id": "134455684",
+      "author": "zemher1",
+      "date": "03.03.2022 14:47",
+      "content": "\"iyi oldu böyle ya türkler kalabalık yapıyordu zaten\" diyerek yerleşik hayatlarını sağlamlaştırırlar. nereye gitmesi güldürmeyin adamı:)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "savaş çıkarsa suriyeliler nereye kaçacak sorunsalı",
+      "entry_id": "134455799",
+      "author": "yanciya bir oralet",
+      "date": "03.03.2022 14:50",
+      "content": "yağmacılığa yeltenirler büyük ihtimalle.\nya da düşmanla anlaşıp bize saldıra dabilirler. bu şuursuz göçmenlerden her şeyi beklerim.\nen iyi ihtimalle eski geldikleri deliğe pardon ülkeye geri dönme zahmetini gösterirler.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "CRIME"
+      ]
+    },
+    {
+      "title": "savaş çıkarsa suriyeliler nereye kaçacak sorunsalı",
+      "entry_id": "134455843",
+      "author": "dsch7",
+      "date": "03.03.2022 14:51",
+      "content": "onlardan önce kaçan türk ve kürtlerden kalan yerlere kaçarlar herhalde.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "savaş çıkarsa suriyeliler nereye kaçacak sorunsalı",
+      "entry_id": "134456522",
+      "author": "elleminati",
+      "date": "03.03.2022 15:10 ~ 15:15",
+      "content": "suriye'ye kaçıp, orada \"suriye cennet cennet. suriye'nin kıymetini bilin. imkanımız olsaydı şimdiye çoktan gelecektik. türkler bizi zorla tuttular\" diyeceklerdir.\n\ndış güçle işbirliği yapacak insan bakıyorsanız, onlar suriyeliler değil. ya yerleşik işbirlikçiler olur ya da afganlılar ve pakistanlılar olur. nitekim çoban olarak afganlılar dağlardaki her kovuğu, her geçidi öğreniyorlar. adamlar aynı zamanda paralı milis gücü olmaya da alışkınlar.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "savaş çıkarsa suriyeliler nereye kaçacak sorunsalı",
+      "entry_id": "134456766",
+      "author": "coopermine",
+      "date": "03.03.2022 15:16",
+      "content": "zaten savaşımız muhtemelen onlarla olacak",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "savaş çıkarsa suriyeliler nereye kaçacak sorunsalı",
+      "entry_id": "134457032",
+      "author": "beyrutta bir gun",
+      "date": "03.03.2022 15:23",
+      "content": "daha önce de bahsettim bu konudan, böyle bir durumda kesinlikle eli silah tutan tüm suriyeli erkekler zorunlu askerliğe alinmak zorundadır, aksi halde sivil alanlarin mal can irz güvenliği kalmaz, yagmalarla başa çıkılamaz. bu suriyeden gelenlerin ciddi bir kısmı suriye çingenesi bu yüzden fuhuş, hırsızlık vb suça katilma oranlari çok yüksek, ama diğer kisim da masum sayilmaz türkleri müslüman kabul etmedikleri için ilk savaş çıktığında canimizi malimizi kendilerin helal kabul edeceklerdir. hatta askere giden erkeklerimizin karilarini kizlarini kendilerine ikinci eş filan isteyeceklerdir.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "HATE",
+        "XENO",
+        "SEXUAL"
+      ]
+    },
+    {
+      "title": "savaş çıkarsa suriyeliler nereye kaçacak sorunsalı",
+      "entry_id": "134457283",
+      "author": "kokmus kenif",
+      "date": "03.03.2022 15:30",
+      "content": "kaçmazlar. içeriden onlar da savaş açarlar bize. olmadı zararlı cemiyet falan kurarlar, fırsattan istifade pastadan bir dilim de onlar almaya çalışır. hiçbir ab ülkesi kabul etmez onları, tıpış tıpış ülkelerine dönerler en iyi ihtimalle.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "savaş çıkarsa suriyeliler nereye kaçacak sorunsalı",
+      "entry_id": "134457504",
+      "author": "nightjead",
+      "date": "03.03.2022 15:36",
+      "content": "bizim ülkede kalmasınlar da hangi cehenneme giderlerse gitsinler.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "savaş çıkarsa suriyeliler nereye kaçacak sorunsalı",
+      "entry_id": "134457934",
+      "author": "saykodeli",
+      "date": "03.03.2022 15:47",
+      "content": "2 ihtimali olan soru.\n\n1 - hazır ortalık karışıkken milletin parasını, malını alır, ırzına geçer, cinayet işler oradan da balkanlara yeni heyecanlara yelken kaçar.\n\n2- iç karışıklığın maşası olur.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "HATE",
+        "XENO",
+        "CRIME"
+      ]
+    },
+    {
+      "title": "savaş çıkarsa suriyeliler nereye kaçacak sorunsalı",
+      "entry_id": "134458778",
+      "author": "bilgiislemtakip",
+      "date": "03.03.2022 16:09",
+      "content": "türkiyede bir savaş çıkarsa, türkiye'nin nüfusu yarıya iner ülkeden kaçarlar. o zaman bu ülkede kalanlar ülkenin tamamına sahip olmalıdır.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "savaş çıkarsa suriyeliler nereye kaçacak sorunsalı",
+      "entry_id": "144496484",
+      "author": "ercument2000",
+      "date": "30.10.2022 05:10",
+      "content": "savaştan kaçan tipler olduklarını düşünürsek ve şu anda suriye'de savaş olmadığını düşünürsek kendi ülkelerinden başka bir yere kaçamazlar çünkü büyük ihtimalle türkiye-yunanistan savaşı kapıda hele bir de böyle bir savaşa rusya'nın dahil olduğunu düşünün avrupa da yalan olur",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "savaş çıkarsa suriyeliler nereye kaçacak sorunsalı",
+      "entry_id": "165787810",
+      "author": "babyface61",
+      "date": "28.06.2024 00:50",
+      "content": "çoğu açlıktan ve hava şartlarından dolayı hayatını kaybeder.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

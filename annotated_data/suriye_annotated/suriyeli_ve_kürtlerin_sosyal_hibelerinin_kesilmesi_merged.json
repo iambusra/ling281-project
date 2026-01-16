@@ -1,0 +1,26 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:52:59.833912",
+    "total_entries": 1,
+    "input": "suriyeli ve kürtlerin sosyal hibelerinin kesilmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeli ve kürtlerin sosyal hibelerinin kesilmesi",
+      "entry_id": "171339263",
+      "author": "faytonfayt",
+      "date": "25.12.2024 19:24",
+      "content": "türkiye cumhuriyeti için çok büyük bir tasarruf kapısı olur.\n\nyeşil kart kalkmalı, çok çocukluların burs önceliği kalkmalı, bedava sağlık hizmetleri de kalkmalı. artı kürtlere gayri kanuni olarak tanınan bedava elektrik de kalkmalı. kayıp kaçak bedeli son 10 yılda 200 milyar liraya yaklaştı. kürtler bedava elektirik kullansın diye türkler 200 milyar lira ödüyor.\n\nayrıca hem doğudaki kürtlerden hem de suriyelilerden en az türkler kadar vergi alınmalı.\n\niç kapitülasyonlar kalkınca ülkede enflasyonun adını unuturuz.\n\nama her şeyden önce suriyeliler gönderilmeli. kürtler için de uyum yasası çıkarılmalı.\n\neğer bunlar yapılmazsa türkiye cumhuriyetinde ülkenin bütün yükünü osmanlı'da da olduğu gibi türkler çeker, diğerleri sefasını sürer. sürüyorlar.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "POLICY"
+      ]
+    }
+  ]
+}

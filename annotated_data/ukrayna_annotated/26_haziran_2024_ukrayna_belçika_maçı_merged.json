@@ -1,0 +1,1276 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:06:17.251797",
+    "total_entries": 94,
+    "input": "26 haziran 2024 ukrayna belçika maçı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "26 haziran 2024 ukrayna belçika maçı",
+      "entry_id": "165519431",
+      "author": "the queene",
+      "date": "20.06.2024 10:33",
+      "content": "euro 2024 avrupa futbol şampiyonası grup maçı. saat 19.00'da trt 1'de yayınlanacak.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "26 haziran 2024 ukrayna belçika maçı",
+      "entry_id": "165728916",
+      "author": "mavi balina hem de minik",
+      "date": "26.06.2024 12:55",
+      "content": "euro 2024 e grubu maçı.\n\ngrubun diğer maçı olan; 26 haziran 2024 slovakya romanya maçı ile birlikte berabere bitmesini istediğim maç.\n\ngrupta son maçlara girilirken tüm takımlar 3 puanda. son maçlar, berabere biterse, 4 takım da 4 puanla tamamlayacak grubu ve 4. olan takım turnuvaya veda edecek. 2 puanla euro 2024 b grubu'nda 3. olup bir üst tura çıkma ihtimali oluşan hırvatistan varken, böyle bir garabet yaşanacak.\n\nböyle bir garabetin yaşanabileceğini 2021 yılında yazmıştım;\n(bkz: avrupa futbol şampiyonası/#125564742)",
+      "referenced_content": [
+        {
+          "type": "entry",
+          "title": "avrupa-futbol-sampiyonasi",
+          "entry_id": "125564742",
+          "author": "mavi balina hem de minik",
+          "date": "10.07.2021 13:06 ~ 13:22",
+          "content": "euro 2016'dan bu yana 6 gruptaki en iyi 4 üçüncünün de son 16 turuna kaldığı turnuva.\n\nbu sistemin garabet liğine dikkat çekmek istiyorum.\n\neuro 2016'da grup 3.'sü olan takımlar\n\neuro 2020'de grup 3.'sü olan takımlar\n\ngörülüyor ki, 3 puanla son 16 turuna kalmak mümkün. bu iki turnuvada yaşanmadı ama 4 puanla grupta 4. olma ihtimali de var.\n\nbir grup düşünün: a, b, c, d takımları olsun.\n\n-------------------\n1. maçlar;\n\na: 1 - b: 0\nc: 1 - d: 0\n-------------------\n2. maçlar;\n\nb: 1 - c: 0\nd: 1 - a: 0\n-------------------\n3. maçlar;\n\nb: 0 - d: 0\na: 0 - c: 0\n-------------------\n\nbütün takımlar 4 puanla grubu tamamlayacak ve son sıradaki takımın da 4 puanı olacak. 3 puanlı başka bir takım, son 16 turuna kalırken, 4 puanlı takım turnuvadan elenecek.\n\nböyle bir olay yaşandığında, en iyi grup üçüncülerinin bir üste tura çıkması tartışılır hale gelecek. o yüzden turnuvaya 32 takım katılmalı ve sadece ilk 2'ye girenler son 16 turuna çıkmalı...",
+          "has_external_url": true
+        }
+      ],
+      "referenced_entry_ids": [
+        "125564742"
+      ],
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "26 haziran 2024 ukrayna belçika maçı",
+      "entry_id": "165737967",
+      "author": "uber insan",
+      "date": "26.06.2024 19:00",
+      "content": "tribünde nereden baksan 20 bin genç ukraynalı erkek var ülkelerinde savaşacak adam yok metroda yaka paça adam alıyorlar. gidin savaşın maç izleyeceginize aq",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "26 haziran 2024 ukrayna belçika maçı",
+      "entry_id": "165738148",
+      "author": "rain of chaos",
+      "date": "26.06.2024 19:09",
+      "content": "yine antony taylor dallamasının yönettiği maç. bakalım bu sefer ne saçmalıklar yapacak.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "26 haziran 2024 ukrayna belçika maçı",
+      "entry_id": "165738163",
+      "author": "seytandoldurur",
+      "date": "26.06.2024 19:09",
+      "content": "lukakunun kaçırdığı fırsat göz kanatıyor …",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "26 haziran 2024 ukrayna belçika maçı",
+      "entry_id": "165738179",
+      "author": "syu",
+      "date": "26.06.2024 19:09",
+      "content": "davar lakaka'nın yine şaşırtmadığı maç.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "26 haziran 2024 ukrayna belçika maçı",
+      "entry_id": "165738299",
+      "author": "aryancorbasi",
+      "date": "26.06.2024 19:14",
+      "content": "şu jeremy doku bildiğin bizim zaha gibi. solda kendi kendine birtakım çalımlar yapıyor ancak devamı yok. varlığı belçika'ya zarar.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "26 haziran 2024 ukrayna belçika maçı",
+      "entry_id": "165738356",
+      "author": "universumocto",
+      "date": "26.06.2024 19:17 ~ 19:18",
+      "content": "spikerden dolayı diğer maça geçtiğim maç.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "26 haziran 2024 ukrayna belçika maçı",
+      "entry_id": "165738379",
+      "author": "cooling break",
+      "date": "26.06.2024 19:18 ~ 19:19",
+      "content": "belçika'nın şort seçimiyle beni çocukluğuma götürdüğü maç.\n\nannem de pazardan böyle acayip, uyumsuz renkte eşofman, şort, tişörtler alırdı sağ olsun. biz de aynı böyle gezerdik kardeşimle aşkımızın meyvesi aytek gibi.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "26 haziran 2024 ukrayna belçika maçı",
+      "entry_id": "165738419",
+      "author": "pisik ilaci",
+      "date": "26.06.2024 19:20 ~ 19:21",
+      "content": "forma icin (bkz: tenten)\n\npastorel bir cocuklugunuz olduysa bilmemeniz normal ama ogrenmemeniz ayip.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "26 haziran 2024 ukrayna belçika maçı",
+      "entry_id": "165738427",
+      "author": "cmbrky",
+      "date": "26.06.2024 19:21",
+      "content": "gördüğüm en kötü forma şort kombinasyonu",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "26 haziran 2024 ukrayna belçika maçı",
+      "entry_id": "165738436",
+      "author": "marksistkarnabahar",
+      "date": "26.06.2024 19:21",
+      "content": "belçika'nın forması tenten'den esinlendiği için şort rengi farklı bence gördüğüm en orijinal forma tasarımı.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "26 haziran 2024 ukrayna belçika maçı",
+      "entry_id": "165738453",
+      "author": "i am not in danger i am the danger",
+      "date": "26.06.2024 19:22",
+      "content": "ukraynalı top tepici, rakibini pozisyon gereği olmayan bir pozisyonda direk itti. direk kırmızı kart yerine hakem uyardı.\nuefa şike talimatı vermiş hakeme.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CRIME"
+      ]
+    },
+    {
+      "title": "26 haziran 2024 ukrayna belçika maçı",
+      "entry_id": "165738646",
+      "author": "rudder",
+      "date": "26.06.2024 19:30",
+      "content": "amk. maçını bir seyredebilsek yorum yapacaz da seyredemiyoruz. amk. afrikadan kabileler izliyor maçı.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "26 haziran 2024 ukrayna belçika maçı",
+      "entry_id": "165738736",
+      "author": "korler ulkesindeki sasi",
+      "date": "26.06.2024 19:34 ~ 19:35",
+      "content": "euro 2024 üçüncü maçları genel olarak temposuz, takımlar üçüncü sıradaki yerlerini de korumak adına risk almıyor, genelde temkinli kontrollü gidiyor ki bu maçta onlardan biri.\n\nukrayna gücü doğrultusunda oynuyor, bugün 3 stoper ile çıkıp belçika karşısında 0-0 skoru en uzun süre korumak, olası bir hızlı hücumda gol bulmak amacındalar.\n\nbelçika ise kağıt üstünde kaliteli isimlerden olsa da, turnuva genelinde bunu sahaya yansıtacak oyun oynamadılar, bugün de beklenen o kaliteden eser yok.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "26 haziran 2024 ukrayna belçika maçı",
+      "entry_id": "165738898",
+      "author": "neo sicilian",
+      "date": "26.06.2024 19:40 ~ 19:42",
+      "content": "belçika'nın tenten tasarımlı formasıyla oynadığı maç. umarım bizimkiler buna da özenip bir sonraki turnuvaya rafadan tayfa tasarımlı formalar üretmez.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "26 haziran 2024 ukrayna belçika maçı",
+      "entry_id": "165738910",
+      "author": "wertgzl",
+      "date": "26.06.2024 19:41 ~ 19:41",
+      "content": "bu grupta 4 puanla sonuncu olabilir ukrayna.yazık olur.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "26 haziran 2024 ukrayna belçika maçı",
+      "entry_id": "165738941",
+      "author": "soru olur cevap olmaz",
+      "date": "26.06.2024 19:42",
+      "content": "ukraynalı oyuncuya sarı verilmedi nedense, net ayağa basma vardı.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "26 haziran 2024 ukrayna belçika maçı",
+      "entry_id": "165738975",
+      "author": "femmelette",
+      "date": "26.06.2024 19:43 ~ 19:44",
+      "content": "eski beşiktaşlı onana'nın 10 numara oynadığı maçtır.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "26 haziran 2024 ukrayna belçika maçı",
+      "entry_id": "165739061",
+      "author": "moonshine traffic",
+      "date": "26.06.2024 19:47",
+      "content": "rakip defansın arasında el yapan bir adet lukaku’ya sahip maçtır. bu adam şaka mı?",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "26 haziran 2024 ukrayna belçika maçı",
+      "entry_id": "165739079",
+      "author": "johntrovoltaileoltaatanadam",
+      "date": "26.06.2024 19:48",
+      "content": "everton'lu onana adam yiyen orta saha pozisyonunda harika o altın jenarasyona denk gelseydi vitaminsiz fellaini veya vitsel yerine 1 kupa alırdı bu belçika.\nah prime hazard ne topçuydun be...",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "26 haziran 2024 ukrayna belçika maçı",
+      "entry_id": "165739260",
+      "author": "sol durak",
+      "date": "26.06.2024 19:56",
+      "content": "e grubunda maçlar bu şekilde biterse ukrayna 4, puan -2 averajla en iyi 3. bile olamıyor.\nöte yandan 3 puan ve -3 averajla en iyi 3. kontenjaninda sin 16 ya kalan takımlar olacak .\nnasıl bir sistem ki bu",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "26 haziran 2024 ukrayna belçika maçı",
+      "entry_id": "165739352",
+      "author": "rogale",
+      "date": "26.06.2024 20:00",
+      "content": "ukrayna taraftarları arasında çok fazla erkek olmasına istinaden bir bilgi vereyim, yaşamakta olduğum polonya'da çok fazla ukraynalı var malum. savaştan sonra ukrayna dışına sadece kadın ve çocukların çıkmasına izin vardı, erkekler ise en az 3 çocuğu olması halinde ukrayna yı terk edebiliyordu. o yüzden bir hayli ukraynalı var, bir de hiç şaşmaz ukraynalı zenginler tabiki savaş başlayınca hemen polonya üzerinden kaçtılar. futbol başlığında nereye geldim amk, barış alper santrafor oynamaz kendinize gelin montella hamit ikilisi.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "26 haziran 2024 ukrayna belçika maçı",
+      "entry_id": "165739358",
+      "author": "rokforlusushi",
+      "date": "26.06.2024 20:00",
+      "content": "iskocya maclari ve bu mac turnuvanin en kotu maci olabilir mi acaba?\n\ncok yavan geciyor.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "26 haziran 2024 ukrayna belçika maçı",
+      "entry_id": "165739582",
+      "author": "the wild one",
+      "date": "26.06.2024 20:10",
+      "content": "belçika milli takımının 3 numarası arthur theate bildiğin bakmadan ezbere pas veriyor. bu kaptırdığı kaçıncı top.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "26 haziran 2024 ukrayna belçika maçı",
+      "entry_id": "165739592",
+      "author": "metin tut",
+      "date": "26.06.2024 20:11",
+      "content": "ukrayna umarım çıkamaz. ilk iki maç çok kötü oynadı şansa üç puan aldı. bu maçta ise galibiyet lazım ama en ufak çaba yok berabere kalıp karambole çıkarız diye düşünüyorlar.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "26 haziran 2024 ukrayna belçika maçı",
+      "entry_id": "165739640",
+      "author": "mesut yar beni",
+      "date": "26.06.2024 20:12 ~ 20:13",
+      "content": "belçika forma rengindeki kahverengi tonu tenten'den çok ag2r la mondiale takımının mayolarını andırdı.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "26 haziran 2024 ukrayna belçika maçı",
+      "entry_id": "165739761",
+      "author": "me no money",
+      "date": "26.06.2024 20:17",
+      "content": "belçikanin trabzonspor formasıyla oynadığı maç.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "26 haziran 2024 ukrayna belçika maçı",
+      "entry_id": "165739799",
+      "author": "veletinfazcisi",
+      "date": "26.06.2024 20:19",
+      "content": "dünkü ingiltere slovenya maçından daha rezalet geçen bir maç. ayrıca belçika'nın forması çok kötü lan.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "26 haziran 2024 ukrayna belçika maçı",
+      "entry_id": "165739830",
+      "author": "darkfen",
+      "date": "26.06.2024 20:20",
+      "content": "belçika sol kanata pas bile vermiyor sanki. hep sağdan geliyor. ne alaka ya.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "26 haziran 2024 ukrayna belçika maçı",
+      "entry_id": "165739946",
+      "author": "nfk",
+      "date": "26.06.2024 20:25",
+      "content": "bu lukakunun ndombele ile akrabalığı var gibi. maşallah 3 metre koşamıyor",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "26 haziran 2024 ukrayna belçika maçı",
+      "entry_id": "165739962",
+      "author": "tuluma gayda diyen adam",
+      "date": "26.06.2024 20:25",
+      "content": "belçika forması kahverengi şortlu ve mavi tişörtlü bir belçika halk kahramanı ve çizgiroman karakteri olan (bkz: tenten) den esinlenilmiş. eee nerde kırmızı şeytanlar?\ntanım: yıllardır her turnuvada gerçek sürpriz gösterilen ama bir halt yapamayan takım.\n\nlukaku götünü döndürene kadar sabah oluyor zaten.\n\nukrayna bir tane çaksa da şenlik olsa.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "26 haziran 2024 ukrayna belçika maçı",
+      "entry_id": "165739965",
+      "author": "tunaca",
+      "date": "26.06.2024 20:26",
+      "content": "lukaku bitmiş",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "26 haziran 2024 ukrayna belçika maçı",
+      "entry_id": "165739986",
+      "author": "mendek",
+      "date": "26.06.2024 20:27 ~ 20:29",
+      "content": "kevin de bruyne'ye üzülüyorum valla. adam elinden geleni yapıyor harika paslar atıyor ama ona ayak uyduran yok. belçika bitmiş, altın jenerasyon sona ermiş.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "26 haziran 2024 ukrayna belçika maçı",
+      "entry_id": "165740020",
+      "author": "arnatuile",
+      "date": "26.06.2024 20:28",
+      "content": "bu belçika'nın forvet hattı ne lan böyle evlere şenlik. carasco ile lukaku \"kim daha mal oğlu mal\" diye iddiaya girmişler galiba.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "26 haziran 2024 ukrayna belçika maçı",
+      "entry_id": "165740174",
+      "author": "falcatasukooo",
+      "date": "26.06.2024 20:34",
+      "content": "bu dovbyk 3 maçta ımına koydu ukrayna'nın. eleman rakip defans oyuncusu gibi oynuyor şimdi yine kontrayı yedi bir gol at takımın şerefini kurtar 3 maçtır 10 kişi oynattın takımı",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "26 haziran 2024 ukrayna belçika maçı",
+      "entry_id": "165740224",
+      "author": "sidirmiup",
+      "date": "26.06.2024 20:36",
+      "content": "bencil o.ç dovbyk yüzünden yüksek ihtimal elenecek ukrayna.\n\nadam bomboş yanındaki adama atmıyor atsa kaleci ile karşı karşıya ukraynalı oyuncu.\n\nşimdi bunu yapıp elenmesine neden oluyorsa böyle oyuncunun amına koyayım.\n\nsen bilerek milli takımının elenmesine neden oluyorsun sen bencil bi o.çsun başka diyecek bişi yok.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "26 haziran 2024 ukrayna belçika maçı",
+      "entry_id": "165740230",
+      "author": "shadowjack",
+      "date": "26.06.2024 20:36 ~ 20:38",
+      "content": "dovbyk birden vites atınca bir bok yapacak zannettim de skilli 1 yıldızmış çocuğun, bizim abuşu izleyip 2 gün çalışsa, tek crossoverla skor şimdi 1-0 dı.\n\nçalım atmaya çalışırken allah affetsin özürlü gibi oldu çocuk.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE"
+      ]
+    },
+    {
+      "title": "26 haziran 2024 ukrayna belçika maçı",
+      "entry_id": "165740231",
+      "author": "bitterschokolade",
+      "date": "26.06.2024 20:36",
+      "content": "tenten falan hikaye, çok kötü forma. resmen kalitesi düşmüş takımın. cuma pazarından alınmış ihraç fazlası ürünler gibi.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "26 haziran 2024 ukrayna belçika maçı",
+      "entry_id": "165740237",
+      "author": "papaklicocuk",
+      "date": "26.06.2024 20:37",
+      "content": "iki tane çöp forvet içeren maç.\nlukaku ayrı mal, dovbyk ayrı mal.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "26 haziran 2024 ukrayna belçika maçı",
+      "entry_id": "165740329",
+      "author": "once blue always blue",
+      "date": "26.06.2024 20:40",
+      "content": "bu uefa'nın allah belasını versin.nasıl bir format bu.kimse elenmiyor.leş gibi maçlar.yeni nesil maç izlemiyor.hadi biz bir şekilde bakıyoruz da şu turnuvalara türkiye katılmazsa üzülmem.paralı kanala versen buna kimse para vermez.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "26 haziran 2024 ukrayna belçika maçı",
+      "entry_id": "165740330",
+      "author": "zxc123",
+      "date": "26.06.2024 20:40 ~ 20:41",
+      "content": "bu belçika kadar iyi oyuncuları olup ta bu kadar kötü oynayan takım olamaz. sağ beklerine bakayım dedim 20 milyon ohh",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "26 haziran 2024 ukrayna belçika maçı",
+      "entry_id": "165740349",
+      "author": "sukela generator",
+      "date": "26.06.2024 20:41",
+      "content": "dobik midir nedir anasını belledi maçın",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "26 haziran 2024 ukrayna belçika maçı",
+      "entry_id": "165740357",
+      "author": "puffats",
+      "date": "26.06.2024 20:41",
+      "content": "ne zaman kupona alsam yatırıyor bu belçika. (bkz: swh) bok gibi formasıyla, kazma lukaku ile soğuttu beni kendinden iyice.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "26 haziran 2024 ukrayna belçika maçı",
+      "entry_id": "165740408",
+      "author": "askim pecete",
+      "date": "26.06.2024 20:43",
+      "content": "bok rengi şort mu olur, bu nasıl iş amk? korkudan altına sıçmış gibi gözüküyor.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "26 haziran 2024 ukrayna belçika maçı",
+      "entry_id": "165740438",
+      "author": "lesbonsbons",
+      "date": "26.06.2024 20:44",
+      "content": "marinovski topa öyle bir vurdu ki emre belözoğlu'nun seneler önce sivasspor'a kornerden attığı gol aklıma geldi. harika bir goldü.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "26 haziran 2024 ukrayna belçika maçı",
+      "entry_id": "165740439",
+      "author": "kozdebenbirinsanolmayageldim",
+      "date": "26.06.2024 20:44",
+      "content": "her 3 kaleciden 1'i net yerdi o korneri. belçik kalesi iyi iş çıkardı.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "26 haziran 2024 ukrayna belçika maçı",
+      "entry_id": "165740450",
+      "author": "bilisik",
+      "date": "26.06.2024 20:45",
+      "content": "ten ten kıyafetine ithafen yapılmış sanırım forma öle görmüştüm biryerde",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "26 haziran 2024 ukrayna belçika maçı",
+      "entry_id": "165740473",
+      "author": "mefhumu muhalif",
+      "date": "26.06.2024 20:46",
+      "content": "(bkz: #165740458)",
+      "referenced_content": [
+        {
+          "type": "entry",
+          "title": "euro-2024",
+          "entry_id": "165740458",
+          "author": "mefhumu muhalif",
+          "date": "26.06.2024 20:45 ~ 20:49",
+          "content": "geride kalan maçlar gösterdi ki, portekiz turnuvanın en kolay grubuna düşmüş. üç tane gol atma özürlü ve defansif zaafiyeti olan rakiple aynı grupta ve vitesi 3’ten yukarı atmadan güle oynaya 9 puanı alacak.\n\ndiğer zayıf halka olarak gösterilen romanya, slovakya ve slovenya’nın son maça kadar liderlik ihtimali vardı (bu saat itibariyle romanya ve slovakya’nın hala var, hatta romanya bitime 5 dk kala lider durumda). arnavutluk ölüm grubunu 1 puan ve sadece -2 averajla bitirdi, italya’dan da ispanya’dan da 2 fark yemedi, hırvatistan’dan puan aldı.\n\nmaalesef f grubundan 2. (ve belki 3.) çıkacak takım(lar) son 16’da ciddi sıkıntı yaşayacaktır. portekiz ise ilk ciddi sınavını son 16’da verecek.",
+          "has_external_url": false
+        }
+      ],
+      "referenced_entry_ids": [
+        "165740458"
+      ],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "26 haziran 2024 ukrayna belçika maçı",
+      "entry_id": "165740486",
+      "author": "tolgame",
+      "date": "26.06.2024 20:46",
+      "content": "şut olmayan sıkıcı maçtır.\n\nbu arada belçikanın kalecesi pide ustası rıza abi gibi.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "26 haziran 2024 ukrayna belçika maçı",
+      "entry_id": "165740536",
+      "author": "spooky mulder",
+      "date": "26.06.2024 20:48",
+      "content": "bu belçika çöp oğlu çöp. takıma bak gol atmamak için çaba gösteriyorlar.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "26 haziran 2024 ukrayna belçika maçı",
+      "entry_id": "165740556",
+      "author": "runtime exception",
+      "date": "26.06.2024 20:49 ~ 20:50",
+      "content": "ukrayna olur da atarsa, sonunculuktan birincilige yukselip, belcika ise birincilikten sonunculuga dusecek.\n\nnot: icinizdeki omer urundul'u oldurmeyin gencler:)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "26 haziran 2024 ukrayna belçika maçı",
+      "entry_id": "165740587",
+      "author": "fundamental analysis",
+      "date": "26.06.2024 20:50",
+      "content": "zinçenko bylat çekti bu maça az önce",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "26 haziran 2024 ukrayna belçika maçı",
+      "entry_id": "165740592",
+      "author": "pubvertica",
+      "date": "26.06.2024 20:50 ~ 20:51",
+      "content": "avrupanın şımarık veledinin elendiği maç.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "26 haziran 2024 ukrayna belçika maçı",
+      "entry_id": "165740604",
+      "author": "shadowjack",
+      "date": "26.06.2024 20:51",
+      "content": "kuponu yatan dangalaklar gelip buraya kin kusuyor. len oğlum ukrayna'nın elinden gelen bu adamlar savaşta. niye atak yapmıyormuş, risk almaya çalışıyorlar da ne zaman oyun üstünlüğünü almayı deneseler belçika kontraları başlıyor.\n\nhem 2. bölgenin bu kadar hızlı geçildiği hem de 3. bölgede bu kadar beceriksiz olan maç. profil tam olarak ptt 1.lig maçı\n\neyüpspor-bodrumspor desen yadırgamam yani.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "26 haziran 2024 ukrayna belçika maçı",
+      "entry_id": "165740646",
+      "author": "soru olur cevap olmaz",
+      "date": "26.06.2024 20:53",
+      "content": "ukrayna balonu patlamak üzere, bakalım hakem şapkadan bir şey çıkarabilecek mi.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "26 haziran 2024 ukrayna belçika maçı",
+      "entry_id": "165740651",
+      "author": "kylian",
+      "date": "26.06.2024 20:53",
+      "content": "böyle futbolun ben bacısını sikeyim",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "26 haziran 2024 ukrayna belçika maçı",
+      "entry_id": "165740678",
+      "author": "soru olur cevap olmaz",
+      "date": "26.06.2024 20:54",
+      "content": "ukrayna'yı sevmem, ama belçika'nın bu yaptığı alçaklıktır.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "26 haziran 2024 ukrayna belçika maçı",
+      "entry_id": "165740679",
+      "author": "viski tek",
+      "date": "26.06.2024 20:54",
+      "content": "rezilsin belçika.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "26 haziran 2024 ukrayna belçika maçı",
+      "entry_id": "165740684",
+      "author": "ersankuneriii",
+      "date": "26.06.2024 20:54",
+      "content": "belçika fransa ingiltere oynayacağınız oyunun içine sıçayım.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "26 haziran 2024 ukrayna belçika maçı",
+      "entry_id": "165740693",
+      "author": "the wild one",
+      "date": "26.06.2024 20:54",
+      "content": "helal olsun belçika taraftarına böyle futbolun ta aq. bu da küfürlü ilk iletim olsun ama yeter artık.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "26 haziran 2024 ukrayna belçika maçı",
+      "entry_id": "165740703",
+      "author": "deadpoetsociety",
+      "date": "26.06.2024 20:55",
+      "content": "grup birincisi ile aynı puanda olup elenmesi oldukça dramatikti.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "26 haziran 2024 ukrayna belçika maçı",
+      "entry_id": "165740704",
+      "author": "tolgame",
+      "date": "26.06.2024 20:55",
+      "content": "belçikanın andorra gibi zaman geçirmeye oynaması şaka gibi.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "26 haziran 2024 ukrayna belçika maçı",
+      "entry_id": "165740713",
+      "author": "arnatuile",
+      "date": "26.06.2024 20:55 ~ 20:56",
+      "content": "belçika, slovakya ve romanya bir oldular ukranyayı harcadılar matmazel.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "26 haziran 2024 ukrayna belçika maçı",
+      "entry_id": "165740722",
+      "author": "nolimetangere",
+      "date": "26.06.2024 20:55",
+      "content": "amk belçika çöpleri. neden bunlardan bi halt olmuyor çok net belli. korner bayrağı yapıyor ukrayna karşısında. bu ne ezikliktir?",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "26 haziran 2024 ukrayna belçika maçı",
+      "entry_id": "165740725",
+      "author": "de sittir lo",
+      "date": "26.06.2024 20:55",
+      "content": "belçika için utanç verici bir maç. böyle tur atlasan ne fayda, bir sonraki maçta fransa skip geçecek seni. onurunla veda et daha iyi.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "26 haziran 2024 ukrayna belçika maçı",
+      "entry_id": "165740735",
+      "author": "cocuklara soyledim",
+      "date": "26.06.2024 20:55",
+      "content": "rezalet ötesi bir maç daha bu sözde iyi takımlar turnuvayı çöpe çevirdi iki gündür biz ne izliyoruz allah aşkına?",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "26 haziran 2024 ukrayna belçika maçı",
+      "entry_id": "165740746",
+      "author": "soru olur cevap olmaz",
+      "date": "26.06.2024 20:56",
+      "content": "ukrayna 4 puanla grup sonuncusu oldu, hırvatistan'ın elenmesi kesinleşti, şimdi ya macaristan, ya da türkiye grupundan bir takım en kötü üçüncülerden biri olacak.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "26 haziran 2024 ukrayna belçika maçı",
+      "entry_id": "165740749",
+      "author": "tspark98",
+      "date": "26.06.2024 20:56 ~ 21:38",
+      "content": "ukrayna 90.dakikada kaleciye karşı boş kalan topu gole çevirse grup lideri olarak çıkıyorken atamadığı için grup sonuncusu oluyor. dingiltere'nin grubundan daha garip bir grup oldu bu grup.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "26 haziran 2024 ukrayna belçika maçı",
+      "entry_id": "165740766",
+      "author": "bilemiyorum altan bilemiyorum",
+      "date": "26.06.2024 20:56 ~ 20:57",
+      "content": "--- spoiler ---\n\nspiker: 15-16 yaşındaki çocuklar iddaa oynuyorlar, ne diyorsunuz bu konuda?\nsergen yalçın: avrupa şampiyonasına alt oynasınlar. çok az gol oluyor.\n\n--- spoiler ---",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "26 haziran 2024 ukrayna belçika maçı",
+      "entry_id": "165740769",
+      "author": "kemal recep bahceli",
+      "date": "26.06.2024 20:56",
+      "content": "ulan belcika kendi taraftarlariniz tarafindan yuhlandiniz bu nasil pis bir futbol anlayisidir.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "26 haziran 2024 ukrayna belçika maçı",
+      "entry_id": "165740770",
+      "author": "dicksiyoncu",
+      "date": "26.06.2024 20:56",
+      "content": "fransa'yı kabul etmek nasıl bir taktik içeriyor yetkili belçikalı yetkili dostlara sormak isterdim.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "26 haziran 2024 ukrayna belçika maçı",
+      "entry_id": "165740786",
+      "author": "236",
+      "date": "26.06.2024 20:57",
+      "content": "4 takım 1'er galibiyet 1'er beraberlik 1'er mağlubiyet alıyor 4'er puanları var 3'ü yola devam ediyor 1'i eleniyor. ukrayna'nın suçu ne lan? acilen abd senatosu destek paketi açıklamalı.\n\nt: büyük numaralar dönen maçlardan biri.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "26 haziran 2024 ukrayna belçika maçı",
+      "entry_id": "165740803",
+      "author": "shixan",
+      "date": "26.06.2024 20:57",
+      "content": "gruptaki tüm avrupa birliği ülkeleri bir oldu gariban muçko vuçkoları eledi. putin yakmıştır keyif cigarasını",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "26 haziran 2024 ukrayna belçika maçı",
+      "entry_id": "165740820",
+      "author": "komutan bey",
+      "date": "26.06.2024 20:57 ~ 20:58",
+      "content": "maci kacirdim diye uzuluyordum ama yorumlara gore pek birsey de kacirmamisim aslinda. rahatladim.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "26 haziran 2024 ukrayna belçika maçı",
+      "entry_id": "165740839",
+      "author": "markasfreud",
+      "date": "26.06.2024 20:58 ~ 21:00",
+      "content": "ukrayna bir gol atsa üst tura çıkacak adamlar bir kere falan gitmiştir hakettiler elenmeyi bu ne ya adamlar elenmeye çıkmış. belkçika da fransa siksin bizi diye çıkmış.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "26 haziran 2024 ukrayna belçika maçı",
+      "entry_id": "165740882",
+      "author": "the man who must not be named",
+      "date": "26.06.2024 20:59",
+      "content": "bir başka pozisyonsuz, sıkıcı maç. bu turnuvadan pek keyif almıyorum. belçika'nın zaman geçirmesini yadırgamadım. ukrayna çok önemli 2 pozisyon kaçırdı, her an atabilirlerdi. sonuçta hırvatistan zaman geçirmedi, ne olduğunu gördük.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "26 haziran 2024 ukrayna belçika maçı",
+      "entry_id": "165740925",
+      "author": "some things are best left unsaid",
+      "date": "26.06.2024 21:00",
+      "content": "ruslan malinovski…niye bize(bjk) gelmedin be oe. ne iyi topçu yav yarıp geçiyor sürekli.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "26 haziran 2024 ukrayna belçika maçı",
+      "entry_id": "165740958",
+      "author": "mustang3737",
+      "date": "26.06.2024 21:01",
+      "content": "tüm takımların 4er puanla kapattığı grupta ilginç maçtı.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "26 haziran 2024 ukrayna belçika maçı",
+      "entry_id": "165740979",
+      "author": "yine ucurun",
+      "date": "26.06.2024 21:02",
+      "content": "ukrayna son 10 dakika top oynadı. şaka gibi. baştan çık oyna yenilirsen de onurunla elenirsin. noldu şimdi berabere kalınca madalya mı verdiler?",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "26 haziran 2024 ukrayna belçika maçı",
+      "entry_id": "165740996",
+      "author": "ama saat daha erken",
+      "date": "26.06.2024 21:02",
+      "content": "belçika iğrençsiniz futbol katilisiniz orospu çocukları",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE"
+      ]
+    },
+    {
+      "title": "26 haziran 2024 ukrayna belçika maçı",
+      "entry_id": "165741015",
+      "author": "m2m",
+      "date": "26.06.2024 21:03",
+      "content": "dünkü (bkz: dingiltere) maçınından çok çok iyiydi. kapak olsun vasıfsız ve bisiklet hırsızı holiganlara!\n\n(bkz: biden) üzülüyordur şimdi.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "26 haziran 2024 ukrayna belçika maçı",
+      "entry_id": "165741018",
+      "author": "shadowjack",
+      "date": "26.06.2024 21:03",
+      "content": "maç sonu takım ayırt etmeden bütün taraftarların ıslıklaması. maçı çok güzel anlattı.\n\nbelçika siyahi olduğu için oyun aklı yok yazan orospu çocuklarına ise bir türlü doğruları öğretemedik. ben senin gibi ırkçılara orospu çocuğu derim, istediğin yere dava aç şikayet et.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE"
+      ]
+    },
+    {
+      "title": "26 haziran 2024 ukrayna belçika maçı",
+      "entry_id": "165741053",
+      "author": "ketenpere1",
+      "date": "26.06.2024 21:04",
+      "content": "grupta son maçlar, hepsi aynı puanda, çok keyifli ve kıran kırana maçlar olur diye düşünüyordum. resmen uyuttu bu maç. belçika bu kadar mı kötü oynar. digerleri de son 15 dk bi zahmet bastıralım dediler. aklınız neredeydi kac dakika...\nfransa-belçika eşleşmesi umarım iyi top seyrettirir bize...",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "26 haziran 2024 ukrayna belçika maçı",
+      "entry_id": "165741077",
+      "author": "kozdebenbirinsanolmayageldim",
+      "date": "26.06.2024 21:05",
+      "content": "ben anlamıyorum her şeraitte kazanman gereken maçta nasıl 0-0 kalırsın. dün sırbistan, bugün ukrayna. beyniniz mi yok arkadaşım, her şeyi yapıp gerekirse kalecisiz oynayın ama şu maçları 0-0 bitirmeyin. bak iskoçya hakkını verdi, tek bir şans bulabilmek uğruna 5 pozisyon verdi hırvatlara sadece uzatmalarda...\nal 4 puanını, al 2 puan, -1 avarajını, akşama izle 3 puan, -3 avarajla el oğlu nasıl turluyor.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "26 haziran 2024 ukrayna belçika maçı",
+      "entry_id": "165741091",
+      "author": "buzdan ada",
+      "date": "26.06.2024 21:05",
+      "content": "belçika çok kötü oynadı. ukrayna maçın başından beri daha cesur oynasaydı rahat kazanırdı. galiba belçika'nın adından çekindiler ve diğer maçı beklediler.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "26 haziran 2024 ukrayna belçika maçı",
+      "entry_id": "165741184",
+      "author": "cemberigordum",
+      "date": "26.06.2024 21:08 ~ 23:32",
+      "content": "dün 3 maçta da beraberlik alarak 3 puanla 3. sırada gruptan çıkan slovenya şokunu atlatamamışken bugün de her takımın 4 puanla grubu tamamladığı ve dolayısıyla birincinin de dördüncü olup elenenin de aynı puanda olduğu grupla karşı karşıyayız.\nher iki grup istatistiğini de daha önce hatırlamıyorum.\n\nedit: pek çok mesaj geldi. portekiz 2016'da gruplarda 3 maçta berabere kalmakla yetinmeyip bir de şampiyon olmuş.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "26 haziran 2024 ukrayna belçika maçı",
+      "entry_id": "165741210",
+      "author": "paradays23",
+      "date": "26.06.2024 21:09",
+      "content": "dovbyk'in ukrayna'yı elettiği maçtır. ukrayna'nın 10 kişi oynaması daha hayrına olurdu. katletmediği pozisyon yoktu ne yazık ki.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "26 haziran 2024 ukrayna belçika maçı",
+      "entry_id": "165741475",
+      "author": "daryusdaryus",
+      "date": "26.06.2024 21:17 ~ 21:18",
+      "content": "1994 dünya kupası e grup ile benzer şekilde biten grubun maçı. o grupta, rezil futbolla şampiyonaya başlayan ve ülkesinde yerden yere vurulan arrigo sacchi yönetimindeki italya 3. olmuş, ardından finale kadar çıkmıştı.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "26 haziran 2024 ukrayna belçika maçı",
+      "entry_id": "165741580",
+      "author": "stolenfiber",
+      "date": "26.06.2024 21:21",
+      "content": "ukrayna’nın galibiyeti hak ettiği ancak mutlak gol fırsatlarını kaçırıp 0-0 berabere kalarak şampiyonaya veda ettiği maç. yazık oldu ukrayna‘ya.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "26 haziran 2024 ukrayna belçika maçı",
+      "entry_id": "165741670",
+      "author": "blucan007",
+      "date": "26.06.2024 21:23 ~ 21:29",
+      "content": "ingiltere hariç turnuvanın bütün favorileri diğer tarafta toplandi, favori diyorum da adı ve kadrosu yüzünden yoksa top oynadiklari yok, 2. tur da belçika-fransa eşleşmesi süper oldu,fransa belcikayi elese bu sefer karşısına portekiz çıkacak portekizi de elese, almanya ve ispanyadan biriyle karşılasacak,ulan ne şanssızlık be,ingiltere ve bizim balimiz ise hiç görülmemiş cinsten,gerçi avusturyalılar, italyanlar,isvicrelilier ve ingilizler de bizim gibi zayıf ağacın olduğu tarafta olmaktan çok memnundur,herkes herkesi zayıf rakip olarak görüyor ve devlerden kaçtığı için mutlu.\n\nedit:sürpriz sonuçlar gormedigimiz sürece dediğim senaryo gerçekleşir tabi ki,elenedebiliriz.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "26 haziran 2024 ukrayna belçika maçı",
+      "entry_id": "165741842",
+      "author": "zapturapt",
+      "date": "26.06.2024 21:29",
+      "content": "adamlar dört puanla elendi, biz belki üç puanla çıkacağız. garip bir turnuva gerçekten.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "26 haziran 2024 ukrayna belçika maçı",
+      "entry_id": "165745626",
+      "author": "beyaz duvara bakan",
+      "date": "26.06.2024 22:39",
+      "content": "grubun 3 takımı birleşti sanki ukrayna’yı elemek için. ukrayna’nın da gücü yetmedi açıkçası. anlamadığım nokta ise belçika neden fransa ile eşleşmek istedi?",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "26 haziran 2024 ukrayna belçika maçı",
+      "entry_id": "165762798",
+      "author": "osbirci31",
+      "date": "27.06.2024 06:59",
+      "content": "kendisini bırak özetini izlerken bile feci sıkıldığım maç.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

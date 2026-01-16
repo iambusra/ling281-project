@@ -1,0 +1,38 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:06:53.134191",
+    "total_entries": 2,
+    "input": "ukrayna için savaşıp ölen norveçli asker",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukrayna için savaşıp ölen norveçli asker",
+      "entry_id": "164877908",
+      "author": "rreggullarr",
+      "date": "29.05.2024 23:38",
+      "content": "mal oğlu mal şimdi karını norveçe kaçak giren afganlar daha kötüsü afrikalılar siksin.\n\ndünyanın bir başka göt deliği slavlar için taş atılmaz.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ukrayna için savaşıp ölen norveçli asker",
+      "entry_id": "165214153",
+      "author": "supermike",
+      "date": "10.06.2024 02:26",
+      "content": "iskandinavlar rusların kendileri için de her zaman nasıl büyük bir tehdit olduğunu bildiklerinden ve nefret ettiklerinden, ukrayna saflarında savaşa katılması son derece normal olan askerdir... savaşa giren zaten ölme ihtimalinin hiç az olmadığını bilerek giriyor bu işe.. o yüzden \"boşuna ölmüş\" diyenler bok yesinler... asıl boşuna ölenler putin gibi ciğeri beş para etmez bir diktatör için bile isteye savaşıp ölenlerdir... zorla götürülenleri bu kapsamda değerlendiremeyiz tabii...\n\nfinlandiyalı bir arkadaşım vardı... kız solcu, hümanist, ateist falan... bilirsiniz, insan sevgisi, şu bu, bütün nitelikler en üst düzeyde var... ama rus adını duyduğunda tüyleri diken diken olurdu... yüzünde normalde hiç olmayan bir nefret ifadesi oluşurdu... böyle bir bela bu rus devleti hem avrupa hem tüm dünya için... rahmetli reagan'ın tabiriyle \"şeytan imparatorluğu\"...",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    }
+  ]
+}

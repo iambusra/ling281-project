@@ -1,0 +1,94 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:42:58.444315",
+    "total_entries": 5,
+    "input": "ikinci suriye iç savaşı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ikinci suriye iç savaşı",
+      "entry_id": "176854693",
+      "author": "44luler",
+      "date": "16.07.2025 16:52 ~ 16:53",
+      "content": "suriyede kaçınılmaz olacak olan iç karışıklıklar olacağını düşünüyorum. yeni yönetimin sahada karşılığı şu an için fazla değil. sdg kuvvetleri merkezi yönetime katılmıyor. diğer azınlık gruplar tedirgin. htş önderliğindeki merkezi yönetimin birlik kurma gücü yok. sahada şu anda dış ülke kuvveti yeterince yok. bu grupları toplayacak ve bir araya getirecek bir oluşum gözleyemiyorum. htş lideri aynı zamanda cumhurbaşkanı olan şara milli birliği pekişterecek açıklamalarda bulunuyor ama sahada karşılığı yok. gruplar ve militanların gizli ajandaları açık onun dışına çıkamıyorlar. zaten bir millet olamadıkları için bu halde olduklarını biliyoruz.\nsonuç olarak suriyenin ve topraklarının ne olacağı yeni bir iç savaş ile belirleneceği ve gücün kimde olacağı bu karışıklıkların sonunda belli olacağı görülüyor.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY",
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ikinci suriye iç savaşı",
+      "entry_id": "176854833",
+      "author": "sadoo",
+      "date": "16.07.2025 17:00",
+      "content": "kaçışı yok suriye ve ırakta etnik sınırlar oluşmadan karışıklık durmaz.\nkürtler bir yere araplar bir yere türkmenler bir yere yerleşip kendi yönetimleri kuracaklar. bunların birde sunni ve şii tarafı var çok karışık.\nortak bir zemin bulunur bulunmasına da oevladı israil ve abd olmasa..",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "ikinci suriye iç savaşı",
+      "entry_id": "176855017",
+      "author": "hemkelhemdesisman",
+      "date": "16.07.2025 17:10",
+      "content": "türkiye'nin artık arap götü yalamayı bırakıp, türkmeneli devletini kurma vakti geldi. türkmeneli kurulmadan, türkiye rahat edemez.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE"
+      ]
+    },
+    {
+      "title": "ikinci suriye iç savaşı",
+      "entry_id": "176974130",
+      "author": "44luler",
+      "date": "21.07.2025 15:21",
+      "content": "....\n\ngeliyor",
+      "referenced_content": [],
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ikinci suriye iç savaşı",
+      "entry_id": "177969806",
+      "author": "navvei",
+      "date": "29.08.2025 19:04",
+      "content": "eli kulağındadır.\nypg+nusayriler+dürziler organize olup aynı anda htş'ye saldırmak üzere.\nhtş 3 cephede savaşa dayanamayacağı için küçüklerin tek şansı birlik olmak ve böyle de olacak.\n(#175448903)",
+      "referenced_content": [
+        {
+          "type": "entry",
+          "title": "abd-disisleri-bakaninin-suriye-aciklamasi",
+          "entry_id": "175448903",
+          "author": "navvei",
+          "date": "20.05.2025 20:29",
+          "content": "ex-işid militanı ve el bağdadi'nin kankası colani'ye koca ülkeyi bırakacaklarını mı sanıyordunuz?\nisrail'in önüne rahatça yutacağı devletçikler yerine koca bir devlet bırakacaklarını mı sanıyordunuz?\n100 yıldır bağımsız devlet kurmak isteyen kürtlerin ypg eliyle elde ettiği hakimiyeti daha yeni kurulmuş bir merkezi yönetime bırakacağını mı sanıyordunuz?\n#170838012",
+          "referenced_entry_ids": [
+            "170838012"
+          ],
+          "has_external_url": false
+        }
+      ],
+      "referenced_entry_ids": [
+        "175448903"
+      ],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    }
+  ]
+}

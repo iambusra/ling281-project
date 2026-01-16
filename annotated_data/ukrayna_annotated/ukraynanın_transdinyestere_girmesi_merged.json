@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:16:26.029299",
+    "total_entries": 1,
+    "input": "ukraynanın transdinyestere girmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukraynanın transdinyestere girmesi",
+      "entry_id": "149704100",
+      "author": "reisss",
+      "date": "24.02.2023 00:25 ~ 00:26",
+      "content": "telegram kanallarında 20.000 kadar ukrayna askerinin sınırda beklediğine dair söylenti var şimdi geriye sadece moldova'nın ukrayna ordusunu topraklarına davet etmesi kaldı. bakalım rusya nasıl tepki verecek\n\nhttps://twitter.com/…919/status/1628865991558963203",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL",
+        "POLICY"
+      ]
+    }
+  ]
+}

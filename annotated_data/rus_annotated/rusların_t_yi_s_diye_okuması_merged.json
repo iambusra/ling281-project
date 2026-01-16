@@ -1,0 +1,132 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:31:40.499229",
+    "total_entries": 10,
+    "input": "rusların t'yi s diye okuması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rusların t'yi s diye okuması",
+      "entry_id": "29950063",
+      "author": "slashedduff",
+      "date": "26.08.2012 23:38",
+      "content": "tse diye okunan bir harfe sahip alfabelerinin olmasındandır. simgesini yapmayı bilmiyorum ama öyle okunuyor.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rusların t'yi s diye okuması",
+      "entry_id": "29950085",
+      "author": "aslimou",
+      "date": "26.08.2012 23:39",
+      "content": "th harfi yoktur ruslarda. t ile sorunları genel olarak yok ama ingilizcedeki they'in th'si ile baya bir sorunları vardır.\n\nmesela; their brother = zeir brazır olarak okunur ruslar tarafından bu da ruslarla ingilizce konuşmayı biraz zorlaştırır. ama ruslar iyidir rusça konuşmak da daha iyidir.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rusların t'yi s diye okuması",
+      "entry_id": "29950101",
+      "author": "amateur",
+      "date": "26.08.2012 23:40",
+      "content": "rusların th'i s diye okuması dır o.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rusların t'yi s diye okuması",
+      "entry_id": "29950207",
+      "author": "aslanim giralicam",
+      "date": "26.08.2012 23:45",
+      "content": "almanların th'i s diye okuması yla benzerlik gösterir.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rusların t'yi s diye okuması",
+      "entry_id": "29950620",
+      "author": "biri gitti kaldi 300 spartali",
+      "date": "26.08.2012 23:59",
+      "content": "bir örneği şu videoda görülebilir sanırım:\nhttp://www.youtube.com/watch?v=iw1nff6jgjo",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rusların t'yi s diye okuması",
+      "entry_id": "29953388",
+      "author": "at girsin sozlugunuze",
+      "date": "27.08.2012 02:23 ~ 07:44",
+      "content": "fransızların the'yı zö diye telaffuz etmesi'nın yanında makul karşılanabilecek olandır.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rusların t'yi s diye okuması",
+      "entry_id": "29953414",
+      "author": "balikuv desem yeridir",
+      "date": "27.08.2012 02:25",
+      "content": "http://2.bp.blogspot.com/…455_5578735_2064897_n.jpg",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rusların t'yi s diye okuması",
+      "entry_id": "177882436",
+      "author": "kaderini silip bastan yazan adam",
+      "date": "26.08.2025 17:11",
+      "content": "ts diye bir harf olması kaynaklıdır. mesela \"rus çarı\" ifadesindeki çar, aslında rusça'da \"tsar\"dır. ya da mesela türkiye \" turtsiya\" olarak söylenir rusça'da.\n\nu harfini düşünün. sağ altında kuyruk gibi bir çıkıntı var bu harfte.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rusların t'yi s diye okuması",
+      "entry_id": "177882749",
+      "author": "madeingod",
+      "date": "26.08.2025 17:29",
+      "content": "h'leri g olarak okumaları kadar enteresan olmayan olaydır.\nharry potter'a \"geri potır\", hamburger'e \"gamburger\" dediklerinde bi gülme gelmiyor değil.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rusların t'yi s diye okuması",
+      "entry_id": "177883083",
+      "author": "acemi zampara",
+      "date": "26.08.2025 17:45",
+      "content": "diye bir şey yoktur.\n\nt'yi t diye okurlar.\n\n“tse” harfi vardır, onu tse diye okurlar.\n\ntse harfini bizim çok bilmişler de “ç” diye okur.\n\nmesela lev troçki değil, lev trotskiy.\nmesela çe-se-ka / çeska moskova değil, tse-es-ka moskova.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

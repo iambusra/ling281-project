@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:13:59.838807",
+    "total_entries": 1,
+    "input": "yazarların suriyelilerle yaşadığı kötü deneyimler",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "yazarların suriyelilerle yaşadığı kötü deneyimler",
+      "entry_id": "125730471",
+      "author": "penelope pussycat",
+      "date": "15.07.2021 00:32",
+      "content": "üniversitedeki suriyeli arkadaşla aynı dersten kalmışlığımız var.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "HUMAN",
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

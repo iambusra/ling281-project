@@ -1,0 +1,48 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:42:37.963895",
+    "total_entries": 3,
+    "input": "hakkari'ye yerleşen 970 suriyeli'nin amacı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "hakkari'ye yerleşen 970 suriyeli'nin amacı",
+      "entry_id": "59837081",
+      "author": "beyazsaclicocuk",
+      "date": "10.04.2016 08:37",
+      "content": "(bkz: yeni hakkari)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "hakkari'ye yerleşen 970 suriyeli'nin amacı",
+      "entry_id": "59837111",
+      "author": "niktir et nicktir de olur",
+      "date": "10.04.2016 08:44",
+      "content": "ya avrupa ya terör örgütü demişlerdir",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "hakkari'ye yerleşen 970 suriyeli'nin amacı",
+      "entry_id": "59837146",
+      "author": "mgydos",
+      "date": "10.04.2016 08:52 ~ 13.04.2016 06:57",
+      "content": "desenize hakkari küçük bir ortadoğu simülasyonu haline geldi.\nbir 10 sene sonra hakkari kendi içinde 20ye felan bölünür artık.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

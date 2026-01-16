@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:29:55.583704",
+    "total_entries": 1,
+    "input": "hatay'ın ruslara bırakılması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "hatay'ın ruslara bırakılması",
+      "entry_id": "56475696",
+      "author": "j000ker",
+      "date": "24.11.2015 18:03",
+      "content": "\"hatay'ı sen en başında yaptın\" dedirtir.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

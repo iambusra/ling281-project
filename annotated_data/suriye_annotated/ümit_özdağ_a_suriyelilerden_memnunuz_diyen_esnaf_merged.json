@@ -1,0 +1,26 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:13:38.911328",
+    "total_entries": 1,
+    "input": "ümit özdağ'a suriyelilerden memnunuz diyen esnaf",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ümit özdağ'a suriyelilerden memnunuz diyen esnaf",
+      "entry_id": "145585125",
+      "author": "entube demokrat",
+      "date": "26.11.2022 16:47",
+      "content": "bir oryantalin bir diğer oryantale fikir beyan etmesi olayı.\n\nhangi filmdi hatırlamıyorum, \"batı'da kısa, doğu'da uzun bıyıklılardan uzak duracaksın\" minvalinde bir söz vardı. suriyelilerin memleketlerine gönderilmelerini istiyorum. başta zaten oryantasyon süreci işletilmeden sınırdan her geçeni kabul ederek hata yaptılar. bize adapte olacakları ve hatta öteye taşıyabileceklere kapımızı açmamız gerekir. öteye taşıyacaklar derken bu suriyeliler olmazsa ekonomimiz çöker tadında olmamalı, bilimden bahsediyorum. öte yandan ümit özdağ'ın zihniyeti de pek parlak bir zihniyet değil. bir diğerini ötekileştirmek üzerine kurulu zihniyet yapısı, suriyeliler olmasa kürtlere, kürtler olmasa lazlara, lazlar olmasa başka bir şeye takardı zaten...",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE",
+        "POLICY"
+      ]
+    }
+  ]
+}

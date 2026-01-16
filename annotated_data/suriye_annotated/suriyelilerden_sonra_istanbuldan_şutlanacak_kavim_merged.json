@@ -1,0 +1,60 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:57:59.846484",
+    "total_entries": 4,
+    "input": "suriyelilerden sonra istanbuldan şutlanacak kavim",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelilerden sonra istanbuldan şutlanacak kavim",
+      "entry_id": "95372798",
+      "author": "uyusugum ben",
+      "date": "15.09.2019 10:40",
+      "content": "(bkz: morocco)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyelilerden sonra istanbuldan şutlanacak kavim",
+      "entry_id": "95373516",
+      "author": "qurba",
+      "date": "15.09.2019 11:06",
+      "content": "(bkz: lut kavmi)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyelilerden sonra istanbuldan şutlanacak kavim",
+      "entry_id": "95373555",
+      "author": "ghostronaut",
+      "date": "15.09.2019 11:07",
+      "content": "sivaslılar. sivastan çok sivaslı var istanbulda siz hayırdır olm?",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyelilerden sonra istanbuldan şutlanacak kavim",
+      "entry_id": "111300676",
+      "author": "cikletlimannak",
+      "date": "08.08.2020 22:11",
+      "content": "bana bu ülkeden şutlanacak kavim türkler gibi geliyor ama neyse.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    }
+  ]
+}

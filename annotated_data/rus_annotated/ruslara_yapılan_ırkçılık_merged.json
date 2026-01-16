@@ -1,0 +1,76 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:29:19.389317",
+    "total_entries": 5,
+    "input": "ruslara yapılan ırkçılık",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ruslara yapılan ırkçılık",
+      "entry_id": "134460842",
+      "author": "sezilmis kisi",
+      "date": "03.03.2022 17:02",
+      "content": "bu ukrayna savaşı bana gösterdi ki çomarlık sadece türkiyede olan bir şey değilmiş. koca koca şirketler, o medeni batı; rusya ile ilgili her şeyi cezalandırmaya çalışıyor. hükümete yaptırım uygularsın anlarım da alakasız suçsuz günahsız insanların ne suçu var yahu? tüm benliğimle tiksindim bu dünyadan.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY",
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "ruslara yapılan ırkçılık",
+      "entry_id": "134460923",
+      "author": "kisaltmakablosu",
+      "date": "03.03.2022 17:04 ~ 17:20",
+      "content": "daha düne kadar beşyüz yıllık kürt komşusuna selam vermeyen insanların, neredeyse savaşın başından beri hükümetini protesto eden rus halkına yaptığı ırkçılıktır.\n\naynı durumda türkiye bir ülkenin sınırlarına tecavüz etse, hiçbirinde hükümetini eleştirecek göt de bulunmamaktadır.\n\nedit:''selam vermediğimiz kürt komşumuz olmadı'' diyorsan lafı üzerine alınmana da gerek yok. bu laf sana dokunduysa eğer yalan söylüyorsun.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY",
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "ruslara yapılan ırkçılık",
+      "entry_id": "134461042",
+      "author": "ubersonic",
+      "date": "03.03.2022 17:08",
+      "content": "ırkçılığın ona buna yapılanına değil de ırkçılığa komple karşı olunması gerektiğini herkes bir gün anlar umarım. ama görünen o ki ekşi de ülke de dünya da bu seviyeden çok uzak.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POLICY",
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "ruslara yapılan ırkçılık",
+      "entry_id": "134461056",
+      "author": "sportmance",
+      "date": "03.03.2022 17:08",
+      "content": "yukarıdaki asalağa söyleyin bizim selam vermediğimiz kürt komşumuz olmadı",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ruslara yapılan ırkçılık",
+      "entry_id": "134461110",
+      "author": "galgamess",
+      "date": "03.03.2022 17:10",
+      "content": "(bkz: no racism)",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POLICY",
+        "HUMAN"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:11:17.213457",
+    "total_entries": 3,
+    "input": "ukrayna'ya gidip belfast'ta bırakılan sevgili",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukrayna'ya gidip belfast'ta bırakılan sevgili",
+      "entry_id": "2870079",
+      "author": "melyche",
+      "date": "27.05.2003 11:50",
+      "content": "uzun bacaklı beyaz tenli mavi gözlü bir kız uğruna bırakılan kızıl dalgalı saçlı çilli yeşil gözlü sevgili.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL",
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "ukrayna'ya gidip belfast'ta bırakılan sevgili",
+      "entry_id": "13344728",
+      "author": "vorpal",
+      "date": "28.05.2008 11:01",
+      "content": "(bkz: bunu yazan insan olamaz)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE"
+      ]
+    },
+    {
+      "title": "ukrayna'ya gidip belfast'ta bırakılan sevgili",
+      "entry_id": "18937914",
+      "author": "okuz",
+      "date": "03.05.2010 23:10",
+      "content": "belfast boktan bir yer oldugundan ve de irlandali kizlar genelde pek de guzel olmadigindan irlandali'nin birakilmasi normaldir.\nbir de belfast'ta takilirken dikkat etmek lazim.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    }
+  ]
+}

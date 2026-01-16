@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:11:08.377040",
+    "total_entries": 2,
+    "input": "ukrayna'ya seks için gitmek",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukrayna'ya seks için gitmek",
+      "entry_id": "30931764",
+      "author": "habara gubere",
+      "date": "13.11.2012 21:42",
+      "content": "(bkz: ya ne olacağıdı)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'ya seks için gitmek",
+      "entry_id": "31287100",
+      "author": "rubickcuku",
+      "date": "12.12.2012 16:47",
+      "content": "okula ders için gitmekten farkı olmayan hede",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

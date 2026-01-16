@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:33:04.042414",
+    "total_entries": 1,
+    "input": "rusların artık uçak yapamaması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rusların artık uçak yapamaması",
+      "entry_id": "158987398",
+      "author": "kurdoglu muslihiddin reis",
+      "date": "21.11.2023 12:15 ~ 12:20",
+      "content": "bir ülkeyi mafya sistemi ele gecirirse, sonuc bu olur. benzer bir durum yine ıtalyan larin basina geldi ve ıtalyan lar üstün gemi ve makina teknolojilerinden uzaklasiyorlar.\n\n1960-70 larda uzaya cikmaya calisan bir ülke, mafya düzenin sonucu ucak yapamaz hale geldi. edindigim bilgilere göre, bazi ucaklarini tamir ettirmek icin türkiye ye gönderiyorlarmis. cünkü malzeme bulamiyorlar.\n\ndevlete ait ucak sirketlerini mafya el koymus ve karibik gibi adalara tasimis ve teknoloji üreten sirketi bitirme noktasina getirmisler. rusya teknolojinin her alaninda geri kaldi ve artik yeni ucak modelleri üretemiyorlar.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CRIME",
+        "POLICY"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:29:21.904968",
+    "total_entries": 2,
+    "input": "ruslara antitb2 satmak",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ruslara antitb2 satmak",
+      "entry_id": "134382333",
+      "author": "hergelemimar",
+      "date": "01.03.2022 21:34",
+      "content": "herkesin savaş ve strateji dehası olduğu bu günlerde bir parlak fikir de benden gelsin. evet bayraktar tb2 leri ukrayna'ya sattıktan sonra anti-tb2 avcı dronları da ruslara satacaz böylece hem para kazanıp hem ruslarla aramızı iyi tutarak rus tehtidini yok edeceğiz.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "ECON",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "ruslara antitb2 satmak",
+      "entry_id": "134382548",
+      "author": "dynamicrange",
+      "date": "01.03.2022 21:38",
+      "content": "bir sonraki hamlenin (bkz: ukrayna'ya tb3 satmak) olacağı strateji",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    }
+  ]
+}

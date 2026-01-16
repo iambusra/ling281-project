@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:13:05.378176",
+    "total_entries": 1,
+    "input": "türkler suriyelilerden daha fazla suç işliyor",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türkler suriyelilerden daha fazla suç işliyor",
+      "entry_id": "92269481",
+      "author": "berkalettin",
+      "date": "07.07.2019 12:02",
+      "content": "über bakan açıklaması.\n\nhe tamam o zaman. herkes suç işlesin, normalleştirelim.\n\nadam içişleri bakanı bize şikayet ediyor. napak kanka biz mi yakalayak?",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "CRIME"
+      ]
+    }
+  ]
+}

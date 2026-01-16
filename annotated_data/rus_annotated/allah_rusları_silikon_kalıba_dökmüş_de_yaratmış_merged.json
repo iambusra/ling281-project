@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:28:42.965254",
+    "total_entries": 1,
+    "input": "allah rusları silikon kalıba dökmüş de yaratmış",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "allah rusları silikon kalıba dökmüş de yaratmış",
+      "entry_id": "19477373",
+      "author": "colorwind",
+      "date": "22.06.2010 21:30",
+      "content": "\"ama göğüs vermeyi unutmuş\" diye devam ettirilebilecek söz öbeği",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

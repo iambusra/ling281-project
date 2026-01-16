@@ -1,0 +1,73 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:08:53.033346",
+    "total_entries": 5,
+    "input": "ukraynaya gönüllü savaşmaya gitmek",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukraynaya gönüllü savaşmaya gitmek",
+      "entry_id": "149915704",
+      "author": "erectorspina",
+      "date": "03.03.2023 00:18",
+      "content": "türkiye sınırlarında ukrayna’ya savaşmaya gidene kadar, hatay’a yemek dağıtmaya gitmenin daha doğru olduğu durum.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "ukraynaya gönüllü savaşmaya gitmek",
+      "entry_id": "149996633",
+      "author": "shadow811111",
+      "date": "05.03.2023 00:00",
+      "content": "enayiliktir, savaşlar başkalarının çıkarları içindir, bazıları viskisini içerken bu kişilerin ölümünü zevkle izleyecektir",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "ukraynaya gönüllü savaşmaya gitmek",
+      "entry_id": "149997040",
+      "author": "sanyu mete",
+      "date": "05.03.2023 00:07",
+      "content": "amerika için canını feda etmek isteyen enayi varsa gidebilir. abd için cephede ölen askerlerin önemi yok. onların amacı rakip olarak gördükleri rusya doğal kaynakları ile avrupa teknolojisinin bir araya gelmesini engellemekti. yaklaşık 3 sene önce macron avrupa ordusu kuracağız diyordu. fransa ve almanya rusya ile ilişkilerini geliştiriyordu. abd ukrayna'yı nato'ya almak için çalışmalar başlattı. ukrayna'yı luhansk ve donestsk'e operasyon konusunda cesaretlendirdi ve kışkırttı. minsk protokolünü çiğnedi. tüm bunların sonunda rusya ukrayna'ya saldırmak zorunda kaldı. abd bu adımları atmasa rusya saldırmayacaktı. şu an savaş var ve bu savaş abd'ye yarıyor. hem rusya'yı zayıflatıyor hem de avrupa’yı askeri ve politik anlamda tekrar tesir altına aldı. bu uğurda ölmek isteyen enayi varsa hiç durmasın gitsin.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "ukraynaya gönüllü savaşmaya gitmek",
+      "entry_id": "149997322",
+      "author": "swinger partisinde iddaa oynayan adamm",
+      "date": "05.03.2023 00:12",
+      "content": "gitmen için sana güzel bir video",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukraynaya gönüllü savaşmaya gitmek",
+      "entry_id": "173479332",
+      "author": "nerden geldin nereye gidiyon ey yolcu",
+      "date": "10.03.2025 18:49 ~ 19:02",
+      "content": "şunu açık dile getireyim.küresel bir savaş olsun.buradaki bordo klavyelilere bakmayın.kurtuluş savaşındaki hadise olur.imkanı olan veya olmayanın yarısı topuklar.\n\nbelli bir kısımda eşkiyalık ve yağmaya çıkar.",
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "POLICY",
+        "CRIME"
+      ]
+    }
+  ]
+}

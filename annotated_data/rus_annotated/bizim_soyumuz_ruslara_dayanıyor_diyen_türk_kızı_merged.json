@@ -1,0 +1,61 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:30:03.409461",
+    "total_entries": 4,
+    "input": "bizim soyumuz ruslara dayanıyor diyen türk kızı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "bizim soyumuz ruslara dayanıyor diyen türk kızı",
+      "entry_id": "27101603",
+      "author": "altaygoguz",
+      "date": "22.01.2012 19:56 ~ 29.07.2014 11:23",
+      "content": "\"türk kızları gitsin rus kızları gelsin\" lafından çok etkilenmiştir belli ki.\n\nedit: eskiden üst taraflar hep entry'di. kim açtı bu başlığı? valla ben açmadım hocam",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "bizim soyumuz ruslara dayanıyor diyen türk kızı",
+      "entry_id": "27101656",
+      "author": "aero dynamik",
+      "date": "22.01.2012 20:01",
+      "content": "soydaşlarının yıllardır ücreti mukabilinde ruslara dayadığını farketmiş kişi.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "ECON"
+      ]
+    },
+    {
+      "title": "bizim soyumuz ruslara dayanıyor diyen türk kızı",
+      "entry_id": "27101804",
+      "author": "deepcrimson",
+      "date": "22.01.2012 20:14",
+      "content": "- bizim soyumuz ruslara dayanıyor,\n+ öyle mi? şu biscolata reklamı var ya, ordaki çocuklar hep benim kuzen.\n- hadi ya?\n+ baklavalar bizde doğuştan hatta.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "bizim soyumuz ruslara dayanıyor diyen türk kızı",
+      "entry_id": "27101822",
+      "author": "agrali miles",
+      "date": "22.01.2012 20:15",
+      "content": "bolşevik ihtilali nde istanbul'a sığınan ve bazı kaynaklara göre sayı olarak 150 bini (hatta daha fazlasını da duydum ama inandırıcı gelmiyor) bulduğu iddia edilen rus göçmenlerin soyundan gelen bir kız olabilir.\n\n(bkz: haraşo)\n\nnot: bu tezi bir kaç sene önce ilk babamdan duyduğumda, dalga geçerek babama \"o zamanda bu kadar rus geldi ise şimdi neredeler, istanbul sokakları sapsarı insanlarla dolu olmalıydı şu an\" dedirtse de, şimdi düşününce rakam olarak biraz abartılı olması yanında bir haklılık payı olabilir diyorum.",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "XENO"
+      ]
+    }
+  ]
+}

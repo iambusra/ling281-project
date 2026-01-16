@@ -1,0 +1,323 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:40:11.812428",
+    "total_entries": 22,
+    "input": "askerin suriyelilere mazot içirmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "askerin suriyelilere mazot içirmesi",
+      "entry_id": "150455627",
+      "author": "haydaaa3aile",
+      "date": "18.03.2023 20:27",
+      "content": "hudut karakolunda gerçekleşen işkence olayıdır. 11 mart'ta sınırdan geçerek türkiye'ye giren 2'si çocuk 8 suriyeli jandarma tarafından yakalanıp işkence görmüş; hatta askerler bunlara zorla mazot içirmiş. yaşadıkları ağır işkence sonucu 2 kişi hayatını kaybetmiş, 3 asker \"insan öldürme\" suçlamasıyla tutuklanmış.\nhaberin kaynağı\nben inanmamak için bahane arıyorum. o yüzden solcu bir haber sitesine inanmam diyenler için ek kaynak\nbir süre önce okuduğum bir raporda sınırı geçmeye çalışan düzensiz göçmenlerin askerler tarafından yakalanıp işkence gördüklerine dair anlatılar vardı. yani bu kesinlikle münferit bir olay değil. bu konuda sıkı bir denetim yapılıp işkenceye bulaşan ve buna göz yuman polis, asker herkesin en ağır şekilde cezalandırılması lazım.",
+      "referenced_content": [],
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CRIME",
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "askerin suriyelilere mazot içirmesi",
+      "entry_id": "150455754",
+      "author": "kerami",
+      "date": "18.03.2023 20:31",
+      "content": "hayırdır inşallah? yoksa kazaara sınırlarımızı korumaya mı başladık?\n\nbaşımıza taş yağacak.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "askerin suriyelilere mazot içirmesi",
+      "entry_id": "150455893",
+      "author": "manasi olmayan vatandas",
+      "date": "18.03.2023 20:36",
+      "content": "kaynağı görünce şüpheye düştüğüm haber. bir an için bahis sitesi biabet sandım.\n\numarım gerçek değildir.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "askerin suriyelilere mazot içirmesi",
+      "entry_id": "150456081",
+      "author": "elineverensihirbaz",
+      "date": "18.03.2023 20:42",
+      "content": "(bkz: yalancıyı sikmiyolar ya)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "askerin suriyelilere mazot içirmesi",
+      "entry_id": "150456201",
+      "author": "benimkadarmibiliyonuz",
+      "date": "18.03.2023 20:47 ~ 20:47",
+      "content": "ulan asker arabasına koyacak mazot bulamıyor,\nsınırdan kaçak geçenlere mi içirecek.\namk yalan haber yapıyorsunuz bari üsturuplu atın.\nbok yedirdi falan yazsaydınız.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "askerin suriyelilere mazot içirmesi",
+      "entry_id": "150456220",
+      "author": "diktaturk",
+      "date": "18.03.2023 20:48 ~ 20:48",
+      "content": "sayın romalılar lütfen (bkz: dont feed troll)\nbunu ben yazarak sizi uyardım. şimdi sizde buna uyarak başlığı öne çıkartmayın. küfürleri özelden iletebilirsiniz.\nkaynakça da (bkz: haksöz haber)? ve (bkz: bianet) bu başlığı feedlemek yerine bu başlıklara küfürleri yazınız. (bkz: kaynakça olarak bianet vermek).",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "askerin suriyelilere mazot içirmesi",
+      "entry_id": "150456240",
+      "author": "destiny is all",
+      "date": "18.03.2023 20:48",
+      "content": "işkence insanlık suçudur ve sadece insan olan karşısında durur.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CRIME",
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "askerin suriyelilere mazot içirmesi",
+      "entry_id": "150456351",
+      "author": "1den",
+      "date": "18.03.2023 20:52",
+      "content": "az yapmışlar. yiğitlerin eline sağlık.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "askerin suriyelilere mazot içirmesi",
+      "entry_id": "150456355",
+      "author": "bavulu hazir adam",
+      "date": "18.03.2023 20:52",
+      "content": "gerçek olsa ne fark eder? konya'da askerlik yaptım. doğu'da, sınırda ne kadar pisliğe batmış, kafayı kırmış adam varsa yanımıza sürüyorlardı.\n\ngelenler hep anlatıyordu suriyeliler'e şunu yaptık, bunu yapanı gördük, kolunu bacağını kırdık vb. kafatasını kırana kadar kafasına dipçik indirdiğini anlattı bize. kemiği görünene kadar bacağına balta indirdikleri suriyeliyi anlattılar.\n\nbu olay gerçek mi bilmem ama bunu yapmış olsalar garipsemem, gerçekten olmuş olabilir derim. çünkü gelenlerin neler anlattığını bizzat dinledim, nasıl videolar, fotoğraflar çektiklerini gözlerimle gördüm.\n\nha, iyi mi olmuş? bana ne amına koyayım. ölenlerin çocuk olmalarına üzülüyor muyum? hayır tabiki. çocuk dedikleriniz kaç insanın canını yaktı, kalbine bıçak sapladı, kaç kıza tecavüz etti türkiye'de haberiniz var mı? gözlerinizi kapatıp başka yöne baktığınızı görmesem hayır derim ama yine söylüyorum, bana ne amına koyayım.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "CRIME",
+        "XENO"
+      ]
+    },
+    {
+      "title": "askerin suriyelilere mazot içirmesi",
+      "entry_id": "150456527",
+      "author": "chemsuk",
+      "date": "18.03.2023 20:57",
+      "content": "yavaş yavaş surî mağduriyeti üzerine oynanacak demek ki.\n\nsınırları koruyasımız mı geldi acaba birden?\n\nseçimi ikinci tura bırak, araya da suriyeliler ile iç çatışma çıkar, geçen seçim senaryonun laciverti.\n\nolan propaganda adına masum insanlara oluyor.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "askerin suriyelilere mazot içirmesi",
+      "entry_id": "150456993",
+      "author": "mynameisvictory",
+      "date": "18.03.2023 21:12",
+      "content": "vardır askerimin bir bildiği.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "askerin suriyelilere mazot içirmesi",
+      "entry_id": "150492971",
+      "author": "yapaysayi",
+      "date": "19.03.2023 23:02 ~ 25.03.2023 20:11",
+      "content": "o suriyeliler başka ülkeye girmeye çalışmamalıydı yani o zaman böyle bir olay yaşanmazdı. tabiki de yapılan(eğer haber doğru ise) kabul edilemez. işkence suçtur. yakalanan kaçak göçmenler geri postalanmalı. edit: haberin kaynaklarına bakarsak bence yalan haber.\nedit: portekizli forvet bu entry üzerinden tehdit etmiş. seni çaylak yaptırırım diye. bu entryde eğer yaşandıysa mazot içirilme olayı övülmüyor. böyle büyük bir göç sorunu olduğu sürece böyle acı olayların kaçınılmaz olduğu söyleniyor. bu portekizli forvet'te de ne suriyeli sevdası varmış.\nböyle olayları savunmuyorum ama ülkemde de kaçak göçmen istemiyorum. ve bunu söylemenin cezası çaylak yapılmak mı? yok artık.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "askerin suriyelilere mazot içirmesi",
+      "entry_id": "150493226",
+      "author": "bugido",
+      "date": "19.03.2023 23:09",
+      "content": "amına kodum surileri, hep masraf yavşaklar, mazotun litresi 20 lira amk.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "askerin suriyelilere mazot içirmesi",
+      "entry_id": "150493281",
+      "author": "dieser",
+      "date": "19.03.2023 23:11",
+      "content": "askerin yakasından elini çekmeyenin elini keseriz.\nyalan bir provokasyon haberi.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "askerin suriyelilere mazot içirmesi",
+      "entry_id": "150493615",
+      "author": "hacara",
+      "date": "19.03.2023 23:20 ~ 23:21",
+      "content": "burada görüldüğü üzere suriyeliler hükümet yetkililerin ve veya suri aşıklarının söylemlerine kanıp türkiye'ye kesinlikle gelmemeli dedirtmiştir.\n\ninsanlar çıldırma noktasında. her an infial olabilir. siz suriler ve onları sevenler iyisi mi arap ülkelerine gidin. aynı dil aynı kültür geçinip gidersiniz. hem arap ülkeleri zengin de.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "askerin suriyelilere mazot içirmesi",
+      "entry_id": "150493798",
+      "author": "otuzuc karakterli nicki olan adam",
+      "date": "19.03.2023 23:25",
+      "content": "sınırdan geçene kimsenin bir şey dediği var mı hakikaten? ülkeye (bkz: ne olursan ol) giriş serbest değil mi?\n\nbunlar suriye'ye geçmek mi istediler acaba? ülkeden çıkış yasak olabilir bilmiyorum o kısmını.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "askerin suriyelilere mazot içirmesi",
+      "entry_id": "176350309",
+      "author": "acemiipcambazi",
+      "date": "26.06.2025 16:20 ~ 16:22",
+      "content": "\"ölenlerden birini karakolun hurdalık alanında toprağa gömmüşler\"\n\n-hatay’ın reyhanlı ilçesindeki bir jandarma karakolunda, sınırı geçmeye çalışan suriyeli sığınmacılara yönelik vahim bir işkence olayı ortaya çıktı. 9 göçmen, karakolda saatler süren sistematik işkenceye maruz kaldı; iki kişi hayatını kaybetti. biri karakolun hurdalığında toprağa gömüldü, diğeri çuval gibi deport merkezinin önüne atıldı. olayla ilgili 22 asker hakkında dava açıldı; aralarında karakol komutanlarının da olduğu 4 asker, iki kez müebbet hapis cezasına çarptırıldı. askerler her şeyi itiraf etti.\nhttps://www.gazetepencere.com/…ga-gommusler-663778h",
+      "referenced_content": [],
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CRIME",
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "askerin suriyelilere mazot içirmesi",
+      "entry_id": "176351333",
+      "author": "unutulmustanri",
+      "date": "26.06.2025 17:07 ~ 17:24",
+      "content": "(#176350309) şu entryde entryde geçen haber linki\nhaberin içeriğinde defalarca \" üzerine işediler \" ifadesi geçiyor haliyle bu standartlaşmış işkence kalıbından kaynaklı yine mi \"işediler\" \"cumaya gelir mi görüntüler\" demeden edemedim. ne işeme fantezisiymiş anlamadım gitti. freudyen yaklaşımla açıklayan var mı? neden bu kadar buna saplantılılar?\naskerlerin sınırları koruması kadar doğal bir şey yok lakin psikolojisi aşırı bozuk insanların, şiddet eğilimlilerin çok rahat kamufle olabildiği bir meslek askerlik. şayet haber doğruysa keyif alınan bir dizi şiddet uygulamasının savunulur yani yok. dur ihtarına uymamış kaçağı vursa zerre takılmam, üzülmem, sınırından da kimse gecemesin yani.. ama buradaki iddia öyle değil.\numarim doğruluk payı yoktur.\nedit: haberde dava sonucuna ilişkin verilen cezalar da isimler de belirtiliyor, teyit edemediğim için iddia olarak yazmayı yegledim.\n\ngörsel",
+      "referenced_content": [
+        {
+          "type": "entry",
+          "title": "askerin suriyelilere mazot içirmesi",
+          "entry_id": "176350309",
+          "author": "acemiipcambazi",
+          "date": "26.06.2025 16:20 ~ 16:22",
+          "content": "\"ölenlerden birini karakolun hurdalık alanında toprağa gömmüşler\"\n\n-hatay’ın reyhanlı ilçesindeki bir jandarma karakolunda, sınırı geçmeye çalışan suriyeli sığınmacılara yönelik vahim bir işkence olayı ortaya çıktı. 9 göçmen, karakolda saatler süren sistematik işkenceye maruz kaldı; iki kişi hayatını kaybetti. biri karakolun hurdalığında toprağa gömüldü, diğeri çuval gibi deport merkezinin önüne atıldı. olayla ilgili 22 asker hakkında dava açıldı; aralarında karakol komutanlarının da olduğu 4 asker, iki kez müebbet hapis cezasına çarptırıldı. askerler her şeyi itiraf etti.\nhttps://www.gazetepencere.com/…ga-gommusler-663778h",
+          "has_external_url": true
+        }
+      ],
+      "referenced_entry_ids": [
+        "176350309"
+      ],
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "askerin suriyelilere mazot içirmesi",
+      "entry_id": "176351391",
+      "author": "bugununisiniyarinabirakanadam",
+      "date": "26.06.2025 17:10",
+      "content": "mehmetcigimize gecmis olsun umarim bu yanlis karardan donulur",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "askerin suriyelilere mazot içirmesi",
+      "entry_id": "176351403",
+      "author": "drakigns",
+      "date": "26.06.2025 17:11 ~ 17:13",
+      "content": "polonya gibi sınırlarımızı savunmak yerine orta doğu usulü savunmaya kalkınca böyle bir sahne olmuş. işkence niye? sınırdan geçmeye kalkana kurşunu yağdırırsın olur biter. kaçıncı yy dayız…\n\nbu golden shower olayı da islamcıların en büyük fantezisi sanıyorum. sürekli bir işeme durumu sorsan bira da içmiyorlar(bkz: swh)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "askerin suriyelilere mazot içirmesi",
+      "entry_id": "176351994",
+      "author": "eyfel i satin alan hurdaci",
+      "date": "26.06.2025 17:41",
+      "content": "kaçak geçiş tespit ediyorsan ve yetkin varsa (ki bence olmalı) basarsın mermiyi, öldürürsün. cenaze madde döngüsüyle yok olur vurulduğu yerde. lakin işkence insanlık suçudur ve kimseye yapılmamalıdır. bu sebeple aldıkları ceza çok yerinde .",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "XENO",
+        "CRIME"
+      ]
+    },
+    {
+      "title": "askerin suriyelilere mazot içirmesi",
+      "entry_id": "176351999",
+      "author": "imdattchekici",
+      "date": "26.06.2025 17:41 ~ 17:46",
+      "content": "gerçek bir türk askerinin böyle bi şey yapmayacağına yemin edebilirim, kimse kusura bakmasın ben böyle bi şeye gözümle görsem inanmam. ama diyelim ki bunu o konumda birisi yaptı. o da, yine türk askeri değildir. ya türk askerinin ve türk ordusunun itibarını lekelemek isteyen cani bir pkk'lı orospu çocuğudur, ya da yine türk askerinin ve türk ordusunun itibarını lekelemek isteyen cani bir cihatçı orospu çocuğudur. ya da her ikisi birdendir (biliyosunuz onlardan da çok türedi!) her iki türlü de kanı bozuktur, teröristir!\n\nölenlere rağmen diliyorum..",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

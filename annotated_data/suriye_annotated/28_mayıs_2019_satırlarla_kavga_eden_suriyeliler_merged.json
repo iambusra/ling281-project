@@ -1,0 +1,1935 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T15:29:51.496482",
+    "total_entries": 151,
+    "input": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90610940",
+      "author": "denizbilimci",
+      "date": "28.05.2019 12:54",
+      "content": "bu sokak itleri burada birbirlerini kesedursun ordumuz bu yavşakların vatanını kurtarmak için canını veriyor.\nhttps://www.ensonhaber.com/…inda-satirli-kavga.html",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90611042",
+      "author": "dumuraci",
+      "date": "28.05.2019 12:57",
+      "content": "ensar kardeşlerim yapmayın",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90611196",
+      "author": "misskokuluturta",
+      "date": "28.05.2019 13:01 ~ 14:01",
+      "content": "gta ıstanbulcity\nkod: syriantools\nkeşke şunları topluca şutlama kodu da olsa...\nalttaki entry'e ithafen edit: insan olana kapımız sonuna kadar açık. yarın bir gün biz de aynı durumda olabiliriz. ama ben tutup da sığınmacı olduğum bir ülkede taşkınlık çıkarmayı bırak, en ufak bir rahatsızlık bile vermeye çekinirim. din kardeşiymiş, aynı gemiymiş geçiniz bunları...",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90611367",
+      "author": "monreve",
+      "date": "28.05.2019 13:06",
+      "content": "suriyeli kardeşlerini pek sevenler bi zahmet hastaneye ziyaretlerine gitsin. bi eksikleri var mı yok mı sorsun..",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90611498",
+      "author": "kofagoba",
+      "date": "28.05.2019 13:11",
+      "content": "ne hikmetse bu dünyada tüm müslümanlar bizim din kardeşimiz oldu da biz kimsenin din kardeşi olamadık. o yüzden yiyin birbirinizi ete para vermeyin.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90611584",
+      "author": "attan dusen inek",
+      "date": "28.05.2019 13:13",
+      "content": "şu ülkenin haline bak. dışarıdan bakan için tipik bir ortadoğu ülkesi, biraz pakistan belki afganistan. çok yazık halimize çok. daha iyi günlerimiz.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90611606",
+      "author": "jogolet",
+      "date": "28.05.2019 13:14",
+      "content": "o değil dd beşar esad nasıl iteledi bu kadar adamı bize hayret ediyorum.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90611614",
+      "author": "feberman",
+      "date": "28.05.2019 13:14 ~ 13:15",
+      "content": "(bkz: getir) oraya bile gitmiş. viral reklam yapsa bu kadar olur. 3-5 saniye yer alsa tam olurmuş",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90611617",
+      "author": "nordka",
+      "date": "28.05.2019 13:14",
+      "content": "karadeniz çomarı, iç anadolu çomarı, doğu anadolu çomarından hiçbir farkı olmayan suriyeli.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90611690",
+      "author": "ozzyciftsifir",
+      "date": "28.05.2019 13:17",
+      "content": "sözlükte iktidar güzellemesi yapan, haysiyetsiz aktrollerin ve bize \"yatacak yeriniz yok\" diyen sevgili hümanist sözlük yazarının evine 3-5 tane bunlardan yerleştireceksin.\nonlar konuşup, anlaşıp, beyin fırtınası yapıp sorunu çözecekler.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90611695",
+      "author": "kafdagininarkasi",
+      "date": "28.05.2019 13:17 ~ 13:19",
+      "content": "ulan hala ulkeleri zor durumda muhabbeti yapanlar var. bayram icin kac bin suriyeli ulkelerine tatile gitti haberiniz var mi? ulke zordaysa kimse oraya tatile falan gitmez. defolup gitsinler ulkelerine hepsi. yeter benim askerimin bu pislikler icin oldugu. ulkemde suriyeli istemiyorum. ulkemde huzur istiyorum. gitsinler kendi ulkelerinde oldursunler birbirlerini. yeter artik be.\n\nedit: imla.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90611793",
+      "author": "ne kodun lan kafaa",
+      "date": "28.05.2019 13:20",
+      "content": "goril gibi herifler ülkeleri için ülkelerinde bu kavgayı edeceğine, burada yedikleri fazla küspelerden kudurup azmışlardır. din kardeşim tabi gelicek gibi yalakalık yapanlar alıp evlerinde beslesinler, eş ve kızları hizmet etsin bu kardeşlerine.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90611838",
+      "author": "pek bi gercekci hanim",
+      "date": "28.05.2019 13:22",
+      "content": "arap sevici, suriyeli karı düşkünü adamlarımızı üzmüş olaydır.\n\nsatır ne ki ya, baltayla kessinler birbirlerini umrumda değil. gebersin it dölleri.\n(bkz: itleri tenzih ediyorum yanlış anlaşılmasın)",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90611845",
+      "author": "samvaroll",
+      "date": "28.05.2019 13:22",
+      "content": "videoya baktığımda kavgayla alakası olmayanlar haricinde nefes alıp veren bütün varlıkların acilen yok olması gerektiğini düşündüğüm olay.\n\namerikalı da olsalar, çinli de olsalar, fransız da olsalar aynı şeyi düşünürdüm.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90611846",
+      "author": "yok be olum",
+      "date": "28.05.2019 13:22",
+      "content": "anasını siktiniz ülkenin arapça tabelalar, ellerinde satırla gezeni, kafa kesecem abey diyeni... bu amına koduğumun arap sevici, gerici zihniyet yüzünden arpa boyu kadar ilerleyemiyoruz.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90611895",
+      "author": "aman da amann",
+      "date": "28.05.2019 13:23",
+      "content": "ötede oynayın .",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90611909",
+      "author": "atvh",
+      "date": "28.05.2019 13:24",
+      "content": "et ve göt beleş bunlara.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90611919",
+      "author": "paleoantropolog",
+      "date": "28.05.2019 13:24",
+      "content": "şu olayları görülüp hala sınır dışı edilmiyorsa yuh!",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90611944",
+      "author": "exelancedj",
+      "date": "28.05.2019 13:24 ~ 13:25",
+      "content": "ilk ortaokul düzeyinde olan suriyeli çocukların ne kadar burada bakım ve eğitimlerinin karşılanmalarını istiyorsam şu müsveddelerin kendi çöplüklerine gönderilmelerini de o kadar çok istiyorum. başımıza bela ettiniz bu piçleri ağalar, umarım çoluğunuza çocuğuna sararlar da siz de bu işin zararını görmedik demezsiniz.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90612028",
+      "author": "vercingetorixxi",
+      "date": "28.05.2019 13:26",
+      "content": "https://icdn.ensonhaber.com/…7525469299693a8142.jpg\n\nolm çok iyi foto lan. akp'nin dış siyasetinin özeti bu foto işte. poster yaptırıp asalım her yere...",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90612064",
+      "author": "otoban kedisi",
+      "date": "28.05.2019 13:27",
+      "content": "cyberpunk 2023",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90612066",
+      "author": "yeni bir nick",
+      "date": "28.05.2019 13:27",
+      "content": "bu suriyelelileri savunan ne kadar insan varsa topunu sikmek lazım! alın size suriye!",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90612080",
+      "author": "xevna zaroka",
+      "date": "28.05.2019 13:28",
+      "content": "300 tl için kavga edilmesi türk parasının hala ne kadar itibarlı olduğunu göstermesi açısından önemli.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90612096",
+      "author": "cokzenginbiradam",
+      "date": "28.05.2019 13:28",
+      "content": "malum prti zamanında gerçekleşmiştir.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90612099",
+      "author": "murat tlv",
+      "date": "28.05.2019 13:28",
+      "content": "tayyip içindeyken ya da geçerken dolmabahçe sarayında olmasını istediğim olay.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90612140",
+      "author": "ckitax",
+      "date": "28.05.2019 13:29",
+      "content": "bu amınakodumun yerinde olağan diyen kim varsa, din kardeşimiz diyen kim varsa, sanki biz süperiz yazan kim varsa bu tipler sadece onlara musallat olur inşallah.\nulan savunmak için yazıyorsun, biz zaten alıştık bu suriyelilere, alıştırdınız!\nşimdi sayın amınakodumun 5 milyon gibi bir sayı mülteci değil farklı bir şeydir bak 5 milyon 5!\nsokakta çoluk çocuk rahat gezemiyor. tamam önceden de yaşanıyordu bazı şeyler ama bu piçlerin ahlak eşiği çok daha düşük!\nülkesindeki savaş bitene kadar misafirimiz olacak diyor biri bak bak bak. bayramda git, canın sıkıldığı zaman git ama gel savaş var biz dönemeyiz de, siktir olup gideceksiniz!\nülkede dükkan açacak vergi vermeyecek devletten yardım alacak gidip sağda solda sigortasız bin liraya çalışırım abi diyecek benim gencim işsizlikle boğuşurken plajları basacak ben de ‘olur öyle şeyler’ diyecem.\nsavunan amınakoduklarım siz de gidin din kardeşlerinizle beraber!",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90612142",
+      "author": "hasaynn",
+      "date": "28.05.2019 13:29",
+      "content": "yiyin birbirinizi amın evlatları",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90612153",
+      "author": "cikilops",
+      "date": "28.05.2019 13:30",
+      "content": "umarım birbirlerini kese kese telef olurlar.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90612157",
+      "author": "kayzhershoze",
+      "date": "28.05.2019 13:30",
+      "content": "ülkendeki savaştan kıçına bile bakmadan istanbul’a kaç, gel burda kendi hemşehrine satırla saldır. suriyelilik bunu gerektirir.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90612159",
+      "author": "godzilla firefox",
+      "date": "28.05.2019 13:30",
+      "content": "bir şey değil, iç savaşı buraya taşıyacaklar diye korkuyorum.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90612192",
+      "author": "cok guzel peynirim var abla",
+      "date": "28.05.2019 13:30",
+      "content": "ulan burada satırla birbirinize dalacak cesaretiniz var, kalıp vatanınızı savunacak cesaretiniz yok. vatansız köpekler",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90612261",
+      "author": "yacnut ilnas95",
+      "date": "28.05.2019 13:33",
+      "content": "dünyanın en güzel şehrini bu duruma getirenlerin allah belasını versin",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90612300",
+      "author": "pukltin",
+      "date": "28.05.2019 13:34",
+      "content": "suriyelilerin anasını sik.eyim",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90612473",
+      "author": "geri donen mektup",
+      "date": "28.05.2019 13:40 ~ 13:43",
+      "content": "akp iktidarinin en buyuk basarisidir suriyeli kardesleri.\n\ndurmak yok yola devam recep erdogan yola devam.\n\ntanim: kurdo ve comarolara suriler de eklenince tam bi cennet olmus esenyurt.",
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90612484",
+      "author": "ahizeli telefon",
+      "date": "28.05.2019 13:40",
+      "content": "orası esencılıs men",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90612489",
+      "author": "eksiboza",
+      "date": "28.05.2019 13:40",
+      "content": "suriyeli kardeşlerimiz düşerse biz de düşeriz diyen duyarlı arkadaşım suriyeye daha ne olsun düşmesi için daha ne kadar düşebilirler? inşallah dediğin gibi aynı gemide değilizdir.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90612538",
+      "author": "antiasosyal",
+      "date": "28.05.2019 13:42",
+      "content": "eskiden kürt kökenli insanları sevmezdim bu haberdeki görüntüleri çoğunlukla kürt kökenli eğitimsiz insanlar gerçekleştirirdi, şimdi fazlasıyla arap kökenliler gerçekleştiriyor. ben bu kadar cahil toplum görmedim ayrıca gemini sikeyim senin. ben o gemide yokum arkadaşım binmek istemiyorum.\n\nkürt kökenli insanlar kendilerini yetiştirdi topluma ayak uyduruyor göze batacak davranışları kalmadı ve antipatim kayboldu gitti ama bu amına kodumun araplarına kin güdüyorum. bu arapların nefes alması zarar.\n\nnot: şimdi kürt kökenli insanları sevmiyordumdan yürüyenler olacaktır bir açıklama yapayım. herkes herkesi sevmek zorunda değil. eskiden ülkede ki suç oranını kürt kökenli insanlar yükseltiyordu bu bir gerçek fakat şuan ülke vatandaşı olup şu kökenli insanlar kötü demek saçma bir hal aldı. kürtler kendilerini geliştirdi eskiden büyük çoğunluğu cahil ve eğitimsizdi şuanda suç işleyen kesim ülkenin her toprağında ki insanlardan eşit bir şekilde oluşuyor.\nayrıca karadenizliyim ve bu yörenin de sevmediğim birçok insanı var.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90612665",
+      "author": "kesinlikle dengesizim",
+      "date": "28.05.2019 13:46",
+      "content": "\"ordu suriyeyi/suriyelileri kurtarmak için savaşıyor\"cular gelmiş gene.\n\nsalak mısınız, salağa mı yatıyorsunuz anlamıyorum. ordunun tc menfaatinden başka birşey için savaşması ihanettir.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90612710",
+      "author": "schopenhauerin kayip torunu",
+      "date": "28.05.2019 13:47",
+      "content": "o degil de bu orospu evlatlarinin tedavi masraflari da bize kitleniyor.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90612750",
+      "author": "fikiri",
+      "date": "28.05.2019 13:49 ~ 29.05.2019 07:19",
+      "content": "biz, suriye'den gelen suriyelileri tartışırken. içimizde daha fazla suriyeli olduğunu görmüyoruz. asıl sorun, suriye den gelen, suriyeliler değil. sorun, içimizdeki suriyeliler.\ndin kardeşim tabi gelecek, diyen bizim suriyeliye, bir suriyeli hediye etmeli. her türlü ihtiyacını karşılasın.\nedit: imla",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90612755",
+      "author": "fenafillah",
+      "date": "28.05.2019 13:49",
+      "content": "kendi için bıçak çeken, vatanı içinse kaçanlardan oluşan grup itişmesi.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90612761",
+      "author": "fbd",
+      "date": "28.05.2019 13:49",
+      "content": "bunları da, bunları savunanı da...",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90612787",
+      "author": "flankezz",
+      "date": "28.05.2019 13:50 ~ 14:03",
+      "content": "boşuna demiyorlar arap yağı bol bulunca götüne sürermiş diye\n\nheriflerin aksaray’da, yenikapı’da, çapa’da bi yürüyüşleri var yolda, insan kendi mahallesinin kabadayısı olsa böyle yürümez yolda. bizim yerli halkımız da yolda yürürken başı önde yürüyor ki aman bunlardan bela gelmesin diye\nkimin hangi ülkede misafir olduğu belli değil.\n\nbakın savaştan kaçmışlardır eyvallah, zor durumdadırlar eyvallah, sığanacak bir yere ihtiyaçları vardır tamam da bu nedir abi. dayı dayı tavırlar, ortalık yerlerde bağır çağır küfrederek konuşmalar, millete atarlar giderler. ne biçim savaş mağdurusunuz lan siz.\n\nben savaştan kaçıp bir ülkeye sığınsam, abi allah razı olsun diyerek efendi efendi takılırdım. iyiliksever ol, yardımsever ol, insanlara saygılı davranır güler yüzlü olurdum. bunlar ne böyle hepsi ağa hepsi paşa\n\nherifler üst geçitte karşıma çıkıyor, lan oğlum yolda yürümesini de mi öğretmediler. 7 köyün ağası gibi yürüyürlar, yol vermezler, bi geçelim lan, yol ver diyince karşına dikilir ters yapar. yatırıp ağzını burnunu kırıcam sonra suriyeli dövdü olacak. tramvaya binersin üstüne başına çıkar, marketçiyle kavga eder, otobüste tartışır. lan noluyor, nereye düştük. bu kadar da değil, bokunu çıkardılar iyice\n\nevinden barkından uzak düşmüş, fakir, etrafta sefil olanlara insanın içi acıyor. yazık günah, bunlara kapımızı açalım tamam da ama böyle götü başı ayrı oynayanları tuttuğun gibi suriyeye fırlatacaksın. siktirsin gitsin orda satırla kessinler birbirlerini mi işidleri mi artık kimi kesiyorlarsa",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90612788",
+      "author": "clodin",
+      "date": "28.05.2019 13:50 ~ 16:51",
+      "content": "çok sınırlı sayıda göçmen kabul etmelerine rağmen avrupa'da oy tercihlerini etkileyen birincil konu göçmen krizi oldu. türkiye'de göçmenlerin etkisi hala geniş bir kesim için önemsenmiyor. hükümet en azından olay çıkardıklarında ağır cezalar verip teşhir etmeli. türkiyede sadece arap sığınmacı yok. türki cumhuriyetlerden gelen büyükşehirlerde belli bölgelerde yoğun halde bulunan gruplar sorun olmuyor çünkü medeni davranıyorlar. kabadayı haller takınmıyorlar. konuşurken bağırmıyorlar. bazı arapların bağırarak konuşması elbette alan genişletme kaygısı barındırıyor.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90612856",
+      "author": "anqarabebesi",
+      "date": "28.05.2019 13:52",
+      "content": "planet of the apes olmuş sana planet of the syrians.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90613081",
+      "author": "mmadeleine",
+      "date": "28.05.2019 13:58",
+      "content": "suriyelilerin gelmesiyle ülkede kürtler rahat nefes almaya başlayıp level atladı,artık hep birlikte türk kürt ırkçılık yapabiliriz;f*cking syrians",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90613161",
+      "author": "naytmeyi",
+      "date": "28.05.2019 14:00",
+      "content": "troll mudur dingil midir hala ayni gemideyiz diyor, memleketin geldigi hale bakar mısın sanki birilerinin babasının maliymis gibi nerede it kopuk varsa doldurdular, kendileri sirca kosklerde yasadigi icin etkilenmiyorlar tabiki.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90613204",
+      "author": "hijyenikyazar",
+      "date": "28.05.2019 14:01",
+      "content": "ülkendeki savaştan kaçabilirsin, ama içindeki seni insan yapan ve modern kılan dinamiklere, henüz ve hâlâ sahip olamamışsan, sana her yer suriye sana her yer savaş alanı.\n\nişte bu yüzden istemiyor bi kesim insanımız suriyelileri. kültürümüz çok farklı, bir şeye sinirlenme pratiklerimiz bile farklı en basitinden, onların bu agresyonu kolayca ve basitçe suça meyil edişleri ihtiyaç hiyerarşilerine bakıldığında çok mümkün. kaldı ki insan değişir, fakat insanın içindekinden, içindeki savaştan kaçması zor iş vesselam.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO",
+        "CRIME"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90613219",
+      "author": "thedoctor46",
+      "date": "28.05.2019 14:01 ~ 14:04",
+      "content": "(bkz: yiyin birbirinizi ete para vermeyin sikin birbirinizi g.te para vermeyin)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90613259",
+      "author": "ogenki",
+      "date": "28.05.2019 14:03 ~ 16:47",
+      "content": "bunlar münferit satırla doğrama işleridir. bunu tutup da genele bağlamak en küçük tabiriyle muhalefetliktir.\n\nyani bugün hangimiz böyle ufak satır saldırıları yapmıyoruz ki? hepimiz evde olsun işte olsun böyle minik münakaşalara giriyoruz değil mi? (eeeeveeeettt)\n\nama bu muhalefet napıyor? sanki biz bir birimizi bıçaklamıyorcasına suriyeli kardeşlerimizi mahkum koltuğuna oturtup yargılıyor.\n\nbunlar olacak değerli kardeşlerim. gün gelecek o satırlarla kendi vatandaşlarımız da kovalanacak. ama bu doğanın gereğiiiii olabilecek bir şey.... bunu abartmanın, bu sebeple hükümeti yıpratmaya çalışmanın bir anlamı yok.\n\nhe bakınız bu arada şunu da söyliyeyim. bay kemaaaayyylllllll ssk'nın başındayken ilaç kuyruklarında çıkan kavgaları unuttuk mu zannediyorlar... hayııır asla... unutmadık ve unutturmayacağız.\n\nbakınız şunun da özellikle altını çizerek söylüyorum. artık kan eskisi gibi yerde kalmıyor. belediyelerimizin yol ve su hizmetleri sayesinde hemen logarlara akıp gidiyor.\n\nama işte bunları görmezler değerli kardeşlerim. bu vatan hainleri, bu terör iş birlikçileri, bu çıkarcılar, bu densizler sadece konuşur.\n\nben bu mübarek ramazan ayında dirliğimizi ve sükunetimizi bozmak isteyen bu şer odaklarına prim vermek istemiyorum. 86 milyon bütün vatandaşlarımızı teekkk teek kucaklıyorum.\n\nedit: hukukçular destek. bu entry'den dolayı sıkıntı çıkmaz. şu an içimden bir ses \"sikmeseler bari\" diyor...",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "HUMAN",
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90613287",
+      "author": "3yasindanbericakoyumben",
+      "date": "28.05.2019 14:04",
+      "content": "savaştan kaçanları kampa değilde ülkeye alır üstüne bir de 3oy alacağım diye vatandaşlık verirsen bu olur\n\nesenyurt genel itibariyle zaten durumu belli bi' yer. düşün onlara bile vahşice geliyor. yeni zencilerimiz hayırlı olsun",
+      "has_external_url": false
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90613296",
+      "author": "juniormint",
+      "date": "28.05.2019 14:04",
+      "content": "bir takım kesimin \"madem dövüşecektiniz ülkenizde dövüşeydiniz\" demesine neden olacak kavga.",
+      "has_external_url": false
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90613321",
+      "author": "the playmaker",
+      "date": "28.05.2019 14:05 ~ 14:05",
+      "content": "(bkz: sikin birbirinizi göte para vermeyin)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90613335",
+      "author": "colifact",
+      "date": "28.05.2019 14:05 ~ 14:07",
+      "content": "suriyelileri sevmem ama gayet varoş kürt ve türk mahallerinde de olabilecek, hatta daha beteri olan olaylardır. sosyakültürel seviye düştükçe bu tür olayları görmek mümkün. isveç vatandaşı gibi yorumlar yapmayın şurada.\n\nbu tür tipleri ülkeye sokmamak lazım orası ayrı tabi ki. fakat hayvanlığın milleti olmuyor maalesef.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90613405",
+      "author": "kuntikintekabakace",
+      "date": "28.05.2019 14:07",
+      "content": "tehlikeyi farkında mısınız?",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90613428",
+      "author": "spetsnaz",
+      "date": "28.05.2019 14:08",
+      "content": "(bkz: suriyelileri yedirmeye icirmeye devam edecegiz)",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90613461",
+      "author": "ordekpoposundadomates",
+      "date": "28.05.2019 14:09",
+      "content": "ortadoğuyu resmen ayağımıza getirdik.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90613464",
+      "author": "malheiros",
+      "date": "28.05.2019 14:09",
+      "content": "- amerikan traşı (check)\n- sakal (check)\n- göbek üzeri slim t-shirt (check)\n- kalça tarafında regular, paçalara doğru skinny özel kesim pantolon (check)\n- terlik (check)\n\n\"evet, evraklarınız tamam. buyrun bu oturma belgeniz, bu da sosyal yardım karneniz. sağlık hizmetlerimizden ücretsiz faydalanabilirsiniz. iyi günler\"\n\ntüm suriyeliler böyle demiyorum ama o kavgadakiler göç idaresi'nden herhalde böyle geçmişler...",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90613512",
+      "author": "kamalbey",
+      "date": "28.05.2019 14:10 ~ 14:11",
+      "content": "bu araplar malum rant tarikatinin sonu olacak farkinda bile olamayacak kadar akilsizlar. secimlerde yasadiklari facia da buna delalet.\n\nolan ulkeye oluyor. bir zamanlar dunyanin baskenti olan sehrin haline bak, counter mapi gibi.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90613578",
+      "author": "mogu mogu efendi",
+      "date": "28.05.2019 14:12",
+      "content": "ibne araplar gidin vatanınıza savaşın.\nsiz benim gözümde -37 milyar(x6) dolarsınız.\n500bin cocuk yapmissiniz savas zamanı.\norrrrrospu çocukları.\nturkun evladi güvenip cocuk yapmıyor.\nekmek elden su golden.\nsavas bitsin bahaneniz kalmasın, devletimiz suriyeli avi başlatsın,\n(hem issizlere is çıkar) ben de ekibe katilirim.\nhem de bağlayıp bağlayıp tekme tokat atarız yurttan.\namina koydugumun parazitleri.\nayrica iki tokat ta ibne turk vatandaşı patronlara atarım. suriyeli calistirdigi icin.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "SEXUAL"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90613588",
+      "author": "bomonti turrret kokusu",
+      "date": "28.05.2019 14:12",
+      "content": "bizdeki kriminal tipler yetmiyor, bi de suriye'den kriminal tipler getiriyorlar.\n\nakp seçmeni de bunlardan memnun benim anladığım kadarıyla.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90613748",
+      "author": "darknavy",
+      "date": "28.05.2019 14:18",
+      "content": "ileride ülkemiz için çok kritik ve “kriminal” bir sorun olacaklar...",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO",
+        "CRIME"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90613777",
+      "author": "robertbaratheon",
+      "date": "28.05.2019 14:19",
+      "content": "kardeşlik, ümmet, aynı gemi kavramlarının bir önemi yok. bu insan üç yüz lira için bıçaklanmış. ne şartlarda buraya geldiler, ne şartlarla yaşıyorlar haberiniz var mı? belki bir aylık parasıydı, belki çocukları için bir umuttu bilemem. rahatsızlığınızı anlıyorum ama ‘çöl maymunu’ diyecek kadar mı nefret dolusunuz bu insanlara? yapmayın. bu dünyada insanın insan gibi yaşamak istemesesinden daha doğal bir refleks olamaz. yardımcı olun demiyorum ama en azından nefret dilinizi kendinize saklayın.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "HUMAN",
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90613927",
+      "author": "pijjkurusu",
+      "date": "28.05.2019 14:22 ~ 15:43",
+      "content": "daha daha çok suriyeli, daha çok göçmen istiyoruz.\n\ntimurun filleri\n\noy verin akepeye amk cahilleri, umarım evleriniz soyulur, çoluğunuza çoçuğunuza saldırırlar tecavüz ederler. hiç üzülmem.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "CRIME"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90614022",
+      "author": "ampirikukumil",
+      "date": "28.05.2019 14:25",
+      "content": "https://icdn.ensonhaber.com/…f1b7a035fd7946c046.jpg\n\npubg ilitişim. eyyorlamam bu kadar. başka rezillik görmedim. yesinler birbirlerini ete para vermesinler, siksinler birbirlerini göte para vermesinler.",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90614149",
+      "author": "dexter morgann",
+      "date": "28.05.2019 14:28",
+      "content": "su orospu cocuklarini kontrol edecek kontrol edecek, sinir disi edecek guc yok mu?",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90614485",
+      "author": "saksok",
+      "date": "28.05.2019 14:37",
+      "content": "artık bu tarz olayları tepkisiz izliyorum nasıl bu hale geldik amk neden insanlarımız bir herifin siyasi çıkarları için ülkeyi mahvetmesine göz yumuyor",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90614554",
+      "author": "etmaynkil",
+      "date": "28.05.2019 14:39",
+      "content": "barbarlıkta bizim yanımıza yaklaşamazlar. satırlı sallamalı kavgaya bizimkiler 13 yaşında başlıyor. eee ne olmuş ki bu başlık açılmış? sanki isviçreyiz amk olm zaten bizim millette hergün bu kavgalar var.. sanki çok abes bir durum. ne güzel kimya yakaladık suriyelilerle. aynı bizim toplum. kavgacı, cahil. bi 5 daha gelir inşallah. sonra 15.. sonra pakistandan ds bir 5.ohhh inşallah yüce tanrı duamı kabul eyle...",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90614622",
+      "author": "birlabon",
+      "date": "28.05.2019 14:41",
+      "content": "suriyelileri bela edenler utansın.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90614647",
+      "author": "cokomilk",
+      "date": "28.05.2019 14:41",
+      "content": "bizim dusuk seviyeli tiplerimiz bize yetiyordu, bi de ithal maganda getirdiler. benim boyle kardeslerim yok cok merakliysaniz hep beraber siktir olun gidin suriye'ye. bu ulke bizim. ensariniza bir, size iki orospu cocuklari.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "SEXUAL"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90614648",
+      "author": "papazi dovdurmeyecektik",
+      "date": "28.05.2019 14:41",
+      "content": "tiplere bak, türkiye'de kendi şebbiha'larını kurmuş adamlar. belli ki iyi yedirilip içiriliyorlar. bu suriyeli kardeşleriniz yarın götünüzü kestiğinde de ağlarsınız ümmet diye, gemi diye.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90614802",
+      "author": "dutchmaster",
+      "date": "28.05.2019 14:45",
+      "content": "bu savaşı beşar esad ziyadesiyle kazanmıştır. hicbir mesleği olmayan, cahil, üretkenliği sadece yatakta olan milyonlarca işe yaramaz adamdan kurtulmak zekâ değilse nedir?",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90614846",
+      "author": "cey30",
+      "date": "28.05.2019 14:46",
+      "content": "ben bunlarla aynı gemide falan değilim, kim aynı gemideyse onunla da değilim.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90615109",
+      "author": "ifsbilisim",
+      "date": "28.05.2019 14:53",
+      "content": "zaman gelecek biz onları görünce kaçacak delik arayacağız.\nşimdi kasmayın onları döverim, ezerim diye; belki biraz cesaretin var ama gün gelecek sende tırıs tırıs geçeceksin yanlarından.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "CRIME"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90615329",
+      "author": "aziznalca",
+      "date": "28.05.2019 15:00",
+      "content": "bunları memlekette isteyenlerin ciddi ciddi vatanseverlikleri sorgulanmalı.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90615336",
+      "author": "reyhanlili",
+      "date": "28.05.2019 15:00",
+      "content": "burada, bu vahşiler için \"din kardeşi\" duyarı kasan götler bilsin ki bu kavgalarının tarafı, kurbanı olacakları günler çok uzak değildir.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "CRIME"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90615524",
+      "author": "oslo treni",
+      "date": "28.05.2019 15:05",
+      "content": "2012 yili ne guzeldi ya, esenyurt bile. dusunsene taksim, asmali bile...\n\ntanim: kavga degil bu baska bir sey.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90615572",
+      "author": "burasi kim ben neresiyim",
+      "date": "28.05.2019 15:06",
+      "content": "(bkz: ete para vermeyin)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90615580",
+      "author": "altindag",
+      "date": "28.05.2019 15:07",
+      "content": "keşke vatanınızı böyle korusaydınız da bizim ülkenin için etmeseydiniz.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90615696",
+      "author": "noblues",
+      "date": "28.05.2019 15:10",
+      "content": "dehşet verici görüntüler. çok üzücü şu güzel ülkemizin bu hallerine tanıklık etmemiz çok üzücü gerçekten.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90615842",
+      "author": "wolfi",
+      "date": "28.05.2019 15:14",
+      "content": "kodumun medeniyetsiz hayvanları!!!",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90615847",
+      "author": "maderman666",
+      "date": "28.05.2019 15:14",
+      "content": "evet ithal edilen serseriler iş başında yine. pozitif ayrımcılığı bu yönde kullanıyorlar işte.\nyani orada şimdi, yerli halktan bir grup toplanıp dahil olsa önüne geçilemez bir hal alacak olan daha büyük bir olaya dönüşecek",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90615876",
+      "author": "uruguayli golcu",
+      "date": "28.05.2019 15:15",
+      "content": "(bkz: multikulti)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90616005",
+      "author": "atinisikendeveloper",
+      "date": "28.05.2019 15:19",
+      "content": "yani tamam insan seviyoruz falan da kendi memleketlerini nasıl kaybettikleri belli oluyo bu hareketlerden. zaten aksiyonu seven milletiz onsuz yapamıyoruz da arkadaş 4-5 kişi sokak köpeğini tekmelemeler, çocukları gasp etmeler, öldürmeler, bıçaklamalar, bi de huzur bozcak hareketler.\n\nbakalım ne zaman bardak taşıcak amk",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO",
+        "CRIME"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90616111",
+      "author": "surfinhawai",
+      "date": "28.05.2019 15:22",
+      "content": "ya ben alnimin akiyla, egitimimle, tecrubelerimle legal yollarla is bulup geldigim elin ulkesinde bile aman zaten ulkenin imaji kaymis diye ornek birey olmaya caliyorum. birak taskinligi kibarlik budalasina dondum.\n\nutanmak dogustan gelen bir duygu degil demek ki, ogrenilmesi, ogretilmesi lazim.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "HUMAN",
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90616313",
+      "author": "isimsizbirinsan",
+      "date": "28.05.2019 15:27",
+      "content": "din kardeşlerimiz diyenleri şu videoda izleyebilirsiniz.\n\nhttps://www.youtube.com/watch?v=l1wpbuqyk38",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90616552",
+      "author": "m orak",
+      "date": "28.05.2019 15:34",
+      "content": "suriyelilerin itini köpeğini topladı ülke, doktoru mühendisi de abd de almanya da takılıyor.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90616619",
+      "author": "st ben olamazsin",
+      "date": "28.05.2019 15:35 ~ 15:36",
+      "content": "suriyeli kardeşlerim kardeşlerim diye ağzından salyalar akan tipler alsınlar evlerine birer suriyeliyi de görelim.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90616680",
+      "author": "dusunmeyi unutmus adam",
+      "date": "28.05.2019 15:37",
+      "content": "amk internet trollerini bu başlık altında konuşlandırmış olaydır. amk 2000 liralık trolü ben sana 2200 vereyim de kaybol ortalıktan.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90617211",
+      "author": "escapelsin",
+      "date": "28.05.2019 15:51",
+      "content": ".",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90617340",
+      "author": "miyirik",
+      "date": "28.05.2019 15:54",
+      "content": "ülkemde yeterince bok yokmuş gibi bir de bunları doluşturdular içeri.\ndelirmemek elde değil.\n\nbunlara bi de bayram harçlığı verip ülkelerine bayram ziyaretine yolluyorlar.\nulan hangi savaş mağduru bayram tatilinde geri gider?\n\nallah topunuzun belasını versin. en başta da bunları ülkeye sokanların..",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90618059",
+      "author": "fatamanist",
+      "date": "28.05.2019 16:13",
+      "content": "neymiş? ırkçıymışım neymiş? din kardeşimmiş neymiş? ülkeleri zor durumdaymış. yahu bi siktirin gidin. birilerine oy versin diye bu ülkede hala besleniyor bu dürzüler. kimse kusura bakmasın asla ırkçı, faşist filan değilim. benim kendi öz kardeşine tecavüz eden din kardeşim de yok. bırakın bu işleri bu pisliklerin artık bi an önce evlerine dönmesi gerekiyor 3-5 gün sonra çoluğunuza çocuğunuza hallendiklerinde anlarsınız.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90618094",
+      "author": "nekrop pasa",
+      "date": "28.05.2019 16:13",
+      "content": "buna neden olanlar simdi gelmisler gotlerine cira sokulmus gibi yana done su ariyorlar. oy da oy.\nal sana oy!",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90618625",
+      "author": "xavier naidoo",
+      "date": "28.05.2019 16:28",
+      "content": "\"ensar dedik sansar çıktı!\"",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90618630",
+      "author": "kirkhammet34",
+      "date": "28.05.2019 16:28",
+      "content": "2 gün önce kanuni sultan süleyman eğitim ve araştırma hastanesiydim. 3 tane suriyeli kavgaya karışmış. birinin yüzünü komple kesmişlerdi. diğerini de ensesinden bıçaklamışlar.\n\nmanzarayı görünce oha dedim. resmen başka bir grupla savaşmış 3 yaralı erkek. konu neydi ki böyle ölümüne yemişler birbirlerini.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "CRIME"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90618760",
+      "author": "racing2",
+      "date": "28.05.2019 16:31",
+      "content": "kimsede ölmemiş ak..",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90618910",
+      "author": "spain",
+      "date": "28.05.2019 16:35",
+      "content": "bunlarla aynı gemide olsak ve ellerinde güç olsa, erkekleri denize atarlar, kadınları cariye yaparlar.\nbu adamlara acıyıp merhamet edersek yarın acınacak duruma geliriz.\nbu şekilde olay çıkartan herkesin sınır dışı edilmesi gerekiyor. bunu bile yapamayacaksak o döner bıçaklar yarın bize dönecek.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90619417",
+      "author": "orao",
+      "date": "28.05.2019 16:48",
+      "content": "ülkesi için kılını kıpırdatmayanların 300 lira için canını ortaya koyduğu video",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90619564",
+      "author": "hotelcharliebravo",
+      "date": "28.05.2019 16:52",
+      "content": "anca burada ötüyor boruları şerefsizlerin\n\ngit ülkende dayılan o zaman lan kertenkele kılıklı. ne bok yemeye kaçmışsın ülkenden gelmişsin buraya. bir de milletin huzurunu bozuyorsun",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90620250",
+      "author": "nonameone",
+      "date": "28.05.2019 17:11",
+      "content": "bunları ülkeye alıp, halkın arasına öylece de atan da bunlara destek veren de net olarak vatan hainidir. aksini savunan da vatan hainidir.\n\nbu ülkeye tarih boyunca bundan daha ağır bi kazık atılmamıştır.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90620326",
+      "author": "obispo",
+      "date": "28.05.2019 17:14",
+      "content": "istanbul'da değil esenyurt'ta",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90620397",
+      "author": "sprawa",
+      "date": "28.05.2019 17:16",
+      "content": "adamlar birbirini doğruyor. bir tane mal da çıkmış hala ümmetten, gemiden bahsediyor.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90620645",
+      "author": "daldakielmakurdu",
+      "date": "28.05.2019 17:22",
+      "content": "biz ayni duruma dusup suriyeye goc etsek yeminle bize turuncu giydirir tas ocaginda calistirirdi bunlar. bizim milletin gonlu genis bir sey demiyor. suriyeliler palazlanmaya basladilar, iyice guclensinler masaya vurmaya basladiklarinda kucuk kivilcimla cok buyuk olaylar cikacak az bucuk akli calisan herkes bunun olabilecegini gorebilir.\nat fava gor.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90620729",
+      "author": "mechulsanik",
+      "date": "28.05.2019 17:25",
+      "content": "elinde satırla adamlık yapıyor puşt. o kadar adam olsaydınız memleketinizi bırakıp gelmezdiniz.\nhiç bir zaman vatan sana canım feda diyen türk askerini anlayamayacaksınız.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90620933",
+      "author": "old joe",
+      "date": "28.05.2019 17:30",
+      "content": "oglum klasik mevzular bunlar iste. siz yerliler yeni gocmenlerden killatiyosunuz, medya da rating getiriyo diye bu adamlarin haberlerini 1e 1000 katip skandallastirarak veriyor.\n\nturklerden az satirli kavga cikariyor olabilirler falan oranlarina bakin abi. kitle yeterince buyukse munferit olarak her sey olur",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90620961",
+      "author": "vebeci",
+      "date": "28.05.2019 17:31",
+      "content": "en ufak suça karışan suriyeli anında sınır dışı edilmeli.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90621113",
+      "author": "vatanmilletmersin",
+      "date": "28.05.2019 17:35",
+      "content": "buradan da fitne fesat çıkaramadınız, ümmet düşmanları...",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90621583",
+      "author": "lethe33",
+      "date": "28.05.2019 17:46",
+      "content": "deve vs diken",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90622166",
+      "author": "h2s",
+      "date": "28.05.2019 18:03",
+      "content": "bunların giderleri anca kendilerine nankör serefsizler. bunlar mi sığınmacı bunlar mi mağdur. ülkeleri elden gitmiş kuyruğu sıkısmıs kopek gibi kaçtılar simdi su hale bak. pis herifler",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90622186",
+      "author": "elmanana",
+      "date": "28.05.2019 18:04",
+      "content": "esenlerde alacak verecek davası ile bir birini bıçaklayıp, satırlarla bir birini kovalayan suriyeli militanlar. militan dedim çünkü kesinlikle öyle.\n\nlink",
+      "has_external_url": true,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "CRIME"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90622258",
+      "author": "piatnik",
+      "date": "28.05.2019 18:06",
+      "content": "biz suriyelileri gönderemiyoruz ama demekki bu hasta zihniyetli imsanlar birbirleri keserek bitirecek ay hadi inşallah!",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "CRIME"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90622312",
+      "author": "mavili45",
+      "date": "28.05.2019 18:08",
+      "content": "bu insanlar eğitilemez bu ülkeden gitmezlerse ilerde savaş çıkacak",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90622347",
+      "author": "benjamin britten",
+      "date": "28.05.2019 18:09",
+      "content": "yavsaklar kendi memleketlerinden göt korkusuna kaçmış ama burada gelip bicakla bir birini yaralıyor. düştüğümuz durumlara bak, yazıklar olsun.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90622478",
+      "author": "kim soyledi ya",
+      "date": "28.05.2019 18:14",
+      "content": "öyle bir ülkeyiz ki masallah, film olsa ilk yarısına kadar durulmaz, tahammül edilmez, doğduk doğalı yaşıyoruz.\n\nkimse de aga biz ne yapıyoruz, burası neresi, bunlar kim demiyor, diyemiyor.\n\nhadi bakalım (bkz: party hard)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90623369",
+      "author": "jaqens",
+      "date": "28.05.2019 18:40 ~ 18:41",
+      "content": "bunların vatanları 300 liradan daha kıymetsiz anlaşılan. 300 lira için adam yaralayan öldürmeye kalkan suriyeliler, konu vatan olunca boşver deyip kaçıyorlar. kendi ülkelerine 300 lira kadar değer vermeyenlerin gözünde ülkemiz 300 liranın altında değere sahip demekki bu şekilde rahat hareket edebiliyorlar.\nümmet falan diyenlere gülüyorum artık, bunların kaç tanesi camiye geliyor da ümmet oluyor? müslüman olunca yardım edilsin, olmayınca edilmesin mi? kitabımızın neresinde yazıyor insanı ayırt etmek? çocuklar ve yaşlılar dışında hepsi ülkeden gönderilmeli bir an önce yoksa 10 15 sene sonra suriyelilerin çeteleşmesiyle birlikte, ekonomiden daha ciddi sıkıntılarla uğraşmak zorunda kalacağız.\ntanım: vatansızların kavgası",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90623614",
+      "author": "vitocorleoni",
+      "date": "28.05.2019 18:47",
+      "content": "artık okadar mutsuzum ki bu toplumun içinde kendimi resmen hapsedilmiş nefes alamıyor gibi hissediyorum. yazık bu ülkeye",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90623702",
+      "author": "lifequitin",
+      "date": "28.05.2019 18:50",
+      "content": "bunlar daha hiçbir şey. gelecekte birleşip götümüzü kesecek bu toromanlar?!",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90623812",
+      "author": "eskiokuryeniyazar",
+      "date": "28.05.2019 18:54 ~ 16.11.2019 22:15",
+      "content": "gettolar oluşuyor, yakın zamanda sokakları ele geçirip her konuda hak talep ettiklerinde bakalım ne diyeceksiniz.\n\nburda kaldıkları her dakika bizim çocuklarımızın zararına olacak,\n\nsike sürülmeyecek aklınıza bunu sokun artık.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90625126",
+      "author": "mahirkarabulut",
+      "date": "28.05.2019 19:35",
+      "content": "hay suriyeli kardeşleriniz batsın. alın kardesim sahiplenin her biriniz bitane. sokun evinize. kardessiniz ya hani. yardım edin. bayram geldi yine ring atıp geri gelirler ülkelerine. sahilde nargile icerler. maaş alırlar. neden geri dönsünler ki.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90625691",
+      "author": "slayerus",
+      "date": "28.05.2019 19:54 ~ 19:55",
+      "content": "ümmeti bu adamlarla kurtaracaksan, bahsettiğin ümmet bitmiş. adam daha vatanını savunmıyor. sen gelmiş ümmetten bahsediyorsun. sen misafirliğe gittiğin zaman o evde nasıl davranmab gerekiyorsa o şekilde davranmalısın. millete saldırarak taşkınlık çıkararak misafirlik olmuyor. yok ben beceremiyorum diyorsa da bi zahmet siktirsin gitsin o enerjisini kendi vatanı için harcasın.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90625854",
+      "author": "beyin yiyen zombi",
+      "date": "28.05.2019 19:59",
+      "content": "bir klasik olarak 2001:bir uzay destanı filminin açılış sahnesi https://www.youtube.com/watch?v=ypeagqb6djk",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90626464",
+      "author": "xcentus",
+      "date": "28.05.2019 20:19",
+      "content": "gelecekte silahlı tüfekli kavgalara dönecek olaydır. tahmini 10-15 sene içinde mafyalaşacaklardır. tıpkı göçmen italyan ailelerin abd'de yapacak iş bulamayıp mafyalaşması gibi bir durum ortaya çıkacak. daha sonra ise hızlı nüfus artışıyla beraber 20-25 sene içinde meclise gireceklerdir. tıpkı kürt kardeşlerimiz gibi özerklik, ana dilde eğitim gibi talepleri olacak ve bazı partiler siyasi çıkarları için bu insanları kullanacaktır. üniter devlet şimdi olduğu gibi gelecekte de tehdit altında olacaktır. geçmiş, geleceğin teminatıdır.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90626507",
+      "author": "erikciefe",
+      "date": "28.05.2019 20:20",
+      "content": "amk çocuğu suriyeli kardeşlerimizle aynı gemideyiz demiş. senin gemini ayrı dümenini ayrı sikerim. çok seviyorsan git nüfusuna geçir beraber yaşayın",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90626807",
+      "author": "kabili rucu",
+      "date": "28.05.2019 20:29",
+      "content": "(bkz: küçük bir mümin latifesi)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90627901",
+      "author": "1fatihuzun",
+      "date": "28.05.2019 21:05",
+      "content": "ırkçı olmicam, ırkçı olmicam, ırkçı olmicam . ya sabır ırkçı olmicam",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90628623",
+      "author": "i am not in danger i am the danger",
+      "date": "28.05.2019 21:24",
+      "content": "bunlar ümmetse gerçek islam bu mu? değilse gitmelerinde sakınca var mı?",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90629021",
+      "author": "cromulent",
+      "date": "28.05.2019 21:36",
+      "content": "sakin suriyeye gondermeyin,ellerine saglik arkadaslarin..\n\nbekleyin bunlar daha iyi gunlerimiz..",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90629053",
+      "author": "chtaru",
+      "date": "28.05.2019 21:36",
+      "content": "madem böylesine iyi satır bıçak kullanıyordunuz iyi kavga edip kafa kesiyordunuz da neden kaçtınız suriyeden diye hep sormuşumdur.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90629266",
+      "author": "pimiaimi",
+      "date": "28.05.2019 21:42",
+      "content": "bunlar din kardeşimiz deyince sizin dininizi s..tim diyesi geliyor insanın. ülkesini savunmayan insandan ne hayır gelir? başka ülkede yaşadığı yetmiyormuş gibi o insanlara sarkıntılık yapan, fırsatını bulursa daha kötülerini yapmayacağının garantisi olmayan kişilere ne saygı ne sevgi besleriz. insanlık bir yere kadar. ama siz seversiniz arap t...ğı yalamayi.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90630375",
+      "author": "bonustime",
+      "date": "28.05.2019 22:11",
+      "content": "adamların hakları burdan ülkelerine yol olur, bizde onların ülkesine mi çöksek n’apsak?!",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90631252",
+      "author": "erazur",
+      "date": "28.05.2019 22:33",
+      "content": "görüntüsünü şiddetle eleştirenleri ırkçılıkla suçlayan yazarların mantıksız davrandığı kavga.\n\nbakın; dünyanın hangi ülkesinde olursa olsun ve statüsü ne olursa olsun suç işleyen, suça iştirak eden veya yardımcı olanlar öncelikle bulundukları ülkenin kanunlarına ve vatandaşı oldukları diğer ülkeyle beraber bulundukları ülkenin aralarında yaptıkları antlaşmalar çerçevesinde suçun şiddetine göre yargılanırlar.\n\nlakin suç işleyen, suça iştirak eden veya yardımcı olanlar bulunulan ülkenin vatandaşı değillerse ve toplumda infial yaratacak bir suç işlememişlerse genelde diplomatik sorun çıkmaması için sınır dışı edilirler ki, zaten ilgili ülkenin kanunları arasında mutlaka bir yabancılar kanununa ve sınır dışı edilme şartlarını taşıyan maddelere rastlanılacaktır.\n\nmisal, türkiye'nin ilgili konudaki düzenlemeleri 6458 sayılı yabancılar ve uluslararası koruma kanununun(yukk) yabancılar başlıklı ikinci kısmının sınır dışı etme başlıklı dördüncü bölümünde, 52 ila 60 ıncı maddeleri arasında düzenlenmiştir: göç idaresi\n\nilgili kısma göre:\n...\ne) kamu düzeni veya kamu güvenliği ya da kamu sağlığı açısından tehdit oluşturanlar (m.54/1-d),\n\nk) uluslararası koruma başvurusu reddedilenler, uluslararası korumadan hariçte tutulanlar, uluslararası koruma başvurusu kabul edilemez olarak değerlendirilenler, uluslararası koruma başvurusunu geri çekenler, uluslararası koruma başvurusu geri çekilmiş sayılanlar, uluslararası koruma statüleri sona eren veya iptal edilenlerden haklarında verilen son karardan sonra 6458 sayılı kanunun diğer hükümlerine göre türkiye’de kalma hakkı bulunmayanlar (m.54/1-i),\n\nm) uluslararası koruma başvuru sahibi veya uluslararası koruma statüsü sahibi olup ülke güvenliği için tehlike oluşturduğuna dair ciddi emareler bulunanlar (m.54/2),\n\nn) uluslararası koruma başvuru sahibi veya uluslararası koruma statüsü sahibi olup kamu düzeni açısından tehlike oluşturan bir suçtan kesin hüküm giyenler (m.54/2).\n...\nhaklarında kanunun 54 üncü maddesinde yer alan durumlardan birinin veya bir kaçının oluşması durumunda, yukk’nun 55 inci maddesi hükümleri saklı kalmak kaydıyla, valiliğin sınır dışı etme kararı alması zorunludur .\n\nlakin, 54 üncü madde kapsamında olsalar dahi, aşağıdaki durumlarda yabancılar hakkında:\n\na) sınır dışı edileceği ülkede ölüm cezasına, işkenceye, insanlık dışı ya da onur kırıcı ceza veya muameleye maruz kalacağı konusunda ciddi emare bulunanlar (m.55/1-a),\n\nb) ciddi sağlık sorunları, yaş ve hamilelik durumu nedeniyle seyahat etmesi riskli görülenler (m.55/1-b),\n\nc) hayati tehlike arz eden hastalıkları için tedavisi devam etmekte iken sınır dışı edileceği ülkede tedavi imkânı bulunmayanlar (m.55/1-c),\n...\nsınır dışı edilme kararı alınmaz.\n\nişte bu durumlar arasındaki geçişi ve kontrolü, hükümetin başındaki isim ülkedeki suriyelileri ümmet evladı ve geleceğin potansiyel oy kapısı gördüğünden devlet maalesef ihmal etmektedir.\n\ndahası, bu denetimsizlik ve kontrolsüzlüğü ancak seçimden seçime propaganda döneminde ve aralıkla bu bahis konusu olan kavga gibileri toplumsal gündemde öne çıktığında verilen beyanlarda dert eder hükümet. misal geçmişte, binali yıldırım hala başbakan iken konuya ilişkin şu demeci vermiştir: hürriyet açıkcası, ilgili demeçteki şu kısma dikkat edilmeli: \"... vatandaşlarımızın rahat olmasını istiyorum. türkiye hukuk devleti. vatandaşımız bir taşkınlıkla karşılaşırlarsa derhal güvenlik güçlerine bildirsinler . emin olsunlar ki gereği hemen yapılacaktır. \"\n\nlakin aynı haberde yer alan, suriyeli mültecilerin karıştığı olaylara ilişkin içişleri bakanlığı’ndan yapılan açıklama o zamanın hükümetinin konuya ilişkin bugüne değin devam eden fikriyatını açığa vurmaktadır:\n\n\"bu konu bir fitne, nifak ve iç siyaset malzemesi haline getirilmeye çalışılmaktadır. suriyelilerin türkiye’de işlenen toplam suçlara oranı türkiye’deki toplam nüfusları göz önünde bulundurulduğunda ülkemiz genel suçlarına göre oldukça azdır. suriyelilerin karıştıkları olayların türkiye’deki toplam asayiş olaylarına oranı 2014-2017 arasında yıllık ortalama yüzde 1.32’dir.\"\n\nkısacası hükümet, suriyeli sığınmacılara yönelik geçmiş yıllardan beri devam eden politikasında gündemin durumuna göre vatandaşın suyuna gider görünürken aslında hiçbir şey yapmamaktadır ve tek adam rejiminde bu duruş, bu zihniyet ayyuka çıkmıştır.\n\ndolayısıyla bu başlıkta bahsi geçen kavga benzeri suç olaylarında yukarıda işaret ettiğim sınır dışı edilebilecek e, m ve n durumları yaşanmış olsa dahi, ilgili suça karışanların sınır dışı edilemeyeceği a durumu bahane edilerek kavganın katılımcıları sınır dışı edilmeyeceğinden veya edilemeyeceğinden bu görüntüleri zoraki tanık oluyoruz ve hatta, belki gelecekte de izlemek zorunda kalacağız.",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY",
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90631332",
+      "author": "darkscar",
+      "date": "28.05.2019 22:36",
+      "content": "16. saniyede soldan, sandalye ile kareye giren gibi girsem hayatına...ne yapabilirsin ki?\n\n(bkz: rönesans tablosu)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90632314",
+      "author": "verderveremen",
+      "date": "28.05.2019 23:01",
+      "content": "yiyin birbirinizi mk ibneleri",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90633271",
+      "author": "afrika fasulyesi",
+      "date": "28.05.2019 23:24",
+      "content": "boş muhabbetlere gebe olan kavga.\n\nbu sığ kavgadan bir ırkı sorumlu tutanlara zamanında palalıların ortamda cirit attığı dönemi hatırlatmak gerek. hadi aynısını kendi yüce ırkın için de söyle şimdi.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90634167",
+      "author": "isyan devrim besiktasim",
+      "date": "28.05.2019 23:43",
+      "content": "savaştan kaçanların şehir ortasında savaş yaratma olayı. biz kendi davarlarımıza yetemedik şimdi bunlar çıktı tiplere bak.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90634449",
+      "author": "iyikedi",
+      "date": "28.05.2019 23:49",
+      "content": "ırkı dini takımı mı olur borcu olan kişiyi ödemediği için dövüşler.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90635014",
+      "author": "visionarygibi",
+      "date": "29.05.2019 00:00",
+      "content": "istanbulun orta yerinde yaşanan rezalettir. güzelim şehri, şehirlerimizi bu hale getirenleri allah bildiği gibi yapsın, bunlar daha buzdağının görünen kısmı. diyecek söz yok.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90637498",
+      "author": "psikopatr10",
+      "date": "29.05.2019 00:50",
+      "content": "yiyin birbirinizi ete para vermeyin.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90639288",
+      "author": "voliex",
+      "date": "29.05.2019 01:38",
+      "content": "liveleak\nbestgore... vay anasını be...",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90641094",
+      "author": "padisahin sol turnikesi",
+      "date": "29.05.2019 02:38",
+      "content": "bu tarz durumlarda bence olaya karışan suriyeliler hakkında ivedilikle \"fiziki kondisyonu ve sağlık durumu el veriyor,savaşabilir,ülkesine dönmesine karar verilmiştir\" minvalinde bir mahkeme kararı çıkarttırılarak asker kontrolü dahilinde sınır dışı edilmesi mükemmel bir reaksiyon olur. burada yaşayanlar olaylara karışmaz ve huzursuzluk çıkarmaz en azından,emsal karar bence.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90641243",
+      "author": "nickim dilimin ucunda",
+      "date": "29.05.2019 02:43",
+      "content": "kendilerini buyur edenlerin dikkatlice izlemesi gereken meydan savaşı.\n\nbunlar için, niye ülkelerinde durup savaşmıyorlar diyorduk ama meğerse cepheyi geniş bir coğrafyaya yaymak için gelmişler.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90642526",
+      "author": "bm778",
+      "date": "29.05.2019 03:36",
+      "content": "daha gelmiş ırkçılık diyenler var.\nmilletini sevmek, önce bu ülkenin vatandaşları demek, ortaçagın kapısından çıkıp gelenlerin dertleriyle ugrasmak istemiyoruz demek mi ırkçılık.\n\nsen ırkçılık görmemişin. bunlar 1. sınıf vatadaş hakkı alırken bu ülkenin vergi ödeyen bireyleri 2. sınıfa itiliyor.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90642948",
+      "author": "kelakca6661",
+      "date": "29.05.2019 03:56",
+      "content": "müslümanlığın arap ırkına gelme sebebi",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90646708",
+      "author": "miller",
+      "date": "29.05.2019 09:12",
+      "content": "yahu bunlar insan mı lan?\n\nherif kanla boyanmış resmen, satırla kovalıyor, bir bağırış bir çağırış, biri birden sandalye ile yıldırım hızında daldı falan.\n\nbu kadar aksiyon, şiddet, öfke, saldırganlığı, hayvanlığı ben hiç bir avlanmaya programlanmış hayvan belgesellerinde görmedim amk",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90647759",
+      "author": "sembune",
+      "date": "29.05.2019 09:49",
+      "content": "akp'li insanlar gurur duyabilir, bu sizin eseriniz.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90660420",
+      "author": "rahipalberigo",
+      "date": "29.05.2019 16:17 ~ 30.05.2019 10:34",
+      "content": "suriyeliler için referandum yapılsın.\nbakalım milli irade ne diyor. 50 kere seçim yenilense de hayır çıkar.\nbu eli satırlı müstakbel katillerle yaşamak zorunda mıyız ayrıca zaten bizim yerli ve milli çomarımız haddinden fazla sayıda.\nyine bir hiç uğruna yarın bizi veya yakınlarımızı da bıçaklamayacaklarını taahhüt edebilecekler mi?",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90660695",
+      "author": "father of gumball",
+      "date": "29.05.2019 16:26",
+      "content": "esad'ın nasıl büyük bir adam olduğunun göstergesidir bu olay. adam ülkesinde ki pislikleri bize iteledi. şimdi üstüne para versen almaz geri. bu adamların bu ülkeye girdiği gün, bu ülkenin bittiği gündür. aralarında mecbur kalıp, can havliyle gelip, işinde gücünde olan istisnalar hariç, genel kaideleri budur.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90660779",
+      "author": "piskoku",
+      "date": "29.05.2019 16:28",
+      "content": "kontrolsüzce ülkeye alınan bu tiplerin yarın daha neler yapabileceğinin fragmanı olan kavgadır.\n\nverilen linkteki görüntüyü ve fotoğrafları izledim de arkadaki restaurant tabelası arapça, etrafta izleyenler arab, araya giren esnaf arab her yer arab. siz idlipteki kavgayı istanbul diye yutturmaya çalışmıyorsunuz değil mi? (bkz: swh)\n\ndaha neler neler görecek bu gözler.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90660818",
+      "author": "bgrdmn",
+      "date": "29.05.2019 16:30",
+      "content": "yeyin birbirinizi ete para vermeyin, sikin birbirinizi göte para vermeyin dediğim olaydır.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "SEXUAL"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90661201",
+      "author": "talavtiyerik",
+      "date": "29.05.2019 16:41",
+      "content": "gidin kendi bahçenizde oynayın lan!",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "28 mayıs 2019 satırlarla kavga eden suriyeliler",
+      "entry_id": "90683494",
+      "author": "margarin",
+      "date": "30.05.2019 04:07",
+      "content": "araplaşmak isteyen grubun bir yerlerine kına yaktırsn hadisedir",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    }
+  ]
+}

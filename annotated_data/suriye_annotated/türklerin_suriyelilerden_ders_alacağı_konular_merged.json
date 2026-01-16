@@ -1,0 +1,100 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:13:17.616807",
+    "total_entries": 7,
+    "input": "türklerin suriyelilerden ders alacağı konular",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türklerin suriyelilerden ders alacağı konular",
+      "entry_id": "92311427",
+      "author": "0 5 ucu olan adam",
+      "date": "08.07.2019 10:24",
+      "content": "içişleri bakanımız sayın süleyman soylu'nun dediği gib, türklerin suç işleme ihtimali suriyelilerin 2 katı.\n\nbu sebeple, suriyeli soydaş din kardeşlerimizden huzurlu yaşamanın inceliklerini, vicdan ı ve hakkaniyet i öğrenebiliriz.\nonlarla aşımızı, evimizi, vergilerimizi paylaşacağız.\n\nneyse ki bugün 4 milyon olan suriyeli nüfusu, suriyeli dindaşlarımızın üreme hızı ile 2030'da 10 milyon a ulaşacak. çocuklarımızın suriyeli arkadaşları olacak ve suriyeli örf ve adetlerine daha fazla maruz kalacaklar.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "türklerin suriyelilerden ders alacağı konular",
+      "entry_id": "92312155",
+      "author": "pouthenq",
+      "date": "08.07.2019 10:45",
+      "content": "yolda nasıl yürünmeyeceği dersi",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "türklerin suriyelilerden ders alacağı konular",
+      "entry_id": "92312281",
+      "author": "nikimniktir",
+      "date": "08.07.2019 10:49",
+      "content": "atatürk'ün ne kadar büyük bir vizyonu olduğunu bugünlerde çok ama çok daha iyi anlıyoruz.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "türklerin suriyelilerden ders alacağı konular",
+      "entry_id": "92312399",
+      "author": "tohumunaparamisaydim",
+      "date": "08.07.2019 10:53",
+      "content": "siirt lilerden alınan derslerin aşağı yukarı aynısıdır.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "CRIME"
+      ]
+    },
+    {
+      "title": "türklerin suriyelilerden ders alacağı konular",
+      "entry_id": "92312631",
+      "author": "motorsuzmotorcu",
+      "date": "08.07.2019 10:59",
+      "content": "iktidar tarafından nasıl sevinilir ve kollanılır.\n\nvatandaşı olmadığın, aidiyet duygusundan uzak olduğun yabancı bir memlekette oranın yerli halkından daha çok sevilmeyi sağlamak.\n\nsuç işlemek ama bir türlü suçlu olmamak\n\nyabancı olduğun ülkede bütün sosyal imkanlardan ücretsiz faydalanabilmek.\n\nyabancı olduğun ülkenin kurallarına uyumayıp siyasi erkin sizin için yeni kurallar icat etmesini sağlamak.\n\nyabancı bir ülkede yaşarken o ülkenin yerli halkının hepsinin nefretini kazanabilmek.\n\nkontrolsüz nüfus artışı denen kavramın içini boşaltmak.\n\nherkesin yıkılmaz sandığı bir iktidarı kendine aşık ederek yıkılmasına zemin hazırlamak.\n\nvs. vs.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "CRIME"
+      ]
+    },
+    {
+      "title": "türklerin suriyelilerden ders alacağı konular",
+      "entry_id": "92312830",
+      "author": "ozermu",
+      "date": "08.07.2019 11:04",
+      "content": "son günlerde edindiğim hissiyat evleneceksin bir suriyeli ile can güvenliğini almış olacaksın bizden daha hakim konumdalar memlekete rahatlık keyif olay herbirşey konusunda özellikle hatay çevresi gördüğüm zaman tırsıyorum!\n\nhem bizim hükümet bizden daha iyi davranıyor ve daha iyi bakıyor onlara. bu ülkede onlar sayesinde güvende olacağız gibi geliyor.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "türklerin suriyelilerden ders alacağı konular",
+      "entry_id": "92312868",
+      "author": "daha sakin olamazdim",
+      "date": "08.07.2019 11:05",
+      "content": "en büyük ders;\ntürkiye'ye sığındıktan sonra, bu ülkeyi talan edebileceğin ve hatta at koşturabileceğin, bedava yaşayabileceğin bir ülke olduğunun öğrenilmesidir.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:30:08.007276",
+    "total_entries": 7,
+    "input": "ruslara en çok sorulanlar",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ruslara en çok sorulanlar",
+      "entry_id": "19972852",
+      "author": "sementit",
+      "date": "11.08.2010 16:08 ~ 16:09",
+      "content": "kendimden biliyorum, belli kesimden insanlar konuştuğunuz ve rus olduğunuzu öğrendikleri zaman hemen şu şekil bi diyalog gelişiyor:\n\n- memleket nire abim?\n- moskovalıyım ben.\n- nere?\n- moskova abi, rusya yani. istanbulda oturuyorum uzun zamandır.\n- e türkçen çok güzel ama? (varan biiir)\n- evet abi, gide gele öğrendik 15 senede.\n- nası rusya, çok soğuk dimi? (varan ikiiii)\n- mevsimine göre be abi, kışın soğuk ama yazın da sıcak oluyo.\n- hadi yaa. erkekler çok içiyo ama sizin, hep votka içiyolar. (vay anasını, bi yaşıma daha girdim.)\n- doğrudur abi, öyle geleneksel yaşam tarzı haline gelmiş, eğitimsiz halkın kendince sorunlardan kaçması falan fıstık. (abi hiç dinlemiyo.)\n- sizin karılar çok güzel ama, senin rusçan da var, dam üstünde göt sikiyosundur keh keh. (hay anasını, hep de mi aynı şey olur.)\n- yok abi ya, ben biraz daha seçiciyim bu konularda.\n- bırak lan şimdi götünü yiyim ayağı yapma çakal. yok mu bize göre bişey, şöyle ilik gibin? (vay başıma gelenler.)\n- yok abi, benim çevrem de hep türkler yani.\n- ulan varya, siz hep böylesiniz, bi işin düşse ama gelirsin abi abi diye, harman olduk burda.\n- yok abi, bakarız bişey çıkarsa paslaşırız. (nası yalan var ya.)\n- iyi bakalım, hadi dikkat et kendine, havalar soğuk, gerçi sen russun üşümessin. (kendisine yakışan bi final.)\n- tamam abi, şey ederiz bi ara, hadi kolay gelsin.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE",
+        "SEXUAL"
+      ]
+    },
+    {
+      "title": "ruslara en çok sorulanlar",
+      "entry_id": "19973261",
+      "author": "sementit",
+      "date": "11.08.2010 16:36",
+      "content": "bir de katerina- baltacı muhabbeti var ki, evlerden ırak, abiler sanki kendi katerina'yla beraber olmuş gibi anlatıp nemalanıyo olaydan, kirlikedi hatırlattı sağolsun.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "ruslara en çok sorulanlar",
+      "entry_id": "19973302",
+      "author": "muto",
+      "date": "11.08.2010 16:39",
+      "content": "\"siz gençken çok güzelsiniz de, çabuk pörsüyomuşsunuz, doğru mu?\"\n(bkz: umut sarıkaya)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "SEXUAL"
+      ]
+    },
+    {
+      "title": "ruslara en çok sorulanlar",
+      "entry_id": "19973333",
+      "author": "tetteh",
+      "date": "11.08.2010 16:41",
+      "content": "maalesef (bkz: how much).",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ruslara en çok sorulanlar",
+      "entry_id": "19973351",
+      "author": "emir bin omar",
+      "date": "11.08.2010 16:43",
+      "content": "(bkz: do you sex)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "SEXUAL"
+      ]
+    },
+    {
+      "title": "ruslara en çok sorulanlar",
+      "entry_id": "19973511",
+      "author": "frankiegoestohollywood",
+      "date": "11.08.2010 17:02",
+      "content": "(bkz: önce duş alacak mısın)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ruslara en çok sorulanlar",
+      "entry_id": "19973825",
+      "author": "nedjohnlansen",
+      "date": "11.08.2010 17:32",
+      "content": "naber in rusçası en üst sıralarda yer almakta.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-10T23:37:16.783640",
+    "total_entries": 1,
+    "input": "himanshu suri",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "himanshu suri",
+      "entry_id": "62643368",
+      "author": "marti uctu",
+      "date": "29.08.2016 21:17",
+      "content": "pakistan kökenli ingiliz müzisyen. swet shop boys kurucularından.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "HUMAN"
+      ]
+    }
+  ]
+}

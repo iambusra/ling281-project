@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:35:17.061447",
+    "total_entries": 1,
+    "input": "14 mart 2022 rusların kiralık uçaklara el koyması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "14 mart 2022 rusların kiralık uçaklara el koyması",
+      "entry_id": "134934186",
+      "author": "sorugan",
+      "date": "14.03.2022 19:06 ~ 19:12",
+      "content": "ria.ru web sitesi haberine göre, rus havayolları tarafından kiralanan yabancı uçakların kullanımının tescil edilmesini ve ayrıca onlara rusya tarafından uçuşa elverişlilik sertifikalarının verilmesini mümkün kılan yasa onaylanmış.\n\nbu duruma leasing firmaları ne diyecek bakalım.",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY",
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

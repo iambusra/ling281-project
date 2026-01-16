@@ -1,0 +1,37 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:28:45.261598",
+    "total_entries": 2,
+    "input": "rusları sıcak denizlere dökmek",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rusları sıcak denizlere dökmek",
+      "entry_id": "7147060",
+      "author": "nalmes",
+      "date": "21.03.2005 14:55",
+      "content": "alan memnun satan memnun durumu.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "ECON",
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rusları sıcak denizlere dökmek",
+      "entry_id": "7147079",
+      "author": "kennyd",
+      "date": "21.03.2005 14:59",
+      "content": "sıcak denizde buhar oluşmasına neden olacak eylem",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

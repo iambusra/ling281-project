@@ -1,0 +1,38 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:23:48.186975",
+    "total_entries": 2,
+    "input": "ukraynalıların avrupa'nın suriyelileri olması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukraynalıların avrupa'nın suriyelileri olması",
+      "entry_id": "139330029",
+      "author": "yedinci element",
+      "date": "28.06.2022 15:48",
+      "content": "oğlum adamlar türkiye gibi yabancı delisi bir ülkede bile suri gibi davranmıyolar. avrupa'da mı davranacaklar? daha geçen burada plaj temizliği yapıyodu ukriler. surilerin çöplerini topluyolardı evet.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ukraynalıların avrupa'nın suriyelileri olması",
+      "entry_id": "139330310",
+      "author": "redkitindumani",
+      "date": "28.06.2022 15:56",
+      "content": "keşke bizdeki mültecilerde onlar kadar medeni, topluma yaşadığı yere çevreye saygılı olsa, ne bizde ne dünya ülkelerinde 13 14 yaşında anne olanı hiç görmedim ben. yaşadığı yeri kirleteni saldırgan olanı, listeyi uzatabiliriz.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    }
+  ]
+}

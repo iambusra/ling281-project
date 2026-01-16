@@ -1,0 +1,37 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:14:39.093569",
+    "total_entries": 2,
+    "input": "ukrayna'da trafik polisliğinin kaldırılması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukrayna'da trafik polisliğinin kaldırılması",
+      "entry_id": "7873302",
+      "author": "flues",
+      "date": "19.07.2005 08:42",
+      "content": "ukrayna devlet başkanı viktor yuşçenko nun ülkede yolsuzluğun sembolü haline geldiğini söyleyerek verddiği talimat. haberlere göre yuşçenko; \"bu hizmeti gözden düşürdünüz\" diye konuşup, ukraynada trafik polislerinin sadece insanlara eziyet için yollara çıktığını söylemiş ve 24 saat içinde bir yasa tasarısı hazırlanması için talimat vermiş.\n\nbu nasıl bir devlet? bu nasıl bir devlet başkanı? ve bizim trafik polislerimiz bunu duyunca neler hissedecek? gibi sorular geliyor akla ama, biz sadece allah allah deyip geçiyoruz efendim.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY",
+        "CRIME"
+      ]
+    },
+    {
+      "title": "ukrayna'da trafik polisliğinin kaldırılması",
+      "entry_id": "7873314",
+      "author": "fall blau",
+      "date": "19.07.2005 08:49",
+      "content": "trafik denilen hadise komple yasaklanarak hem trafik polislerinden hem trafik sıkı$ıklıgından kurtularak bir ta$la iki ku$ vurabilecekken kesinlikle yetersiz kalan cozumdur.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    }
+  ]
+}

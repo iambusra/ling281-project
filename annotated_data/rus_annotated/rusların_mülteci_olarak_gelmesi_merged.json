@@ -1,0 +1,38 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:35:19.461802",
+    "total_entries": 2,
+    "input": "rusların mülteci olarak gelmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rusların mülteci olarak gelmesi",
+      "entry_id": "134923943",
+      "author": "pehlivanoglu",
+      "date": "14.03.2022 14:20",
+      "content": "bir süredir mülteci cenneti haline dönüşen ülkemize şimdi de rusların geldiğine ilişkin haberler veriliyor.\n\nözellikle bilişim sektör çalışanlarının uzaktan çalışma olanağı olması nedeniyle gürcistan, ermenistan ve türkiye'yi tercih ettiklerine ilişkin haberler yayınlanmakta. hatta rus olagarklardan birinin çalışanlarıyla istanbul'a geldiği ve üç otel kapattığı da konuşuluyor.\n\nistanbul fatih semtinde çoğunlukla arapların taşınmaz satın aldıklarına tanık oluyoruz. öte yandan düzensiz göçmen olarak gelen afgan, suriyeli, iran, ırak ve lübnanlıların geldiği istanbul'da demografik yapının korunması ve çok seslilik için rus ve ukraynalıların gelmesi ümit verici olabilir. umarız ki bütün dünyadan insanların gelip yerleşeceği eskinin cazibe merkezi haline dönüşen bir istanbul görmek hepimiz için umut verici olacaktır.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "XENO",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "rusların mülteci olarak gelmesi",
+      "entry_id": "134924582",
+      "author": "kutchemes",
+      "date": "14.03.2022 14:35 ~ 14:36",
+      "content": "antalya bölgesinde yazın klimalar çalışmaya başlayınca gelen elektrik faturaları yüzünden kuzeye kaçabilirler. yada bizimkiler evlerini onlara satıp kaçar.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "ECON"
+      ]
+    }
+  ]
+}

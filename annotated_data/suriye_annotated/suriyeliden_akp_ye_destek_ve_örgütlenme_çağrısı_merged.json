@@ -1,0 +1,37 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:53:19.453680",
+    "total_entries": 2,
+    "input": "suriyeliden akp'ye destek ve örgütlenme çağrısı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeliden akp'ye destek ve örgütlenme çağrısı",
+      "entry_id": "126486979",
+      "author": "paranoyaqca",
+      "date": "03.08.2021 21:30",
+      "content": "süzmeyi gördünüz mü? görmediyseniz bir daha izleyin. net bir mevzu var. ülkenin başına bela olacak bunlar.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyeliden akp'ye destek ve örgütlenme çağrısı",
+      "entry_id": "126487241",
+      "author": "el pipita",
+      "date": "03.08.2021 21:36",
+      "content": "kumar oynayan suriyeli.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    }
+  ]
+}

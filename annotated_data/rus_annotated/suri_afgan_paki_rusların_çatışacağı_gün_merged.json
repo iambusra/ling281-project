@@ -1,0 +1,38 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:34:06.041603",
+    "total_entries": 2,
+    "input": "suri afgan paki rusların çatışacağı gün",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suri afgan paki rusların çatışacağı gün",
+      "entry_id": "144024689",
+      "author": "el hombre biscolata",
+      "date": "17.10.2022 17:51",
+      "content": "pek yakında türkiye'de sığınmacılar arasında yaşanabilecek durumdur.\n\ntıpkı avrupa'da çeçenlerin, kürtlerin, rusların, polakların, romanların, arnavutların birbirleriyle çatışması gibi türkiye'de yaşayan farklı etnik gruptan sığınmacılar da birbirleriyle çatışacaktır. olma ihtimali yüksektir.\n\nbiliyorsunuz suri, afgan, paki derken şimdi bir de ruslarımız, ukraynalılarımız, iranlılarımız oldu. bir de üstüne, ülke içinde sorun yaratan kürt ve çingene mafyamız da mevcuttu.\n\ntüm bu etnik grupların içinde suça en meyilli olan kesim birbirleriyle çatışıp sokak savaşlarını başlatabilir. bu nedenle emniyet güçlerimizin tetikte olmasında fayda var.\n\nsuri, afgan, paki, rus, ukraynalı, acem, kürt, çingene gibi gruplar karanlık işlerde tekeli üstlerine almak için birbirleriyle mücadeleye girişebilir ve bu durumda olan yine arada kalan vatandaşlarımıza olur.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE",
+        "CRIME"
+      ]
+    },
+    {
+      "title": "suri afgan paki rusların çatışacağı gün",
+      "entry_id": "144024847",
+      "author": "bensanayapicamyanarlidonerli",
+      "date": "17.10.2022 17:56 ~ 17:57",
+      "content": "oraya afrikalı da yazalım lütfen. orta sahaya koyarız. adamlarda çift ciğer var.\ntadım'a söyleriz spomsor olur. tam çitlemelik orgy olur.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "SEXUAL"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:14:45.158898",
+    "total_entries": 3,
+    "input": "11 mart 2022 rus ordusunun ukraynadan çekilmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "11 mart 2022 rus ordusunun ukraynadan çekilmesi",
+      "entry_id": "134774772",
+      "author": "sosciology",
+      "date": "11.03.2022 01:28",
+      "content": "ukrayna\nabd istihbaratı\n\n“rus ordusu summy çevresinden rusya'ya çekilmeye başladı. nedenini bilemiyoruz.”",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "11 mart 2022 rus ordusunun ukraynadan çekilmesi",
+      "entry_id": "134775137",
+      "author": "zekaliyimkkalin",
+      "date": "11.03.2022 01:38 ~ 01:43",
+      "content": "bir sonraki istihbarat: rus ordusu şu anda çok acayip şeyler yapıyor. acaba neden?\n\nistihabarata bak lan dürbünle bakıp gördüğünü söylemiş.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "11 mart 2022 rus ordusunun ukraynadan çekilmesi",
+      "entry_id": "134775139",
+      "author": "marpatlarin karadonasi",
+      "date": "11.03.2022 01:38",
+      "content": "kısa süreli bir araştırma sonucu uluslararası basında herhangi bir veriye ulaşamadığım başlık.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

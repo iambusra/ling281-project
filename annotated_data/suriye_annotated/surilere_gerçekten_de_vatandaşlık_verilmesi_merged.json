@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T14:55:29.192068",
+    "total_entries": 1,
+    "input": "surilere gerçekten de vatandaşlık verilmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "surilere gerçekten de vatandaşlık verilmesi",
+      "entry_id": "145805903",
+      "author": "kirtujj",
+      "date": "01.12.2022 21:07",
+      "content": "günaydın. \"31 aralık 2021 tarihine kadar 84 bin 152'si çocuk olmak üzere 193 bin 293 suriyeli türk vatandaşı oldu\" açıklamasını yapmıştı süleyman soylu. bu sayıyı en az 5 ile çarpmak lazım.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:30:00.782569",
+    "total_entries": 5,
+    "input": "ruslara gözdağı vermek için soğuk denizlere çıkmak",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ruslara gözdağı vermek için soğuk denizlere çıkmak",
+      "entry_id": "36516888",
+      "author": "inosenta",
+      "date": "30.08.2013 00:34",
+      "content": "işte buna stratejik derinlik derim. asırlardır ruslar sıcak denizlere inecek göt korkusuyla yerimizden kımıldayamaz olduk. dış politikamızda vizyon değişikliğine gidilip, yeni politikamıza dönüşmesi gereken paradigma önerim özetle.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "ruslara gözdağı vermek için soğuk denizlere çıkmak",
+      "entry_id": "36517118",
+      "author": "ne olacak yau",
+      "date": "30.08.2013 00:42",
+      "content": "(bkz: adam einstein beyler)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ruslara gözdağı vermek için soğuk denizlere çıkmak",
+      "entry_id": "36517476",
+      "author": "oziwankenozi",
+      "date": "30.08.2013 00:55",
+      "content": "kamçatka yarımadasında pide ve kebap salonu açarak şahlandıracağım eylem.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "ECON",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "ruslara gözdağı vermek için soğuk denizlere çıkmak",
+      "entry_id": "36518000",
+      "author": "massenzuschlagfaktor",
+      "date": "30.08.2013 01:14 ~ 01:19",
+      "content": "öncü birlik olarak sas ya da sat komandosu değil; yalnızca denizin buz gibi soğuk sularından gelen yarrak kullanabilen akıncıları göndermekle başlanacak stratejidir.\n\n(bkz: azericede silah)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "CRIME"
+      ]
+    },
+    {
+      "title": "ruslara gözdağı vermek için soğuk denizlere çıkmak",
+      "entry_id": "36518108",
+      "author": "turkcekarakterlinikimolsaydikeske",
+      "date": "30.08.2013 01:18",
+      "content": "(bkz: sikerler adamı)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "SEXUAL"
+      ]
+    }
+  ]
+}

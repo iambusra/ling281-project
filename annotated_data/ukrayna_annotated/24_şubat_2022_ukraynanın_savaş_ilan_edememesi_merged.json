@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:16:32.211697",
+    "total_entries": 1,
+    "input": "24 şubat 2022 ukraynanın savaş ilan edememesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "24 şubat 2022 ukraynanın savaş ilan edememesi",
+      "entry_id": "134841087",
+      "author": "sorugan",
+      "date": "12.03.2022 17:18 ~ 18:41",
+      "content": "ukraynalı blog yazarı ve gazeteci yuriy podolyaka, ukrayna'nın neden rusya'ya resmen savaş ilan etmediğini açıkladı.\n\n\"resmi olarak kiev rusya'ya karşı savaş ilan ederse, o zaman rusya, ukrayna topraklarından doğal gaz pompalama anlaşmasına göre teslimatları durdurabilir\" dedi .\n\nona göre, resmi olarak kiev yönetimi, avrupa birliği için sorun olacağından dolayı, bunu yapmaya cesaret edemezmiş.\n\nrus gazprom şirketi, anlaşmalarına uygun olarak ukrayna üzerinden transit geçiş için düzenli olarak gaz tedarik etmeye devam ediyormuş.\n\nsavaşın ilanı, egemene verilmiş bir yetkidir. 1907 lahey sözleşmesi, düşmanlıkların açılmasına ilişkin sözleşme'sinde belirlenmiştir.\n\nfakat teknik olarak birbirleri ile halen savaşta olan ülkeler de mevcut. örneğin güney kore ile kuzey kore, çin ile japonya halen teknik olarak birbirleri ile savaştalar ve aralarında geçici ateş kes mevcut, ama birbirlerini yok etmiyorlar.\n\ndünya savaşsız daha güzel.",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY",
+        "ECON"
+      ]
+    }
+  ]
+}

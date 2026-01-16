@@ -1,0 +1,38 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:31:01.344887",
+    "total_entries": 2,
+    "input": "ruslarla iş yapmaya çalışmak",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ruslarla iş yapmaya çalışmak",
+      "entry_id": "27784036",
+      "author": "kufluekmek",
+      "date": "16.03.2012 15:28",
+      "content": "rusya ve eski rusya pazarı ile iş yapmaya çalışan insanları zıvanadan çıkaran, delirten, rus rahatlığının ve genişliğinin başı çektiği iş ilişkileri ve bunları yürütme çabalarının ziyanlık kısmıdır.\n\n- ruslar telefonlarına bakmaz, cep telefonundaki çağrıya asla geri dönmezler.\n- telefonda anlamadıkları bir şey olursa yüzünüze telefon kapatmaktan çekinmezler.\n- göndermeleri gereken evrakları zamanında göndermez ve sizi yalancı konumuna düşürebilirler.\n- seni çok kolay kandırabileceğini düşünürler. salak zannederler seni. öyle gibi de davranırlar.\n- günaydın, iyi günler, iyi haftalar gibi dilekler ruslarda yoktur.\n- ingilizce bilgileri oldukça kötüdür. olur da ingilizce bir şey sorarsanız çat diye suratınıza kapatırlar telefonu. o telefon hiç gelmemiş gibi davranır sekreterleri. şark kurnazıdırlar.\n- bozacıya boza, tereciye tere satmaya çalışırlar. onlara para kazandırırsan''yoldaş'' olursun, yoksa acil bir iş için onlara ulaşman dhl kargonun onlara ulaşmasından daha yavaş olur.\n- şirketler ve fabrikalar, çalışanlarının umurunda değildir. çalışanları''banane'' modundadırlar.\n\nbu dahil bütün genellemeler yanlıştır tamam. ama bir insanın portföyünde 39 tane rus ve rusya kökenli fabrika var ise, bunlarla haftada en az bir kere görüşmesi gerekiyor ve deli oluyor ise yaldır yaldır da geneller işte.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ruslarla iş yapmaya çalışmak",
+      "entry_id": "131480636",
+      "author": "circasian",
+      "date": "24.12.2021 00:49",
+      "content": "çalışılan bir projede çok net bir soru sorduğunuzda (mesela \"elektrik bağlantılarının yüzde kaçı tamamlandı?\" gibi) karşınızdaki rus size inşaat temellerinden bahsetmeye başlayabilir. şaşırmayın. 10-15 dakika konuştuktan sonra konuyu hiç bir yere bağlamadan şantiyedeki hava şartlarından bahsetmeye başlayabilir. \"herhalde olumsuz hava şartlarıyla bağlantı kurup işlerin geride kalmasını açıklayacak\" diye düşünebilirsiniz. düşünmeyin. çünkü birazdan o konuyu da hiç bir yere bağlamadan bambaşka bir konudan bahsetmeye başlayacaktır. mesela ren geyiklerini anlatmaya başlayabilir. ya da marsta hayat olma ihtimalini. \"çüş artık bu kadarı da fazla. zaten yarım saattir boş laflar dinliyoruz\" diyerek müdahele etmek isteyebilirsiniz. etmeyin, çünkü bu sefer de \"konuşmama izin versen bütün sorularının cevabını zaten alacaksın\" diye size trip atar. yalnız bu trip atma faslı da ortalama 10-15 dakika sürer. siz hiç ağzınızı açmadan dinleseniz de 10-15 dakika boyunca \"benim sözümü kestin, konuşturmadın. konuştursan hepsini anlatacaktım\" der.\n\n\"lan tamam konuş artık ne diyeceksen de\" derseniz neden bu kadar gergin olduğunuzla ilgili olarak bir 10-15 dakika daha boş konuşur. en sonunda 1.5 - 2 saatlik toplantıyı tamamen zaman kaybı olarak tamamlamış olursunuz.\n\n\"demek ki bu adamların kültürü böyle, bunlarla net iletişim kurmak çok zor\" diye düşünürsünüz. ta ki karşı taraf sizden bir bilgi talep edene veya hesap sorana kadar. o zaman o kadar net, o kadar sonuç odaklı, o kadar boş lafa ve zaman kaybına tahammülsüz olurlar ki şaşarsınız. geçen toplantıyı laf salatasıyla bitiren adamlar ne ara ingiliz / amerikan kültürünü benimsedi de bu kadar sonuç odaklı oldular dersiniz.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "CULTURE"
+      ]
+    }
+  ]
+}

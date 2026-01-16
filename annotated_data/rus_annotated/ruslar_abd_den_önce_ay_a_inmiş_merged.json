@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:30:18.591031",
+    "total_entries": 1,
+    "input": "ruslar abd'den önce ay'a inmiş",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ruslar abd'den önce ay'a inmiş",
+      "entry_id": "16444660",
+      "author": "morkahve",
+      "date": "06.07.2009 16:38",
+      "content": "gazeteport'un haberi.\nhabere gore, abd'nin 21 temmuz 1969'da ay'a ayak basmasindan saatler evvel insansiz sovyet araci \"luna 15\" ay'a cakilmis (bu da bi temas tabi).\nses kayitlari ay'a ayak basilmasinin 40. yili dolayisiyla sir bernard lovell tarafindan aciga cikarilmis.\n\nhaberin tamami: http://www.gazeteport.com.tr/dunya/news/gp_493675\n\nradikal'de de cikmasi killandiriyor iste bir. (http://www.radikal.com.tr/…06.07.2009&categoryid=79) yoksa cerez niyetine gizemli haberlerden herhal bu da, der gecerdim. (bkz: star gazete) ne kadar ciddidir/degildir bilinmez. iskillendirdigiyle kaliyor insani: simdi bu ingilizler neden 40 sene beklemisler bu kayitlar icin? simdi ruslar'a yaltaklanma ihtiyaci mi duyuyorlar, nedir? abd'ye akillarinca leke surme cabasi midir? boyle bi' sey varsa sovyetler nicin sus pus kalmislar (kalmadilarsa bile kaale alinmamis olabilirler gerci - soylemlerinin yarisi palavra, kandirmaca oldugundan zamanla yalanci coban kivamina gelmelerini de anlamak gerek)?\nuzar gider, bilinmez...",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

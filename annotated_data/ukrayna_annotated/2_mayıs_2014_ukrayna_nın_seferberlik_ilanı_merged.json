@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:16:08.593294",
+    "total_entries": 2,
+    "input": "2 mayıs 2014 ukrayna'nın seferberlik ilanı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "2 mayıs 2014 ukrayna'nın seferberlik ilanı",
+      "entry_id": "42447871",
+      "author": "doxanikee",
+      "date": "02.05.2014 13:52",
+      "content": "1-2 ay geç kalmış seferberlik. ulan ülkenin yarısı elden çıkıyor amma erkencisiniz amk.\n\ntamam karşıdaki rusya falan da toprağını koruyamıyorsan halk demez mi ne diye başımızda duruyorsun diye?",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "2 mayıs 2014 ukrayna'nın seferberlik ilanı",
+      "entry_id": "42448923",
+      "author": "lion wolf fox",
+      "date": "02.05.2014 14:34 ~ 14:35",
+      "content": "bildiğin iç savaş habercisi. birbirlerine kardeş milletlerin ne kadar kısa bir sürede birbirine nefret duyabileceğine dair bir örnektir bu. (bkz: toplumsal algı yönetimi)\n\nbugün helikopter falan düşürdüler ukrayna'da. ilk gerilim günlerindeki iki ülkenin karşı karşıya gelmiş komutanlarının aynı çerçevede dostça bulunup basın açıklaması yaptığı kareler ile bugünkü savaş karelerinin alakası yok.\n\nayrıca ukraynalı bir arkadaş ımın burada bir şey yok size abartarak gösteriyorlar dediği ülkedeki son gelişmelerdir.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HUMAN"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:30:05.184521",
+    "total_entries": 3,
+    "input": "akp'nin iki milyon suriyeliye iş bulma telaşı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "akp'nin iki milyon suriyeliye iş bulma telaşı",
+      "entry_id": "46814770",
+      "author": "sourbeyi",
+      "date": "05.11.2014 20:15",
+      "content": "kemal kılıçdaroğlu'nun beyanatı.\n\ntam olarak şöyle;\n\niki milyon suriyeli burada, hükümetin telaşı'onlara nasıl iş bulacağız' diye.\nbizim üç milyon vatandaşımız işsiz, onlara kulakları kapalı.\n\nilgili görsel",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE",
+        "ECON"
+      ]
+    },
+    {
+      "title": "akp'nin iki milyon suriyeliye iş bulma telaşı",
+      "entry_id": "46814817",
+      "author": "sourbeyi",
+      "date": "05.11.2014 20:18",
+      "content": "vatanını koruması gereken insanlar, benim ülkeme gelmişse, vatanı için hainlik yapmıştır.\n\nbunların benim ülkem için ne yapacağı ise hiç belli olmaz.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "akp'nin iki milyon suriyeliye iş bulma telaşı",
+      "entry_id": "46815840",
+      "author": "solaryum",
+      "date": "05.11.2014 21:11",
+      "content": "işsiz akitleri daha bir akp'ye bağlayacak olay. mantık yok elbette.\n\ncibilliyetinizi seveyim sizin.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    }
+  ]
+}

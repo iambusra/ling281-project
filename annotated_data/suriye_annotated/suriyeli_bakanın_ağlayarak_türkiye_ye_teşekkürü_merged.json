@@ -1,0 +1,38 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:48:18.650057",
+    "total_entries": 2,
+    "input": "suriyeli bakanın ağlayarak türkiye'ye teşekkürü",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeli bakanın ağlayarak türkiye'ye teşekkürü",
+      "entry_id": "175289931",
+      "author": "portekizli forvet",
+      "date": "14.05.2025 09:27",
+      "content": "recep tayyip erdoğan liderliğinde türkiye'nin mazlumlara olan desteğinin sonucu.\n\n--- spoiler ---\n\nsuriye ekonomi bakanı nidal al-shar, abd'nin kendilerine uyguladığı yaptırımları kaldırılması sebebiyle canlı yayında gözyaşlarına hakim olamadı. nidal, türkiye ve katar'a da teşekkürlerini iletti.\n--- spoiler ---\n\nhttps://www.ensonhaber.com/…turkiyeye-tesekkur-etti",
+      "has_external_url": true,
+      "sentiment_numeric": 5,
+      "categories": [
+        "HUMAN",
+        "POLICY",
+        "ECON"
+      ]
+    },
+    {
+      "title": "suriyeli bakanın ağlayarak türkiye'ye teşekkürü",
+      "entry_id": "175289989",
+      "author": "terminus yerlisi",
+      "date": "14.05.2025 09:30 ~ 09:31",
+      "content": "türk halkının yıllardır anasının ağlamasının yanında hiçbir şeydir.\nzaten hep yabancılar minettar erdoğan'a. erdoğan için türk olmasın, yeter.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    }
+  ]
+}

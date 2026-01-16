@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:32:34.695055",
+    "total_entries": 2,
+    "input": "rusların new york'u ele geçirmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rusların new york'u ele geçirmesi",
+      "entry_id": "167248439",
+      "author": "erimeyenbalya",
+      "date": "11.08.2024 13:59",
+      "content": "ukrayna ordusunun kursk ve belgorod işgalinin ardından rus ordusu da donetsk ilinin 38 kilometre kuzeydoğusundaki new york kasabasını ele geçirdi.\n\ngörsel\n\nkaynak: rusya ve ukrayna genelkurmayı + liveuamap",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rusların new york'u ele geçirmesi",
+      "entry_id": "167249136",
+      "author": "proletarya diktatoru",
+      "date": "11.08.2024 14:23",
+      "content": "istanbul'a girdiler. viyana'ya girdiler. berlin'e girdiler. fransızları rezil ettiler. şimdi new york'a da girdiler.\n\nsanırım sıra londra'da.\n\nbir gece ansızın gelebilirler.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    }
+  ]
+}

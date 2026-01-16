@@ -1,0 +1,76 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:31:14.113391",
+    "total_entries": 5,
+    "input": "ruslarla savaş başlarsa nereye kaçacağız lan biz",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ruslarla savaş başlarsa nereye kaçacağız lan biz",
+      "entry_id": "67220608",
+      "author": "noryth aquanum",
+      "date": "02.04.2017 10:15",
+      "content": "kadıköy'den bi duvar yazısı. altta araplar yanlarda rus yancıları.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ruslarla savaş başlarsa nereye kaçacağız lan biz",
+      "entry_id": "67220637",
+      "author": "kor nokta",
+      "date": "02.04.2017 10:18",
+      "content": "savaştan kaçmayı düşünen ezik beyanı.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ruslarla savaş başlarsa nereye kaçacağız lan biz",
+      "entry_id": "67220795",
+      "author": "you are no longer a prisoner of fate",
+      "date": "02.04.2017 10:37 ~ 10:50",
+      "content": "(bkz: kapitalist barış teorisi)\n\ntopraklarında mcdonald's olan iki ülke birbirleri ile savaşmaz. tespitin ilk yapıldığı dönem sonrasında firmanın neredeyse tüm dünyaya ve halen savaşan ülkelere de yayılmış olması nedeniyle yanlışlandığı durumlar ortaya çıkmış ve bunlar da ilgili başlıkta yer alsa da, bir \" tarihin sonu \" değildir ve geçerliliği yine de yüksektir, içiniz rahat olsun.\n\n(bkz: mcdonald's bayisi olan ülkeler birbiriyle savaşmaz)\n\nayrıca:\n(bkz: mcdonalds endeksi)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ruslarla savaş başlarsa nereye kaçacağız lan biz",
+      "entry_id": "67220940",
+      "author": "sessizliman83",
+      "date": "02.04.2017 10:50 ~ 12:31",
+      "content": "savaşmayı. ölmeyi öldürmeye reddediyorum.\n\nçok mu zor bunu söylemek? pisliklerin çıkarmış olduğu savaşları pislikleri öldürerek son verebiliriz bu da başka alternatif. kim çıkarıyorsa o ölsün . benim rusla, türkle, kürtle,\ningilizle,ermeniyle, yahudiyle, müslümanla işim yok onlarında benle olmasın sokarım bayraklarınada sınırlarınada",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ruslarla savaş başlarsa nereye kaçacağız lan biz",
+      "entry_id": "67221005",
+      "author": "delikanlininja",
+      "date": "02.04.2017 10:56",
+      "content": "fazla seçenek yok\n1) suriyenin turistik mekanlarına akın ederiz\n2) soğuk kutup denizine ulaşana dek...",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    }
+  ]
+}

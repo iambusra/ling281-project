@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:24:57.684396",
+    "total_entries": 1,
+    "input": "rusya'ya gidip hem rus'a hem fener'e koymak",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rusya'ya gidip hem rus'a hem fener'e koymak",
+      "entry_id": "41984834",
+      "author": "cimbomluali",
+      "date": "13.04.2014 21:12",
+      "content": "bir taşla iki kuş vurmaktır kıskananları çatlatan bir başarıdır.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

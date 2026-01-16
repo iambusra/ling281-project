@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:34:48.131060",
+    "total_entries": 1,
+    "input": "rusların schengen vizesini indirimli alması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rusların schengen vizesini indirimli alması",
+      "entry_id": "137886041",
+      "author": "evrimgecirmiscivciv",
+      "date": "25.05.2022 12:30 ~ 12:34",
+      "content": "2007 yılından beri var olan durum.\n\nidata web sitesine göre vize kolaylığı anlaşmaları sayesinde arnavutluk, ermenistan, azerbaycan, bosna hersek, gürcistan, yeşil burun adaları, makedonya, moldova, karadağ, rusya, sırbistan, ukrayna ve kosova vatandaşları türkiye cumhuriyeti vatandaşlarının 80 euro ödediği vizeye 35 euro ödeyerek başvurabiliyorlar.\n-yukarıda sayılan ülkelerden çoğu vize serbestisi aldı günümüzde-\n\n--- spoiler ---\n\nkolaylaştırılmış işlemler ile daha hızlı vize işlem süreleri, azaltılmış vize ücreti veya ücretsiz vize başvuru işlemleri, istenilen belgelerin listesini azaltmasını sağlamaktadır.\n\n--- spoiler ---\n\nbatının iki yüzlülüğün ve bizim rezalet dış politikamızın sonucu olarak avrupa'nın düşmanı olarak gördüğü rusya federasyonun vatandaşları bile ab aday ülkesi olan türkiye'nin vatandaşlarından daha çok değer görüyor.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY",
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

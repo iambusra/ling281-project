@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:25:17.437668",
+    "total_entries": 1,
+    "input": "abd yaptırımı nazizme direnmiş rusa diz çöktüremez",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "abd yaptırımı nazizme direnmiş rusa diz çöktüremez",
+      "entry_id": "69996005",
+      "author": "lesvos",
+      "date": "06.08.2017 01:39",
+      "content": "putin reisin çıkarıp trump'ın yüzüne vurduğu söylemdir. tabi söylemin arkasında ne kadar durur orası ayrı konu ama şunu unutmamak lazım, kimse rusya'yı ve rusları açlıkla terbiye edemez...",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY",
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

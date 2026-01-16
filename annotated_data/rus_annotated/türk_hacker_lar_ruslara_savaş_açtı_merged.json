@@ -1,0 +1,62 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:30:13.415810",
+    "total_entries": 4,
+    "input": "türk hacker'lar ruslara savaş açtı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türk hacker'lar ruslara savaş açtı",
+      "entry_id": "10093666",
+      "author": "apoptosis",
+      "date": "28.09.2006 17:39 ~ 17:40",
+      "content": "işi gücü bırakan türk hackerları, polat alemdar'ın daha önce ruslar'a savaş açtığınızı gözlemlemişti. akabinde düşünüp taşınıp ruslar'a savaş açmak vasıtasıyla polat abilerine olan vefalarını, saygılarını göstermek istemişler. kutluyoruz.\n\n(bkz: bin bilsen de bir bilene danış)",
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "türk hacker'lar ruslara savaş açtı",
+      "entry_id": "10093737",
+      "author": "tetrahydrocannabinol",
+      "date": "28.09.2006 17:58",
+      "content": "(bkz: ruslarin sicak denizlere inme istegi)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "türk hacker'lar ruslara savaş açtı",
+      "entry_id": "10093745",
+      "author": "lykos",
+      "date": "28.09.2006 17:59",
+      "content": "(bkz: türk hekırları gitsin rus hekırları gelsin)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "türk hacker'lar ruslara savaş açtı",
+      "entry_id": "10093782",
+      "author": "loknar",
+      "date": "28.09.2006 18:11",
+      "content": "nuke atma kavramının iyi sınırlandırılması gereken savaş. zira kavram fiziksel nuke'lerle işlenirse savaşın süre ve işlenişi de kelime anlamı ile göz kamaştırır .",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

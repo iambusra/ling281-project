@@ -1,0 +1,37 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:20:06.444265",
+    "total_entries": 2,
+    "input": "antalya'daki rus ve ukraynalı sorunu",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "antalya'daki rus ve ukraynalı sorunu",
+      "entry_id": "155187532",
+      "author": "nevonevo",
+      "date": "01.08.2023 21:53",
+      "content": "artık büyük bir sorun haline gelmektedir. ülkelerindeki savaştan kaçıp burada kendilerine hayat kurduklarını sanıyorsanız yanılıyorsunuz.\n\nkendileri resmen şehrin sahibi gibi hareket etmekte.\n\nbir markette kasiyer azarlamaktan tutun, parkta çocuklara musallat olan medeniyet görmemiş çocuklarını uyarmamalarına kadar.\n\ntrafikte kurallara uymadıkları gibi sanki herşey onlar için varmışcasına yaşamaları artık sabır çatlatıyor.\n\nha bu noktada tek suçlu tabiki bunlar değil, bunların ülkemize girişini sağlayanlardan tutun evini pahalıdan verip kar ettiğini sanan mal sahiplerine kadar herkes suçlu.\n\nsuriyeliler ile ileride kendi ülkemizde toprak kavgası yaparlarsa şaşırmayın sakın.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "antalya'daki rus ve ukraynalı sorunu",
+      "entry_id": "155270344",
+      "author": "chicagolu mutsuz punk",
+      "date": "04.08.2023 04:44",
+      "content": "(ara: antalya* rus*)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

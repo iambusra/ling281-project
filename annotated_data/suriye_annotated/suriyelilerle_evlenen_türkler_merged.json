@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T16:09:19.424954",
+    "total_entries": 1,
+    "input": "suriyelilerle evlenen türkler",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelilerle evlenen türkler",
+      "entry_id": "90923233",
+      "author": "papazi dovdurmeyecektik",
+      "date": "05.06.2019 20:50 ~ 20:52",
+      "content": "henüz görmedim duymadım ancak 5 milyonluk suriyeli nüfusunu göz önünde bulundurunca var olduklarını düşünmüyor da değilim. güneydoğu bölgesinden bahsetmiyorum tabi ki, orada eskiden de yaygındı bu durum. fakat batı bölgelerinde bu evliliklerin sayısı artmaya başlarsa bu işin önü asla alınamaz. bugün bir kısmımızın misafir(!) beyin faaliyeti olan kısmımızınsa işgalci olarak gördüğü suriyeliler bu ülkenin ebediyen ayrılmaz bir parçası haline gelir. senelerdir \"türk, kürt, çerkez, laz...\" diye giden kardeşlik mottomuza suriler de eklenir, altınlar dörde bölünür. aman diyeyim.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    }
+  ]
+}

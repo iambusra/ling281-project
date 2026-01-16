@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T15:32:45.666171",
+    "total_entries": 1,
+    "input": "ab ye misilleme olarak suriyelileri salmak",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ab ye misilleme olarak suriyelileri salmak",
+      "entry_id": "96358786",
+      "author": "1996",
+      "date": "09.10.2019 23:31",
+      "content": "sadece suriyeli değil, afganlı falan da karıştırılması gerekli.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    }
+  ]
+}

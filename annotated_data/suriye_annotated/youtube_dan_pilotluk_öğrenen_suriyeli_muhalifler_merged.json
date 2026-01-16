@@ -1,0 +1,73 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:14:07.487349",
+    "total_entries": 5,
+    "input": "youtube'dan pilotluk öğrenen suriyeli muhalifler",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "youtube'dan pilotluk öğrenen suriyeli muhalifler",
+      "entry_id": "170904705",
+      "author": "el x",
+      "date": "10.12.2024 15:14 ~ 15:19",
+      "content": "subhanallah kardeş dedirten ibretlik olay.\n\nkaynak",
+      "has_external_url": true,
+      "sentiment_numeric": 4,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "youtube'dan pilotluk öğrenen suriyeli muhalifler",
+      "entry_id": "170904743",
+      "author": "tabloescobar",
+      "date": "10.12.2024 15:16",
+      "content": "ekşi sözlüğe bir daha gelirsem alacağım nick bu başlık olurdu sanırım.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "youtube'dan pilotluk öğrenen suriyeli muhalifler",
+      "entry_id": "170904745",
+      "author": "islandandhero",
+      "date": "10.12.2024 15:16",
+      "content": "komşu olmamız hiç iyi olmadı.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "youtube'dan pilotluk öğrenen suriyeli muhalifler",
+      "entry_id": "170904804",
+      "author": "nickimi getirin ulen",
+      "date": "10.12.2024 15:19 ~ 15:23",
+      "content": "şaka maka elime bir uçak ya da helikopter geçse ben de şöyle videolara bi göz atardım. uçurmasam bile en azından nasıl çalışıyor diye bi bakardım.\n\nzira çalışan bir şeyin nasıl çalıştığını merak etmeyen erkek gaydır.\n\nt:merakına yenik düşen muhaliflerdir.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "SEXUAL"
+      ]
+    },
+    {
+      "title": "youtube'dan pilotluk öğrenen suriyeli muhalifler",
+      "entry_id": "170904815",
+      "author": "subarus",
+      "date": "10.12.2024 15:19",
+      "content": "suriye hava kuvvetleri bundan sonra aşağı yukarı böyle olacak,\nbu durumu bölgede en çok israil isterdi.\noldu.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    }
+  ]
+}

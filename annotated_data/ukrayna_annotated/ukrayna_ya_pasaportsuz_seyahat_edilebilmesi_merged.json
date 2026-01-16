@@ -1,0 +1,77 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:10:13.344320",
+    "total_entries": 5,
+    "input": "ukrayna'ya pasaportsuz seyahat edilebilmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukrayna'ya pasaportsuz seyahat edilebilmesi",
+      "entry_id": "68215487",
+      "author": "bikahveicseks",
+      "date": "17.05.2017 20:55",
+      "content": "ukraynalı kızlar da emin olun türk erkekleri gelsin de bizi sksin diye bekliyorlardır.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "SEXUAL",
+        "XENO",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "ukrayna'ya pasaportsuz seyahat edilebilmesi",
+      "entry_id": "68215520",
+      "author": "kaptoglikolipit",
+      "date": "17.05.2017 20:56",
+      "content": "başlığı gördükten sonra \"ukrayna hakkında her şey\" cümlesiyle googleladığım gerçektir.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'ya pasaportsuz seyahat edilebilmesi",
+      "entry_id": "68215670",
+      "author": "watashi wa poko desu",
+      "date": "17.05.2017 21:04 ~ 21:05",
+      "content": "(bkz: ukrayna'ya kimlik kartı ile seyahat mutabakatı)\n(bkz: hayırlı olsun kardeş internet bağlatmışsın)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY",
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'ya pasaportsuz seyahat edilebilmesi",
+      "entry_id": "68215912",
+      "author": "alexei ivanovich",
+      "date": "17.05.2017 21:17",
+      "content": "yeni kimliklerin dağıtımının, yoğunluktan ötürü geç olmasından -takribi 3 ay- mütevellit seyahat planlarını erteletebilen durum.\n\nhafta sonu aksilik çıkmazsa pasaport ile ukrayna seyahati planlıyorum. dönüşte de herhalde yeni kimliğime kavuşmuş olurum. benim için yeni kimlikle seyahat, başka ülkeye kısmetmiş:)\n\nrayına oturduğunda güzel bir uygulama olduğu görülecektir. diğer ülkelerle de vize ve pasaport sorunlarının çözülmesi dileğiyle diyelim.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY",
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'ya pasaportsuz seyahat edilebilmesi",
+      "entry_id": "68545142",
+      "author": "arkasinabakamayanbukalemun",
+      "date": "01.06.2017 13:26",
+      "content": "bugün resmen başlamış olay. sadece kimlik kartıyla giriş çıkış yapılabiliyormuş.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY",
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

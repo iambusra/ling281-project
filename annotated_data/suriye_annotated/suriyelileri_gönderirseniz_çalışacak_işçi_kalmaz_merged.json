@@ -1,0 +1,38 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:00:34.025663",
+    "total_entries": 2,
+    "input": "suriyelileri gönderirseniz çalışacak işçi kalmaz",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelileri gönderirseniz çalışacak işçi kalmaz",
+      "entry_id": "145585342",
+      "author": "unicus",
+      "date": "26.11.2022 16:53",
+      "content": "1923'te atatürk'ün liderliğinde bir avuç idealist subay tarafından dünyaya meydan okuyarak kurulan bu ülkenin iş gücünü 99 yıldır suriyeli kekolar mı karşılıyordu?\nyasalara göre değil de boğaz tokluğuna bunları çalıştırabildiğiniz için böyle düşünüyor olabilir misiniz?\nçalışana hakkını vermekten aciz çakal sürüsüne bak sen. ülkede genç nüfus mu kalmadı lan?",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyelileri gönderirseniz çalışacak işçi kalmaz",
+      "entry_id": "145585644",
+      "author": "lucklucki",
+      "date": "26.11.2022 17:03",
+      "content": "kalifiyeli işçi bulamıyorum. ben buraya takildim. ulkesinden kacan insanlar ne ara okuyup kendini gelistirip kalifiyeli hale geldiler? sanki bizim ulke de ki butun kalifiyeli elaman yurt disina kacmis gibi. doktor ve yazilim haricinden yurt disi almiyorki.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "ECON",
+        "POLICY"
+      ]
+    }
+  ]
+}

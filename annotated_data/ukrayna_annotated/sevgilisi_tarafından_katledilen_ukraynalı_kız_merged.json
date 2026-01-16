@@ -1,0 +1,50 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:20:25.734829",
+    "total_entries": 3,
+    "input": "sevgilisi tarafından katledilen ukraynalı kız",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "sevgilisi tarafından katledilen ukraynalı kız",
+      "entry_id": "152552242",
+      "author": "tavuklu pilav beybi",
+      "date": "18.05.2023 22:31",
+      "content": "ukraynalı alona savchenko, tayland'da sevgilisi tarafından bıçaklanarak ve testereyle canice katledilmiştir.\n\nkendisi benim istanbul'da çalıştığım eski kurumdan arkadaşımdır. aisec programıyla çeşitli yerlere giden bi arkadaşımızdı. zeki, kültürlü, neşeli bir karaktere sahipti. haberi alınca mahvolduk.\n\nmedyanın onun modellikten kalma seksi fotoğraflarını kullanarak haberi paylaşması ve yapılan arsız yorumlar kendisine ve yakınlarına yapılmış büyük bir saygısızlıktır\n\nkadınsan ölüne bile saygının olmadığını bir kez daha göstermiş oldular.\n\nilgili rezalet paylaşım\n\ntürkçe kaynak",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CRIME",
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "sevgilisi tarafından katledilen ukraynalı kız",
+      "entry_id": "152552367",
+      "author": "planescapetorment",
+      "date": "18.05.2023 22:34",
+      "content": "katilinin aynı şekilde hatta daha beter bir cezayla idam edilmesini umduğum olay. tayland'da yanlış bilmiyorsam idam var, inşallah o cezayı alır.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CRIME",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "sevgilisi tarafından katledilen ukraynalı kız",
+      "entry_id": "152552490",
+      "author": "kallavici",
+      "date": "18.05.2023 22:38 ~ 22:39",
+      "content": "bir an olayın türkiye'de yaşandığını, kızın sevgilisinin de türk olduğunu sandım.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:22:34.619911",
+    "total_entries": 2,
+    "input": "depremde ölen çocuklarla dalga geçen ukraynalılar",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "depremde ölen çocuklarla dalga geçen ukraynalılar",
+      "entry_id": "148699668",
+      "author": "ayar yildizi",
+      "date": "06.02.2023 21:19",
+      "content": "ulan memleketin kendi gençleri enkaz altındakilerle taşak geçiyor. bu mı kanınıza dokundu? münferittir.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "depremde ölen çocuklarla dalga geçen ukraynalılar",
+      "entry_id": "148699752",
+      "author": "swollenmember",
+      "date": "06.02.2023 21:20 ~ 07.02.2023 03:04",
+      "content": "depremde ölen çocuklarla dalga geçen türk vatandaşları da var.\n\nukraynalı olup da böyle yapanlar türk olup da yapanlardan tahminimce azdır (oran olarak, sayıca her türlü azdır çünkü çoğunun haberi olmamıştır zaten daha).\n\nsırf provokasyon amaçlı tırto tırto şeyler paylaşmak da ne bileyim.\n\nedit: başlığı açan kaçmış, ondan bir sonraki entry de o gidince silmiş, ondan bir sonraki entry de silerse başlık bana kalır, peşinen editleyip belirteyim dedim kajsdnjkan.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

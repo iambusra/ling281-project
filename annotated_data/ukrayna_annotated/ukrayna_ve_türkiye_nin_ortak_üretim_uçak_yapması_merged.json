@@ -1,0 +1,49 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:15:53.172468",
+    "total_entries": 3,
+    "input": "ukrayna ve türkiye'nin ortak üretim uçak yapması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukrayna ve türkiye'nin ortak üretim uçak yapması",
+      "entry_id": "60502481",
+      "author": "matilda effect",
+      "date": "13.05.2016 19:35",
+      "content": "(bkz: antonov)\n\nticaret ve ekonomik işbirliği anlaşması sonrasında yeni gelişen karar.\n\nkaynak",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY",
+        "ECON"
+      ]
+    },
+    {
+      "title": "ukrayna ve türkiye'nin ortak üretim uçak yapması",
+      "entry_id": "60502735",
+      "author": "idi imis ise dir nedir",
+      "date": "13.05.2016 19:51",
+      "content": "okuyamadık kardeş rusçamız yoktu.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna ve türkiye'nin ortak üretim uçak yapması",
+      "entry_id": "60502767",
+      "author": "bestseb",
+      "date": "13.05.2016 19:54",
+      "content": "âlâ",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

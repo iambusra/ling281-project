@@ -1,0 +1,37 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:40:47.815439",
+    "total_entries": 2,
+    "input": "chp'li belediyelerden suriyelilere ırkçı mizah",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "chp'li belediyelerden suriyelilere ırkçı mizah",
+      "entry_id": "170874657",
+      "author": "beytiahzan",
+      "date": "09.12.2024 13:34",
+      "content": "düşük iqlu kitlesine hitap eden seviyede komik olmayan aptalliklar içermektedir.\nhttps://x.com/…962741?t=ze5ykoexf0dqjahun7pw1a&s=19\naslında kendilerine yakın gördükleri baas rejiminin yıkılmasıyla yaşadıkları mabad yangının yansıması bunlar. o kadar moralleri bozuk ki, böyle şakalar yapıp belli etmemeye çalışıyorlar.\nsıra bizim heykellere de gelir korkusundan bunlar hep.",
+      "has_external_url": true,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "chp'li belediyelerden suriyelilere ırkçı mizah",
+      "entry_id": "170874914",
+      "author": "yetkin99",
+      "date": "09.12.2024 13:46",
+      "content": "düşük zekâlı seçmenlerini uyutmak için yaptıkları boktan espridir.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE"
+      ]
+    }
+  ]
+}

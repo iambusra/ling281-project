@@ -1,0 +1,73 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:08:45.289206",
+    "total_entries": 5,
+    "input": "rusya'nın finlandiya varken ukraynayı işgal etmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rusya'nın finlandiya varken ukraynayı işgal etmesi",
+      "entry_id": "42664712",
+      "author": "gezegen olan pluton",
+      "date": "11.05.2014 16:30 ~ 19.05.2014 17:02",
+      "content": "zamanında defalarca işgal ettiklerinden hatta finlandiya'nın asıl topraklarının üçte birinin şu an rus toprağı olduğunu incelersek; finlilerdeki rus korkusu, bu kadar gelişmiş bir ülke olmasına rağmen, askerliğin zorunlu olarak tutulması ile anlaşılabilir.\n\nedit:imla",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "rusya'nın finlandiya varken ukraynayı işgal etmesi",
+      "entry_id": "42664817",
+      "author": "arsizca yaladim leopari",
+      "date": "11.05.2014 16:36",
+      "content": "(bkz: simo hayha)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rusya'nın finlandiya varken ukraynayı işgal etmesi",
+      "entry_id": "42664863",
+      "author": "eys of speyds",
+      "date": "11.05.2014 16:39",
+      "content": "(bkz: dolmuş parasını sen mi vercen)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rusya'nın finlandiya varken ukraynayı işgal etmesi",
+      "entry_id": "42664887",
+      "author": "i",
+      "date": "11.05.2014 16:40",
+      "content": "(bkz: türkiye dururken rusya'nın ukraynayı işgal etmesi)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CRIME"
+      ]
+    },
+    {
+      "title": "rusya'nın finlandiya varken ukraynayı işgal etmesi",
+      "entry_id": "134356773",
+      "author": "sparkettin",
+      "date": "01.03.2022 09:12",
+      "content": "1939-1940 fin sovyet savaşı nda derslerini aldıklarından olabilir.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

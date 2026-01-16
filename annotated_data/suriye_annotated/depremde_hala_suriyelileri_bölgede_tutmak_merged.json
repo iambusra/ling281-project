@@ -1,0 +1,26 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:41:28.840985",
+    "total_entries": 1,
+    "input": "depremde hala suriyelileri bölgede tutmak",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "depremde hala suriyelileri bölgede tutmak",
+      "entry_id": "149111058",
+      "author": "boslama",
+      "date": "12.02.2023 01:15",
+      "content": "akıl tutulmasıdır. yol yakınken sınırlar açılıp suriye'ye gönderilmeliler. oradan bahreyn'e mi giderler, bae'ye mi, katar'a mı, suudi arabistan'a mı giderler kendileri bilirler.\n\nsuriyeliler depremden önce de türkiye'ye maddi manevi büyük yüktü, şimdi tamamen sorun haline geldi.\n\nyaa şimdi giderler, ya da yakında sürülürler.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "POLICY"
+      ]
+    }
+  ]
+}

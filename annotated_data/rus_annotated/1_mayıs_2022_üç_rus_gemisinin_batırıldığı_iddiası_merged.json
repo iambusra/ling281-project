@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T12:47:12.683305",
+    "total_entries": 1,
+    "input": "1 mayıs 2022 üç rus gemisinin batırıldığı iddiası",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "1 mayıs 2022 üç rus gemisinin batırıldığı iddiası",
+      "entry_id": "136855111",
+      "author": "naluwas",
+      "date": "01.05.2022 00:03",
+      "content": "putin bunu da düşünmüştür.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:22:26.846329",
+    "total_entries": 6,
+    "input": "7.621 suriyeli ülkesine döndü",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "7.621 suriyeli ülkesine döndü",
+      "entry_id": "171060878",
+      "author": "erimeyenbalya",
+      "date": "15.12.2024 22:31 ~ 22:33",
+      "content": "bir haftadır tantana koparıp suriyelilerin ülkemizden gittiğini sanan yurdum insanına içişleri bakanı ali yerlikaya'dan cevap geldi:\n\n-bir haftada yalnızca 7.621 suriyeli ülkesine döndü.\n\ndemek ki yapılan bunca goygoy yalanmış. ve hatta ultra demokrat sevgi kelebeği colani sayesinde milyonlarca yeni suriyeliye hazır olalım.\n\nkaynak:",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "7.621 suriyeli ülkesine döndü",
+      "entry_id": "171060976",
+      "author": "durmayan dusunce",
+      "date": "15.12.2024 22:34 ~ 22:37",
+      "content": "evet arkadaşlar, kaldı 3.088.536 tane (çok güvenilen kurum olan göç idaresine göre güncelleme yaptım sayıyı, 10 milyon demiştim). aynı hızla devam ederse 8 senede suriyeli kalmıyor...",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY",
+        "XENO"
+      ]
+    },
+    {
+      "title": "7.621 suriyeli ülkesine döndü",
+      "entry_id": "171061434",
+      "author": "nosce te ipsum carpe diem",
+      "date": "15.12.2024 22:47",
+      "content": "ünlü ekşi tabiriyle:\n\" küsuratlı ver de inandırıcı olsun, verdiğin rakam. \" misali olmuş.\nküsuratın dibine vurulmuş.\nkoparılan tantanaya kansak!.. sanırsın verilen rakamda en az iki rakam eksik!\nyaptıkları, daha doğrusu \" yapıyor/yapmış gibi \" göründükleri tüm işleri balon!!!",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "7.621 suriyeli ülkesine döndü",
+      "entry_id": "171061476",
+      "author": "biraz sosyolojik",
+      "date": "15.12.2024 22:49",
+      "content": "2 kusur milyondan bu kadarı gitmiş işte",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "7.621 suriyeli ülkesine döndü",
+      "entry_id": "171061616",
+      "author": "basiretibaglanmishayaltaciri",
+      "date": "15.12.2024 22:52",
+      "content": "(bkz: küsuratlı sayı vereyim de salladığım anlaşılmasın)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "7.621 suriyeli ülkesine döndü",
+      "entry_id": "171067649",
+      "author": "yedinci element",
+      "date": "16.12.2024 02:44",
+      "content": "adam olana çok bile. nolacaktı 700000 kişi mi dönecekti? dönmeleri için tek bir mantıklı sebep yok dedik.\n\nama piyasadaki akp ve cxhdp'li malların kafası anca şu kadar çalışıyor:\n\n(bkz: kardeşim zafer partisi bitti kardeşim)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    }
+  ]
+}

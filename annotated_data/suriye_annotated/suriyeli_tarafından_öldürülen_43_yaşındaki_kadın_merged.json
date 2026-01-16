@@ -1,0 +1,37 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:52:53.359495",
+    "total_entries": 2,
+    "input": "suriyeli tarafından öldürülen 43 yaşındaki kadın",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeli tarafından öldürülen 43 yaşındaki kadın",
+      "entry_id": "170383101",
+      "author": "juvini",
+      "date": "22.11.2024 11:45",
+      "content": "şanlıurfa'da bir suriyeli tarafından boğazından bıçaklanarak öldürülen 43 yaşında yalnız yaşayan bir kadındır.\n\n--- spoiler ---\n\nolay, saat 03.30 sıralarında bahçelievler mahallesi'nde meydana geldi. yalnız yaşayan leyla üren'in yaşadığı daireden gelen gürültü sonrası komşuları, durumu 112 acil çağrı merkezi'ne bildirdi. ihbarla gelen ekipler, girdiği evde kadını kanlar içerisinde buldu. kontrolde boğazı bıçakla kesilen kadının yaşamını yitirdiği belirlendi. leyla üren'in cesedi, olay yerinde yapılan inceleme sonrası otopsi için adli tıp kurumu morguna kaldırıldı. polis de bölgedeki güvenlik kamerası incelemesinin ardından kimliğini saptadığı suriye uyruklu şüpheli ahmad el avvad'ı yakaladı.\n--- spoiler ---\n\nhttps://www.dha.com.tr/…aklanarak-olduruldu-2536411",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CRIME"
+      ]
+    },
+    {
+      "title": "suriyeli tarafından öldürülen 43 yaşındaki kadın",
+      "entry_id": "170383233",
+      "author": "kucukkenanabritanicayikitapgibiokuyan",
+      "date": "22.11.2024 11:51",
+      "content": "yandaş arapçı ana akım medyada göremeyeceğimiz bir haberdir, neden?\nçünkü işgalci ponçik mülteciler üzülür.\n\ndevran dönsün diye bekliyoruz, tüm mülteciler ülkesine geri dönecek, er ya da geç.\n\nakp istese de istemese de\nyancısı mhp'yi geçiyorum zaten",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    }
+  ]
+}

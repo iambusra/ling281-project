@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:11:32.667332",
+    "total_entries": 1,
+    "input": "rusya ukraynada camii vurdu",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rusya ukraynada camii vurdu",
+      "entry_id": "134848878",
+      "author": "r6",
+      "date": "12.03.2022 20:45",
+      "content": "ukrayna dışişleri bakanlığı, mariupol kentinde içinde türkiye vatandaşları ve çocuklar da dahil 80'den fazla kişinin bulunduğu bir caminin bombalandığını duyurdu.\nkaynak1\n\nardından gelen haber;\n\nkanuni sultan süleyman camisi dernek başkanı ismail hacıoğlu, ukrayna'nın mariupol şehrindeki kanuni sultan süleyman camisi'nin saldırılardan zarar görmediğini, caminin 2 kilometre uzağındaki mahallede çatışmaların sürdüğünü söyledi.\n\nkaynak\n\nhükümetleri troll çıktı haha",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CRIME",
+        "HUMAN"
+      ]
+    }
+  ]
+}

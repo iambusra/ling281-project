@@ -1,0 +1,37 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:30:42.879634",
+    "total_entries": 2,
+    "input": "ruslardan erdoğan'a telefon şakası",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ruslardan erdoğan'a telefon şakası",
+      "entry_id": "58448765",
+      "author": "backflip",
+      "date": "12.02.2016 14:07 ~ 14:10",
+      "content": "şu an sadece bir iddiadan ibaret olmakla birlikte aşağıdaki linkten izlenebilir.\n\niki at hırsızı biri poroshenko diğeri de petrovich olarak kendilerini tanıtıp cumhurbaşkanlığını arıyorlar ve olaylar gelişiyor.\n\nhttps://youtu.be/nvqy0dyhsuy\n\nkonuşma metni aşağıdaki gibidir devamı gelecek deniyor.\n\np - poroshenko, a- aerseniy petrovich ve rte - erdoğan olmak üzere\n\n- alo\n- alo barış bey. evet. sayın cumhurbaşkanımız hattalar. sayın poroshenko hatta mı?\n- sayın başkan hatta mı?\n\np- evet, iyi günler, daha doğrusu iyi akşamlar.\n\na- arseniy petrovich, ukrayna başbakanı\n\n- arseniy petrovich siz misiniz?\n\na- evet, evet, evet\n\n- şimdi hatta başbakan var sayın yatsenuk hatta efendim.\n\n- ama sayın poroshenko demiştiniz. beraberler mi?\n\np- buradayız, buradayım.\n\n- sayın poroshenko hatta mı?\n\np- evet, buradayım.\n\n- sayın poroshenko hemen bağlıyorum.\n\n- sayın poroshenko da hatta efendim.\n\n- başkan’a aktarıyorum.\n\n- alo\n\np- alo, evet merhaba\n\n- merhabalar\n\nrte- merhabalar, değerli dostum iyi akşamlar\n\np- iyi akşamlar sevgili dostum nasılsınız?\n\nrte- sağolasınız sizler nasılsınız?\n\np- şu anda çok stabil durumda değiliz. şu an için sabrediyoruz.\n\np- rusya tarafından yaptırımlara maruz kalan ülkelerin başkanlarıyla diyalog kurma planımız var. sizinle rusya’ya karşı birlikte hareket etme imkanımızı ve bu işbirliğine katılmaya hazır olup olmadığınız sorusu üzerinde değerlendirmelerde bulunmak istedik.\n\nrte- memnuniyetle\nhiçbir desteğimizi esirgemeyiz, hiç şüpheniz olmasın\n\np- biliyorum ki rusya destekli suriye güçleri sizden 25 km uzakta bulunuyor ve biliyorum ki şu an arap ligi askeri operasyonları başlatmaya hazır durumda. bu durumla ilgili bizim yardımımıza ihtiyacınız var mı sormak isteriz ve şu anda desteğimizi kabul etmeye hazır mısınız?\n\nrte-şu anda her şey kontrolümüz altında devam ediyor.\n- herhangi bir gelişme olması halinde sizlerle bunu zaten haberleşiriz.\n\np- içtenlikle rusya başkanı önünde özür dilemeyeceğinizi umuyoruz.",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY",
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ruslardan erdoğan'a telefon şakası",
+      "entry_id": "58448838",
+      "author": "kimse bana tavuk diyemez",
+      "date": "12.02.2016 14:10",
+      "content": "(bkz: recep tayyip erdoğan'a telefon şakası)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

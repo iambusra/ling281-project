@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T14:59:59.358136",
+    "total_entries": 2,
+    "input": "suriyeliyi evime alırım diyip yan çizenler",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeliyi evime alırım diyip yan çizenler",
+      "entry_id": "89312901",
+      "author": "başlık taşıyan",
+      "date": "24.04.2019 21:09",
+      "content": "(bkz: evinize suriyeli alır mısınız sosyal deneyi)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "suriyeliyi evime alırım diyip yan çizenler",
+      "entry_id": "91130335",
+      "author": "başlık taşıyan",
+      "date": "11.06.2019 01:12",
+      "content": "(bkz: suriyelileri evinize alır mısınız sosyal deneyi)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "HUMAN"
+      ]
+    }
+  ]
+}

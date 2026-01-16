@@ -1,0 +1,239 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:07:36.146656",
+    "total_entries": 18,
+    "input": "suriyeliye nargile hazırlayan cafe çalışanı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeliye nargile hazırlayan cafe çalışanı",
+      "entry_id": "88442946",
+      "author": "medetres",
+      "date": "02.04.2019 12:00",
+      "content": "o çalışan bir eleman parasını aldığı sürece müşterinin kim olduğuna bakmaz. rahatsız oluyor ise patronuna bildirir çözüm üretilmiyorsa başka bir iş bulabilir. not:suriyeliler gitsin artık",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyeliye nargile hazırlayan cafe çalışanı",
+      "entry_id": "88442972",
+      "author": "onurcakirova",
+      "date": "02.04.2019 12:00 ~ 12:01",
+      "content": "bugün bu ülkede suriyeliler olmasaydı maalesef ki olan durum daha da betere dönüşecekti gelen sıcak para akışlarıyla esnaflarımız ailelerini ve çevresindekilerinin karınlarını doyurdu.",
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "ECON",
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "suriyeliye nargile hazırlayan cafe çalışanı",
+      "entry_id": "88442989",
+      "author": "angara beyefendisi",
+      "date": "02.04.2019 12:01 ~ 12:09",
+      "content": "ırkçı olmayan bir cafe çalışanıdır. normaldir yani. işiyle alakalı problemi olan, \"köle gibi çalışmak zorunda olan birini niye dünyaya getirdiniz\" diye ebeveynlerine sitem etmeli. ben öyle yapıyorum. sana bu kötülüğü elin oğlu değil, annen baban yaptı çünkü. hani o baş tacı ettiğin insanlar. sorgulamaya korktuğun şeyleri de sorgula derim. senin köle gibi çalışmak zorunda kalacağını bile bile, sırf bebek sevme hevesi uğruna attılar seni kapitalizmin kucağına. hoşgeldin bebek.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL",
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "suriyeliye nargile hazırlayan cafe çalışanı",
+      "entry_id": "88443041",
+      "author": "mr dude",
+      "date": "02.04.2019 12:03",
+      "content": "parasıyla hazırlatıyorsa sike sike hazırlayacaksin. müşteriye atar yapacağına git ve ona senin deyiminle calışmadan para yediren ve vergi almayan sisteme ve bu sistemi kuran yavşaklara atarlan.\n\n(bkz: ırkçı zekası)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "ECON",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyeliye nargile hazırlayan cafe çalışanı",
+      "entry_id": "88443066",
+      "author": "kuyruk yagi",
+      "date": "02.04.2019 12:04",
+      "content": "savaştan kaçan bir vatan haininin yaşam standartlarını yükseltiyordur.\n\nyalnız siktir çekecek adam bu değil. onu, onları ülkeye sokan kişiye söyleyeceksiniz.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyeliye nargile hazırlayan cafe çalışanı",
+      "entry_id": "88443073",
+      "author": "kassiopeia",
+      "date": "02.04.2019 12:04",
+      "content": "yurtdisinda yasiyorum, her gun yasadigim yerin insanlarindan hizmet aliyorum. kimse de bir sorun gormuyor. irkcilik cok fena bir hastalik, hastaliginizin farkinda olamayabiliyorsunuz. i see dead people. they don't know they are dead.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "suriyeliye nargile hazırlayan cafe çalışanı",
+      "entry_id": "88443286",
+      "author": "dedikodusevmem",
+      "date": "02.04.2019 12:12",
+      "content": "nargile ne ara bu kadar popüler oldu acaba şu ülkede aklım almıyor.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyeliye nargile hazırlayan cafe çalışanı",
+      "entry_id": "88443361",
+      "author": "sabahlamayi seven adam",
+      "date": "02.04.2019 12:16",
+      "content": "suriyeli müşteri de türk müşteri de arap müşteri de kürt müşteri de en nihayetinde garsona değil patronuna para kazandırır. sonuç olarak garson açısından bir fark etmiyor ne olduğu.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyeliye nargile hazırlayan cafe çalışanı",
+      "entry_id": "88443509",
+      "author": "wolvox",
+      "date": "02.04.2019 12:21 ~ 12:30",
+      "content": "içten içe üzdü, dünyada arap halkı kadar imkanları sadece kendi çıkarları için kullanan, tüm iyilik ve güzelliğin içini boşaltıp sömüren başka bir millet yok, buna islamiyet de dahil...",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyeliye nargile hazırlayan cafe çalışanı",
+      "entry_id": "88443793",
+      "author": "le fougueux",
+      "date": "02.04.2019 12:30",
+      "content": "suriyeliyi alan devlet yöneticilerine sallamaya götünüz yemiyor tabi gücünüzün yeteceği en gariban tip olan nargile közcüsünü aşağılıyorsunuz.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyeliye nargile hazırlayan cafe çalışanı",
+      "entry_id": "88444085",
+      "author": "kafein yok mu kafein",
+      "date": "02.04.2019 12:40",
+      "content": "cafeye müşteri almayan çalışan olamaz bir kere, müşteriyi kafana göre şutlarsan zaten cafede çalışan olamazsın artık. cafe çalışanı değil cafe işletmecisi gibi ifade etseydin tamam derdim. adam zaten üç kuruş parayla ay sonunu getirmeyi düşünüyor sen buradan kaprislerini yüklüyorsun. bu arada ben de istemiyorum suriyelileri.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyeliye nargile hazırlayan cafe çalışanı",
+      "entry_id": "88444302",
+      "author": "at gomer",
+      "date": "02.04.2019 12:48",
+      "content": "büyük ihtimalle kendisi öğrencidir. okuluna ve yaşantısına devam etmek için ekmeğinin peşindedir ama hazırladığı suriyeli savaştan kaçan bedavaya yaşayan sınavsız üniversiteye giren piçtir. o çocuğun suçu yok o ne yazıkki nargileyi yapacak tek suçlu var suriyeleri ülkeye sokanlardir onlari hayla savunanlardır",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyeliye nargile hazırlayan cafe çalışanı",
+      "entry_id": "88444452",
+      "author": "sosyofobik adam",
+      "date": "02.04.2019 12:54 ~ 13:19",
+      "content": "10-20 sene sonra ciğerlerini eline alacak olan suriyeliyi bitiren vatansever kafe çalışanıdır. hazırlayadursundur.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "CRIME",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyeliye nargile hazırlayan cafe çalışanı",
+      "entry_id": "88444575",
+      "author": "ins cnm ya",
+      "date": "02.04.2019 12:58",
+      "content": "oeh amk kasacağınız duyarlı sizin. adam işe girerken sözleşmesinde belirli şartla karşılığında müşteriye hizmet etmesi gerektiği yazıyor mu?\n\nmüşterinin dili ırkı vs kıstas mı?\n\nmüşteri kabalık etmedikçe hadsizlik yapmadıkça hizmetini tamamlamak zorunda mı?\n\nheralde hazırlayacak sike sike o nargileyi. çayı açık istediğinde de sike sike getirecek. adam bundan rahatsız falan da değil. oturduğu yerden etrafı izleyip sosyolojik çıkarım yaptığını sanan çok bilmiş gelmiş bıdıbıdı yapıyor.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyeliye nargile hazırlayan cafe çalışanı",
+      "entry_id": "88444840",
+      "author": "mai hasegawa",
+      "date": "02.04.2019 13:08",
+      "content": "suriyelinin parası var.\n\nparayı veriyor.\n\ncafe sahibi patron parayı alıyor.\n\npatronun asgari ücretle çalıştırdığı garsonu var.\n\npatron garsona müşteriye hizmet et diyor -çoğu kez demiyor bile, garsonun işi bu.\n\ngarson suriyeli müşteriye nargile servis ediyor.\n\nsuriyeli müşteri nargileyi içip keyif sürüyor.\n\nasgari ücretli garson bu esnada diğer müşterilere de hizmet ediyor.\n\npatron kasadaki parayı alıp \"ben çıkıyorum, erken kapatmayın\" diyor.\n\nasgari ücretli garson gece yarısına kadar hizmete devam ediyor.\n\nasgari ücretli garson kafeyi temizleyip kapatıyor.\n\npatron q5'ini bir bar önüne parkedip alemlere akıyor.\n\nasgari ücretli garson son dolmuşla iki vasıta değiştirerek evine gidiyor.\n\npatron q5'i ile eve dönüyor. facebook'ta hak hukuk falan temalı paylaşımlar yapıyor. çiçekli resimlerle kandil kutluyor.\n\nasgari ücretli garson suriyeli müşteriyi eleştiren paylaşım yapıyor.\n\nasgari ücretli garson'a patrondan mesaj geliyor: \"sabah zamanında açın dükkanı\".\n\nasgari ücretli garson \"tabii x bey siz hiç merak etmeyin\" diye cevap yazıyor.\n\nasgari ücretli garson paylaşımına birkaç şey daha ekliyor.\n\nasgari ücretli garson yatıyor, sabah 6'da kalkıp yola çıkacak.\n\npatron jale'ye mesaj atıyor: \"alıyım mi seni yavru\"",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "ECON"
+      ]
+    },
+    {
+      "title": "suriyeliye nargile hazırlayan cafe çalışanı",
+      "entry_id": "88444998",
+      "author": "olympe de gouges",
+      "date": "02.04.2019 13:13",
+      "content": "ırkçı, faşist ve psikopat olanları çıldırtan ama aslında sıradan bir durum yaşayan çalışan.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "suriyeliye nargile hazırlayan cafe çalışanı",
+      "entry_id": "88445287",
+      "author": "levmont",
+      "date": "02.04.2019 13:22",
+      "content": "\"savaştan kaçan vatan haini\"demiş, savaş nedir bilmeyen.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "suriyeliye nargile hazırlayan cafe çalışanı",
+      "entry_id": "88472552",
+      "author": "120374920",
+      "date": "03.04.2019 01:46",
+      "content": "ırkçılığa gerek yok suriyelide bile olsa içeri girmesinde bir mahsur yok, tabi normal müşterilerin görmiyeceği bir yerde oturmaları şartıyla onlarda neticede canlı.lakin o garsonda gidipde hâla akp yi savunuyosa suriyeliye götünüde hazırlayıp sunsa bence azdır",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN"
+      ]
+    }
+  ]
+}

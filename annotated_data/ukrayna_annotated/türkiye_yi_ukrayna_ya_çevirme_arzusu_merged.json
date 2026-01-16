@@ -1,0 +1,72 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:08:35.952143",
+    "total_entries": 5,
+    "input": "türkiye'yi ukrayna'ya çevirme arzusu",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türkiye'yi ukrayna'ya çevirme arzusu",
+      "entry_id": "41093056",
+      "author": "destroythedestiny",
+      "date": "12.03.2014 21:50",
+      "content": "(bkz: yorma kafani bu islere sen)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "türkiye'yi ukrayna'ya çevirme arzusu",
+      "entry_id": "41093159",
+      "author": "the whore times",
+      "date": "12.03.2014 21:53",
+      "content": "(bkz: trol detected)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "türkiye'yi ukrayna'ya çevirme arzusu",
+      "entry_id": "41093580",
+      "author": "lushdiamond",
+      "date": "12.03.2014 22:03 ~ 22:05",
+      "content": "öncelikle olaylar o kadar farklı ki karşılaştırmak elmalarla armutu karşılaştırmak gibi. ama en basit anlamda ele alırsak; ukrayna halkı birlikti bir amaç uğrunda birleşmişti bizim gibi bölünmemiş haldeydi. biri diğerinin ölüsüne iyi ki öldü zaten kürttü/kadın mıdır kız mıdır/ provakatördü demiyor. tek gerçek ölüm, acıyı paylaşıyorlardı. ikinci olarak din adamları kukla değildi, yaralılar için kiliseye revir açılmasına izin verip polisleri durdurmak / yumuşatmak için arabuluculuk yapıyorlardı.\n\nbu şartlara bakılınca keşke olabilsek diyorum",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "türkiye'yi ukrayna'ya çevirme arzusu",
+      "entry_id": "41093644",
+      "author": "sengdil semir",
+      "date": "12.03.2014 22:06",
+      "content": "önce iran'a, sonra suriye'ye çevireceğiz. sonra çevireceğiz çevireceğiz..\n\nsen sıraları karıştırdın. hazreti şaban ananı günde 1453 kere olacak.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "türkiye'yi ukrayna'ya çevirme arzusu",
+      "entry_id": "41093813",
+      "author": "vivo",
+      "date": "12.03.2014 22:10",
+      "content": "bende olan arzudur. halkının açlıktan nefesi kokarken rusya'ya yaltaklanarak kendine içinde golf sahası olan bir malikane yaptırabilecek kadar semirmiş liderlerini devirdiler. kayıplar verdiler mi, hem de çok. bizim ukrayna halkına göre kaybedecek daha çok şeyimiz var eli kulağındaki ekonomik krizi henüz yaşamadığımız için, rte buna şükretsin.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

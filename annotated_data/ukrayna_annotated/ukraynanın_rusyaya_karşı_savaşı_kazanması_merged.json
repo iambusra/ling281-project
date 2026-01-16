@@ -1,0 +1,48 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:16:34.583219",
+    "total_entries": 3,
+    "input": "ukraynanın rusyaya karşı savaşı kazanması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukraynanın rusyaya karşı savaşı kazanması",
+      "entry_id": "134209465",
+      "author": "uberallessuperfantastik",
+      "date": "25.02.2022 19:47 ~ 19:48",
+      "content": "bir paralel evren seneryosu, biliyoruz ki rusya 24 şubat itibariyle ukraynaya saldırdı. ukrayna öyle bir savunmaya başlıyor ki ilerleme duruyor. sonra saldırıp kaybettikleri yerleri de alıyorlar. sonra bakıyorlar ki ruslar çok kayıp verdi bütün uçakları düştü bütün tankları vuruldu. ellerinde bişey kalmadı. iyi hadi şimdi biz saldırıyoruz dediler ve moskova düştü.\n\ndünyanın yarısı ukrayna oldu durduk yere.\nputin bir altgeçitte yakalanıp trafik direğine asıldı.\n\nmaria şarapova açıklama yaptı slava ukrayna diye…",
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "ukraynanın rusyaya karşı savaşı kazanması",
+      "entry_id": "134209769",
+      "author": "carsi41",
+      "date": "25.02.2022 19:56",
+      "content": "(bkz: tatlı rüyalar)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukraynanın rusyaya karşı savaşı kazanması",
+      "entry_id": "134210756",
+      "author": "y",
+      "date": "25.02.2022 20:25 ~ 22:56",
+      "content": "karşı taaruz deneseydi ukrayna bir ihtimal. ama savunmada kalmak savaşın sadece ukrayna topraklarında gerçekleşmesini sağladı. rus ekonomisi gerekirse 3 yıl savaşır istediği kadar toprağı alıra döndü iş. taktik hesabı geri çekildiler diye bir olay da yok. karşı taaruz olsaydı muhtemelen savaşı daha kısa sürede ruslar kazanırdı ama ukrayna şansını denemiş olurdu. moscova ukrayna sınırına 500km.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:25:27.937032",
+    "total_entries": 1,
+    "input": "rusa gejadze",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rusa gejadze",
+      "entry_id": "30620234",
+      "author": "songulyabani",
+      "date": "18.10.2012 17:04 ~ 03.05.2013 00:18",
+      "content": "internette tesadüfen keşfettiğim, gürcistanlı bir şarkıcı. sesini pek bir beğendim. hakkında pek bir kaynağa ulaşamadımsa da internetten bir kaç videosuna ulaşabildim. rusudan gedjadze şeklinde yazıldığı da olmuş ismi.\n\nhttp://www.youtube.com/watch?v=3enoirzyc30\nhttp://www.youtube.com/watch?v=uswkoxmsuqq\nhttp://www.youtube.com/watch?v=l_2on-qznkw (favorim)\nhttp://www.youtube.com/watch?v=l1pgqvxmn2k\n\n(bkz: gürcü halk müziği)",
+      "has_external_url": true,
+      "sentiment_numeric": 4,
+      "categories": [
+        "CULTURE",
+        "HUMAN"
+      ]
+    }
+  ]
+}

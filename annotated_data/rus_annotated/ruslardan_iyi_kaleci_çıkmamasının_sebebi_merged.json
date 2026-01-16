@@ -1,0 +1,61 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:30:40.958358",
+    "total_entries": 4,
+    "input": "ruslardan iyi kaleci çıkmamasının sebebi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ruslardan iyi kaleci çıkmamasının sebebi",
+      "entry_id": "59065288",
+      "author": "jokullmagic",
+      "date": "08.03.2016 23:15",
+      "content": "(bkz: lev yaşin)\n\nondan sonra dünya çapında daha iyisi pek çıkmamış zaten.",
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "ruslardan iyi kaleci çıkmamasının sebebi",
+      "entry_id": "59065447",
+      "author": "umberto d",
+      "date": "08.03.2016 23:19",
+      "content": "(bkz: rinat dasayev)\n(bkz: igor akınfeev)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ruslardan iyi kaleci çıkmamasının sebebi",
+      "entry_id": "59065817",
+      "author": "solyaris",
+      "date": "08.03.2016 23:27",
+      "content": "rinat dasayev son iyi rus takımının son iyi kalecisiydi. ondan sonrası kaleden forvete kadar komple yalan.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ruslardan iyi kaleci çıkmamasının sebebi",
+      "entry_id": "59065995",
+      "author": "mp3yazar",
+      "date": "08.03.2016 23:29",
+      "content": "öncelikler ruslarda iyi hatun çıkmasının sebebi araştırılmalı.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POS-STEREO"
+      ]
+    }
+  ]
+}

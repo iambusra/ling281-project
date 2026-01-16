@@ -1,0 +1,48 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:14:36.673738",
+    "total_entries": 3,
+    "input": "eurovision'da ukrayna oylarını açıklayan dişi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "eurovision'da ukrayna oylarını açıklayan dişi",
+      "entry_id": "19200114",
+      "author": "kayit formu s 42",
+      "date": "30.05.2010 02:11",
+      "content": "12 puanın olayım dediğimdir.\n\nhttp://i49.tinypic.com/24njnfp.jpg",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "eurovision'da ukrayna oylarını açıklayan dişi",
+      "entry_id": "19200177",
+      "author": "jc denton",
+      "date": "30.05.2010 02:16",
+      "content": "eva rivas'la birlikte cleavage olayını aşmış bitirmiş abla.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "eurovision'da ukrayna oylarını açıklayan dişi",
+      "entry_id": "19200213",
+      "author": "amateur",
+      "date": "30.05.2010 02:18",
+      "content": "eurovision 2010'da ukrayna adına yarışan dişi (bkz: alyosha) kadar güzel olmayandır.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

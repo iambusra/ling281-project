@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:24:34.287633",
+    "total_entries": 1,
+    "input": "kırım'ı rus'a kıbrıs'ı rum'a terk etmek",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "kırım'ı rus'a kıbrıs'ı rum'a terk etmek",
+      "entry_id": "66227210",
+      "author": "masum keci",
+      "date": "11.02.2017 16:00",
+      "content": "türkiye'deki sağ yığınlara izah edilmesi gereken durum.\n\nakdeniz'de ve karadeniz'de yok hükmünde olarak büyük ülke ya da cihan devleti olamayız.\n\nböyle osmanlı olacaksak, çöküş döneminden başlıyoruz bunu anlamak gerekir.\n\nmhp muhalefetine, sinan oğan'a meral akşener'e ümit özdağ'a yapılan bütün engellemelerin nedeni budur.\n\nmemleketin milli meselelerini ağzına almayan, tek derdi erdoğan'ı başkan yapmak olan, devlet bahçeli'nin ağzından en son ne zaman kırım'ı duydunuz, en son ne zaman kıbrıs'ı duydunuz? ülkeyi alttan üstten stratejik ve askeri açıdan rusya'nın kucağına ve insafına bırakıyorsunuz. sizin amacınız ne?\n\nbizi rejim ve yönetim sistemi saçmalığı ile oyalayıp, kırım'da, kıbrıs'ta kuzey ırak'ta suriye'de ebed müddet türk devletini çaresiz bıraktınız. sizin amacınız ne?\n\nkerkük'ü alıyordunuz? musul'a operasyon yapıyordunuz? rakka'ya gerekirse tek başına gidiyordunuz ne oldu?\n\nsağ seçmenin büyük kısmı dünyayı ve türkiye'nin konumunu siyaseten okuma kabiliyetinde değil. başkanlık bir oyalamadır, bir kandırmacadır. gerçek tehdit şu dönemde bütün kritik siyasi denklemlerin dışında kalmamızdır.\n\ntürkiye'nin başkanlık sistemine değil güçlü, temiz ve yeni bir siyasi akla ihtiyacı var.\nsadece ekonomik değil stratejik ve jeopolitik olarak çok büyük risklerle karşı karşıyayız.\n\nherkesin uyanık olması ve şu başkanlık saçmalığının gündemden düşmesi için hayır demesi gerek. bu milli bir ödevdir.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    }
+  ]
+}

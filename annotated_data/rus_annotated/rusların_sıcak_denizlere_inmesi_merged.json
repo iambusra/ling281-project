@@ -1,0 +1,38 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:31:35.616215",
+    "total_entries": 2,
+    "input": "rusların sıcak denizlere inmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rusların sıcak denizlere inmesi",
+      "entry_id": "13409987",
+      "author": "dirtysanchez",
+      "date": "08.06.2008 13:46",
+      "content": "karanlik ve pis kokulu caglardan beri urus milletinin nihayet bilmeyen arzusu. st petersburg'da denize girmis bir insan olarak bunu daha iyi anlamaktayim. lakin, 21. yy'da boyle isteklerin politiklestirilmesi abes kacmaktadir. gunumuzde, cok ucuza, isteyen urus milleti mensubu (disileri makbuldur) memleketimizin herhangi bir yerinden sicak denizlere inebilirler.\n\nsunun icin husumet yaratmaya ne gerek var, savasmis, yok ruslarin bogazlarda gozu varmis, yok rus kizlari o kadar guzel degilmis, bunlar hamasi sohbetler. otur sana bi cay soyleyeyim, rahatla.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "rusların sıcak denizlere inmesi",
+      "entry_id": "179365693",
+      "author": "vycanismajoris29",
+      "date": "25.10.2025 19:03",
+      "content": "artık türkiye’ye bulaşmadan uçaklarla afrika’ya gidiyorlar.\n\nmısır’da tatil yapıp afrika’daki orduları silahlandırıyorlar ve oralarda yaşıyorlar.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    }
+  ]
+}

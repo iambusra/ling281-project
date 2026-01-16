@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:08:51.343624",
+    "total_entries": 1,
+    "input": "eurovision 2016'da ukraynayı temsil edecek sanatçı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "eurovision 2016'da ukraynayı temsil edecek sanatçı",
+      "entry_id": "58698195",
+      "author": "sirjonas",
+      "date": "22.02.2016 20:29",
+      "content": "türkiye artık eurovision'a katılmayacağı için oy veremesek bile gönülden destekleyeceğimiz sanatçıdır.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "CULTURE",
+        "POLICY"
+      ]
+    }
+  ]
+}

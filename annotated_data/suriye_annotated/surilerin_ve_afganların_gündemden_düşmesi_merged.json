@@ -1,0 +1,26 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T14:56:30.856253",
+    "total_entries": 1,
+    "input": "surilerin ve afganların gündemden düşmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "surilerin ve afganların gündemden düşmesi",
+      "entry_id": "176651713",
+      "author": "yavruceylanavcisi",
+      "date": "08.07.2025 16:51",
+      "content": "bu nasıl olabiliyor tam olarak bilmiyorum ancak 2-3 ay konuşuluyor, sürekli videolar, haberler çıkıyor ve sonra bir anda puf diye ortadan kalkıyor. bu sorunlar halen devam ediyor mu? bu insanlar nerde? halen taşkınlık yapıyorlar mı? bilinmiyor.\n\nbir diğer meselemiz de sokak köpekleri. ne konuşuldu bir dönem sürekli ısırılan insanlar, saldırıya uğrayan çocuklar.. şu an ne durumdayız? topladılar mı hepsini?\n\nkadına şiddet de bunlardan biriydi.\n\nşimdiki gündemimiz ise trafik magandaları ve sokakta sürekli problem çıkaran, insanları gasp/darp eden malum ırk.\n\nbu sorunları birileri görüyor ve çözüyor mu yoksa haber yapılmaması mı sağlanıyor? sıradaki gündemimiz ne olacak? birileri bizi oyalıyor mu?",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO",
+        "CRIME"
+      ]
+    }
+  ]
+}

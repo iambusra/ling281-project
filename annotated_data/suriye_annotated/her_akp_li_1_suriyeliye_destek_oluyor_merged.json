@@ -1,0 +1,37 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:42:51.379979",
+    "total_entries": 2,
+    "input": "her akp'li 1 suriyeliye destek oluyor",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "her akp'li 1 suriyeliye destek oluyor",
+      "entry_id": "165957017",
+      "author": "kiri",
+      "date": "03.07.2024 03:54 ~ 03:56",
+      "content": "evet artık yeter.akp'li kardeşlerimiz suriyeli kardeşlerimizin çektiği zulme dayanamıyor artık.her akp'li kardeşimiz evine 1 suriyeli alıyor.allah için o kardeşimizin her ihtiyacını karşılıyor, çocuğu varsa destek oluyor.evinde odasını açıyor.yok öyle bedava cennet.destek veren tüm mü-mim kardeşlerimizi bekliyoruz.çevrenizde bulduğunuz suriyeli kardeşlerinizi evinize davet edin.her ihtiyacını karşılayın.allahü ekber.",
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "HUMAN-POS",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "her akp'li 1 suriyeliye destek oluyor",
+      "entry_id": "165957799",
+      "author": "simonsezz",
+      "date": "03.07.2024 06:45",
+      "content": "(bkz: aradığınız kişiye şu an ulaşılamıyor)\n(bkz: olmamış olaylar hakkında başlık açmak)\n(bkz: olmayacak olaylar hakkında başlık açmak)\n\nt: güldüren başlık",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

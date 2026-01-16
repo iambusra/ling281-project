@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:16:28.378012",
+    "total_entries": 1,
+    "input": "ukraynanın teslim olması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukraynanın teslim olması",
+      "entry_id": "135811918",
+      "author": "sozluge kabaran biseyler var",
+      "date": "05.04.2022 01:13",
+      "content": "(bkz: olmamış olaylar hakkında olmuş gibi başlık açmak)\n(bkz: ukrayna'nın teslim olma ihtimali)\n(bkz: siktin formatı eyledin viran)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

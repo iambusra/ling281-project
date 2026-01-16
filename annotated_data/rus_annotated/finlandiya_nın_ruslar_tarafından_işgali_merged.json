@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:26:40.382886",
+    "total_entries": 1,
+    "input": "finlandiya'nın ruslar tarafından işgali",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "finlandiya'nın ruslar tarafından işgali",
+      "entry_id": "148130192",
+      "author": "kici kokan maymun",
+      "date": "25.01.2023 12:14",
+      "content": "ön edit: bu başlık bir haber değildir, tarihsel özet bilgidir.\n\nisveç-almanya-finlandiya-ruslar arasında uzun döneme yayılmış bir köşe kapmaca oyunundan bir kesittir. belirli aralıklar ile yaşanmıştır, muhtemelen de yaşanacaktır.\n\nnapolyon savaşları (1809) sırasında o sırada isveç krallığına bağlı bulunan finlandiya'nın rus imparatorluğu tarafından ele geçirilmesidir. finlandiya, bu işgal akabinde birinci dünya savaşı sonuna kadar finlandiya büyük prensliği olarak rus yönetimi altında bulunmuştur. her ne ölçüde finlandiya 1917 öncesi bir devlet olarak var olmasa da bu bölgede finlerin varlığı oldukça eskidir ve bölge finlandiya olarak bilinmekteydi.\n\nsovyet sosyalist cumhuriyetler birliği döneminde, ikinci dünya savaşının ilk zamanlarında sscb ve finlandiya arasında kış savaşı olarak bilinen bir savaş yaşanmış, finlandiya yenilgiyi kabul etmiş ama 1944'te devam savaşı olarak bilinen bir savaş ile devam etmiştir.\n\nbugünkü isveç-finlandiya ile nato ilgisi şimdiye kadar her iki ülkenin de savaşlarda ancak ittifaklar içinde bulunarak hayatta kalmış olmasına bağlanabilir. bir anlamda yunanistan'ın bugünlerde nato dışında da direkt fransa'dan abd'den ve hatta genel olarak ab'den destek alması gibi. finlilerin diğerlerinden farklı olarak inatçı, sert mizaçlı bir millet olmaları bu boktan bölgede bu kadar uzun süre varlıklarını sürdürebilmiş olmalarında etkili olmuş olabilir, şahsi görüşüm.\n\nhttps://tr.wikipedia.org/wiki/finlandiya\n[ https://tr.wikipedia.org/wiki/kış_savaşı\n[ https://tr.wikipedia.org/wiki/devam_savaşı",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

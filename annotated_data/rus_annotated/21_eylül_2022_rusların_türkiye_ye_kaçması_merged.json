@@ -1,0 +1,37 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:34:17.018745",
+    "total_entries": 2,
+    "input": "21 eylül 2022 rusların türkiye'ye kaçması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "21 eylül 2022 rusların türkiye'ye kaçması",
+      "entry_id": "142986515",
+      "author": "yazmasamdeliolacaktim",
+      "date": "22.09.2022 00:04",
+      "content": "ülkede paintball falan oynasak dünya savaşı çıkacak amk. her türlü savaş kaçağı var ülkede. her milletten kaçak koleksiyonu yapıyoruz.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "21 eylül 2022 rusların türkiye'ye kaçması",
+      "entry_id": "142986592",
+      "author": "the sound and the fury",
+      "date": "22.09.2022 00:06",
+      "content": "aynen arkadaşlar o kadar gelişmiş ülkeyiz ki ruslar da araplar da afganlar da bize geliyor. he yavrum he kaçacak yer yok tek adam rejimine kucaklama geliyorlar.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "XENO"
+      ]
+    }
+  ]
+}

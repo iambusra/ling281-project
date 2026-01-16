@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:06:39.140550",
+    "total_entries": 1,
+    "input": "bartholomeos'un ukrayna barış zirvesine katılması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "bartholomeos'un ukrayna barış zirvesine katılması",
+      "entry_id": "165552758",
+      "author": "hellnar",
+      "date": "21.06.2024 10:05 ~ 10:06",
+      "content": "okumayın. kaynak medyascope\n\n(bkz: fonşen fonkır)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:20:08.749058",
+    "total_entries": 1,
+    "input": "tiktok'ta gitar çalan çok güzel ukraynalı kız",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "tiktok'ta gitar çalan çok güzel ukraynalı kız",
+      "entry_id": "153858974",
+      "author": "renksiz hayat",
+      "date": "24.06.2023 20:06",
+      "content": "takibimde olan, rüyalarıma giren hanım.\n\n(bkz: hayalet sevgilim)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

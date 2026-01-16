@@ -1,0 +1,61 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:04:09.861846",
+    "total_entries": 4,
+    "input": "suriyelilerin gidiyormuş gibi yapması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelilerin gidiyormuş gibi yapması",
+      "entry_id": "170923762",
+      "author": "miss illyrian",
+      "date": "11.12.2024 07:56 ~ 08:08",
+      "content": "gözlemle çıkarılan sonuç.\ngöcmenleri cok iyi bilirim siz bilmezsiniz. sırt cantasını alan sözde gidiyor. tamamen şov. iki gün sonra geri gelecekler. hangi ara elektriğini, suyunu kapattın. koltuklarını letgo'dan satsaydın bari. hangi ara devlet işlerini hallettin de gidiyorsun. tamamen göz boyamak için yapilan hareket. inanmayın.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyelilerin gidiyormuş gibi yapması",
+      "entry_id": "170923864",
+      "author": "outdoor",
+      "date": "11.12.2024 08:08",
+      "content": "mna koim, tofaş yüzde 13 küçülüyor, bu hafta çalıştığım yerde 16 kişi işten ayrıldı, ekonomi yarrağı yemiş, ihracatçı topu atmak üzere, \"iş gücünde kayıp\" yazmış atm memuru troll.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "ECON"
+      ]
+    },
+    {
+      "title": "suriyelilerin gidiyormuş gibi yapması",
+      "entry_id": "170924168",
+      "author": "kullaniciadimvar",
+      "date": "11.12.2024 08:36",
+      "content": "suriyeliler, gidiyormuş gibi yapmıyor. türkler, suriyeliler gidiyormuş gibi yapıyor.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyelilerin gidiyormuş gibi yapması",
+      "entry_id": "170924248",
+      "author": "cari acik",
+      "date": "11.12.2024 08:43",
+      "content": "hamaset ve cehalet dolu paylaşımların bir yenisi daha.\n\nmültecilerin gitmesi mümkün değilken seçimi kazanır kazanmaz göndereceğini söyleyen ümit başkana inanırken de cahildiniz şimdi ama gitmeyecekler ki içerikli paylaşımları yaparken de cahilsiniz.\n\non küsür yıldır burada yaşayan ve tüm türkiyenin yer yer provokasyonlara da gelerek abuk subuk tavırlar sergilese de mümkün olan en iyi ev sahipliklerinden birini yaptığı mültecilerin ülkelerindeki durum normale döndüğünde mülteci statüleri kalkacak ve o saatten sonra ancak diğer yabancılar gibi oturum izni alabildikleri durumda kalacaklar.\n\nevet hepsi gitmeyecek çünkü bir kısmının oturum izni almak için sağlam sebepleri var tıpkı bir amerikalının veya ingilizin oturum izni alırken ortaya koyacağı sebepler gibi.\n\ndiğerleri için ise gitmek kalmaktan daha iyi bir alternatif olacağı için zaman içinde gidecekler. on milyon kişi bir gecede gitmeyecek ama süreç içerisinde ülkelerine dönecekler evet.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN-POS"
+      ]
+    }
+  ]
+}

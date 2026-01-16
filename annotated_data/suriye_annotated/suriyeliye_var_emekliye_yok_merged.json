@@ -1,0 +1,73 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:07:43.975244",
+    "total_entries": 5,
+    "input": "suriyeliye var emekliye yok",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeliye var emekliye yok",
+      "entry_id": "81241366",
+      "author": "nickolantesla",
+      "date": "13.09.2018 09:42 ~ 10:24",
+      "content": "cumhurbaşkanı sözcüsü ibrahim kalın basın karşısına çıkıp açıklama yapıyor: \"türkiye ekonomisi, yeni gelecek mültecilere bakacak güçtedir\". sadece bir kaç dakika sonra bir gazeteci aynı zata; \"peki emeklilikte yaşa takılanlar ne olacak\" diye sorunca; \"maliyeye maliyetleri var, konu gündemimizde yok\" diyebiliyor pişkince. ulan mültecileri kaldırabilen ekonomi yıllardır bu ülkede çalışıp artı değer yaratan öz be öz vatandaşlarını neden kaldıramıyor?\n\neee, emeklide yaşa takılanları ab'den para kopartmak için koz olarak kullanamazlar, ama mültecileri kullanıp gelecek paraları cep yapabilirler.\n\n(bkz: ota gelince çatır çutur ye, sapa gelince mee)\n\nedit: imla",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "ECON"
+      ]
+    },
+    {
+      "title": "suriyeliye var emekliye yok",
+      "entry_id": "81241807",
+      "author": "angara beyefendisi",
+      "date": "13.09.2018 09:58",
+      "content": "halk bu soruyu kendine sormayı akıl etmedikçe, müstahaktır, normaldir.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyeliye var emekliye yok",
+      "entry_id": "81241857",
+      "author": "itinailegezer",
+      "date": "13.09.2018 10:00",
+      "content": "bunu %50ye anlatamaniz mümkün değildir",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyeliye var emekliye yok",
+      "entry_id": "81241876",
+      "author": "cumburlop123",
+      "date": "13.09.2018 10:01",
+      "content": "memleket suriye sigara uzun rozman",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyeliye var emekliye yok",
+      "entry_id": "81242562",
+      "author": "general finans",
+      "date": "13.09.2018 10:29",
+      "content": "soruyu soran gazeteci bizi kıskanan hain abd'nin bir piyonu olduğu için ve bu soru ülkemizi bozmaya yönelik çalışmaların sonuç alınamaması sonrası sorulduğu için gündeme bile alınmaması gereken sorudur. böyle fetö ağzıyla, terorist avukatlığıyla olmaz bu işler.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

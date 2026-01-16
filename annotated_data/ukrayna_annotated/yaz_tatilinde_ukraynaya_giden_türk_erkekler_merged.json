@@ -1,0 +1,26 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:09:22.418189",
+    "total_entries": 1,
+    "input": "yaz tatilinde ukraynaya giden türk erkekler",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "yaz tatilinde ukraynaya giden türk erkekler",
+      "entry_id": "87159106",
+      "author": "kuyruk yagi",
+      "date": "27.02.2019 02:59 ~ 03:02",
+      "content": "seks için tatile gidiyor algısına maruz kalan erkekler.\n\nukrayna’ya gitmek, bodrum’da bir hafta tatil yapmaktan daha ucuz. yiyip içmek, eğlenmek, farklı bir kültürü görmek de yanında bonus olarak geliyor.\n\nsanırım son 6-7 aydaki 3. ziyaretim olacak haftaya. en ufak bir boşluk bulduğumda gidiyorum. en elit restoranlarda komik rakamlara yemek yiyorum, 1.5 liraya bira içiyorum, 7-8 liraya en kaliteli sigarayı alıyorum. gece kulübünde en pahalı kokteyli 15 liraya içebiliyorum. neden gitmeyeyim ki? amacı seks olan bir insan zaten niçin bu kadar zahmete girsin? verir 200-300 lira görür işini ülkesinde. bu konudaki genellemeler çok yanlış ve itici. ziyaret etme fırsatı bulursanız daha iyi anlayacaksınız. liranın değerli olduğu nadir ülkelerden. uzun da sürmeyecek gibi.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "CULTURE",
+        "ECON",
+        "SEXUAL"
+      ]
+    }
+  ]
+}

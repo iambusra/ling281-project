@@ -1,0 +1,50 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:59:10.058160",
+    "total_entries": 3,
+    "input": "suriyelilere küfredip yunanistan'a tatile gitmek",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelilere küfredip yunanistan'a tatile gitmek",
+      "entry_id": "166297697",
+      "author": "shredded one",
+      "date": "13.07.2024 21:42",
+      "content": "(bkz: arap sen içme bokunu çıkarıyorsun)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE"
+      ]
+    },
+    {
+      "title": "suriyelilere küfredip yunanistan'a tatile gitmek",
+      "entry_id": "166297776",
+      "author": "anani siken kadi",
+      "date": "13.07.2024 21:45 ~ 21:47",
+      "content": "erdoğan demişken, onun da çocukları oğulları kızları amerikalara ingilterelere gitmişti, hatta torunu da amerikada doğup amerikan vatandaşı olmaya hak kazanmıştı di mi?\n\ntün müslümanlar imkanını bulunca mekke'nin aksi istikametine gider, hem de koşa koşa.\n\nallah diye taptığınız suriyeliler yunanistan'a geçmek için ölüme meydan okuyorlar.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyelilere küfredip yunanistan'a tatile gitmek",
+      "entry_id": "166300389",
+      "author": "61ts",
+      "date": "13.07.2024 23:14",
+      "content": "umarım yunanlar tarafından taşlanarak kovalanırlar.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "CRIME"
+      ]
+    }
+  ]
+}

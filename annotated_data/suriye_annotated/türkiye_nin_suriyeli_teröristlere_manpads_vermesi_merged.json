@@ -1,0 +1,48 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:11:34.592511",
+    "total_entries": 3,
+    "input": "türkiye'nin suriyeli teröristlere manpads vermesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türkiye'nin suriyeli teröristlere manpads vermesi",
+      "entry_id": "60057371",
+      "author": "you are no longer a prisoner of fate",
+      "date": "21.04.2016 09:05 ~ 08.09.2016 04:24",
+      "content": "esasen abd planının uygulanmasının sonucudur. amacı da esad'ı masada tutup sorunu olabildiğince çabuk sona erdirmek. durum basit, kaybedilenlerin maliyeti veya hesaplanabilir riskler muhtemel kazançların ötesine geçtiğinden yada istenilen amaca ulaşıldığından abd suriye'de pozisyon kapatıyor.\n\nhttp://www.bbc.com/…6/04/160413_wsj_abd_cia_b_plani\n\nedit: başlık başa kalmış.",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "türkiye'nin suriyeli teröristlere manpads vermesi",
+      "entry_id": "60058090",
+      "author": "gaip",
+      "date": "21.04.2016 10:04",
+      "content": "özgür suriye ordusu'na uçaksavar vermek el kaide'ye vermektir. bunlar aynı ordu içinde savaşan adamlar.\n(bkz: fetih ordusu)\nyarın yolcu uçakları düşürülmeye başladığında sorumlusu bu uçaksavarları bu ortaçağ artığı teröristlere verenler olacaktır.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "türkiye'nin suriyeli teröristlere manpads vermesi",
+      "entry_id": "60058164",
+      "author": "bsbalamir",
+      "date": "21.04.2016 10:09",
+      "content": "handmade s400",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

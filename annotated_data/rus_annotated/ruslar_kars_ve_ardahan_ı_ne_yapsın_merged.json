@@ -1,0 +1,101 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:27:19.889058",
+    "total_entries": 7,
+    "input": "ruslar kars ve ardahan'ı ne yapsın",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ruslar kars ve ardahan'ı ne yapsın",
+      "entry_id": "134200993",
+      "author": "groove and funk",
+      "date": "25.02.2022 15:23 ~ 17:55",
+      "content": "cevabını merak ettiğim soru, sözlükte rusya denilince aklına 93 harbinden başka bir şey gelmeyenler \"ruslar doğuya çıkartma yapar\", \"kars ve ardahan'ı işgal ederler\" gibi ilginç şeyler söylüyorlar. ruslar buraları en son stalin zamanında istiyorlardı. ülkemizde ise bu olay yıllar sonra 70'lerde ülkü ocaklarında karşıt fikirlilere (solculara) karşı antipati oluşturmak ve milliyetçilik mastürbasyonu yapmak için kullanılıyordu.\n\ntıpkı 2023'te sona erecek olan lozan'nın gizli maddeleri gibi rusların kars ve ardahan'ı istemesi yalanı da bıktırmaya başladı. 1953'te stalin'in ölümünden sonra bir daha ruslar asla türkiye üzerinde toprak talep etmemişlerdir. hatta 1953'ten sonra türkiye-rusya ilişkileri asla bozulmamıştır, türkiye'yi tanıyan ilk avrupa devleti (1921) sscb'dir.\n\ntekrar ediyorum şu anda kars ve ardahan bölgesini almak rusya'nın aklının ucundan bile geçmiyor, bölgede yaşayan rusların tüm nüfusa oranı %5 bile değil, türkiye'de yaşayan insanlar olarak hayatınız boyunca gitmeye değer bulmadığınız bu iki şehri rusya ne yapsın? 70'lerde ülkü ocaklarında çok takılan amcalarınız ardahan'ın haritadaki yerini biliyorlar mıdır?\n\n--\n1953'ten sonra ruslar toprak talep etmedi yazmışım bir alttaki 1945'ten bahsediyor, televizyon adeta türk halkını hipnoz etmiş ruhunuzu amerikan medyasına satmışınız haberiniz yok.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ruslar kars ve ardahan'ı ne yapsın",
+      "entry_id": "134201511",
+      "author": "max brenner",
+      "date": "25.02.2022 15:40 ~ 15:42",
+      "content": "bunu diyen bogazlari da ne yapsin diyor mu? bu mu guvenlik vizyonu, “aman ne yapsin” midir yani?\n\nneyse ciddiye alip cevap verelim: basligi acan yazarin onemsiz buldugu kars ve ardahan vatan topragidir ve edirne, hakkari, ege’de kucuk bir kayalık kadar degerlidir. ayrica kars, ardahan disinda bu bolgeye artvin ve kiyiları da dahil, yani karadeniz’in bir rus golu haline gelmesi ruslarin kars, ardahan ve artvin’i ne yapacaginin cevabidir.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ruslar kars ve ardahan'ı ne yapsın",
+      "entry_id": "134201569",
+      "author": "karni kasinan bidon kafa",
+      "date": "25.02.2022 15:41",
+      "content": "bir ardahanlı olarak buna alınırım. senin ananın memleketi işgal edilirse zoruna gitmez mi?",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "ruslar kars ve ardahan'ı ne yapsın",
+      "entry_id": "134201583",
+      "author": "kipchakkyzy",
+      "date": "25.02.2022 15:42",
+      "content": "onlar için türkiye’den ne koparsa kardır.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "ruslar kars ve ardahan'ı ne yapsın",
+      "entry_id": "134201621",
+      "author": "oteberidegil",
+      "date": "25.02.2022 15:43",
+      "content": "kars'ı onlarca yıl önemli bir garnizon şehri haline getiren rusya emperyalizminden haberi olmayan kişi başlığıdır.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ruslar kars ve ardahan'ı ne yapsın",
+      "entry_id": "134201872",
+      "author": "on iki yirmi",
+      "date": "25.02.2022 15:51",
+      "content": "hiçbir şey yapmasına gerek yoktur çünkü toprak güçtür.\nve ünlü düşünür putin' in söylediği gibi \"yaptırımlar geçici, toprak kalıcıdır\"",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "ruslar kars ve ardahan'ı ne yapsın",
+      "entry_id": "134201875",
+      "author": "yesilayci torbaci",
+      "date": "25.02.2022 15:51",
+      "content": "terekeme soyundan gelen bir karslı olarak takarız karapapağımızı gideriz cepheye yıllar önce atalarımızın yaptığı gibi savaşarız",
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "HATE",
+        "XENO",
+        "CRIME"
+      ]
+    }
+  ]
+}

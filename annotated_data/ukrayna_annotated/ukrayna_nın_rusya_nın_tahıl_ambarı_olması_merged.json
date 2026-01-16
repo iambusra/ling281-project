@@ -1,0 +1,45 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:16:11.930612",
+    "total_entries": 3,
+    "input": "ukrayna'nın rusya'nın tahıl ambarı olması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukrayna'nın rusya'nın tahıl ambarı olması",
+      "entry_id": "40910241",
+      "author": "somek kafali",
+      "date": "05.03.2014 23:26",
+      "content": "eskiden var olan durumdur. günümüzde kısmen mi değil mi bilemem. ayrıca kazakistan rusyanın et ambarıdır. kazaklar rusların çobanıdır. evet.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ukrayna'nın rusya'nın tahıl ambarı olması",
+      "entry_id": "40911183",
+      "author": "shinigami ryuk",
+      "date": "06.03.2014 00:00 ~ 10.03.2014 01:25",
+      "content": "sscb'den bahsediliyorsa dünyanın en aptalca tespitidir. tahılın her türlü çeşidi zaten bütün sscb ülkelerinde üretiliyordu. hatta ukraynadan fazlası bugün bile kazakistanda mevcuttur. bazı ürünler iklim yüzünden her bölgede yetişmediği için belli alanlarda yetiştirilip dağıtılırdı. yani özbekistandan toplanan elmayı sadece rusların yediği filan yoktu. bütün gıda ürünleri kolhoz lar tarafından hangi ülkede uygunsa orada üretilir ve diğerlerine nakledilirdi. ne kadar adil olduğu konusu ayrı mesele. yok günümüzden bahsediliyorsa rusya'nın tahıl ambarı yine ukrayna değil kazakistandır. en azından buğday için geçerli durum budur. dünyanın en büyük buğday üreticilerinden birisidir kazakistan. ambar derkende karşılığı olmayan bi durum söz konusu değil. parası neyse ödenerek yapılan bir ticaretten ibaret. bütün eski sovyet ülkelerinde alkollü içeceğin %90'ı rusyadan temin edilmektedir. bu durumda rusya'nın orta asyanın tekel bayii olması gibi abzürt başlıklarda açın oldu olacak.\n\nayrıca biz eskiden, su içerdik testiden. 17 milyonluk kazakistan'ın ülke içinde yetiştirdiği et nedir ki 150 milyonluk rusya nüfusunu beslesin. cahillik başa bela. sscb hakimiyeti hepi topu 70 sene sürdü ve bu süreçte bir halka kabzımal diğerine çoban yakıştırması yapılıyorsa çok değişik kafalarınız var demektir. aynı aptal düz mantıkla bakacak olursak ruslar 300 sene altınorda imparatorluğuna vergi ödeyip artıklarıyla beslenmek zorunda kaldılar. o zaman bizde ruslar türki halkların taşak oğlanıdır diyelim. evet.\n\nedit: başlık başa kalmış. başlığı açan yazarın dediğine göre ukrayna rusya'nın tahıl ambarıydı, kazakistan et deposuydu ne bileyim özbekistan elma bağıydı vs. kısacası, sscb döneminde kolhoz adı verilen yapının bu ülkeleri birer depo olarak kullanmasından dem vuran farazi bir tespitti.",
+      "has_external_url": false
+    },
+    {
+      "title": "ukrayna'nın rusya'nın tahıl ambarı olması",
+      "entry_id": "40911247",
+      "author": "somek kafali",
+      "date": "06.03.2014 00:02",
+      "content": "(bkz: rusya'nın orta asya'nın tekel bayii olması)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "ECON"
+      ]
+    }
+  ]
+}

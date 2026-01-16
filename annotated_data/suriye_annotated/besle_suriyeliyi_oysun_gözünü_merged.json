@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T14:58:53.870419",
+    "total_entries": 1,
+    "input": "besle suriyeliyi oysun gözünü",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "besle suriyeliyi oysun gözünü",
+      "entry_id": "125650825",
+      "author": "speciale aperta",
+      "date": "12.07.2021 21:15",
+      "content": "göz oymak mı?\n\nileride bizi ülkeden kovmaya yeltenmeleri muhtemeldir bu orta doğulu cahil arap tayfasının...\n\ndirayetli bir hükümet olmadığı müddetçe bunlar gönderilmeyecek maalesef.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    }
+  ]
+}

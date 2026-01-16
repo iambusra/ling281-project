@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T13:48:11.674555",
+    "total_entries": 1,
+    "input": "10 ekim 2021 suriye mare saldırısı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "10 ekim 2021 suriye mare saldırısı",
+      "entry_id": "128937863",
+      "author": "benimhastamacil",
+      "date": "10.10.2021 23:12",
+      "content": "allah rahmet eylesin. iki sene kadar doğuda mecburi hizmet yaptım, maalesef onlarca şehit gördüm, bilfiil müdahale ettim. fotoğrafını sonradan basında görünce tanımadığım yiğitler oldu. öyle üzülüyorum ki şu haberlere.\n\nallah hepinizden razı olsun. umarım sağ kalanların ciddi bir şeyleri yoktur.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HUMAN"
+      ]
+    }
+  ]
+}

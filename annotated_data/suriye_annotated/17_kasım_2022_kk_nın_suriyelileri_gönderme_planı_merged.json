@@ -1,0 +1,62 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T16:57:32.792993",
+    "total_entries": 4,
+    "input": "17 kasım 2022 kk'nın suriyelileri gönderme planı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "17 kasım 2022 kk'nın suriyelileri gönderme planı",
+      "entry_id": "145223735",
+      "author": "willoffire",
+      "date": "17.11.2022 18:17 ~ 18:18",
+      "content": "evet kılıçdaroğlu suriyelileri nasıl göndereceğini açık ve net bir şekilde tekrar açıkladı.\nhttps://youtu.be/xnfufz18ifu\n\nadam türkiye'de olan suriyeli stklar ve parti liderleri ile konuşmuş. onlara da anlatmış. suriye ile karşılıklı büyük elçilikleri açacağız,\navrupa birliği bize fon sağlayacak. ab'deki yetkililere \"suriyeliler türkiye'de kalmak istemiyor, hepsi size gelmek istiyor, gelecek. siz bize fon sağlayacaksınız biz de suriyeyi yeniden inşa edeceğiz\" demiş\n\"biz ab'den gelen fonları şeffaf bir şekilde kullanıp suriyeyi inşa edeceğiz, müteahhitlerimiz de para kazanacak.\"\n\nsuriyelileri otobüse zorla bindirmeden, popülizm yapmadan, ülkenin itibarına gölge düşürmeden ve para harcamadan gönderme formülünü açıkladı. daha zafer partisi kurulmadan kılıçdaroğlu parti binasına (bkz: sınır namustur) pankartı astı. geçenlerde yine astılar görsel ve halen orda.\nkılıçdaroğlu'nun bahçeliye bakacak şekilde durması da tesadüf de olsa çok güzel bir kare ortaya çıkarmış.",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY",
+        "XENO"
+      ]
+    },
+    {
+      "title": "17 kasım 2022 kk'nın suriyelileri gönderme planı",
+      "entry_id": "145223902",
+      "author": "zerzevat3",
+      "date": "17.11.2022 18:22 ~ 18:29",
+      "content": "boş vaatler. birçok farklı parametreye bağlı... parametrelerden birisi umulmadık yere giderse ortada plan falan kalmaz.\n\nfazla ılık. zamanında gazi mustafa kemal atatürk böyle ılık planlar yapsaydı, ortada türkiye cumhuriyeti diye birşey olmazdı.\n\nılık ılık hareket ederek büyük bir ülke kuramaz, büyük bir ülke olarak hayatını idame ettiremezsin. biraz tarih okuyan, bilen, bunu da bilir.\n\nekleme: kendisini sevdiğini iddia edenler, gazi paşamızın hayatına dair hiçbirşey bilmiyorlar. bilselerdi, böyle olmazdı. bunlar hep okumamaktan...\n\n(bkz: koçgiri isyanı)\n(bkz: tekalif-i milliye emirleri)\n(bkz: menemen isyanı)\n(bkz: istiklal mahkemeleri)\n(bkz: dersim isyanı)\nve daha nicesi...",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "17 kasım 2022 kk'nın suriyelileri gönderme planı",
+      "entry_id": "145224152",
+      "author": "dik duranin gozyaslari",
+      "date": "17.11.2022 18:30 ~ 18:53",
+      "content": "adamlar kimlik almış yaşıyor. hayatında suriye'yi görmemiş, suriyelilerin doğurduğu çocuklar var. kimi nereye gönderiyorsun? türkiye'nin demografik yapısı bozulmuştur. geçmiş olsun.\n\nbaşörtü açılımı gibi boş vaad.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "17 kasım 2022 kk'nın suriyelileri gönderme planı",
+      "entry_id": "145224337",
+      "author": "messobey",
+      "date": "17.11.2022 18:36",
+      "content": "boş vaattir. sen muhtarlara yardımcı falan ata kral",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

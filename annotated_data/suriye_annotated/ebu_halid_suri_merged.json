@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-10T23:36:59.193735",
+    "total_entries": 1,
+    "input": "ebu halid suri",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ebu halid suri",
+      "entry_id": "40666498",
+      "author": "zakir",
+      "date": "24.02.2014 16:37",
+      "content": "son sozleri:o son fetvayi yayinlamayacaktik:(",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CULTURE"
+      ]
+    }
+  ]
+}

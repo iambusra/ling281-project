@@ -1,0 +1,1027 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:19:32.779075",
+    "total_entries": 74,
+    "input": "istiklal marşı'ndan rahatsız olan ukraynalı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "istiklal marşı'ndan rahatsız olan ukraynalı",
+      "entry_id": "148201160",
+      "author": "umitsizseniz umit sizsiniz",
+      "date": "27.01.2023 00:22 ~ 01:25",
+      "content": "edit: yeni kaynak\nhttps://www.google.com/…re-sikayet-etti-623010h.htm\n\n\"yer: antalya. akdeniz anadolu lisesi'nde pazartesi sabahları okunan istiklal marşı'ndan rahatsız olan “türk vatandaşlığı satın almış bir ukraynalı”, cimer'e şikayette bulundu.\"\n\nhttps://mobile.twitter.com/…tus/1618714791434149888\n\nbunlar avrupa'da böyle şımarabiliyor mu? tepemize çıkarttık önümüze gelen göçmeni. bir de öğrenip cimer'e şikayet etmiş yüzsüz.",
+      "referenced_content": [],
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "istiklal marşı'ndan rahatsız olan ukraynalı",
+      "entry_id": "148201840",
+      "author": "bilge zebra",
+      "date": "27.01.2023 00:35",
+      "content": "vay arkadaş ya ipini koparan memlekete giriyor bir de üstelik bizi beğenmiyor.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "istiklal marşı'ndan rahatsız olan ukraynalı",
+      "entry_id": "148201953",
+      "author": "tam bir fetisist hayvan",
+      "date": "27.01.2023 00:38",
+      "content": "köyüne geri göndereceksin sabah akşam bomba sesi duysun amk.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "CRIME"
+      ]
+    },
+    {
+      "title": "istiklal marşı'ndan rahatsız olan ukraynalı",
+      "entry_id": "148202152",
+      "author": "condensed milk",
+      "date": "27.01.2023 00:42 ~ 12:56",
+      "content": "bir şeyi beğenmiyorsan yapmazsın, bir yerden hoşlanmıyorsan gitmezsin, bir yerden yaşamaktan memnun değilsen orada yaşamazsın. mecburi bir şekilde geldiysen o önceden kurulan değerlere uygun yaşarsın, saygısızlık yapmazsın, ve insanlara saygı gösterirsin, ki vatandaşlık alabildiğine göre mecburi kısmının bu durum için geçerli olmadığını düşünüyorum.\n\ndüşünün ki amerika’ya kabul edilen bir göçmen, bu olaydaki gibi ukraynalı örneğini alalım, bir lise yakınında yaşamını sürdürüyor ve lisenin amerikan futbol takımının maçlarından önce okul bandosu veya ses sisteminden amerikan marşı çalınıyor ve bundan rahatsızlık duyup amerikan resmi makamlarına yine amerikan milli marşı hakkında şikayette bulunuyor.\nbu tarz olaylar orada gerçekleşiyor diye değil, orada yapabilir mi, yaparsa nasıl tepki görür örneklemesiydi. sadece düşünmeniz yeterliydi.\n\numarım resmi makamlarımız bu keyfi isteğe milli marşımızı ve değerleri savunucu şekilde güzel bir cevap verir.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "istiklal marşı'ndan rahatsız olan ukraynalı",
+      "entry_id": "148202346",
+      "author": "yerli google",
+      "date": "27.01.2023 00:46",
+      "content": "antalya'da satılan evler ülkemize döviz kazandırıyor tezini savunan eksisozluk yazarı ((bkz: #147792815)) aklıma geldi.\n\nvatanını döviz uğruna satan bu yerli ve milli iktidar, aslında ülkenin geleceğini satıyor ama farkında değil.",
+      "referenced_content": [
+        {
+          "type": "entry",
+          "title": "17-ocak-2022-bir-rusun-arac-cikisimi-kapatmasi",
+          "entry_id": "147792815",
+          "author": "yerli google",
+          "date": "17.01.2023 22:46 ~ 18.01.2023 00:23",
+          "content": "ev aldıkları yetmiyormuş gibi bir de sıfır kilometre toyota corolla almış rus'tur.\n\nbizim türkler de yetkili bayilerde araç peşinde koştursun. yazık. ülkenin geldiği hale bak.\n\nedit: ülkeye döviz girdiği için durumu savunan bir romalı, beni sözelci misin diye ti'ye almış aklınca. kardeşim, parası olup araba bulamıyor insanlar. tüm türkiye sefalet içinde değil. araba yok, stokçuluk var, galerici çeteleri var. ama rus sıfır araba almış ve bir türk vatandaşın aracının önünü kapatacak kadar da cesur davranacak kadar buralı olmuş.\n\nyarın öbür gün bu sokakta ruslar çoğunluk olsa, bu arabaya zarar vermezler mi, bu kadar mı paragöz oldunuz?\n\nülkeye döviz giriyormuş, bak sen. senin evini arabanı bilgisayarını da ruslara satalım o vakit. ülkenin dövize ihtiyacı var.",
+          "has_external_url": true
+        }
+      ],
+      "referenced_entry_ids": [
+        "147792815"
+      ],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "istiklal marşı'ndan rahatsız olan ukraynalı",
+      "entry_id": "148202391",
+      "author": "yarin yapicam",
+      "date": "27.01.2023 00:47 ~ 11:39",
+      "content": "hâlbuki ülkesindekiler (ukrayna) bomba sesiyle uyanıyor.\n\nistiklâl marşımız zaten haftada bir gün pazartesi sabahları söyleniyor okullarda, o da bir dakika sürüyor. kaldı ki, ukraynalıların kendi kültürlerinde patırtı kütürtü eksik olmamasına rağmen böyle bir şikayette bulunmak züppelik.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "istiklal marşı'ndan rahatsız olan ukraynalı",
+      "entry_id": "148202455",
+      "author": "father of gumball",
+      "date": "27.01.2023 00:49",
+      "content": "okula ceza verilse, şaşırır mısınız? ben şaşırmam. \"türkiye cumhuriyeti\" ibaresinden, andımızdan falan rahatsız olan zihniyetin ülkesinde, okula ceza gelebilir.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "istiklal marşı'ndan rahatsız olan ukraynalı",
+      "entry_id": "148202465",
+      "author": "sen kurban ol bu cambaza",
+      "date": "27.01.2023 00:49",
+      "content": "(bkz: yallah ukrayna’ya)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "istiklal marşı'ndan rahatsız olan ukraynalı",
+      "entry_id": "148202547",
+      "author": "k hikayecisi",
+      "date": "27.01.2023 00:50",
+      "content": "gidip köyünde rus marşı okumayı tercih edebilir",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "istiklal marşı'ndan rahatsız olan ukraynalı",
+      "entry_id": "148202801",
+      "author": "munekkid",
+      "date": "27.01.2023 00:56",
+      "content": "bir ölçüt olmadan her önüne gelene vatandaşlık verirsen yardım için ülkene aldığın ukraynalı bile sana mankurtluk yapar.\n\nbazen sana yapılanı kınamak ve rahatsız olmaktan ziyade oturup düşünmek gerek.\n\nsen izin vermedikten sonra karşındaki her şeye cüret edemez.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "istiklal marşı'ndan rahatsız olan ukraynalı",
+      "entry_id": "148202880",
+      "author": "mortawel",
+      "date": "27.01.2023 00:58 ~ 00:59",
+      "content": "zamanında israil filistin topraklarını nasıl parayla 3 kuruş fazla vererek satın aldıysa ve yerli halk hahah enayiler 3 kuruşluk mala 5 kuruş verdiler, sattık, kazık attık gözüyle tapularını güle oynaya israile verdilerse, ve şu anda başlarına kurşun yağıp ağlayarak bütün dünyadan yardım istiyorlarsa, ha işte şu anda antalyanın, alanyanın, mersinin durumu budur.\n\nyarının gelişi bugünden bellidir. ülke içerden içerden fena halde satılıyor. 50 100 yıl sonra buralarda türkçe konuşana zulm edilecek. demişti dersiniz.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "XENO",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "istiklal marşı'ndan rahatsız olan ukraynalı",
+      "entry_id": "148203144",
+      "author": "environmental healt technician",
+      "date": "27.01.2023 01:04",
+      "content": "tarrama bak hele. akıllı olsun da sözlü falan konuşmasın bu konuyu. bir milletin kaderi yazıldı o marşla.\n\naklını alırlar adamın.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "istiklal marşı'ndan rahatsız olan ukraynalı",
+      "entry_id": "148203162",
+      "author": "adada",
+      "date": "27.01.2023 01:04",
+      "content": "beslersin yetimi gelir s...g..",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE"
+      ]
+    },
+    {
+      "title": "istiklal marşı'ndan rahatsız olan ukraynalı",
+      "entry_id": "148203250",
+      "author": "feanorr",
+      "date": "27.01.2023 01:06",
+      "content": "siktirsin gitsin rus marşı dinlesin o zaman orospuya bak sen.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "istiklal marşı'ndan rahatsız olan ukraynalı",
+      "entry_id": "148203346",
+      "author": "yavsorma",
+      "date": "27.01.2023 01:09",
+      "content": "kardeşim affetmeyeceksin bu hareketleri ya. bir de devletin resmi kurumuna yazmış şikayetini amk. ne lan bu cesaret. iyice göt oğlanına döndük.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY",
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "istiklal marşı'ndan rahatsız olan ukraynalı",
+      "entry_id": "148203565",
+      "author": "tempera",
+      "date": "27.01.2023 01:14 ~ 01:19",
+      "content": "höfffff, döndüre döndüre (bkz: sikerler)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE"
+      ]
+    },
+    {
+      "title": "istiklal marşı'ndan rahatsız olan ukraynalı",
+      "entry_id": "148203587",
+      "author": "rantci yandas muteahhit",
+      "date": "27.01.2023 01:15",
+      "content": "şehit kanıyla kazanılan vatandaşlığı parayla satanların günahıdır.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "istiklal marşı'ndan rahatsız olan ukraynalı",
+      "entry_id": "148203635",
+      "author": "yademeseneoyle",
+      "date": "27.01.2023 01:16",
+      "content": "sabah akşam kapısına hoparlör konulup istiklal marşı dinletilmesi gereken ukraynalı. ya da köyüne dönüp patlama sesi dinlemeye devam edebilir.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "istiklal marşı'ndan rahatsız olan ukraynalı",
+      "entry_id": "148203860",
+      "author": "doxanikee",
+      "date": "27.01.2023 01:22",
+      "content": "hiçbir elle tutulur kaynağı olmayan haber.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "istiklal marşı'ndan rahatsız olan ukraynalı",
+      "entry_id": "148204264",
+      "author": "shua",
+      "date": "27.01.2023 01:33",
+      "content": "haber kesin yalandır ama bana daha çok istiklal marşı'ndan değil, saçmasapan o dandik hoparlörlerin son ses açılmasından rahatsız olmuş gibi geldi. ki çoğumuzu zaman zaman rahatsız ettiği oluyor. tabii ki istiklal marşı'na gönülden bağlıyım ama bu ezan meselesi gibi biraz. sesini biraz kısın ve düzgün ses sistemleri kurun, bu kadar basit. üzerinde gruplaşmaya gerek yok. türkiye'deki gürültü kirliliğine biz çok alıştık.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "istiklal marşı'ndan rahatsız olan ukraynalı",
+      "entry_id": "148204493",
+      "author": "aferindevam",
+      "date": "27.01.2023 01:40 ~ 01:42",
+      "content": "bir iddia. başrol nihayetinde ukraynalıdır.\nbence bunlar iyi günlerimiz.\n\n#147636077\n\ndüzenleme: kaynak yetersizliğinden dem vuranlar, iddia hafif bile kalıyor olabilir. gerçekleri olduğunuz yerden görmeniz imkansız. antalya’ya bekleriz.",
+      "referenced_content": [
+        {
+          "type": "entry",
+          "title": "antalya-koleji-7e-sinifi-ogrenci-listesi",
+          "entry_id": "147636077",
+          "author": "aferindevam",
+          "date": "14.01.2023 15:42",
+          "content": "normal bir listedir. bunlar iyi günlerimiz.\n\ndüdenpark’ta geçen incil dağıtılıyordu. ruslar iki tane afgan’a üç tane suriyeli’ye benzemez. siker atar… herkese yalvardım anlatmaya çalıştım ama kimse ayıkmıyor, rus milletinin gerçek yüzünü bilenler iyi bilir.\n\nartık çok geç.",
+          "has_external_url": false
+        }
+      ],
+      "referenced_entry_ids": [
+        "147636077"
+      ],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "istiklal marşı'ndan rahatsız olan ukraynalı",
+      "entry_id": "148204516",
+      "author": "feronia2200",
+      "date": "27.01.2023 01:40",
+      "content": "\"biz yerli ve milliyiz\" diyen, para ve oy karşılıgı gavurlara vatandaşlık dağıtan cumhur ittifakının kafamıza sıçırttığı ukraynalıdır.\n\nistediğini alacaktır zira akp ve minnak ortağının has vatandaşıdır.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "istiklal marşı'ndan rahatsız olan ukraynalı",
+      "entry_id": "148205089",
+      "author": "narint",
+      "date": "27.01.2023 01:59",
+      "content": "o vatandaşlıkları eğer günü gelince geri alamazsak; çocuklarımız, torunlarımız gün yüzü görmeyecek. bize atatürk'ün dirayeti gerek!",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY",
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "istiklal marşı'ndan rahatsız olan ukraynalı",
+      "entry_id": "148205133",
+      "author": "somun civata",
+      "date": "27.01.2023 02:00",
+      "content": "sonra zafer turizm fasist diyorlar. adam vatanini satmis, sonra bu vatani da begenmiyor. suriye'ye git o zaman.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "istiklal marşı'ndan rahatsız olan ukraynalı",
+      "entry_id": "148205404",
+      "author": "deamitt",
+      "date": "27.01.2023 02:11",
+      "content": "yüzsüz ibneye bak sen aq benim de evimin yanındaki kiliseden günde 10 vakit çan sesi geliyo, papaza gidip bi kısın sunun sesini desem e o zaman siktr git baska ülkede yasa diyecegini tahmin edememek icin gerizekalı olmak lazım ama türkiye'de türk vatandasından baska herkesin herseye hakkı oldugu icin cok da önemli olmayan durum",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE"
+      ]
+    },
+    {
+      "title": "istiklal marşı'ndan rahatsız olan ukraynalı",
+      "entry_id": "148205748",
+      "author": "arthur charles clarke",
+      "date": "27.01.2023 02:24",
+      "content": "bir insan bir seyden rahatsiz olamaz mi? olabilir. hatta keskin bir konuda bile bunu iletebilecegi bir makamin olmasi iyidir.\n\ncevap olarak siktir git lan dersin o ayri, ama rahatsiz olunabilmesi ve bunun dile getirilebilmesi guzel seylerdlr.\n\nlinclemeye gerek yok.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "istiklal marşı'ndan rahatsız olan ukraynalı",
+      "entry_id": "148205864",
+      "author": "metalogic",
+      "date": "27.01.2023 02:30 ~ 02:34",
+      "content": "bu durumun olusmasina sebep olanlarin sorgulanmasini gerektiren eylemi yapmis kisi.\n\nortam olusmus ise bu tur olaylarin gorunmesi kacinilmaz. ondan sonra \"vay neden boyle yapiyor\" diye hayiflanmak luzumsuz.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "istiklal marşı'ndan rahatsız olan ukraynalı",
+      "entry_id": "148206081",
+      "author": "macenas",
+      "date": "27.01.2023 02:39",
+      "content": "(bkz: acıma yetime döner koyar götüne)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE"
+      ]
+    },
+    {
+      "title": "istiklal marşı'ndan rahatsız olan ukraynalı",
+      "entry_id": "148206290",
+      "author": "kokbori",
+      "date": "27.01.2023 02:49",
+      "content": "ukraynaya yollayın geri sovyet bayrağı önünde ruslara dövdürsün dıbını",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "XENO",
+        "CRIME"
+      ]
+    },
+    {
+      "title": "istiklal marşı'ndan rahatsız olan ukraynalı",
+      "entry_id": "148210712",
+      "author": "bayburt derin devleti",
+      "date": "27.01.2023 09:02",
+      "content": "sana da zafer turizm.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "istiklal marşı'ndan rahatsız olan ukraynalı",
+      "entry_id": "148210923",
+      "author": "clandestino87",
+      "date": "27.01.2023 09:10",
+      "content": "istiklal marşından rahatsız olduysan gel sana kaval çaldıralım, zira alışkınsındır da sen.\n\ngirmiş bir de resmî merciye şikayet etmiş utanmadan. bizim bu hale gelmemize neden olan herkesin allah belasını versin. şu anlık kazıklama temelli şark kurnazlığından vazgeçilmediği sürece hiçbir şey değişmez arkadaşım, önce biz kendimiz doğru düzgün olmalıydık.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "istiklal marşı'ndan rahatsız olan ukraynalı",
+      "entry_id": "148210934",
+      "author": "colde bedevi arayan kutup ayisi",
+      "date": "27.01.2023 09:10",
+      "content": "milli marş oğlum marşlar ülkeyi bağlar başkasının sevmesini bekleyemezsin",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "istiklal marşı'ndan rahatsız olan ukraynalı",
+      "entry_id": "148211095",
+      "author": "paralelsenkronizerastgele",
+      "date": "27.01.2023 09:16",
+      "content": "şu hayatta 6-7 eylül olaylarının yaşanmasına sebep olmuş, içerisinde yer almış denyolarla empati kurar duruma gelmemeliyim, gelmemeliyim, gelmemeliyim diye içimden tekrarlatmış, gelmeme engel olamamış, kaynağı belirsiz haberdir.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "istiklal marşı'ndan rahatsız olan ukraynalı",
+      "entry_id": "148211236",
+      "author": "ceyarc",
+      "date": "27.01.2023 09:21",
+      "content": "haberi yapan arkadaş bu bilgiyi nedenden almış. cimer'i kontrol edenler haber değeri olan şikayetleri maddi kazanca mı çeviriyor?",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "istiklal marşı'ndan rahatsız olan ukraynalı",
+      "entry_id": "148211296",
+      "author": "maminism",
+      "date": "27.01.2023 09:23",
+      "content": "parasını verip vatandaşlıktan atmak için neyi bekliyorsunuz?",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY",
+        "XENO"
+      ]
+    },
+    {
+      "title": "istiklal marşı'ndan rahatsız olan ukraynalı",
+      "entry_id": "148211465",
+      "author": "rengiye",
+      "date": "27.01.2023 09:27 ~ 09:56",
+      "content": "yalnız o şiirde ez'anlar vardı..\nsiren sela sesleri değil..\nez'anlar..\nvakti belli olan ..\nbelirleyen ez'anlar...\ngüneşe göre olan haliyle ..\nsiyahsalların kime gerek hep belirsiz çok mübarek popolarını korumak için saldığı selalar sirenler değil..\nyeterince ezilmeden anlaşılmıyor demek..",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "istiklal marşı'ndan rahatsız olan ukraynalı",
+      "entry_id": "148211575",
+      "author": "kafaylagolatankaleci",
+      "date": "27.01.2023 09:30",
+      "content": "siktirsin gitsin kendi ülkesinde ne marşı okunuyorsa onu dinlesin.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "istiklal marşı'ndan rahatsız olan ukraynalı",
+      "entry_id": "148211627",
+      "author": "karisik cerez tabagi",
+      "date": "27.01.2023 09:32",
+      "content": "\"avrupa'da da böyle şimariyorlar mi\" diye sormuş yazar.\nevet şımarıyorlar.\nukrayna'dan gelen göçmenlere daha çok hak veriliyor ve onlar bunun bilincinde. nitekim ona göre davranıyorlar. göç edenlere hemen ev, iş, iş yoksa sosyal yardım ve bilumum başka ayrıcalıklar tanınıyor.\nafganistan, suriye, ya da başka yerlerden gelen göçmenlere bu haklar verilmiyor.\nha bu arada rahatsız olduysan siktir git ülkene diyen çıkmadı mı?",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "istiklal marşı'ndan rahatsız olan ukraynalı",
+      "entry_id": "148211739",
+      "author": "metamorfoz etkisi",
+      "date": "27.01.2023 09:35",
+      "content": "bazı şeyler para ile satın alınamaz",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "istiklal marşı'ndan rahatsız olan ukraynalı",
+      "entry_id": "148211940",
+      "author": "audere est facere",
+      "date": "27.01.2023 09:41 ~ 09:44",
+      "content": "habere baktım belge de yok, ciddiye alınacak bir içerik de yok. (bkz: öne sürüldü)\n\ntam bizim milleti tetikleyecek türden bir haber. alın benden size link . burada da taksim'de istiklal marşı okuyorlar, ne yapacağız şimdi?\n\nyıllardır bir şeyin içeriğine, belgesine bakmadan \" övöhövh \" yorum yapmayı bırakamadık. merak ediyorum boş kağıda imza da atıyor musunuz diye.",
+      "referenced_content": [],
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "istiklal marşı'ndan rahatsız olan ukraynalı",
+      "entry_id": "148212134",
+      "author": "niye gereksiz olsun",
+      "date": "27.01.2023 09:46 ~ 09:47",
+      "content": "türk vatandaşı olma şartlarına istiklal marşının 10 kıtasını ezberleme ve 2 kıtasını makama uygun söyleyebilme şartı getirilmesi gerektiğini düşündürten haberdir.\nhem saçma yabancı profil sayısı elenmiş de olur.\nbunu bir düşünsün ülke yönetimi bence.\n\nhatta vatandaşlık 5 yıllık olsun, yenileme şartı olarak istiklal marşı kursuna yazılsınlar. alın size para kapısı.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "istiklal marşı'ndan rahatsız olan ukraynalı",
+      "entry_id": "148212192",
+      "author": "mitralioz",
+      "date": "27.01.2023 09:48 ~ 09:52",
+      "content": "kanıtsız bir iddiadır. isim yok. adres yok. okul müdürü ifadesi yok. cimer şikayeti kanıtı yok.\n\nbakın geçen hafta böyle isimsiz cisimsiz kanıtsız haber yapan (bir türk yayın içeriği yapan kızın üstüne montaj yapıp ukrayna'yı karalamaya çalışmıştı) avrasyacı gazete yine benzer mevzudan dava yedi. üzmeyeyim o haberi yapan kişiyi.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "istiklal marşı'ndan rahatsız olan ukraynalı",
+      "entry_id": "148212309",
+      "author": "hansgoteller",
+      "date": "27.01.2023 09:51",
+      "content": "istiklal marşı'ndan rahatsız olan ukraynalı'nın, istiklal marşı sayesinde bu ülkenin ayakta olduğunu\n\nve o embesilin kendi ülkesinin bizim gibi benimsenen bir istiklal marşı olmadığı için buraya kaçtığını,\n\natatürk'ü sevmeyen suriyeli'nin, atatürk sayesinde bu ülkenin var olduğunu\n\nve o embesillerin, zamanında bir atatürk'ü olmadığı için ülkesinin paramparça olduğunu ve buraya kaçtığını,\n\nlaikliği sevmeyen afgan'ın, laiklik sayesinde bu ülkenin iç savaş yaşamadığını\n\nve o embesilin burada bu yüzden huzur olduğu için kaçtığını\n\n…\n\nanlamaları gerekir!",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "istiklal marşı'ndan rahatsız olan ukraynalı",
+      "entry_id": "148212364",
+      "author": "fb070707",
+      "date": "27.01.2023 09:53",
+      "content": "yasaklattırabilirse şaşırmayacağım durumdur. okulun %25'i yabancı uyrukluymuş, kalan %75'e ikinci yabancı dil ayağına zorla rusça da öğretmeye kalkarlar.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "istiklal marşı'ndan rahatsız olan ukraynalı",
+      "entry_id": "148212467",
+      "author": "arap sen icme bokunu cikartiyorsun",
+      "date": "27.01.2023 09:56",
+      "content": "hiç değişmez;\n\n(bkz: acıma yetime gelir koyar götüne)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "istiklal marşı'ndan rahatsız olan ukraynalı",
+      "entry_id": "148212535",
+      "author": "kesinlikle dengesizim",
+      "date": "27.01.2023 09:58",
+      "content": "(bkz: kaynak ümit özdağ)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "istiklal marşı'ndan rahatsız olan ukraynalı",
+      "entry_id": "148212572",
+      "author": "bencladius",
+      "date": "27.01.2023 09:59",
+      "content": "türk vatandaşı olduysa askerde bol bol söyletirler merak etmeyin.\n\no zaman istediği yere şikayet edebilir.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "istiklal marşı'ndan rahatsız olan ukraynalı",
+      "entry_id": "148212770",
+      "author": "2150 yilindan gelen adam",
+      "date": "27.01.2023 10:05",
+      "content": "--- spoiler ---\nkonuyla ilgili müdür yardımcısı ise iddialarla ilgili yaptığı açıklamada kendisine böyle bir şikayete ilişkin yazının gelmediğini aktardı.\n--- spoiler ---\n\n(bkz: iddia edildi haberciliği)\n(bkz: her habere sazan gibi atlamak)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "istiklal marşı'ndan rahatsız olan ukraynalı",
+      "entry_id": "148213123",
+      "author": "nicknelann",
+      "date": "27.01.2023 10:14",
+      "content": "onu beşi bilmem ağa yeni hükümet son 15 yılda verilen tüm vatandaşlıkları iptal edecek,mülk alıp vatandaşlık alanlara gerekirse parayı faizi ile verip yallah memleketine,süri,afgan,paki,ıraklı şulu buluları zaten söylemeye gerek yok direk postalıcak sonra diyecek ki geleceksen turist olarak gel,bu vatandaşlık işlerini'ev al vatandaş' ol bedavalığını bitirecek,yazıp yazıp sildim kalanı bu.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "istiklal marşı'ndan rahatsız olan ukraynalı",
+      "entry_id": "148213536",
+      "author": "bi dinle ama oncee",
+      "date": "27.01.2023 10:25",
+      "content": "rahatsiz oluyorsan siktir git kiyev sokaklarinda rus askerleeine domal.kahpeeee",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "istiklal marşı'ndan rahatsız olan ukraynalı",
+      "entry_id": "148214431",
+      "author": "nevom",
+      "date": "27.01.2023 10:49",
+      "content": "az daha ayaklarına yer etsinler onlara kucak açan komşuları türklerden kürtlerden lazlardan rahatsız olacak buralar bizim diyecekler. kaçtıkları ülkeye sahip çıkmamış ki sizin insanlığınızın değerini bilsinler. yine diyorum gelecekte topraklarını para için satan filistinlilerin yerine biz geçeceğiz diye korkuyorum.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "istiklal marşı'ndan rahatsız olan ukraynalı",
+      "entry_id": "148217066",
+      "author": "erazur",
+      "date": "27.01.2023 11:59 ~ 12:01",
+      "content": "kaynak verilen yeniçağ haberinin içeriğinin teyit edilemeyeceği iddia.\n\nhaber başlığı: \"türk vatandaşlığı verilen ukraynalı istiklal marşı’ını cimer’e şikayet etti .\"\n\nhaber metninin girişi: \"antalya konyaaltı’daki akdeniz anadolu lisesi’nde pazartesi sabahları okunan istiklal marşı’ndan rahatsız olan türk vatandaşlığı almış bir ukraynalı’nın cimer’e şikayette bulunduğu öne sürüldü . \"\n\nhaberin dayandırıldığı kaynak ortada yok: \" bilgiyi geçen haber kaynağı yaşanan bu durumla ilgili, “yabancı uyruklulara türk vatandaşlığı dağıtılıyor ancak bu örnekten de görüldüğü üzere türk olamıyorlar maalesef” ifadelerini kullandı.\"\n\ndiğer verilen twitter kaynağı da zaten yeniçağ haberini kaynak almış ki, dönüp dolaşıp gelinen yenicağ'daki aynı haberin sonunda şu yazmakta:\n\n\"konuyla ilgili müdür yardımcısı ise iddialarla ilgili yaptığı açıklamada kendisine böyle bir şikayete ilişkin yazının gelmediğini aktardı.\"\n\neh, şimdi bu iddiayı gerçek mi, değil mi? nasıl emin olalım?",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "istiklal marşı'ndan rahatsız olan ukraynalı",
+      "entry_id": "148225527",
+      "author": "lazetii",
+      "date": "27.01.2023 16:00",
+      "content": "tek kelime gerisi boş\n\ngörsel",
+      "referenced_content": [],
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "istiklal marşı'ndan rahatsız olan ukraynalı",
+      "entry_id": "148225830",
+      "author": "canturkoglu",
+      "date": "27.01.2023 16:09",
+      "content": "beğenmiyorsan siktir git ülkene bomba altinda yasa amina koydumun artik rus dölü.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "istiklal marşı'ndan rahatsız olan ukraynalı",
+      "entry_id": "148226009",
+      "author": "spineless",
+      "date": "27.01.2023 16:14",
+      "content": "sen vatanını satarsan, yeni sahibi gelir böyle konuşur işte.\n\n(bkz: antalya'nın rus ve ukraynalı işgaline uğraması)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "istiklal marşı'ndan rahatsız olan ukraynalı",
+      "entry_id": "148226183",
+      "author": "prensesin gelmeyen uykusu",
+      "date": "27.01.2023 16:20",
+      "content": "(bkz: yallah arabistana)\n\nyok, bu o değildi.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "istiklal marşı'ndan rahatsız olan ukraynalı",
+      "entry_id": "148228635",
+      "author": "strawberry sundea",
+      "date": "27.01.2023 17:26",
+      "content": "misak-ı milli olmayanları vatandaş yaparsanız böyle olur. abd gibi karışık bir millet bile vatandaşlık vermeden önce kendi 200 yıllık tarihinin sınavını geçmesini bekliyor.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY",
+        "XENO"
+      ]
+    },
+    {
+      "title": "istiklal marşı'ndan rahatsız olan ukraynalı",
+      "entry_id": "148228705",
+      "author": "orkinizm",
+      "date": "27.01.2023 17:28",
+      "content": "siktirolup gidebilirler ülkelerine zorla tutmuyoruz.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "istiklal marşı'ndan rahatsız olan ukraynalı",
+      "entry_id": "148228778",
+      "author": "hayatinzorluklari",
+      "date": "27.01.2023 17:30",
+      "content": "zafer meşalesinin ışığı yayılmadıkça biz türkler olarak daha çok çile çekeceğiz gibi",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "istiklal marşı'ndan rahatsız olan ukraynalı",
+      "entry_id": "148229169",
+      "author": "lookaspodolski",
+      "date": "27.01.2023 17:41",
+      "content": "kaynağa baktım, olay sadece bir iddia, okulun müdür yardımcısı kendilerine böyle bir başvurunun gelmediğini söylemiş.\n\nolmuştur olmamıştır orası ayrı konu ama ekşi sözlük gibi nispeten bir seviyenin üzerinde olduğunu varsaydığım bir oluşumda kaynak sorgulaması yapılmadan bu şekilde başlık açılması gerçekten vahim",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "istiklal marşı'ndan rahatsız olan ukraynalı",
+      "entry_id": "148229530",
+      "author": "kozniku",
+      "date": "27.01.2023 17:51 ~ 17:51",
+      "content": "lan siz de sabahın körü okunan ezandan rahatsız olmuyor musunuz? kaç desibel dayadıysalar belki de adam gerçekten sesten rahatsız olmuştur.\n\nbundan önce oturduğum evde; 2 kilometre uzaktaki okul aradaki vadi etkisiyle andımızı adeta bizim salonda okurdu, allah okulun yanındakilere sabır versin derdim.\n\nistiklal marşı ezan falan kutsal şeyler değiller, ha burası türkiye biz zorla dayatır dinletiriz diyebilirsin en fazla. o da ne kadar mantıklı makul ortada.\n\narap ülkeleri mesela ezan konusunda bizden çok daha saygılılar, ezanın amacının namaz vaktini haber vermek olduğunun farkındalar, daha çok da sembolik zaten, herkesin saati alarmı var. bütün arap ülkelerini görmedim ama gördüklerimde dur şu komşuların kulaklarını kafasını bangır bangır sikeyim zihniyeti yoktu.\n\nistiklal marşı da aynı desibeldeyse millet tabi rahatsız olur. rahatsız olan türk vatandaşı hassasiyetleri bildiği için bulaşmayayım manyaklara dese de elin ukraynalısı burasını medeni bir ülke sanmış olabilir.\n\nhaber külliyen yalan da olabilir tabi, tepkilere bakınca bu kadar davarı gütmemek için neden göremiyorum.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "istiklal marşı'ndan rahatsız olan ukraynalı",
+      "entry_id": "148229574",
+      "author": "tapir ziken",
+      "date": "27.01.2023 17:52",
+      "content": "çok haklı ukrayna'lıdır. parasını verip satın almıştır çünkü o vatandaşlığı. satın aldığı üründen memnun olmayan her müşteri gibi şikayetini dile getirmektedir. vatandaşlık denilen kavramı alınır satılır bir kağıt parçası haline getirirseniz sonuç bu olur. yoksa atatürk bilmiyor muydu \"parasını veren herkes türk vatandaşıdır\" demeyi.",
+      "referenced_content": [],
+      "has_external_url": false
+    },
+    {
+      "title": "istiklal marşı'ndan rahatsız olan ukraynalı",
+      "entry_id": "148229718",
+      "author": "valonqar",
+      "date": "27.01.2023 17:56",
+      "content": "marşımızı ömrü boyunca köpek gibi dinleyecek olan ukraynalıdır. beğenmiyorsa rus füzesi altında yaşamaya geri dönebilir.",
+      "referenced_content": [],
+      "has_external_url": false
+    },
+    {
+      "title": "istiklal marşı'ndan rahatsız olan ukraynalı",
+      "entry_id": "148229835",
+      "author": "onebee",
+      "date": "27.01.2023 17:59",
+      "content": "istiklal marşı nedeniyle değil gürültü kirliliği nedeniyle olduğunu düşündüğüm şikayettir. kaldı ki ortada okula iletilen bir şikayet bile yokmuş. bence yalan haber ama diyelim ki var. gürültü sebepli ise kadın haklı. bokunu çıkarmayı çok seviyoruz. cami sesi 100 desibel ise müdür ben de artırıyorum deyip 120 desibel ile gömleği dışarda öğrencisini fırçalar. biraz efendi olalım, sessizce yapalım durumu bizim ülkede hiç yok illa şov. kilise çanını sikeyim o bile çok ses çıkarıyor. sene olmuş 2020ler hala bin sene önceki ritüeller. biraz çağa adapte olalım.\n\nhee sadece istiklal marşı okunmasın dediyse bana adresini verin bizzat ziyaret edeceğim.",
+      "referenced_content": [],
+      "has_external_url": false
+    },
+    {
+      "title": "istiklal marşı'ndan rahatsız olan ukraynalı",
+      "entry_id": "148231897",
+      "author": "11514151415",
+      "date": "27.01.2023 18:56",
+      "content": "biraz önce bir videoda evi basılıp zorla silah altına alınmaya çalışılan bir ukraynalı adam ve onu kurtarmaya çalışırken askerlerce iteklenen 2-3 yaşlarındaki altı bezli oğlu için gözlerim yaşarmıştı.\n\ngeçti.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN",
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "istiklal marşı'ndan rahatsız olan ukraynalı",
+      "entry_id": "148237355",
+      "author": "fistanadandikus",
+      "date": "27.01.2023 21:20",
+      "content": "vatandaşlığı para karşılığı olan metaya çevirirsen bu olur işte. premium üyelik almış sanar kendini amcığın teki.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "istiklal marşı'ndan rahatsız olan ukraynalı",
+      "entry_id": "148240378",
+      "author": "binkereolsemyinedonerim",
+      "date": "27.01.2023 22:20",
+      "content": "bu sürecin sonunda hepimizi ülkeden sürüp çıkaracaklar gibi duruyor.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "istiklal marşı'ndan rahatsız olan ukraynalı",
+      "entry_id": "148386228",
+      "author": "last pirate jack sparrow",
+      "date": "31.01.2023 09:05",
+      "content": "3 kuruş parası var diye herkese ağam paşam çekerseniz böyle olur. sanki fabrika yaptı. alt tarafı ev almış.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "istiklal marşı'ndan rahatsız olan ukraynalı",
+      "entry_id": "148386544",
+      "author": "cinsiyetsizbeyin",
+      "date": "31.01.2023 09:15",
+      "content": "rahatsız olan defolsun gitsin.\nkimse değerlerimizle ilgili hak talebinde bulunamaz.\nbu ne cüret!",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "istiklal marşı'ndan rahatsız olan ukraynalı",
+      "entry_id": "148386686",
+      "author": "nickimmickeyimyok",
+      "date": "31.01.2023 09:20",
+      "content": "(bkz: yüz verirsin deliye gelir sıçar halıya)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "istiklal marşı'ndan rahatsız olan ukraynalı",
+      "entry_id": "148386844",
+      "author": "gospodinaranel",
+      "date": "31.01.2023 09:26",
+      "content": "zamanında balkan göçmeni ülkeye girince, çalıştılar ve ülkeyi kalkındırdılar. bunlar ise burada çalışıp, ülkeden döviz çıkartıyorlar.\n\ntanım: tehlikeli bir konum almaya başladılar.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "ECON"
+      ]
+    },
+    {
+      "title": "istiklal marşı'ndan rahatsız olan ukraynalı",
+      "entry_id": "148387966",
+      "author": "nowaja zemlja",
+      "date": "31.01.2023 10:06",
+      "content": "cimere sikayette bulunan bir insanin uyrugunu açıklamak? hani kvkk?",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "istiklal marşı'ndan rahatsız olan ukraynalı",
+      "entry_id": "148421157",
+      "author": "mitralioz",
+      "date": "01.02.2023 00:49",
+      "content": "rusçu faşistler iyi lobi faaliyeti yürütüyorlar. cimer'den onların üzecek bir haber var.\nhttps://www.qha.com.tr/…agandasini-yalanladi-466494",
+      "referenced_content": [],
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "istiklal marşı'ndan rahatsız olan ukraynalı",
+      "entry_id": "158133377",
+      "author": "egems",
+      "date": "26.10.2023 16:03 ~ 16:05",
+      "content": "sadece ukraynalı mi, suriyelisi afganlisi da rahatsız oluyor.vatandasligi para ile satacak kadar alcalirsan, o da ülkenin sahibi sanır. ülkeyi satmanın bedeli var . osmanlı'nın son dönemlerinde levanten denen kesim de aynıydı.osmanlinin nimetlerinden kapitülasyonlar sayesinde faydalanir,türk ise tarla da asker de sürünurdu. şanlı osmanlı anadolu halkına buna layık görmüştü. halk da zaten dinci cahil olunca gudulup durdu. milli değerleri populizmden ibaret olan bir devletin sayesinde yaşanan trajik bir durum.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY",
+        "XENO"
+      ]
+    }
+  ]
+}

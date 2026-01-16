@@ -1,0 +1,60 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:04:19.783800",
+    "total_entries": 4,
+    "input": "22 temmuz 1987 ilk suriyelinin uzaya çıkması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "22 temmuz 1987 ilk suriyelinin uzaya çıkması",
+      "entry_id": "160771506",
+      "author": "ssj allah ssj 3",
+      "date": "19.01.2024 12:30",
+      "content": "queen afyon konseri olduğu zamanlar heyt be",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "22 temmuz 1987 ilk suriyelinin uzaya çıkması",
+      "entry_id": "160771711",
+      "author": "zaka4alka",
+      "date": "19.01.2024 12:40 ~ 12:41",
+      "content": "muhtelif zamanlarda köpek, maymun, kedi gibi canlıların da uzaya çıktığı düşünüldüğünde; tek başına \"uzaya çıkma\" fiili pek bir cacık ifade etmiyor..\nüzgünüm...",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "22 temmuz 1987 ilk suriyelinin uzaya çıkması",
+      "entry_id": "160780485",
+      "author": "bendehalimcebedreddinem",
+      "date": "19.01.2024 19:26",
+      "content": "türkiye'nin ancak 37 yıl sonra erişebildiği seviyedir.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "ECON"
+      ]
+    },
+    {
+      "title": "22 temmuz 1987 ilk suriyelinin uzaya çıkması",
+      "entry_id": "160780620",
+      "author": "demekle olsaydi",
+      "date": "19.01.2024 19:32 ~ 19:37",
+      "content": "sovyet uzay programı işi. interkosmos ile ne kadar müttefikleri varsa hepsinden birini uzaya göndermişler. yetmemiş ilk fransızı falan da göndermişler. öyle çıkması.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

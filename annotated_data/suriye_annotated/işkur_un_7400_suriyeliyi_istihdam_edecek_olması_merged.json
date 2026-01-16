@@ -1,0 +1,784 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:43:02.828988",
+    "total_entries": 56,
+    "input": "işkur'un 7400 suriyeliyi istihdam edecek olması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "işkur'un 7400 suriyeliyi istihdam edecek olması",
+      "entry_id": "86085714",
+      "author": "besteciselin",
+      "date": "29.01.2019 22:17",
+      "content": "7400 kişi de türkmüş. bir ülke düşünün ki azınlığın hakkı ülkenin kendi vatandaşıyla aynı olsun. ben susuyorum haber konuşsun ne hale geldiğimizi anlatsın. işte geldiğimiz durum",
+      "referenced_content": [],
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY",
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "işkur'un 7400 suriyeliyi istihdam edecek olması",
+      "entry_id": "86085844",
+      "author": "besteciselin",
+      "date": "29.01.2019 22:20",
+      "content": "işkur'dan son dakika açıklaması geldi. yapılan son dakika açıklamasında, geçici koruma altındaki suriyeliler ve türk vatandaşları için istihdam desteği projesi kapsamında 7400 suriyeli ve 7400 türk vatandaşı personeli alımı yapılacak.\n\nişkur'dan son dakika açıklaması geldi.\n\nişkur resmi internet sayfası aracılığıyla yayımlanan son dakika duyurusunda aile, çalışma ve sosyal hizmetler bakanlığı ile işkur tarafından dünya bankası işbirliğinde geçici koruma altındaki suriyeliler ve türk vatandaşları için istihdam desteği projesi imzalandı. bugün imzalanan ve hayata geçirilen proje geçici koruma altındaki suriyeliler ve türk vatandaşlarını kapsıyor.\n\nab' den 48 milyon avro\n\navrupa birliği “türkiye’deki mülteciler için mali yardım programı” (frıt) kapsamında yürütülecek olan 48 milyon avro bütçeli proje kapsamında, suriyeli sığınmacıların ve türk vatandaşlarının aktif işgücü programlarından faydalandırılarak istihdam edilebilirliklerinin artırılması, işkur’un kurumsal kapasitenin ve çalışma izinleri altyapısının geliştirilmesi hedefleniyor.\n\ntoplam 30 ay sürecek\n\nsöz konusu projenin tanıtım toplantısında yapılan açıklamada, projenin toplam 30 ay süreceğine yer verildi ve projenin pilot illeri arasında istanbul, gaziantep, şanlıurfa ve adana yer alıyor.\n\n7400 suriyeli, 7400 türk personel alınacak\n\nişkur'dan, söz konusu proje kapsamında yapılan açıklamada şu ifadelere yer verildi:\n\n\"proje kapsamında 7 bin 400 suriyeli sığınmacı ve 7.400 türk vatandaşı olmak üzere toplam 14 bin 800 farklı kişiye ulaşılması hedefleniyor.\"\n\nproje kapsamında faydalanıcıların iş ve meslek danışmanlığı hizmetleri, türkçe dil eğitimleri, beceri eğitim kursları, uygulamalı eğitim programları ve işgücü piyasası uyum programları ile niteliklerinin ve mesleki becerilerinin geliştirilmesi, işgücü piyasasına uyumlarının artırılması sağlanacak.\n\nbaşvurular ne zaman?\n\nsöz konusu proje kapsamında personel alımları önümüzdeki aylardan itibaren başlayacak.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "ECON",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "işkur'un 7400 suriyeliyi istihdam edecek olması",
+      "entry_id": "86086488",
+      "author": "elista",
+      "date": "29.01.2019 22:34",
+      "content": "adamlar öyle ya da böyle bu ülke topraklarına sokulmuş.\nistihdam sağlanmasın da adamlar potansiyel suçlu haline gelip ortalığın huzurunu daha da mı kaçırsınlar?\nyok yani gidecekleri de yok topluma adaptasyonları sağlansın bari.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "işkur'un 7400 suriyeliyi istihdam edecek olması",
+      "entry_id": "86086606",
+      "author": "arma yann tiersen",
+      "date": "29.01.2019 22:36",
+      "content": "(bkz: su veren itfaiyenin hortumunu sikeyim)\n(bkz: ortamlarda istihdam dersin kim bilecek)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "SEXUAL"
+      ]
+    },
+    {
+      "title": "işkur'un 7400 suriyeliyi istihdam edecek olması",
+      "entry_id": "86086981",
+      "author": "ay cisim geldi",
+      "date": "29.01.2019 22:44",
+      "content": "yardım vereceğine piyasaya sür. bence mantıklı ama bunun sonucunda iş üzeri oturum vereceklerse, yani mülteci statüsü değişecekse, vatandaşlık verilecek ve oy potansiyeli olarak kullanılacaksa sonuna kadar karşı olurum. ırkçı da deseniz aynı. ayrıca o işyerlerinde türklere arapça öğreteceklerse de karşı olurum.\n\ndip: bu beyaz götlüler önce türkçe öğrensin, bu topraklara ve bu topraklarda yaşayan insanlara saygılı olmayı öğrensin. ümmetinize sövdürtmeyin boş yere yani.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "işkur'un 7400 suriyeliyi istihdam edecek olması",
+      "entry_id": "86087333",
+      "author": "bella esmeralda",
+      "date": "29.01.2019 22:51 ~ 22:53",
+      "content": "evlerine göndereceğiz denilmedi mi?\n\n(bkz: suriyelileri evlerine göndermeyi hedefliyoruz)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY",
+        "XENO"
+      ]
+    },
+    {
+      "title": "işkur'un 7400 suriyeliyi istihdam edecek olması",
+      "entry_id": "86088913",
+      "author": "izmiredestek",
+      "date": "29.01.2019 23:29",
+      "content": "suriyeli mi? hala türk vatandaşlığı verilmemiş mülteci mi kaldı?\n\n(bkz: mültecilere vatandaşlık verilmesi)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY",
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "işkur'un 7400 suriyeliyi istihdam edecek olması",
+      "entry_id": "86090304",
+      "author": "subsonic hayat",
+      "date": "30.01.2019 00:01",
+      "content": "bunlar hep memleketteki iş çokluğundan memlekette işsiz adam kalmadı tabi herkes refah içinde ve mutlu o yüzden de suriyeden işçi transfer ediyoruz",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "ECON",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "işkur'un 7400 suriyeliyi istihdam edecek olması",
+      "entry_id": "86098175",
+      "author": "drukket",
+      "date": "30.01.2019 04:51",
+      "content": "işin matematiksel kısmını mı yazsam küfür mü etsem vicdan mı sorgulasam kararsız kaldım",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "işkur'un 7400 suriyeliyi istihdam edecek olması",
+      "entry_id": "86159501",
+      "author": "jantievan",
+      "date": "31.01.2019 18:08",
+      "content": "şaka olmalı bu mk dediğim olay. suriyeli siksin ilgili kişileri. evet.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "SEXUAL"
+      ]
+    },
+    {
+      "title": "işkur'un 7400 suriyeliyi istihdam edecek olması",
+      "entry_id": "86159505",
+      "author": "kuyruk yagi",
+      "date": "31.01.2019 18:09 ~ 18:13",
+      "content": "7.400 suriyeli ve 7.400 türk’ün işe alınma hadisesi.\n\nadamların ülkenin anasını siktikleri yetmedi, şimdi de 7.400 işsiz vatandaşımızın ekmeğini elinden alacaklar.\n\nzaten haberdeki görsel de her şeyi açıklıyor. öndeki tipler, arkadaki ab ve türk bayrağı. böyle anlamsız, saçma sapan bir ülkeyiz işte.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "işkur'un 7400 suriyeliyi istihdam edecek olması",
+      "entry_id": "86159543",
+      "author": "feysbuktaki komik yorum",
+      "date": "31.01.2019 18:09",
+      "content": "ülkedeki suriyeli nüfus düşünüldüğünde oldukça az bulduğum sayıdır.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "işkur'un 7400 suriyeliyi istihdam edecek olması",
+      "entry_id": "86159560",
+      "author": "vamos bien md",
+      "date": "31.01.2019 18:10",
+      "content": "özel sektördeki vasıfsız işçilerin yerini alma konusunda gayet iyilerdi, kamuya sıçramış şimdi olay, bişey olmaz. svihs",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "ECON"
+      ]
+    },
+    {
+      "title": "işkur'un 7400 suriyeliyi istihdam edecek olması",
+      "entry_id": "86159580",
+      "author": "mestiar",
+      "date": "31.01.2019 18:11",
+      "content": "(bkz: acıma yetime döner koyar götüne)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "SEXUAL"
+      ]
+    },
+    {
+      "title": "işkur'un 7400 suriyeliyi istihdam edecek olması",
+      "entry_id": "86159582",
+      "author": "gayim ama para bende",
+      "date": "31.01.2019 18:11 ~ 18:12",
+      "content": "esad beni suriye'ye alırsa ben gidip suriye'de yaşayabilirim.\nburadan daha çomaristan olamaz herhalde.\n\nmalumunuz bütün işsiz, güçsüz, aylak, ülkeye faydalı olmayan vatandaşlarını türkiye'ye postaladı. bence avrupa ülkesi gibi olmuştur çoktan!",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "işkur'un 7400 suriyeliyi istihdam edecek olması",
+      "entry_id": "86159591",
+      "author": "mortalgoal",
+      "date": "31.01.2019 18:11 ~ 18:13",
+      "content": "sehven yazılmış olması muhtemel açıklama",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "işkur'un 7400 suriyeliyi istihdam edecek olması",
+      "entry_id": "86159619",
+      "author": "cnkrrr",
+      "date": "31.01.2019 18:12",
+      "content": "arap götü yalayan ümmetçilete müstehaktır .yakın bir gelecekte bu insanlar bağımsızlık isteyeceklerdir . üzülüyor muyum? sikimde bile değil! (bkz: svihs)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "işkur'un 7400 suriyeliyi istihdam edecek olması",
+      "entry_id": "86159638",
+      "author": "materialcycle",
+      "date": "31.01.2019 18:13",
+      "content": "türkiye'de işsiz bırakılıp burnu sürtmesi gereken o kadar çok memur varken, o işten çıkartılan memurların yerlerini doldurması gereken o kadar çok işsiz ve onurlu genç varken yapılır zaten böyle bir şey.\n\nbir siz eksiktiniz, siz de gelince panayır oldu her yer",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "ECON"
+      ]
+    },
+    {
+      "title": "işkur'un 7400 suriyeliyi istihdam edecek olması",
+      "entry_id": "86159643",
+      "author": "kirkhammet34",
+      "date": "31.01.2019 18:13",
+      "content": "bizi de suriye’ye gönderin de orada çalışalım bari.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "işkur'un 7400 suriyeliyi istihdam edecek olması",
+      "entry_id": "86159717",
+      "author": "webcipanda",
+      "date": "31.01.2019 18:15",
+      "content": "kaynak çok sağlam yalnız.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "işkur'un 7400 suriyeliyi istihdam edecek olması",
+      "entry_id": "86159780",
+      "author": "nepenthebey",
+      "date": "31.01.2019 18:17",
+      "content": "\"kendi eviniz gibi\"",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "işkur'un 7400 suriyeliyi istihdam edecek olması",
+      "entry_id": "86159786",
+      "author": "12 cekirdeksiz islemci",
+      "date": "31.01.2019 18:17 ~ 26.11.2019 00:43",
+      "content": "neyin kafasını yaşıyor bunlar ya? şu suriyelilere verdiğiniz hizmet ve kolaylık kadar bize verdiniz mi de adamları işe alıyorsunuz?",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "işkur'un 7400 suriyeliyi istihdam edecek olması",
+      "entry_id": "86159834",
+      "author": "otedengelen",
+      "date": "31.01.2019 18:19",
+      "content": "şaka olmasını umut ettiğimiz durum 7400 kişi bayağı azmış....",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "işkur'un 7400 suriyeliyi istihdam edecek olması",
+      "entry_id": "86159914",
+      "author": "celnisa",
+      "date": "31.01.2019 18:22",
+      "content": "kaynak neydi kaynak sevgiydi, kaynak emekti fakat nerde o eski sevgiler saygılar.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "işkur'un 7400 suriyeliyi istihdam edecek olması",
+      "entry_id": "86159940",
+      "author": "serendiptytr",
+      "date": "31.01.2019 18:22",
+      "content": "türkçe bilmeyen suriyeliye kamuda iş verme durumudur. hani ulan gönderiyordunuz bu kavrukları?\nkamuda iş verdiklerine göre vatandaşlıkta verdiler demektir ki daha da kötü.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "işkur'un 7400 suriyeliyi istihdam edecek olması",
+      "entry_id": "86159958",
+      "author": "cavus malaki",
+      "date": "31.01.2019 18:23",
+      "content": "sağlık bakanlığı personeli olarak 6 aydır atama bekliyoruz. önce öz evlatlarınızın hakkını verin. milliyetçi ortağınıza danıştınız mı bu kararı alırken.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "işkur'un 7400 suriyeliyi istihdam edecek olması",
+      "entry_id": "86160127",
+      "author": "nenteresan",
+      "date": "31.01.2019 18:28",
+      "content": "diğer bazı memleketlerde başka ülkelerden işçi alır. aldıkları pozisyonlar çoğu zaman kendi ülke vatandaşlarının tercih etmediği işler yahut gerçekten elemana ihtiyaç duyulan işler. ülkemizde ciddi anlamda işsizlik sorunu varken ve bir sürü genç bu sıkıntıyı yaşarken misafir olarak aldığımız ve ülkelerine döneceklerine inandığımız kişilerin istihdamına bir mana veremiyorum. umarım olay göründüğü gibi değildir.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "ECON"
+      ]
+    },
+    {
+      "title": "işkur'un 7400 suriyeliyi istihdam edecek olması",
+      "entry_id": "86160173",
+      "author": "ohaayooo",
+      "date": "31.01.2019 18:30",
+      "content": "bu gün devlet hastanesine gittim, heyet raporu almak için. hasta kayıt masasında sıra bekliyorum. banko da bir kişi çalışıyor ve çekti gitti bir yere. keyfimi, iş için mi bilmiyorum. 20 kişi var önümde en az. arkamda da 4,5 kişi, sürekli yeni girenler var sıraya. yan tarafta suriyeli kayıt masası var. bankoda 3 kişi çalışıyor. birinin tercüman olduğunu tahmin ediyorum. beklemeye dayanamayan hasta ve hasta yakınları haklı bir sitemde bulundular. onların birinci sınıf olduklarını, sıra beklemediklerini, ücretsiz tedavi olduklarını vs. neyse görevliler dayanamadı, gerçi onların da yapacak bir şeyleri yok ama türkülerin bankosuna gelip işlemlere devam ettiler.\n\ndemem o ki devlet ayrıcalıklı ve birinci sınıf gördüğü vatandaşlarını tabi ki de istihdam edicek. bu sosyal devletin görevleri tanımına girer.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "işkur'un 7400 suriyeliyi istihdam edecek olması",
+      "entry_id": "86160385",
+      "author": "bosver gel oynayak",
+      "date": "31.01.2019 18:36",
+      "content": "arkadaşlar okumanız mı yok? aktif işgücü programları diyor yani kurs verecekler, ise alınana prim vb gibi şeyler zaten yuzbinlerce insan ise alınıyor bu yolla özel sektörde. kamuda memur olacaklar lafını nereden uydurdunuz acaba",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "işkur'un 7400 suriyeliyi istihdam edecek olması",
+      "entry_id": "86160942",
+      "author": "ne koysam ki",
+      "date": "31.01.2019 18:56",
+      "content": "afedersiniz ama senelerce götümüzü siktiler. ilkokuluydu, lisesiydi, dershanesi, sınav stresi, ünivetsite, vizeler, finaller, mezuniyet, 16 senelik emek, harcanan paralar, kaybedilen seneler... sonuç: eşşek gibi yeni mezun statüsüyle çalışıp asgari ücrete tama etmek. ananızı sikeyim. bu kadar kolay olmamalı ya. adaletini sikeyim dünya.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "işkur'un 7400 suriyeliyi istihdam edecek olması",
+      "entry_id": "86161159",
+      "author": "yamanceliski",
+      "date": "31.01.2019 19:03",
+      "content": "misafirperverlik gibi görünecek bir davranış olsa da aslında kendi vatandaşının hakkının yenmesine sebep olacak olaydır.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "işkur'un 7400 suriyeliyi istihdam edecek olması",
+      "entry_id": "86161485",
+      "author": "lycaon",
+      "date": "31.01.2019 19:13",
+      "content": "burda eleştiren işsizlerin hiçbiri işkur’a başvuru dahi yapmamıştır. ayrıca finansı biz sağlamayacağız. eleştirelim ama onlar gibi kör körüne eleştiri yapmayalım.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "işkur'un 7400 suriyeliyi istihdam edecek olması",
+      "entry_id": "86161648",
+      "author": "cekilmezbirkiz",
+      "date": "31.01.2019 19:19",
+      "content": "7400 suriyeli ile beraber işkur yansın inş. yıllarca okul oku 2 üni bitir suriye iç savasına denk gelsin. kpss ye hazırlan 2016 darbe planlarına denk gelsin. haklarını yediğiniz gençlerin hesabını nasıl vereceksiniz? çağrı merkezlerinde iş arıyoruz sayenizde huuuuu! ağzı dili olanın yapabileceği, üniversite okumaya gerek olmayan kurumlara bakıyoruz. büyük devlet sorarsan! kendi vatandaşına bile iş imkanı sağlayamıyor ama suriyelilerin koynundan çıkmıyor. geberin inş.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "işkur'un 7400 suriyeliyi istihdam edecek olması",
+      "entry_id": "86182513",
+      "author": "vitocorleoni",
+      "date": "01.02.2019 09:27",
+      "content": "yazık bunların ülkeye verdiği zararların izleri belki onlarca yıl silinmeyecek, vah güzel ülkem vah ne hallere geldin.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "işkur'un 7400 suriyeliyi istihdam edecek olması",
+      "entry_id": "86197441",
+      "author": "gkyao",
+      "date": "01.02.2019 18:08",
+      "content": "başka bir ülke var mıdır,işsizliği yüzde onbeş civarındayken yabancı bir ülkenin niteliksiz insanlarını işe alan?",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "işkur'un 7400 suriyeliyi istihdam edecek olması",
+      "entry_id": "91044029",
+      "author": "maksatlaf",
+      "date": "08.06.2019 23:35",
+      "content": "işin maddi kaynağını ab verince biz de oooo sıkıntı yok o zaman mı diyelim?\n\nsuriyeli kim, ben kimim bu memleket toprağında?\n\ntanım: #86098175 e sonuna kadar hak verdiğim hede.",
+      "referenced_content": [
+        {
+          "type": "entry",
+          "title": "işkur'un 7400 suriyeliyi istihdam edecek olması",
+          "entry_id": "86098175",
+          "author": "drukket",
+          "date": "30.01.2019 04:51",
+          "content": "işin matematiksel kısmını mı yazsam küfür mü etsem vicdan mı sorgulasam kararsız kaldım",
+          "has_external_url": false
+        }
+      ],
+      "referenced_entry_ids": [
+        "86098175"
+      ],
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "işkur'un 7400 suriyeliyi istihdam edecek olması",
+      "entry_id": "91047495",
+      "author": "kiymali kunefe",
+      "date": "09.06.2019 00:20",
+      "content": "80.000.000 dan 7400 vs 5.000.000 dan 7400.\n\nkime daha fazla değer verildiğini net olarak ortaya koyan istihdam sayıları.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "ECON",
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "işkur'un 7400 suriyeliyi istihdam edecek olması",
+      "entry_id": "91047642",
+      "author": "spazmoldum",
+      "date": "09.06.2019 00:22",
+      "content": "çok güzel bir haber .. bize böyle projeler lazım .. kaynağı da ab den geliyor ..\n\nbu insanların iş sahibi olması, ailelerinin kimseye muhtaç kalmaması kadar güzel bir şey olabilir mi _!",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "ECON",
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "işkur'un 7400 suriyeliyi istihdam edecek olması",
+      "entry_id": "91047656",
+      "author": "ozzbuzz",
+      "date": "09.06.2019 00:22",
+      "content": "gerçek değildir umarız.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "işkur'un 7400 suriyeliyi istihdam edecek olması",
+      "entry_id": "91047662",
+      "author": "wolvox",
+      "date": "09.06.2019 00:23",
+      "content": "ne suriyeymiş be kardeşim!",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "işkur'un 7400 suriyeliyi istihdam edecek olması",
+      "entry_id": "91047850",
+      "author": "masinga",
+      "date": "09.06.2019 00:26",
+      "content": "ülkede türk-kürt kavgası nasıl sonlanır diyordum, nihayet çözüm belirdi. gün gelecek türk ve kürt el ele verip bu göçmenleri ülkeden siktir edecek. meğer birleştirici güç cehape değil yine binali bey ve arkadaşlarıymış.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "işkur'un 7400 suriyeliyi istihdam edecek olması",
+      "entry_id": "91048206",
+      "author": "yakisiklisisman",
+      "date": "09.06.2019 00:33 ~ 00:33",
+      "content": "ben tamamen işkur'un toplamda 15bin kişiye iş bulabileceğine takıldım, etrafımda buradan iş sahibi olanı geçtim görüşmeye giden bile yok.\n\nedit: imla",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "işkur'un 7400 suriyeliyi istihdam edecek olması",
+      "entry_id": "91048686",
+      "author": "cerag",
+      "date": "09.06.2019 00:42",
+      "content": "bu memlekette bir tek türk olmanın kıymeti olmadığının göstergesi durumdur.\nbırakalım anahtarı gidelim oğlum oldu olacak siz hayırdır?",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "işkur'un 7400 suriyeliyi istihdam edecek olması",
+      "entry_id": "91048767",
+      "author": "bluestone",
+      "date": "09.06.2019 00:43",
+      "content": "yeni istihdam paketlerimiz erken acildi sanirin",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "işkur'un 7400 suriyeliyi istihdam edecek olması",
+      "entry_id": "91048836",
+      "author": "bindikbiralametegidiyoruzkiyamete",
+      "date": "09.06.2019 00:45",
+      "content": "kravat takarak kendini bürokrat olarak gören efendilerin yeni icraatı. ülke gittikçe kimliğinden çıkıyor, sizler o koltuklardan gideceksiniz ama ceremesini biz halk çekeceğiz, kararı alanlar yazıklar olsun size.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "işkur'un 7400 suriyeliyi istihdam edecek olması",
+      "entry_id": "91049057",
+      "author": "bosananyazar",
+      "date": "09.06.2019 00:50 ~ 00:53",
+      "content": "arap sevicilerin türk milletine attığı kazık. ne cömert bir devletimiz varmış. emekliye, memura, işçiye üç kuruş zammı çok görüyor ama iş suriyeliye gelince bütün imkanları seferber ediyorlar. çok seviyorsanız bu sapkın milleti, gidin onlarla onların ülkesinde yaşayın. kendi vatandaşın çocuğuna ayakkabı alamıyor, utandığından kimseye diyemiyor, yardım istemiyor. kime neyi anlatıyoruz ki.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "işkur'un 7400 suriyeliyi istihdam edecek olması",
+      "entry_id": "91049663",
+      "author": "bluerock",
+      "date": "09.06.2019 01:03",
+      "content": "vallahi çalışsınlar ama hâlâ şunun cevabı yok suriye'de barışın sağlandığı yerlere neden gönderilmiyorlar veya kendileri gitmek istemiyor mu anlamış değilim",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "işkur'un 7400 suriyeliyi istihdam edecek olması",
+      "entry_id": "91050282",
+      "author": "colakbasri",
+      "date": "09.06.2019 01:16",
+      "content": "her kuşu siktiniz bir leylek kaldı.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "işkur'un 7400 suriyeliyi istihdam edecek olması",
+      "entry_id": "91050464",
+      "author": "fokingnothing",
+      "date": "09.06.2019 01:20 ~ 01:24",
+      "content": "işsizler icin gozde alanlar ozel guvenlik, bekcilik, sekreterlik gibi asgari ucrete karsilik; sehir yasami, dogalgaz, sicak su, az fiziksel enerji, mumkun oldugunca cok yuksek statu vs. gibi vaatler iceren alanlar oldugu icin; duvar ustaligi, kaynak isciligi, garsonluk gibi iskur kontenjanlarinin bos kalmasindan mutevellit zorunlu uygulama oldugunu dusundugum girisim. ayrica bu sozde gozde alanlarin siyasi bir rant olarak dagitiliyor olmasi da insanlari hazir kita bekler, diger islere ise burun kivirir konumda tutmakta.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "ECON"
+      ]
+    },
+    {
+      "title": "işkur'un 7400 suriyeliyi istihdam edecek olması",
+      "entry_id": "91050473",
+      "author": "pardonat",
+      "date": "09.06.2019 01:20 ~ 07:46",
+      "content": "bizim işsizliğimiz çözüldü de, elin işsiz suriyelisini mi istihdam ediyoruz. yazıklar olsun.\navrupanın parası o deyip, üstüne ırkçı tespit eden sivri zekalılar, o parayı suriyelileri kendilerinden uzak tutmak için veriyorlar.\nha para var o zaman doğru öyle mi. vay angutlar vay.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "işkur'un 7400 suriyeliyi istihdam edecek olması",
+      "entry_id": "91050866",
+      "author": "yeminler ediyorum her gece",
+      "date": "09.06.2019 01:30",
+      "content": "yorum yapardım ama faşist damgası yerim şimdi gece gece",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "işkur'un 7400 suriyeliyi istihdam edecek olması",
+      "entry_id": "91050972",
+      "author": "maacem",
+      "date": "09.06.2019 01:33",
+      "content": "alkışlıyoruz!\nmilletçe alkışlıyoruz dedirtir",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "işkur'un 7400 suriyeliyi istihdam edecek olması",
+      "entry_id": "91051114",
+      "author": "yagmur kedisi",
+      "date": "09.06.2019 01:36",
+      "content": "birçoğunuzun içinde suriyelilerin bir gün ülkelerine geri gönderilmesi umudu ve isteği var. ancak bu olmayacak. olamayacak. bu yüzden bu insanlar mümkün olduğunca kısa sürede topluma entegre edilmelidir. çoğunuzun çocuklarının arkadaşları suriyeli olacak. buna alışın.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POLICY",
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "işkur'un 7400 suriyeliyi istihdam edecek olması",
+      "entry_id": "91062704",
+      "author": "spieqel",
+      "date": "09.06.2019 13:06",
+      "content": "ab fonundan gelen kaynak ile sağlanıyor bizden para çıkmıyor. lâkin diğer ülkeler'sığınmacılar bizden uzak dursun' diye para verirken, ordan gelen tüm kaynağı kullanmamız saçma daha faydalı yerlere gidebilirdi gelen para.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "ECON"
+      ]
+    },
+    {
+      "title": "işkur'un 7400 suriyeliyi istihdam edecek olması",
+      "entry_id": "91077303",
+      "author": "boyuncu",
+      "date": "09.06.2019 20:00",
+      "content": "türkler gidince bi form doldur biz seni haberdar ederiz gerçeği türk olarak yurdumuzun sırtında kamburmuyuz neyiz anlamadım gitti bizi mülteci olarak verecekler nerdeyse .",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "işkur'un 7400 suriyeliyi istihdam edecek olması",
+      "entry_id": "100580260",
+      "author": "under peruvian skies",
+      "date": "15.01.2020 20:59",
+      "content": "7400 suriyeli şuan suriye'de istihdam edilmiyor amk",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    }
+  ]
+}

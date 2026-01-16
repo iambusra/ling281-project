@@ -1,0 +1,196 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:21:06.896735",
+    "total_entries": 15,
+    "input": "rus kültürü",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rus kültürü",
+      "entry_id": "35023682",
+      "author": "somek kafali",
+      "date": "05.07.2013 03:24",
+      "content": "rus mafyası, rus pornosu ve rus votkası en önemli unsurlarıdır.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "CRIME",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "rus kültürü",
+      "entry_id": "35023696",
+      "author": "bugatti",
+      "date": "05.07.2013 03:25",
+      "content": "http://www.youtube.com/watch?v=vdrnktsdbre",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus kültürü",
+      "entry_id": "35023743",
+      "author": "iceflow",
+      "date": "05.07.2013 03:30",
+      "content": "rus kültürünü bilmem de, yemek de kültürün bir parçası sayılırsa; bir kaç yıl önce galina isimli bir rus arkadaşın yaptığı rus çorbasını içtim, iğrençti.. içmeyin içtirmeyin..",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "rus kültürü",
+      "entry_id": "35023765",
+      "author": "almashan",
+      "date": "05.07.2013 03:33",
+      "content": "rus salatasını unutmamak lazım, borşka yıda sevemedim gitti",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "rus kültürü",
+      "entry_id": "35023785",
+      "author": "somek kafali",
+      "date": "05.07.2013 03:35 ~ 03:37",
+      "content": "tatar mimarisinden aşırma kremlin ile caka satan hırtlık.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "rus kültürü",
+      "entry_id": "35023877",
+      "author": "vera pavlovnanin hayaleti",
+      "date": "05.07.2013 03:45",
+      "content": "ülkemizde deli olarak nam salmış petro'nun vakti zamanında \"biz de avrupalıyız biz de avrupalıyız görürsünüz lan\" diye diye inadından resmen yerel mimariden arınmış bir şehir (bkz: petersburg) inşa ettirerek mimari çeşitliliğini arttırdığı kültür. ortaya çıkan sonuç petersburg'u görmeleri için davet edilen avrupalı aydınları bile \"lan barbar ruslar hakikaten yapmış\" diye hayretlere gark etmiştir. mimari deyince aklıma geldi yazayım dedim.\n\nayrıca edebiyatı aşmış, yemekleri berbat, bir kısmı kafkaslardan aşırma da olsa etnik müziklerimiz diye tabir ettikleri melodiler pek hoştur. yalnız halkının büyük bir kısmı avrupa kompleksi yaşadığından bazı tarihi olay ve kültürel öğelerden pek hoşlanmaz ve hor görürler maalesef. her ne kadar yapmayın, etmeyin desem de dinletemedim. bana da bu tavır bir yerden tanıdık geldi ama çözemedim, ilginç.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "rus kültürü",
+      "entry_id": "38846757",
+      "author": "apiko",
+      "date": "10.12.2013 16:29",
+      "content": "konu genel anlamda edebiyat, müzik alaninda ele alindiginda, gözleri yasartacak derecede donanimli oldugunu görebileceginiz kültürdür. ha günümüz dünyasinda yozlasma her yeri sarmistir, bugün tam anlamiyla yansimiyor, yansitilmiyor zannedilebilir ama ufuktan dagin ötesini, gecmisinde heybeti görmek icin alim olmaya da gerek bulunmamaktadir.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "rus kültürü",
+      "entry_id": "92164864",
+      "author": "iroh last airbender",
+      "date": "05.07.2019 01:10",
+      "content": "bazı başyapıtlar bu başlığın adının \" rus kültürsüzlüğü\" olmasını engelliyor ama ruslarda her zaman bir orospu kültürü vardır evli kadın da bekâr kadın da biriyle yatabilir",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "SEXUAL"
+      ]
+    },
+    {
+      "title": "rus kültürü",
+      "entry_id": "103458453",
+      "author": "sumer8",
+      "date": "13.03.2020 18:14",
+      "content": "zengindir.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus kültürü",
+      "entry_id": "129637605",
+      "author": "peepshow",
+      "date": "01.11.2021 00:26",
+      "content": "her ortamda isimleri değişiyo bence de baya hoş bişi anası babası kardeşi okul üniversite iş ortamı hepsi farklı dfkldl",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "rus kültürü",
+      "entry_id": "143038769",
+      "author": "yanlisbeyin",
+      "date": "23.09.2022 10:23",
+      "content": "rus kültüründen bahsederken biraz kültürünün temelleri üzerine konuşmak istiyorum. bugünkü rusyayı anlamak için dahi bu bilgilerin önemli olduğunu, rus politik kültürünün hala bu temeller üzerinde devam ettirildiğini düşünüyorum. bir entrymde bahsetmiştim, rusya genel geçer yargılarla değerlendirilecek bir ülke değil. sebeplerine bakalım:\n\nhem avrupa hem rusya antik temeller üzerine inşa ettiler kültürlerini ancak avrupalılar roma imparatorluğu, rusya ise bizans imparatorluğu üzerinden aldılar bu mirası. dolayısıyla avrupa kültürü egosantrik temeller üzerine inşa edilmişken, rusya kültürü ise toplum merkezci temeller üzerine inşa edildi. bu, avrupa'nın insanı kültürün merkezi olarak kabul eden, bireyin bağımsızlığını gözeten bir kültür yaratmasına sebep oldu. rusya'da ise durum bu değil. ruslar, bireyin özgürlüğündense toplumun ön planda tutulduğu bir kültüre sahipler.\n\nbunun dışında rus kültürü ideokrasi üzerinde şekillenmiştir. yani devletin temelini belli bir ideoloji oluşturur. avrupa'da devletin temelini kanunlar, doğu'da ise gelenek oluşturur. rus kültürü bu iki kültürün ortasındadır denebilir. daha önce de belirttiğim gibi batı kültüründen farklı olarak rus kültüründe bireysel özgürlükler hiçbir zaman öncelik olmamıştır. doğu'dan farklı olarak rus kültüründe düşünceden kastedilen bireyin aktifliği ve tanrı ve insan arasındaki karşılıklı etkileşimdir. dolayısıyla rus kültürünün slav, batı ve moğol kültürünün bir çeşit sentezi olduğunu söylemek mümkündür. rus tarihine baktığımızda bireyin merkezde tutulmadığını ancak geleneğin de ön planda olmadığını kanıtlayan birçok olay vardır. bunun eleştirilecek yanı yok, çünkü bunun da tarihsel ve coğrafik temelleri var. rusya gibi geniş topraklara sahip ve iklimi çok da elverişli olmayan bir ülkede benmerkezci bir kültür yaratmak mümkün değil çünkü. insanların yaşamak için birbirlerine ihtiyacı var. bununla birlikte rusya'da yüzden fazla milliyet varlığını sürdürüyor. hepsinin de farklı milli özellikleri, farklı tarihleri ve farklı dinamikleri var. bu kadar milliyeti bir arada tutmak için ortak bir ideoloji ve güçlü bir iktidar en önemli gerekliliklerden. ayrıca ruslar tatar-moğol boyunduruğu altında geçirdikleri iki yüzyılın ardından güçlü ve merkezi bir devlet planlamasının önemini gayet net anladılar.\n\nben bunları bilmeden rusya hakkında değerlendirmeler yapmayı doğru bulmuyorum çünkü tüm rus tarihi bu temellerle incelenebilir ve anlaşılabilir. kolektif hareket etme geleneğinin bu kadar güçlü olması devrimin başarılı olmasında da önemli bir faktördü bence. rus mantalitesi budur, devlet de bu kültür üzerinde kurulur rusya topraklarında.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "rus kültürü",
+      "entry_id": "143038803",
+      "author": "four horsemen of apocalypse",
+      "date": "23.09.2022 10:24",
+      "content": "gopnik kulturu ile ic ice gecti. oyle edebiyatcilar falan yok artik.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "rus kültürü",
+      "entry_id": "162648618",
+      "author": "denizebakanadam",
+      "date": "20.03.2024 15:07 ~ 15:08",
+      "content": "\"ekmek ve tuz ikilisi (hleb da sol) rus folklorunda sevinç, misafirperverlik ve güler yüz sembolüdür. bu iki kelimeden türeyen hlebosolstvo \"misafirperverlik\" anlamına gelir.\"",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "rus kültürü",
+      "entry_id": "172824645",
+      "author": "katilichi",
+      "date": "16.02.2025 00:25",
+      "content": "rus kültürü, derin tarihi, zengin sanatı ve güçlü edebi geleneğiyle öne çıkan bir medeniyettir.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "rus kültürü",
+      "entry_id": "176097757",
+      "author": "roger waters",
+      "date": "16.06.2025 14:52",
+      "content": "diğer slav ırkı milletlerini de derinden etkilemiştir.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "CULTURE"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:47:07.666231",
+    "total_entries": 3,
+    "input": "suriye petrolü",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriye petrolü",
+      "entry_id": "45906159",
+      "author": "anarax",
+      "date": "24.09.2014 10:51",
+      "content": "suriye topraklarından çıkan petrolün ışid sayesinde türkiye'ye getirildiği iddiası var. iddianın sahibi de suriye'nin lübnan büyükelçisi ali abdulkerim ali;\n\n\"suriye’nin lübnan büyükelçisi ali, ülkesine yönelik yeni bir uluslararası komplo kurulduğunu belirterek, lübnan yönetiminden sığınmacılar hakkında suriye yönetimi ile işbirliği yapmasını istedi.\n\nbüyükelçi ali, türkiye yönetimi teröristlerin suriye’den çaldıkları petrolü satma görevini üstlendiğini ve bazı illegal yollardan bu petrolü piyasada alıcılara ulaştırdığını ifade etti.\n\nsuriyeli diplomat, ankara yönetimi bu yoldan elde ettiği gelir yüzünden hatta amerika ve batılı devletlerin türkiye üzerinden ırak ve suriye’ye terörist geçişinin engellenmesiyle ilgili anlaşmalarını imzalamaktan kaçındığını vurguladı.\n\nbüyükelçi ali ayrıca iran, rusya ve çin’den terörle mücadelede suriye’nin yanında yer almalarından ötürü teşekkür etti.\"\n\nlink (farsnews)",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY",
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "suriye petrolü",
+      "entry_id": "46811857",
+      "author": "stratofski",
+      "date": "05.11.2014 17:28 ~ 17:32",
+      "content": "son haritası insanı hayrete düşürüyor. bu kadar rafineri ve petrol sahası olduğunu öğrenmemin yanı sıra neredeyse tamamının ışid'in elinde olması biraz garip bir durum.\n\nedit: harita içinde ırak bölgeside bulunmaktadır.\n\nkaynak olarak aljazeera\n\nkaynak kaybolmasına karşı harita...",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriye petrolü",
+      "entry_id": "177313940",
+      "author": "thorin 1283",
+      "date": "03.08.2025 22:00",
+      "content": "su, hava gibi bir madde olan allah'ın petrolünün tek bir ülkenin tekelinde olması kadar saçma bir şey yok. petrol abi bu. nasıl havadan, sudan tüm insanlar faydalanabiliyorsa bir ülkede yer alan petrolde de tüm insanlığın hakkı olabilmeli. buna altın, doğalgaz, bakır, çinko vs. de dahil edebilirsiniz. sırf senin devletin bir madenin bulunduğu alanda egemenlik iddiasında bulunuyor diye oradaki kaynaklar da senin olacak he mi?",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "ECON",
+        "POLICY"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:13:13.095891",
+    "total_entries": 7,
+    "input": "türklerin evini basarken vurulan suriyeliler",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türklerin evini basarken vurulan suriyeliler",
+      "entry_id": "155641282",
+      "author": "eurasia",
+      "date": "14.08.2023 18:38",
+      "content": "kayseri'de, bir türk'ün evini basmaya çalışan 2 adet suriyeli bu sefer ev sahibi tarafından kurşunlandı.\n\nsuriyelilerden birinin durumunun ağır. tweet\n\n--\n\nhaberin detayları şöyle\n\nkayseri'de bir türk, baba oğul iki suriye uyruklu şahsa odun taşıtmış. suriyeli uyruklu şahıslar bu hizmet karşılığında anlaştıkları paradan daha fazla bir tutar istemiş. türk vatandaşı bunu kabul etmemiş.\n\nbu yüzden aralarında tartışma çıkmış. suriyeliler türk vatandaşının ailesinin bulunduğu eve gelince bunun üzerine arbede başlamış. türk vatandaşı pompalı tüfekle 2 şahsı vurmuş.\n\nbiri yoğun bakımda tweet 2",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CRIME",
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "türklerin evini basarken vurulan suriyeliler",
+      "entry_id": "155641350",
+      "author": "accountwoman",
+      "date": "14.08.2023 18:40",
+      "content": "bunlarin misafirliğe bitmeli artık..\nülkelerine geri gonderilsinler ...\nheryerde olaybaşilar..",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "türklerin evini basarken vurulan suriyeliler",
+      "entry_id": "155641358",
+      "author": "ziprar",
+      "date": "14.08.2023 18:40",
+      "content": "babanın ellerine sağlık dedirten haber. keşke akşama karakoldan elini sallayarak çıksa, ama yıllarca hapis yatıracaklar adama...",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "CRIME"
+      ]
+    },
+    {
+      "title": "türklerin evini basarken vurulan suriyeliler",
+      "entry_id": "155641878",
+      "author": "schmokeit",
+      "date": "14.08.2023 18:59 ~ 19:00",
+      "content": "domdom kurşunu by ibrahim tatlıses",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE",
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "türklerin evini basarken vurulan suriyeliler",
+      "entry_id": "155642166",
+      "author": "imladan elenen zat",
+      "date": "14.08.2023 19:09",
+      "content": "o parayı neden kendi vatandaşına yedirmemiş de suri bulmuş dediğim olayda kayseri gördüm",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "türklerin evini basarken vurulan suriyeliler",
+      "entry_id": "155642405",
+      "author": "lelermzn",
+      "date": "14.08.2023 19:18 ~ 19:19",
+      "content": "eline koluna mermisine sağlık. söyleyeceklerim bu kadar. ufak bir ekleme yapayım böyle durumlarda sonraki günlerde kalabalık saldırı olma ihtimaline karşı birleşip gelenleri kalabalık karşılamak lazım. böyle bir yapılanma olursa katılırım bilginize.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "CRIME"
+      ]
+    },
+    {
+      "title": "türklerin evini basarken vurulan suriyeliler",
+      "entry_id": "155642620",
+      "author": "cmrdlny93",
+      "date": "14.08.2023 19:27",
+      "content": "ölen olursa müebbet ile yargılanacak kayseri'lidir.\naksi takdirde evini basmalarını kendisine savunma gösterip haneye tecavüze karşı kendimi korudum bıdı bıdısıyla ağlayacak ama maalesef suriye seviciliğinden dolayı yine de sağlam ceza alacak iptir.\ninsan merak da etmiyor değil, neden bunlara iş yaptırırsın ki?",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    }
+  ]
+}

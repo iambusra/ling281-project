@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:33:49.490437",
+    "total_entries": 1,
+    "input": "ruslarin bulduğu 150 bin doları geri vermesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ruslarin bulduğu 150 bin doları geri vermesi",
+      "entry_id": "149262136",
+      "author": "benimhastamacil",
+      "date": "14.02.2023 19:56",
+      "content": "keşke orada yaksalardı, hiç olmazsa depremzedeler birazcık ısınırdı. şimdi komple boşa gitmiş.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "CRIME"
+      ]
+    }
+  ]
+}

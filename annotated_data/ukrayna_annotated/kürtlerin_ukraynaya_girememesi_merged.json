@@ -1,0 +1,37 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:09:19.779652",
+    "total_entries": 2,
+    "input": "kürtlerin ukraynaya girememesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "kürtlerin ukraynaya girememesi",
+      "entry_id": "115168661",
+      "author": "başlık taşıyan",
+      "date": "04.11.2020 21:13",
+      "content": "(bkz: kürtlerin ukrayna'ya girememesi)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "kürtlerin ukraynaya girememesi",
+      "entry_id": "115168718",
+      "author": "uzaktansevencocuk",
+      "date": "04.11.2020 21:14",
+      "content": "kürdüm, pasaportumda doğum yeri doğu bölgesinden bir yer. hatta ilk gidişimde (2019) doğduğun yer nerede diye sordu polis, suriye sınırına yakın demiştim. sorunsuz giriş yaptım.\nbundan 10 gün önce yine gittim, gerekli dökümanları gösterip (sigorta, garanti mektubu, dönüş bileti) rahatça giriş yaptım.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POLICY",
+        "HUMAN-POS"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1180 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:17:56.421889",
+    "total_entries": 94,
+    "input": "amerikan salatası ve rus salatası arasındaki fark",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "amerikan salatası ve rus salatası arasındaki fark",
+      "entry_id": "72738",
+      "author": "portakal",
+      "date": "18.12.1999 01:19 ~ 19.05.2004 02:34",
+      "content": "amerikan salatasında pancar yoktur, ama rus salatası pancarlıdır...\n\np.s: hayatta bazi sirlar var gerçekten... bu entry neden kötülendi acaba? burada bir fact girilmesine mi kiziyor insanlar? yoksa sorun pancarda mi? mesela pancar değil de turp deseydim yine de kötülenir miydi? acaba kötüleme butonunun altında bir açıklama gerekseydi kötülenir miydi? kötülense ne yazilirdi? hayatta bazi şeyler bilinmez, sanirim bu dediklerim de benim için cevapsiz kalacaklar...",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE",
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "amerikan salatası ve rus salatası arasındaki fark",
+      "entry_id": "72744",
+      "author": "cyrano",
+      "date": "18.12.1999 01:25",
+      "content": "biri birleşik [tek tabakta], biri bölünmüştür [küçük tabaklarda]",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE",
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "amerikan salatası ve rus salatası arasındaki fark",
+      "entry_id": "72786",
+      "author": "golgi",
+      "date": "18.12.1999 03:20",
+      "content": "birini yedikten sonra'bu rus salatasi' dersin,öbürünü yediktan sonra'bu da rus salatası' dersin.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE",
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "amerikan salatası ve rus salatası arasındaki fark",
+      "entry_id": "72789",
+      "author": "kris",
+      "date": "18.12.1999 03:31",
+      "content": "hikayeye göre 6.filo istanbul'a gelecegi zaman bütün heryerde rus salatasinin ismi amerikan salatasi olarak degistirilmis..",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY",
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "amerikan salatası ve rus salatası arasındaki fark",
+      "entry_id": "72799",
+      "author": "phobios",
+      "date": "18.12.1999 06:08",
+      "content": "uyruk",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "amerikan salatası ve rus salatası arasındaki fark",
+      "entry_id": "73045",
+      "author": "julia",
+      "date": "18.12.1999 19:26",
+      "content": "aaaa\nbi kere amerikan salatasında da her biri mevcut, bezelye havuç falan..\nsadece birini rus diğerinin amerikan salatası demek istemesiyle oluşmuş fena halde kıl bi olay. bildiğim kadarıyla herhangi bir farkı yok..\nayrıca ege bölgesinde genellikle rus salatası, marmara'da da amerikan salatası deniliyo.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE",
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "amerikan salatası ve rus salatası arasındaki fark",
+      "entry_id": "73047",
+      "author": "merlin",
+      "date": "18.12.1999 19:28 ~ 04.07.2001 22:25",
+      "content": "iki ülkenin sidik yarışında oldugu soğuk savaş zamanlarında, rus salatasına misilleme olarak amerikalılar aynı malzemelerden salata yapmışlar, adına da amerikan salatası demişlerdir.. aslında aralarında pek bi fark yoktur..",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE",
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "amerikan salatası ve rus salatası arasındaki fark",
+      "entry_id": "73072",
+      "author": "portakal",
+      "date": "18.12.1999 20:35",
+      "content": "bi de ideoloji farkı var tabi...",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "amerikan salatası ve rus salatası arasındaki fark",
+      "entry_id": "123261",
+      "author": "ari",
+      "date": "14.03.2000 22:04",
+      "content": "astronotla kozmonot arasindaki fark kadardir..",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "amerikan salatası ve rus salatası arasındaki fark",
+      "entry_id": "176602",
+      "author": "carl gustav",
+      "date": "29.05.2000 23:47",
+      "content": "amerika da öyle bir salata yok; miami'de sordum, new york'ta sordum aval aval baktılar.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "amerikan salatası ve rus salatası arasındaki fark",
+      "entry_id": "198899",
+      "author": "vurucu tim",
+      "date": "14.06.2000 04:30",
+      "content": "rus salatasinda daha az malzeme vardir haliyle..",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "amerikan salatası ve rus salatası arasındaki fark",
+      "entry_id": "391876",
+      "author": "envy",
+      "date": "16.05.2001 19:25",
+      "content": "rus salatasinda butun malzemeler esittir, amerikan salatasinda en zengin malzemenin dedigi olur. (bkz: kapitalizm)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "ECON",
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "amerikan salatası ve rus salatası arasındaki fark",
+      "entry_id": "721359",
+      "author": "carl gustav",
+      "date": "09.10.2001 12:18",
+      "content": "amerikaya giden arkadashlara soralim varmi boyle bir menu o diyarda, ben yok derim bu rus salatasi artik ne sebeple olmushsa olmush (siyasal, ideolojik,vs) amerikanlashmish. bir de kazakistan'da yashayan bir uye olarak bu ruslardaki mayonez meraki olayi biraz daha achikliyor.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE",
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "amerikan salatası ve rus salatası arasındaki fark",
+      "entry_id": "775448",
+      "author": "anzaar",
+      "date": "06.11.2001 17:09 ~ 13.04.2005 10:31",
+      "content": "amerikan salatası ile rus salatası arasında hiçbir fark yoktur. çünkü amerikan salatası diye birşey yoktur. amerikan salatası nın asıl adı rus salatası'dır. 1945'de sol görüşlü tan gazetesinin ve diğer sol bazı yayınevlerinin milliyetçilerce basılmasından sonra \"aman aabi kominis sandaviç satıyoz diye bizim büfeyi de basmasınlar\" diyen bazı milliyetperver büfe esnafınca bir gecede adı amerikan salatasına çevrilmiştir. büfe aleminde \"amarikânlı\" şeklinde telaffuz edilir.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY",
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "amerikan salatası ve rus salatası arasındaki fark",
+      "entry_id": "775473",
+      "author": "madalyonunoburyuzu",
+      "date": "06.11.2001 17:18",
+      "content": "(bkz: laf salatası)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "amerikan salatası ve rus salatası arasındaki fark",
+      "entry_id": "888361",
+      "author": "dreamer",
+      "date": "08.01.2002 16:33",
+      "content": "aynı şeydir. rus sözcüğü eskiden sakıncalı olduğu için amerikan salatası istanbullu büfecilerce uydurulmuştur. amerika'da amerikan salatası diye bir şey bilinmemektedir",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "amerikan salatası ve rus salatası arasındaki fark",
+      "entry_id": "1210364",
+      "author": "saruman",
+      "date": "27.04.2002 02:36 ~ 03:28",
+      "content": "rus salatası tüketildiğinde insanlarımızın komünist olma ihtimali doğmaktadır; çünkü komünizm bilindiği üzre bulaşıcı bir hastalıktır. komünizm tanımının kızın babasıyla oğulun annesiyle yatması şeklinde yapıldığı dönemlerde bir yiyeceğin rus ismiyle tüketilmesi düşünülemezdi bile. hem bizi süt tozuyla besleyen bir ülke varken neden hastalık saçan bir diğerinin adıyla anacakmışız ki bu salatayı. o nasıl bir salatadır ki içine pancar koyarsan rus salatası salam koyarsan italyan salatası olur ve biz nasıl bir milletiz ki yıllardan beri kendimize has bir malzeme bulamamışız. ben derim ki derhal türklük şuuru taşıyan bir malzeme bulalım. artık bu yoğurt mu olur isot mu olur orasına ev hanımları ve bolulu aşçılar birliği karar versin. biz de göğsümüzü gere gere türk salatası yiyelim değil mi erenler?",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "amerikan salatası ve rus salatası arasındaki fark",
+      "entry_id": "1210397",
+      "author": "zeenogr delorange",
+      "date": "27.04.2002 03:21 ~ 17.06.2005 13:03",
+      "content": "amerika'ya ozgu hicbir besinin, amerikan damak zevksizligi nedeniyle mayonez icerme sansi olmadigindan, daha baslamadan bitmis olmasi gereken tartisma...\n\nbunun amerikan versiyonu olsaydi bile, buyuk olasilikla ketcap icinde yuzen parcalardan olusmus bir spaghetti incident kapagi gorunumune sahip olurdu.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE",
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "amerikan salatası ve rus salatası arasındaki fark",
+      "entry_id": "1210404",
+      "author": "dusty",
+      "date": "27.04.2002 03:28",
+      "content": "yurdumdaki batılılaşma hareketi sonucunda ortaya çıkmıştır. bu harekete verilebilecek bir örnektir.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE",
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "amerikan salatası ve rus salatası arasındaki fark",
+      "entry_id": "1255497",
+      "author": "lumber loombur",
+      "date": "14.05.2002 15:36",
+      "content": "sadece insanin kafasinda olan bir fark. orjinali rus salatasi dir. komunizm korkusundan ismi amerikan salatasi na cevrilmistir.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE",
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "amerikan salatası ve rus salatası arasındaki fark",
+      "entry_id": "2346744",
+      "author": "spincrus",
+      "date": "12.02.2003 23:21",
+      "content": "rus salatasi, esasen sekil itibariyle az biraz coleslaw'i andirir. bilinir ki coleslaw, rus yahudileri nin icad ettikleri bir salata turudur. ancak biri daha sulu, biri ise daha viciktir. yine de ikisi de superdir.\n\nancak soyle bir olay olmustur. amerika'ya goc eden rus yahudileri, coleslaw ile birlikte bu salatayi da getirmislerdir. amerika'da oyle ya da boyle evrim gecirip ismi amerikan salatasi olarak turkiye'de anilmaya baslanmistir.\n\nhalbuki amerikalilar halen daha buna russian salad derler.\n\nruslar ise \"mayonezli patatesli pancarli salata\" demiyorlar ise ben de neyim.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE",
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "amerikan salatası ve rus salatası arasındaki fark",
+      "entry_id": "2346825",
+      "author": "dramaz",
+      "date": "12.02.2003 23:30",
+      "content": "ulkemizde sagci solcu olaylarinin yogun olarak yasandigi donemlerde rusya ve sosyalizm o derece kotu aktarilmis ki memleketim insanina resmen korkar olmuslar. tabi bu durumda siginacak kapi olarak abd cikip kol kanat germis milletimize. yurdum insani da tesekkur olarak 40 yillik rus salatasina amerikan salatasi unvanini layik gormus.\ney buyuk amerika sen daha nelere kadirsin ama bizden de bu kadari gelio iste...",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE",
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "amerikan salatası ve rus salatası arasındaki fark",
+      "entry_id": "2600297",
+      "author": "nalmes",
+      "date": "02.04.2003 12:06",
+      "content": "ideolojilerinden dolayi \"ben rus salatasi yemem\" diyenlere bir pazarlama dehasi tarafindan sunulan \"amariganli viriiim mi?\" nidasidir.ne fark var dersen ideolojiden baska bi sey diyemem.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "amerikan salatası ve rus salatası arasındaki fark",
+      "entry_id": "3140535",
+      "author": "bigbrother",
+      "date": "24.07.2003 17:12",
+      "content": "(bkz: ayni bokun laciverti)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "amerikan salatası ve rus salatası arasındaki fark",
+      "entry_id": "3140553",
+      "author": "brownie",
+      "date": "24.07.2003 17:18",
+      "content": "rejans da rus salatasi olivye adi ile cagrilmaktadir",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE",
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "amerikan salatası ve rus salatası arasındaki fark",
+      "entry_id": "3413815",
+      "author": "joe 90",
+      "date": "05.10.2003 19:33",
+      "content": "bu iki dandirik ve agır salatanın farkı sudur; birini coni ler öbürünü ivan lar yer. türkler ise kızarmış koca patatesin içinde envai çeşit yiyecekle beraber yerler bunu, adına da kumpir derler.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE",
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "amerikan salatası ve rus salatası arasındaki fark",
+      "entry_id": "3414945",
+      "author": "glass sealed",
+      "date": "06.10.2003 00:58 ~ 00:59",
+      "content": "(bkz: soguk savasin salata uzerindeki etkileri)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "amerikan salatası ve rus salatası arasındaki fark",
+      "entry_id": "3428065",
+      "author": "kirpi",
+      "date": "09.10.2003 02:21",
+      "content": "birinin kıvamı, hile katmadan yani patates nişastası eklenmeden tutturulamıyor artık. acaba hangisiydi!",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "amerikan salatası ve rus salatası arasındaki fark",
+      "entry_id": "3428117",
+      "author": "format1",
+      "date": "09.10.2003 02:38",
+      "content": "rus salatası rusların icat ettiği bir şeydir...\namerikan salatası ise türklerin icat ettiği bir şeydir.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "amerikan salatası ve rus salatası arasındaki fark",
+      "entry_id": "3739048",
+      "author": "itaatsiz",
+      "date": "30.12.2003 13:54",
+      "content": "rus salatasının içine, yıkılan berlin duvarı nın molozlarını koyunca amerikan salatası olur.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE",
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "amerikan salatası ve rus salatası arasındaki fark",
+      "entry_id": "3739945",
+      "author": "yul",
+      "date": "30.12.2003 17:59",
+      "content": "salata aynı salatadır, ama türkiye'de tek partili sistem varken adı rus salatasıdır, çok partili sistem olunca amerikan salatası olmuştur.\n6. filonun gelişinin salatanın adını değiştirme olayı da tamamen doğrudur.\n\nbir de iyice salakça davranan bir başka grup vardır ki onlar da sanırım renklerini belli etmek istemedikleri için, bu salataya mayonez derler... hadi bakalım...",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE",
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "amerikan salatası ve rus salatası arasındaki fark",
+      "entry_id": "3739984",
+      "author": "godot",
+      "date": "30.12.2003 18:10",
+      "content": "bi fark yoktur.. ikisi de soguk savas salatasi dir..",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "amerikan salatası ve rus salatası arasındaki fark",
+      "entry_id": "3739994",
+      "author": "grinder",
+      "date": "30.12.2003 18:17",
+      "content": "amerikan salatası diye birşey literatürde yoktur ruslar geçmişte komünist olduğu için rus salatasına amerikan salatası denmiştir.\n(bkz: salatadan korkan zihniyet)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "amerikan salatası ve rus salatası arasındaki fark",
+      "entry_id": "3836992",
+      "author": "galileo",
+      "date": "28.01.2004 11:27",
+      "content": "(bkz: nüans farki)\n(bkz: yok öyle bisii)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "amerikan salatası ve rus salatası arasındaki fark",
+      "entry_id": "3837559",
+      "author": "lostdwarf",
+      "date": "28.01.2004 14:10",
+      "content": "(bkz: saat farki)\n(bkz: world time zone)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "amerikan salatası ve rus salatası arasındaki fark",
+      "entry_id": "4004081",
+      "author": "armonipolisi",
+      "date": "24.03.2004 04:48",
+      "content": "aralarındaki fark rus salatası dır. çünkü amerikan salatası diye bir şey yoktur.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "amerikan salatası ve rus salatası arasındaki fark",
+      "entry_id": "4004483",
+      "author": "a lifetime of type ii errors",
+      "date": "24.03.2004 10:36",
+      "content": "amerika'da bahsi gecen salataya en yakin salata patates salatasi'dir, o da adi ustunde patates salatasidir. amerika'da olmayan bir seye amerikan salatasi denmesinin sebebi olsa olsa ruh hastaligidir. (bkz: paranoya)\nbuna karsilik rus mutfaginda boyle bir salata vardir.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "amerikan salatası ve rus salatası arasındaki fark",
+      "entry_id": "4004797",
+      "author": "paco de nice",
+      "date": "24.03.2004 12:03",
+      "content": "kesinlikle amerikan salatasinda kapari yoktur oysa rus salatasi muhteviyatinda kapari kendine yer etmistir.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "amerikan salatası ve rus salatası arasındaki fark",
+      "entry_id": "4430227",
+      "author": "busysurfer",
+      "date": "26.05.2004 21:44 ~ 21:49",
+      "content": "mesela marketlerde satılan meziz marka rus salatasının üzerinde türkçe olarak \"amerikan salatası\", ingilizcesinde ise \"russian salad\" yazar. bu da, \"rus salatası'nın adının amerikan salatası'na dönüştürülmesi\" olayının bir sonucudur. çünkü \"rus salatası\" ya da \"amerikan salatası\" dediğimiz salatayı türkiye'ye beyaz ruslar getirmiş, böylece de mayonez, patates, bezelye, havuç, vs. gibi ürünlerin karıştırılmasıyla oluşturulan bu salata türkiye'de \"rus salatası\" adını almıştır. bu durum da bize gösteriyor ki, rus ve amerikan salatası hakkında kavram kargaşası yaşanması tamamen soğuk savaş dönemindeki sovyet tehdidinden ötürü türkiye'nin izlediği amerikan yanlısı politikaların bir ürünü, bir yansımasıdır. zira, soğuk savaş'ın ilk yıllarında henüz komünizm, sosyalizm, vb. kavramlar ve ideolojiler halkın büyük çoğunluğu tarafından bilinmezken, devletimiz olası bir komünist tehdide karşı sıkı bir anti-komünist politika izlemiş, ve bu politikasını da günlük yaşamdaki her alanda, salataya varıncaya kadar müdahale etme suretiyle uygulamıştır. tabii ki bu politikaların sonucu olarak da bir kafa karışıklığı olmuş, sözlüğümüz de bu sayede yeni bir entry'ye kazanmıştır.\n\nayrıca (bkz: maydanoz olmak)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE",
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "amerikan salatası ve rus salatası arasındaki fark",
+      "entry_id": "5585048",
+      "author": "theone",
+      "date": "02.09.2004 11:41",
+      "content": "(göktaşı patlatmak üzere, petrolcü abilerin uzaya çıktığı filmde, bir kozmonot)\n- russian components, american components... all are made in taiwan.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "amerikan salatası ve rus salatası arasındaki fark",
+      "entry_id": "5585215",
+      "author": "leyli",
+      "date": "02.09.2004 11:57",
+      "content": "amerikan salatasında, tursu, salam ve kuru kırmızı biber vardır.\nrus salatasında ise havuç, patates, bezelye ve bazen de haşlanmış yumurta bulunur... ikisinin de mayonez ile yapılması dısında hiçbir benzerlikleri yoktur.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "amerikan salatası ve rus salatası arasındaki fark",
+      "entry_id": "5591969",
+      "author": "simitci",
+      "date": "02.09.2004 23:11",
+      "content": "amerika'da patates, havuc, bezelye, salatalik tursusu ve mayonez iceren salatayi tek goreceginiz yer bir rus lokantasi ya da bir rus'un evidir. amerikalilarin rus yemeklerini bilenleri haric boyle bir salatayi duymus olmalari bile zordur. haliyle aralarindaki fark, amerikan salatasi diye bir seyin olmamasidir.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "amerikan salatası ve rus salatası arasındaki fark",
+      "entry_id": "6127244",
+      "author": "tan er",
+      "date": "24.10.2004 22:19",
+      "content": "yurdum disindan bir ornek; bulgaristanda amerikan salatasi diye birsey duyulmamistir gorulmemistir (sadece rus salatasi mevcuttur) fakat rus salatasina benzer bir salataya avrupa salatasi denmektedir,rus salatasindan farki ise icinde birkac birseyin fazladan olmasi.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "amerikan salatası ve rus salatası arasındaki fark",
+      "entry_id": "6634321",
+      "author": "gemini stonehead",
+      "date": "08.01.2005 02:46 ~ 13:35",
+      "content": "olmayan farktır. amerikan salatası, nereden çıtıysa rus salatası'na yeni takılan ve ne yazık ki artık her yerde kullanılmaya başlamasıyla beni sinir eden, tüylerimi diken diken eden ismidir.\ndevletin çeşitli resmi davetlerinde yılların rus salatası'nın başına \" amerikan salatası \" emaresi konduğu için misilleme niyetine rusya'da türk kahvesi \" amerikan kahvesi \" ismiyle verilmeye başlanmıştı.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CULTURE",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "amerikan salatası ve rus salatası arasındaki fark",
+      "entry_id": "6634361",
+      "author": "quasm",
+      "date": "08.01.2005 02:54",
+      "content": "fark, ustadan çırağa aktarılan bilginin deformasyonundan kaynaklanır. işin garibi ise amerikalıların da rusların da bu salatalardan bihaber olmasıdır (amerikalı dediğin mayonez sevmez).",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "amerikan salatası ve rus salatası arasındaki fark",
+      "entry_id": "8011250",
+      "author": "dali dili havali korna",
+      "date": "13.08.2005 12:15",
+      "content": "http://www.aksam.com.tr/yazar.asp?id=208&yazarid=2",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "amerikan salatası ve rus salatası arasındaki fark",
+      "entry_id": "8011273",
+      "author": "lucretia",
+      "date": "13.08.2005 12:23",
+      "content": "birini annem birini yengem yapar. tatlari aynidir.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "amerikan salatası ve rus salatası arasındaki fark",
+      "entry_id": "8170708",
+      "author": "volrath the fallen",
+      "date": "10.09.2005 14:53 ~ 14:57",
+      "content": "rus salatasına koyulacak malzemeler, ayrım gözetilmeksizin bi anda koyulup karıştırılır, yoğun mayonez dolayısıyla hangisinin hangisi olduğunu ayırt edemezsiniz, zaten gerek de yoktur.\namerikan salatasına önce bembeyaz mayonez, akabinde hafif sarı patatesler, daha sonra yeşil bezelye ve en son da adi, pis kahverengi sosis - salam dilimleri konur, gerektiğinde koyu renklieri ayıklamanıza olanak verir.\nbenzer bir uygulama için: katrina tayfunu",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "amerikan salatası ve rus salatası arasındaki fark",
+      "entry_id": "8178822",
+      "author": "kmc",
+      "date": "12.09.2005 04:42",
+      "content": "rus salatasi olarak neyin kastedildigine gore degisiklik gosteren farktir.\n\ndun itibariyle katildigim rus dugunu sofrasinda en az 12 cesit salata bulunup, rus salatasi diye birseyden ruslarin haberi olmadigini soylemek demagojiden baska birsey degildir. ha bir de bizim bildigimiz anlamdaki mayonezli, bezelyeli ve cesitli sandvic bufelerinde ekmegin arasina amerikan salatasi olarak konulan salata cesidinin adi rusya'da olivye'dir ayri mevzu.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "amerikan salatası ve rus salatası arasındaki fark",
+      "entry_id": "8509537",
+      "author": "vasishta",
+      "date": "10.11.2005 12:20",
+      "content": "biri (bkz: rus salatasi) vardir, digeri (bkz: amerikan salatasi) yoktur. yok olani istanbullu lar uydurmustur.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "amerikan salatası ve rus salatası arasındaki fark",
+      "entry_id": "17319205",
+      "author": "vidikomma",
+      "date": "21.11.2009 13:34 ~ 13:36",
+      "content": "fark şudur: amerikan salatası diye bir şey yoktur. rus salatasının siyasi oyunlara kurban gitmesiyle uydurulmuş bir isimdir, amerikan salatası... ankara'da çoğu mekanın menüsünde ismi hala rus salatası olarak geçerken, istanbul'da rus salatası dedin mi, ne istediğini bile anlamaz insanlar.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CULTURE",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "amerikan salatası ve rus salatası arasındaki fark",
+      "entry_id": "17319228",
+      "author": "uriel",
+      "date": "21.11.2009 13:40",
+      "content": "aslında arasında hiçbir fark yoktur. amerikalılar komünizmden tiksindiği için rus salatasına amerikan salatası der. (bkz: yersen)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "amerikan salatası ve rus salatası arasındaki fark",
+      "entry_id": "17319343",
+      "author": "sezofren",
+      "date": "21.11.2009 13:57",
+      "content": "kulaktan kulağa şehir efsaneleri dolaşa dolaşa malzemeleri bile birbirlerine girmiş bütün salatalar. misal rus salatasında benim bildiğim, havuç, patates, bezelye, salam veya sosis, turşu vardır. amerikan salatasında ise turşu yoktur. ha ben ilk önce rus salatasını duydum o ayrı.\n\nmesela macaristanda o tarz salatalar italyan, fransız, rus, amerikan şeklinde ayrılıyordu. italyan salatası yine aynı malzemelerden oluşuyor fakar salamlar uzun ince doğranmış oluyor. fransız salatası işe bildiğin patates ve soğan dan oluşan mayonez ve yoğurt karışımı.\n\nşimdi yoğurt demişken onu da eklemek gerek kimileri bunları yoğurt olmadan sadece mayonez ile yapıyor. bi kere mantıksız değil mi o kadar yağlı bir sosu direk yemek. yoğurtla karıştırıldığında hem tadı hem kıvamı daha güzel olur bu da parantez içi cümlesi olsun.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "amerikan salatası ve rus salatası arasındaki fark",
+      "entry_id": "17319357",
+      "author": "sipsi",
+      "date": "21.11.2009 14:00",
+      "content": "efendim bir de şu var. rus salatası denen nanede mayonez, patates ezmesiyle kırılmak suretiyle rengi sarartılır. amerikan salatasında patates yoktur cılk mayonezdir bağlayıcısı.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "amerikan salatası ve rus salatası arasındaki fark",
+      "entry_id": "17320960",
+      "author": "sanborn",
+      "date": "21.11.2009 18:33 ~ 20:27",
+      "content": "ruslarin bu salataya \"olivye\" yani bi nevi fransiz salatasi demesi. tartismayin demiyorum hobi olarak yine tartisin ama boyle yani.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "amerikan salatası ve rus salatası arasındaki fark",
+      "entry_id": "17320974",
+      "author": "pasopompa",
+      "date": "21.11.2009 18:35",
+      "content": "amerikan salatasi ortamin amina kor!\n\nhttp://www.youtube.com/watch?v=4_hefbjbhk4",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "amerikan salatası ve rus salatası arasındaki fark",
+      "entry_id": "17434731",
+      "author": "nekio",
+      "date": "05.12.2009 17:54 ~ 17:58",
+      "content": "moldova'da doğup büyümüş ve yükseklisans için türkiye'ye gelmiş, vaktiyle sscb zamanında oldukça rus sayılmış, şimdi ise moldovalı denebilecek bir arkadaş tarafından yapılan değerlendirmeye göre cafe lerde büfe lerde sunulmakta olanlardan ne rus salatası ne de amerikan salatası rusların rus salatası dediği şeye benzer, olsa olsa bizim italyan salatası onların rus salatası dediği şeyi andırır. annemin evde yaptığı rus salatasının tarifi ise arkadaşımızca fena değil bulunmuştur. annemin tarifi de öyle çok büyük bir sır değil yani, hazır mayonez i hazır konserve garnitür ile karıştır, içine bezelyelere yakın boyutlarda küp küp kornişon doğra. budur yani. yeter ki dışarıdaki gibi aşırı patatesli, sarı ve kuru olmasın. vıcık vıcık mayonezlisi makbülmüş. istenirse içine yumurta, soğan, salam vb eklenebilirmiş ki işte bu da bizim italyan salatası dediğimiz şeye yaklaşmasının sebebi.\n\nsırf komünist bir salata mız olmasın diye rus salatasına amerikan salatası diyeceğimiz yerde coleslaw a amerikan salatası deseymişiz vaktiyle baya daha hayırlı bi iş yapmış olurduk heralde ama ne bilelim tabi taa o zamandan kfc falan.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "amerikan salatası ve rus salatası arasındaki fark",
+      "entry_id": "29343978",
+      "author": "vetra privili menya",
+      "date": "12.07.2012 09:41",
+      "content": "sanırım türk milletinin kraldan çok kralcı olmasından kaynaklanır bu fark.\n\nyoksa yok rus salatasında x malzemesi yok, y malzemesi z usulünde doğranıp hazırlanır falan demeye gerek yok.\n\n2003 yılında fransa, abd' nin ırak işgalini engellemeye kalktığında ülkede yoğun bir fransız karşıtı kampanya yürütülmüş, french fries (patates kızartması)' ın ismi birçok kafe ve restoranda american (veya freedom) fries olarak değiştirilmişti. bunu yaparken de patates kızartmasının belçika orijinli olduğunu ya da bir ürünün ismindeki \"fransız\" adına tahammül edememenin gerzeklik olduğunu düşünemiyorlardı. sanırım bizim rus salatasını amerikana çevirmemiz de aynı gerzekliğin ürünüydü.\n\nbu kafa pek değişmiyor ve bir tek bizde yok, görüldüğü üzere. yunanlar da kıbrıs işgalinden sonra türk kahvesinin adını yunan kahvesine çevirmişlerdi.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CULTURE",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "amerikan salatası ve rus salatası arasındaki fark",
+      "entry_id": "30553584",
+      "author": "kerim i fenasi",
+      "date": "13.10.2012 13:26",
+      "content": "bu'guzel' salatanin ruslardan geldigi cok belli. (bkz: swh)\n\nhttp://www.youtube.com/watch?v=jxvuotpxtm8",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "amerikan salatası ve rus salatası arasındaki fark",
+      "entry_id": "32370225",
+      "author": "comudus",
+      "date": "28.02.2013 11:03",
+      "content": "- amerikan salatası mı? rus salatası mı?\n- siz rus musunuz?",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "amerikan salatası ve rus salatası arasındaki fark",
+      "entry_id": "32370251",
+      "author": "sadefeyn",
+      "date": "28.02.2013 11:06",
+      "content": "(bkz: kuşak farkı)\n(bkz: bunu bilen liseli değildir)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "amerikan salatası ve rus salatası arasındaki fark",
+      "entry_id": "32370363",
+      "author": "bidi bidi bi sus artik",
+      "date": "28.02.2013 11:15",
+      "content": "rus salatasını yemeden önce \" duj \" almanız gerekir:/",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "amerikan salatası ve rus salatası arasındaki fark",
+      "entry_id": "32370376",
+      "author": "flirt",
+      "date": "28.02.2013 11:16",
+      "content": "amerikan salatası yoktur, az votka vardır diye cevaplanabilecek merak konusudur. (bkz: olivye salatası)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "amerikan salatası ve rus salatası arasındaki fark",
+      "entry_id": "32370402",
+      "author": "dreamer",
+      "date": "28.02.2013 11:18",
+      "content": "amerikan salatası diye bir şey yoktur. soğuk savaş sırasında büfeciler rus salatası dememek için icat etmişlerdir.\n\nayrıca: wikipedia'da\nthe page \"american salad\" does not exist. you can ask for it to be created, but consider checking the search results below to see whether the topic is already covered.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "amerikan salatası ve rus salatası arasındaki fark",
+      "entry_id": "35384311",
+      "author": "melon",
+      "date": "21.07.2013 10:25",
+      "content": "aralarinda benzerlik yok. rus salatasini neden amerikan salatasi diye satarlar turkiye'de anlayabilmis degilim.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "amerikan salatası ve rus salatası arasındaki fark",
+      "entry_id": "35384775",
+      "author": "laz che",
+      "date": "21.07.2013 11:18",
+      "content": "yıllarca isimlendiremediğim farktır. öyle ki çok severim. söylemesi ayıp annem de güzel yapar hani. ancak yıllarca anneme rus salatası yapar mısın diyemedim. hep anne o mayonezli salata var ya onu yapsana derdim. çünkü bir ara rus salatası yap dediğimde amerikan salatası deniyordu, amerikan salatası yap dediğimde rus salatası deniyordu. biz rus salatası ve amerikan salatası arasındaki farkı anlayamadan büyüdük. sonradan öğrendik ki her şey siyasiymiş. ama ne olursa olsun şimdi o mayonezli salatadan yapsa annem ve ben yesem ismine bakmazdım.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "amerikan salatası ve rus salatası arasındaki fark",
+      "entry_id": "35385013",
+      "author": "olinone",
+      "date": "21.07.2013 11:41",
+      "content": "rus salatası'nda bezelye, havuç ve patatesler homojen bir biçimde dağılmıştır.\namerikan salatası'nda ise bunlar zenginlerin kısmında yoğunlaşırken fakirlere tek tük düşer.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "amerikan salatası ve rus salatası arasındaki fark",
+      "entry_id": "35385172",
+      "author": "lokalizeri tutturamayip pasgecen adam",
+      "date": "21.07.2013 11:54",
+      "content": "okunuşları farklıdır. biri amerikan salatası diye okunur diğeri rus salatası diye okunur.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "amerikan salatası ve rus salatası arasındaki fark",
+      "entry_id": "35385174",
+      "author": "yapayalniz",
+      "date": "21.07.2013 11:54 ~ 11:55",
+      "content": "birine amerikalılar bile rus salatası der.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "amerikan salatası ve rus salatası arasındaki fark",
+      "entry_id": "40930514",
+      "author": "butterfly00",
+      "date": "06.03.2014 20:33",
+      "content": "rus salatsının salatadan ziyade meze olması.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "amerikan salatası ve rus salatası arasındaki fark",
+      "entry_id": "40932641",
+      "author": "ucmaktan bikan memeli",
+      "date": "06.03.2014 21:52",
+      "content": "farksizdir, amerikali turist ağırlayan yurdum otellerinde amerikan, rus turist ağırlayanlarda ise rus salatası yazılır temel fark budur. (bkz: şekil aynı şekil, isim farklı)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "amerikan salatası ve rus salatası arasındaki fark",
+      "entry_id": "41749063",
+      "author": "pshasha",
+      "date": "04.04.2014 14:34",
+      "content": "amerikan salatası olmayan bir salatadır. türkiyede soğuk savaş döneminde komünizmden korkulduğu için rusyayla alakalı şeyler istenmiyormuş. rus salatasına amerikan salatası denmiş. soğuk savaş mağduru rus salatasıdır diyebiliriz. yanılmıyorsam ilk yapan aşçı oliveira gibi bir isme sahipti.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CULTURE",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "amerikan salatası ve rus salatası arasındaki fark",
+      "entry_id": "41749116",
+      "author": "sir isaac",
+      "date": "04.04.2014 14:36",
+      "content": "rus salatası insanın ağzında kötü bir tad bırakan stalin artığı ve terkedilmesi gereken bir salatayken amerikan salatası özgürlük ve refah salatasıdır.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "amerikan salatası ve rus salatası arasındaki fark",
+      "entry_id": "43553368",
+      "author": "bagel and waffle",
+      "date": "17.06.2014 10:26",
+      "content": "sosis ile karıştı mı, dünyanın red bull vodka sonrası en güzel karışımı olan ve ismi goralı ya da artist diye bilinen yiyecek.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "amerikan salatası ve rus salatası arasındaki fark",
+      "entry_id": "46462264",
+      "author": "nehrinkarsikiyisindakalankiz",
+      "date": "20.10.2014 16:23",
+      "content": "http://en.wikipedia.org/wiki/olivier_salad\n\n\"the salad is popular in turkey as rus salatası. the turkish version consists of boiled and sliced carrots and potatoes, sliced cucumber pickles, boiled peas and mayonnaise and is sometimes decorated with boiled and sliced eggs, black olives and beet root pickles. ıt is served as meze and is used as a filling for some sandwiches and kumpir (\"potato\" in albanian and centre and eastern dialects in turkish).\"",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "amerikan salatası ve rus salatası arasındaki fark",
+      "entry_id": "56067825",
+      "author": "hep bu isim secmede takiliyorum",
+      "date": "06.11.2015 20:06 ~ 20:07",
+      "content": "https://www.google.com.tr/search?q=russian salad\n\nhttps://www.google.com.tr/search?q=american salad",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "amerikan salatası ve rus salatası arasındaki fark",
+      "entry_id": "56582090",
+      "author": "tahinpekmez",
+      "date": "29.11.2015 09:32",
+      "content": "yılmaz özdil burada anlatmış:\nhttp://www.sozcu.com.tr/…-ozdil/soguk-savas-997389/",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "amerikan salatası ve rus salatası arasındaki fark",
+      "entry_id": "57186207",
+      "author": "rask",
+      "date": "23.12.2015 23:12",
+      "content": "amerikan salatası kapitalizm kokar, dolapta saklamazsanız bozulur. rus salatasında bezelye ve patates arasındaki kolektif birliktelik göze çarpar. mayonez bozulunca at gitsindir, zehirler.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "amerikan salatası ve rus salatası arasındaki fark",
+      "entry_id": "64750890",
+      "author": "kedidovmelikiz",
+      "date": "16.12.2016 12:22",
+      "content": "amerikan salatası ve rus salatası aynıdır. her ikisinde de aynı malzemeler kullanılır. aslında amerikan salatası diye bir şey yoktur, soğuk savaş döneminde ideolojik nedenlerden dolayı rus salatası yeniden adlandırılıp amerikan salatası olmuştur.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "amerikan salatası ve rus salatası arasındaki fark",
+      "entry_id": "64812686",
+      "author": "bobros",
+      "date": "18.12.2016 19:12 ~ 19:13",
+      "content": "rus salatası bir lezzetdir emek verilir misafire ikram edilir.\n\namerikan salatası piyasadır, mayonez ve konserve karışık garniturle yapılır.ve satışı gerçekleşir\n\nedit:imla",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "amerikan salatası ve rus salatası arasındaki fark",
+      "entry_id": "66663575",
+      "author": "evetbenim",
+      "date": "05.03.2017 18:24",
+      "content": "maalesef bütün yazılanların aksine bu olay çok daha önceki bir tarihe uzanıyor arkadaşlar. tarihte; 1877-1878 osmanlı-rus savaşı, ya da rumi 1293 yılında yapıldığından 93 harbi de denilen şavaş ile ilgisi vardır. rus ordusu yeşilköy'e kadar dayanınca istanbul'da haliyle feci bir panik başlar, yeşilköy çok yakın tabi istanbul'a. tarihçiler bu panikte; galata, karaköy ve beyoğlu'ndaki bütün şarküterilerin istanbulluların tepkilerden korktukları için; \" rus salatası\" etiketlerini, \" amerikan salatası\" olarak değiştirdiklerini yazıyorlar. bana mantıklı geldi. yine de o devirde yaşamadığımız için gerçeği hiç bilemeyeceğiz o ayrı.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE",
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "amerikan salatası ve rus salatası arasındaki fark",
+      "entry_id": "72931794",
+      "author": "nice and clean",
+      "date": "19.12.2017 20:41",
+      "content": "amerikan olan sosisli olur",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE",
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "amerikan salatası ve rus salatası arasındaki fark",
+      "entry_id": "95249277",
+      "author": "aman da amann",
+      "date": "12.09.2019 13:20",
+      "content": "italyan salatasını neden eklemediniz?",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE",
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "amerikan salatası ve rus salatası arasındaki fark",
+      "entry_id": "95249868",
+      "author": "niklerki40karakterdenuzunolamazzzzzzzzzz",
+      "date": "12.09.2019 13:35",
+      "content": "soğuk savaş öncesi rus, sonrası amerikan salatası olması.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE",
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "amerikan salatası ve rus salatası arasındaki fark",
+      "entry_id": "117122226",
+      "author": "karamus",
+      "date": "20.12.2020 16:40",
+      "content": "ikisi aynı şeydir. zamanında amerikalar taksime gelince salataya amerikan salatası demişler, amerikalar gidip ruslar gelince aynı salatayı rus diye itelemişler . türk ticaret zekası",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE",
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "amerikan salatası ve rus salatası arasındaki fark",
+      "entry_id": "133955656",
+      "author": "nickulaniste",
+      "date": "19.02.2022 22:32 ~ 22:55",
+      "content": "isimlendirme farkıdır, içerik aynıdır.\n\nbir rus şef tarafından icat edilen bu yiyecek, bolşevik devrimi sonrası istanbul'a gelen rus göçmelerin işlettiği klüp/restoranlarda servis edilmiş ve popüler olmuştur. bu yüzden rus salatasıdır. anti-komünist dönemde rus ismi uygun görülmemiş ve amerikan denmiştir. (bkz: frederick bruce thomas)\n\nben çocukken orduevlerinde bile rus salatası olarak yemiştim. 70-80-90'lar.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE",
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "amerikan salatası ve rus salatası arasındaki fark",
+      "entry_id": "156608135",
+      "author": "odhner",
+      "date": "10.09.2023 15:10 ~ 17:07",
+      "content": "birinin olması, diğerinin olmamasıdır. amerikan salatası diye bir şey yoktur.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE",
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "amerikan salatası ve rus salatası arasındaki fark",
+      "entry_id": "156608234",
+      "author": "adini marla koydum",
+      "date": "10.09.2023 15:13",
+      "content": "birinin içine vodka koyuyorsun, diğerinin içine bourbon koyuyorsun, başka bir farkı yok.\n\nayrıca, amerikan salatası ne amk, o amerikan bezi olmasın.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "amerikan salatası ve rus salatası arasındaki fark",
+      "entry_id": "156608391",
+      "author": "rupa parinemesan",
+      "date": "10.09.2023 15:21",
+      "content": "kapitalizmdir.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "ECON"
+      ]
+    },
+    {
+      "title": "amerikan salatası ve rus salatası arasındaki fark",
+      "entry_id": "156608513",
+      "author": "fredi kurugir",
+      "date": "10.09.2023 15:26",
+      "content": "iyisini yemek için her ikisini de evde yapmanız gerekir. restoranlar maliyeti düşürmek icin patates püresi ile uyduruk mayonez karışımı kullanır. çimento gibi bir şey yersiniz sonuçta.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "ECON"
+      ]
+    },
+    {
+      "title": "amerikan salatası ve rus salatası arasındaki fark",
+      "entry_id": "156609588",
+      "author": "bd3gm",
+      "date": "10.09.2023 16:06",
+      "content": "bir uydurmasyon olan amerikan salatası sadece sebzelerle yapılanıdır. rus salatası sebzelere ek olarak soğuk et parçaları (küp küp doğranmış jambon veya salam) ve pancar turşusu içerir.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE",
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "amerikan salatası ve rus salatası arasındaki fark",
+      "entry_id": "179334713",
+      "author": "zampara ferit",
+      "date": "24.10.2025 09:48",
+      "content": "fark yoktur. bu salata ilk 1800'lü yıllarda moskova'da yapılıyor, lucien olivier isimli bir şef tarafından. zamanla sovyet mutfağının temellerinden biri haline geliyor. türkiye'ye geldiğinde ise isim verilecekken rus salatası tabirinden kaçılıyor. çünkü 1950'li yıllar, soğuk savaş dönemi ve türkiye'nin abd ile yakınlaşma süreci içine girdiği bir dönem.\n\nrus ismi politik olarak olumsuz çağrışım yaptığı için amerikan salatası deniyor. halbuki şeften dolayı fransız salatası deseler yine bir nebze mantıklı olurmuş. neyse, seneler geçiyor sovyetler dağılıyor. komünizm algısını üstünden atan rus kavramı artık eskisi gibi olumsuz çağrışım yaratmadığı için rus salatası ismi de bir şekilde piyasada yerini alıyor zamanla.\n\nolay bundan ibaret.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE",
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "amerikan salatası ve rus salatası arasındaki fark",
+      "entry_id": "179335161",
+      "author": "pesto soslu fetuccine",
+      "date": "24.10.2025 10:12",
+      "content": "amerikan salatası diye bir şey yoktur, doğrusu rus salatasıdır.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE",
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "amerikan salatası ve rus salatası arasındaki fark",
+      "entry_id": "179335253",
+      "author": "phantomofthetheatre",
+      "date": "24.10.2025 10:17",
+      "content": "dunyada sadece turkiye sinirlari icinde gorulen bir fark.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE",
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:22:14.733722",
+    "total_entries": 5,
+    "input": "isteyen her ukraynalıya silah vereceğiz",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "isteyen her ukraynalıya silah vereceğiz",
+      "entry_id": "134155589",
+      "author": "akm7",
+      "date": "24.02.2022 13:49 ~ 14:09",
+      "content": "rus tanklarla, toplarla, uçaklarla geliyor\nukraynalı da devletin vereceği silahla toprak savunacak.\nhalkını düşünmeden, tankların önüne atan bir devlet başkanının saçma sapan açıklaması.\n\nedit: klavye bordo berelisinin birisi de beni nutuk ile vuruyor . sanki millet aynı millet, şartlar aynı şartlar, dönem aynı dönem .\natatürk yaptı sanki amk açıklamayı. yumurtaya can veren allah keşke size de akıl verseydi.\nlan adam ukrayna toprağına basmadan yerler bir eder isterse . bunu anlamamak için harbi beyninin yıkanması gerek .\nhadi git şimdi trt, ahaber, teşkilat, kuruluş diriliş falan izle, gaza gel .",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY",
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "isteyen her ukraynalıya silah vereceğiz",
+      "entry_id": "134155625",
+      "author": "random string",
+      "date": "24.02.2022 13:50",
+      "content": "adam kaçsa ayrı, savaşsa ayrı, teslim olsa ayrı... türke bir şey beğendiremezsin.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY",
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "isteyen her ukraynalıya silah vereceğiz",
+      "entry_id": "134155751",
+      "author": "neptun otesi cisim",
+      "date": "24.02.2022 13:53",
+      "content": "şu açıklamayı yazan vatandaşa nutuk'u okumasını şiddetle tavsiye ederim.\n\n\"rus tanklarla, toplarla, uçaklarla geliyor\nukraynalı da devletin vereceği silahla toprak savunacak.\nhalkını düşünmeden, tankların önüne atan bir devlet başkanının saçma sapan açıklaması.\"\n\nakılsız npc sürüsü.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY",
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "isteyen her ukraynalıya silah vereceğiz",
+      "entry_id": "134155842",
+      "author": "turk eli",
+      "date": "24.02.2022 13:56 ~ 14:00",
+      "content": "ülkesi işgale uğrayan bir liderin mantıklı açıklaması.\n\nuçaklarla, füzelerle savaşı kazanabilirsiniz ama alan hakimiyetini kurmak için piyadelerin ve tankların kontrol noktaları kurup devriye gezmeleri kazım. işte o noktada işler değişiyor. beklenmeyen yerlerden kafaya mermi, araca da roket yiyince işgalin faturası kabarıyor.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POLICY",
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "isteyen her ukraynalıya silah vereceğiz",
+      "entry_id": "134156592",
+      "author": "bill guest",
+      "date": "24.02.2022 14:19",
+      "content": "banka önlerine koşup marketleri yağmalayan vatandaşlara bakıldığında fazla iyimser bir açıklama.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CRIME",
+        "ECON"
+      ]
+    }
+  ]
+}

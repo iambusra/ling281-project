@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T15:58:04.422826",
+    "total_entries": 1,
+    "input": "boş evler rayiç bedelden suriyelilere kiralansın",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "boş evler rayiç bedelden suriyelilere kiralansın",
+      "entry_id": "138264490",
+      "author": "pottirik",
+      "date": "03.06.2022 01:53 ~ 01:56",
+      "content": "boş duran atıl durumdaki evler, suriyelilere kiralanmalıdır. evet devletimiz üzerine düşeni yaptı. suriyelileri ülkemize doldurdu öhöm onlara kucak açtı. şimdi ensar olarak bizlere düşen bu muhacir kardeşlere boş evleri açmaktır. sonuçta belediyenin belirlediği rayiç ev bedelinin 240ta 1i fiyata bu evler kiralanabilir. arz ederim.",
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "POLICY",
+        "HUMAN-POS"
+      ]
+    }
+  ]
+}

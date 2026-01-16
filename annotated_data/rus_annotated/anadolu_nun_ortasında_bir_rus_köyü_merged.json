@@ -1,0 +1,112 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:22:54.379842",
+    "total_entries": 8,
+    "input": "anadolu'nun ortasında bir rus köyü",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "anadolu'nun ortasında bir rus köyü",
+      "entry_id": "117670215",
+      "author": "stayoutofmyway",
+      "date": "02.01.2021 12:36 ~ 12:38",
+      "content": "yıllar sonra \"neden slav ırkı bu kadar güzel\" sorusunun cevabını içinde barındıran güzel başlık,\n\n\"kazaklar evlilik için 7 göbek akrabalık bağı bulunmaması kuralına sahiptirler.\"\n\ngenetik çeşitlilik tabiki.\n\nakraba evliliği vs 7 göbek akrabasızlık. sonuçlar ortada.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "CULTURE",
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "anadolu'nun ortasında bir rus köyü",
+      "entry_id": "117670305",
+      "author": "anarkoholding",
+      "date": "02.01.2021 12:38",
+      "content": "google'dan bakinca sokak düzenlemesi bile türk olmadigini gösteriyor. yanindaki diger köylerle karsilastirinca hemen göze batiyor.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "anadolu'nun ortasında bir rus köyü",
+      "entry_id": "117670311",
+      "author": "rivian",
+      "date": "02.01.2021 12:38 ~ 12:41",
+      "content": "çoklu kültürel yapının öldüğünü görmek üzücü.\nyakın tarihteki osmanlı izlerini gösteren güzel bir başlık.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "anadolu'nun ortasında bir rus köyü",
+      "entry_id": "117671607",
+      "author": "oguzkhagan",
+      "date": "02.01.2021 13:14 ~ 13:18",
+      "content": "benzer bir örnek için erciş'te bulunan (bkz: ulupamir) adlı kırgız köyü.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "anadolu'nun ortasında bir rus köyü",
+      "entry_id": "117671877",
+      "author": "inspectorgadget",
+      "date": "02.01.2021 13:22",
+      "content": "benzer bir ornek icin istanbul'da bulunan polonezkoy .",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "anadolu'nun ortasında bir rus köyü",
+      "entry_id": "117672070",
+      "author": "isminivermekistemeyenbiryazar",
+      "date": "02.01.2021 13:27 ~ 13:28",
+      "content": "kazak derken bahsedilmek istenen bugünkü kazakistan topraklarında yaşayan türk halkarından birisi değil. slav olan cossack'lardır.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "anadolu'nun ortasında bir rus köyü",
+      "entry_id": "119991322",
+      "author": "lesh meat",
+      "date": "24.02.2021 20:25",
+      "content": "şaşırtan rus köyüdür. slav yani rus kozakları, genç osman döneminde, istanbul'da ve karadeniz'de yağma yapmıştır. hatta geçen osman bu slav kozaklarını, ok atışı için denemeye sokarmış. yeniçerilerden bile bunun için tepki almış. bu don kozakları, rusların orta asyada ilerlemesinde çok katkı göstermiştir. en az türkler kadar iyi savaşçıdırlar. zaten büyük ihtimalle slav-türk karışımı bir topluluktur. zaporijya kozakları, türk kanı taşıdıklarını söylemişlerdir. çok iyi at binerlermiş, kılıçta da ustalarmış. süvarilerine haidamaks, liderlerine de ataman derlermiş. kars'ta yaşayan almanlar da vardır. karslı bir alman abimiz, iş bulamadığından da yakınıyordu. türkçeyi çok iyi konuşuyordu ve çalışkan birine benziyordu. ah anadolu sen nasıl bir yersin. her milleti içine çekebiliyorsun..",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "CULTURE",
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "anadolu'nun ortasında bir rus köyü",
+      "entry_id": "174984186",
+      "author": "sarayasigi",
+      "date": "02.05.2025 02:02 ~ 10:41",
+      "content": "aralov’un 1922 tarihli anılarında, don kazaklarının civardaki müslüman köylerin halkı ve göçerler tarafından taciz ve zorbalığa maruz kaldıkları anlatılır. padişah döneminde ise ellerindeki malların savaşlar bahanesiyle alındığından, civar halkın da tarlalarına el koyduğundan şikayet ederler. mahkemeye başvurduklarında ise devletin müslüman ahaliyi kayırdığını ifade ederler. bu nedenle aralov’a, sscb’ye dönme imkânları olup olmadığını sorarlar; hatta sonrasında bu konuda resmi başvuruda da bulunurlar. bu yüzden kimse çıkıp da “kadim misafirperver anadolu” masalları anlatmasın.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE",
+        "HUMAN"
+      ]
+    }
+  ]
+}

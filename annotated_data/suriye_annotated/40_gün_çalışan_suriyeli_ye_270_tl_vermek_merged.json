@@ -1,0 +1,408 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:16:59.783619",
+    "total_entries": 28,
+    "input": "40 gün çalışan suriyeli'ye 270 tl vermek",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "40 gün çalışan suriyeli'ye 270 tl vermek",
+      "entry_id": "37642694",
+      "author": "confession",
+      "date": "15.10.2013 15:22",
+      "content": "(bkz: rte)\n\nbaşka bir suçlu aramayın.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "40 gün çalışan suriyeli'ye 270 tl vermek",
+      "entry_id": "37642985",
+      "author": "confession",
+      "date": "15.10.2013 15:41",
+      "content": "(bkz: suriyeli mülteciler vs türk halkı/#37642973)",
+      "referenced_content": [
+        {
+          "type": "entry",
+          "title": "suriyeli-multeciler-vs-turk-halki",
+          "entry_id": "37642973",
+          "author": "confession",
+          "date": "15.10.2013 15:40",
+          "content": "hepsi insandır.\n\nama rte için suriyeli mülteciler daha önemlidir, çünkü yaptığı yardımlar oy olarak geri dönecektir.\n\ntürk vatandaşları için aynısını söyleyemiyor artık.\n\nikisini kıyaslarken insanlıktan çıkmayın, burada oluşlarının da, türk vatandaşlarından daha çok hakları olmasının da tek sorumlusu rte'dir.",
+          "has_external_url": false
+        }
+      ],
+      "referenced_entry_ids": [
+        "37642973"
+      ],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "40 gün çalışan suriyeli'ye 270 tl vermek",
+      "entry_id": "37643207",
+      "author": "guneste demlerim senin cayini",
+      "date": "15.10.2013 15:56",
+      "content": "türkiye vatandaşlarına yapılan haksızlıklar ile temize çıkarılamayacak durumdur.\n\nhükümetin politikaları insanların birbirlerine olan inanclarini sarsar hale geldi. polyanna'cilik oynamamalı elbette ama bu durumun yarattığı kutuplaşma ve nefrete eyvallah dememeliyiz. cogunlugun gücü vicdanın önune geçmesin.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "40 gün çalışan suriyeli'ye 270 tl vermek",
+      "entry_id": "37643523",
+      "author": "kartacali makedo",
+      "date": "15.10.2013 16:13",
+      "content": "ancak faşistler tarafından savunulabilecek bir insanlık ayıbıdır. savaştan kaçan adamı sikmeye çalışmaktır.\n\nayrıca o faşistlere sözüm; inşallah sizle gezi parkında yanlışlıkla aynı safta olmamışızdır, sizde vicdan kavramı kalmamış zira.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "40 gün çalışan suriyeli'ye 270 tl vermek",
+      "entry_id": "37643549",
+      "author": "cemberigordum",
+      "date": "15.10.2013 16:15",
+      "content": "olayı götünden anlayan,hepsini nüfusumuza aldırmamız gerektiğini söyleyerek taşak geçmeye çalışan bazı sikikleri ortaya çıkaran eylemdir.oraya gelmek de o adamın seçimi değildi orada insanlık dışı koşullarda yaşamak da.ha onların buraya gelmesi de bizim elimizde değil.\nama bunu suistimal etmek bizim elimizde.sen zaten o adamın sigortasını yatırmıyosun zaten böyle birşey mümkün değil e peki sevgili müslüman dost neden ona hakkı olan paranın 4'te birini veriyosun.o cebine giren ekstra para senin inancına göre yasak olmuyo mu?",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "40 gün çalışan suriyeli'ye 270 tl vermek",
+      "entry_id": "37643551",
+      "author": "bir fincan kahve ile film izlemek",
+      "date": "15.10.2013 16:15",
+      "content": "emeğin karşılığını vermemek, köle muamelesi yapmaktır, net. her ne olursa olsun, bunun bahanesi, aması olamaz, olmamalı.\nmadem böyle köpek gibi muamele edecektin, hiç almasaydın ülkeye daha iyiydi.\nbir insanın çaresizliğinden faydalanmak haysiyetsizlik örneğidir. hangi ırktan, hangi ülkeden olursa olsun. bu haksızlığın geçerli sebebi, ülkesi olamaz.\n\nçok bile diyen, türk vatandaşlarına yapılan haksızları öne sürerek haklı çıkarmaya çalışanlara ise söyleyecek sözüm yok, ne desem boş.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN",
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "40 gün çalışan suriyeli'ye 270 tl vermek",
+      "entry_id": "37643620",
+      "author": "asla vazgecme israr et",
+      "date": "15.10.2013 16:20",
+      "content": "burası babasının memleketi olmadığı için çoktur bile",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "40 gün çalışan suriyeli'ye 270 tl vermek",
+      "entry_id": "37643928",
+      "author": "heryeregeckalankiz",
+      "date": "15.10.2013 16:42",
+      "content": "ülkede açılan sığınma kamplarında türk bayrağını yakan suriyeliler ile otobüs duraklarında sefil bir halde soğukta yaşayan suriyeliler benim gözümde farklıdır. eminim bir çok insanda bu şekilde düşünüyordur. savaşı çıkaran da barışı yapan da siyasiler oluyor ama ne yazık ki cefasını halk çekiyor sefası başkalarına kalıyor.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "40 gün çalışan suriyeli'ye 270 tl vermek",
+      "entry_id": "37644992",
+      "author": "aklagel",
+      "date": "15.10.2013 17:56 ~ 18:00",
+      "content": "bu insanların \" işçi \" olduklarına kanaat etmişiz, iş pazarlığa mı kaldı (bkz: george bernard shaw)?\n\n(bkz: emek)\n\nuğruna birçok bireysel hakkımızdan feragat ettiğimiz bu devlet, bu insanları sınırlarımıza (hem de osmanlı'nın çerkesler'i imparatorluğa dağıtması gibi, anadolu'ya gönderildiler) ve kaynaklarımıza dahil etme kararını, bu halka sormadan almış olabilir.. öyle gerekmiştir, bu sefer \" halka sormak \" gerekmemiştir. hadi kabul..\n\nama bu devlet, bu insanların sıfatlarını (hukuki, toplumsal ve insani olarak tatmin edici bir şekilde) bizlere açıkça belirtebilmelidir. \"şöyle adlandırılacaklar\" (bkz: akp değil ak parti), \"şurada yaşayacaklar\" (bkz: yol değil orman istiyoruz diyenler ormanda yaşasın), \"şöyle geçinecekler\" (bkz: makarna kömür) ve benzeri gibi ifadeler devlet adına hükümet tarafından ortaya konmalıdır.\n\nmülteci ise mülteciler; yerleri, yurtları, yaşam standartları, ekonomiye maliyetleri, çocuklarının eğitimleri, hak ları, yasak ları bilinsin, hesaplansın, planlansın. bu topluma böyle bir maliyet çıkartılıyor da, toplum kabul mu etmiyor?\n\nama yok, illa sağdan sola, soldan sağa savrulacak bu insanlar. eziyet çekecekler..\noyuncak edilecekler..\nalet edevat edilecekler..",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "ECON",
+        "POLICY",
+        "XENO"
+      ]
+    },
+    {
+      "title": "40 gün çalışan suriyeli'ye 270 tl vermek",
+      "entry_id": "37645029",
+      "author": "frankiegoestohollywood",
+      "date": "15.10.2013 17:59 ~ 16.10.2013 11:52",
+      "content": "mukayese için (bkz: 365 gün yatan suriyelilere 2 milyar dolar vermek)\n\n.\n\nek / not. suriyelilerin bu sefaleti akla bazı kıllandırıcı soruları da getirmiyor değil aslında. memleket sathına yaydırılan suriyeliler aç geziyorsa, övünçle her yerde sözünü ettikleri o 2 milyar dolares nerelere gitti? necmettin hoca'nın bosna'ya yapılan yardımlarda kullandığı kara delik teknolojisi bu kez suriyelilerin üzerinde mi tecrübe ediliyor?\n\n.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY",
+        "ECON"
+      ]
+    },
+    {
+      "title": "40 gün çalışan suriyeli'ye 270 tl vermek",
+      "entry_id": "37645085",
+      "author": "bitanisanseversin",
+      "date": "15.10.2013 18:02 ~ 18:03",
+      "content": "hata yapan suriyelidir.\nzira çalışmasa devlet baba kendisine çok daha fazlasını verebilir.\nkömür, makarna, ilaç, kimlik cabası.\n\nne de olsa 1 oy 1 oy.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "ECON"
+      ]
+    },
+    {
+      "title": "40 gün çalışan suriyeli'ye 270 tl vermek",
+      "entry_id": "37645173",
+      "author": "occassion",
+      "date": "15.10.2013 18:07",
+      "content": "(bkz: insan insanın kurdudur)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "40 gün çalışan suriyeli'ye 270 tl vermek",
+      "entry_id": "37645199",
+      "author": "sosyalbocuk",
+      "date": "15.10.2013 18:09",
+      "content": "gerçekten acımasızlık, lakin suriye vatandaşlarını türkiye'ye getiren zihniyetin bütün suç.sen önce ülkendeki gençlere istihdam sağla, onların yaşam standardını arttır, daha sonra sağa sola yardım et.ayrıca kıl olduğum olay şu, senin ülken yol geçen hanı mı? bu kadar kolay mı türkiye'ye girip yerleşmek? yahu sen maden yardım edeceksin kafaya koydun bunu sınıra yakın yerlere kamplar kur orada tut bu insanları ülkesinde savaş bitince geri gönder. savaş bitince sanıyor musun bu insanlar geri dönecek o çöle? hiç sanmam bu ülkeye yazık gerçekten yazık.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "POLICY",
+        "ECON"
+      ]
+    },
+    {
+      "title": "40 gün çalışan suriyeli'ye 270 tl vermek",
+      "entry_id": "37645250",
+      "author": "utopian",
+      "date": "15.10.2013 18:12 ~ 18:13",
+      "content": "adilik şerefsizliktir. aynı şekilde ayda 22 gün, günde 8 saat çalışan türkiyeliye de insanlık onuruna yakışmayan ücret vermek de adiliktir.\n\nama dikkatimi çeken, yazmazsam çatlarım bir şey var. bu ulusalcılar kafayı sıyırmış yahu. yılmaz özdil bu işin bir göstergesi ise, diğeri bu başlıkta yazılanlardır. 270 tl'ye işçi çalıştırılıyor, ortada haksızlık var, haksızlığın sebebi akp, haksızlığı ortaya çıkartan da suriye'de akp'nin kaşıdığı iç savaş, ama bizim salak ulusalcı kalkıp suriyeli sömürülen vatandaşa düşman oluyor.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "ECON",
+        "XENO"
+      ]
+    },
+    {
+      "title": "40 gün çalışan suriyeli'ye 270 tl vermek",
+      "entry_id": "37656980",
+      "author": "aradeth",
+      "date": "16.10.2013 04:21",
+      "content": "insanlik ayibidir",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "40 gün çalışan suriyeli'ye 270 tl vermek",
+      "entry_id": "37657189",
+      "author": "anafor",
+      "date": "16.10.2013 05:16",
+      "content": "afedersiniz öküz oğlu öküzlüktür ama, ülkemin muhafazakar seçmeni bunu malesef yapıyor.\n\nkontrol eden, denetleyen falan yok. ucuz işçi, çalıştır...\n\nbu ülkenin asgari ücreti belli ama ipleyen mi var? yok tabi ki... yapanın da, yaptıranın da götüne koyayım.\n\nanasını siktiğimin düzeni...",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "ECON",
+        "XENO"
+      ]
+    },
+    {
+      "title": "40 gün çalışan suriyeli'ye 270 tl vermek",
+      "entry_id": "37659594",
+      "author": "lemma",
+      "date": "16.10.2013 12:20 ~ 12:33",
+      "content": "bir isciyi tam zamanli calistirip nerede calisiyorsa orada insanca yasamasi icin gerekenden cok daha az para vermek ahlaksizliktir. bunun yaninda surdurulebilir degildir ve oradaki sosyal duzeni orta ve uzun vadede cok kotu etkiler.\n\nancak bir dusunun bu insanlar neden turkiyede calismak zorunda kaldi. neden biz bu insanlari topragimiza almak zorunda birakildik. bu iste uc bes aya esadi devirir suriyeyi yikip yeniden yapariz para kazaniriz diyen cok bilmis savas cigirtkanlarinin hic sucu yok mu?\n\ndunyanin bir cok yerinde savas ve yikim var. bizim de ısvicre de yasadigimiz soylenemez. butun sikintili gocmenleri ulkemizde neden toplamiyoruz?kendi vatandaslarimiz ne kadar insanca yasayabiliyor? yoksa iyi(!) giden ekonomimiz icin gerekli ucuz is gucu artik kurtler yerine memleketlerinin icine el birligiyle ettigimiz suriyeli gocmenler mi olacak?",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "ECON",
+        "POLICY",
+        "XENO"
+      ]
+    },
+    {
+      "title": "40 gün çalışan suriyeli'ye 270 tl vermek",
+      "entry_id": "37659867",
+      "author": "loserrrr",
+      "date": "16.10.2013 12:35",
+      "content": "müslüman hükumetle yönetilen ehl-i müslim halkımın kul hakkı yememek konusundaki hassasiyetinin tezahürüdür...",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "40 gün çalışan suriyeli'ye 270 tl vermek",
+      "entry_id": "37660097",
+      "author": "1971 2007",
+      "date": "16.10.2013 12:49",
+      "content": "savaşların acısını emekçilerin çektiğini gösteren eylemlerden biridir. \"kazancın onda dokuzu ticarettendir\" diyen bir dinin, savaş mağdurlarının emeğini sömürmeyeceğini mi sandınız?",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "40 gün çalışan suriyeli'ye 270 tl vermek",
+      "entry_id": "37660112",
+      "author": "rhan",
+      "date": "16.10.2013 12:50",
+      "content": "(bkz: gözlerin görmediği halde sana iş vermişiz)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "40 gün çalışan suriyeli'ye 270 tl vermek",
+      "entry_id": "37660128",
+      "author": "kakariku",
+      "date": "16.10.2013 12:52",
+      "content": "(bkz: abdestli kapitalizm)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "40 gün çalışan suriyeli'ye 270 tl vermek",
+      "entry_id": "37944440",
+      "author": "rusen ali",
+      "date": "29.10.2013 11:01",
+      "content": "(bkz: kaçak çalışan suriyelileri ihbar etmek)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "POLICY",
+        "ECON"
+      ]
+    },
+    {
+      "title": "40 gün çalışan suriyeli'ye 270 tl vermek",
+      "entry_id": "37944463",
+      "author": "bigmount",
+      "date": "29.10.2013 11:02",
+      "content": "(bkz: türkiye'de ölü sikicinin çok olması)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "40 gün çalışan suriyeli'ye 270 tl vermek",
+      "entry_id": "41851345",
+      "author": "ogenki",
+      "date": "08.04.2014 13:17",
+      "content": "plansız büyüme ve plansız büyüklük taslamanın sıradan sonucudur.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "40 gün çalışan suriyeli'ye 270 tl vermek",
+      "entry_id": "41851507",
+      "author": "hepiorl",
+      "date": "08.04.2014 13:25",
+      "content": "hakkaniyetli degil ancak gunumuz turkiye'sinde normal sayilabilecek bir davranistir.\n\nanlamadigim konu ise bu insanlari buraya getiren iktidar partisi,\nbu insanlarin istanbul dahil tum kentlerde ac, susuz, kose baslarinda dilenmesine nasil seyirci\nkaliyor ve hala piskin piskin cikip turk insaninin karsisina bilmem kac yuz bin suriyeli'yi\nmemlekete getirdik diyebiliyor, enteresan.\n\nhayir her kose basinda bu insanlari goren, insanlarin bu kotu durumlarina sahit olan halk\nbunu nasil destekliyor o daha tuhaf.\n\ngectigimiz gunlerde bir teyzenin etegine yapismis suriyeli bir kadina ak parti secim burosunu gostererek,\n\n- git onlardan iste, ben ne verebilirim\n\ngibisinden birseyler soyledigini gordum istanbul, yenisahra civarinda.\n\nkadin bu arada zaten gun icinde defalarca ak parti secim burosuna\ntayyip erdogan diye diye girmeye calismis, her defasinda kovulmustu.\nbizim isyerinin patronlari alt katta sicak bir cay ocagi yapip bu insanlari en azindan gun icerisinde\nmisafir ediyorlar simdilik.\n\nbu insanlar ile ilgili atilan hicbir adimin olmamasi ilginc.\nmemleketin dort bir yanina dagilmis durumdalar, olasi bir geri donus icin nasil toparlanacaklar? imkansiz.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "POLICY",
+        "ECON"
+      ]
+    },
+    {
+      "title": "40 gün çalışan suriyeli'ye 270 tl vermek",
+      "entry_id": "41851828",
+      "author": "arzkara",
+      "date": "08.04.2014 13:37",
+      "content": "suriye savasinin şakşakçilarinin boşuna hevesli olmadıklarını gösteren durum.\n\nucuz işgücü iştah kabartir. yerli işgücü daha düşük ucrete mahkum edilir ya da işsiz kalır. geniş yiginlarda yabancı dusmanligi başlar vs. vs. bir de bakmisiz cihat saksakcilari suriyeli düşmanı olmuş. zamanında bulgaristan gocmenlerine de aynı şey oldu. bulgaristanli soydaş oldu bulgar yavuru.\n(bkz: savaş ekonomisi)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "ECON"
+      ]
+    },
+    {
+      "title": "40 gün çalışan suriyeli'ye 270 tl vermek",
+      "entry_id": "41852369",
+      "author": "babaeren",
+      "date": "08.04.2014 13:57",
+      "content": "''dünyanın bütün işçileri birleşin, zincirlerinizden başka kaybedecek şeyiniz yok ama kazanacağınız koca bir dünya var.'' sözünü akıllara getiren hakikat.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "40 gün çalışan suriyeli'ye 270 tl vermek",
+      "entry_id": "43896303",
+      "author": "amcam",
+      "date": "02.07.2014 09:48",
+      "content": "tekdir ile uslanmayanın hakkı kötektir. bizim insanımıza müstehak olan hakettigimiz paraların giden kısmıdır. 270 tl",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "ECON",
+        "POLICY"
+      ]
+    }
+  ]
+}

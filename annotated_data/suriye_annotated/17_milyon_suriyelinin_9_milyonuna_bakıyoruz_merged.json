@@ -1,0 +1,37 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T16:57:43.791952",
+    "total_entries": 2,
+    "input": "17 milyon suriyelinin 9 milyonuna bakıyoruz",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "17 milyon suriyelinin 9 milyonuna bakıyoruz",
+      "entry_id": "141095880",
+      "author": "don diablo",
+      "date": "09.08.2022 19:51",
+      "content": "evet, suriye'nin toplam nüfusu 17 milyon. yani yarısından fazlasına biz bakıyoruz. bu yazıyı sadece okuma kardeşim, anla ve hisset. verdiğin her bir kuruş vergiyi hisset.\n\nbuna sebep olanlar, siz nasıl kalkacaksınız bu vebalin altından. amacınız nedir? neye hizmet etmektesiniz?\n\nüstelik bugün gördük ki, toki'nin düşük gelirliler ve şehit yakınları için yaptığı konutlardan dahi, suriyeliler faydalanmış. çekilen kuralardan yabancı isimler çıkmış. bunu nasıl yaparsınız? bu ülkede, çocuklarını ısıtacak imkanı bulamadığı için ellerine saç kurutma makinesi verip, yan odada intihar eden anne yok mu? yok muydu abi? yaşamadık mı biz bunu?\n\nlink\n\n(bkz: toki kayabaşı kurasından suriyelilerin çıkması)\n\npeşin edit: ırkçı mırkçı diye denyo denyo yazacaklara sesleniyorum. hiç boşa yorulmayın, alın evinize bir suriyeli, g.tünüzü görelim.",
+      "has_external_url": true,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "17 milyon suriyelinin 9 milyonuna bakıyoruz",
+      "entry_id": "141095986",
+      "author": "onbasi86",
+      "date": "09.08.2022 19:55",
+      "content": "lan %51 in üstünde bu oran. o zaman direk toprakları ile katılsınlar orda bakalım bari",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    }
+  ]
+}

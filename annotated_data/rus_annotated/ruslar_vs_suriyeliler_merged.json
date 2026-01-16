@@ -1,0 +1,26 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:26:59.670079",
+    "total_entries": 1,
+    "input": "ruslar vs suriyeliler",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ruslar vs suriyeliler",
+      "entry_id": "143003377",
+      "author": "severimnikini",
+      "date": "22.09.2022 13:21 ~ 13:23",
+      "content": "biraz konudan bağımsız olacak ama bana ne rus'undan suriyelisinden biz neden alıyoruz her geleni ya böyle devlet mi olur? ben neden vergi veriyorum ki bu devlete sınırdan her gireni alsın diye mi? sınır niye var la? yok arkadaş devlet fiiliyatta bittiyse haber edin de vergi vermeyelim. bu alemin kerizi biz miyiz? millette de tepki yok. halk resmen npc gibi takılıyor.\n\nedit: arada bir gelen kriz sebebiyle oldu kusura bakmayın!",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "XENO",
+        "HATE",
+        "POLICY"
+      ]
+    }
+  ]
+}

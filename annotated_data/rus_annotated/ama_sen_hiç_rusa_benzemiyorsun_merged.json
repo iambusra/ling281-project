@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:25:25.547698",
+    "total_entries": 1,
+    "input": "ama sen hiç rusa benzemiyorsun",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ama sen hiç rusa benzemiyorsun",
+      "entry_id": "31681992",
+      "author": "manueldimas",
+      "date": "10.01.2013 20:51",
+      "content": "bunu bir rus kizina soyledim gecen. saatlerce aglamis. ulkesine gidince arkadaslarina da hava atamamis, onu cirkin sandigimi dusundu.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    }
+  ]
+}

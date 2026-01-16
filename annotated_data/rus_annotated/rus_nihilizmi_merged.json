@@ -1,0 +1,48 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:23:32.947389",
+    "total_entries": 3,
+    "input": "rus nihilizmi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rus nihilizmi",
+      "entry_id": "155292550",
+      "author": "prez",
+      "date": "04.08.2023 21:49 ~ 21:49",
+      "content": "bence en güzel düşünce tarzı\nbu aralar benim kafa yapım\n(bkz: rus nihilizmi)",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "rus nihilizmi",
+      "entry_id": "174639521",
+      "author": "twist",
+      "date": "18.04.2025 15:57",
+      "content": "alman nihilizmi felsefe yapar. sabah kalkar, duş alır, 3 sayfa hegel okur, sonra evrenin anlamsızlığına üzülür ama kravatını da düzgün takar. nietzsche gelir, tanrı öldü der; ama cesedi mumyalayıp sergiler. trajediyle flört eder alman nihilizmi, hatta bazen tango yapar.\n\nrus nihilizmi ise sabah uyanmaz. çünkü zaten dün gece intihar etmeyi düşündü, bugün yaşamak istemiyor. eğer yaşıyorsa da, ya lermontov’un şiirini ezberliyordur ya da kendini pencereden atmayı ertelemiştir. almanlar anlamı yitirir; ruslar, hiç bulamamıştır. alman nihilist, tanrı’yı inkar eder; rus nihilist, tanrı’ya bağırır: siktir git! ama sonra o yokluğun içindeki boşluğu, yine tanrı’yla doldurmaya çalışır.\n\nalman nihilizmi, sistematik . rus nihilizmi, duygusal . biri manifestodur, diğeri intihar mektubu.\n\nrus nihilizmi, kederle göbek atan bir evsizdir.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "rus nihilizmi",
+      "entry_id": "174639681",
+      "author": "feminiki",
+      "date": "18.04.2025 16:05",
+      "content": "rus nihilizminin ortaya çıkışında coğrafi koşulların etkisi oldukça büyüktür. coğrafya kaderdir sözünü hatırlayalım. rus coğrafyasının uçsuz bucaksız, sert ve kasvetli doğası nihilizmin temelini oluşturur. rus steplerinin, uzun kışlarının ve izole köy yaşamının, bireylerde bir tür varoluşsal boşluk ve sorgulama duygusu yaratmış olması muhtemel. çarlık rejiminin baskıcı yapısı, sovyet rejimi, uzun yıllar boyunca kıtlığın hakim oluşu gibi siyasi durumlar da bu nihilizmi epey güçlendirdi. ruslar zaten ya hep ya hiç lafının vücut bulmuş hali. bir şeyi ya diplerde yaşarlar ya da tepede.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    }
+  ]
+}

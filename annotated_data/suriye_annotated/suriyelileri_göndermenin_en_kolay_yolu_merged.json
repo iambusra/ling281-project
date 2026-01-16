@@ -1,0 +1,227 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:01:11.521259",
+    "total_entries": 17,
+    "input": "suriyelileri göndermenin en kolay yolu",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelileri göndermenin en kolay yolu",
+      "entry_id": "93136274",
+      "author": "syntax terror",
+      "date": "27.07.2019 10:44",
+      "content": "yunanistan veya rusya’yla savaşa girmek.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyelileri göndermenin en kolay yolu",
+      "entry_id": "93136449",
+      "author": "a for axi",
+      "date": "27.07.2019 10:51",
+      "content": "(bkz: arpayı kesmek)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyelileri göndermenin en kolay yolu",
+      "entry_id": "93136574",
+      "author": "wolvistanbul",
+      "date": "27.07.2019 10:55",
+      "content": "görüldüğü yerde toplanacak ve suriyeli ihbarında bulunan halka ödül verilecek.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "suriyelileri göndermenin en kolay yolu",
+      "entry_id": "93136619",
+      "author": "memedt",
+      "date": "27.07.2019 10:57",
+      "content": "savaşalım diye haber yayarız kaçarlar.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "CRIME"
+      ]
+    },
+    {
+      "title": "suriyelileri göndermenin en kolay yolu",
+      "entry_id": "93136669",
+      "author": "rising star of anatolia",
+      "date": "27.07.2019 10:59 ~ 14:28",
+      "content": "seçimde, bizim paramızla suriyelilere ensar ensar bakacağımızı değil de onları göndereceğini vaad eden partiye, lidere ve ittifaka oy vererek o ittifakı başa getirmektir.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelileri göndermenin en kolay yolu",
+      "entry_id": "93136721",
+      "author": "vesto",
+      "date": "27.07.2019 11:00",
+      "content": "suriyeli erkeklere türk vatandaşlığı verip askere gondericez zorunlu 2 sene yapacaklar. görev yeri de suriye olacak.kendi memleketlerini zorla da korusunlar",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelileri göndermenin en kolay yolu",
+      "entry_id": "93137146",
+      "author": "odininlaneti",
+      "date": "27.07.2019 11:16",
+      "content": "tonla polis işe aldın tonla bekçi işe aldın işleri ne gezsinler gece gündüz şehirlerde, toplu taşıma araçlarında akşama kadar turlasınlar yakaladıklarını götürsünler",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "CRIME"
+      ]
+    },
+    {
+      "title": "suriyelileri göndermenin en kolay yolu",
+      "entry_id": "93137358",
+      "author": "birzamanlarben",
+      "date": "27.07.2019 11:23",
+      "content": "bayramlarda gittiklerinde ülkeye yeniden almamaktan geçer diye düşünüyorum.\n\ndaha kolay yol tahayyül edemiyorum.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelileri göndermenin en kolay yolu",
+      "entry_id": "93137388",
+      "author": "moscowrus",
+      "date": "27.07.2019 11:23",
+      "content": "avrupa sınır kapıları açmak",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelileri göndermenin en kolay yolu",
+      "entry_id": "93137580",
+      "author": "lord malvo",
+      "date": "27.07.2019 11:30",
+      "content": "avrupaya acılan sınır kapılarının açılması,\n\n1 daha iyi sartlarda yaşasınlar\n2 avrupalılara birşey borçlu değiliz geri kabul anlaşmasının iptal edilmesi lazım",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelileri göndermenin en kolay yolu",
+      "entry_id": "93137613",
+      "author": "fidelcaystro",
+      "date": "27.07.2019 11:31",
+      "content": "vergi yükü bindirmek.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "ECON",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelileri göndermenin en kolay yolu",
+      "entry_id": "93137757",
+      "author": "jolteon",
+      "date": "27.07.2019 11:37",
+      "content": "suriyeye dev nargile kafeler açarak tabi ki.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyelileri göndermenin en kolay yolu",
+      "entry_id": "93140856",
+      "author": "pscl21",
+      "date": "27.07.2019 13:13",
+      "content": "sinira guvenlikli bolge ve multeci kamplari kurmaktir. sonrasinda devletin maddi yardimi kesmesiyle kosa kosa kamplara gideceklerdir.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelileri göndermenin en kolay yolu",
+      "entry_id": "93142317",
+      "author": "reelcord",
+      "date": "27.07.2019 13:58",
+      "content": "burada savaş var ülkemiz için siz de savaşacaksınız demektir. sonra bir bakmışsın onlar yokmuş.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "CRIME"
+      ]
+    },
+    {
+      "title": "suriyelileri göndermenin en kolay yolu",
+      "entry_id": "93155783",
+      "author": "destyliev",
+      "date": "27.07.2019 20:56",
+      "content": "savaşa girmek.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyelileri göndermenin en kolay yolu",
+      "entry_id": "93166839",
+      "author": "qudurix",
+      "date": "28.07.2019 01:27 ~ 01:27",
+      "content": "çare kaba kuvvet ve dayatmadan geçiyor kardeşlerim.\nson 20 yil icerisinde turk vatandasligina gecmis olanlari vatandasliktan silmek.\n1 ay terk etme süresi konup süre dolduktan sonra da hala kaçak olarak kalanlar varsa tespit edilip edildigi yerde tutuklanıp paketlenmeli başka çare yok.\n\nbunlar yapılmazsa halkımız devlet falan dinlemeyip soykırıma başlayacak benden söylemesi.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "CRIME"
+      ]
+    },
+    {
+      "title": "suriyelileri göndermenin en kolay yolu",
+      "entry_id": "149444888",
+      "author": "sefik kedi",
+      "date": "18.02.2023 07:01",
+      "content": "geldikleri gibi giderler, yeter ki birileri istesin.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    }
+  ]
+}

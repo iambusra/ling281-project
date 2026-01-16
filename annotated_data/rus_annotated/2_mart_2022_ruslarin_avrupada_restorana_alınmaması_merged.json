@@ -1,0 +1,123 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:33:28.894504",
+    "total_entries": 9,
+    "input": "2 mart 2022 ruslarin avrupada restorana alınmaması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "2 mart 2022 ruslarin avrupada restorana alınmaması",
+      "entry_id": "134411604",
+      "author": "optic us",
+      "date": "02.03.2022 15:02",
+      "content": "komşu ülkesindeki masum insanlar üzerine bomba yağdırılırken, bu zulme tepki göstermeyen rusların restoranlara alınmamasını desteklediğim durumdur.\nsessiz kalmak da bir nevi onaylamaktır.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "2 mart 2022 ruslarin avrupada restorana alınmaması",
+      "entry_id": "134411611",
+      "author": "aramuhalefet",
+      "date": "02.03.2022 15:02",
+      "content": "dun aksam almanya'da yasayan bir rus arkadasimla konustum, ukrayna'da olanlardan bayagi keyfi kacikti. kendisi tanidigim en kulturlu kadindir ve putin'den nefret eder. putin ile bu kadinin ayni kefede degerlendirilmesi kadar fasist bir sey olamaz.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "2 mart 2022 ruslarin avrupada restorana alınmaması",
+      "entry_id": "134411839",
+      "author": "basarimtekmeyi",
+      "date": "02.03.2022 15:08",
+      "content": "ve bundan amarigan teknolojisini kullanarak haberimiz oldu.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "2 mart 2022 ruslarin avrupada restorana alınmaması",
+      "entry_id": "134411851",
+      "author": "vaneli",
+      "date": "02.03.2022 15:09",
+      "content": "hitler'in elinden kurtuldukların da, ruslarla resim çekiliyordu babaları dedeleri. büyük abileri abd' ye fazla yaslanmasınlar rüzgara göre yön alır o.\n\nçin görünen bu küresel ırkçılıkla belli sinyalleri almıştır abd' den yana. bugün rusya'ya olanlar yarın çin'e ve belkide bize olması muhtemel. tek kutuplu dünyaya ve savaşa hayır!",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "2 mart 2022 ruslarin avrupada restorana alınmaması",
+      "entry_id": "134411869",
+      "author": "pagan papagan",
+      "date": "02.03.2022 15:09",
+      "content": "rusya bütün bu yaptırımları hakkediyor. gerekirse fazlasını da hakediyor ama rusyadan çok daha fazlasını çok daha vahşice yapan batı için tek kelime edilmedi. bu ikiyüzlülüğün ta amına koyayım. ırakta afganistanda suriyede tahminen kaç milyon öldürmüştür lan bu katil batı? eskileri saymıyorum haaa. hiç abdli ya da fransızın restorana alınmadığını ve buna oh olsun dendiğini gördünüz mü? iğdiş edilmişsiniz amk.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "2 mart 2022 ruslarin avrupada restorana alınmaması",
+      "entry_id": "134411970",
+      "author": "issox",
+      "date": "02.03.2022 15:12",
+      "content": "doğru değildir ama gereklidir.\n\ndiplomatik ve hukuka uygun şekilde çözülmüyor ise gerek ülke, gerek ülke vatandaşları üzerinden yaptırımlar ve kısıtlamalar ile yapılan yanlışın boyutunun farkında olması sağlanmalıdır.\n\nmaruz kalmak istemem, zor bir durum ama oturduğu evine ne zaman bomba isabet edecek diye düşünmek yerine, acaba hangi restorana giremeyeceğim düşüncesi çok da sikimde değil.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "2 mart 2022 ruslarin avrupada restorana alınmaması",
+      "entry_id": "154006254",
+      "author": "uc kiloluk sol tassak",
+      "date": "29.06.2023 09:44",
+      "content": "şehir şehir gezdiğim avrupa'da hiç karşılaşmadığım durumdur. ne yapacaklar restoran girişinde? adam rus diye mi kontrol edecekler? rusça ile ukraynaca'nın farkını bilen var mı mesela avrupa'da? haydi anladın adamın rus olduğunu, kapıda soracak mısın işgali destekliyor musun diye?",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "2 mart 2022 ruslarin avrupada restorana alınmaması",
+      "entry_id": "154010236",
+      "author": "nissanalmera",
+      "date": "29.06.2023 12:44",
+      "content": "kktc nin amerika ve avrupa ile bir hareket edip türkiye'ye karşı kumpas kurdugunu düşünün. işte ukrayna ve rusya arasındaki durum budur. siz bakmayın özgür bağımsız devlet muhabbetlerine. dili rusça kullandığı askeri teknoloji rus eğitim sistemi rus ekonomisi rus etkisinde olan bir ülke bayragina sadece 3 tane renk koydu diye bağımsız olmuyor.\nukrayna savaşında ruslar sonuna kadar haklı.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "2 mart 2022 ruslarin avrupada restorana alınmaması",
+      "entry_id": "154010290",
+      "author": "kingodnno",
+      "date": "29.06.2023 12:46",
+      "content": "dünya saçması; kendini dünyadaki diğer tüm ırklardan üstün gören avrupalılardan pek hoşlanmama bazı istisnalar hariç.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POLICY"
+      ]
+    }
+  ]
+}

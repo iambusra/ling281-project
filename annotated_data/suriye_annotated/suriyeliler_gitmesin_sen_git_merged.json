@@ -1,0 +1,123 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:55:09.221865",
+    "total_entries": 9,
+    "input": "suriyeliler gitmesin sen git",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeliler gitmesin sen git",
+      "entry_id": "166055699",
+      "author": "ayrilik treni",
+      "date": "06.07.2024 03:47",
+      "content": "sakın tıklayıp prim verdirtmeyin. başlık sahibi sende ekran görüntüsü paylaş daha iyi",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyeliler gitmesin sen git",
+      "entry_id": "166055733",
+      "author": "nukleerbasliklibarisguverciniyim",
+      "date": "06.07.2024 03:52",
+      "content": "bu ülkenin sahipleri dışında kimseye yer yok. sktirip gidecekler!\nya kabul et biat et, ya terk et!",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyeliler gitmesin sen git",
+      "entry_id": "166055832",
+      "author": "lastnipplebender",
+      "date": "06.07.2024 04:07",
+      "content": "ee ver bana onlara verdiğin olanakları gideyim.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyeliler gitmesin sen git",
+      "entry_id": "166057151",
+      "author": "adriana limanin kolundaki kil",
+      "date": "06.07.2024 08:31 ~ 11:28",
+      "content": "“aydın ünal” diye ülkeyi babasının tapulu malı zanneden yazarımsı bir şahsın,suriyelileri istemeyen türk halkını ülkeden kovması.\n\nhadsizlikte aydın ünal gibi ol..!",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyeliler gitmesin sen git",
+      "entry_id": "166057264",
+      "author": "cokonemlidegilzaten",
+      "date": "06.07.2024 08:43",
+      "content": "ben erdoğan'ın yerinde olsam bunlara yazı yazdırmam. yazdıkları her kelime akp'ye oy kaybı olarak geri geliyor.\n\nadamlar sanki sığınmacı ve kaçaklara sadece sekülerler karşı sanıyor, ya da akp'ye oy kaybettirmek için öyleymiş taklidi yapıyorlar. sokaktan haberleri bile yok.\n\nbu kafayla giderlerse önümüzdeki seçim akp cok daha ağır bir yenilgi alır.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyeliler gitmesin sen git",
+      "entry_id": "166057395",
+      "author": "siluetsiz saplanti",
+      "date": "06.07.2024 08:57",
+      "content": "adam ilmik ilmik kendi mahallesinin özelliklerini saymış. bu kadar farkinda kendisinden bahsettiginin ama bir o kadar da farkındalığı yok. hepsini düşmanının ozelligi saniyor. kendi değer yargilari yuzunden olan olaylari laik sistem yüzünden diyip otekilestiriyor. cok uzakta aramamak lazim yirmi küsur senedir yonetimindekilerin nasil yaptiklarini kendisi degil de muhalefet yapmis gibi gostermeye çalıştığını biliyoruz zaten. bunlarin icine işlemis bu \"ben yapmadim miki yapti\"cilik. arada olan cografyamiza, umutlarımıza, kazanimlara oldu iste.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyeliler gitmesin sen git",
+      "entry_id": "166057437",
+      "author": "pegasusonly",
+      "date": "06.07.2024 09:01",
+      "content": "dedesi asker kaçağı olduğu için genelleme hatasına düşen birinin yazısı.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyeliler gitmesin sen git",
+      "entry_id": "166057465",
+      "author": "moy",
+      "date": "06.07.2024 09:04",
+      "content": "düzen bozulur bozulmaz ilk fırsatta abd yada fransa'ya topukları götüne vura vura kaçacak kişinin beyanıdır. içi boş laf ebeliğidir. geçiniz.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyeliler gitmesin sen git",
+      "entry_id": "166057944",
+      "author": "yapaysayi",
+      "date": "06.07.2024 09:40",
+      "content": "bu yazıyı yazan çok cahil olduğu için bilmiyor olabilir ama suriye'de savaş bitti. din kardeslerin sktirsin gitsin. onları çok seviyorsan sen de peşlerine takıl git.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:32:26.648456",
+    "total_entries": 4,
+    "input": "rusların savaşta türkleri kullanması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rusların savaşta türkleri kullanması",
+      "entry_id": "171557779",
+      "author": "destiny is all",
+      "date": "03.01.2025 01:11",
+      "content": "düğün var demişler bunlar da gitmiş.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rusların savaşta türkleri kullanması",
+      "entry_id": "171558121",
+      "author": "coincidences",
+      "date": "03.01.2025 01:26 ~ 01:27",
+      "content": "asimilasyon boyle birsey aslinda.\n\nbu insanlar asimile olmuslar ve kendilerini turk gibi de gormuyorlar onlara gore ruslar.\n\nbaslarina rusya'ya yakin kisiler getiriliyor ve o siyasetciler nasil yonlendirirse oyle hareket ediyorlar. sozde cumhuriyetler.\n\ntanidik gelmedi mi?",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "rusların savaşta türkleri kullanması",
+      "entry_id": "171558176",
+      "author": "manasi olmayan vatandas",
+      "date": "03.01.2025 01:28",
+      "content": "kendi egemenliğini gerek bilimsel gerekse ekonomik anlamda sağlayamayan her toplum canıyla malıyla namusuyla sömürülür. bizimki de yakındır endişeye mahal yok. elin arabının vereceği dolar için bir sürü kurumu peşkeş çekmedik mi?",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "ECON",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "rusların savaşta türkleri kullanması",
+      "entry_id": "171558295",
+      "author": "sevgili frodo",
+      "date": "03.01.2025 01:33 ~ 01:35",
+      "content": "rusya-ukrayna savaşında gördüğümüz rahatsız edici durumdur.\n\nruslar şunun şurasında 7-9 asırlık bir millettir ama bölgede yaşayan tüm türkleri asimile etmişlerdir. işin asıl üzücü tarafı da her konuda gelişimi türklerden kopyalamışlardır. örneğin ruslar, hazar türklerinin''çifte kraliyet'' sistemini almışlardır. yine o dönemlerde rus prensler''kağan'' unvanını türklerden almışlardır. fakat bu gün geldiğimiz sonuç sadece utanç kaynağıdır. yapacak bir şey yoktur. bu savaşın galibi ruslar olmuşlardır. her zaman her durumda kendini geliştirmek bir seçenek değil zorunluluktur. uyuyan milletler köle olarak uyanırlar. şimdi ruslar sıcacık evlerinde vodka içerken asimile ettikleri türkler ruslar adına vekalet savaşı veriyorlar. bunlar da bizlere ders olur umarım.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "CULTURE"
+      ]
+    }
+  ]
+}

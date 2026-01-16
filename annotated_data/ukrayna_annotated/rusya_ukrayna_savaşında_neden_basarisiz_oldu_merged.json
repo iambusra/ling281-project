@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:04:26.440619",
+    "total_entries": 2,
+    "input": "rusya ukrayna savaşında neden basarisiz oldu",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rusya ukrayna savaşında neden basarisiz oldu",
+      "entry_id": "135094524",
+      "author": "white bishop",
+      "date": "18.03.2022 15:26",
+      "content": "egitim seviyesinden dolayi.\n\nrusya her ne kadar dikta rejimi ile yonetiliyor olsa da temel egitimi halk tabanina yaymis bir ulkedir. modern egitime halk tarafindan da devlet tarafindan da onem verilir.\n\niste boyle egitimli bir halki bos tehditlerle korkutup savasa suruklemek cok zordur. mumkundur ama hitler'in yaptigi gibi uzun muddetli ve guclu bir propaganda ister. bu devirde de bu cok daha zordur. putin boyle birsey yapmadan ukrayna'ya saldirdi. o yuzden egitimli halktan savas konusunda bir destek gormuyor. ordu mensuplari da halkin bir alt kumesi oldugu icin savas konusunda motive degiller.\n\nhalbuki putin zamaninda halkini egitimden mahrum birakmis olsaydi bu sorunlari yasamazdi. rusun gucunu tum dunyaya gosterme konusunda motive \"as de asalim kes de keselim reis\" diyen koca bir guruhu rahatca olume yollayabilirdi.\n\nyani zamaninda egitim sisteminin kokune kibrit suyu cakmadi, hata etti (!)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "rusya ukrayna savaşında neden basarisiz oldu",
+      "entry_id": "170829251",
+      "author": "moacir barbosa",
+      "date": "08.12.2024 01:35 ~ 02:39",
+      "content": "2. dünyada savaşında rusların 13 milyon asker, 14 milyon sivil ölüyor.\n\namerika ve ingiliz yardımları ile savaşı kazanıyorlar. amerika ve ingilizlerin yardım kapsamında verdiği askeri araç gereç ve petrol, almanların savaşta ürettiği araç gereçlerin 10 katı.\n\nrusya ve çin; kore savaşında, nato ittifakı ile beraber'e kaldılar.\n\n1967-1973 arap-israil savaşlarında sovyetler arapları destekledi. araplar yenildi.\n\nruslar, vietnam savaşı'nda, amerika büyük darbe vurdular.\n\nrusların afganistan işgali rusların bozuk ekonomisi daha da bozdu.\n\nçeçenistan savaşını ruslar kazandı.\n\nukrayna savaşı sonucunda ukrayna, kore ve almanya gibi ikiye bölünür.\n\nputin ölünce güçlü bir lider gelmezse, rusya ukrayna'yı geri veirir gibi.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    }
+  ]
+}

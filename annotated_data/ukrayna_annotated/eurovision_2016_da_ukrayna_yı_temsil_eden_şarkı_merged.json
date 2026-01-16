@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:08:10.719630",
+    "total_entries": 1,
+    "input": "eurovision 2016'da ukrayna'yı temsil eden şarkı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "eurovision 2016'da ukrayna'yı temsil eden şarkı",
+      "entry_id": "60540939",
+      "author": "scandiacus",
+      "date": "15.05.2016 18:32",
+      "content": "rusya istediği kadar kızsın köpürsün, yarışmayı kazanıp bizi 2017'de kiev'e sürükleyecek olan şarkıdır.\n(bkz: lol)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    }
+  ]
+}

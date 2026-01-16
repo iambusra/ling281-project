@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:24:27.164026",
+    "total_entries": 1,
+    "input": "ukraynalıların zeka seviyesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukraynalıların zeka seviyesi",
+      "entry_id": "40923876",
+      "author": "somek kafali",
+      "date": "06.03.2014 15:28",
+      "content": "son olaylar göstermiştir ki türklerden düşüktür.\n\n(bkz: gezi olayları ve ukrayna olayları)",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    }
+  ]
+}

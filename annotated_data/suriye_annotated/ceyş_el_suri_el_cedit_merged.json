@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-10T23:36:37.474905",
+    "total_entries": 1,
+    "input": "ceyş el suri el cedit",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ceyş el suri el cedit",
+      "entry_id": "73071919",
+      "author": "mofha",
+      "date": "26.12.2017 08:36 ~ 08:37",
+      "content": "haberlerdeki iddialara göre abd tarafından kurulan tabela terör örgütünün adıdır. haseke ve deyrizor'da 3 adet kampı bulunmakta olan örgüte pkk'dan 2500 geri zekalı nakledilmiş.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:56:53.148713",
+    "total_entries": 3,
+    "input": "suriyeliler toplumda kabul gördü",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeliler toplumda kabul gördü",
+      "entry_id": "175541257",
+      "author": "perdebirunane",
+      "date": "24.05.2025 18:05",
+      "content": "iş yerinde, restoranda, sokakta, markette...\ntürklerden iyi türkçe konuşanları var.\ntürkiye bu hapı da sindirdi.\ntahammül edemeyeceğimiz hakaret yok onu anladım. suratımıza tükürseler şükredecek kıvamdayız",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "suriyeliler toplumda kabul gördü",
+      "entry_id": "175541283",
+      "author": "yedinci element",
+      "date": "24.05.2025 18:07",
+      "content": "doğma büyüme izmirli 9 yaşındaki suriyeliyi kovmak başlığında bunları gönderme fırsatının çoktan kaçtığını, o pencerenin kapandığını yazmıştık. geçmiş olsun.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "suriyeliler toplumda kabul gördü",
+      "entry_id": "175545715",
+      "author": "hgzr",
+      "date": "24.05.2025 21:26",
+      "content": "sadece gıda ve barınma fiyatlarından millet çocuk yapamıyor, kabul gördü yazsanız ne olacak, ya suriyeliler gidecek ya da milletin çocuğu aç kalmaya devam edecek.\n\ntanım: iddia",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "XENO",
+        "ECON",
+        "HATE"
+      ]
+    }
+  ]
+}

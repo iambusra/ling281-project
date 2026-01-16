@@ -1,0 +1,37 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:08:31.568924",
+    "total_entries": 2,
+    "input": "14 nisan 2014 rusya'nın ukrayna'yı işgali",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "14 nisan 2014 rusya'nın ukrayna'yı işgali",
+      "entry_id": "41990471",
+      "author": "meternity",
+      "date": "14.04.2014 00:30",
+      "content": "büyük oranda rus etnik nüfusun yaşadığı yerlerden bahsederken tarihe bir bakmak lazım. oralardaki kafkas halkları nasıl sürülmüştür, rus nüfus bir anda nasıl artıvermiştir, bunu araştırmak lazım.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "XENO",
+        "CRIME"
+      ]
+    },
+    {
+      "title": "14 nisan 2014 rusya'nın ukrayna'yı işgali",
+      "entry_id": "42002464",
+      "author": "leevankilit",
+      "date": "14.04.2014 15:51",
+      "content": "bunu bile tayyip'i yalamaya fırsat bilen tipleri gösteren başlıktır.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

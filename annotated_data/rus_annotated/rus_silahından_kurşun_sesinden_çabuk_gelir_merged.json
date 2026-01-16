@@ -1,0 +1,73 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:20:07.257803",
+    "total_entries": 5,
+    "input": "rus silahından kurşun sesinden çabuk gelir",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rus silahından kurşun sesinden çabuk gelir",
+      "entry_id": "177002702",
+      "author": "senersongur",
+      "date": "22.07.2025 17:54",
+      "content": "rus silahlarının sahip olduğu namlu çıkış hızının yüksekliğini vurgulayan vecize.\n\nkurtlar vadisi dizisininde kılıç tarafından söylenmiştir.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE",
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus silahından kurşun sesinden çabuk gelir",
+      "entry_id": "177002807",
+      "author": "yazar mi olduk la simdi",
+      "date": "22.07.2025 17:59",
+      "content": "virgülün anlam ve önemi\noku da baban gibi, eşek olma\noku da, baban gibi eşek olma",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "rus silahından kurşun sesinden çabuk gelir",
+      "entry_id": "177003027",
+      "author": "cataf",
+      "date": "22.07.2025 18:11",
+      "content": "ses yaklaşık olarak havada saate 1.200 kilometre hızla hareket eder. 135 sen önce yapılmış 1898 yapımı kıçı kırık bir luger ile ateşlenen 9mm mermi bile saatte 2.200 kilometre hızlara erişebilir..",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus silahından kurşun sesinden çabuk gelir",
+      "entry_id": "177004393",
+      "author": "tomtucker",
+      "date": "22.07.2025 19:15 ~ 19:17",
+      "content": "(bkz: erken boşaldın demenin alternatif yolları)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "SEXUAL"
+      ]
+    },
+    {
+      "title": "rus silahından kurşun sesinden çabuk gelir",
+      "entry_id": "177004723",
+      "author": "klbrsn",
+      "date": "22.07.2025 19:30",
+      "content": "virgül niçin var?",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    }
+  ]
+}

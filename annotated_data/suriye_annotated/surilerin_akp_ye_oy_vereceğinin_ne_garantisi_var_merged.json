@@ -1,0 +1,37 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:46:06.000977",
+    "total_entries": 2,
+    "input": "surilerin akp'ye oy vereceğinin ne garantisi var",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "surilerin akp'ye oy vereceğinin ne garantisi var",
+      "entry_id": "141598048",
+      "author": "machete klonu",
+      "date": "21.08.2022 14:22",
+      "content": "(bkz: git kendine çok sövdürmeden)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "surilerin akp'ye oy vereceğinin ne garantisi var",
+      "entry_id": "141599684",
+      "author": "vodo",
+      "date": "21.08.2022 15:05",
+      "content": "başlığın saçmalığına bak. bunu twitter'da biri yazmıştı muhtemelen oradan esinlenilmiş başlık.\nyahu kardeşim, ben sığınmacı olsam 10 sene boyunca bana ülkenin sınır kapılarını aralamış, vergiden, sağlık hizmetlerinin ödeneğinden muaf tutmuş, sorgusuz sualsiz vatandaşlık bahşeden partiye mi oy veririm yoksa sizi zafer turizmle geri göndereceğiz, vatandaşlıklarınızı iptal edeceğiz diyen partiye mi oy veririm. şuanda yeşil sol gelecek partisi adı altında da bir yapılanmaları mevcut zaten, bunlar ileride aynı kürtlerde olduğu gibi mecliste de kendilerini temsil eden birileri olsun isteyecekler çünkü tc vatandaşı oldular artık. salak salak başlıklar açmayı salıverin artık",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POLICY",
+        "HUMAN"
+      ]
+    }
+  ]
+}

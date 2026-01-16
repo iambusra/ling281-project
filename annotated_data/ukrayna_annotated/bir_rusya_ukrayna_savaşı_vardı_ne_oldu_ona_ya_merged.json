@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:06:08.559681",
+    "total_entries": 2,
+    "input": "bir rusya ukrayna savaşı vardı ne oldu ona ya",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "bir rusya ukrayna savaşı vardı ne oldu ona ya",
+      "entry_id": "167235763",
+      "author": "61ts",
+      "date": "11.08.2024 00:33",
+      "content": "insanların sormaya başladığı soru. en son ukrayna rusya'ya dalmış dediler ama haberlerde pek göstermiyor.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "bir rusya ukrayna savaşı vardı ne oldu ona ya",
+      "entry_id": "167236527",
+      "author": "dergul",
+      "date": "11.08.2024 00:53",
+      "content": "en son duyduğuma göre, alman bakan kendi tanklarının satışlarının artmasından dolayı keyifliymiş. rusların tekrar düşman olması bayağı karlıymış.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POLICY"
+      ]
+    }
+  ]
+}

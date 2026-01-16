@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:29:29.691786",
+    "total_entries": 1,
+    "input": "24 subat 2022 ukrayna liderinin ruslara seslenisi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "24 subat 2022 ukrayna liderinin ruslara seslenisi",
+      "entry_id": "134198155",
+      "author": "arthon",
+      "date": "25.02.2022 14:05",
+      "content": "pek duygusal ve aci gercekler iceren seslenis\n\nen cok vuran yeri tek tek isgal altina alina bolgeleri sayip, oradaki anilarindan bahsederek, siz buralari ilk defa duyuyorsunuz, cunku buralari ukrayna topraklari degil mi diye sormasi.",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY",
+        "HUMAN"
+      ]
+    }
+  ]
+}

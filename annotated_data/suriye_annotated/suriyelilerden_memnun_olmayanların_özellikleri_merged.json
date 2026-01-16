@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T16:05:07.775742",
+    "total_entries": 1,
+    "input": "suriyelilerden memnun olmayanların özellikleri",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelilerden memnun olmayanların özellikleri",
+      "entry_id": "96037884",
+      "author": "cenevizkedisi",
+      "date": "01.10.2019 22:25",
+      "content": "insan olmaları.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "HUMAN"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:27:49.016784",
+    "total_entries": 2,
+    "input": "kangala kurt gösteren ruslar",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "kangala kurt gösteren ruslar",
+      "entry_id": "83722103",
+      "author": "ayrilik treni",
+      "date": "26.11.2018 20:01",
+      "content": "(bkz: işsizler bu başlık altında toplanıyor)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "kangala kurt gösteren ruslar",
+      "entry_id": "83722255",
+      "author": "utepils",
+      "date": "26.11.2018 20:06",
+      "content": "n’oldu gardaş biri sivas’a birşey mi dedi.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

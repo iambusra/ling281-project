@@ -1,0 +1,38 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:09:42.260576",
+    "total_entries": 2,
+    "input": "türkiye 9 milyon suriyeliye koruma sağlıyor",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türkiye 9 milyon suriyeliye koruma sağlıyor",
+      "entry_id": "136993748",
+      "author": "newsky24",
+      "date": "04.05.2022 12:26 ~ 12:28",
+      "content": "anadolu ajansı'nın haberidir. türkiye'nin bm daimi temsilcisi sinirlioğlu, suriye'deki savaşın 10. yılında türkiye'nin toplam 9 milyon suriyeliye koruma sağladığını belirtti.\n\nsuriye'nin toplam nüfusu zaten 20 milyon civarı.\nbu arada aa'nın bu haberi 2021 tarihli. o günden bu yana artan sayıyı bilmiyoruz.\n\ngörsel\n\ntürkiye kaç suriyeliye koruma sağlıyor?",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "türkiye 9 milyon suriyeliye koruma sağlıyor",
+      "entry_id": "136993961",
+      "author": "evde peynir yok zeytine kafa atiyoz",
+      "date": "04.05.2022 12:32 ~ 04.11.2022 17:26",
+      "content": "demek ki gelen pakileri afganlarida eklersek 13 14 milyonu bulan sayıdır. harbiden istila anasını satıyım. öyle pek sessizde sayılmaz üstelik!",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    }
+  ]
+}

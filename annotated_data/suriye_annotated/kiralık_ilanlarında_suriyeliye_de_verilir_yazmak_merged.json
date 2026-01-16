@@ -1,0 +1,37 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:43:32.092781",
+    "total_entries": 2,
+    "input": "kiralık ilanlarında suriyeliye de verilir yazmak",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "kiralık ilanlarında suriyeliye de verilir yazmak",
+      "entry_id": "137037681",
+      "author": "semsipasapasajindasesibuzusmeyen",
+      "date": "05.05.2022 10:50",
+      "content": "malum sitede ara ara denk geldigim ilan aciklama durumu. gel, her ne olursan ol gel demek istiyor galiba emlak sahibi. bilemedim...",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "kiralık ilanlarında suriyeliye de verilir yazmak",
+      "entry_id": "137037892",
+      "author": "lucklucki",
+      "date": "05.05.2022 10:57",
+      "content": "ben baska bir yere tasinmayi cok istiyorum. tasinirkende evi suriyeliye veya afganlara satmak istiyorum. komsular oruspu cocugu oldugu icin eziyet neymis gorsunler istiyorum. 1 evde 10 kisi ohhh butun apartman sakinleri attirmaya dursun amk.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    }
+  ]
+}

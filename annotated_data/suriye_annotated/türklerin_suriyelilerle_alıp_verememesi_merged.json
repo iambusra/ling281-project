@@ -1,0 +1,37 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:13:19.074990",
+    "total_entries": 2,
+    "input": "türklerin suriyelilerle alıp verememesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türklerin suriyelilerle alıp verememesi",
+      "entry_id": "137276590",
+      "author": "soul froze",
+      "date": "10.05.2022 17:16",
+      "content": "(bkz: sığınmacı karşıtlarının haklı çıkacak olması)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "türklerin suriyelilerle alıp verememesi",
+      "entry_id": "137276689",
+      "author": "hafta sonuna ozel ucretsiz kargo",
+      "date": "10.05.2022 17:18",
+      "content": "yukarıdaki yazarımsı şahıs o görselin en tepesine şunu yazmalıydı \"vatanını savunmayanlar sürüsü\"\n\nevet allah bizlere alparslan'ın eliyle anadoluyu bahşetti. allah bizlere fatih sultan mehmet'in zekasıyla istanbul'u bahşetti. evet allah mustafa kemal atatürk ile bize türkiye cumhuriyetini bahşetti ki, şu ezanı muhammediye okunmaya devam etsin bu topraklarda.\n\ntoprağında ezan olan vatanını satmış, geride bırakmıştır. biz bunlarla kardeş olamayız. çünkü fıtratımızda yok.\n\nbu arada bir not daha bırakalım. olaylar suriyeli değil. olaylar afgan ve pakilerin kontrolsüz bir şekilde ülkeye alınması. bu olaylardan en çok yananlar ise suriyeliler olacak.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    }
+  ]
+}

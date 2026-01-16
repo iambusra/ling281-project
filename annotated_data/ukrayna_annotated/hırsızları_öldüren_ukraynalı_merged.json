@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:19:28.399745",
+    "total_entries": 1,
+    "input": "hırsızları öldüren ukraynalı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "hırsızları öldüren ukraynalı",
+      "entry_id": "158711601",
+      "author": "volkanikdiyorki",
+      "date": "12.11.2023 17:11",
+      "content": "herif bildiğin punisher moduna girmiş.\nnasıl kızdıysa artık??",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

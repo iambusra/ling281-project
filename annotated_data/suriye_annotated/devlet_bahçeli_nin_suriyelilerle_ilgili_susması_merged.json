@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T16:07:36.771888",
+    "total_entries": 1,
+    "input": "devlet bahçeli'nin suriyelilerle ilgili susması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "devlet bahçeli'nin suriyelilerle ilgili susması",
+      "entry_id": "92795080",
+      "author": "pltcvhr",
+      "date": "19.07.2019 05:13",
+      "content": "sonuçta reisin güdümünde bir parti lideri .neden şaşırıyoruz ki elbette susacak.adam gerçekten son birkaç yılda tam bir maskara oldu.\n\nartık şaşırmıyorum.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

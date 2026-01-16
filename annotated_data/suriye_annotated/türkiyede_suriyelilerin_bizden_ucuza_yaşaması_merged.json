@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:12:52.115933",
+    "total_entries": 1,
+    "input": "türkiyede suriyelilerin bizden ucuza yaşaması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türkiyede suriyelilerin bizden ucuza yaşaması",
+      "entry_id": "164762347",
+      "author": "bysakal",
+      "date": "26.05.2024 12:36",
+      "content": "(bkz: https://x.com/…447840?t=zfxe64n3ygvtqfqptn5g4g&s=08)\n4 yıl önceki fiyatlarla 2024 tr sinde yaşamak büyük ayrıcalık.\nmehmet şimşek görür umarım hani vergi ihbar falan diyor ya..",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "ECON",
+        "POLICY"
+      ]
+    }
+  ]
+}

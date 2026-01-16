@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T16:10:15.391827",
+    "total_entries": 1,
+    "input": "suriyelilerle yapılan gidecek misiniz röportajı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelilerle yapılan gidecek misiniz röportajı",
+      "entry_id": "98156960",
+      "author": "sen kurban ol bu cambaza",
+      "date": "22.11.2019 23:34",
+      "content": "bbc türkçe'nin istanbul'daki suriyelilerle gerçekleştirdiği röportajdır.\n\nkıymetli nargilecilerimize \" güvenli bölgeye gidecek misiniz?\" diye sorulmuş. tabi cevaplar pek şaşırtan cinsten değil...\n\nbuyrun",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:19:19.278851",
+    "total_entries": 6,
+    "input": "alanya'da ev vaadi ile dolandırılan rus çift",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "alanya'da ev vaadi ile dolandırılan rus çift",
+      "entry_id": "178156172",
+      "author": "oakpost",
+      "date": "05.09.2025 23:59",
+      "content": "gece gece içimi acıtan çift.\n\nreddit'te ve birçok yerde paylaşmışlar.\n\n--- spoiler ---\n\neşimle 20 yıl boyunca bir daire almak için para biriktirdik ve 2021 yılında bir daire aldık. 2022 yılında rusya-ukrayna savaşı başladığında, ailemle birlikte ülkeden ayrılmaya karar verdik. onu sattık. bütün birikimimizi 58.000 euroyu övençoğlu şirketinin hesabına gönderdik ve suites 4 adlı projede bir daire satın almak üzere sözleşme imzaladık. teslim tarihi 2023 sonuydu.\n\ninşaat uzadı ama biz sabırla bekledik. ancak mart 2025’te övençoğlu çalışanları whatsapp’tan bize cevap vermeyi bıraktı.\n\n2025 mart ayında bende panik ataklar başladı. her sabah saat 4’te titreyerek uyanıyorum. artık yaşadığımı hissetmiyorum sadece hayatta kalmaya çalışıyorum. telden takı yapıyorum ama sinir krizleri nedeniyle artık üretemiyorum.\n\nparamın iadesi için övençoğlu’na resmi dilekçe gönderdim. ancak anıl övençoğlu’ndan tehdit aldım. bana arsa payı tapusu verdiği için bana karşı borcu olmadığını iddia etti.\n\nfakat tapuyu iznim olmadan daire yerine arsa payı olarak çıkardı. oysa ben konut için ödeme yaptım, arsa için değil.\n\n2025 yılı boyunca inşaatta sadece 5-7 kez boyacılar göründü, hepsi bu. tüm inşaat süreci bundan ibaret. bina hâlâ susuz ve elektriksiz. zemin kat şimdiden küflenmeye başladı. kışın ise bina, cadde seviyesinden daha düşük yapıldığı için sürekli su altında kalıyor ve yağmur suları yoldan doğrudan içeri akıyor.\n\n--- spoiler ---\n\nlinkte eve dair sözleşmeler, teslim tarihi falan var. çiftin 20 senelik emeği buhar olup gitmiş. link\n\nlütfen yardım edelim. en azından sesini duyuralım. bu nasıl memleket arkadaş. iyice bunaldım artık.",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "ECON",
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "alanya'da ev vaadi ile dolandırılan rus çift",
+      "entry_id": "178158123",
+      "author": "akrepwoman",
+      "date": "06.09.2025 01:10",
+      "content": "ticaret bakanlığımız var.\nvergiye vergi ekleyen maliyemiz var.\noranın ruhsatı veren belediyesi var.\nve burada binlerce memur var maaş alıyor ama\nekşideki duyarlı insanlar buna koşacak",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "alanya'da ev vaadi ile dolandırılan rus çift",
+      "entry_id": "178158258",
+      "author": "hombre de hielo",
+      "date": "06.09.2025 01:16",
+      "content": "merak etmesin.\n\neğer dünyanın bir yerinde, türk olmayan biri mağdursa yetkililerimiz gösteriş için o mağduriyeti giderir.\n\ndoktorun kapısına giden hasta beklemekten ölür ama kanada'da bir ingiliz nakil bekliyorsa ambulans uçak gönderir.\n\nevine hırsız giren türk'ün malının peşine düşmez ama böyle rus'tur, almandır birinin 2 eurosuna çöktülerse o şirketin içinden geçerler.\n\naha ben de yazdım sesleri duyulsun.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "alanya'da ev vaadi ile dolandırılan rus çift",
+      "entry_id": "178158463",
+      "author": "olfucktorius",
+      "date": "06.09.2025 01:28",
+      "content": "türkten uzak duracaksın. sakat bir gen.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "alanya'da ev vaadi ile dolandırılan rus çift",
+      "entry_id": "178194194",
+      "author": "collak",
+      "date": "07.09.2025 15:26",
+      "content": "birikimlerine yazık etmişler. türkiye'de çalmadan, dolandırmadan zengin olanlar kimse yok.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "ECON"
+      ]
+    },
+    {
+      "title": "alanya'da ev vaadi ile dolandırılan rus çift",
+      "entry_id": "178194413",
+      "author": "durun durun bisey dicem",
+      "date": "07.09.2025 15:35",
+      "content": "evin çoğu bitmiş görünüyor. izinleri filan tamamsa hallolmayacak bir sorun değil. umarım kısa sürede çözülür.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

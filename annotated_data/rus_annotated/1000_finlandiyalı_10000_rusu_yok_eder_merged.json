@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:23:47.940947",
+    "total_entries": 1,
+    "input": "1000 finlandiyalı 10000 rusu yok eder",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "1000 finlandiyalı 10000 rusu yok eder",
+      "entry_id": "36449693",
+      "author": "servet cetinin balgami",
+      "date": "27.08.2013 20:18",
+      "content": "tam olarak doğru bir önerme.\n\nhttp://www.worldaffairsboard.com/…inland-afraid.jpg",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

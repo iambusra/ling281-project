@@ -1,0 +1,62 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:09:26.150112",
+    "total_entries": 4,
+    "input": "türk milliyetçisi ve suriyelinin yüzleşme videosu",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türk milliyetçisi ve suriyelinin yüzleşme videosu",
+      "entry_id": "141840419",
+      "author": "nostalgiaman",
+      "date": "26.08.2022 20:55 ~ 27.08.2022 00:20",
+      "content": "literat kanalının yüzleşme konseptinin ilk örneği olarak yayımlandı.\n\ntürk vatandaşlığı almış bir suriyeli ve bir türk milliyetçisi kozlarını paylaşıyorlar:\n\nhttps://www.youtube.com/watch?v=09mwuvegmia",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "türk milliyetçisi ve suriyelinin yüzleşme videosu",
+      "entry_id": "141840878",
+      "author": "aretius",
+      "date": "26.08.2022 21:07",
+      "content": "güzel bir video olmuş, henüz ortalarındayım. sonuna kadar bu tempoda gider umarım.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "türk milliyetçisi ve suriyelinin yüzleşme videosu",
+      "entry_id": "141841103",
+      "author": "tertibibend",
+      "date": "26.08.2022 21:13",
+      "content": "ilginç konsept. izleyip yorumlayacağım.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "türk milliyetçisi ve suriyelinin yüzleşme videosu",
+      "entry_id": "141845459",
+      "author": "albis",
+      "date": "26.08.2022 22:52",
+      "content": "iç savaştan kaçıp sığınma talebinde bulunan sığınmacılara kimsenin bir şey dediği yok. asıl problem kontrolsüz, kayıtsız binlerce insanın ülkeye gelmesi.\n\nsuriyeli konuk seçimi garip geldi. bizim ülkemizdeki suriyelileri temsil ettiğini hiç düşünmüyorum. onun dışında sorulara verilen cevaplarda türk milliyetçisi kanadında rasyonellik hakimken suriyelide duygu sömürüsünden ibaretti.\n\nayrıca türk milliyetçisi arkadaşın bıyıklarına aşık oldum…",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    }
+  ]
+}

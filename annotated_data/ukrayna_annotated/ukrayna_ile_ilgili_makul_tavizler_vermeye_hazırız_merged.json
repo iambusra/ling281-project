@@ -1,0 +1,61 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:05:44.636770",
+    "total_entries": 4,
+    "input": "ukrayna ile ilgili makul tavizler vermeye hazırız",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukrayna ile ilgili makul tavizler vermeye hazırız",
+      "entry_id": "169574711",
+      "author": "klavyedeki insert tusu",
+      "date": "25.10.2024 17:38",
+      "content": "umarım bir an önce başlarlar müzakereye.\n\n--- spoiler ---\n\nrusya devlet başkanı vladimir putin, rusya'nın ukrayna konusunda müzakereler için taviz vermeye hazır olduğunu ifade etti.\n\nrossiya 1 tv kanalındaki 60 dakika programında olga skabeeva'ya verdiği röportajda putin, \"tavizler vermeye hazırız, makul tavizler vermeye hazırız. ancak şu anda ayrıntılara girmek istemiyorum çünkü esaslı müzakereler yok ve diğer taraf bunu yapmayı reddediyor.\" dedi.\n\nputin'in açıklamalarında dikkat çeken bir diğer nokta, herhangi bir müzakere sonucunun rusya'nın lehine olması gerektiği yönündeki vurgusu oldu. \"ve hiç şüphesiz, burada hiçbir taviz vermeyeceğiz; hiçbir değişim olmayacak.\" diyen putin, savaş alanında elde edilen kazanımların pazarlık konusu olamayacağını belirtti. bu, rusya'nın mevcut durumu korumak için katı bir duruş sergileyeceğini gösteriyor.\n\nbrıcs zirvesi sonrası toplantıda açıklamalar\nönceki gün brıcs zirvesi sonrası düzenlenen basın toplantısında, putin ukrayna ile barış görüşmeleri üzerine detaylı yorumlarda bulundu. putin, kiev rejiminin belki de sıkıyönetimi kaldırmaya ve cumhurbaşkanlığı seçimleri yapmaya hazır olmadığı için barış görüşmelerini istemediklerini belirtti. bu ifade, ukrayna'nın iç siyasi durumu gereğince barışa sıcak bakmadığını vurguluyor.\n\nputin, kiev yönetiminin barış konusundaki tavrını eleştirerek, \"top onların sahasında\" dedi. kiev liderliğinin davranışını mantıksız bulan putin, ukrayna'nın defalarca müzakere etmeyi reddettiğini söyledi. kremlin liderinin bu çıkışı, müzakerelerin önünde engel olarak ukrayna'nın tutumunu gösteriyor.\n\ntürkiye'nin karadeniz girişimi örneği\nrus lider, türkiye'nin karadeniz'de güvenli nakliye sağlama girişimini örnek göstererek, moskova'nın bu girişime olumlu yanıt verdiğini ancak kiev'in müzakere etmeye yanaşmadığını belirtti. putin'in bu açıklaması, rusya'nın uluslararası barış çabalarına olan desteğini vurgularken, ukrayna'nın aynı ölçüde katılımcı olmadığını gösterdi.\n\nözellikle karadeniz gibi stratejik bir bölgede güvenliğin sağlanması için uluslararası iş birliğinin önemine değinen putin, bu örnekle ukrayna'nın tavrı ile uluslararası toplumun beklentileri arasındaki tezatı ortaya koymuş oldu. girişimlere açık olduklarının altını çizen rus lider, somut bir ilerleme kaydedilebilmesi için karşı tarafın da eşit derecede bağlılık göstermesi gerektiğinin altını çizdi.\n--- spoiler ---\n\nhaber linki",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "ukrayna ile ilgili makul tavizler vermeye hazırız",
+      "entry_id": "169574949",
+      "author": "somun civata",
+      "date": "25.10.2024 17:49",
+      "content": "trump ile anlastik, ulkenin yarisini alirim, yarisi da ab'ye katilabilir diyor.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "ukrayna ile ilgili makul tavizler vermeye hazırız",
+      "entry_id": "169575407",
+      "author": "tonymontana0909",
+      "date": "25.10.2024 18:12",
+      "content": "moskova ayısı ince hesaplar peşinde. yalnız amerikan medyası, trump'ın bu ayıyla yakınlaşmasından fazla haz almaz. seçimi alsa bile ne yapar eder kuyusunu kazarlar.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "ukrayna ile ilgili makul tavizler vermeye hazırız",
+      "entry_id": "169575415",
+      "author": "coincidences",
+      "date": "25.10.2024 18:12",
+      "content": "kendi hayal aleminde taviz olarak adlandirdigi ic politikaya yonelik soylemler.\n\nukrayna'nin yarisini birakiyorum daha ne taviz vereyim falan diyecek sonunda.\n\nslav kokenli herkesin kendisine tabi ve bagli olmasi gerektigini dusunen bir zihniyetten geliyor nasilsa.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:10:51.927690",
+    "total_entries": 1,
+    "input": "ukrayna'ya gitmemiş türk erkeği",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukrayna'ya gitmemiş türk erkeği",
+      "entry_id": "44618929",
+      "author": "e a p",
+      "date": "30.07.2014 23:00",
+      "content": "onun yerine fas'a, pakistan'a, hindistan'a, valensiya'ya, hollanda'ya ve belçika'ya gitmiş yazardır.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

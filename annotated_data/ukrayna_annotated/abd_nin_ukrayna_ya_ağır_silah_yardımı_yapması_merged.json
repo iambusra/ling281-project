@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:10:42.951943",
+    "total_entries": 1,
+    "input": "abd'nin ukrayna'ya ağır silah yardımı yapması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "abd'nin ukrayna'ya ağır silah yardımı yapması",
+      "entry_id": "47816489",
+      "author": "didier drogba",
+      "date": "22.12.2014 02:20",
+      "content": "ben hep 50 liralık silah aldığım için beni etk..\n(bkz: sniper)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CRIME",
+        "POLICY"
+      ]
+    }
+  ]
+}

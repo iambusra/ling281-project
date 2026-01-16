@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:24:07.832846",
+    "total_entries": 1,
+    "input": "yılbaşı gecesi noel ana kıyafetli rus'u eve atmak",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "yılbaşı gecesi noel ana kıyafetli rus'u eve atmak",
+      "entry_id": "38666196",
+      "author": "birdirbir oynarken sek sek seken kedi",
+      "date": "02.12.2013 13:07",
+      "content": "\"önemli olan milliyeti değil cinsiyeti\" dedirten...",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "GENDER-MORAL"
+      ]
+    }
+  ]
+}

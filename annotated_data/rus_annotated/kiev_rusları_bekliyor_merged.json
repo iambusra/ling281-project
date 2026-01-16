@@ -1,0 +1,37 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:28:15.216028",
+    "total_entries": 2,
+    "input": "kiev rusları bekliyor",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "kiev rusları bekliyor",
+      "entry_id": "134264257",
+      "author": "bluepoison",
+      "date": "27.02.2022 01:41",
+      "content": "bu gece ve sonrasında artık eminim . dünya işgalci rusya yerine, direnen bir ülkeyi konuşacak.\nbirkaç bilgi aktarımı yapmak istiyorum\nburada siviller molotof bombası hazırlıyor.\nhttps://twitter.com/…?t=k7ccfpyu12lz_ydjtn4wbg&s=19\n\nana muhalefet partisi cephede savaş için, hükümet yanında yer aldı.\nhttps://twitter.com/…?t=jtcgoid4-cx0dfacrt5ssg&s=19\n\nukrayna kızları vatan sevgisi için poz veriyor\ngörsel\n\ngenç çiftin ülkeye bağlılığı\ngörsel\n\nen sonuncusu bence en anlamlı olan\ngörsel\n\nne abd ne de rusya guzellemesi yapmadım. mağdurun yanındayım. bu dünya bağımsızlığına düşkün insanların kazandığı bir yer olur belki.",
+      "has_external_url": true,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POLICY",
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "kiev rusları bekliyor",
+      "entry_id": "134265130",
+      "author": "cetinia",
+      "date": "27.02.2022 02:04",
+      "content": "bu yüzyılda hala böyle savaş, böyle işgal mi kaldı diyor insan.. inanılır gibi değil cidden.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HUMAN"
+      ]
+    }
+  ]
+}

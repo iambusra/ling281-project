@@ -1,0 +1,73 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:16:36.352831",
+    "total_entries": 5,
+    "input": "24 şubat ukraynanın işgal edilmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "24 şubat ukraynanın işgal edilmesi",
+      "entry_id": "134143851",
+      "author": "cikmiyoruz ama konusuyoruz",
+      "date": "24.02.2022 06:17",
+      "content": "kaynak",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "24 şubat ukraynanın işgal edilmesi",
+      "entry_id": "134143907",
+      "author": "ferlimango",
+      "date": "24.02.2022 06:25",
+      "content": "putin: nerede kalmıştık.\ngeçmiş olsun dostlar. winter asıl şimdi coming:/",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "24 şubat ukraynanın işgal edilmesi",
+      "entry_id": "134143957",
+      "author": "diplomasi",
+      "date": "24.02.2022 06:32",
+      "content": "ukrayna'ya gitmeme 4 ay kala hiç sevinmediğim haberdir...",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "24 şubat ukraynanın işgal edilmesi",
+      "entry_id": "134144013",
+      "author": "eksimtrack",
+      "date": "24.02.2022 06:38",
+      "content": "daha savaş başlanadan bu ne tahmin yiğidim. belki rüzgar ters eser rusya elden gider?",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "24 şubat ukraynanın işgal edilmesi",
+      "entry_id": "134144079",
+      "author": "aselele",
+      "date": "24.02.2022 06:47 ~ 06:49",
+      "content": "diktatörleri sevmeyin, demokrasinin en kötüsü bile her zaman iyidir.\n\nbir tane adamın rusya imparatorluğu hayalleri uğruna nice canlar kaybedilecek.\n\nayrıca bunu aylardır söylüyoruz. şurada kendinden emin, yok ya ne savaşı diyen rusçu trolleri tanıyın.\n\ngörsel\ngörsel\ngörsel\ngörsel",
+      "has_external_url": true,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POLICY",
+        "HUMAN"
+      ]
+    }
+  ]
+}

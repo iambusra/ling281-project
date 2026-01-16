@@ -1,0 +1,62 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:16:30.613629",
+    "total_entries": 4,
+    "input": "ukraynanın sadece yaşlıların çıkışına izin vermesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukraynanın sadece yaşlıların çıkışına izin vermesi",
+      "entry_id": "134188275",
+      "author": "raskolnickovv",
+      "date": "25.02.2022 08:07",
+      "content": "hani nerede kadın erkek eşitliği savunucuları? nerede feministler? sırf erkeksin diye ölüme yollanmak..",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "GENDER-MORAL",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "ukraynanın sadece yaşlıların çıkışına izin vermesi",
+      "entry_id": "134188346",
+      "author": "kazmasikel",
+      "date": "25.02.2022 08:13",
+      "content": "aynısını suriye ve afganistan hükümetlerinde görmek isterdik.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "ukraynanın sadece yaşlıların çıkışına izin vermesi",
+      "entry_id": "134188363",
+      "author": "ooopapatya",
+      "date": "25.02.2022 08:15",
+      "content": "savaş karşıtlığı, barış sırasında yapıldığında anlamlıdır. barışta savaş çığırtkanlığı yapan, savaşı da iliklerine kadar yaşar, ve maalesef diğerlerine de yaşatır. o saatten sonra no war olmuyor işte.\n\nbizim kefenli soytarılar mesela, biz savaşa girsek ön saflarda kaçışır. (hakkı da var, kimse zorla savaşmak durumunda değil. ama altına odun attığı savaşta güvenli yerini yine o bulur, biz de elimize tutuşturulan silahla kalakalırız, olan yine bize olur)\n\nöte yandan, zaten savaş karşıtıysanız bile, zaruri durumda en azından sevdiklerinizi korumak için, çoluk çocuğunuzun güvenliği için dahil olursunuz müdafaa haline. ama nihayetinde savaş, o kendinizi diğer tüm hayvanlardan üstün tutma nedeniniz olan yüksek medeniyetinizi yerle bir eder, tüm vahşetinizle, kınadığınız her şeyi yaparken bulursunuz kendinizi.\n\nsiyasette en ucuz materyal insan. savaşa da sokar, sınırı da kapatır. erkek insan değil ya, kadını çocuğu bırakır, onu zorlar. sadece siyaset değil, sistem de bunu yapar. ve her şey öyle parlak bir cilayla yapılır ki sevgili erkek kardeşler, sizi yüceltiyor sandığınız her söylem, ayağınıza pranga bağlar:\n\nağlama! zayıf olma! kadının eline bakma! aslansın sen, kaplansın. sıradan geçirirsin herkesi. tek başına beş kadın edersin. daha akıllısın, daha güçlüsün.\n\nalt metin: bize lazımsın. seninle çok işimiz var daha.\n\nne denir ki? ders olmasın, barış olsun. hiç bir sebep yoktur ki masum insanlar ölsün.",
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "HUMAN",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "ukraynanın sadece yaşlıların çıkışına izin vermesi",
+      "entry_id": "134934223",
+      "author": "cikolatali catlak kurabiye",
+      "date": "14.03.2022 19:07",
+      "content": "tam olarak dogru olmadigini gordum. cek cumhuriyeti ukrayna'ya kapisini ardina kadar acmis ulkelerden biri. oyle ki yardim cadirlari ve bir suru dernegin yanisira devlet de butun otel ve pansiyonlara bos odalarini ukraynalilara tahsis etmekle yukumlu kildi. oyle ki baska ulkeleren is sebebiyle gelecek olan misafirlerime yer bulamadim. simdi adim basi ukrayna vatandasi gormek mumkun.\n\nbugun bir sebepten konsoloslukta olmam gerekiyordu ve sirada bekleyen herkes uykrayna'dan yeni gelmis kisilerdi. aralarinda 18-62 yas arasinda bulunan gencecik erkekler vardi ve sayilari cocuk ve kadinlarin toplami kadardi. ukrayna cikisinda erkekleri yolundan cevirecek bir engel olmayabilir ve bu erkekler savasmak yerine aileleriyle birlikte olmayi secmis olabilirler. bana kalirsa en dogal haklaridir. sonrasinda markete ugradigimda da bir suru yanlarinda karisi ve cocuklari olmayan ukraynali erkekler gordum. yanimdaki arkadasim bu adamlarin yasal olmayarak kactiklarini idda etti. tabi ben ukrayna'nin bu konuda ne kadar kati olup olmadigini bilmiyorum. ama yasal ya da degil bence savasmak istemeyeni de zorla tutamazsin demekki.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    }
+  ]
+}

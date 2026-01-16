@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:01:58.193107",
+    "total_entries": 1,
+    "input": "suriyelileri ülkeye fetö getirdi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelileri ülkeye fetö getirdi",
+      "entry_id": "136477425",
+      "author": "obispo",
+      "date": "21.04.2022 11:12",
+      "content": "loading\n\nseçim sath-ı mailine girdiğimizde geleceğine inanıyorum bu söylemin.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

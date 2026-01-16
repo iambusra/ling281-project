@@ -1,0 +1,50 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:01:36.987281",
+    "total_entries": 3,
+    "input": "suriyelileri neden ülkelerine yollamıyoruz",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelileri neden ülkelerine yollamıyoruz",
+      "entry_id": "160998813",
+      "author": "jutfory",
+      "date": "27.01.2024 00:24",
+      "content": "ülkelerinde iç savaş bitti. herkes geri çağrıldı, bayramlarda da gidip geliyorlar. neden hala onları davet ediyoruz, neden bütçemizi onlar için hala harcıyoruz? cevabı gerçekten merak ediyorum.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "ECON",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelileri neden ülkelerine yollamıyoruz",
+      "entry_id": "160998981",
+      "author": "sozen",
+      "date": "27.01.2024 00:30",
+      "content": "paşam, parasını aldı yedi. şu an ona giren çıkan yok ki.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyelileri neden ülkelerine yollamıyoruz",
+      "entry_id": "160998999",
+      "author": "fatifati",
+      "date": "27.01.2024 00:31 ~ 00:34",
+      "content": "(bkz: zafer partisi) bu soruyu soranların oluşturduğu bir parti.. son seçimde 1.215.264 kişi sormuşuz.\nama gün geçtikte artıyor bu sayı tabi. sende geldin mesela.\n\nşu sıralar 4 milyon rakamını bulmusuzdur. 2028 e kadar rahat bi 15 milyon kişiyi bulacaktır. tabi o sirada bizi boşa düşürecek 15 milyon suriyeli olmazsa karşımızda...",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "XENO"
+      ]
+    }
+  ]
+}

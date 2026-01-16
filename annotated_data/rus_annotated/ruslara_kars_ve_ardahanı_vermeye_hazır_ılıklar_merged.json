@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:29:30.978910",
+    "total_entries": 1,
+    "input": "ruslara kars ve ardahanı vermeye hazır ılıklar",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ruslara kars ve ardahanı vermeye hazır ılıklar",
+      "entry_id": "134147913",
+      "author": "oteberidegil",
+      "date": "24.02.2022 10:05",
+      "content": "sözlükte sayısı azımsanmayacak olan rusçu ılıklardır.\n\nadamlar sabah akşam rusya menfaatlerini öve öve doyamıyorlar. osmanlı'yı perişan edip yıkılmasına neden olan, doğu anadolu'yu yıllarca kaosa sürükleyen, doğu illerini onlarca yıl elinde tutan, başımıza ermeni sorunu oluşturan, karadenizi rus gölü yapmak için kafayı bozan, sıcak denizlere inmek için türkleri tehdit olarak gören ve bunu belirtmekten çekinmeyen diktatör bir ülkeyi savunmak için kıçını yırtan tipler rus menfaatleri için her şeyi yapmaya hazırdır.\n\nlan adamlar açık açık kars ve ardahanı istediler. bizim ılıklar da''putin çoh böyük adam ya, kudurun lan natocular!'' diye entry girebiliyorlar. azıcık haysiyet sahibi olun.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    }
+  ]
+}

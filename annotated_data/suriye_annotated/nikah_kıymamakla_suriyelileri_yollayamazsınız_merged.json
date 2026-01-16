@@ -1,0 +1,86 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:44:19.872686",
+    "total_entries": 6,
+    "input": "nikah kıymamakla suriyelileri yollayamazsınız",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "nikah kıymamakla suriyelileri yollayamazsınız",
+      "entry_id": "164370983",
+      "author": "yetkin99",
+      "date": "13.05.2024 15:23",
+      "content": "bir özgür özel beyanı.\nhttps://x.com/…ofworldco/status/1789640871245160725\nşovmen belediye başkanlarına söylemiş ama kimse sallamıyor tabi özgür'ü.",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "nikah kıymamakla suriyelileri yollayamazsınız",
+      "entry_id": "164371150",
+      "author": "rantci yandas muteahhit",
+      "date": "13.05.2024 15:30",
+      "content": "tamam be özgürcüğüm, ab \"avrupa'nın huzurunu koruman\" karşılığında tayyip'e verdiği paranın üç katını sana verecek anladık. ama bu kadar belli etme, fazla dikkat çekiyorsun.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "nikah kıymamakla suriyelileri yollayamazsınız",
+      "entry_id": "164371724",
+      "author": "beytiahzan",
+      "date": "13.05.2024 15:53",
+      "content": "oldukça yerinde bir ifadedir.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "nikah kıymamakla suriyelileri yollayamazsınız",
+      "entry_id": "164372077",
+      "author": "guju",
+      "date": "13.05.2024 16:08",
+      "content": "tepkiler gelince saman adam safsatasına başvurmuş.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "nikah kıymamakla suriyelileri yollayamazsınız",
+      "entry_id": "164372098",
+      "author": "oguzaky",
+      "date": "13.05.2024 16:09",
+      "content": "şunu bilmek önemli. türkiye bir almanya, fransa vs değildir. yani bizim türkler gidip almanyada çok ciddi konumlara gelmiştir hatta siyasette vardırlar. fakat bizde bu durum olmayacaktır. isterse sayıları 10 milyon olsun. elbet gidecekler..",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "nikah kıymamakla suriyelileri yollayamazsınız",
+      "entry_id": "164372154",
+      "author": "jesuschrisa",
+      "date": "13.05.2024 16:11 ~ 16:16",
+      "content": "halki beyinsz yerine koyan bir adet capsizin aciklamasi.\n\nbelediye olarak onlari ulkelerine hic olmadi akp belediyelerine kacirtmak icin elinde o kadar cok guc var ki. en basitinden afyon ve karabuk olayini karsilastirsan yasadisi gelenlere goz actirilmayacagini gostersen belediye olarak uzerine dusen duzenli denetimleri yapsan ve hak edenlere cazalari kessen kimse sana mancinikla firlat bu gocmenleri demez ama sende o durus yok durus!!!\n\nkacak actiklari dukkanlari muhurlesen yeter ama ozgur bunu senin yapamayacagin ve de capinin yetmeyecegi cok bariz anlasildi.\n\nbak bugun degil 4 yil sonra bile gelsen senin basinda oldugun partiye oyu bir daha zor veriririm. cunku halkin size tanimis oldugu sansi baya baya yanlis anlamaya devam ediyorsun!\n\nozetle bop akp chp elbirliginde devam ettiriliyor...",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "XENO",
+        "HATE",
+        "POLICY"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:10:24.627531",
+    "total_entries": 3,
+    "input": "türkiye'de asyalıların suriyelilerden fazla olması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türkiye'de asyalıların suriyelilerden fazla olması",
+      "entry_id": "90193774",
+      "author": "bu ne dunya kardesimmm",
+      "date": "17.05.2019 15:35",
+      "content": "gözlemlerime göre özellikle'de istanbul'da asyalı nüfusu; suriyeliler, niggalar, afganlar, pakistanlılar ve iranlılardan daha fazla. benim gördüklerim genelde türkmenistanlıydı. bir de diğer göçmenlere kimse pek güvenmediği için kaçak, ucuz iş gücünde en çok bu asyalılar kullanılıyor.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO",
+        "ECON"
+      ]
+    },
+    {
+      "title": "türkiye'de asyalıların suriyelilerden fazla olması",
+      "entry_id": "90194726",
+      "author": "falconvirtue",
+      "date": "17.05.2019 16:05",
+      "content": "(bkz: www.yaptigintespitisikeyim.com)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "türkiye'de asyalıların suriyelilerden fazla olması",
+      "entry_id": "90195027",
+      "author": "delimanyaq",
+      "date": "17.05.2019 16:14",
+      "content": "kur onlar içinde çok yüksek memleketlerinden buralara çalışıp parfa biriktirmek için geliyolar şimdik onlarda kaçıyo dolarla daha çok kazanabilecekleri ülkelere.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "ECON"
+      ]
+    }
+  ]
+}

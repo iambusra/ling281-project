@@ -1,0 +1,87 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:28:08.046605",
+    "total_entries": 6,
+    "input": "rusları bir tek türklerin insan yerine koyması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rusları bir tek türklerin insan yerine koyması",
+      "entry_id": "135274147",
+      "author": "nerden geldin nereye gidiyon ey yolcu",
+      "date": "22.03.2022 20:29",
+      "content": "çünkü aynı konumdasın batıya bakarsan.her an başına birşey geldiğinde sanada saldırırlar yeterki bir bahane olsun.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "rusları bir tek türklerin insan yerine koyması",
+      "entry_id": "135274659",
+      "author": "hafta sonuna ozel ucretsiz kargo",
+      "date": "22.03.2022 20:44",
+      "content": "herkes bir şekilde eleştirebilir ama iki halkında her ne kadar savaş meydanlarında 11 kere karşılaşmış olsa da ezilmiş bir halka sahip olmasıdır.\n\navrupa bunu son üç yüzyıl da aştığı için şu an daha farklı görünüyor. çünkü tamamen sömürge üzerine kuruldular. öte yandan türkiye'nin coğrafi konumu her zaman değerli olduğu için hep ezilen bir halk olduk.\n\nvardır elbet rusların da belirli nedeni. ama bizim için son yüzyıl, onlar için de kısmen son 30 yıl özgürlük için önemliydi.\n\nha osmanlıyı falan eleştirmiyorum ve zaten tarihi eleştirmek çok önemli değil olmuş bitmiş çünkü. ama osmanlı'nın borç batağına düşürülmesi, sömürgeci olmaması, hüküm sürdüğü topraklarda yaşayanların sürekli isyanlar çıkarması, haliyle hem devleti, hem yaşayan halkı ciddi yordu.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rusları bir tek türklerin insan yerine koyması",
+      "entry_id": "135274752",
+      "author": "deutsche am meer",
+      "date": "22.03.2022 20:46",
+      "content": "iki millet de batının sınırında olup asla batılı kabul edilmemektedir.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rusları bir tek türklerin insan yerine koyması",
+      "entry_id": "135275162",
+      "author": "cokonemlidegilzaten",
+      "date": "22.03.2022 20:57 ~ 23.03.2022 07:35",
+      "content": "batı ve rusya arasındaki savaşta türkiye neden batının gösterdiği tepkiyi göstermek zorunda anlamadığım durum. batı propagandasından beyni yanmış batı özentileri dünyayı batıdan ibaret sanıyor olabilir ama öyle bir dünya yok.\n\ndünyada ilk defa mı savaş oluyor? türkiye'nin terör ile mücadelesine, ermenistan'ın azerbaycan'ı işgaline batı hangi tepkiyi göstermiş de biz onlar için rusya ile aramızı bozacağız? onlar yüzünden esad ile aramızı bozduk da, karşılığın da ne elde ettik? milyonlarca mülteci ve milyarlarca dolar zarar. bundan sonr\na batı için 1 usd bile kaybedecek paramız yok. aksine batıdan açılan boşluğu doldurarak bu krizi fırsata çevirmeliyiz.\n\ntanım: rusları sadece batının insan yerine koymaması olarak düzeltilmesi gereken başlık. batının ruslara karşı yaptığı bu ırkçılık önümüzdeki 100 yıl unutulmayacak. biz türkiye olarak bu rezaletin içinde yer almamakla en doğrusunu yapıyoruz.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "rusları bir tek türklerin insan yerine koyması",
+      "entry_id": "135275256",
+      "author": "sudosuz surahi",
+      "date": "22.03.2022 20:59",
+      "content": "cebinde 100 dolarla gelip 10 gün aile boyu all inclusive tatil yapip 40 dolarla geri dönen rusların el üstünde tutulması",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "rusları bir tek türklerin insan yerine koyması",
+      "entry_id": "135275321",
+      "author": "seni heyetinden sikmeyi tasarliyorum",
+      "date": "22.03.2022 21:01",
+      "content": "ama yine de türkler barbar diyecek dangalakların olması. ruslar insandır; ukraynalılar da insandır.\n\nanlayamazsınız evladım. zorlama insancıllığınızla bizim insana bakış açımızı asla anlayamazsınız.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "XENO",
+        "HUMAN-POS"
+      ]
+    }
+  ]
+}

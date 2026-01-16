@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:08:48.975892",
+    "total_entries": 1,
+    "input": "rusyanın ukraynayı işgal etmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rusyanın ukraynayı işgal etmesi",
+      "entry_id": "134060671",
+      "author": "elitia",
+      "date": "22.02.2022 09:55",
+      "content": "putin, şark kurnazı bir yaklaşımla, donesk bölgesinin bağımsızlığını tanıyarak ukraynayı işgal etmeden bu bölgeyi topraklarına katmış oldu. ukrayna, avrupa birliği, nato, abd herkes birbirine bakıyor.\nşimdi biz bu durumu diplomatik akılla mı izah edeceğiz?",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    }
+  ]
+}

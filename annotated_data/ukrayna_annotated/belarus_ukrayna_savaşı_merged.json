@@ -1,0 +1,72 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:05:55.612891",
+    "total_entries": 5,
+    "input": "belarus ukrayna savaşı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "belarus ukrayna savaşı",
+      "entry_id": "167812739",
+      "author": "erimeyenbalya",
+      "date": "28.08.2024 01:22 ~ 01:25",
+      "content": "geliyor gelmekte olan..\n\nbelarus askeri araçlarında taktiksel \"b\" işareti görülmeye başlandı (büyük harf).\n\nrus ordusu da z ve v harfli araçlarla ukrayna'ya saldırmıştı.\n\ndiktatör lukaşenko ukrayna'ya saldırırsa nato ordusu lukaşenko ve belarus'un içinden geçer.\n\ngörsel\n\nkaynak: liveuamap.com",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "belarus ukrayna savaşı",
+      "entry_id": "167813431",
+      "author": "byprfct",
+      "date": "28.08.2024 01:43",
+      "content": "nurtopu gibi bir diktatöre daha sahip olduğumuz başlığa vesile olmuştur.\n\nçilli civciv biden ve yancılarının çıkarına kim uymasa diktatör ilan edip, dünyaya böyle empoze ediyorlar. ne yapsın adamlar ne istiyorsunuz? \"demokrat coniler\" kimin sınırına silah yığsa, dışarıda kalma üşürsün içeri buyur demeleri mi gerekiyor.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "belarus ukrayna savaşı",
+      "entry_id": "167813502",
+      "author": "desjard",
+      "date": "28.08.2024 01:46",
+      "content": "lukaşenko = batının onayladığı bir seçim olmadığı için diktatör ilan edilir\n\nzelensky = savaş var diye seçimleri süresiz erteler. ama halk kahramanıdır. savaş 10 yıl sürse bile zelensky 10 yıl ukraynanın başında seçim olmadan kalacaktır\n\nbu iki komşu ülkenin savaş riskinden bahseden başlık.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "belarus ukrayna savaşı",
+      "entry_id": "167814549",
+      "author": "sepu",
+      "date": "28.08.2024 02:36",
+      "content": "belarus zaten diktatörlükle yönetilen bir ülke, her köşe başı ajan dolu insanlar hükümet aleyhine bir kelime dahi edemiyor sindirmişler toplumu. belarus her zaman rusya'nın yanında olacaktır avrupa yada amerika'nın alacağı ambargo kararları rusya'dan uzak kalmasında bir rol oynamayacaktır. biri rus diğeri beyaz rus daime birlikte hareket edeceklerdir. zelenski denen adam amerika ve avrupa tarafından rusya'ya ambargo uygulanabilmeleri için bir kukladan ötesi değildir. ukrayna halkına üzülüyorum zaten dünyadan 50 yıl geriden gelirken bir 50 yıl daha geriye attı ülkeyi. bu savaş bitmez, ukrayna rusya'nın egemenliğini kabul etmedikçe devam edecektir.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "belarus ukrayna savaşı",
+      "entry_id": "167816336",
+      "author": "anatolian eagle",
+      "date": "28.08.2024 06:33",
+      "content": "gtünü öyle bir kaşırlar ki, kaçacak delik arar o diktatör bozuntusu.rusya kendi kıçına sahip çıkamıyor,beloruslar 3 ayda isyan çıkarır,lukhaşenkoda,bir uçak dolusu para ile moskovaya kaçar.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

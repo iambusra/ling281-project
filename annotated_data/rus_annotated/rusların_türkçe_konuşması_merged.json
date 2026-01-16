@@ -1,0 +1,50 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:34:01.173550",
+    "total_entries": 3,
+    "input": "rusların türkçe konuşması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rusların türkçe konuşması",
+      "entry_id": "8198963",
+      "author": "alcione",
+      "date": "15.09.2005 16:12 ~ 16:14",
+      "content": "sert sessizleri yumuşatarak konuşurlar. yani p b olur, ç c hatta j olur, ş de j olur, t d, k ise g olur. tam olarak böyle mi olur bilemiyorum ama siz ne demek istediğimi anladınız.\n\nayrıca sanki tersten konuşuyorlarmış gibi bir etki yaratırlar. vurgular sanki ilk seste değil de son sestedir, böylece dışarı verilen nefesle değil de içeri alınan nefesle konuşuyormuş gibi olurlar.\n\nama en şahanesi için (bkz: rusların türkçe konuşurken kekelemesi)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "rusların türkçe konuşması",
+      "entry_id": "17756259",
+      "author": "frankiegoestohollywood",
+      "date": "09.01.2010 07:01 ~ 07:03",
+      "content": "(bkz: duj)\n(bkz: sen istiyor duj verejek 50 dolar daha)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rusların türkçe konuşması",
+      "entry_id": "144983425",
+      "author": "owencan",
+      "date": "11.11.2022 22:05",
+      "content": "güzel rus kızları tarafından icra edildiğinde dünyada cenneti yaşatan vasat eylem. dedemden kalan tarlaları satıp moskova'ya yerleşme isteği geliyor bünyeme, başım dönüyor.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "CULTURE",
+        "POS-STEREO"
+      ]
+    }
+  ]
+}

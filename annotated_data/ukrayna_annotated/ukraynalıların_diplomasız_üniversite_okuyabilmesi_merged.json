@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:23:50.146146",
+    "total_entries": 1,
+    "input": "ukraynalıların diplomasız üniversite okuyabilmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukraynalıların diplomasız üniversite okuyabilmesi",
+      "entry_id": "136929910",
+      "author": "cormisan",
+      "date": "02.05.2022 21:44",
+      "content": "almanya’da mümkün olan durum. savas yüzünden okulunu bitiremeyenler icin istisna yapmislar. halkta hafiften homurdanmalar var tabi.\n\nhttps://www.tagesschau.de/…zugang-ukrainer-101.html",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    }
+  ]
+}

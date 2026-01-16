@@ -1,0 +1,62 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:31:30.748170",
+    "total_entries": 4,
+    "input": "türkler gitsin ruslarla ispanyollar başbaşa kalsın",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türkler gitsin ruslarla ispanyollar başbaşa kalsın",
+      "entry_id": "20691571",
+      "author": "veli mcbeal",
+      "date": "24.10.2010 12:22",
+      "content": "kaçınılmaz son.\n\n(bkz: türk erkekler gitsin ispanyol erkekler gelsin)\n(bkz: türk kızları tedavülden kalksın rus kızlar gelsin)\n(bkz: ya basta)",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "türkler gitsin ruslarla ispanyollar başbaşa kalsın",
+      "entry_id": "21361837",
+      "author": "uws",
+      "date": "29.12.2010 01:44",
+      "content": "sozlukteki rahatsizliga bakarsak optimal cozum gibi gorunen teklif. ispanyol ve italyan erkekleri degismeli girip cikabilir sanirim.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "türkler gitsin ruslarla ispanyollar başbaşa kalsın",
+      "entry_id": "21361958",
+      "author": "umth",
+      "date": "29.12.2010 01:52",
+      "content": "bir rus olarak katıldığım öneri.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "türkler gitsin ruslarla ispanyollar başbaşa kalsın",
+      "entry_id": "21361986",
+      "author": "metafor yapim teknikleri",
+      "date": "29.12.2010 01:54 ~ 31.12.2010 12:11",
+      "content": "bir japon olarak zerre kadar ilgilenmediğim öneri.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

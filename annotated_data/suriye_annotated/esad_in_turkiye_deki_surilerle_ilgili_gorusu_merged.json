@@ -1,0 +1,61 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:41:53.690939",
+    "total_entries": 4,
+    "input": "esad'in turkiye'deki surilerle ilgili gorusu",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "esad'in turkiye'deki surilerle ilgili gorusu",
+      "entry_id": "137310091",
+      "author": "rozhok",
+      "date": "11.05.2022 13:11",
+      "content": "sinira takilmamis hali; \" suriye devlet baskani besar esad'in turkiye'nin geri gondermeyi dusundugu suriyelilerle ilgili gorusu\" olmasi gereken baslik...\n\nbunu soran, arastiran bir tane bile gazeteci yok mu??\nyoksa bu onemsenmemesi gereken bir ayrinti da, bir tek bana mi garip geliyor?",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "esad'in turkiye'deki surilerle ilgili gorusu",
+      "entry_id": "137310156",
+      "author": "plazma",
+      "date": "11.05.2022 13:13",
+      "content": "biz hatay'ı plesibit ile aldık.\n\nbiraz daha beklese plesibit ile kilis, antep ve benzer durumdaki şehirleri alabilecek duruma gelecek.\n\nben olsam suriyelileri geri almak istemezdim.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "esad'in turkiye'deki surilerle ilgili gorusu",
+      "entry_id": "137310666",
+      "author": "7714714",
+      "date": "11.05.2022 13:29",
+      "content": "adam savaşmadan kazandığı toprakları düşünüyordur",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "esad'in turkiye'deki surilerle ilgili gorusu",
+      "entry_id": "137311359",
+      "author": "reca93",
+      "date": "11.05.2022 13:49",
+      "content": "yollamayın diyecektir diye tahmin ediyorum",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    }
+  ]
+}

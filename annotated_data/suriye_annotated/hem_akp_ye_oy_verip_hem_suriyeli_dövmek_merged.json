@@ -1,0 +1,59 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:42:46.606690",
+    "total_entries": 4,
+    "input": "hem akp'ye oy verip hem suriyeli dövmek",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "hem akp'ye oy verip hem suriyeli dövmek",
+      "entry_id": "44949095",
+      "author": "eksenhareketi",
+      "date": "13.08.2014 19:26",
+      "content": "gazianteplilerin gerçekleştirdiği olaydır. hem son yerel seçimde akp'ye belediyeyi teslim et hem cumhurbaşkanlığı seçiminde erdoğan'a hatırı sayılır bir oranda oy ver sonra git sokakta karşılaştığın garibanları linç et. kendine bir sor bu insanlar neden burada, bunları buraya kim getirdi, bu insanları bilinçsizce toplumun içine kim yerleştirdi?\n\nbunları düşün ondan sonra elinde bayraklarla vatan kurtarmaya gidiyormuş gibi insan öldürmeye neden gitmemen gerektiğini anla.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "XENO",
+        "HATE",
+        "CRIME"
+      ]
+    },
+    {
+      "title": "hem akp'ye oy verip hem suriyeli dövmek",
+      "entry_id": "44949589",
+      "author": "pompeu fabra",
+      "date": "13.08.2014 19:49",
+      "content": "(bkz: suriyelilere isyan edip tayyibe oy vermek)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "hem akp'ye oy verip hem suriyeli dövmek",
+      "entry_id": "44949668",
+      "author": "iett 99 806",
+      "date": "13.08.2014 19:53 ~ 19:55",
+      "content": "bir mahalleyi kokutmak için 10 santim kalınlığında akan bir lağım suyu yeter. ilgili şehirde ak parti'ye oy verenler gibi, vermeyenler de var. 100 tane ırkçı faşist de bütün antep'i kokutmaya yetmiş maalesef. ayrıca akp'ye yüzde yüz doğru adamlar oy veriyor da değil. ırkçı faşistlerden oy gidiyor diye bütün oy verenler ırkçı faşist değil. başı açıklar oy veriyor diye bütün seçmenin başı açık, ya da tesettürlüler de oy veriyor diye bütün seçmeni tesettürlü değil.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "hem akp'ye oy verip hem suriyeli dövmek",
+      "entry_id": "44950198",
+      "author": "1001idea",
+      "date": "13.08.2014 20:18",
+      "content": "oy vermenin ne demek olduğunu ve nasıl bir güç olduğunu anlayamamış, sindirememiş bünyenin yapacağı iştir..",
+      "has_external_url": false
+    }
+  ]
+}

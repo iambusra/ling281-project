@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:14:18.559579",
+    "total_entries": 1,
+    "input": "ukrayna'da neler oluyor",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukrayna'da neler oluyor",
+      "entry_id": "39996503",
+      "author": "skybreak",
+      "date": "28.01.2014 02:15",
+      "content": "türkçe' ye çevirmeye üşendiğim, orada dönenleri anlatan harika bir kaynak:\n\n- bizde polis, onlarda berkut\n- bizde palalılar, onlarda titushki\n- 3 büyük futbol taraftarının birleşmesi\n- saha doktorları\n- kaza ile değil bilinçli şekilde öldürülen insanlar\n\nbenzerlik çok, ama çok daha örgütlüler.\n\nhttp://www.slideshare.net/…lly-happening-in-ukraine",
+      "has_external_url": true,
+      "sentiment_numeric": 4,
+      "categories": [
+        "NEUTRAL",
+        "CRIME"
+      ]
+    }
+  ]
+}

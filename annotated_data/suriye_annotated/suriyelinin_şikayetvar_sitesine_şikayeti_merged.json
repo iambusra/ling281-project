@@ -1,0 +1,73 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:07:23.477900",
+    "total_entries": 5,
+    "input": "suriyelinin şikayetvar sitesine şikayeti",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelinin şikayetvar sitesine şikayeti",
+      "entry_id": "164320243",
+      "author": "kinyo",
+      "date": "11.05.2024 23:42",
+      "content": "gramer hatası olmayan yazısı kendisine aitse alsın türk vatandaşlığını ben razıyım. o kesme işareti, konuşmayı tırnak içine alması, virgülden sonra boşluk bırakması... ekşide yazar olanların çoğu bu kadar düzgün yazamıyor. gariplik var gibi geldi bana.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyelinin şikayetvar sitesine şikayeti",
+      "entry_id": "164320697",
+      "author": "ferrarisini satan overlokcu",
+      "date": "11.05.2024 23:51",
+      "content": "ümit özdağ bu haberi beğendi",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyelinin şikayetvar sitesine şikayeti",
+      "entry_id": "164321066",
+      "author": "biliyozdayazyoz",
+      "date": "11.05.2024 23:59",
+      "content": "(bkz: ıslahat fermanı)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyelinin şikayetvar sitesine şikayeti",
+      "entry_id": "164324199",
+      "author": "akrasos",
+      "date": "12.05.2024 01:00",
+      "content": "hiç bir resmiyeti olmayan abidik gubidik hareketler.\n\nsiz yine de suriyelilerden hesap soruldugu \"sen ayricalikli vatandastin ama artik degilsin\" diyen valilerin oldugu.\n\nama \"sınırdışı etmeyelim pampa yazik ulan buna\" diyenler yuzunden, sınırdışı edilmedigini bilin.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelinin şikayetvar sitesine şikayeti",
+      "entry_id": "164324949",
+      "author": "saruhanbeyi",
+      "date": "12.05.2024 01:18",
+      "content": "seçimi neden kaybettik sorunun cevabını arayan ak parti yönetimi, cevaplar o kadar net ki, göremiyor olmanız, bunlara adım atmyor olmanız komik, çok komik.\n\nbence 2 seneye kalmaz parti tarihe gömülecek, çünkü seçimden bu yana düşme eğilimi devam ediyor.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

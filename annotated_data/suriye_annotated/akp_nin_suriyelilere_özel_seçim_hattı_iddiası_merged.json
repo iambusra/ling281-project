@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:30:27.178889",
+    "total_entries": 2,
+    "input": "akp'nin suriyelilere özel seçim hattı iddiası",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "akp'nin suriyelilere özel seçim hattı iddiası",
+      "entry_id": "152136935",
+      "author": "mzm",
+      "date": "09.05.2023 11:52",
+      "content": "az evvel twitter'da denk geldiğim iddia.\n\ndeniz büstani isimli bir twitter hesabının yaptığı paylaşımda söz konusu iddiayı destekleyen bir video mevcut. şurada\n\narapça bilmiyorum ama videoda altyazı mevcut. o altyazılar doğruysa durum bir hayli vahim. arapça bilen arkadaşlar varsa konuşmayı teyit edebilir mi acaba?\n\nne oluyor ne bitiyor anlayamıyorum artık. afad ilgilenecek sizle ne demek amk ya? depremde anamız ağlarken bize yetemeyen, yetişmeyen afad gerçekten suriyelilerin seçimde türkiye'ye taşınmasına mı aracılık ediyor?",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "akp'nin suriyelilere özel seçim hattı iddiası",
+      "entry_id": "152137092",
+      "author": "bir stalin ya da naftalin",
+      "date": "09.05.2023 11:58",
+      "content": "iddia değil, gerçek.\n\nsöz konusu telefon numaralarını ararsanız gerçek olduğunu kulaklarınızla duyacaksınız.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    }
+  ]
+}

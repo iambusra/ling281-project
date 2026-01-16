@@ -1,0 +1,75 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:55:06.903221",
+    "total_entries": 5,
+    "input": "suriyeliler gitmesin kampanyası",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeliler gitmesin kampanyası",
+      "entry_id": "170840049",
+      "author": "ikindileyin",
+      "date": "08.12.2024 14:27",
+      "content": "memleketteki tek düzgün yabancılar olan suriyelilerin hepsi ülkelerindeki devrimden sonra gideceklerini açıklıyorlar. ailesiyle birlikte buraya gelmiş bir şekilde sisteme entegre olmuş eli iş tutan bu insanların gidecek olmasına sanırım bir ben içerledim. gitmeyin kardeşim. nereye gidiyorsunuz?\n\ndevletin bir an önce olası bir kitlesel göçü engellemesi gerekiyor. suriyeliler gitmesin atayistler gitsin.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "XENO",
+        "HATE",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyeliler gitmesin kampanyası",
+      "entry_id": "170840207",
+      "author": "platzeins",
+      "date": "08.12.2024 14:33 ~ 14:37",
+      "content": "endişelenmeyin, çünkü yıl sonuna kadar ben bi 3 milyon daha bekliyorum.\nnedeni ise (bkz: selefilik)(bkz: vahabilik)(bkz: ışid)\nbu güzide siyasi yöntemlerle bombasız patlamasız kafa kesmesiz sessiz birgün dahi olamayacağı için yeni suriyelilere karşılama töreni hazırlasak iyi olur.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "suriyeliler gitmesin kampanyası",
+      "entry_id": "170840499",
+      "author": "skaldak",
+      "date": "08.12.2024 14:46",
+      "content": "bu başlıkları açan dincileri zamanında engellemişim ne güzel. saçma sapan entrylere maruz kalmıyorum.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE"
+      ]
+    },
+    {
+      "title": "suriyeliler gitmesin kampanyası",
+      "entry_id": "170841183",
+      "author": "derdinipaylasmayanadam",
+      "date": "08.12.2024 15:15",
+      "content": "bu ve benzeri fikirde olanları da göndermek için aramızda para toplayalım ve de kurtulalım.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "CRIME"
+      ]
+    },
+    {
+      "title": "suriyeliler gitmesin kampanyası",
+      "entry_id": "172574295",
+      "author": "panik odasinda uyuklayan adam",
+      "date": "07.02.2025 16:08",
+      "content": "(bkz: al ananın evine yerleştir)\nolmayan kampanya. kimsenin götü yemez referandum yapmaya o da ayrı konu.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

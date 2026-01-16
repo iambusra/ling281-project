@@ -1,0 +1,37 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:27:14.330919",
+    "total_entries": 2,
+    "input": "rus işgalini kınayan ruslar listesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rus işgalini kınayan ruslar listesi",
+      "entry_id": "134414835",
+      "author": "better call sabire",
+      "date": "02.03.2022 16:27",
+      "content": "tam sayısını merak ettiğim liste. günlerdir spor ve sanat camiasından men edilen rusların mağduriyet masallarını dinliyoruz. işgalci rus devletini ve başındaki diktatörü kınayan kaç tane rus spor kulübü, sporcu veya sanatçı var acaba?",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "rus işgalini kınayan ruslar listesi",
+      "entry_id": "134414940",
+      "author": "betada don bebegim yok diye uye oldum",
+      "date": "02.03.2022 16:30",
+      "content": "(bkz: hayırlı faşizmler)\n\nhayırdır, kelle avcılığına artık düşünceleri yönetecek şekilde mi dahil olduk? size ne güzel kardeşim kim kınadı kınamadı. senin derdin devlet ve devletin başkanıyla. halkından sana ne?\n\nşimdi akp'nin yediği boklardan dolayı ve sırf açık açık kınamadın diye yarın öbür gün işinden olmak, toplumdan dışlanmak ister misin? istemezsin muhtemelen. o yüzden takılmayınız.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:45:25.845846",
+    "total_entries": 7,
+    "input": "sinan oğan'ın suriyelilere yardım paketi dağıtımı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "sinan oğan'ın suriyelilere yardım paketi dağıtımı",
+      "entry_id": "152675591",
+      "author": "paintman",
+      "date": "22.05.2023 14:42 ~ 14:43",
+      "content": "şu tweet'te denk geldiğim olay. suriyeli sığınmacılara dağıttığı paketleri facebook'tan falan da paylaşmış sinan oğan..\n\nhttps://twitter.com/…?t=mablkj8cceqa7vr5xsvx4g&s=19\n\ngörsel",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "sinan oğan'ın suriyelilere yardım paketi dağıtımı",
+      "entry_id": "152675674",
+      "author": "bobmarleyinkayipoglufero",
+      "date": "22.05.2023 14:45",
+      "content": "(bkz: ülkücülerin biraz kaypak olması)\n(bkz: devlet bahçeli)\n(bkz: milliyetçi hareket partisi)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "sinan oğan'ın suriyelilere yardım paketi dağıtımı",
+      "entry_id": "152675748",
+      "author": "tarihte bugun",
+      "date": "22.05.2023 14:48",
+      "content": "bir de bu var.\n\n(bkz: afgan sefaletini meclise taşıyan milliyetçi)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "sinan oğan'ın suriyelilere yardım paketi dağıtımı",
+      "entry_id": "152675885",
+      "author": "cyber rider",
+      "date": "22.05.2023 14:53",
+      "content": "her ne kadar 8 yıl önce yaşanmış olsada, türk kültüründe böyle bir şey olduğu için;\n\n(bkz: ay ben gülerim)\ndavar gibi güdülmekten mi bahsediyorduk?\nortamın güzelliğine, şenliğine, neşesine, psikopatlığına bakar mısın?\n\ntam bir sirk. ucube şovu da var. süper bir olay.\n\ndağıtım demişken, günü gelecek bunlar en çok ben yardım ettim diyecek. o ayrı.\nbu bağlamda güzel bi anı.\n\nbelki de o dağıtımdan sonra uyanmıştır?",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "sinan oğan'ın suriyelilere yardım paketi dağıtımı",
+      "entry_id": "152676079",
+      "author": "cleglaw",
+      "date": "22.05.2023 15:00",
+      "content": "aaa olur mu öyle şey 2012'de sınırımız yolgeçen hanına döndü diyen kılıçdaroğlu'na vatan sevgisi konusunda ders verecek daha.\n\nbeğenmediğiniz kılıçdaroğlu bu adamlardan 50 ket ilkeli omurgalı.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "sinan oğan'ın suriyelilere yardım paketi dağıtımı",
+      "entry_id": "152679507",
+      "author": "black and brown",
+      "date": "22.05.2023 16:56",
+      "content": "(bkz: geçmişten günümüze kk'nın suriyeli açıklamaları)\n\nmülteciler konusunda istikrarlı şekilde aynı şeyleri söyleyen tek politikacı kılıçdaroğlu.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "sinan oğan'ın suriyelilere yardım paketi dağıtımı",
+      "entry_id": "152679545",
+      "author": "black and brown",
+      "date": "22.05.2023 16:57",
+      "content": "ikisini de dene, tarafını seç:\n\ngörsel\n\ngörsel",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

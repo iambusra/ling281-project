@@ -1,0 +1,38 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:09:25.487539",
+    "total_entries": 2,
+    "input": "türk kızlarının suriyelilerle evlenmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türk kızlarının suriyelilerle evlenmesi",
+      "entry_id": "45811265",
+      "author": "modern mesiah",
+      "date": "19.09.2014 21:54 ~ 23:39",
+      "content": "(bkz: arab a sevdası)\n\njan chris'in katkılarıyla; araba veriyoruz",
+      "has_external_url": true,
+      "sentiment_numeric": 4,
+      "categories": [
+        "CULTURE",
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "türk kızlarının suriyelilerle evlenmesi",
+      "entry_id": "45811423",
+      "author": "aba zan",
+      "date": "19.09.2014 22:03",
+      "content": "kardeşlerim! türk kızlarının sorunu ırkla değil. yakışıklı ve zengin türk erkeklerinin beğenilme sorunu yaşadığını sanmıyorum.\n(bkz: iykwim)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE",
+        "HUMAN"
+      ]
+    }
+  ]
+}

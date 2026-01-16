@@ -1,0 +1,37 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:10:58.446332",
+    "total_entries": 2,
+    "input": "mavi marmara'nın ukrayna'ya gonderilmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "mavi marmara'nın ukrayna'ya gonderilmesi",
+      "entry_id": "41162691",
+      "author": "sekerlikurabiyetakliti",
+      "date": "15.03.2014 11:24 ~ 11:30",
+      "content": "neden gerçekleşmediğini kara kara düşündüğüm olaydır. oysa ki...\n\ntürk halkı ukrayna'lı kardeşleriyle kucaklaşmayı hasretle bekliyor.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "mavi marmara'nın ukrayna'ya gonderilmesi",
+      "entry_id": "41162859",
+      "author": "garipbasci",
+      "date": "15.03.2014 11:35",
+      "content": "çok riksli bir eylem. ukranya komandoları bizim bordo berelilere falan benzemez, dakkasında indirir adamı.\n\nhttp://aminus3.s3.amazonaws.com/…3cd288cc_large.jpg",
+      "has_external_url": true,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN"
+      ]
+    }
+  ]
+}

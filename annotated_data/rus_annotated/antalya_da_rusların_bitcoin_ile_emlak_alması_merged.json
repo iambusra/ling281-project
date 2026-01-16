@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:33:38.975314",
+    "total_entries": 1,
+    "input": "antalya'da rusların bitcoin ile emlak alması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "antalya'da rusların bitcoin ile emlak alması",
+      "entry_id": "152539974",
+      "author": "bmw850csi12silindirli",
+      "date": "18.05.2023 16:07",
+      "content": "şaşırma eşiğimin halen yanına bile yaklaşamayan bir haberi daha değerli sözlük yazarları ve yurdum insanları ile paylaşmak isterim, bu konu da ilay aksoy isimli demokrat parti de siyaset yapan bir kişi de tv'de açıklamalar yapmıştır az önce, daha ne olacak derken duyduğum bir konu, meselenin en kritik yönü de emlak alınır iken emlakçılar ve devlet bypass ediliyor sadece bu bile araştırılması için vahim bir durum, daha fazla detay yazmıyorum sadece bir haber linki vereyim, boş muhabbet değildir.\n\nhaber link",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY",
+        "CRIME"
+      ]
+    }
+  ]
+}

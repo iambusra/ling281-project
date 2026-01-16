@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:13:10.436048",
+    "total_entries": 1,
+    "input": "ukrayna'da siviilere askeri eğitim verilmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukrayna'da siviilere askeri eğitim verilmesi",
+      "entry_id": "133279787",
+      "author": "pharacetamol",
+      "date": "04.02.2022 08:31",
+      "content": "savaş çanlarının çalındığı şu günlerde gerginliği yükselten suları ısıtan bir gelişmedir.türkiye taraf olacakmı olmayacak mı bilinmez ama coğrafya kaderindir sözünü herhalde daha sık kullanacağız.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-10T23:37:31.330594",
+    "total_entries": 1,
+    "input": "mahoy suri",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "mahoy suri",
+      "entry_id": "137707416",
+      "author": "ncpzbsn",
+      "date": "21.05.2022 03:23",
+      "content": "son sasani şahanşahı iii. yezdigerd'i m.s. 651 senesinde valisi (bkz: marzban) olduğu merv şehrinde katlederek sasani hanedanına kesin olarak son vermiş iran soylusu.\n\ndoğu roma ile girişilen aşağı yukarı 25 senelik yıkıcı ve yorucu savaşın ardından hüsrev perviz'in tahttan indirilip öldürülmesiyle başlayan ve 628 ilâ 632 seneleri arasında gerçekleşen iç savaşın ardından yalnızca sekiz yaşındayken taç giyen üçüncü yezdigerd, 638 senesinde başkent ktesifon'un düşmesi ve ardından araplar'ın kelimenin tam anlamıyla iran topraklarını süpürürcesine ele geçirmesi sonrasında sürgünde bir kral olarak devletini idare etmeye çalışmışsa da işin doğrusu şudur ki m.s. 640'lar ile beraber ortada bir devlet olduğunu söylemek abesle iştigaldir.\n\nbu şartlar altında 650 senesinde merv şehrine gelen şahanşah, hâlen sasani hanedanına bağlılığını bildiren mahuy suri'nin malikânesinde konaklamaya başlamıştır. ne var ki mahoy suri, bir yandan da araplar ile dirsek temasında olduğundan ve muhtemelen iran'daki politik dengelerin ne yöne doğru gideceğini çoktan kavradığı için kısa süre içerisinde sürgündeki yezdigerd'e sırt çevirmiştir. yezdigerd, muhtemelen çin'e doğru kaçmak için yola koyulduğundaysa merv'in birkaç kilometre dışındaki bir binada mahoy suri'nin adamları tarafından yakalanmış ve infaz edilmiştir.\n\nmahoy suri ise son sasani hükümdarının katlinin ardından horasan valisi olarak hilafet'in emrine girmiş olup kendisine dair en son tarihî kayıt ise 657 senesinde vilayetinde bir isyan çıktığı yönündedir.",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

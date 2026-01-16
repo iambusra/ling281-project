@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:31:16.807022",
+    "total_entries": 1,
+    "input": "bak berke artık ruslarla sevişmeni istemiyorum ok",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "bak berke artık ruslarla sevişmeni istemiyorum ok",
+      "entry_id": "56571886",
+      "author": "kotudur kotu",
+      "date": "28.11.2015 21:19",
+      "content": "bir mesaj. yikim getirdi.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

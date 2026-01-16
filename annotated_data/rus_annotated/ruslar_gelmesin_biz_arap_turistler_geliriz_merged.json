@@ -1,0 +1,983 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:26:32.995412",
+    "total_entries": 77,
+    "input": "ruslar gelmesin biz arap turistler geliriz",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ruslar gelmesin biz arap turistler geliriz",
+      "entry_id": "58452865",
+      "author": "insan donuna girmis telli turna",
+      "date": "12.02.2016 17:17",
+      "content": "icimizi ferahlatacak haberdir efendim.\n\narap turizm birliği başkanı al-fehaid: \"türkiye'de meydana gelen uçak hadisesinden sonra rusya'nın almış olduğu kararlara seyirci kalacak değiliz. arap ülkeleri ile türkiye arasındaki ilişkilerin iyi bir noktaya gelmesi ve daha fazla arap turistin türkiye'ye gitmesi için çaba gösteriyoruz.\"\n\nhttp://www.radikal.com.tr/…sin-biz-geliriz-1509763/",
+      "has_external_url": true,
+      "sentiment_numeric": 4,
+      "categories": [
+        "ECON",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "ruslar gelmesin biz arap turistler geliriz",
+      "entry_id": "58452884",
+      "author": "lazika",
+      "date": "12.02.2016 17:18 ~ 17:20",
+      "content": "(bkz: sen gelme lan arap)",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "ruslar gelmesin biz arap turistler geliriz",
+      "entry_id": "58452922",
+      "author": "neptun savascisi",
+      "date": "12.02.2016 17:20",
+      "content": "bir sor bakalım \"biz sizi istiyor muyuz?\" dedirten haber...\n\nturist yollayacağınıza din kardeşleriniz olan suriyelilere azıcık evinizi açın la, sağımız solumuz arap oldu anasını satayım.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "ruslar gelmesin biz arap turistler geliriz",
+      "entry_id": "58452940",
+      "author": "conaskimi",
+      "date": "12.02.2016 17:21",
+      "content": "(bkz: aynı şey mi lan)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ruslar gelmesin biz arap turistler geliriz",
+      "entry_id": "58452959",
+      "author": "jcool",
+      "date": "12.02.2016 17:22",
+      "content": "(bkz: arap sen gelme bokunu çıkartıyorsun.)",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ruslar gelmesin biz arap turistler geliriz",
+      "entry_id": "58452967",
+      "author": "handmadegod",
+      "date": "12.02.2016 17:22",
+      "content": "bunların dönem dönem konakladığı antalya otellerinden birebir şahidim. adamlar don mu giymiyor nedir, bildiğin kesif bir bok kokusu bunları takip ediyordu otelin her köşesinde. gelmeyin kardeşim. biz yeterince sıçıyoruz içine ülkenin. yeterince bok kokusu var.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ruslar gelmesin biz arap turistler geliriz",
+      "entry_id": "58453167",
+      "author": "white vinegar",
+      "date": "12.02.2016 17:31",
+      "content": "sadece otelciye kazandıran rus turisttense gelip çarşı pazar gezen, alışveriş yapan, döviz bırakan arap turist yeğdir.\n\ngelsinler, buyursunlar.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "ECON"
+      ]
+    },
+    {
+      "title": "ruslar gelmesin biz arap turistler geliriz",
+      "entry_id": "58453200",
+      "author": "neptun savascisi",
+      "date": "12.02.2016 17:33",
+      "content": "bir hafta türkiye'de kalıp avm dışında adam gibi tarihi herhangi bir yeri gezip dolaşmayan arapların otelciye kazandırmadığını zannedenleri gösteren haber.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "ruslar gelmesin biz arap turistler geliriz",
+      "entry_id": "58453223",
+      "author": "supervidi",
+      "date": "12.02.2016 17:34",
+      "content": "senden başka kimgelse başımın üstünde yeri var...(bkz: herkes gelsin sen gelme)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "ruslar gelmesin biz arap turistler geliriz",
+      "entry_id": "58453244",
+      "author": "vedya",
+      "date": "12.02.2016 17:35",
+      "content": "ne kadar tatlı iyi niyetli sevimli görünen bir açıklamaya ya. işin iç yüzü farklı mıdır bilemem ama bu konuda paranoyak olmamaya karar verdim. ben şahsen su ana kadar rus turistten bir hayır görmedim. gördüğüm kadarıyla ya bağdat caddesi çevresine yerleşmiş çocuk büyütüyorlar ki onlara artık turist demiyoruz. ya da her şey dahil otellerin açık büfelerinde tabak dolduruyorlar. halbuki araplar öyle mi. ne zaman görsem alışverişteler. ayrıca size hiç yakışmıyor bir milleti külliyen silip atmak. bize yapılsa hoşunuza gider mi? biz ailemizde böyle kırıcı laflar ediyor muyuz? üzmeyin beni, herkes güzel güzel kendi işini yapsın. duymayayım bir daha böyle şeyler.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ruslar gelmesin biz arap turistler geliriz",
+      "entry_id": "58453305",
+      "author": "narcissist",
+      "date": "12.02.2016 17:38",
+      "content": "(bkz: yarra yedik)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ruslar gelmesin biz arap turistler geliriz",
+      "entry_id": "58453358",
+      "author": "nickbulamadim123",
+      "date": "12.02.2016 17:41 ~ 17:42",
+      "content": "asıl gelirse turizm sektörü batacak.\n\nbombalarla otelleri patlatıp, karınıza kızınıza tecavüz ettiklerinde bulursunuz turizmi.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ruslar gelmesin biz arap turistler geliriz",
+      "entry_id": "58453453",
+      "author": "what doesnt kill you makes you stranger",
+      "date": "12.02.2016 17:45",
+      "content": "(bkz: türk kızları gitsin arap ninjaları gelsin)",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ruslar gelmesin biz arap turistler geliriz",
+      "entry_id": "58453613",
+      "author": "totkymotky",
+      "date": "12.02.2016 17:52",
+      "content": "(bkz: işte ben de bundan korkuyordum)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ruslar gelmesin biz arap turistler geliriz",
+      "entry_id": "58453641",
+      "author": "otobandaki kilometre tasi",
+      "date": "12.02.2016 17:54",
+      "content": "şaka yaptık olum yok turizm krizi falan, gelmeyin tamam. dünyanın en güzel klişesidir (bkz: ırkçı değilim ama araplardan nefret ederim)",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ruslar gelmesin biz arap turistler geliriz",
+      "entry_id": "58453658",
+      "author": "electricities",
+      "date": "12.02.2016 17:55",
+      "content": "\"biz arap turistler\" diye bir genelleme yapan insan ne güzel insandır.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ruslar gelmesin biz arap turistler geliriz",
+      "entry_id": "58453722",
+      "author": "utanan ayi",
+      "date": "12.02.2016 17:57",
+      "content": "neyin başkanı olduğu belli olmayan kişinin sözü.\ngoogle'da türkçe aratıyorsun çıkmıyor, ingilizce çıkmıyor.\n\nbu adamın \"türklerle aramızı iyi tutalım, çıkın açıklama yapın\" diye şu veya bu arap ülkesinin devletinden emir aldığı kesin.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ruslar gelmesin biz arap turistler geliriz",
+      "entry_id": "58453743",
+      "author": "checuba",
+      "date": "12.02.2016 17:58",
+      "content": "abd ve ingiltere'den başka kime faydanız dokundu da, turizme faydanız dokunacak. faydan dokunsun istiyorsan, bize petrol ver!\n\nyok otelciye kazandıracakmış ta.. yorumlara bak.\n\nulan sen git önce otelde çalışan personele sigortan var mı, ne kadar maaş alıyorsun, günde kaç saat çalışıyorsun diye sor bakalım, otelciyi düşüneceğine.\n\nesnaf şortun üzerine''20'' yazmış. ne yirmi? tl, usd, euro? turiste göre fiyat! her köşe başı tavuk dönerci! bütün restoranlar türkiş kebap!\n\nturizm anlayışınıza sokayım. ne bekliyordunuz ki! getir toroslardan bir anadolu kadını, girsin mutfağa; yöresel yemekler yapsın; ülkeni, yöreni tanıt!\n\nönce sorgula alman turizmine ne oldu da, rus pazarına açıldık, araplara kadar düştük diye.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ruslar gelmesin biz arap turistler geliriz",
+      "entry_id": "58453789",
+      "author": "jardin des lotus",
+      "date": "12.02.2016 18:00 ~ 18:02",
+      "content": "demek istiyor ki inşaat sektörünüzü bataktan biz kurtartık, turizmi de biz kurtaracağız...tarihte araplardan bize hayır geldiği görülmemiştir...geleceği görmek için geçmişe bakın...kısacası günü kurtarıp sonunda her anlamda boku yiyeceğiz...",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ruslar gelmesin biz arap turistler geliriz",
+      "entry_id": "58453832",
+      "author": "yoga yapan mistiq kedi",
+      "date": "12.02.2016 18:02",
+      "content": "maalesef, kötü bir haberdir. geçen yaz antalya merkez'de bir otelde kaldım kısa bir süre. otel arap ve iranlı turistlerle doluydu. ben hayatımda bu kadar pis insanlar görmedim amk. defalarca uyarılmalarına rağmen elbiselerle havuza giren mi beklersin, çöplerini her tarafa atan mı, yedikleri yiyecek artıklarını havuzun kenarına bırakanı mı, gece havuza gireni mi... mayosunu havuzda yıkayıp kuruması için şezlonga seren tip bile gördüm amk!!",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ruslar gelmesin biz arap turistler geliriz",
+      "entry_id": "58453901",
+      "author": "kivanco",
+      "date": "12.02.2016 18:06 ~ 18:08",
+      "content": "tatil beldelerinde ve tesislerinde bunlarla kalmak zorunda kalacak, elde kalmış alman, hollandalı, ingiliz v.s. tüm avrupalı turistleri de kaçıracağı için çok pis ters tepecek uygulama. orta ve uzun vadede beraberinde daha büyük yıkımları getirir.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "ECON",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ruslar gelmesin biz arap turistler geliriz",
+      "entry_id": "58453953",
+      "author": "shed",
+      "date": "12.02.2016 18:10",
+      "content": "(bkz: sonunda geldi araplar)\n(bkz: yasaklar)\n(bkz: metin alasya zeki akpınar)\n(bkz: back to the future)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ruslar gelmesin biz arap turistler geliriz",
+      "entry_id": "58454016",
+      "author": "bananickbulun",
+      "date": "12.02.2016 18:13",
+      "content": "son gittiğim otelde bolca bulunan arapları biraz gözleme şansım oldu.\n-eşlerini satıp turistlere baka baka gezenler mi ararsın,\n-akşam yemeklerinde (tamam illa çok şık olmak için kasma ama) parmak arası terlik ve tişörtleriyle restoranlara inen mi ararsın,\n-kendilerini müslüman görüp turist erkeklere pis pis bakıp arkalarından konuşan mı ararsin(adamlar çat pat türkçe konuşuyorlardı oradan biliyorum),\n-ruslara tabağı çok dolduruyorlar diyenler için keşke tabaklarindaki ufak tepeleri çekebilseydim,\n-beach volleyde fileyi aşağı çekmek suretiyle(ne 1 ne 2 defa) pislik yapanları mı anlatayım,\n\ndaha aklıma gelirse editlerim ama ben kendi adıma sen gelme ulan ayı deme hakkımı saklı tutuyorum.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ruslar gelmesin biz arap turistler geliriz",
+      "entry_id": "58454033",
+      "author": "god de souza",
+      "date": "12.02.2016 18:14",
+      "content": "(bkz: içicen şarabı sikicen arabı)",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ruslar gelmesin biz arap turistler geliriz",
+      "entry_id": "58454262",
+      "author": "megawolt",
+      "date": "12.02.2016 18:26",
+      "content": "paranın dini imanı olmaz, isterse marslı gelsin amk",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ruslar gelmesin biz arap turistler geliriz",
+      "entry_id": "58454565",
+      "author": "rulingus",
+      "date": "12.02.2016 18:42",
+      "content": "ulan sanki araplarda turist potansiyeli olan haril haril dünyayi gezen insanlar. adamlarda gezme kültürü yokki kac tane arap turist görüyosunuz bi yere gittiginizde. avrupali asyali gibi kültür turizmine ilgileri yok cünkü tarihe ilgileri yok e denizede gitmez bunlar. e nereye gelecek arap turisti? belki istanbulda cami topkapi sarayini ziyaret etselerde diger yörelerdeki tesisler ne yapacak o kadar insan ne yiyip ne icecek? bok yediniz ucak düsürmekle.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ruslar gelmesin biz arap turistler geliriz",
+      "entry_id": "58454617",
+      "author": "drkobay",
+      "date": "12.02.2016 18:44",
+      "content": "(bkz: diego dur allahını seversen zaten ortalık karışık)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ruslar gelmesin biz arap turistler geliriz",
+      "entry_id": "58454629",
+      "author": "sekerci mi baban senin",
+      "date": "12.02.2016 18:45",
+      "content": "(bkz: rus olmadı da diyelim ki arap oldu o da olumlu)",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "ruslar gelmesin biz arap turistler geliriz",
+      "entry_id": "58454696",
+      "author": "hayalitehlike",
+      "date": "12.02.2016 18:48",
+      "content": "yerli turiiste görgüsüz, talepkar diye burun kıvıran turizmciler için tam gereken bence. para açısından sıkıntıları olmaz da rus kaldırmaya giden elemanlar bi daha düşünür artık",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "ECON"
+      ]
+    },
+    {
+      "title": "ruslar gelmesin biz arap turistler geliriz",
+      "entry_id": "58454880",
+      "author": "airbornerc",
+      "date": "12.02.2016 18:58",
+      "content": "kumda roller değişmiş olup, gençlerimize bu sezon iyi şanslar dileriz..",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ruslar gelmesin biz arap turistler geliriz",
+      "entry_id": "58454922",
+      "author": "macrosdovahkiin",
+      "date": "12.02.2016 19:01",
+      "content": "(bkz: allahınız varsa gelmezsiniz)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ruslar gelmesin biz arap turistler geliriz",
+      "entry_id": "58455144",
+      "author": "milito",
+      "date": "12.02.2016 19:13",
+      "content": "batın anasını satayım sanki tatile gidebildiğimiz var",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ruslar gelmesin biz arap turistler geliriz",
+      "entry_id": "58455176",
+      "author": "harbegidensarisaclicocuk",
+      "date": "12.02.2016 19:15",
+      "content": "su sozlukte ne irkci pislikler var ulan. 100 kisi de favlamis. yaziklar olsun.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ruslar gelmesin biz arap turistler geliriz",
+      "entry_id": "58455382",
+      "author": "idarenin aslanini ben vurdum",
+      "date": "12.02.2016 19:26",
+      "content": "rusyayla aramız bozulduğundan beri ortaya çıkan saçma haberlerden biri. geçen akpli bir arkadaşa, noldu sizinkiler yüzünden sebze, meyve elimizde kaldı dedim. sıkıntı yok, boşnaklar sizi mağdur etmeyiz demiş onlar almışlar dedi. oğlum rusya 140 milyon, bosna 4 milyon dedim. işte diğer balkan devletleri de alır dedi. kim alacak sırbistan mı dedim.\ndoğalgazı da rusya satmasın bizde katardan alırız zaten demeler. şimdi de rus turist gelmesin biz geliriz diyen araplar. bunların tabanda \"çok şükür, zalimle savaşırken bizi yalnız bırakmadınız, işte osmanlı ruhu\" diye gözleri doluyor. hayır her şeyi geçtim. ben kendi halinde suuudi bir işadamı olanı ebu el malikim mesela. yaz tatilinde eşimle beraber mısır gitcem. keza eşimle mısır çok seviyoruz. türkiye'ye de daha önce geldik pek beğenmedik. hangi kuvvet beni türkiyeye tatile gitmeye zorlayacak. turizm bakanı gelip kolumdan tutup zorla türkiyeye mi götürecek.\nhayır yıllarca irana sempati duydum. amerika'nın haksız bir ambargo uyguladığını düşündüm. bir gün bile aklımdan, dur bu adamlara destek olayım, yazın marmarise değil iran'a gideyim. urmiye golunde balık tutayım, hazar denizde boy vereyim, tahran caddelerinde turlayayım diye geçirmedim.\ngeçen yaz kemerdeydim. rusya'daki hafif bir ekonomik kriz bile adamı perişan etmiş. oteller yarı yarıyaydı. bakalım sizin arap turist planınız kemer esnafını kurtarmaya yetecek mi?",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ruslar gelmesin biz arap turistler geliriz",
+      "entry_id": "58455944",
+      "author": "budunchu",
+      "date": "12.02.2016 19:59",
+      "content": "ırkçılıksa ırkçılık diyecem ama kafama klavye atmalarından korkuyorum.\n\nyolda yürürken bile arap olduklarını anlayabilirsiniz bu milletin.\nhele bir de metroda aynı vagona bindiyseniz 5 duraklık yolculuğunuzda\n\n-bağırarak konuşmaları (yüksek sesle konuşmanın ötesinde birşey)\n-heryerin boş olmasına rağmen personal space'inizin tamamını işgal etmeleri\n\nrahatsız ediyor beni. hatta itici bir durum.\n\nşimdi diyecekler ki sırf arap diye ben abartıyorum.\n\nhayır efenim ben her yaz didim'e giderim ve orada da ingilizler aynı şeyi yapıyor ve uyarıyorum. 5 dk sonra sanki ben yokmuşum ve az önce uyarmamışım gibi hönkürerek konuşmaya devam ediyorlar.\n\nben şahsen uzak doğulu turisti tercih ederim. japon'u, çinli'si, koreli'si, taiwanlı'sı gelsin abi.\n\nadamlar gerçekten medeni. kültürlerinden gelen birşey. avrupaymış filan yalan hep. aslında biz türkler de o kültüre yakın olmamıza rağmen 1000 yıldır arap seviciliğimiz yüzünden arap olup çıkmışız.\n\nsonuç olarak gelmesinler istiyorum. biz fakir olalım ama çağdaş kalalım.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ruslar gelmesin biz arap turistler geliriz",
+      "entry_id": "58456289",
+      "author": "morokuz",
+      "date": "12.02.2016 20:20",
+      "content": "(bkz: sözlükte artan ırkçılık)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ruslar gelmesin biz arap turistler geliriz",
+      "entry_id": "58456339",
+      "author": "niktir et nicktir de olur",
+      "date": "12.02.2016 20:22",
+      "content": "sukraaaan sukraaaaaan ayva diye diye ayvayi yiycez, ulkenin icine sicip kaliteyi iyice asagiya cekecekler, haa biz de cok kaliteli miyiz tartisilir",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ruslar gelmesin biz arap turistler geliriz",
+      "entry_id": "58456352",
+      "author": "psiren",
+      "date": "12.02.2016 20:23 ~ 20:24",
+      "content": "(bkz: sen istiyor gusül, verecek 100 riyal daha)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ruslar gelmesin biz arap turistler geliriz",
+      "entry_id": "58456401",
+      "author": "kartal kalkar dal sarkar",
+      "date": "12.02.2016 20:25",
+      "content": "babam sofor. bir arap aile'yi taniyor dayim (arabistana soforluk yapar kendisi) neyse bu aile istanbul'a tatile gelecegiz diyorlar, babama is veriyorlar, sagolsunlar. yalniz 1 hafta gezme sonunda, toplam 7 kisilik (5 cocuk) o ailenin minibusu ne hale getirdigini ne siz sorun, ne ben soyleyeyim. boyle olacagini tahmin edebilseydi babam, kabul etmezdi. o gunden sonra hicbir arapla is yapmadik zaten. yine de hic yoktan iyidir diye para kazaniyorum diyorsunuz, ama araplar kadar pis bir millet ben hayatimda gormedim (hindistana henuz gitmedim, sonra fikrim degisebilir). ama tum dunya gibi, biz de dahil bu pis millete paralari var diye kapimizi aciyoruz.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ruslar gelmesin biz arap turistler geliriz",
+      "entry_id": "58456654",
+      "author": "tornado of souls",
+      "date": "12.02.2016 20:40",
+      "content": "benim köyüm sapanca/sakarya bilen bilir güzeldir yeşil bol.yaninda kırkpınar var.ayni güzellikler vardır yesillik bol temiz hava.bir süre önce (tahmini 4-5 sene) araplar dadandi kırkpınar'a.gordukleri yeri alıyor adamlar.nereye baksan ev dikiliyor.tabi yerel halk para kazandığı için pek şikayetçi değil.verilen paralar yüksek.hal böyle olunca seneler önce bakip hayran kaldığınız dağin bir kismi komple villa oluyor tabi.aman gelmesinler.bizim taraflar bunlar gele gele kendinden geçti.yeter.\nher gelen yer alacak değil ama ihtimal rahatsız edici.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO",
+        "ECON"
+      ]
+    },
+    {
+      "title": "ruslar gelmesin biz arap turistler geliriz",
+      "entry_id": "58457568",
+      "author": "tuyun",
+      "date": "12.02.2016 21:22",
+      "content": "(bkz: sen gelme ulan ayı)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ruslar gelmesin biz arap turistler geliriz",
+      "entry_id": "58457707",
+      "author": "thunderball",
+      "date": "12.02.2016 21:31",
+      "content": "(bkz: arap düşürmek)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ruslar gelmesin biz arap turistler geliriz",
+      "entry_id": "58457715",
+      "author": "suendenbock",
+      "date": "12.02.2016 21:31",
+      "content": "gelsin... onlar da gelsin. herkes gelsin.\n\nama zaten geliyorlardı ki. sayılarında gelmeyecek 5 milyon rus turistin yarattığı açığı kapatacak bir artış mümkün değil. tüm nüfusu ne ki arap yarımadasının?\n\nasıl hedef çinliler, belki bir ihtimal rus etkisinden kurtarabileceğimiz türki cumhuriyetler, balkanlar ve doğu avrupa olmalı. ha bir de boyunduruğundan kısmen kurtulan iran.\n\nucuz fiyat, bol reklam kampanyası, belki dünya çapında starlarla desteklenen turizm kampanyaları vb.\n\nama ortada adam akıllı hiçbir adım yok.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "ruslar gelmesin biz arap turistler geliriz",
+      "entry_id": "58458613",
+      "author": "mutlu tuccar",
+      "date": "12.02.2016 22:10",
+      "content": "(bkz: 31'e devam heval)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ruslar gelmesin biz arap turistler geliriz",
+      "entry_id": "58458943",
+      "author": "gencotr",
+      "date": "12.02.2016 22:26 ~ 22:27",
+      "content": "(bkz: arap sen içme bokunu çıkarıyorsun)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ruslar gelmesin biz arap turistler geliriz",
+      "entry_id": "58459037",
+      "author": "nomoreplayer",
+      "date": "12.02.2016 22:29",
+      "content": "istanbula gelen rus ve avrupalı turistler en medeni arapları cebinden çıkartırlar medeniyet konusunda. sağlık turizmi ayağına gelen arap turistler mesela, evet belki döviz bırakıyor ama yaşam kalitesini de düşürüyor. medeniyet, saygı vs. sıfırın altında bu adamlarda.\n\nbizim evin bitişiğindeki bina bir apart otel. geçenlerde bu arap turistlerden birinin veledi gecenin bir vakti (12-1 falandı sanırım) çıkmış balkona messssiii, messsiii diye bağıra çağıra top oynuyor. ailesinin de hiç umurunda değil.\n\nkarşı komşumuzun eşi de arap. gece 12de elektrik süpürgesi açmak mı dersin, memleketteki akrabalarını arayıp bağıra çağıra gecenin bir vakti konuşmak mı dersin, ne ararsan var. geçenlerde bir gün açmış bir ebru gündeş şarkısı yarım yamalak eşlik ediyor avazı çıktığı kadar. başka bir gün bir bakıyorsunuz tv'de son ses kuran dinliyor. bir de anlamada sorun var kadında. defalarca uyarıyorsunuz ama salak gibi tekrarlıyor.\n\nbir de bu adamların ilk defa kadın görmüş gibi her gördüğü kadını gözleriyle taciz etmesi var tabi.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "ruslar gelmesin biz arap turistler geliriz",
+      "entry_id": "58459145",
+      "author": "babayarrogi",
+      "date": "12.02.2016 22:35",
+      "content": "ruslar gelmesin arap turist sikeriz diyen cikarmi acaba.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "CRIME"
+      ]
+    },
+    {
+      "title": "ruslar gelmesin biz arap turistler geliriz",
+      "entry_id": "58459162",
+      "author": "polyhymnia",
+      "date": "12.02.2016 22:36",
+      "content": "her yıl gönderdiğimiz 70.000 hacının harcadığı 1.2 milyar doların birazını geri vermiş olurlar. lütuf mu şimdi bu da hemen arap daşşağı yalamaya başladınız?",
+      "has_external_url": false
+    },
+    {
+      "title": "ruslar gelmesin biz arap turistler geliriz",
+      "entry_id": "58459344",
+      "author": "ameobi",
+      "date": "12.02.2016 22:45 ~ 13.02.2016 01:50",
+      "content": "burada olayı ırkçılık seviyesinde değerlendirip çarpıtanlar var. turizm konusunda bir tecrübem yok ancak şunu biliyorum ki turizmin de diğer her sektör gibi uluslararası standartları var, uluslararası standartların kabul edilmediği yerlerde de özel uygulamaları var. buradaki tepkilerimizin ana kaynağı da türkiye'nin katı dini inanışları olan bir turist kitlesine mahkum bırakılması ve sırf bu yüzden iyi kötü kurumsallaşmış turizm dinamiklerinde köklü bir değişime gitmek zorunda olması. bu değişim sadece rus turistlerle ilgili bir durum yaratmıyor. standart prosedürlerle hareket ederseniz rus, japon, alman, ingiliz vs. her türlü vatandaşı ülkenize çekebilirsiniz ama katı islami prosedürlere göre hareket ederseniz doğal olarak yalnızca müslümanların ilgisini çekersiniz.\n\nakp'nin izlediği sünni islam gücünü harekete geçirmeye yönelik dış politikası, doğal olarak turizmi de etkiliyor. belli ki kabe turizminin suudi arabistan'a getirdiği gelirden o kadar çok etkileniyorlar ki bu potansiyelin küçük bir kısmına bile ulaşabilmek için canlarını dişlerine takıyorlar.\n\nsonuç olarak türkiye'nin bu değişimi ülkeyi kısa vadede maddi olarak rahatlatabilir ancak kuruluş amaçlarında yer alan uygar toplumların seviyesine ulaşma hedefinden de bir o kadar uzaklaştırır. en son ağustos ayında istanbul'a gittim ve atatürk havalimanında karşılaştığım görüntüyle inanılmaz bir üzüntü yaşadım. hiçbir maddi çıkar bu ülkeyi arkasında 3-4 tane kara çarşaflı kadın yürüten sapık ruhlu adamlar için cazibe merkezi haline getirmeye değmez.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "ruslar gelmesin biz arap turistler geliriz",
+      "entry_id": "58459555",
+      "author": "gayetnet",
+      "date": "12.02.2016 22:57",
+      "content": "geçen hafta ukrayna odessaya uçaktan inip pasaport kontrolünde tanıştığım bir abi 4 yıldızlı otelde çalışıyormuş. durumların nasıl olduğunu sordum çoğu 3 yıldızlı otel bu sene kapatabilir. bizim orasıda kapattı. sonumuzun ne olacağını bilmiyoruz. turizm de genelde rus ağırlıklıydık fakat bu durum bir çoğumuzu işimizden etti. aslında benimde iş bakmam lazım fakat hanımım moldovalı ailesini ziyarete gidiyoruz bir hafta kalıp döneceğiz. daha sonra başka ülke bağlayamazsa bizim otel başka otellerde iş bakacağım dedi. durumlar karışık arap marap ne varsa gelsin.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "ECON"
+      ]
+    },
+    {
+      "title": "ruslar gelmesin biz arap turistler geliriz",
+      "entry_id": "58459809",
+      "author": "cokciddi",
+      "date": "12.02.2016 23:08 ~ 13.02.2016 08:41",
+      "content": "(bkz: sanırım tek eksiğiniz araptı)\n\nhep adam gelir ben diyim. ülkenin zaten yüzde 70'i adam. araplarda bu oran yüzde 90larda. ruslar dengeliyordu biraz çünkü onlarda pek adam yok. putin var, medvedev var, rocky'deki dayağı yiyen rus var bi de onu biliyorum. 3 tane sayabildim bak. evet istatistik müdürlüğünden geliyorum. müdürümüz çok kral adam, akşama kadar çay muhabbet. neyse...\n\nbir de arapların sarışın düşkünlüğü vardır. zaten az olan yerli sarışına hücum eden yurdum insanı iki rus gelince şenleniyordu, eğleşiyordu, çocuklaşıyordu. şimdi eldeki yerli sarışınlar da gidecek arap boylara varacak. güliz ayla filan arap prensiylen gezecek sahilde sen de mal gibi bakacan. vay dertli ülkem benim. vay garip ülkem benim. rahmetli neşet ertaş yaşayaydı türkü bile yazardı bu duruma.",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ruslar gelmesin biz arap turistler geliriz",
+      "entry_id": "58460444",
+      "author": "olur olmaz",
+      "date": "12.02.2016 23:35",
+      "content": "(bkz: ohh no!)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ruslar gelmesin biz arap turistler geliriz",
+      "entry_id": "58460554",
+      "author": "ouwyeah",
+      "date": "12.02.2016 23:40",
+      "content": "araplarin bize ne yarari oldi ki simdi olacak. bunlar hep amerikanin oyunu.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ruslar gelmesin biz arap turistler geliriz",
+      "entry_id": "58460614",
+      "author": "tu delicious tu forget",
+      "date": "12.02.2016 23:43",
+      "content": "ayak! her yer de çıplak, kirli, pis, leş kokan ayaklar. aklı olan, tatil yerlerine sprey koku ticaretine başlayabilir!",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ruslar gelmesin biz arap turistler geliriz",
+      "entry_id": "58462080",
+      "author": "bastimeksiyi",
+      "date": "13.02.2016 00:40",
+      "content": "ruslardansa daha karlı olacak bir şeydir.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "ECON"
+      ]
+    },
+    {
+      "title": "ruslar gelmesin biz arap turistler geliriz",
+      "entry_id": "58462712",
+      "author": "jedilost",
+      "date": "13.02.2016 01:10",
+      "content": "yukarıda da birkaç kişinin değindiği üzere, gerçekleştiği takdirde, arap turisti memnun etmek bahanesiyle turizm sektörünün hızla şeriat kanunlarına göre düzenlenmesiyle sonuçlanacaktır.\n\nayrıca, hangi milletten olursa olsun, parasız yığınları ülkeye çekmeyi başarılı turizm zannetmek komedinin daniskasıdır. her tarafa iğrenç beton yığınları dikip üzerine otel tabelası asmak yerine doğal güzellikleri koruyun, parasını verene adam gibi hizmet sunun, parasızları da sktir edin, ister bulgaristan'a gitsinler, ister macaristan'a.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "ruslar gelmesin biz arap turistler geliriz",
+      "entry_id": "58462966",
+      "author": "elite skirmisher",
+      "date": "13.02.2016 01:23",
+      "content": "devekuşu kabarede anlatılan 80 sonrası arap turist çılgınlığı geri geliyor sanki dedirten haber.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "ruslar gelmesin biz arap turistler geliriz",
+      "entry_id": "58463209",
+      "author": "gozlerim 4 defa lacivert",
+      "date": "13.02.2016 01:37",
+      "content": "deniz turizmi sektörünü de araplara bağlarsak erkek fellahlar gece hanımlarını erkenden uyutmak suretiyle eğlence mekanlarına teşrif ederek bir erkek fellaha beş erkek düşeceğini müjdeleyen sevindirici haber.\n\nmemleket fellah doldu.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "SEXUAL",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ruslar gelmesin biz arap turistler geliriz",
+      "entry_id": "58463338",
+      "author": "arrethius",
+      "date": "13.02.2016 01:44",
+      "content": "inan ırkçı değilim, ama pis insan sevmiyorum, burnunun sümüğünü masaya süren adam istemiyorum, temiz araplar gelsin diğerleri gelmesin nolur...",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ruslar gelmesin biz arap turistler geliriz",
+      "entry_id": "58463469",
+      "author": "aelfric",
+      "date": "13.02.2016 01:54",
+      "content": "arap turistlerin bizim türk insanına para harcama şevki getireceğini ve turizmi gazlıyacağından pek emin değilim. eminim turizmciler de emin değildir. (bkz: swh)\n\nha olay sadece yabancıların getirileri ise gelip gayrimenkul alanların ve çarşı gezenlerin hesabı tutar mı bilmem.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ruslar gelmesin biz arap turistler geliriz",
+      "entry_id": "58464862",
+      "author": "endemikdavar",
+      "date": "13.02.2016 04:24",
+      "content": "lcw mağazası açmanın tam vakti.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ruslar gelmesin biz arap turistler geliriz",
+      "entry_id": "58464935",
+      "author": "ruhukarisikkendiylebarisik",
+      "date": "13.02.2016 04:33",
+      "content": "gelen bahşişe göre editleyeceğim, beni ilgilendiren kısmı bu\n\nbunun dışında türkiyede doğuya kayan toplum kültürünün yazın gelmesiyle-beraberinde batılı turist- kültürümüzün doğu-batı arasında eşitlendiğini düşünüyordum. en azından izmir dolaylarından bu şekilde aktarabilirim. yaz gelir de batı kültüründen 2 çift laf bir hareket kapamazsak, geçen yazki gibi, üzerine arap kültürüne alışırsak, suyu yavaşça ısıtılan kurbağa gibi beyinleri salacağız.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "ruslar gelmesin biz arap turistler geliriz",
+      "entry_id": "58465634",
+      "author": "godbless you black emperor",
+      "date": "13.02.2016 08:31",
+      "content": "turizm sektöründen bile bu durumu kabullenmeyecek, istemeyecek bir sürü insan tanıyorum.\n\nbu durumu pozitif bir gelişme sananlar arap turist yığınları şu ankinin 10 katı olarak türkiye'ye dolduğunda tekrar değerlendirsinler.\nırkçılığı hiç kimseye yapmam, hiç haz etmem ama konu araplar olunca ben bile durup 1 dakika değil 1 2 saat düşünüyorum. bazı kesimlerin çığırdığı kardeşlik türküsünü bir kenara bırakırsak gerçekten türkiye'de yaşayan insanların anlaşması en zor milletlerin içinde araplar; yaşam tarzları, davranışları, adetleri, düşünce yapıları olarak türkiye'nin laik, muhafazakar farketmeden her kitlesine çok tersler. en basitinden temizlik konusunda en ters olduğumuz millettir araplar.\n\nbu durum insanı en çok da turist kitlemiz de orta doğulaştı noktasında insanı kaygılandırıyor. orta doğu ülkesi olmamızın önündeki engeller bir bir yıkılıyor sanki. rus turist olmasın ne olacak avrupalı turist geliyor diyenler şunu da değerlendirsin; arapların doldurduğu otellere avrupalı turist gelir mi? benim bile türkiye insanı olarak gitmeyeceğimi düşününce, hiç sanmıyorum.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ruslar gelmesin biz arap turistler geliriz",
+      "entry_id": "58465658",
+      "author": "gri balikcil",
+      "date": "13.02.2016 08:35",
+      "content": "aha zıçtık, ormanları kökleyip site yapacaklar kesin. gelmeyin terör var, rusya ile savaşa gireceğiz, bizzat ben başlatacam hatta savaşı, gelmeyin, çocuğumu keserim, gelmeyin.",
+      "has_external_url": false
+    },
+    {
+      "title": "ruslar gelmesin biz arap turistler geliriz",
+      "entry_id": "58465929",
+      "author": "denizdemantaramsikitartar",
+      "date": "13.02.2016 09:29",
+      "content": "valla bana rusunda, arabında hep açı denk geldi. cebime hitap etmiyorsa bari gözüme hitap etsin diyip oyumu rusa kullanıyorum.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ruslar gelmesin biz arap turistler geliriz",
+      "entry_id": "58465993",
+      "author": "bcdnz",
+      "date": "13.02.2016 09:36",
+      "content": "arap'lardan gelecek hayır allahtan gelsin dediğim olay... keşke gelmeseler...",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ruslar gelmesin biz arap turistler geliriz",
+      "entry_id": "58466205",
+      "author": "maledictus",
+      "date": "13.02.2016 09:58",
+      "content": "türkiye'nin yavaştan küçük suudi'ye dönüşeceğini gösteren haber.\nlan zaten gerici suriyeli leri doldurdun ülkeye, şimdi daha fenaları gelecek. muğla sokaklarında \"battal boy çöp torbasına benzeyen kadınlar\" gezecek, antalya'ya suudi'de aradığını bulamayan abaza erkekler gelecek, artık yazları küçük erkek ve kız çocuklarını korumak için (bkz: pedofili) ayrıca bir önlem alınması gerekecek, islamcı olmayanları linç edecekler belki vs. halimiz bombok yani",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "ruslar gelmesin biz arap turistler geliriz",
+      "entry_id": "58466281",
+      "author": "bordeaux blue",
+      "date": "13.02.2016 10:06 ~ 10:14",
+      "content": "rus atlarından inip arab develerine binmeye alışmamız lazım geldiğini belirten durumdur.\n\n(bkz: attan inip deveye binmek)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "ruslar gelmesin biz arap turistler geliriz",
+      "entry_id": "58467096",
+      "author": "dude are you five",
+      "date": "13.02.2016 11:17",
+      "content": "amerika gelmesin petrolü biz türkler çıkartırız o zaman.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "ruslar gelmesin biz arap turistler geliriz",
+      "entry_id": "58467629",
+      "author": "darkoceans",
+      "date": "13.02.2016 11:59",
+      "content": "(bkz: ne arabın yüzü ne şam'in şekeri)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ruslar gelmesin biz arap turistler geliriz",
+      "entry_id": "58467706",
+      "author": "bomboneranian",
+      "date": "13.02.2016 12:04",
+      "content": "(bkz: kleopatra plajında güneşlenen arap kızlar)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "ruslar gelmesin biz arap turistler geliriz",
+      "entry_id": "58467825",
+      "author": "gorimali",
+      "date": "13.02.2016 12:12",
+      "content": "gelen araplar bizim çomarlardan kültürlü. nasıl para harcanır, nasıl yemek yenir çok iyi biliyorlar. bence önyargılarınızı yıkın. özellikle iranlılar çok iyi müşteri.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "CULTURE",
+        "POS-STEREO"
+      ]
+    },
+    {
+      "title": "ruslar gelmesin biz arap turistler geliriz",
+      "entry_id": "58467954",
+      "author": "bytuna",
+      "date": "13.02.2016 12:19",
+      "content": "batılı turist hiç bir şekilde faydası olmayan azılı tüketiciden ibarettir. arap turist ciddi manada para bırakır....",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "ECON",
+        "POS-STEREO"
+      ]
+    },
+    {
+      "title": "ruslar gelmesin biz arap turistler geliriz",
+      "entry_id": "58484772",
+      "author": "geceninleylindeyim",
+      "date": "14.02.2016 01:49",
+      "content": "ne olursan ol gel diyen mevlana'ya bile muhtemelen yuh sen gelme lan dedirtecek kara haberdir",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ruslar gelmesin biz arap turistler geliriz",
+      "entry_id": "58510898",
+      "author": "eastern bull",
+      "date": "15.02.2016 03:12",
+      "content": "über fantastik gelişme. kesin bu işin arkasında sincap'ın stratejik derinlik dehası yatıyordur. malum, rusların tarihsel \"sıcak denizlere inme\" stratejisini engelleyemedik. adamlar burnumuzun dibinde, suriye'de, akdeniz kıyılarında fink atıyorlar.\nbizim uzunla kısa durur mu? rusların hamlesine hemen akıllıca karşılık verdiler. arap ülkelerindeki forslarını kullanıp atağa geçtiler. bu yaz karadeniz kıyıları arap turistlerle dolup taşacak.\nkaradeniz kıyıları, gürcistan, kafkasya derken.. bir bakmışsınız rusya, ırak şam islam devletinin bir eyaleti olmuş. olur mu olur.\n\n(bkz: arapların soğuk denizlere çıkma stratejisi)",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "CULTURE",
+        "POS-STEREO"
+      ]
+    },
+    {
+      "title": "ruslar gelmesin biz arap turistler geliriz",
+      "entry_id": "58512680",
+      "author": "egiboy",
+      "date": "15.02.2016 08:52",
+      "content": "(bkz: ey vatan gözyaşların dinsin yetiştik çünkü biz) (bkz: swh)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ruslar gelmesin biz arap turistler geliriz",
+      "entry_id": "158671958",
+      "author": "avdil",
+      "date": "11.11.2023 12:19",
+      "content": "durun siz kardeşsiniz! onlar sizin ortodoks mezhebine mensup olanlarınızdır.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:29:37.315044",
+    "total_entries": 1,
+    "input": "turizm bakanının ruslara müjdesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "turizm bakanının ruslara müjdesi",
+      "entry_id": "123693049",
+      "author": "aegeus",
+      "date": "24.05.2021 10:10",
+      "content": "https://t24.com.tr/…kiye-nin-uzerini-cizdi-mi,31115\n\nşu yazıyı da okuyun lütfen ilgili haberi okuduktan sonra; yabancıdan para isteme huyumuz 1959'dan bu yana hiç değişmiş mi?\n\nyazık.",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "ECON"
+      ]
+    }
+  ]
+}

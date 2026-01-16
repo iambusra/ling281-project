@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:04:03.852011",
+    "total_entries": 1,
+    "input": "suriyelilerin gidişinin hiç hissedilmemesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelilerin gidişinin hiç hissedilmemesi",
+      "entry_id": "171570679",
+      "author": "faytonfayt",
+      "date": "03.01.2025 15:41",
+      "content": "esad düştükten sonra akp trollleri shop yaparak gösterdi. bakın gidiyorlar diye.\n\nesad'ı düşürdük suriyeliler geri dönecek, kiralar düşecek, fiyatlar inecek algısı da yine geçici kaldı ve boş çıktı.\n\nab'den milyar eurolar alıp suriyelileri bizim sırtımıza yüklemeye devam edecekler. artıiç talebi düşürmeden fiyatların yüksek kalmasını sağlayacaklar.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    }
+  ]
+}

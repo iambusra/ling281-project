@@ -1,0 +1,37 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:29:23.695992",
+    "total_entries": 2,
+    "input": "abd ve avrupa'nın ruslara yaptırımları",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "abd ve avrupa'nın ruslara yaptırımları",
+      "entry_id": "134372367",
+      "author": "post tenebras lux",
+      "date": "01.03.2022 17:07 ~ 03.03.2022 16:22",
+      "content": "bazıları rusya'ya, bazıları ruslara olan yaptırımlardır.\n\n(bkz: milano üniversitesi'nin dostoyevski kararı)\n(bkz: almanya'nın el koyduğu 600 milyon dolarlık yat)\n(bkz: lihtenştayn'ın rusya'ya yaptırım uygulaması)\n(bkz: almanların rus mağazalarına saldırması)\n(bkz: uluslararası kedi federasyonu'nun rusya yaptırımı)\n(bkz: 3 mart 2022 rus ağacı yaptırımı)\n(bkz: 2 mart 2022 rusların avrupada restorana alınmaması)\n(bkz: rusya'yı destekleyenlerin hapse atılması)\n(bkz: apple'in rusya'ya ürün satışını durdurması)\n(bkz: namecheap'in rus müşterilere hizmet vermeyi bırakması)\n(bkz: zagreb orkestrası'nın çaykovski çalmaması)\n(bkz: 1 mart 2022 ruslara sinemaların yasaklanması)\n(bkz: 1 mart 2022 cev kararları)\n(bkz: valery gergiev'in görevinden alınması)\n(bkz: netflix'in rus içeriklerini kaldıracağı iddiası)\n(bkz: rus öğrencilerin avrupa'dan atıldığı iddiası)\n(bkz: rus takımlarının futboldan men edilmesi)\n(bkz: 26 şubat 2022 rusya'nın swift'ten çıkarılması)\n(bkz: 26 şubat 2022 rus uçakları hava sahası kararları)\n(bkz: ab'nin sputnik ve rt'yi yasaklaması)\n(bkz: putin'in siyah kuşağının geri alınması)\n(bkz: rus bankalarının kredi kartlarının çalışmaması)\n\nabd ve ab ülkelerinin iki yüzlülüğünü gördük. o yüzden yiyin birbirinizi. ab ülkeleri işine gelince demokrasi diyor ama faşizmin kralını yapıyorlar.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "abd ve avrupa'nın ruslara yaptırımları",
+      "entry_id": "134372480",
+      "author": "nasil eksici oldum",
+      "date": "01.03.2022 17:11",
+      "content": "faşizm falan değildir bu.\n\nyapması gerekeni yapmıştır.\n\nsenin gücün olsa sende abd suriyede karışıklığa sebep olduğunda yapardın. senin gücün yok onların var. hepsi bu.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

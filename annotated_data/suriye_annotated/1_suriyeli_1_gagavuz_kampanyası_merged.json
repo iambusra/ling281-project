@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-10T23:31:45.741652",
+    "total_entries": 1,
+    "input": "1 suriyeli 1 gagavuz kampanyası",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "1 suriyeli 1 gagavuz kampanyası",
+      "entry_id": "84107530",
+      "author": "swordsman was here",
+      "date": "07.12.2018 18:23",
+      "content": "neden gagavuz? kontra önermesi ile karşı çıktığım kampanya dır.\nilla türk alacaksak azerbaycan'dan doğu türkistan a zibilyon tane olan türklerden alsak olmuyor mu?",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POLICY",
+        "XENO"
+      ]
+    }
+  ]
+}

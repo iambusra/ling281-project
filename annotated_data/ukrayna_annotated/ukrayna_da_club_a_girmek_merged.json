@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:13:32.804992",
+    "total_entries": 1,
+    "input": "ukrayna'da club'a girmek",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukrayna'da club'a girmek",
+      "entry_id": "56045638",
+      "author": "alexandraki",
+      "date": "05.11.2015 20:00",
+      "content": "öss sınavından daha zorlu bir elemeye tabi tutulmayı gerektiren eylemmiş.\nhttps://www.youtube.com/watch?v=m_dyfq3yepq",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

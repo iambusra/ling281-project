@@ -1,0 +1,84 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:30:58.951795",
+    "total_entries": 6,
+    "input": "türk kızlarının askerden kaçan ruslarla evlenmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türk kızlarının askerden kaçan ruslarla evlenmesi",
+      "entry_id": "143058649",
+      "author": "summerof69",
+      "date": "23.09.2022 20:14",
+      "content": "zorunlu askerlikten kaçış güzergahı olarak ıstanbul'u seçmiş on binlerce rus erkeği, türkiye'de uzun süre oturum iznine sahip olmak isteyecektir. türk erkeklerinden bıkmış türk kızları da bunu fırsata dönüştürüp bu rus erkekleriyle evlenmeyi tercih edebilir.\n\nyalnız, rus erkeklerinin önünde zor bir engel var: \"evlenmeden olmaz\"\n\nhttps://youtu.be/jopmgnvjjsw",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "türk kızlarının askerden kaçan ruslarla evlenmesi",
+      "entry_id": "143058848",
+      "author": "svevo",
+      "date": "23.09.2022 20:20",
+      "content": "(bkz: askerden kaçan adamdan koca olmaz)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "türk kızlarının askerden kaçan ruslarla evlenmesi",
+      "entry_id": "143058872",
+      "author": "gozluklu cozuk",
+      "date": "23.09.2022 20:21",
+      "content": "rus kadinlarinin, rus erkeklerin surekli sarhos olup onlara ilgi gostermemesinden yakinarak turk erkeklerine meyletmesi gercegi ortadayken. bizim kizlarla hayatta evlenmezler gunaydin mesaji atmasa olay cikacak falan:)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "türk kızlarının askerden kaçan ruslarla evlenmesi",
+      "entry_id": "143059458",
+      "author": "belkidekanadayagideriz",
+      "date": "23.09.2022 20:38",
+      "content": "olabilir öyle bir şey çevremde havaalanında kamp kurmayı düşünen evde kalmış kızlar var.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "türk kızlarının askerden kaçan ruslarla evlenmesi",
+      "entry_id": "143059663",
+      "author": "john elton",
+      "date": "23.09.2022 20:44",
+      "content": "https://www.youtube.com/watch?v=nd3a75k5mb4",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "türk kızlarının askerden kaçan ruslarla evlenmesi",
+      "entry_id": "143059976",
+      "author": "fdemirkan",
+      "date": "23.09.2022 20:52",
+      "content": "türk erkeğinin anladık rus erkegi kaldıydı",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    }
+  ]
+}

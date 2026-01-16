@@ -1,0 +1,108 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:09:48.508956",
+    "total_entries": 8,
+    "input": "türkiye suriye birleşmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türkiye suriye birleşmesi",
+      "entry_id": "176877934",
+      "author": "ickisiayranolanadam",
+      "date": "17.07.2025 15:45",
+      "content": "(bkz: talep edilirse suriye'ye destek veririz)\n\nmilli savunma bakanlığı tarafından bugün yapılan açıklama neticesinde akla gelen yapı.\n\n1516 yılında başlayan suriye'de türk yönetimi 1922 senesinde osmanlı devletinin tarihin tozlu sayfalarında kaybolmasıyla son buldu. tam 406 yıl boyunca bir arada yaşanılan bu süreç boyunca türkler tarafından herhangi bir baskı, şiddet yada asimilasyon politikası güdülmedi. arapça ve türkçe konuşuldu. timar sistemi benimsendi, arazilerin kullanımı yerel unsurlara verildi karşılığında vergiler alındı vs.\n\nbugün bir birleşme, ilhak ya da federasyon her ne ise bölgeye istikrar getirecektir.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "türkiye suriye birleşmesi",
+      "entry_id": "176878061",
+      "author": "pashazade ragip",
+      "date": "17.07.2025 15:51 ~ 16:57",
+      "content": "sanırım 30 yıl kadar önceydi ve böyle bir proje konuşuluyordu. ilgi çekici geldiğinden unutmamıştım. daha önce ırak sonra suriye ve son gelişmelere bakarak; türk, arap, kürt federasyonu gibi bir oluşum pek sürpriz olmaz. resmin küçük parçaları uzun vade için sadece oyalanmadır.\n\nedit: böl parçala yönetten ziyade önce bir potada birleştir ve erit sonra böl gibi bir mantık olduğunu düşünüyorum. yani sana peyniri göstermeden nasıl alacaklar.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "türkiye suriye birleşmesi",
+      "entry_id": "176878193",
+      "author": "saintlupus",
+      "date": "17.07.2025 15:58 ~ 16:44",
+      "content": "küreselcilerin türkiye hükümetlerinden talebi budur zaten boş yere arap türk kürt beraber bir ve güçlü olur diye söylemler ortaya atılmıyor pashazade ragip'ın dediği gibi ırak türkiye suriye federasyonu şeklinde bir yapı talep ediliyor ya da kurgulanıyor.\n\n(bkz: ulus devletlerin yok olacağı tarih)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "türkiye suriye birleşmesi",
+      "entry_id": "176878283",
+      "author": "debauchee",
+      "date": "17.07.2025 16:03",
+      "content": "neden kukla bir başkan atayıp sömürmek varken türkiye'ye bağlasın ki adamlar?\nbunca sene ekonomisinin hatırı sayılır bir kısmını, askeri lojistik için ayırıp operasyonlar yapan, para harcayan adamlar neden senin kucağına versinler buraları?",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "türkiye suriye birleşmesi",
+      "entry_id": "176878352",
+      "author": "thisisthis",
+      "date": "17.07.2025 16:07",
+      "content": "suriyeliler zaten türkiye ye gelmedi mi? suriye de suriyeli mi kaldı",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "türkiye suriye birleşmesi",
+      "entry_id": "176878437",
+      "author": "mehmet ali abi",
+      "date": "17.07.2025 16:11",
+      "content": "oğlum bu küresel oyun kurucuların formülü, \"böl-parçala-yönet\" değil miydi? ne ara \"yama-birleştir-yönetsin\"e döndüler?",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "türkiye suriye birleşmesi",
+      "entry_id": "177030390",
+      "author": "pashazade ragip",
+      "date": "23.07.2025 19:00",
+      "content": "böl parçala yerine, birleştir daha sonra daha iyi bölersin metodu ile planlanan fikir. osmanlı geliyor, evet evet",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "türkiye suriye birleşmesi",
+      "entry_id": "177046168",
+      "author": "ickisiayranolanadam",
+      "date": "24.07.2025 11:03",
+      "content": "(bkz: 23 temmuz 2025 suriye'nin destek istemesi)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

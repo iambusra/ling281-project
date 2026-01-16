@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:40:25.930782",
+    "total_entries": 1,
+    "input": "berke ve can adlı suriyeliler",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "berke ve can adlı suriyeliler",
+      "entry_id": "169895990",
+      "author": "bir stalin ya da naftalin",
+      "date": "05.11.2024 13:24",
+      "content": "bugün bir iş için uğradığım adı gerekmeyen kargo firmasında berke ve can adlı suriyelilerin olduğunu gördüm.\n\ngıcır tc kimlikleriyle bankoda işlem yaparken ağzım açık bir şekilde berke ve can'ı izlemekle yetindim.\n\nyaşları 30'un üzerindeydi ve neredeyse hiç türkçe bilmiyorlardı.\n\nebu vışvış gibi isimlere sahip suriyeliler, güzel atlarına binip önce nüfus müdürlüğünden tc kimlik kartlarını sonra da e devlet üzerinden isimlerini ayırt edilmeyecek şekilde değiştirdiler.\n\nahahahahaha lan bu ülkeye ne yaptınız aq",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    }
+  ]
+}

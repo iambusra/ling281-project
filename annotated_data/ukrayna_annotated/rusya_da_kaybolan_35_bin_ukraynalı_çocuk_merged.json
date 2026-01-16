@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:17:06.607046",
+    "total_entries": 1,
+    "input": "rusya'da kaybolan 35 bin ukraynalı çocuk",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rusya'da kaybolan 35 bin ukraynalı çocuk",
+      "entry_id": "176373721",
+      "author": "colin bruce",
+      "date": "27.06.2025 15:02",
+      "content": "35 bin ukraynalı çocuk kayıp: \"rus askeri kamplarına götürüldüler\" - son dakika dünya haberleri | ntv haber https://share.google/j5scrqewvzm92dbco\n\nbu nasıl iş ya? bu nasıl bir skandal? neyse ben bir şey demiyorum haber yeterince kan dondurucu zaten.",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CRIME",
+        "HUMAN"
+      ]
+    }
+  ]
+}

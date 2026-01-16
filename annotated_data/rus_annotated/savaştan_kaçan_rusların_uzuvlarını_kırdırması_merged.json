@@ -1,0 +1,72 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:34:08.887741",
+    "total_entries": 5,
+    "input": "savaştan kaçan rusların uzuvlarını kırdırması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "savaştan kaçan rusların uzuvlarını kırdırması",
+      "entry_id": "143292253",
+      "author": "weight26",
+      "date": "29.09.2022 16:23 ~ 16:25",
+      "content": "seferberlik kararından sonra rusya dışına çıkamayan bazı ruslar, askere gitmemek için \"bacak ve kollarini kırdırmaya\" başladı\n\nlink\n\nlink\n\nlink",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "savaştan kaçan rusların uzuvlarını kırdırması",
+      "entry_id": "143293536",
+      "author": "lendunhalger",
+      "date": "29.09.2022 16:59",
+      "content": "(bkz: kendini askerliğe elverişsiz hale getirmek)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "savaştan kaçan rusların uzuvlarını kırdırması",
+      "entry_id": "143293799",
+      "author": "faceman",
+      "date": "29.09.2022 17:08",
+      "content": "putin onlari yine alir askere, gerekirse airf ucaktan asagi atmak icin",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "savaştan kaçan rusların uzuvlarını kırdırması",
+      "entry_id": "143293824",
+      "author": "batiatuss",
+      "date": "29.09.2022 17:09",
+      "content": "the x files da ki bölümlere döndü bu iş iyice. gulag dan kaçan mahkumlar kara yağ enjekte edilmesin diye kollarını kesiyordu. bunlarda aynı şekilde yapıyorlar. iyice kafayı kırdı tüm dünya.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CRIME"
+      ]
+    },
+    {
+      "title": "savaştan kaçan rusların uzuvlarını kırdırması",
+      "entry_id": "143294059",
+      "author": "painnkiller",
+      "date": "29.09.2022 17:16",
+      "content": "vatan hainliği gibi görülse bile anlaşılamayacak bir şey değil.\n\nbaşkalarının çıkardığı savaşta hayatını kaybetmek istemeyen insandır.\n\nsavaşa gitse ya ölecek ya öldürecek.\n\nkimse türklüğüyle övünmesin. savaşa çağırsalar burada övünenlerin hepsi daha beterini yapar. savaşı çocuk oyunu sanmayın.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    }
+  ]
+}

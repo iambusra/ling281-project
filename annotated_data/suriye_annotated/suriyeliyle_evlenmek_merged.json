@@ -1,0 +1,42 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:08:02.212805",
+    "total_entries": 2,
+    "input": "suriyeliyle evlenmek",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeliyle evlenmek",
+      "entry_id": "136687320",
+      "author": "wafflekafa",
+      "date": "26.04.2022 15:49",
+      "content": "(bkz: #136686803)\n\nyazar öyle bir güzelleme yapmış ki, kendisine önerim; annesine babasından boşanıp, bir tane suriyeli baba getirmesini talep etmesi daha doğru olur. türk kızlarının ve türk babalarının kendisiyle aynı fikirde olduğunu düşünmüyorum.",
+      "referenced_entry_ids": [
+        "136686803"
+      ],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyeliyle evlenmek",
+      "entry_id": "136687513",
+      "author": "ceman",
+      "date": "26.04.2022 15:54",
+      "content": "umuyorum yakın zamanda akpkklıların kızlarının ve oğullarının yapacağı/yapmaları gereken süper fantastik eylem..\n\nhatta akpkklılar kızlarını suriyelilere 2.-3.-4. kuma olarak da verebilirler..\n\ntanım: bir evlilik tercihi..",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "SEXUAL"
+      ]
+    }
+  ]
+}

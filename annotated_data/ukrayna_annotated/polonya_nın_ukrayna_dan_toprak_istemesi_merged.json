@@ -1,0 +1,309 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:15:29.694501",
+    "total_entries": 24,
+    "input": "polonya'nın ukrayna'dan toprak istemesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "polonya'nın ukrayna'dan toprak istemesi",
+      "entry_id": "40909920",
+      "author": "somek kafali",
+      "date": "05.03.2014 23:15",
+      "content": "resmi olarak henüz yoktur, gayriresmi olarak vardır.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "polonya'nın ukrayna'dan toprak istemesi",
+      "entry_id": "55691607",
+      "author": "seyduna6687",
+      "date": "21.10.2015 23:15",
+      "content": "o bölgenin en çirkef milleti olan polonyadan beklenebilecek davranıştır.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "polonya'nın ukrayna'dan toprak istemesi",
+      "entry_id": "55691621",
+      "author": "turgut ozalan",
+      "date": "21.10.2015 23:16 ~ 23:18",
+      "content": "lehlerin terbiyesizliğidir, onlar önce ikinci dünya savaşından sonra haybeye kondukları asırlık prusya topraklarını kayıtsız, şartsız almanya'ya iade etsin.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "polonya'nın ukrayna'dan toprak istemesi",
+      "entry_id": "55691725",
+      "author": "ipcore",
+      "date": "21.10.2015 23:20",
+      "content": "lviv'e birşey olursa çocuğu keserim.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO",
+        "CRIME"
+      ]
+    },
+    {
+      "title": "polonya'nın ukrayna'dan toprak istemesi",
+      "entry_id": "55691744",
+      "author": "en arka koltuktaki gozluklu cocuk",
+      "date": "21.10.2015 23:21",
+      "content": "(bkz: bizde kalmamış varsa annem bir kase istiyor)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "polonya'nın ukrayna'dan toprak istemesi",
+      "entry_id": "55691873",
+      "author": "tucimania",
+      "date": "21.10.2015 23:27",
+      "content": "(bkz: tavuk sersemken sikilir)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "SEXUAL"
+      ]
+    },
+    {
+      "title": "polonya'nın ukrayna'dan toprak istemesi",
+      "entry_id": "55692005",
+      "author": "bi bostanci uzatir misiniz",
+      "date": "21.10.2015 23:33 ~ 01.02.2016 00:12",
+      "content": "polonya'da euro kullanıldığını sanan insanları ortaya çıkartması açısından güzel bir turnusol olmuştur.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "polonya'nın ukrayna'dan toprak istemesi",
+      "entry_id": "55692096",
+      "author": "kurecolor",
+      "date": "21.10.2015 23:37",
+      "content": "avrupadan putin' e ince mesaj; sikerler...",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "polonya'nın ukrayna'dan toprak istemesi",
+      "entry_id": "55692099",
+      "author": "teo",
+      "date": "21.10.2015 23:37",
+      "content": "(bkz: kaynak kıçım)\n\nbu haberi sadece azerbeycan iş merkezi diye bi sitede rastladım. ciddi haber kuruluşlarında esamesi okunmuyor.\n\npolonya ukrayna'dan toprak isteyecek ve putin hiç bir söz söylemeyecek. sıkar.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "polonya'nın ukrayna'dan toprak istemesi",
+      "entry_id": "55692421",
+      "author": "firtinatanrisi",
+      "date": "21.10.2015 23:46",
+      "content": "putin'in bi tarafiyla guldugu taleptir. batili muttefikleri kurtarsin bakalim nazi isbirlikcisi stephan'in kardeslerini.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "polonya'nın ukrayna'dan toprak istemesi",
+      "entry_id": "55692742",
+      "author": "pano",
+      "date": "21.10.2015 23:58",
+      "content": "allahın emri peygamberin kavliyle istesin, böyle olmaz ki...",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "polonya'nın ukrayna'dan toprak istemesi",
+      "entry_id": "55692979",
+      "author": "ciodeth",
+      "date": "22.10.2015 00:06",
+      "content": "(bkz: krzysztof dur allahını seversen zaten ortalık karışık)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "polonya'nın ukrayna'dan toprak istemesi",
+      "entry_id": "55693135",
+      "author": "mukan",
+      "date": "22.10.2015 00:12",
+      "content": "3. dünya savaşının görünen sebebi olacaktır.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "polonya'nın ukrayna'dan toprak istemesi",
+      "entry_id": "55693168",
+      "author": "lnl",
+      "date": "22.10.2015 00:14",
+      "content": "bir zamanlar nispeten saygın bir gazete olan milliyet'te böyle tamamen uydurma, fantastik bir haber yayınlanması şaşırtıcı. polonya cumhurbaşkanı böyle bir açıklama yapacak, bunu yazan tek ingilizce kaynak abc.az diye ne idüğü belirsiz bir azeri sitesi olacak öyle mi? sözde savaş diyor adam, gerçek olsa avrupa sallanırdı yahu.\n\ngerçekte böyle bir olay tabii ki yok, polonya ile ukrayna'nın arası gayet iyi. bütün avrupa putin'i irredentizmle suçlarken hiçbir avrupalı lider böyle taleplerde bulunamaz. hele bunu 1939 öncesinde polonya'ya ait olan topraklar laflarıyla istemek gerzekliğini hiç yapamaz. 1939 öncesi almanya'ya ait toprakları geri ver o zaman derler adama.\n\nşu haberi yazanın ve yayına verenin cidden kovulması lazım, aşağısı kurtarmaz. ortalama kültür düzeyine sahip biri bile metni okuduğunda güler yahu. türk medyasının hali hakikaten içler acısı.",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "polonya'nın ukrayna'dan toprak istemesi",
+      "entry_id": "55693410",
+      "author": "malcolmy",
+      "date": "22.10.2015 00:24",
+      "content": "(bkz: diego)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "polonya'nın ukrayna'dan toprak istemesi",
+      "entry_id": "55693502",
+      "author": "ensefalopati",
+      "date": "22.10.2015 00:28",
+      "content": "3. dunya savasi polonyada baslayacak",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "polonya'nın ukrayna'dan toprak istemesi",
+      "entry_id": "55694227",
+      "author": "nickelbird",
+      "date": "22.10.2015 01:05 ~ 01:07",
+      "content": "25 ekim 2015 polonya seçimleri ile ilgisi olduğunu düşündüğüm çıkış.\n\nbende gittim aptal, aptal 1918-1919 polonya-ukrayna savaşını okuyorum, desene \"seçim varmış\" diye...\n\n\"ukrayna gibi bir ülkede sevişmek yerine savaşan insanlar\" hakkında yorum yapmadım, yapmamalıyız.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "polonya'nın ukrayna'dan toprak istemesi",
+      "entry_id": "55694329",
+      "author": "somethinglikethat",
+      "date": "22.10.2015 01:11",
+      "content": "asılsız haberdir.\n\n1 saattir tüm yabancı haber sitelerini geziyorum ve bir tane bile polonya başkanının bu tür bir söylemiyle karşılaşmadım. polonya başbakanın böyle söylemesi zaten savaş ilanıdır ki bbc, cnn, the telegraph ve the independent gibi gazetelerden bunu son dakika haberi olarak geçerlerdi.\n\nhalkımız savaşa hazır olmalı ne demek la.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "polonya'nın ukrayna'dan toprak istemesi",
+      "entry_id": "55694543",
+      "author": "dergo",
+      "date": "22.10.2015 01:25",
+      "content": "polonyada kendi calip kendi oynayan cogunluk ulkelerden. tarihi naralarla anca baltikta kayik gezdirirler.avrupanin da en cahil en mankafa ulkesidir ayrica.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "polonya'nın ukrayna'dan toprak istemesi",
+      "entry_id": "55697478",
+      "author": "hatipzaderaif",
+      "date": "22.10.2015 09:35",
+      "content": "ortalık çoh garışacak çoh.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "polonya'nın ukrayna'dan toprak istemesi",
+      "entry_id": "55709611",
+      "author": "pirasa var yermisiniz",
+      "date": "22.10.2015 20:19",
+      "content": "haber asıllı ise, ölü tavuktan göt istemek gibidir..\n\nrusya olaya dahil olursa bir atasözünü hatırlatacaktır..''midyata pirince giderken evdeki bulgurdan olacaktır''",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "polonya'nın ukrayna'dan toprak istemesi",
+      "entry_id": "55713394",
+      "author": "cyberadige",
+      "date": "22.10.2015 23:01 ~ 23:02",
+      "content": "yoktur efendim boyle bir sey, herhangi bir lehce kaynakta da boyle bir haber yoktur.\nnot: tak, mowie po polsku.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "polonya'nın ukrayna'dan toprak istemesi",
+      "entry_id": "55713476",
+      "author": "carmine lupertazzi",
+      "date": "22.10.2015 23:04",
+      "content": "(bkz: kaynak götüm)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "polonya'nın ukrayna'dan toprak istemesi",
+      "entry_id": "55713563",
+      "author": "proust",
+      "date": "22.10.2015 23:07",
+      "content": "çiçek mi dikecek de toprak istiyor. ukrayna'nın toprakları verimli falan mı anlamadım ben. dolgu mu yapacak nedir beyler ya biri anlatsın.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    }
+  ]
+}

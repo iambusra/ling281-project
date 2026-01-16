@@ -1,0 +1,51 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:28:12.849508",
+    "total_entries": 3,
+    "input": "ab'den kovulan rusları bizim almamız",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ab'den kovulan rusları bizim almamız",
+      "entry_id": "134372120",
+      "author": "densiz",
+      "date": "01.03.2022 17:00",
+      "content": "cumhuriyet yıllarında atatürk'ün nazi faşizminin yerlerinden ettiği yahudi bilim adamlarına sanatçılara ve eğitmenlere davet göndermesi gibi bizim de abd'den ve ab'den kovulan çok değerli bilim ve sanat insanlarına davet göndermemiz, onlara kadro ve imkan vermemiz gerekiyor.\n\nsavaştan kaçan o insanların genç cumhuriyete - üniversitelerin kurulması, devlet opera ve balesinin kurulması gibi inanılmaz katkıları oldu . konu hakkında yazılan tezlere ulaşabilirsiniz.\n\ntarafsız bir türkiye bu sanat ve bilim insanlarını hemen alabilir. içleri çürümüş üniversitesilere, bilim kuruluşlarına merhem gibi gelecektir",
+      "has_external_url": true,
+      "sentiment_numeric": 5,
+      "categories": [
+        "POLICY",
+        "CULTURE",
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "ab'den kovulan rusları bizim almamız",
+      "entry_id": "134372832",
+      "author": "runners high",
+      "date": "01.03.2022 17:20",
+      "content": "rusların kendi memleketi yok mu?",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "ab'den kovulan rusları bizim almamız",
+      "entry_id": "134373009",
+      "author": "dumuzid",
+      "date": "01.03.2022 17:26 ~ 17:27",
+      "content": "kimsenin rus bilim ve sanat insanlarını kovduğu yok. ab keriz değil o kadar. her yazılana inanmayın.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY",
+        "HUMAN"
+      ]
+    }
+  ]
+}

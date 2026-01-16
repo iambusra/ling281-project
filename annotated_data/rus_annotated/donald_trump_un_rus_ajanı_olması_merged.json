@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:25:59.887295",
+    "total_entries": 1,
+    "input": "donald trump'un rus ajanı olması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "donald trump'un rus ajanı olması",
+      "entry_id": "66970110",
+      "author": "approximate value",
+      "date": "20.03.2017 20:43",
+      "content": "kendi değilse bile sırp eşi kesin öyledir.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    }
+  ]
+}

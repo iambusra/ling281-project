@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:01:31.899162",
+    "total_entries": 1,
+    "input": "suriyelileri kamyonla türkiye diye iran'a bırakmak",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelileri kamyonla türkiye diye iran'a bırakmak",
+      "entry_id": "166776041",
+      "author": "yumbar",
+      "date": "29.07.2024 17:21",
+      "content": "insan kaçakçılarının son zamanlarda yaptığı rezilliklerden birisi. balık istifi gibi dolduruyorlar insanları bir kamyon kasasına. istanbul'a gelmek için evini barkını satmış çoğu. adamlar indiklerinde, ellerinde adres kağıtları ile, \"gardaş burası istanbul mu\" diye sora sora geziyor tahran'da.\n\ninsan kaçırmak yeterince onursuz bir iş değilmiş gibi, üzerine bir de yanlış yere götürüyorlar umuda yolculuk yapanları. tamam ben de sekülerim ama, bu kadar haysiyetsizliğe de evet diyemem.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CRIME",
+        "HUMAN"
+      ]
+    }
+  ]
+}

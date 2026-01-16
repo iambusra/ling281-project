@@ -1,0 +1,61 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:40:23.629482",
+    "total_entries": 4,
+    "input": "bedava erzak yalanıyla suriyelileri kandıran adam",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "bedava erzak yalanıyla suriyelileri kandıran adam",
+      "entry_id": "141876056",
+      "author": "speciale aperta",
+      "date": "27.08.2022 18:13",
+      "content": "mümkün olsa da bulgaristan'ın içine girip orada bıraksaydı çok şükela olurdu...\n\nsınıra bırakmakla bir çözüm olmuyor, geri buralara geliyorlar malum.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "bedava erzak yalanıyla suriyelileri kandıran adam",
+      "entry_id": "141876306",
+      "author": "hurmaci lemur alan muneccim",
+      "date": "27.08.2022 18:21",
+      "content": "sapik diye girdim, megersem halk kahramaniymis.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "bedava erzak yalanıyla suriyelileri kandıran adam",
+      "entry_id": "141877478",
+      "author": "lookpostaciiscoming",
+      "date": "27.08.2022 18:53",
+      "content": "akp sonrası hükümette içişleri bakan müsteşarı yapılacak adamdır.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "bedava erzak yalanıyla suriyelileri kandıran adam",
+      "entry_id": "141881015",
+      "author": "disstortionep",
+      "date": "27.08.2022 20:38",
+      "content": "zafer turizmi gorur gibi oldum. koca yurekli kardesim elinden geleni yapmis.mazotu bitmistir buyuk ihtimalle.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN"
+      ]
+    }
+  ]
+}

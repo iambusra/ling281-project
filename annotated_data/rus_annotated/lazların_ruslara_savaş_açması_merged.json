@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:30:16.006538",
+    "total_entries": 1,
+    "input": "lazların ruslara savaş açması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "lazların ruslara savaş açması",
+      "entry_id": "9215570",
+      "author": "kadimokul",
+      "date": "03.03.2006 11:07 ~ 11:09",
+      "content": "lazları konu alan bütün fıkralarda olduğu gibi yine lazların zekalarını (olumlu veya olumsuz) konu alan ve aslen esprisi savaş alanında geçen ama ilk duyduğum andan beri lazların ihtiyar meclisi toplayıp türkiye'den bağımsız olarak rusya'ya savaş ilan etmesinin fıkradan daha komik bir durum olduğunu ve lazlardan hiç de öyle beklenmeyecek bir adım olmadığını düşündüğüm manevra.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POS-STEREO",
+        "CULTURE"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:11:34.968412",
+    "total_entries": 1,
+    "input": "ukraynada emlak fiyatlarının uçması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukraynada emlak fiyatlarının uçması",
+      "entry_id": "134571405",
+      "author": "kellecan",
+      "date": "06.03.2022 11:27",
+      "content": "ne ima etmeye çalışıyorsun? burda da savaş çıkacak boşuna kredi çekmeyin mi diyorsun?\n\n5bine istanbuldan villa alma hayali kuran ve bunun için savaş çıkmasını bekleyen yazar beyanı!",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "ECON"
+      ]
+    }
+  ]
+}

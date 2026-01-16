@@ -1,0 +1,101 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:53:21.813662",
+    "total_entries": 7,
+    "input": "suriyeliden çıkan 60cm. kılıç",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeliden çıkan 60cm. kılıç",
+      "entry_id": "133936366",
+      "author": "keremtunaa",
+      "date": "19.02.2022 13:25",
+      "content": "videoda görüldüğü üzere bekçinin yaptığı denetimde suriyelinin beline sardığı kemer, kumaş her neyse artık içinden kılıç çıkıyor. ben yakında bunların ağzından kılıç çıkaracaklarını düşünüyorum. türk vatandaşları olarak emniyette değiliz.",
+      "has_external_url": true,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyeliden çıkan 60cm. kılıç",
+      "entry_id": "133936419",
+      "author": "webcipanda",
+      "date": "19.02.2022 13:27",
+      "content": "allah allah niye yakalamış ki bekçi onu ya. normalde mültecilere karşı eylem yapan halka müdahale edip mülteci kardeşlerinin yanlarında olurlardı hep.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "suriyeliden çıkan 60cm. kılıç",
+      "entry_id": "133936469",
+      "author": "timurunbabasi",
+      "date": "19.02.2022 13:29",
+      "content": "ama onlar savaştan kaçmış masum kedi ensardır",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "suriyeliden çıkan 60cm. kılıç",
+      "entry_id": "133936693",
+      "author": "sehrikalp",
+      "date": "19.02.2022 13:35",
+      "content": "2 ile çarpılıp müsait bir yerlerine monte edilmesi gereken kılıçtır.\n\nderdiniz ne olm. hayırdır. kimin toprağında kime şekil yapacaksınız da silahlanıyorsunuz. bu ülkenin tarihini okumadınız mı hiç? adamın mına korlar.\n\nsinirliyim yine.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyeliden çıkan 60cm. kılıç",
+      "entry_id": "133938203",
+      "author": "horhoto",
+      "date": "19.02.2022 14:21",
+      "content": "senin geliş amacın nedir sayın amk evladı, kılıçla gezeceksen buraya niye geliyorsun. mülteci sıfatıyla buraya gelip, ceza almayacağını bildiğinden rahatlıkla suç işleyecek, sarkıntılık edecek, adam yaralayacaktır, yoksa niye kılıç taşısın.\nsıfatına bakınca sanki arama yapan bekçi suçluymuş gibi bakıyor oç.\nkolluk kuvvetlerimizde biraz vicdan kaldıysa şayet bunlara dar etmeleri gerek.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "CRIME"
+      ]
+    },
+    {
+      "title": "suriyeliden çıkan 60cm. kılıç",
+      "entry_id": "133938360",
+      "author": "kdvharic",
+      "date": "19.02.2022 14:26",
+      "content": "suriye den de getirmiş olabilir. sonuçta elini kolunu sallaya sallaya giriyorlar",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyeliden çıkan 60cm. kılıç",
+      "entry_id": "133938525",
+      "author": "saraba sarili gazate",
+      "date": "19.02.2022 14:32",
+      "content": "nereli olduğu, nerede yaşadığı farketmeksizin ankaragücü taraftarı olduğuna kalıbımı basacağım kişidir sahibi",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

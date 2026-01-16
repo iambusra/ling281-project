@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:09:37.704995",
+    "total_entries": 2,
+    "input": "türk vatandaşlığına geçen suriyelinin oy tercihi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türk vatandaşlığına geçen suriyelinin oy tercihi",
+      "entry_id": "151464058",
+      "author": "ali the great",
+      "date": "20.04.2023 11:48",
+      "content": "sayılarını tam olarak bilmesek de sonuçta böyle insanlar var aramızda. merak ediyorum kime oy verecek bunlar. açıkcası bir suriyeli ile aynı tercihi yapmaktan korkarım.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "türk vatandaşlığına geçen suriyelinin oy tercihi",
+      "entry_id": "151464116",
+      "author": "seabird",
+      "date": "20.04.2023 11:51",
+      "content": "(bkz: ümit özdağ)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T13:48:06.139928",
+    "total_entries": 1,
+    "input": "10 ekim 2019 suriye uyruklu bebeğin şehit olması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "10 ekim 2019 suriye uyruklu bebeğin şehit olması",
+      "entry_id": "96383596",
+      "author": "yavuzberat",
+      "date": "10.10.2019 17:05",
+      "content": "düşman bombasıyla ölen şehittir.",
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "HUMAN-POS"
+      ]
+    }
+  ]
+}

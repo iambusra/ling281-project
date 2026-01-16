@@ -1,0 +1,149 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:20:11.301787",
+    "total_entries": 11,
+    "input": "ukraynalı vs suriyeli",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukraynalı vs suriyeli",
+      "entry_id": "136696439",
+      "author": "stenella",
+      "date": "26.04.2022 20:43",
+      "content": "biri hristiyan biri müslüman.\nbiri sıcak ülkeden gelmiş, diğer soğuk.\nbiri sempatik, diğeri şakacı.\n\nama ikisinin de ülkesi iişgal edilmiş.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukraynalı vs suriyeli",
+      "entry_id": "136696738",
+      "author": "hemkelhemdesisman",
+      "date": "26.04.2022 20:51",
+      "content": "biri medeni, diğeri değil.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE"
+      ]
+    },
+    {
+      "title": "ukraynalı vs suriyeli",
+      "entry_id": "136696872",
+      "author": "bigbrother",
+      "date": "26.04.2022 20:55",
+      "content": "(bkz: medeniyet)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukraynalı vs suriyeli",
+      "entry_id": "136698252",
+      "author": "mert xxx",
+      "date": "26.04.2022 21:31",
+      "content": "ukraynalıların arap kadrodan iyi olduğu kesin ama sonuçta onlar da kötünün iyisi.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ukraynalı vs suriyeli",
+      "entry_id": "136698416",
+      "author": "mariiiposa",
+      "date": "26.04.2022 21:34",
+      "content": "biri yere çöp atmıyor - diğeri yere çöp atıyor\nbiri yerdeki çöpleri topluyor- diğeri çöp kutusundaki çöpleri topluyor\nbiri mülteci - diğeri sığınmacı\n\n*her ikisi de gürültücü ve saygısız*",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ukraynalı vs suriyeli",
+      "entry_id": "136698772",
+      "author": "elvisintorunu",
+      "date": "26.04.2022 21:42 ~ 21:43",
+      "content": "(bkz: ırkçılık)\n(bkz: kafatasçılık)\n(bkz: ayrımcılık)\n(bkz: ikiyüzlülük)\n(bkz: kendinibilmezlik)\n(bkz: faşizm)\n(bkz: nazizim)\n(bkz: kkk)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukraynalı vs suriyeli",
+      "entry_id": "153679930",
+      "author": "nonversation",
+      "date": "19.06.2023 08:53 ~ 12.05.2025 01:33",
+      "content": "iki milletten de çok fazla insan tanıdım. tek fark ten renkleri. biri avrupa'nın diğeri orta doğu'nun cahili. kendilerince çok kurnaz olduklarını sanırlar.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ukraynalı vs suriyeli",
+      "entry_id": "153679999",
+      "author": "belus",
+      "date": "19.06.2023 08:57",
+      "content": "biri akdeniz'i ele geçiriyor, diğeri türkiye'nin her yanını.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukraynalı vs suriyeli",
+      "entry_id": "153680069",
+      "author": "sedat sedat",
+      "date": "19.06.2023 09:01 ~ 09:03",
+      "content": "antalya’da kışın sahilde çöp toplayan ukraynalı gördüm ama 4-5 milyon suriyeli içinde böyle bir şey yapanı gören var mı? ben görmedim",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ukraynalı vs suriyeli",
+      "entry_id": "153680932",
+      "author": "lordum",
+      "date": "19.06.2023 09:49",
+      "content": "yurt dışına göçmek zorunda kalanlarını gördüğüm kadarıyla suriyelilere göre çok daha iyi eğitimliler, giyimleri ve görünümleri çok daha modern, yaşam tarzları suriler gibi varzoluk üzerine kurulu değil.\n\npeki türkiye'ye suriler yerine daha iyi bir ırk göçseydi ne olurdu? evliliklerde yabancı tercihi artardı, pis işler değilde kendi insanımızın hakettiği işlerde payları yüksek olurdu vs vs yani dünya çok acayip dimi bazen iyi görünen kötü, bazense kötü görünen iyi olabiliyor acayip bir durum ama tabi böyle iyinin de kötünün de içine etsinler.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ukraynalı vs suriyeli",
+      "entry_id": "153681159",
+      "author": "cemrexo",
+      "date": "19.06.2023 10:00",
+      "content": "birisi allah'ın lütfu\nbirisi allah'ın cezasi",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

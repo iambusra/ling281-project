@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T16:57:49.306548",
+    "total_entries": 1,
+    "input": "17 yaşındaki suriyelinin öldürülmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "17 yaşındaki suriyelinin öldürülmesi",
+      "entry_id": "140242319",
+      "author": "haa ben simdi anladim",
+      "date": "20.07.2022 18:33",
+      "content": "kıyamam çok üzüldüm. diğer surilerin başına aynısı gelmemesi için elimizden geleni yapıp suriye'ye geri göndermeliyiz.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "POLICY"
+      ]
+    }
+  ]
+}

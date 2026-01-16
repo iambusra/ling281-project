@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:31:16.648200",
+    "total_entries": 2,
+    "input": "rus elçiliği önünde ruslarla sevişme eylemi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rus elçiliği önünde ruslarla sevişme eylemi",
+      "entry_id": "56572045",
+      "author": "sinirliadige",
+      "date": "28.11.2015 21:25",
+      "content": "+1 yaz beni",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus elçiliği önünde ruslarla sevişme eylemi",
+      "entry_id": "56572180",
+      "author": "lucreas",
+      "date": "28.11.2015 21:30 ~ 21:31",
+      "content": "fantezide sinir yok!...",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

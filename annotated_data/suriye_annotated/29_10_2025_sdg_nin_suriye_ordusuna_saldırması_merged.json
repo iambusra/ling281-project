@@ -1,0 +1,99 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:12:00.417043",
+    "total_entries": 7,
+    "input": "29.10.2025 sdg’nin suriye ordusuna saldırması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "29.10.2025 sdg’nin suriye ordusuna saldırması",
+      "entry_id": "179464802",
+      "author": "ackarninaikikadehviski",
+      "date": "29.10.2025 23:02",
+      "content": "ajanslara son dakika haber olarak düşen",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "29.10.2025 sdg’nin suriye ordusuna saldırması",
+      "entry_id": "179465046",
+      "author": "espressoya ekspreso diyen adam",
+      "date": "29.10.2025 23:11",
+      "content": "sdg hangisiydi ya. ypj pyd jpg png lpg jpeg filan usd ve hpl yide unutmamak lazım",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "29.10.2025 sdg’nin suriye ordusuna saldırması",
+      "entry_id": "179465079",
+      "author": "sosyoekonomi",
+      "date": "29.10.2025 23:12",
+      "content": "suriye iktidarını o yobaz eski işid'çiye mi bırakacaklarını sanıyordunuz?\n\nçok yakında yok edildiğini görürüz.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "29.10.2025 sdg’nin suriye ordusuna saldırması",
+      "entry_id": "179465156",
+      "author": "baltaci raskolnikov pasa",
+      "date": "29.10.2025 23:15",
+      "content": "turk ordusu suriye'ye girecek seklinde yorumladigim olay.\nabd destegi olmazsa kurtcu teroristleri kim kurtaracak",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "29.10.2025 sdg’nin suriye ordusuna saldırması",
+      "entry_id": "179465215",
+      "author": "attan dusen inek",
+      "date": "29.10.2025 23:17",
+      "content": "bebek katili severleri mutlu edecek gelişme, ülkü ocaklarında çılgınlar gibi kutlanacaktır.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE"
+      ]
+    },
+    {
+      "title": "29.10.2025 sdg’nin suriye ordusuna saldırması",
+      "entry_id": "179465262",
+      "author": "nutellali balik ekmek",
+      "date": "29.10.2025 23:19",
+      "content": "ülkü ocaklarına mavi ekran verdirecek saldırıdır.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "29.10.2025 sdg’nin suriye ordusuna saldırması",
+      "entry_id": "179465485",
+      "author": "cokonemlidegilzaten",
+      "date": "29.10.2025 23:28 ~ 23:36",
+      "content": "chp'lilerin ülkücülerden hesap soran entrylerini okuyunca insan gülmeden edemiyor.\n\nulan sizin genel başkanınız devlet bahçeli'ye en ufak tepki gösterdi mi? hayır aksine el yükseltiyorum, kürtlere devlet vadediyorum dedi.\n\nsizin o çok sevdiğiniz müteahhitiniz devlet bahçeli'ye en ufak tepki gösterebildi mi? hayır, aksine süreci desteklediğini söyledi.\n\nülkücülere hesap sormak size mi kaldı?\n\nsiz önce pyd'ye terör örgütü diyemeyen, pkk'nın siyasi ayağı ile kent uzlaşısı yapan, belediyeleri kürdistancılara peşkeş çeken partinizden hesap sorun.\n\nbahçeli'den veya mhp'den hesap sorulacaksa, en başından beri sürece karşı olan mansur yavaş'ı, ümit özdağ'ı, zafer partisi'ni, iyi parti'yi destekleyenler hesap sorar.\n\ngelelim pyd'ye. isterlerse abd'den f35 alsınlar. savaşmak yürek işidir. öyle emperyalistlere maşalık yaparak savaş kazanılmaz.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    }
+  ]
+}

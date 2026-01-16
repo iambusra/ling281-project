@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:42:34.133472",
+    "total_entries": 2,
+    "input": "godot’yu beklerken suri paki afgani gelmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "godot’yu beklerken suri paki afgani gelmesi",
+      "entry_id": "137002039",
+      "author": "tlmsah",
+      "date": "04.05.2022 16:15",
+      "content": "şöyle ki;\nbu bir metafor dur bildiğiniz üzre.\numutların, hayallerin, beklentilerin, olması istenilen güzel şeylerin metaforu.\nsağolsunlar, türk gencine kala kala başlığın devamı kalmıştır.\nmotto:\ngodot'u bekleyedur çocuk.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "godot’yu beklerken suri paki afgani gelmesi",
+      "entry_id": "137002173",
+      "author": "mavi oktav defterleri",
+      "date": "04.05.2022 16:19",
+      "content": "...beşinci günün şafağında doğuya bakın...",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:30:18.431351",
+    "total_entries": 2,
+    "input": "medvedev ruslar'a en az üç çocuk yapın tavsiyesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "medvedev ruslar'a en az üç çocuk yapın tavsiyesi",
+      "entry_id": "21025435",
+      "author": "thisisacell",
+      "date": "30.11.2010 16:29 ~ 19:08",
+      "content": "bizim başbakana özenmiş medvedev. rusyanın nüfusu giderek azalıyor. rus erkekleri çocuk istemiyor. benim naçizane tavsiyem aynı hedefe (bkz: en az 3 çocuk) kilitlenmiş rus ve türk halklarının kaynaşması. sonra gelsin çocuklar...\n\nhttp://www.bbc.co.uk/…/101130_russia_medvedev.shtml",
+      "has_external_url": true,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "medvedev ruslar'a en az üç çocuk yapın tavsiyesi",
+      "entry_id": "21026619",
+      "author": "curt",
+      "date": "30.11.2010 19:02",
+      "content": "nufusun azalmasindan endise duyan her politikacinin bulunabilecegi bir tavsiyedir.\n\ndemografya ile ugrasan herkes bilir ki, bir toplumun nufusunu surdurebilmesi icin her iki bireyin birlesip en az iki yeni birey meydana getirmeleri gerekir. nufusun arttirilmasi icin her iki bireyin ikiden fazla birey meydana getirmesi gerekir. bu rakam da uctur. bu tavsiyelerin temelinde yatan bilimsel gercek budur.\n\npeki bu dogan cocuklara nasil bakilir, nasil gelecek saglanir, o kisimlara daha fazla kafa yormasi gerekir bu sevgili politikacilarin.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    }
+  ]
+}

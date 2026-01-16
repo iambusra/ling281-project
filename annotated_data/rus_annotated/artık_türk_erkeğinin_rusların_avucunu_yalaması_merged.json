@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:33:44.000845",
+    "total_entries": 1,
+    "input": "artık türk erkeğinin rusların avucunu yalaması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "artık türk erkeğinin rusların avucunu yalaması",
+      "entry_id": "151083217",
+      "author": "darth risus",
+      "date": "08.04.2023 15:02 ~ 15:15",
+      "content": "1990 larda zengin hayat isteyen sscb halkının bozulan ekonomileri ile kendini türklere yamamasından yıllar sonra,bizi donunda sallamamaları da diyebiliriz.\nşu boomer ve x bu konuda da işin kaymağını yediler.çöplerini atmak da bize kaldı",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "ECON"
+      ]
+    }
+  ]
+}

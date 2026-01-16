@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:25:32.537896",
+    "total_entries": 1,
+    "input": "parayı bulan ilk lidyalının rusa gitmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "parayı bulan ilk lidyalının rusa gitmesi",
+      "entry_id": "25938650",
+      "author": "melankomik",
+      "date": "28.10.2011 23:20",
+      "content": "fahişeliğe \"dünyanın en eski mesleği\" deniliyor olması ile kanıtlayabileceğimiz acı gerçek.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "SEXUAL",
+        "CULTURE"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:20:04.887074",
+    "total_entries": 3,
+    "input": "rus hava yolu şirketine tarihi siber saldırı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rus hava yolu şirketine tarihi siber saldırı",
+      "entry_id": "177162018",
+      "author": "beni emniyete goturun sikinti cikaricam",
+      "date": "28.07.2025 21:27",
+      "content": "7 bin fiziksel sunucuyu yok mu etmişler, tamam kardeş, yarın gel yok edici olarak işe başla.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CRIME"
+      ]
+    },
+    {
+      "title": "rus hava yolu şirketine tarihi siber saldırı",
+      "entry_id": "177162112",
+      "author": "entryimi nasil begendiniz",
+      "date": "28.07.2025 21:31",
+      "content": "masum rus vatandaşlarının zarar görmesini istemem ama diktatör putin rejimi ve destekçilerinin her şeyi hak ettiklerini düşünüyorum. inşallah doğru haberdir.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "rus hava yolu şirketine tarihi siber saldırı",
+      "entry_id": "177162148",
+      "author": "winstonsoft",
+      "date": "28.07.2025 21:33 ~ 21:34",
+      "content": "(bkz: bonba gibi bişey atalım)",
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "CRIME"
+      ]
+    }
+  ]
+}

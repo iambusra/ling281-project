@@ -1,0 +1,39 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:59:00.513581",
+    "total_entries": 2,
+    "input": "suriyelilere isim değişikliği",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelilere isim değişikliği",
+      "entry_id": "141680642",
+      "author": "reykokeyko",
+      "date": "23.08.2022 10:23",
+      "content": "sinan oğan twit atmış bu konu ile ilgili.\nisim değişikliği ve soyad değişikliği nedir arkadaş diye düşünüyordum. meğer amaç suriyelilerin isim değişikliği imiş.\n\ngörsel",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelilere isim değişikliği",
+      "entry_id": "141680868",
+      "author": "hakkak",
+      "date": "23.08.2022 10:30",
+      "content": "bu ülke bürokrasisi hiçbir zaman kendi vatandaşının işini kolaylaştıracak bir şeyi çok kolay bir şekilde vatandaşının önüne sunmaz. muhakkak bir zorluk çıkartır. sadece bu gerçekten yola çıkarak bile bu değişiklik işleminin vatandaşlık dağıtılan it sürüsü için olduğunu anlayabilirsiniz.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO",
+        "POLICY"
+      ]
+    }
+  ]
+}

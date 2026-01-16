@@ -1,0 +1,144 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:45:33.319093",
+    "total_entries": 9,
+    "input": "soma'da yeraltında 100'den fazla suriyeli işçi var",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "soma'da yeraltında 100'den fazla suriyeli işçi var",
+      "entry_id": "42798951",
+      "author": "elifmanifestosu",
+      "date": "16.05.2014 16:02 ~ 16:04",
+      "content": "ali tezel'e ulaşan iddiaya göre'' yeraltında 100'den fazla suriyeli işçi var''\n\nafad ekibi yabancı olanların cenazesini dışarı çıkartmamış, galeriyi küllü su ile betonlaştırmışlar..\n\nbunlar ali tezel'in @tezelali adlı twitter hesabında yazdıgı iddialar..\n\nşaşırdık mı hayır, doğru olma olasılığı yüksek mi? kesinlikle evet..",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "CRIME"
+      ]
+    },
+    {
+      "title": "soma'da yeraltında 100'den fazla suriyeli işçi var",
+      "entry_id": "42799077",
+      "author": "prdeay",
+      "date": "16.05.2014 16:08",
+      "content": "büyük ihtimalle doğru bir iddia.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "soma'da yeraltında 100'den fazla suriyeli işçi var",
+      "entry_id": "42799331",
+      "author": "paranoyaklar takip edilmiyor mu sanki",
+      "date": "16.05.2014 16:22 ~ 16:24",
+      "content": "ali tezel'in kendisine gelen ihbarlara dayandırarak açıkladığı korkunç iddia. söylediğine göre 100 kadar suriyelinin cesedi çıkarılmamış, üzeri betonlaştırılarak gizlenmiş.\n\n\"iddia 1: yeraltında 100'den fazla suriye'li vardı. içeriye sadece afad ekibi soktular. afad ekibi yabancı olanların cenazelerini dışarı çıkarmadı. sonra da o galeriyi küllü su ile betonlaştırdılar.\n\niddia 2: kazanın olduğu soma eynez yeraltı karanlık dere ocağı'na kontrolünü yapan eynez yeraltı kontrol şube müdürlüğü var. burada çalışan bütün memurlar kontrol ediyoruz diye yeraltı maaşı alıyor ama gerçek yeraltı maaşı almak içinmiş. kayıtlarda burayı kimlerin kontrol ettiği bellidir...\"\n\nhaberin tamamı",
+      "referenced_content": [],
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "CRIME"
+      ]
+    },
+    {
+      "title": "soma'da yeraltında 100'den fazla suriyeli işçi var",
+      "entry_id": "42799388",
+      "author": "sozlugunuzun ogretmeni",
+      "date": "16.05.2014 16:26",
+      "content": "kurtulan veya kazaya yakalanmayan herhangi bir madenciye sorularak cevaplanabilecek iddia.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "soma'da yeraltında 100'den fazla suriyeli işçi var",
+      "entry_id": "42799849",
+      "author": "masum keci",
+      "date": "16.05.2014 16:47",
+      "content": "http://www.gazetevan.com/…/haber_detay.php?id=68435\n\n--- satır arasından cımbızla ---\n\nbundan sonra tercümanlık yapmak isteyen arama kurtarma ekibine katılmak isteyenlerin bu yoğunluğun içerisinde bulunmamaları lazım.\n\n--- satır arasından cımbızla ---\n\nne tercümanı lan? neden tercüman gereksin ki?",
+      "referenced_content": [],
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "soma'da yeraltında 100'den fazla suriyeli işçi var",
+      "entry_id": "42805360",
+      "author": "game of thrones",
+      "date": "16.05.2014 21:15",
+      "content": "siz afad ekibini ne sanıyorsunuz, canavar mı? kim böyle birşey yapabilir, orada yabancı olup olmadığını nasıl anlayabilir",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "soma'da yeraltında 100'den fazla suriyeli işçi var",
+      "entry_id": "42808052",
+      "author": "turnover",
+      "date": "16.05.2014 23:26",
+      "content": "soma'da kurtarma çalışmalarına katılan bir doktorun da ortak arkadaşımıza verdiği bilgi. muhtemelen doğrudur.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "soma'da yeraltında 100'den fazla suriyeli işçi var",
+      "entry_id": "42808110",
+      "author": "confession",
+      "date": "16.05.2014 23:28",
+      "content": "dün yemediğim küfür kalmamıştı:\n\n(bkz: soma'da suriye'li mültecilerin de çalıştırılması/#42784734)",
+      "referenced_content": [
+        {
+          "type": "entry",
+          "title": "somada-suriyeli-multecilerin-de-calistirilmasi",
+          "entry_id": "42784734",
+          "author": "confession",
+          "date": "16.05.2014 00:00 ~ 23:31",
+          "content": "soma'dan gelen gerçekliği yüksek duyum. şu an türkiye'nin her tarafında çok daha ucuza yapıyorlar her işi.\n\nbüyük ihtimalle üzerlerine beton dökülecek olanlardandırlar.\n\n\"\"soma'ya giden birinden öğrendim ölü sayısı en az 800müş. suriye'li kaçak işçiler de varmış ölenler arasında. soma'da adı konulmamış sıkı yönetim varmış. bence çıkarmayacaklar cesetleri. maden mezarları olacak. dediğim gibi anadolu halka ölmeye alışkındır. siz kendinizi kurtarmaya bakın. hepiniz çok değerlisiniz.\"\"\n\n(bkz: ateist karikatürler)\n\ncehennemden kaçıp cehennemin allahını görmek bu olmalı.\n\nedit: dün yemediğim küfür kalmadı bu iddiam için. yavaş yavaş çıkıyor ortaya.",
+          "has_external_url": false
+        }
+      ],
+      "referenced_entry_ids": [
+        "42784734"
+      ],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "soma'da yeraltında 100'den fazla suriyeli işçi var",
+      "entry_id": "42808167",
+      "author": "sakaciseyseni53",
+      "date": "16.05.2014 23:30",
+      "content": "gercek degildir.madenciler soylerseler anca inanilir",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

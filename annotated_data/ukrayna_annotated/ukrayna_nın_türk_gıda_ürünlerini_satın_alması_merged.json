@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:15:56.045860",
+    "total_entries": 2,
+    "input": "ukrayna'nın türk gıda ürünlerini satın alması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukrayna'nın türk gıda ürünlerini satın alması",
+      "entry_id": "56623868",
+      "author": "emplusor",
+      "date": "30.11.2015 22:19",
+      "content": "(bkz: düşmanımın düşmanı)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'nın türk gıda ürünlerini satın alması",
+      "entry_id": "56624308",
+      "author": "kessogluessek",
+      "date": "30.11.2015 22:33",
+      "content": "(bkz: bizim de eniştemiz sayılırsınız)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

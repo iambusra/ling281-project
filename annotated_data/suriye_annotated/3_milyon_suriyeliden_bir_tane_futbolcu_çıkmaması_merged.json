@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T15:10:41.182136",
+    "total_entries": 1,
+    "input": "3 milyon suriyeliden bir tane futbolcu çıkmaması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "3 milyon suriyeliden bir tane futbolcu çıkmaması",
+      "entry_id": "86192300",
+      "author": "kaprili kahraman",
+      "date": "01.02.2019 15:10",
+      "content": "3 milyon suriyeli almanya'ya da gitse bir 20 sene sonra onlar da futbolcu çıkarmaya başlarlar. türkler olarak futbolda çok yetenekli olduğumuzdan değil, almanların insan yetiştirmede başarılı olmasından.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "XENO",
+        "CULTURE"
+      ]
+    }
+  ]
+}

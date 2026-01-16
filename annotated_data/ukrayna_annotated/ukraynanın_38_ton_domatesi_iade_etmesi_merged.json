@@ -1,0 +1,37 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:16:41.105785",
+    "total_entries": 2,
+    "input": "ukraynanın 38 ton domatesi iade etmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukraynanın 38 ton domatesi iade etmesi",
+      "entry_id": "89664151",
+      "author": "van tu tri foroo",
+      "date": "04.05.2019 12:03",
+      "content": "kaynak\n\ntanzim marketlerde ucuza satar kurtulursunuz sevgili devlet büyükleri çok takmayın kafanıza",
+      "has_external_url": true,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POLICY",
+        "ECON"
+      ]
+    },
+    {
+      "title": "ukraynanın 38 ton domatesi iade etmesi",
+      "entry_id": "89664545",
+      "author": "huzursuz adam",
+      "date": "04.05.2019 12:18",
+      "content": "o domatesleri o hale getiren şerefsizlere verin yesinler.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HUMAN"
+      ]
+    }
+  ]
+}

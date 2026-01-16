@@ -1,0 +1,75 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:32:40.807712",
+    "total_entries": 5,
+    "input": "rusların türkiye'den kaçması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rusların türkiye'den kaçması",
+      "entry_id": "164647354",
+      "author": "aspirinforte",
+      "date": "22.05.2024 15:02",
+      "content": "artan zamlara ve ekonomik istikrarsızlığa rusların bile dayanamayıp türkiye'den gitmeleri durumu . sayılarının 154bin'den 96bin'e düştüğü belirtilmiş. güzel bir haber gibi görünse de ekonominin ne kadar ayvayı yemiş olduğunun sonuçlarından biri. ya biz nereye kaçacağız?",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "ECON",
+        "XENO"
+      ]
+    },
+    {
+      "title": "rusların türkiye'den kaçması",
+      "entry_id": "164648131",
+      "author": "picgurusu",
+      "date": "22.05.2024 15:33",
+      "content": "burada mis gibi emlak aldılar, kira gelirleri ile rusyada en kral şekilde yaşarlar. amk düşünsene antalya'da istanbul'da ev kirası gelirin olsa, rusyada çalışmaya gerek kalmadan en lüks şehirde tüm masraflarını ödeyip yaşayacağın ekonomik özgürlüğe kavuşursun.",
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "ECON",
+        "XENO"
+      ]
+    },
+    {
+      "title": "rusların türkiye'den kaçması",
+      "entry_id": "164648344",
+      "author": "benimguzelaysem",
+      "date": "22.05.2024 15:44",
+      "content": "iklim olarak türkiye gibi bir cennet varken buz cehennemi rusya'yı tercih eden zengin ruslar da ne bileyim.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "rusların türkiye'den kaçması",
+      "entry_id": "164648628",
+      "author": "badazz",
+      "date": "22.05.2024 15:56",
+      "content": "ekonomi iyi diyecek halimiz yokta verilen linkte yazılanlara göre ruslara gerekçe göstermeden ikamet izni vermeyi reddediyormuşuz. avrupa'nın bize yaptığını biz ruslara yapıyoruz. yani ekonomi yüzünden gidenlerden çok ikamet izni alamayan rusların ülkeyi terk etmek zorunda kalmaları. kaçmaları değil. ilber hocanın dediği gibi akdeniz sahillerinde bu kadar rusun olması beka meselesidir. aynı bekayı surilere karşıda gösterebilsek keşke.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY",
+        "XENO"
+      ]
+    },
+    {
+      "title": "rusların türkiye'den kaçması",
+      "entry_id": "164648647",
+      "author": "doctopus",
+      "date": "22.05.2024 15:57",
+      "content": "çocukları okula başladı, kızlarının bir çoğu türk erkekler ile evlendi ve yuva kurdu, hatta belki onların da çocukları oldu… nereye kaçıyorlarmış…",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    }
+  ]
+}

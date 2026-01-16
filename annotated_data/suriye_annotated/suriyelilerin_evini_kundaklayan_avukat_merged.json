@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:03:49.942260",
+    "total_entries": 1,
+    "input": "suriyelilerin evini kundaklayan avukat",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelilerin evini kundaklayan avukat",
+      "entry_id": "175696458",
+      "author": "ellerim bombos",
+      "date": "30.05.2025 19:34",
+      "content": "aslında olması gereken başlık:\n`suriyelilerin evini kundaklayan şüphelinin avukat çıkması`\nama olmadı olamadı.\n\nher ne ise. bir haber. konya barosuna kayıtlı bir avukatın, suriyeli bir ailenin evini kundaklama olayıdır.\n\n--- spoiler ---\n\nkonya’da kundaklama sonucu çıkan yangının meydana geldiği evin çevresinde inceleme yapan ekipler, şüphelilerin konya barosu'na kayıtlı avukat e. v. ve arkadaşı e.i. olduğunu belirledi.\n--- spoiler ---\n\nhaberin detayı ve kaynağı:\nhttps://www.cumhuriyet.com.tr/…kadasi-cikti-2405398",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CRIME",
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

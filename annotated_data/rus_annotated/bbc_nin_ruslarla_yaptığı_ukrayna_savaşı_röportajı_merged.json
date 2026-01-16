@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:30:59.849890",
+    "total_entries": 1,
+    "input": "bbc'nin ruslarla yaptığı ukrayna savaşı röportajı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "bbc'nin ruslarla yaptığı ukrayna savaşı röportajı",
+      "entry_id": "134203255",
+      "author": "habersizler",
+      "date": "25.02.2022 16:35",
+      "content": "bbc türkçe'nin instagram hesabından izlenebilen türkçe altyazılı röportaj.\n\naklı selim insanları görmek güzel olsa da \"apolitiğim ben abi\" tribindeki değişimin öznesi olabilme fikrinden uzaklaştırılıp kendine inancı kaybettirilmiş, pasifist hale getirilmiş kitlelerin var olması ve savaşsız-huzurlu sokağından savaş güzellemesi yapan empati yoksunu, cahil insanların fazlalığı bugün avrupa kıtasında bir başkente bombalar yağmasına sebep oluyor.\n\nfiyatlar artsa da biz çok güçlüyüz, süperiz diye hevesli hevesli konuşan hanımefendi ise bana çok tanıdık geldi. bir anda burada çekilen bir sokak röportajını izliyor gibi hissettim kendimi. gerçekten de rus halkı türk halkından çok farklı değil demek ki.",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CULTURE"
+      ]
+    }
+  ]
+}

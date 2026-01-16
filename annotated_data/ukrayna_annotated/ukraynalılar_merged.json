@@ -1,0 +1,100 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:22:29.299111",
+    "total_entries": 7,
+    "input": "ukraynalılar",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukraynalılar",
+      "entry_id": "134303626",
+      "author": "sistem karsiti",
+      "date": "27.02.2022 23:51",
+      "content": "rusya'nın ülkelerini işgal etmesiyle ilgili kendileriyle bir söyleşi yapılmıştır.",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukraynalılar",
+      "entry_id": "144447103",
+      "author": "efendiligimikonusturmayageldim",
+      "date": "28.10.2022 21:22 ~ 21:23",
+      "content": "avrupaya geliyorlar iyi hos guzel de megerse bunlar da irkciymis. bilmiyordum. aninda avrupali olmuslar. aninda.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "ukraynalılar",
+      "entry_id": "147868217",
+      "author": "punkrock1907",
+      "date": "19.01.2023 15:48",
+      "content": "bir millet. türkiye'de yaşayanlarının bir kısmının götü kalkmaya başlamış. tabi bunun nedeni bizim mıymıy tavrımız. misafirperverliğimizin amına koyayım.\n\nhttps://twitter.com/…ber/status/1616042461717041152",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ukraynalılar",
+      "entry_id": "149518851",
+      "author": "mkltkn",
+      "date": "19.02.2023 19:39 ~ 19:40",
+      "content": "21. yüzyılda ırkçılığın kitabını tekrar yazan insan topluluğu. savaş yüzünden sığındıkları ülkelerin vatandaşalarına renkleri ve dinleri üzerinden ırkçılık yapan medeniyetsiz güruh.\n\nvideo ne kadar güzel bir şey\n\nmüslümanlarla yaşamaktansa ukraynaya dönmek isteyen model",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ukraynalılar",
+      "entry_id": "170319892",
+      "author": "thorin 1283",
+      "date": "20.11.2024 01:09",
+      "content": "ülkede kalanları çoluk çocuk yaşlı erkek kadın demeden cephede ruslara karşı bağımsızlık mücadelesi veriyorlar. vallahi helal olsun. onurlu bir halk. az önce cepheye giden dedem yaşındaki insanları gördüm ve çok duygulandım. tarih ukrayna halkının onurunu ve namusunu altın harflerle yazacak. kahpe ayının kahpe evlatlarını nasıl yazacağını siz düşünün.",
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "ukraynalılar",
+      "entry_id": "170320160",
+      "author": "owencan",
+      "date": "20.11.2024 01:18",
+      "content": "fiziksel olarak ruslara çok benzeyen vasat klan. “rus musun?” diye sordum ingiltere'de denk geldiğim bi kaçına acayip bozuldular son 2-3 senede yaşandığı için çok da kızamıyorum diyecem ama bilemedim. benziyonuz işte. bir benzer olayı 3-5 kolombiyalı ile escobar muhabbeti yapmaya çalışınca yaşamıştım bi tanesi hariç ki onun kafa da bi trilyondu hepsi rahatsız olmuştu konuyu açmamdan.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "ukraynalılar",
+      "entry_id": "175782876",
+      "author": "hiperaktf c",
+      "date": "03.06.2025 02:41 ~ 03:54",
+      "content": "abdli johhny için, alman hans için savaşıp geberen piyonlardır.\nruslar da öcü tabi (yiyen salaklar için)\n\nrusyaya yapılan saldırı sonrası avrupa-amerikalıların ukraynalıların kanıyla nasıl orgazm olduklarına birkaç örnek:\nhttps://9gag.com/gag/ad2xv8z\nhttps://9gag.com/gag/arb2odj\nhttps://9gag.com/gag/aynqqgv",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T12:49:02.530101",
+    "total_entries": 1,
+    "input": "1000 rus şerefine putin'in memesini elleyen adam",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "1000 rus şerefine putin'in memesini elleyen adam",
+      "entry_id": "25265910",
+      "author": "kibibi",
+      "date": "07.09.2011 01:09",
+      "content": "ortaya çıktığı takdirde, putin'in şerefine 1000 rus memesini elleyen adam ın bozduğu psikolojimi, \"demek adamlarda meme dediğin göğüs kılı gibi önemi olmayan bir şey\" telkiniyle düzeltmemi sağlayacak, heyecanla beklenen kurtarıcı.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

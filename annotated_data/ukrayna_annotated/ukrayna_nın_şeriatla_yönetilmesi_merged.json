@@ -1,0 +1,37 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:16:19.467733",
+    "total_entries": 2,
+    "input": "ukrayna'nın şeriatla yönetilmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukrayna'nın şeriatla yönetilmesi",
+      "entry_id": "35553867",
+      "author": "tavukbanalop",
+      "date": "28.07.2013 21:34",
+      "content": "gerçek olmayan durumdur, fakat her ülkede dar kafalılığa sebep olan motivasyonlar farklı. türkiye'de dine bağlı eğitimsizliğin sebep olduğu hayvan düşmanlığı, ukrayna'da farklı bir sebepten oluşmuş olabilir.\n\nbu, türkiye'deki hayvanlar için şeriata bağlı eğitimsizliğin bir tehdit olmadığını göstermeyeceği gibi, ukraynalı köpekleri de müslümanlık tehlikesinden uzak olduklarından güvende yapmaz.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "HATE",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "ukrayna'nın şeriatla yönetilmesi",
+      "entry_id": "35554055",
+      "author": "kivanco",
+      "date": "28.07.2013 21:42 ~ 21:43",
+      "content": "düşünmesi bile orospu çocukluğudur.\n\n(bkz: ukranya cennet vatan)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "SEXUAL"
+      ]
+    }
+  ]
+}

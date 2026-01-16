@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:44:02.508365",
+    "total_entries": 1,
+    "input": "mersinde yaşayan suriyelinin dördüz doğurması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "mersinde yaşayan suriyelinin dördüz doğurması",
+      "entry_id": "100558508",
+      "author": "dociso",
+      "date": "15.01.2020 11:24",
+      "content": "vallahi bu haberi hayretle okudum.\ngünümüzde dördüz doğum yapan kişi sayısı çok azaldı.:d\n\nmaşallah diyelim gençler\n\nhabere tıkla",
+      "has_external_url": true,
+      "sentiment_numeric": 4,
+      "categories": [
+        "CULTURE"
+      ]
+    }
+  ]
+}

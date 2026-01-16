@@ -1,0 +1,51 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:06:22.105012",
+    "total_entries": 3,
+    "input": "ukrayna ordusunun sivastopol plajını bombalaması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukrayna ordusunun sivastopol plajını bombalaması",
+      "entry_id": "165716532",
+      "author": "bilgilendiricibilgi",
+      "date": "26.06.2024 00:10",
+      "content": "amacınız neydi ki? savaş ciddi anlamda ahmakların işi.\n\n+komutanım bak bak plajda takılıyorlar.\n- vay şerefsizler, bombalayın.\n\nkaynak",
+      "has_external_url": true,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "CRIME"
+      ]
+    },
+    {
+      "title": "ukrayna ordusunun sivastopol plajını bombalaması",
+      "entry_id": "165717492",
+      "author": "alpaida",
+      "date": "26.06.2024 00:36",
+      "content": "ukrayna açısından mantıksız bir harekettir.\nzira sivastopol ve odessa lanetli yerler. oraları bombalayan gemilerle başlayan işlerin sonu iyi bitmiyor benden demesi.\n\naklıma (bkz: yavuz ve midilli) geldi, bilen bilir.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna ordusunun sivastopol plajını bombalaması",
+      "entry_id": "165717633",
+      "author": "i do what i must do",
+      "date": "26.06.2024 00:40",
+      "content": "10 yıl önce kendisinde olan topraklardaki sivilleri bombalaması olayıdır. iki leş ülke (rusya ve ukrayna) birbirini baya hakediyor aslında.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "CRIME"
+      ]
+    }
+  ]
+}

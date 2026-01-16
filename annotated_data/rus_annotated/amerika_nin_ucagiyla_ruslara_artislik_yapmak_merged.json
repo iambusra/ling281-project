@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:29:53.356294",
+    "total_entries": 1,
+    "input": "amerika'nin ucagiyla ruslara artislik yapmak",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "amerika'nin ucagiyla ruslara artislik yapmak",
+      "entry_id": "56494585",
+      "author": "humbara",
+      "date": "25.11.2015 14:30",
+      "content": "su an tam da olan olaydir.\n\nmilliyetci damarla gaza gelen, gazeteye \"geregi yapildi\" filan diye baslik atan aptallara soyluyom: lan andaval, kimin ucagiyla kime artislik yapiyon? ucagi vurduktan 1 saat sonra natoya gidersin boyle, \"abi bizim gotumuzu kurtarsana\" deyi. hayir amerika 5 dk ligina ortadan kaybolsa hemen gidip ozur dileyecen bilmiyiruz sanki.\n\nsevgili cok super milliyetci dostlarim, fazla gaza gelmeyin. babaniz john kerry bile temkinli.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY",
+        "HUMAN"
+      ]
+    }
+  ]
+}

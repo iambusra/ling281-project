@@ -1,0 +1,49 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:11:05.435279",
+    "total_entries": 3,
+    "input": "yarma harekatıyla rusya'ya ukrayna'dan dalacağız",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "yarma harekatıyla rusya'ya ukrayna'dan dalacağız",
+      "entry_id": "36694611",
+      "author": "noryth aquanum",
+      "date": "05.09.2013 18:39",
+      "content": "çok gizli bir toplantıda söylenmiş söz. ikiye bölecez ve batıdan biz sikecez doğudan türk ırkdaşlarımız sikecek. ben bu kadarını duyabildim.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "SEXUAL",
+        "CRIME"
+      ]
+    },
+    {
+      "title": "yarma harekatıyla rusya'ya ukrayna'dan dalacağız",
+      "entry_id": "36694698",
+      "author": "gabbiano",
+      "date": "05.09.2013 18:43",
+      "content": "(bkz: sen dalma ulan yarma)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "yarma harekatıyla rusya'ya ukrayna'dan dalacağız",
+      "entry_id": "36694999",
+      "author": "songulyabani",
+      "date": "05.09.2013 18:57 ~ 18:58",
+      "content": "(bkz: factiona göre değişir o şimdi)\n(bkz: total war) (bkz: rome medieval farketmez)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

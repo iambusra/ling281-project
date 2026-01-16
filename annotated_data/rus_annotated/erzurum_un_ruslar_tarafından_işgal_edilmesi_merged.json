@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:27:57.936041",
+    "total_entries": 1,
+    "input": "erzurum'un ruslar tarafından işgal edilmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "erzurum'un ruslar tarafından işgal edilmesi",
+      "entry_id": "61958751",
+      "author": "trajedi",
+      "date": "26.07.2016 11:51 ~ 11:53",
+      "content": "1828, 1878 ve 1916 olmak üzere 3 defa gerçekleşen olay.\nrusya ile ilişkileri düzeltirken dikkate alınması gereken tarihsel gerçektir. tsk'nın iç yapısının değiştirilmesini, natodan arındırılmasını meydanlarda bayraklarla kutlayan erzurum halkı eminim bu tarihsel bilgiyi unutmamışlardır.\n(bkz: türkiye-rusya yakınlaşması)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY",
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

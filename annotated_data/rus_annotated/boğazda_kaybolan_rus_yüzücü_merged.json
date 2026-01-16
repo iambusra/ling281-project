@@ -1,0 +1,77 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:16:09.847145",
+    "total_entries": 5,
+    "input": "boğazda kaybolan rus yüzücü",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "boğazda kaybolan rus yüzücü",
+      "entry_id": "177903573",
+      "author": "mumtaz mahal sultan",
+      "date": "27.08.2025 13:38 ~ 13:43",
+      "content": "aradım fakat sözlükte bununla ilgili bir başlık bulamadım. konunun burada gündeme gelmemiş olmasına şaşırdım.\n\n24 ağustos tarihinde istanbul boğazında 2000 küsur yüzücünün katılımıyla gerçekleşen yarışta bir rus yüzücü yarış bitiminde sudan çıkmamıştır. yapılan tüm aramalara rağmen sporcuya ait bir ize rastlanmamış olup üç gündür arama çalışmaları devam etmektedir.\n\nkaynak: https://www.hurriyet.com.tr/…larini-istedi-42926528",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "HUMAN",
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "boğazda kaybolan rus yüzücü",
+      "entry_id": "177909432",
+      "author": "g23",
+      "date": "27.08.2025 18:43",
+      "content": "bir görgü tanığı yanlış yöne yüzdüğü için rus yüzücüyü uyardığını söylemiş. başka bir yerden karaya çıkmış olabilir diyordum ama bilekliği hala denizden sinyal veriyormuş. galiba boğulmuş yazık.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "HUMAN",
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "boğazda kaybolan rus yüzücü",
+      "entry_id": "177912226",
+      "author": "g23",
+      "date": "27.08.2025 21:10",
+      "content": "bugün dalış yaparak aradım ama bir iz yok.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "HUMAN",
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "boğazda kaybolan rus yüzücü",
+      "entry_id": "179340229",
+      "author": "yok artik lebron jamesin enistesi",
+      "date": "24.10.2025 14:43",
+      "content": "an itibariyle bulunamamış yüzücü",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "HUMAN",
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "boğazda kaybolan rus yüzücü",
+      "entry_id": "179725866",
+      "author": "alcatel",
+      "date": "10.11.2025 13:17",
+      "content": "halen bulunamamış yüzücü. veya ajan mı demeli?",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "HUMAN",
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

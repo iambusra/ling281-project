@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:28:59.431808",
+    "total_entries": 2,
+    "input": "almanların savaştan kaçan ruslara kapısını açması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "almanların savaştan kaçan ruslara kapısını açması",
+      "entry_id": "143037721",
+      "author": "girya",
+      "date": "23.09.2022 09:48",
+      "content": "kaynak.\n\nsabah gördüğüm haber. türkiye’de doktora profesöre iltica eder diye turist vizesi vermezken böyle bir adım atılması biraz iki yüzlü geldi.",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "almanların savaştan kaçan ruslara kapısını açması",
+      "entry_id": "143037842",
+      "author": "lucky mocky",
+      "date": "23.09.2022 09:52",
+      "content": "bizim durumumuzun vehametini gosterir sadece.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HUMAN"
+      ]
+    }
+  ]
+}

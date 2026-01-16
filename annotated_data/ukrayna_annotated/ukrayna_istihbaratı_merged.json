@@ -1,0 +1,74 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:05:29.540235",
+    "total_entries": 5,
+    "input": "ukrayna istihbaratı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukrayna istihbaratı",
+      "entry_id": "166777420",
+      "author": "grileke",
+      "date": "29.07.2024 18:10 ~ 18:18",
+      "content": "rusya ukrayna savaşında hem savaştan önce hem de savaşta büyük işler yapmış kurum.\n\nen son mali’de rus paralı asker topluluğu wagner’e ağır zaiyat verdirilen pusuda gündeme geldiler.\n\ngörsel\n\nbu adamlar savaştan önce rus kurmay heyeti ile wagner üyelerini büyük oranda deşifre etmişlerdi. savaş sırasında rusya’da sabotaj, bombalama ve suikastler yaptılar. ukrayna’daki görevlerinden dönen rus özel kuvvetleri personellerini evlerinin önünde sırtlarından bıçaklayarak öldürdürler, üst düzey ordu ve wagner üyelerinin bulunduğu toplantılara füze ve topçu saldırılarını yönlendirdiler, kerç köprüsüne bomba yüklü tırla intihar saldırısı yaptılar, rusya ve belarus toprakları içerisindeki hava üslerine drone ve bomba yüklü ihalarla saldırarak rus uçaklarını yerdeyken vurdular, yukarıda yazdığım gibi suriye ve afrika’da rus kuvvetleri karşındaki gruplarla işbirliği yaparak ruslara karşı savaştılar.\n\norganizasyon yapılarını bilemediğim için tek bir yapı mı yoksa birden fazla kurum mu bilmiyorum ama ukrayna için önemli bir çarpan oldular.",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CRIME"
+      ]
+    },
+    {
+      "title": "ukrayna istihbaratı",
+      "entry_id": "166778211",
+      "author": "lukstar",
+      "date": "29.07.2024 18:38",
+      "content": "en göz önündeki figürü askeri istihbaratın başındaki büyük stoik filozof kirilo budanov’dur. kendisi aynı zamanda büyük bir iklim aktivisti olup rusya içindeki petrol rafinerilerini düzenli aralıklarla yok etmektedir.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "HUMAN",
+        "CRIME"
+      ]
+    },
+    {
+      "title": "ukrayna istihbaratı",
+      "entry_id": "170137718",
+      "author": "grileke",
+      "date": "13.11.2024 20:19 ~ 20:20",
+      "content": "sivastapol’da rus donanmasının karadeniz’deki kalibr füzesi taşıyan füze gemilerine komutanlık eden albay valery trankovsky‘ı aracına koydukları bomba ile öldüren teşkilat.\n\nhttps://x.com/yarotrof/status/1856648451913593188",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CRIME",
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "ukrayna istihbaratı",
+      "entry_id": "170137944",
+      "author": "bana asdfgh diyemezsin",
+      "date": "13.11.2024 20:29",
+      "content": "ingiliz istihbaratı olmasa hiçbir iş yapamayacak olan teşkilattır",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna istihbaratı",
+      "entry_id": "170138082",
+      "author": "mitos logos adios",
+      "date": "13.11.2024 20:34",
+      "content": "başarıların devamını dilerim. umarım rusya'da büyük projelere imza atarlar.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN-POS"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:25:14.462932",
+    "total_entries": 6,
+    "input": "rusa",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rusa",
+      "entry_id": "2834886",
+      "author": "tequila boom boom",
+      "date": "20.05.2003 12:07",
+      "content": "asyada yaşayan bir geyik türü.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rusa",
+      "entry_id": "11412925",
+      "author": "asden",
+      "date": "05.11.2007 17:50",
+      "content": "sekizinci nesil çaylak (şimdilik).",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rusa",
+      "entry_id": "11467947",
+      "author": "rusa",
+      "date": "06.11.2007 22:23",
+      "content": "urartu krallarından bir tanesidir.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rusa",
+      "entry_id": "12926059",
+      "author": "asden",
+      "date": "25.03.2008 11:19",
+      "content": "10 nisan'da dünya evine girecek olan yazar. sevgi, saygı, mutluluk v.b.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "rusa",
+      "entry_id": "13301097",
+      "author": "ishtargate",
+      "date": "21.05.2008 15:27",
+      "content": "artık sekizinci nesil yazar bu rusa, karde$imdir bir de benim,mutluluklar dilediğim.\ndüğününe gitmesek de, görmesek de, o rusa bizim rusa mızdır hep. (bkz: hehe)",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "rusa",
+      "entry_id": "116052794",
+      "author": "lairocse",
+      "date": "25.11.2020 19:15",
+      "content": "\"eiduru dağı (bkz: süphan dağı) önündeki bu kale kent, rusahinili'yi, argisti oğlu ve tuşpa'nın (bkz: van) efendisi, ben, rusa, kurdum.\"",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

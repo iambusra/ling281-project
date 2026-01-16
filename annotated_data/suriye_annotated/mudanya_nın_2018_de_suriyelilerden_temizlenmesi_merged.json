@@ -1,0 +1,73 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:44:08.949133",
+    "total_entries": 5,
+    "input": "mudanya'nın 2018'de suriyelilerden temizlenmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "mudanya'nın 2018'de suriyelilerden temizlenmesi",
+      "entry_id": "81273425",
+      "author": "o degil de neyse",
+      "date": "14.09.2018 09:03",
+      "content": "mudanya belediye başkanı hayri türkyılmaz tarafından geçen sene yaşanan saçma sapan olayların tekrarlanmaması için mudanya sahillerini suriyeli paçozlardan temizlemiştir. nasıl yaptı bilmiyorum ama suriyeliler bu sene simens in önünde takılıyorlar, diğer sahil ve plajlara gelmiyorlar. gelemiyorlar demiyorum gelmiyorlar. suriyeli tartaklayan polis ya da zabıta görmedim. ilçe girişinde arabaları durdurup eğitim mi veriyorlar anlamadım ama hayri başkan bunu başardı.\n\ngeçen sene suriyeliler bizim evin orda sokakataki güvercinleri yakalayıp mangal yapıyordu. erkekleri ya dal taşak ya da günlük kıyafetle dolaşıp denize gidiyordu. kadınlarıysa tüm gün çarşaflı hem denize girip hem de öyle ıslak ıslak dolaşıyorlardı. nargilesini ve kumsalı geçtim bildiğin yollara yayılıyorlardı. akşamları kavga gürültü.\npolis hiç bir şey yapamıyordu \"karakolda yer yok döversek de basın haber yapıyor kendiniz toplanın dövün bizi çağırmayın\" diyordu, bir şikayet yapıldığında.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "mudanya'nın 2018'de suriyelilerden temizlenmesi",
+      "entry_id": "81273759",
+      "author": "gaditano",
+      "date": "14.09.2018 09:18",
+      "content": "\"karakolda yer yok döversek de basın haber yapıyor kendiniz toplanın dövün bizi çağırmayın.\" - mudanya polisi",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "mudanya'nın 2018'de suriyelilerden temizlenmesi",
+      "entry_id": "81273885",
+      "author": "pisikletadam",
+      "date": "14.09.2018 09:25 ~ 09:25",
+      "content": "emek city halkının katkılarıyla gerçekleşmiştir. emin olabilirsiniz.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "mudanya'nın 2018'de suriyelilerden temizlenmesi",
+      "entry_id": "81273918",
+      "author": "gayim ama para bende",
+      "date": "14.09.2018 09:26",
+      "content": "(bkz: hayri türkyılmaz sen misin)\n\nreklamlar bitti. suriyeliler ile kaldığımız yerden devam ediyoruz.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "mudanya'nın 2018'de suriyelilerden temizlenmesi",
+      "entry_id": "81274014",
+      "author": "metehan",
+      "date": "14.09.2018 09:31",
+      "content": "- bu yakışıklı da kim?\n- aaa benmişim.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

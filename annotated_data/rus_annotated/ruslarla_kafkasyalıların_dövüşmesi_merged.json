@@ -1,0 +1,63 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:31:26.000879",
+    "total_entries": 4,
+    "input": "ruslarla kafkasyalıların dövüşmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ruslarla kafkasyalıların dövüşmesi",
+      "entry_id": "39097580",
+      "author": "godel escher bach",
+      "date": "21.12.2013 03:34",
+      "content": "kuzey taraflarında pek sık meydana gelen hadise. orada kavgalar fazla brutal geçiyor. bizdeki gibi itekleşip tepişme'sen kimsin lan' müzakereleri araya adam sokma falan yok. tam bir ölüm kalım meselesi. mesela şu videoda cıbıl elemanlar rus, karşı taraf kafkas. hiç acıma, lan adam ölüp başımıza kalmasın derdi yok gördüğünüz gibi. kafalar böcek gibi eziliyor.",
+      "has_external_url": true,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ruslarla kafkasyalıların dövüşmesi",
+      "entry_id": "39097650",
+      "author": "tek millet tek dil tek yuzuk",
+      "date": "21.12.2013 03:46",
+      "content": "olası bir kazak-rus mücadelesinin galibini merak ettiren vasat ön eleme.\nkazak-rus karşılaşması muhtemelen last man standing tadında olacaktır çünkü.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ruslarla kafkasyalıların dövüşmesi",
+      "entry_id": "39097719",
+      "author": "vandalist psycho",
+      "date": "21.12.2013 03:54",
+      "content": "pek çok şehirde, özellikle büyük kentlerde görülen olay.\n\ndeğerlendirilmesinde en önemli unsur söz konusu etnik grubun ortalama kapasitesi ve kalitesidir. 15 kişiye 30 kişi saldırırsanız pek tabii ki rahatça galip gelebilirsiniz. eşit kişi sayısı ve şartlarda dağıstanlı vs. rus karşılaşmasını izlemeden rusları kral ilan etmenin hiçbir anlamı yok. tabii ki sayı itibariyle ruslar söz gelimi dağıstanlıların 10+ katıdır fakat kişi başı ortalama güç (bu ne amk) kıyaslaması yaparsak dağıstanlılar rusların eline vermektedir. (bkz: tecrübeyle sabit)\n\ntabii ortalama bir dağıstanlı veya ortalama bir çeçen veya ortalama bir ukraynalı veya ortalama bir türkün vicdanı ortalama bir rusunkinden, hele ki söz konusu videodakilerin pek çoğu olan naşilerden daha iyi olduğu için böyle götverence 1'e 2 bir kavga ortamı oluşturmazlar. üstüne üstlük naşiler öldürmeye varacak kadar ileri gidebilirler fakat bunu başka bir gruptan göremezsiniz.\n\nortalama bir kazak da genel itibariyle bir rusunkini eline alır, kazaklarda öyle ahım şahım bir dövüş eğilimi ve kalitesi yoktur açıkçası.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ruslarla kafkasyalıların dövüşmesi",
+      "entry_id": "39097743",
+      "author": "tek millet tek dil tek yuzuk",
+      "date": "21.12.2013 03:57",
+      "content": "(bkz: her gün gopnikiyle güreş tutan sözlükçüler)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    }
+  ]
+}

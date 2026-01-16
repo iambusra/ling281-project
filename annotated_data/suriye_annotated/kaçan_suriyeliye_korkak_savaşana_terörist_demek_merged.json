@@ -1,0 +1,26 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T15:03:24.950332",
+    "total_entries": 1,
+    "input": "kaçan suriyeliye korkak savaşana terörist demek",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "kaçan suriyeliye korkak savaşana terörist demek",
+      "entry_id": "170628402",
+      "author": "aynuristan",
+      "date": "01.12.2024 02:10 ~ 03:13",
+      "content": "türk muhalefetinin eylemidir. yıllardır türkiye'ye sığınan suriyelilere neden savaşmıyorsunuz diyen adamlar savaşan suriyelilere de terörist diyor.\n\nedit: aşağıdaki chp'li yazarın gitsin esad'ın ordusunda savaşsın dediği esad'ın ordusu şu. sünni sivilleri çukura doldurup kurşunluyor sonra da yakıyorlar. sünni suriyeli çoğunluk neden bu katillerin arasına katılmıyor diye soruyor şimdi chp'li yazarımız.\n\nesad ordusunun sivil katliamı",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "XENO",
+        "CRIME",
+        "HUMAN"
+      ]
+    }
+  ]
+}

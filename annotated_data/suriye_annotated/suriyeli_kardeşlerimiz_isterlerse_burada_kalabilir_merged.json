@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:49:17.837682",
+    "total_entries": 1,
+    "input": "suriyeli kardeşlerimiz isterlerse burada kalabilir",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeli kardeşlerimiz isterlerse burada kalabilir",
+      "entry_id": "170997009",
+      "author": "eurasia",
+      "date": "13.12.2024 16:40 ~ 16:44",
+      "content": "ümit özdağ'lı ve zafer partisi o zaman bir sonraki seçimlerde gümbür gümbür gelir.\n\nkonu başlığı için kaynak\nkonu başlığı için kaynak 2",
+      "has_external_url": true,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POLICY"
+      ]
+    }
+  ]
+}

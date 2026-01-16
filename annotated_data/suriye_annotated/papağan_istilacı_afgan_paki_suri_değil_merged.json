@@ -1,0 +1,26 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-10T23:38:09.427637",
+    "total_entries": 1,
+    "input": "papağan istilacı afgan paki suri değil",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "papağan istilacı afgan paki suri değil",
+      "entry_id": "138190632",
+      "author": "ssmm",
+      "date": "01.06.2022 12:52",
+      "content": "yeşil papağanlar istilacı diye ab fon göndermiş yuvalarını bozun, gördüğünüz yerde öldürün diye. neymiş serçe, güvercin,karga rahat yaşayıp üreyemiyormuş.\niş suri,afgan,pakiye gelince aynı ab geri kabul anlaşması ile besleyin topraklarınız da diye para gönderiyor. burada toplumun kaynaklarını tüketmiş, ayarları ile oynamış, kızlarımıza sarkıntılık,taciz, tecavüz etmiş önemli değil. varsa yoksa papağan",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO",
+        "CRIME"
+      ]
+    }
+  ]
+}

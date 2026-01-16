@@ -1,0 +1,1530 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:40:23.864335",
+    "total_entries": 110,
+    "input": "ben bir suriyeli'yim",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "69228438",
+      "author": "thebulk",
+      "date": "04.07.2017 11:21",
+      "content": "\"o halde ülkene dön\" şeklinde seslendiğim kişi söylemi.\n(bkz: evet barbar türküm)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "69228440",
+      "author": "ucando",
+      "date": "04.07.2017 11:21",
+      "content": "(bkz: lütfen gereksiz duyar kasmayınız)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "69228463",
+      "author": "kabusslu cumhuriyeti",
+      "date": "04.07.2017 11:22",
+      "content": "(bkz: sonradan utanılacak sözler söylemek)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "69228469",
+      "author": "turiq",
+      "date": "04.07.2017 11:23",
+      "content": "ben de tarihte devamlı arkadan bıçakladığınız ama bu bıçaklamaları unutan bunak bir milletin arasında kalmış ırkçı, türkçü, osmanlı torunu bir türküm.\n\nmemnun olmadım.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "69228558",
+      "author": "deli ziya",
+      "date": "04.07.2017 11:27",
+      "content": "ben bir suriyeli'yim\nülkemi karıştıran ve evimden eden adamın milis gücüyüm\n\nben bir suriyeli'yim\ncinsel gücüm artsın diye bebek maması yerim\n\nben bir suriyeli'yim\nülkem için savaşmak yerine başka ülkenin sahilinde kadınları dikizlerim\n\nben bir suriyeli'yim\nülkemden kaçar, başka ülkede çocuk yapar sonra onları perişan ederim",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO",
+        "SEXUAL"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "69228571",
+      "author": "sade domates tantuni",
+      "date": "04.07.2017 11:27 ~ 11:29",
+      "content": "avrupa solunu bilmeyen bir salağın duyar kasması beni benden aldı. avrupa solu dediğin adamlar avrupa'da türk, arap mahalleleri kundaklayan tipler. sağcıları daha masum avrupa'nın. hiç olmazsa ne diyorlarsa öyle görünüyorlar. böyle tiplerin avrupa'yı biliyormuş gibi konuşması da beni bitiriyor. bizim solumuz kadar naif sol var mı? tekkaş hevallere bile hümanizm kasabilen bir sol kitlesinden bahsediyoruz.\n\nedit: ispanyol sola istersen katalanları soralım:p",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "69228649",
+      "author": "takmakafaya",
+      "date": "04.07.2017 11:33 ~ 08.10.2024 16:26",
+      "content": "o zaman siktir git topraklarında ülkeni savun itoğlu it. plajda parkta orada burada eğlenme...",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "69228675",
+      "author": "medieval total war",
+      "date": "04.07.2017 11:34",
+      "content": "yallah esad'ın şefkatli kollarına, siktiniz ülkeyi amına koduğumun andaval pezevenkleri!",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "69228705",
+      "author": "vladis",
+      "date": "04.07.2017 11:36 ~ 13:08",
+      "content": "sen bir suriyeli'ysen türkiye'de işin ne? al çöl bedevisi kültürünü geri dön. demek istiyorum. hatta yüzüne karşı da haykırmak istiyorum.\n\npezevenk duyarlılığı senden mi öğreneceğim. yıllarca dünyanın her yerinden insan türkiyeye göçmen olarak geldi sizin kadar (genelleme) kımın zararlısı görmedik. yok ülkemde savaş vardı, yok kötü durumdaydık. 10 yıla kalmaz burayı da çöle çevirirsiniz.\n\nedit: imla.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "69228896",
+      "author": "jariomardel",
+      "date": "04.07.2017 11:47",
+      "content": "gerçekten de şu soruların cevabını ciddi şekilde merak ederim; sokakta kadınları taciz eden, laf atan, rahatız eden ekseriyetle suriyeli mi yoksa buranın yerliler mi?\nsahiller denilmiş ya. sahillerde, kumsallarda kadınları dikizleyen, hatta sırf bunun için oraya gidenler ekseriyetle buralı mı yoksa suriyeli mi?\nhe yavrum he, burası eskiden norveçti, finlandiyaydı, bir sevgi ve hoş görü deryasıydı suriyeliler gelip bozdu.\nsavaştan zaten kaçıp gelmiş adama git savaş diyemezsin. suriyeliler de gerçekten inanılmaz derecede uyumlu ve saygılı insanlar. ben şahsen bu kadarını beklemiyordum. bakın gerçekten bir cinnet ortamından kaçıp buraya sığındılar burda da çok kısıtlı imkanlara sahipler ama buna rağmen yine de bazı münferit ve çoğu da abartılan olaylar dışında toplumsal bir soruna neden olmuyorlar. yine bakın burdan avrupa'ya göç eden türkiyeliler orda daha fazla uyum sorunu yaşıyor ve daha fazla toplumsal rahatsızlığa neden oluyor. üstelik keyiflerinden gitmişler, iş gücü sahibiler bir de. yine burda özellikle 90'larda batı illerine göç eden doğulular, daha fazla uyum sorunu yaşadılar. örnekleri çoğaltabiliriz.\nbiraz merhametli olmak iyidir yaw. kimseye zarar vermez. bu insanlar bir cinnet ve savaş ortamından kaçıp gelmişler, çoğu ölmüş çok azı da canını zor kurtarmış insanlar. siz de gidin ölün demek nasıl bir vicdandan süzülüp gelen sözdür anlamadım.\nmasum insanlar için denilmesi gereken söz.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "69228938",
+      "author": "gnl rkn",
+      "date": "04.07.2017 11:49",
+      "content": "en buyuk hayalim sam da namaz kilmak olan mezhepci bir adamim, sunnilerin yine sunniler tarafindan idare edilmesini isterim, bu ugur da ic savas cikarmak ic savas da kendi tarafima maddi ve manevi yardim yapmak amaclarima ulasmam icin elzemdir, ic savas sonrasi ulkeme multeci gocu oldugunda dini referanslarla cevremi manipule eder, gerekirse yabancilari multeci silahi ile vurur paralarini almak icin sonuna kadar kullanirim, ha bu arada bu multecileri cevrem de linc ettiklerinde de sesimi cikarmam, bu arada linc edenler her seferinde beni destekliyor:))\nsen bir suriyelisin kesin din kardesimsindir .",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "CRIME"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "69228939",
+      "author": "grandleozz",
+      "date": "04.07.2017 11:49 ~ 12:04",
+      "content": "türkiye yanıbaşında savaştan kaçan insanlara \"gelme buraya, git\" deme lüksüne sahip değildir, uluslar arası sözleşmeler buna izin vermiyor, eyvallah.\n\ndiğer yandan ciddi bir kıyımdan kaçan insanlara sınırları kapatmak da insanlıkla bağdaşacak bir olay değildir, bu da tamam.\n\namma vekalin, bu kadar hazırlıksız, bu kadar takipsiz, bu kadar başıboş mülteci alımı da aptalca bir devlet politikasına ve ülke insanının menfaatinden başka hesaplar yapıldığına dalalettir.\nilk hesap bunu ab'ye karşı kullanmaktı. ab öyle bir manevra yaptı ki, bizim müptezel politikacılar lap diye düştü tuzağa. önce para ve desteğin ucunu gösterdiler, sonra kontrollü alım ve vize muafiyetini öne sürdüler, sonra da sınır girişlerinde yaşananları medyaya yansıtıp ab'ye gitmeyi düşünenlere göz dağı verdiler. o arada kontrolsüzce mülteci alıp büyük şehirlere salan ve ab'den gözü dönmüşçesine daha fazlasını isteyen türkiye hükümeti de çuvalladı. son gerilimler nedeniyle de mülteci olayı götümüzde patladı.\n\nikinci hesap ise bunu iç siyaset malzemesi haline getirip kontrolsüzce çoğalan suriyelilerden oy deposu yaratmak. kendi milletini devşiremediğini ve ulusal hassasiyetlerin artarak bir gün kendini vuracağını, her yanı imam hatip'le donatsa da milletin buna ilgi göstermediğini gören akp'nin tutunduğu son dallardan biri. şimdilik oy deposu diyoruz, ilerleyen dönemde iktidar yanlısı bir silahlı güce dönüşmezler umarım.\n\nayrı bir konu olarak; devlet terörü nedeniyle hayatını kaybeden ermeni asıllı öz be öz türkiye vatandaşı gazeteci için duyarlılık gösterenlerin, milletin vergisiyle bedava yaşayıp, plajda milletin götüne sarkan suriyeliler için aynı duyarlılığı göstermesini beklemek de tam bir karakter yavşaklığı, ruh orospuluğudur.\n\nlan ne arap siki hayranlığı varmış sizde. çok bayıldığınız eski bir belediye başkanınızın özdeyişi vardı, bu olaya uyarlamak mümkün:\n\n- madem suriyeliye bu kadar bayılıyorsun, gönder karını da ona sarksınlar..",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "69228963",
+      "author": "reloaded",
+      "date": "04.07.2017 11:50",
+      "content": "https://www.youtube.com/watch?v=bwpsdwgodtk",
+      "referenced_content": [],
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "69228987",
+      "author": "zakir",
+      "date": "04.07.2017 11:52 ~ 11:53",
+      "content": "hala sol diyor bana. memlekette sol diye bir sey mi var. yarisi kurt kuyrukcusu diger yarisi is yapmayan surekli birbirinin gozunu oyan bir avuc ayriksi ot.\n\nevet biliyoruz bu filmi. ulkene hic bir faydan dokunmamis, memleketin yanarken burda sikinle tassaginla oynuyorsun. yeri geldiginde yaptigin cocuklari kullaniyorsun, turk halkinin sefkatini istismar ediyorsun. suriyelisin cunku.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "69229022",
+      "author": "rezotante importante",
+      "date": "04.07.2017 11:54",
+      "content": "\"avrupa'da benzeri olsaydı\" diye başlayan entry girilmiş başlık.\n\navrupadayım, burada da her yerde suriyeli var ama bizde ki gibi rahat tavır sergilemiyorlar, hepsi dil kursuna gidip kurallara uymaya çalışıyor, aksi takdir de kendilerine verilen paranın kesilip, oturumlarının uzatılmayacağını biliyorlar. şu mülteci olayını bu şekilde yönetemedik ya ona yanarım.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "69229038",
+      "author": "spetsnaz",
+      "date": "04.07.2017 11:55",
+      "content": "sen duyar kasma arap bokunu çıkarıyon",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "69229062",
+      "author": "bacardi importante",
+      "date": "04.07.2017 11:57",
+      "content": "emir büyük yerden belli ki bugün bir anda suriyeliler bastı sözlüğü.\nanasını, bacısını, karısını, kızını suriyeli taciz ettiğinde gözlerini kapatır bu gavatlar para için.",
+      "referenced_content": [],
+      "has_external_url": false
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "69229125",
+      "author": "es se",
+      "date": "04.07.2017 12:00 ~ 12:04",
+      "content": "''avrupa zavallı göçmenlere sahip çıkardı'' diyorsan, avrupaya git o zaman. hatta oraları da kirletme bence. sen arapsın, biz türküz, onlar avrupalı. senin gideceğin yerler diğer arap ülkeleri olmalı.\nanlamadığım bir şey de bu müslümanların ilk fırsatta hristiyan-ateist avrupaya kaçma sevdası. siz değil misiniz her fırsatta''kafir'' diye hakaret eden,''cehennemin en dibinde sonsuz yanacak kişiler bunlar'' diyen. böyle dediğiniz kişilerin kucağına niye koşarsınız? onlardan size nasıl bir adalet beklersiniz?\nbırakın artık ikiyüzlülük yapmayı, biraz onurlu olun.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "69229170",
+      "author": "zuntikam",
+      "date": "04.07.2017 12:02",
+      "content": "olaylara ne kadar yüzeysel, ideolojik baktığımızın resmidir. ülkene git savaş diyen aklı evveller, uçaklarla helikopterlerle uçaksavar,manpad vs olmadan nasıl savaşacaksın?\nilla eleştirilecekse mültecilerin rehabilitasyonu ve topluma kazandırılması konusunda yeterli çalışmayı yapmayan devlet eleştrilmelidir.\nallah ülkeme öyle günleri göstermesin ama olursa şundan eminim ki benzer durumda vatanını terk edecek ilk bunlar olacaktır.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "69229185",
+      "author": "angeldust3",
+      "date": "04.07.2017 12:02",
+      "content": "ben daha çaylakken suriyeliler sözlüğü bile keşfedip üstüne yazar bile olmuşlar . kırdın beni ekşi sözlük.\n\nbak sevgili insan keza kardeşim falan değilsin ki ben faşist biriyimdir umrumda değilsin . benim askerim 2 karış toprağı için bu ülke tarihi boyunca şehit oldu . bizim de aramızdan başka ülkelere gidenler var ama hiç biri adam öldürmek, o ülkenin vatandaşının huzurunu bozmak, karısını kızını taciz etmek gibi şeyler yapmadı . senin kanın bozuk sevgili insan bizler bir yere misafirliğe gittiğimiz de oturmamıza kalkmamıza bile dikkat eden toplumuz, siz misafirliğe geldiğiniz yerin ortasına sıçıyorsunuz .\n\nşu bi karış toprağa doluşmuş bir sürü millet olduk senelerce kürt, türk ayrımı yaşadık şimdi birde suriyeli eklendi keza pkkyı siktir et biz kürtle de arkadaş olduk biz yeri geldi ama biz sizle olamadık . din kardeşiymişiz benim her dinden arkadaşım oldu ama hiç biri sizin yaptıklarınızı yapmadı bu ülke de .\n\np.s lütfen duş alın, yemek yemeği etrafa bakın öğrenin olmadı video falan izleyin, sokaklar da dilenmeyi kesin keza ben şehit çocuğuyum bu ülke de sizin kadar hakkım ve imkanım yok keza olsaydı zaten hepinizi denize ben dökerdim yine söylüyorum bizim insanımız şu topraklar uğruna öldü gelipte size bırakıcak değiliz. lütfen taciz etmeyin illa güdülerim var vs diyorsanız bu evin vergili çalışan genelevi bile var, eminim siz bunu biliyorsunuzdur keza o kadar çok ilkkez gittiğim yerleri sizler çoktan keşfetmişsiniz ki . toplum içersin de bağırarak konuşmayın ve unutmayın ki biz sizin dilinizi değil siz bizim dilimizi bilmek zorundasınız.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "69229206",
+      "author": "sherry sherry lady",
+      "date": "04.07.2017 12:03",
+      "content": "o zaman benim vergilerimden ödenen bursunu maaşını sigorta primini al götüne sok",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "69229251",
+      "author": "enerji ve tabii lan manyak misin",
+      "date": "04.07.2017 12:05",
+      "content": "bu multeci kabul sekli avrupanin hic bir ulkesinde, bizim ulkemizde yapildigi gibi yapilmayacagi icin sacma bi kiyaslama olmus. sinirdan gelen herkesi al iceri ve sal ulkenin her yanina, ne bi kontrol mekanizmasi ne bi ugras. adamlar cetelesir, taciz eder, sokaklarda sana bana salca olur. bunun avrupasi turkiyesi yok, nerede olsa bu adamlar istenmez, ister suriyeli olsun ister ukraynali.\n\nbide burda yok sag kesim yok sol kesim yok barbarlik ne bilim duyarlilik gibi terimler kullanma sayin suriyeli kardesim, hic olmamasi gereken seyler, yapilmamasi gereken sekilde yapiliyor. turk insani sizler icin haddinden fazla sebat ediyor zaten.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "69229289",
+      "author": "the impressive",
+      "date": "04.07.2017 12:08 ~ 12:09",
+      "content": "lütfen dışarı boşalın...\n\nher anlamda...",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "69229397",
+      "author": "jolteon",
+      "date": "04.07.2017 12:14",
+      "content": "o zaman bi zahmet prezervatif kullan canım.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "69229432",
+      "author": "olmuyorsakicelim",
+      "date": "04.07.2017 12:15",
+      "content": "avrupa çok duyarlı olsaydı bir kaç bin seçilmiş mülteci yerine daha fazlasını alırdı anuna goduğum.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "69229455",
+      "author": "laciveert",
+      "date": "04.07.2017 12:16 ~ 14:59",
+      "content": "burada herkesi genelleyen insanlara peki siz bu ulkede bu insanlarin entegrasyonu icin ne yaptiniz diye sormak istediğim baslik. hala oturup yha ama gitsinler artk melss:(:(tarzinda davranarak neyi iyilestiriyorsunuz? 3 milyon siginmaci var. bunlarin hangi birini geri gonderecegin meçhul. o zaman yapman gereken elindeki zararli gorunen sonuçlar üzerine calismak. entegrasyon ve eğitim.\n\nbir de bugun turkiyeden siktir olup gitmek basligindan buraya damlayan arkadaşların git savas demesi ironik. çünkü burada bir savas cikmadan bu ülkeden kacmaya calisan insanlarin allah korusun savas çıkarsa bu ülkede kalip savasacaklarini mi dusunuyorsunuz?",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POLICY",
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "69229494",
+      "author": "sardesli",
+      "date": "04.07.2017 12:18",
+      "content": "çıkış bu taraftan.\nhadi yallah çöle.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "69229613",
+      "author": "kozniku",
+      "date": "04.07.2017 12:24 ~ 13:06",
+      "content": "\"bir suriyeli\" diye birşey olmaz.\nsuriyeli birey olmaz.\nsuriyeli prototipi olur; o da terörist, radikal dinci, hırsız, tecavüzcü olur ama insan olamaz.\nbizde ırkçılık yoktur; arap bacıyı hepimiz çok severiz ama yo dostum duyarınla beni kandıramazsın ne mal olduğunu biliyoruz.\nılık götlü derim ve bütün argümanların çürür gider; ben ırkçı değilim benim annem köle isaura'yı izlerken ağlıyordu tamam mı...\nsenin 5 yaşındaki aç çocuğun bilmez ama sizin ülkeden birileri pkk'yı desteklemişti sen olmadığını nereden bileceğiz ha?\nhem sen olmasan bile terörle mücadele için bir kere sözlüğe orospuçocuğu teröristler ve yandaşları yazdın mı ki gelmiş burda duyar kasıyorsun?",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "CRIME"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "69229636",
+      "author": "be the change",
+      "date": "04.07.2017 12:25",
+      "content": "o zaman suriye ye canım",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "69229663",
+      "author": "kan emici",
+      "date": "04.07.2017 12:26",
+      "content": "adam gibi duracaksanız durun ama bu şekilde evinize dönün",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "69229666",
+      "author": "hulyodelivaldez",
+      "date": "04.07.2017 12:26",
+      "content": "(bkz: sosyal medya suriyeli karşıtı provokatör hesaplar/#69229438)\n\n\"burada \"suriyeli\" kelimesi onlar için sadece tetikleyici bir unsur. bu geçmişte \"alevi-sünni\"ydi, \"türk-kürt\"tü, \"ıraklı\"ydı; yarın da \"arap\" olur, \"acem\" olur, \"zenci\" olur, hatta \"türkmen\" olur, hatta ve hatta \"türki\" bile olur. bak görürsünüz.\n\nçünkü bunlar için asıl amaç kaos çıkarmak. bunların trenine vagon olan beyinsiz götoğlanları da kendi iradeleri olmayan, onun bunun ağzına bakan piç mankurtlardan ibaret. fakat sesleri çok çıkıyor. bu köpekoğlu köpeklerin bu yaptıkları elbette yanlarına kâr kalmayacak. böyle provokasyon yapanların alayını tespit edip atacaksın içeri. net bir şekilde niyetleri kan ve kaos çıkarmak bunların. tek bir tanesini bile kaçırmadan gerekeni yapacaksın.\"",
+      "referenced_content": [
+        {
+          "type": "entry",
+          "title": "sosyal-medya-suriyeli-karsiti-provokator-hesaplar",
+          "entry_id": "69229438",
+          "author": "hulyodelivaldez",
+          "date": "04.07.2017 12:16",
+          "content": "dün demetevler'de ne oldu? bir grup türk, ıraklı türkmen lere daldı. suriyeli sandılar veya sanmadılar; hak ettiler veya etmediler, mesele o değil. kavgadır, çıkabilir. gerektiğinde karşı tarafı dövebilirsin. fakat sonra ne oldu? sosyal medyadaki niyeti ve kanı bozuk orospu çocukları provokasyona başladılar.\n\n\"suriyeliler bir çocuğa tecavüz etmişler.\"\n\"suriyeliler 6 kişiyi öldürmüşler.\n\"suriyeliler bir kadına tecavüz etmişler.\"\n\"suriyeliler en az bir kişiyi öldürmüşler.\"\n\nbak bu ekşide de çok sayıda bulunan bu puştoğlu puşt kahpe döllerinin amacı belli. halkı kin ve düşmanlığa kışkırtmak, şiddet olaylarını körüklemek, linçlere, cinayetlere sebep olmak.\n\nburada \" suriyeli \" kelimesi onlar için sadece tetikleyici bir unsur. bu geçmişte \" alevi-sünni \"ydi, \" türk-kürt \"tü, \" ıraklı \"ydı; yarın da \" arap \" olur, \" acem \" olur, \" zenci \" olur, hatta \" türkmen \" olur, hatta ve hatta \" türki \" bile olur. bak görürsünüz.\n\nçünkü bunlar için asıl amaç kaos çıkarmak. bunların trenine vagon olan beyinsiz götoğlanları da kendi iradeleri olmayan, onun bunun ağzına bakan piç mankurtlardan ibaret. fakat sesleri çok çıkıyor. bu köpekoğlu köpeklerin bu yaptıkları elbette yanlarına kâr kalmayacak. böyle provokasyon yapanların alayını tespit edip atacaksın içeri. net bir şekilde niyetleri kan ve kaos çıkarmak bunların. tek bir tanesini bile kaçırmadan gerekeni yapacaksın.\n\nama size şunu da söyleyeyim. bu ve bu tarz provokasyonların sosyal medyadaki çıkış noktaları da yurt dışındadır muhtemelen. oralardan buradaki beyinsizleri kışkırtarak iş görüyorlardır. onlar orada götlerinin keyfine bakarken buradaki kullanışlı aptallar, beyinsiz davarlar ceremesini çekecek. beter olsunlar.",
+          "has_external_url": false
+        }
+      ],
+      "referenced_entry_ids": [
+        "69229438"
+      ],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "69229701",
+      "author": "yagmur feneri",
+      "date": "04.07.2017 12:28",
+      "content": "bir benzerini daha önce ben de yazmıştım: (bkz: #69050232) türkiye'de sol olduğu iddiasındaki insanların suriyelilere karşı ırkçı bir tavırda olması türkiye'de solun ortak doğrularının, en temel argümanlarının bile benimsenmediğini gösterir maalesef.",
+      "referenced_content": [
+        {
+          "type": "entry",
+          "title": "turkiye-solunun-en-buyuk-sorunu",
+          "entry_id": "69050232",
+          "author": "yagmur feneri",
+          "date": "25.06.2017 01:13",
+          "content": "gerçekten sol olmamasıdır. türkiye'de araplara, kürtlere veya müslümanlara karşı faşizan bir tutum içinde olup da hala sol bir görüşe sahip olduğunu sanan binlerce insan ve bazı siyasi partiler var.",
+          "has_external_url": false
+        }
+      ],
+      "referenced_entry_ids": [
+        "69050232"
+      ],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "69229716",
+      "author": "gogacan",
+      "date": "04.07.2017 12:28",
+      "content": "ulan suriyeliler bile yazar biz hayla çatlağız.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "69229814",
+      "author": "ertakg",
+      "date": "04.07.2017 12:33",
+      "content": "eee siktir git o zaman satılık suriyene",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "69229828",
+      "author": "kosture",
+      "date": "04.07.2017 12:34",
+      "content": "ben bir türküm ve ülkemden arapça tabelalarini, dilencilerini ve ülkemin hastanelerinde kalma bedellerini ödeyerek git. arap kardeşlerinemi gideceksin nereye kadar yolun varsa git. yüzyıl önce atalarıma attığın kazıkları unuttuğumuzu sanıyorsun ama unutmadık. ve sana saygı duymuyorum. defol git ülkemden. o pis kültürünü onursuz kacislarini al ve arkana bakmadan git.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "69229845",
+      "author": "2 dakka insan ol",
+      "date": "04.07.2017 12:34 ~ 15:24",
+      "content": "yazılanlar inanılır gibi değil. şimdi burada yazacaklarımdan sonra kimbilir ne ithamlar/ne küfürler yiyeceğim ama yazmam lazım. \"duyar kasma\" diyenler de olacak, kasarım abi. böyle bir nefret görmedim ben hayatımda yazılarınızdan kan damlıyor maşallah!\n\nben aslen suriyeliyim evet. osmanlı dönemi'nde baba tarafımın büyük büyük dedeleri göçmüşler halep'ten hatay'a. iş bulmaya. anne tarafı dedelerim de lazkiyeli hatta. onlar ne zaman göçmüş bilmiyorum. o zamandan beri -5 kuşak yaklaşık 350 seneden beri- hataylıyız. misak-ı milli sınırları içerisindeki topraklardayız yani. aslen suriyeliyim derim ama. arap asıllıyım derim. hiçbir zaman inkar etmedim. neyini inkar edeceğim zaten siktiriboktan faşistliklerinize karşı yalan mı söylemem gerekiyor?\n\nbunu söylüyor olmam türkiye cumhuriyeti vatandaşı olmamı, atatürk'e sonsuz bağlı olmamı engellemiyor. \" ne mutlu türk'üm diyene! \" cümlesinin gerçek manasını anlayıp da söyleyemediğim anlamına gelmiyor. bu ülke için çalışmamı, bu benim en temel hakkım olan can güvenliğimi bile sağlayamayan devlet için vergi vermemi engellemiyor. o \"biz okutuyoruz, biz çalışıyoruz onlar yiyor\" dediğiniz suriyeliler benden de yiyorlar. duyar mı kasıyorum şimdi? kasıyorum amk. \"suriyeli severler yallah suriye'ye\" diyenin de ağzına sıçarım. benim ülkemden beni kimse kovamaz. sadece ben istersem giderim.\n\ndaha dün yazdım. ben kendi ülkemde üşüyorum, başka ülkede \"türk\"üm. benim gidecek yerim yok. bu ülkenin 1 sene sonra ne halde olacağını hiç kimse bilmiyor. sen de bilmiyorsun. tam da bu sebeple o saçmasapan milliyetçilik lüksünü koy artık kenara. zaten hepiniz selanik göçmenisiniz olm ortamlarda.\n\nben deist insanım. benim öbür dünyam yok. benim sadece bir hayatım var. tam 22 sene okudum. \"vatana millete faydalı evlat ol\" dediler. bence oldum. okulu bitirip çalışmaya başladım. 8 senedir bilfiil çalışıyorum. donuma kadar vergi alınıyor benden, aldığım gelir üstünden bile vergi veriyorum, iflahım sikiliyor vergiden ama veriyorum. havalimanı, konut, teknokent, avm bir sürü projede emeğim var. it gibi çalışıyorum. sen kullanacaksın benim emeğim olan havaalanını mesela. yaptığım teknokent'te belki proje üreteceksin, belki girişimci olacaksın. gittiğin avm'de benim havalandırmasını tasarladığım sinemada film izleyeceksin. hatta yapıyorsundur bile bunları çoktan. yani bana \"bu ülke için bugüne kadar ne yaptın?\" diye sorma. o yüzden yazıyorum bunları.\n\nklasik argümanınız: “savaş var ülkende, git çatış orda”. bak ben sana ne söyleyeyim sevgili klavye bordolusu. mustafa kemal atatürk gibi bir adam olmadığı sürece (hasta yatağından kalkıp \"hatay benim şahsi meselemdir\" diyen bir adamdan bahsediyorum) –ki olmayacak- şu ülkede çıkacak herhangi bir savaşta ben de giderim. vatan haini olacağım şimdi senin gözünde. \"defol git!\" diyeceksin. vatan millet sakarya edebiyatı çekeceksin bana oturduğun yerden klavyedeki iki tuşa basarak. fırsatını arıyorsun yurtdışına kapak atmanın ama bana burada atar yapacaksın. değil mi? (bkz: swh) yap hadi yap. izin verdim.\n\nniye durayım?! dünya siyasetinin boktan çukurlarında boğulan siyasetçiler ve silah/ilaç endüstrisinin para kazanması için göz göre göre çıkarılan savaşları bilmiyormuş gibi, bir kez yaşayacağım şu hayatı neden çöpe atayım? değer mi lan? değecek mi sence? yarın savaş çıksa elinde silah cepheye koşacakmış gibi. benden önce kaçarsınız, botları benden önce doldurursunuz, kime ne anlatıyorsunuz lan?\n\nsuriyelilerin sıkıntı yarattığının ben de farkındayım. ankara’da yaşıyorum ben etrafım onlarla dolu. arabada kırmızı ışıkta beklerken cama yapışıp, para vermeyince kapıya yumruk atıp küfrederek giden suriyeli yok mu benim etrafımda sence? amk bunun suçlusu bu insanlar mı? ben çöpte yemek arayan hukuk mezunu bir suriyeli biliyorum mesela. bizzat konuştum dertleştim kendisiyle. o çok mu mutlu burada olmaktan peki? 3 milyon sığınmacıyı politik çıkarlarla ülkeye doldurana kızsana sen. bunu değiştirmek için bir şeyler yap. savaştan kaçmış insanlara kin nefret kusamazsın. senin ve hepimizin en temel insani, evrimsel ihtiyacı olan kendini güvende hissetmek ve hayatta kalmak içgüdüsüyle ülkesini, evini, mesleğini ağlayarak bırakan ve burada senden bok muamelesi görmek zorunda kalan insanlara nefret ku-sa-maz-sın! bitti. ötesi yok bunun.\n\nnüfusunun %25'ine yakınının mülteci olduğu bir dünyada \" milliyetçilik \" diye bir lüksün yok senin artık. eşşek gibi paylaşacağız bu yeryüzünü. insanlara nefret kusacağına, politik durumu değiştirmek için bir şeyler yap.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "69229850",
+      "author": "hep7a",
+      "date": "04.07.2017 12:35",
+      "content": "avrupa ülkelerinde sahip çıkılan göçmenler iş gücü yüksek, ülkeye faydası olan ya da en azından zararı olmayan göçmenler. sürekli \"dünyada var bizde neden olmasın\" kafasında yaşamak da hastalık oldu trollgillerde.\n\nsokağa çıkmaya korkan benim halkım, tıklım tıklım plajlarda ve toplu alanlarda serinlemeye çalışan ve kıt kanaat geçinen emekçi halk benim halkım; parazit gibi yaşayan, bölünerek çoğalır gibi 2 üssü n hızıyla çoğalan arap soylarını savunacağım öyle mi?\nama onlar savaştan kaçtı dur abi deme öyle.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY",
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "69229862",
+      "author": "erisaa",
+      "date": "04.07.2017 12:35",
+      "content": "misafirliğe gittiğin evin yatak odasına dalıp dolapları karıştırıyorsan, istediğini alıp üstüne giyebiliyorsan, muftağa gidip istediğin alıp yiyorsan hatta yetinmeyin salona da sıçıyorsan evet sen bir suriyelisin ama ben değilim.\nmisafirsen misafirliğini bileceksin ki ev sahibinin başının üstünde yerin olsun.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "69229892",
+      "author": "sultanahmetli",
+      "date": "04.07.2017 12:37",
+      "content": "o zaman: siktir git ülkene.\nmisafirliğin kural ve kaidelerine uymayınca hümanistliğine devam mı edeceksin.\nevini barkını aç her şeyini paylaş.\nsiktir olup gitsinler, hem de dönmemek üzere.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "69229978",
+      "author": "gascoigne",
+      "date": "04.07.2017 12:42",
+      "content": "türkiye'de sol olmaz. olamaz.\n\nbir millette ideolojik olarak \"sol\" denilen kesim, tarihin belli başlı kazanımları sonucu oluşur. bunlar işçi hakları, sendikalaşmak, sanayi devrimini tamamlamak, işçi bilincinin oluşturulması gibi bir çok faktörün sonucunda ortaya proletarya denilen kesim ortaya çıkar.\n\ngelelim türkiye'ye.\n-sanayi devrimi asla yaşanmadı, sanayi avrupa'dan getirilebildiği kadar getirildi.\n\n-işçiler, işçi haklarından haberdar bile değil.\n\n-sendikalar mafyanın elinde. her türlü haraç ve rüşvet karşılığı tetikçilik yapan bir kurum.\n\n-işçi bilinci uyandırılamadı. işçi her zaman iktidardan yana olmayı tercih etti.\n\nbunların sonucunda bugün solculuk; bir avuç şımarık lümpen sınıfından çocuğun eline kaldı. kimse kusura bakmasın ama kadıköy'de slogan atıp, nazım'da iki çay ile solculuk yapmak mastürbasyondan öte bişey değildir.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "69230017",
+      "author": "horozkentli",
+      "date": "04.07.2017 12:44",
+      "content": "ekşi sözlük'ü bile suriyeli'ler basmış.\n(bkz: yallah suriye'ye)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "69230040",
+      "author": "defy",
+      "date": "04.07.2017 12:45",
+      "content": "savaştan kaçmaları benim gözümde suriyelileri daha kötü bir duruma sokmuyor. bu ülkede iç savaş çıksa büyük ihtimalle ben de kaçarım. bir kere geldiğim şu hayatı para babalarının ve güç sahiplerinin çıkarları için savaşarak harcayamam...\n\ntabi ki suriyelilerin böyle bir düşünceyle ülkeden kaçtıklarını düşünmüyorum.\n\naslında o suriyeli mülteciler dediğimiz insanların içinde çok az suriyeli var. çoğu başka orta doğu ülkelerinden işsizlik, suç vs. gibi çeşitli nedenlerle kaçmış insanlar.\n\nbu noktada en büyük suç türkiye'nin ve hükümetin.\n\n3-4 milyon adamı sınırları açıp ülkeye plansız bir biçimde alırsan bu sonu iç savaşa kadar gider. gerçi planlı alsan bile büyük sorunlar yaşarsın, almanların türkleri alması gibi...\n\nyapılacak şey bu insanların toplanıp kamplara yerleştirilmesi ki devletin öyle bir şey yapabileceğini sanmıyorum. ya da hiçbir şey yapmadan beklemesi ve yepyeni bir sorunumuzun olması...\n\nzavallı göçmenlere sahip çıkmak konusunda ise türk halkından bir çok konuda nefret ederim fakat bir konuda hakkını vermek lazım ki millet olarak ezilen adamın yanında dururuz, yardım ederiz. lakin bugün mağdur olan kendi ülkemizde bizleriz, suriyeliler değil.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "69230048",
+      "author": "uberallessuperfantastik",
+      "date": "04.07.2017 12:45",
+      "content": "bu arkadaş derse şaşırmayacağım cümle.",
+      "referenced_content": [],
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "69230099",
+      "author": "geyikli baba",
+      "date": "04.07.2017 12:48",
+      "content": "almanya'da suça tecavüze kalkışan, kavga çıkaran, kurallara uymayan bir yabancının anında geldiği yere postalandığını bilmeyen bir delinin humanizm saçmalaması.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "CRIME"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "69230160",
+      "author": "monstruo",
+      "date": "04.07.2017 12:50",
+      "content": "üniversiteye sınavsız girdikleri gibi, sözlükte de çaylak olarak beklemeden yazar oluyorlar demek ki. biz daha bekleyelim.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "69230170",
+      "author": "useniyo",
+      "date": "04.07.2017 12:50",
+      "content": "zamanında biz de avrupaya gittik, aile kurduk, çalıştık fakat kimseye yan gözle bakmadık, insanlara saldırmadık, taciz etmedik.. işte iç içe yaşadıkça anlıyoruz suriyenin neden parçalandığını. maalesef yaşadıkça anlıyoruz.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "69230197",
+      "author": "izmircipurasi",
+      "date": "04.07.2017 12:52",
+      "content": "bir kitap tanıtımı sandığım başlık.\n\n(bkz: how i escaped from aleppo)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "69230239",
+      "author": "findestina",
+      "date": "04.07.2017 12:54",
+      "content": "kendine ait olmayan bir ülkede var olmaya çalışmak, savaştan kaçmak, kendi ülkene dönsen çocuklarının katledildiğini izlemek, bunların hepsini anlıyorum, acılarını paylaşıyorum. duyarlılığınıza saygı da duyuyorum, ama bu kadar basit bir mevzu değil bu.\nbir kere en başta söylenmesi gereken, türkiye çok gelişmiş kaynaklara ve refah bir hayat tarzına sahip bir ülke değil. henüz kendi vatandaşlarına dahi ücretsiz sağlık ve eğitim dahi sağlayamıyor, bu yadsınamaz bir gerçek. (sağlık artık çok iyi diye söylenenler şişli etfalin aciline gidebilirler, cehennem hayalimde o tarz bir yer.) zaten avrupa'dan para alarak devletin içeri aldığı mültecilere bunca imkanı sağlamamız mümkün olmayan bir ütopya. bu imkan eksikliği de, maddi durumu olmayan suriyelilerin ve yüksek sayıdaki çocuklarının, eğitimsiz kalmasına ve sokaklarda kötü koşullarda para dilenmesine kadar varıyor.\nsadece türkiye'nin suçu mu? hayır. suriyelilerin suçu mu, o da hayır. şimdi konu \"ben olsam\" a geliyor. belki bizim ülkemizde de aynı olaylar yaşansa(hiç olmamasını dilerim), benim de evim köyüm bombalansa, ben de kaçarım. ama imkanlarımın farkında olarak kaçarım, savaştan kaçan ve başka ülkelerde ekmeğinin ve yaşam özgürlüğünün derdine düşmüş bir insan olarak, bir sürü çocuk doğurmam mesela. en basitinden, şu anda bile türkiye'nin politik ve ekonomik durumundan dolayı bu ülkede çocuk doğurmak istemiyorum örneğin.\n\"neler yapılabilirdi\" sorusu için artık çok geç, avrupa'nın türkiye'ye adeta resmi bir rüşvet verip duruma müdahale etmemesi de çok kötü. fakat bu durum totalde tek bir devlete, ülkeye, insana yüklenmemeli.\nhele ki türkiye solu barbar gibi bir ifadeye karşı çıkıyorum, türkiye solunu elitist bulabilirsiniz, biraz bencil de bulabilirsiniz, tamam. ama barbarlık diyen arkadaşlar şu soruyu cevaplasın önce, sokaklarda elini eteğini tutup para için yalvaran, soğuktan donarak veya inşaatların altında kalarak ölen suriyeli çocukları görünce, aaa ne iyi ettik de ülkemize aldık diyebiliyorlar mı merak ediyorum.\nırkçılık, bir insanı yalnızca ırkından dolayı küçük görmek, yaşam hakkına tacizde bulunmaktır. suriyelilerin bu ülkede ayrımcılığa maruz kalmasının sebebi ırkları değil, içinde yaşamaya çalıştığımız koşullar. gelenler british english olsa da farketmez, sen kendi aç bebeklerini doyuramıyorsun, savaştan kaçan bir ırkla mücadele edemezsin.\nhiçkimseye ırkından veya içinde bulunduğu zor durumdan ötürü hırs veya kin beslemiyorum, dilerim dünyadaki her insan el uzatıp yardım eder onlara. yalnızca gerçekçi olmaya çalışıyorum, hepsi bu.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "69230240",
+      "author": "exfreak",
+      "date": "04.07.2017 12:54",
+      "content": "ülken için savaşsana o zaman yaprağım.\nkadın, çocuk ve yaşlıları anlarım. gerçi onu da anlamam kara fatma, nene hatun, domaniçli habibe, binbaşı ayşe gelir aklıma da.\n\ndenize girmek yerine gidip savaşsana mesela.\nama yok, sosyal medyada duyar kasmak için kullanın bu söylemi.\nmis gibi barış elçisi olmak için daha fazla insan ölmeye devam etsin.\n\ngerzekler kumpanyası.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "69230273",
+      "author": "bileksili",
+      "date": "04.07.2017 12:56",
+      "content": "türk askeri mehmetçik, benim yerime suriye de çatışır bende sizin plajlarda sizin türk karı kızlarının götünü parmaklamaya çalışıp mini etekli tacizi yaparım yav bu sıcağa da hiçte kendi ülkem için çabalayamam, ne de olsa burada ekmek elden su gölden! ne kızıyorsunuz bu hakkı siz tanıdınız bana!",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "SEXUAL"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "69230355",
+      "author": "mxsmxm",
+      "date": "04.07.2017 13:00",
+      "content": "suriye'liysen burada ne isin var? hadi kadin ve cocuklar tamam da, adamim diye gecinen bu tarz ödleklere hic tahammülüm yok. özgürlüğünü satıp, baska ulkeye sığınıyorsun. ustelik o ulkede taşkınlık yapıp, millete saldiriyorsun.\n\nsiktirin gidin amina koyim lan.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "69230417",
+      "author": "kebooo",
+      "date": "04.07.2017 13:04 ~ 06.07.2017 12:29",
+      "content": "insan evine gelen misafirden edep bekler, adap bekler, saygı bekler. misafirperver olmak zorunda bile değildir. çok çok katı bir ev sahibi olsa da, ev sahibidir. evine gelen misafir ancak onun belirlediği kurallar çerçevesinde onun sahibi olduğu sınırlar içerisinde kalabilir. bunda kasmaya gerek yok, bir akşam oturduğunuz evden karşı komşunun evine girip orada kendi kurallarınızı koymaya, ev sahibinin karısına, kızına sarkmaya çalışın bakalım sizi camdan atıyor mu, atmıyor mu? benim evim yanarken komşum bana kapısını açıyor, ben de onun evinde gidip karısına, kızına fiziksel tacizde bulunuyorum, etrafı dağıtıyorum, balkona işeyip sıçıyorum. bu tamamen bununla eşdeğerdir. bunun paralelinde geçen de yazdım bir türk vatandaşının arabasının camından fırlattığı şişeyi kaldırıp çöpe atan 13-14 yaşında suriyeli de gördüm. o çöp şişesini arabasının camından atan sığır bu ülkede yaşamaya devam ederken onun çöpünü yerden alıp çöpe atan göçmen çocuk neden bu ülkeden gönderilsin? ve misafir olduğu halde gelip bu ülkede yaşayan insanları taciz eden, rahatsız eden, tehdit eden hiçbir göçmen bu ülkede kalamaz. hemen sınır dışı edilmeli! eğer edilmiyorsa, yetkililer, sorumlular acilen istifa etmeli. çünkü onların görevi vatandaşın can güvenliği, huzur ve refahını sağlamaktır. vatandaşın can güvenliğini tehdit edip, huzurunu bozmak değildir.\n\nedit: imla",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "69230443",
+      "author": "biyikli penguen",
+      "date": "04.07.2017 13:04",
+      "content": "evet, \"avrupa'da olsaydı.\" olmadı. niye?\navrupalılar bunları almadı. biz aldık.\nonlar bizi almazlardı emin ol. avrupalılar da almazdı.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "69230453",
+      "author": "rosas",
+      "date": "04.07.2017 13:05",
+      "content": "ben bir suriyeliyim ülkemi ateşe veririm yetmez gittiğim yerleri de yakarım bana bir yangın söndürücü yollayın lan yetmez ama evet!",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "CRIME",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "69230554",
+      "author": "aslangibiaslan",
+      "date": "04.07.2017 13:08",
+      "content": "(bkz: duyar is loading)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "69230659",
+      "author": "zhafrus",
+      "date": "04.07.2017 13:14",
+      "content": "yalnız şurada \"ülkene dön ve barış için savaş evlat.\" diye morpheus kesilen pembe götlü ekşicilerin deli gibi bedelli beklemesi yok mu? ahh hayat sen çok garipsin.\n\nve türkiye'ye bok atan suriyelilere de buradan iki çift lafım var. \"beyenmiyorsan geri dön ülkene evlat.\"\n\n\"go home yankeee\"",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "69230738",
+      "author": "baldirdas",
+      "date": "04.07.2017 13:18",
+      "content": "çok küçük, dışa kapalı, geri kalmış, yetersiz eğitim almış gençler görüyorum karşımda. modern dünyaya entegre olmanız ne kadar zaman alacak merak ediyorum. sizin yetiştireceğiniz çocuklarla da bu iş olmayacağına göre belki 50 sene sonra avrupa'nın şimdi olduğu kıvama gelebiliriz. yazık.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "69230903",
+      "author": "ciodeth",
+      "date": "04.07.2017 13:26",
+      "content": "(bkz: ne ara yazar oldun)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "69230995",
+      "author": "chtaru",
+      "date": "04.07.2017 13:30",
+      "content": "ulan plajda güneşlenecek, denizde yüzecek yer bırakmadınız şimdi hedef burası mı?",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "69231096",
+      "author": "2kere2",
+      "date": "04.07.2017 13:35",
+      "content": "o zaman evine dönüp yurdunu kurtar! bizim ülkemizde kavga çıkarmaktan da vazgeç!",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "69231267",
+      "author": "tiriskadan nick",
+      "date": "04.07.2017 13:42",
+      "content": "başlığında biz gelmeden de burada olan, hali hazırda da 3-5 tane kalmış ermeniyle, kuyruğunu bacaklarının arasına sıkıştırıp koşarak ülkesinden kaçmış vasıfsız 3-4 milyon tipi bir tutan harika insanları gözlemlediğimiz slogan.\n\nbeyninizi sikiiim. adamların ülkesinin karışmasın da başrolde oynadık. bu başrol yüzünden, savaş olan yerden gelen sığınmacıları kendi ülkelerinin savaş olmayan yerlerine geri de postalayamadık, şimdi 4 milyon mal ile uğraşıyoruz siz gelmiş burada sikik sikik duyar kasıyorsunuz.\n\n20 sene 10 milyon olur bunlar. 300 bin bebek doğurmuşlar bu kadar zamanda zaten amk yerinde.\n\nülkenin 50 senesini siktiniz bi 50 senesini daha sikmeye uğraşıyorsunuz.\nduyarınıza sokayım!",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "69231284",
+      "author": "starbuck",
+      "date": "04.07.2017 13:42",
+      "content": "o zaman suriye'ye gitmelisin, burası türkiye şeklinde cevap verilebilir.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "69231364",
+      "author": "el patika",
+      "date": "04.07.2017 13:46",
+      "content": "yaşadığımız coğrafyadaki yozlaşma sebebiyle yanında olamıyoruz dostum.\ndostum diyorum zira dost olmalıyız. \"eşitlik, adalet, hak\" aradığımız yürüyüşler yapıyoruz ama sana karşı nefret besliyoruz.\ntüm dünyada barış istiyoruz ama seni ülkene kovuyoruz. çünkü nefret ettiğimiz kişi çağırdı seni. cehape iktidar olsaydı ve seni onlar davet etmiş olsaydı, birlikte halay çekerdik şu an muhtemelen.\n\nyaşadığımız coğrafyanın hakkını veriyoruz. iki yüzlüyüz. kapitalizm kokan solcularız. sürekli yıkanıyoruz ama arınamıyoruz. yeni araba kokusu gibi yapıştı üzerimize.\nrahatımızı kaçırdığınız için, genel görgü kurallarının altında olduğunuz için kucaklayamıyoruz seni dostum.\nkendimizle yine çelişiyoruz bir daha çelişiyoruz.\n\nsolcu olamıyoruz bu ülkede. sol dünya görüşünü okuduğumuz kitaplardaki fakir madencilere, işçilere hayran oluyoruz ama gerçek hayatta onları yok sayıyoruz.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "69231425",
+      "author": "musellesin mesaha i sathiyesi",
+      "date": "04.07.2017 13:48",
+      "content": "ben ıslah edilemeyen arap ırkından geliyorum. evet ben suriye' liyim.\n\nbir dünya peygamber geldi ve gene ıslah olmadım.\n\nşimdi bir virüs gibi türkiye' nin içerisine yayılacağım ve sonra da başka istikametlere gideceğim.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "69231500",
+      "author": "entry manyaii yaparim",
+      "date": "04.07.2017 13:51",
+      "content": "(bkz: o zaman defol git)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "69231559",
+      "author": "bidurunlabidurun",
+      "date": "04.07.2017 13:53",
+      "content": "türkiye zaten gereğinden fazla bir biçimde suriyeli mültecilere sahip çıkmıştır. ama her zaman olduğu gibi bu işi de plansız bir şekilde yapmış ve bugün büyük şehirlerimizde ve dahi türkiye'nin dört bir yanında çok fazla sayıda mülteci, insanlık dışı şartlarda yaşamaktadır. bazıları olaylar çıkarmakta, bazı orta halli veya zenginleri ise sahillerde cirit atmaktadır.\n\navrupa'da bu tarz duyarlılık olduğunu söylemek iyimserliktir. avrupa ülkeleri bugün ne kadar mülteci barındırmaktadır? tüm işi bize yıkmak için ne kadar para önermiştir? bunları inceleyin sonra burada ahkam kesin. ayrıca avrupa'da siyasi eğilim giderek daha aşırı sağa,ırkçı görüşlere kaymaktadır. neredeyse hiç bir avrupa ülkesi sol siyasetle yönetilmiyor. ha dersin ki avrupa medeniyeti şöyle iyi böyle gelişmiş eyvallah ona lafım olmaz. ancak böyle bir konu üzerinden türkiye'yi avrupa ile kıyaslamak şu an için yanlış bir değerlendirme.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POLICY",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "69232199",
+      "author": "senna forever",
+      "date": "04.07.2017 14:18",
+      "content": "altı doldurulduğunda özellikle genç erkek suriyelilerin normal şartlarda çok utanacağı başlık.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "69232488",
+      "author": "azizaslann",
+      "date": "04.07.2017 14:31",
+      "content": "ülkesi için için savaşmayıp, korkaklar gibi kaçacak olan insanın beyanı.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "69233414",
+      "author": "princeoftroi",
+      "date": "04.07.2017 15:19",
+      "content": "zulümden kaçıp sığındığın insanlara zulmetmek bildiğin orospu çocukluğu, sesinizi kısın biraz konuşurken amına kodumun davarları",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "SEXUAL"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "69234116",
+      "author": "tw2m",
+      "date": "04.07.2017 15:51",
+      "content": "adam akıllı bu topraklarda yaşamayı öğrenmelisin.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "69234511",
+      "author": "you are no longer a prisoner of fate",
+      "date": "04.07.2017 16:12 ~ 16:26",
+      "content": "ancak merkel tarafından söylenir ve 5 milyon suriyeli sığınmacıya avrupanın kapılarını açarsa anlamlı olacak söz. vakti zamanında almanya için jfk bir benzerini söylemişti.\n\n(bkz: ich bin ein syrer)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "69234681",
+      "author": "senna forever",
+      "date": "04.07.2017 16:21",
+      "content": "açılırken gözyaşları sel olur gider diye düşünülmüş başarısız başlık. gencecik adamları besleyin kardeşim, tutan yok. el evine bak, tutan mı var? sen benden aldığın parayla ne idüğü belirsiz eli silah tutan adamlara bakamazsın, ben de deniz kenarlarında besleyemem kimseyi kusura bakma. bu numaralar eskidi, onların suriyeli olması beni alakadar etmiyor.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "ECON",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "69234739",
+      "author": "kilic kalkan oynayan kalkan baligi",
+      "date": "04.07.2017 16:25",
+      "content": "(bkz: o zaman yallah suriye'ye)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "69234789",
+      "author": "ecrof",
+      "date": "04.07.2017 16:27",
+      "content": "siktir git şuradan",
+      "referenced_content": [],
+      "has_external_url": false
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "69234818",
+      "author": "fly84",
+      "date": "04.07.2017 16:29",
+      "content": "bu zerzevatin entrysi bende gorunmuyor, muhtemelen sacma sapan seyler yazan biri.\n\nbenim hem anne hem de baba tarafim bulgaristan gocmeni. turkiyede her iki tarafinda tutunmasi kolay olmamais ama ailemdeki hicbir erkek plajda kari kiz kesip milleti taciz etmedi yada fare gibi uremediler. cunku yeni bir hayat kuruyorlardi ve bugun suriyelilere yapilan 1. sinif vatandas muamelesi onlara yapilmadi, dusun doktora para vermek zorundalardi ne kadar enteresan degil mi suriyeli oldugunu iddia eden medya manipulatoru? ortalarda bir almanya lafi donmus galiba, almanyada turkler vergisiz, denetimsiz dukkan acamiyorlar sekerim zira kan alirlar. ya da almanyada evlerinin canimdan cop atamiyorlar. son olarak bu suriyeliler madem cok delikanlilar it surusu gibi dolanip bizlere efelik yapacaginiza vataniniza sahip cikin. ayaklariniz mabadiniza vura vura kacip kadinlari taciz ettiginiz zaman uyarildiginizda hani cok yurekli olup bicaklarla, sopalarla filan toplanip 15 kisi 2, 3 kisiye saldirip erkekliginizi gosteriyorsunuz ya hah iste onu ulkenizde yapin sekerim.\n\nsaygi hak edilir ve bu suriyeli kisminin buyuk bir cogunlugu onu kazanmak icin hicbir sey yapmadilar, ustelik bizdeki insanligi bitirdiler. acimiyoruz canim, artik acimiyoruz.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "69234886",
+      "author": "oaaa",
+      "date": "04.07.2017 16:32",
+      "content": "çok basit bir örnek verelim; diyelim ki cemaat ve akp öyle bir kavgaya tutuştu k iç savaş çıktı. her iki kanada da sempati beslemiyoruz, dahası kendimizi her iki kanada da karşıt hissediyoruz ancak konjonktürde güçlü değiliz. savaş ortamının içerisindeyiz, yan mahallemiz önceki gün yerle bir oldu, yan taraftaki apartmana daha dün saldırı gerçekleşti. mecburen -sallıyorum- romanya'ya göçtük hep beraber. romanya'da iş yok, güç yok, para yok, çoluk çocuk çadır kentlerde ya da sokaklarda kalıyoruz. romanya'daki milliyetçilerden dayak yiyoruz, bazılarımız göçmen olarak gittiğimiz ülkedeki bütün düzenin altını üstünü getiriyor vs. burada gücümüz yettiği için savaş mağduru bireylerin hepsine mi kızmamız gerekiyor?\n\neğer kızgınlığınızı bireylere yönlendirirseniz ve sistemi göz ardı ederseniz hiçbir yere ulaşamazsınız. burada suçlu olan savaştan kaçan kimseler değil, bizzat onların suriye'den göç etmeye zorlayan savaş suçlularıdır, ülkeye aldıktan sonra onlara iş, aş vermeyen yöneticilerdir. ha bir argüman var ki hepsinden komik, \"daha biz iş bulamıyoruz bir de onlara mı verelim\" diye. ya kardeş senin iş bulamamanın sorumlusu suriyeliler değil, ülkeni günbegün soyanlar, sermayeye peşkeş çekenler. çeşitli çevrelerden ezilen insanlar ne zaman birlikte hareket etmeye başlarsa işte o zaman her kültürden insan beraber ve mutlu yaşar, sürekli birbirimizi dışladığımız yeter.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "69235206",
+      "author": "onegaishimasu",
+      "date": "04.07.2017 16:50",
+      "content": "(bkz: yankee go home)",
+      "referenced_content": [],
+      "has_external_url": false
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "69235273",
+      "author": "agop sivazliyan",
+      "date": "04.07.2017 16:53",
+      "content": "(bkz: bi bitmediniz)",
+      "referenced_content": [],
+      "has_external_url": false
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "69236047",
+      "author": "deort",
+      "date": "04.07.2017 17:35",
+      "content": "suriyeli olmak onemli degil, eger bu ulkede yasayacaklar ise, bu ulkenin gelecegi ve refahi icin mucadele etmeliler, etmeyeceklerse dunyada yuzlerce ulke var buraya nasil geldiler ise oraya da oyle gidebilirler.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN-POS",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "69237080",
+      "author": "old joe",
+      "date": "04.07.2017 18:33 ~ 18:40",
+      "content": "valla tutuyorum kendimi ama bu kez aktroller hakli gencler. hani çok mülteci alınmasından mutsuz olmak falan değil burada ve hemen her yerde gördüğüm. hakkat o ırkı kendinizden aşağı görüp nefret ediyosunuz.\n\nha onlar da ayrı omurgasız. alevi'ye kürt'e gün yüzü görmemiş hakaretler, reisin misafirlerine boncukluk.\n\nama cidden, tr ortalamasından haberiniz yokmuş gibi, sanki kirazlı'da resitaller, tophane'de felsefe forumları düzenleniyormuş gibi triplere girmeyin. ırkçılık yaptığınız adamlar bizden tam olarak farklı bir ırk bile değil. şöyle hakkaten ırk olan japon, hint, zenci, beyaz görse \"amcaoğlu zaar\" der, milletteki havalara bak.\n\ndediginiz gibi, tüm fakir ve dindar topluluklar gibi bunlar da sorun olacak oranlarda ürüyorlar. ama bu aynı zamanda epey bi kısmı el kadar bebe demek. savaşa dönsünler istediğinizi sanıyorsunuz ama bence siz de uzaktan atıp tuttuğunuz kadar kötü değilsiniz, vicdanınız el vermez. aylan bebek'i hatırlıyorum, gayet de içiniz parçalandı.\n\nedit: bu arada aktrollere hakli falan dedim ama, yarin reis multecileri sevmemeye baslasa bu canis cinsi satirlarla kovalar. insan yakan tiynette adamlar bunlar, uzerine de \"eme helki piroveke ettiler\" diyor. ogrenmis bir baglarbasi, agzindan dusurmuyor. lan hadi baglarbasi intikamdi, hadi oradakileri vurdular yine, diri diri yaktiniz oglum size hicbir tehdit olusturmayan yasli basli insanlari. yazdiginiz cumleler dogru olsa da iciniz komple irin sizin.\n\nben bir suriyeli'yim",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN-POS",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "69238062",
+      "author": "everythingisrightplace",
+      "date": "04.07.2017 19:35",
+      "content": "(bkz: çık dışarı çııııık)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "69238403",
+      "author": "dergul",
+      "date": "04.07.2017 19:55",
+      "content": "öncelikle burası avrupa değil, türkiye'dir. avrupa mültecileri ucuz iş gücü olarak kabul ediyor. bir mülteci, avrupa'da kanunsuz olarak ticaret yapamaz veya izinsiz dükkan açamaz. yapacakları işler, avrupa vatandaşlarının yapmak istemeyeceği, vasıf ve düşük ücretli olanlardır.\n\nülkemizde ise, suriyeliler vatandaşlarımızla haksız rekabet içindeler. vergi tabelasız işletmeler kurabiliyor veya düşük ücrette ve sosyal güvencesiz çalışabiliyorlar. diğer mültecilerin bile sahip olmadığı haklara sahipler. bundan daha çok vatandaşımız, rahatsız olmaya başladı. bu basitçe nefret veya ırkçılıkla geçiştirilecek bir durum değil. bunu acındırma ile geçiştirmeye çalışırsak, ilerde çok daha büyük olaylara sebebiyet veririz.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "ECON"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "69239667",
+      "author": "alpagut alas",
+      "date": "04.07.2017 21:10",
+      "content": "duygu sömürüsü part 9\ndünya ya dönmeni dilerim\nsevdiğin insanlar o ne olduğu belirsiz kişilerin magandalığına uğrasın o zaman gel",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "69241267",
+      "author": "maharishi",
+      "date": "04.07.2017 22:41 ~ 05.07.2017 23:59",
+      "content": "tarihte bu coğrafyaya pek çok göçmen geldi. ama bu millet, bir tek suriyeliler'den nefret etti.\nneden acaba?\nbu insanlar suçu kendilerinde aramalı!",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "69243715",
+      "author": "abigibiabla",
+      "date": "05.07.2017 00:22",
+      "content": "ben bir suriyeliyim. kültürüm gereği, son derece arsız ve nankörüm. kendi eşimi çarşafla gezdiririm, ancak sizlerin anasını bacısını gözlerimle soyarım. allah rızkını verir düşüncesinden hareketle olsa gerek, bol bol sevişir çocuk yaparım. inanır mısınız, doğum oranlarımız siz türkleri geçmiş hahahaha. ayrıca aşırı milliyetçiyimdir, ülkenizde açmış olduğum dükkanlarda tek bir türk çalıştırmam. bunlar daha iyi günleriniz, daha anadilde eğitim alacağız ki siz de alsanız iyi edersiniz, zira türkçe öğrenmek zorunda değiliz.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO",
+        "SEXUAL"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "69243847",
+      "author": "ilelebet payidar",
+      "date": "05.07.2017 00:28",
+      "content": "elin suriyelisi bile yazar olmuş mk... sanırım buralardan gitme vakti geliyor. surya surya surya.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "69246080",
+      "author": "kenan komutanin komutani",
+      "date": "05.07.2017 02:36",
+      "content": "turk kimligini yurtip suriyeli oldugun takdirde bir cok avantaja sahip oluyorsun o yuzden neden turkun diyesin ki.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "ECON",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "69247582",
+      "author": "selene",
+      "date": "05.07.2017 06:59",
+      "content": "https://searchingforsyria.org/",
+      "referenced_content": [],
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "69247736",
+      "author": "okimokitolki",
+      "date": "05.07.2017 07:40",
+      "content": "türkiye cumhuriyeti'nin kalbine pompalanan kanı zayıflatiyorsun suriyeli. hadi git artik yeter git ve erkekçe git savaş",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "69247918",
+      "author": "arma yann tiersen",
+      "date": "05.07.2017 08:10",
+      "content": "(bkz: bana ne amına koyayım) (bkz: tövbe tövbe dedirten başlıklar)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "70328930",
+      "author": "unchallenged",
+      "date": "21.08.2017 19:41",
+      "content": "(bkz: 131764 suriyelinin sınavsız üniversiteye girmesi)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "137678197",
+      "author": "hayata jeton atan insan",
+      "date": "20.05.2022 13:42",
+      "content": "suriyeli diyince aklıma spartacus dizisindeki hainliği ile meşhur ashur karakteri geliyor.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "157339323",
+      "author": "owencan",
+      "date": "02.10.2023 16:38",
+      "content": "bir suriyeli olarak gözlerimi yaşartan vasat cümle. sırf suriyeli olduğumuz için bizi sevmeyen istemeyenlere inat ben herkesi çok seviyorum. ne kadar yüce gönüllü olduğumu göstermek için ilk seçimde oyumu ümit özdağ lehine kullanacağım.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "168426496",
+      "author": "eskimeyen eski",
+      "date": "17.09.2024 10:53",
+      "content": "bende türküm. ve arapları sevmiyorum. çünkü buraya bu güzelim toprakları kıskandığınız ve kaba kuvvetle işgal edemeyeceğinizi bildiğiniz için sinsi sinsi çoğalarak işgal etmeye çalıştığınızın bilincindeyim. umarım iktidardakiler de bunun farkına varırlar da geldiğiniz yere dönmenize yardımcı olurlar.\n\ntarih boyunca türkleri sevmediğiniz, arkamızdan bıçakladığınız, sinsi ve iki yüzlü olduğunuz, siyasi islamın maşası olduğunuz için sevmiyorum.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "168426879",
+      "author": "cokonemlidegilzaten",
+      "date": "17.09.2024 11:08 ~ 11:16",
+      "content": "ben de türküm. suriyelilere hiçbir düşmanlığım, kızgınlığım yok.\n\narap baharı diyerek suriye'yi bölenlere, suriye'nin bölünmesine destek verenlere, suriye'nin kuzeyinde bir kürt devleti kurmak için arap nüfusu zorla türkiye'ye sürenlere, buna destek olanlara düşmanım.\n\nsığınmacı ve kaçaklara karşı olmak suriyelilere ya da araplara düşman olmak demek değildir.\n\nsiz de araplara düşman değilseniz ama arap dostlarımızın bir an evvel ülkelerine geri dönmelerini istiyorsanız zafer partisi'ni destekleyebilirsiniz.\n\ngençlere de tavsiyem, lütfen sığınmacı ve kaçaklara karşı olanları ırkçı göstermeye çalışan belli kesimlerin kara propagandasına alet olmayın. biz ırkçı falan değiliz. sadece ekonomik, güvenlik ve demografik gerekçelerle ülkemize milyonlarca sığınmacı ve kaçağın girmesini istemiyoruz.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "168427045",
+      "author": "oyuncocugu",
+      "date": "17.09.2024 11:17",
+      "content": "suriyelilerle derdim yok. kendi ülkelerine gitmelerini istemek ve demografik yapımızı değiştirmelerine karşı çıkmak benim en doğal hakkım.\n\nsuriye devletiyle ilişkilerin ilerlemesini desteklerim. yeter ki herkes kendi ülkesine dönsün, sınırlarımız korunsun.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "168427437",
+      "author": "yaldabaoth",
+      "date": "17.09.2024 11:32",
+      "content": "madem suriyelisin, neden suriye'de değilsin lan yavşak? diye sorma hakkımın saklı olduğu cümle.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "168427485",
+      "author": "sedanin muzik kutusu",
+      "date": "17.09.2024 11:33",
+      "content": "benim de bir hayalim var mesela.\n\niki ülkeye de dirlik, düzen, gerçek anlamda demokrasi ve barış gelsin. başlarındaki diktatör bozuntularını ve ülkelerindeki işgalcileri atsınlar, aydınlanmacı ve ilerici liderlere kavuşsunlar. yaralarını sarsınlar. özeleştirilerini yapıp ilişkileri baştan başlatsınlar. savaşın, terörün, fakirliğin, depremlerin mahvettiği güzelim coğrafyaları can bulsun, bölgeye turist aksın. ve herkes evine, ülkesine, yuvasına kavuşsun.\n\nçok mu şey istiyorum ya?",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "168428008",
+      "author": "soulstriper",
+      "date": "17.09.2024 11:56",
+      "content": "suriyeli kardeş, senle bir sıkıntım yok. ama ben #ulkemdemulteciistemiyorum . sebebi sen değilsin, ülkemin milli gelirinin %90 ını zenginler alırken, geriye kalan %10 biz halka yetmiyor. senin de burada bu sefaleti çekmeni istemiyorum.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "ECON",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "168428155",
+      "author": "gozlerindekisir",
+      "date": "17.09.2024 12:01 ~ 12:04",
+      "content": "15 milyon mülteciyi savunanın zerre vatan sevgisi yoktur. ülkede türklüğün bitirilip uzun vadede tamamen araplaştırılmasını destekliyordur.\n\nbu arada, yeryüzünde hangi ülke 10 yılda 15 milyon mülteciyi memleketine doldurup, bilinçli bir şekilde ülkesinin demografik yapısını tamamen bozar? \"büyük oyun, büyük oyun\" diyorlar ya, oyunları gerçekten çok büyükmüş.\n\n(bkz: büyük ortadoğu projesi)\n\nnot: gerçek vatanseverler olarak ülkemizdeki bu istilaya sonuna kadar karşı olacağız.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "168428158",
+      "author": "thisisthis",
+      "date": "17.09.2024 12:01",
+      "content": "suriyeliysen neden suriyede yaşamıyorsun. burası türkiye, çok sevdiysen yıl içinde birkaç kez turistlik amaçlı gelebilirsin ve turist olarak çok iyi ağırlanırsın",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "168428325",
+      "author": "faramirofgondor",
+      "date": "17.09.2024 12:09",
+      "content": "türkoğlu türküm. ülkemi türk milleti haricindeki unsurlarla paylaşmamak için elimden geleni yapacağım. bundan dolayı ne suriyelisinin ne ıraklısının ne ukraynalısının ne de rusun bu ülkede yeri yok, bu ülke tatil köyü değil. herkes yerine yurduna.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "168428360",
+      "author": "yurdagulneanladi",
+      "date": "17.09.2024 12:11",
+      "content": "o zaman suriyene git.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "170308607",
+      "author": "faramirofgondor",
+      "date": "19.11.2024 20:43",
+      "content": "hemen ülkeme dönmeliyim diye devam etmeli.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "170308763",
+      "author": "cayda dem sozlukte kidem",
+      "date": "19.11.2024 20:49",
+      "content": "çölüne dön vahhabi eniği\n(bkz: go home bedouin)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "176374684",
+      "author": "afti ine i sparti",
+      "date": "27.06.2025 15:47",
+      "content": "bu ülkeye bir değer katabilecek olana itirazım yok. düğün konvoyu yapan, insanların kaçamayacağı yerlerde sigara içen, ön teker kaldırmayı akrobasi sanan varoş gitsin kaliteli insanlar gelsin.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "176374939",
+      "author": "culo inquieto",
+      "date": "27.06.2025 15:59",
+      "content": "o zaman ulkene dön",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "176375127",
+      "author": "hzcesus",
+      "date": "27.06.2025 16:08",
+      "content": "o zaman siktir git suriyeye.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "176375508",
+      "author": "nww",
+      "date": "27.06.2025 16:25",
+      "content": "istediğin terörist gruplar iktidar oldu, şimdi hızlı şekilde eşyalarını topla ve ülkene dön.\n\nkafa kesen, tecavüzcü teröristleri iktidar yapmak için esad'a iftira atan suriyeli cümlesi.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ben bir suriyeli'yim",
+      "entry_id": "176375525",
+      "author": "limony",
+      "date": "27.06.2025 16:26 ~ 28.06.2025 17:34",
+      "content": "akademide suriyeli bir hocam vardı. çok nazik ve kibar birisiydi. kızı doğmuştu \"selmaaaa habibii selmaaa ahh velediiiyyy\" diye gözleri kalp kalp anlatırdı kızını bize. şamdaki evini anlatırdı hep yanından fırat nehri akarmış.bir odası varmış 4 duvarı kitaplarla çevrili sabaha kadar çalışırmış o odada. bir bombayla yıkılmış tüm hayatı.türkiyeye akademik çalışmalarına devam etmek için gelmiş.\n\nbi gün pazara alışverişe gitmiş ve pazarcılardan biri \"tü kaka suriyeli defol git ülkene vs diye \" laf atmış.\nben bu ülkeye 3 makale yazdım, ondan fazla kitap çevirisi yaptım. yetiştirdiğim öğrencilerin sayısını bilmiyorum! sen ne yaptın bu ülke için diye çıkıştığını söylemişti. ama çok incinmiş belli. iri yarı bir adamdı, omuzları çöktü mahsun bir çocuğa dönüştü anlatırken. hepimiz çok öfkelendik bu ırkçılığa. ağzımız açık dersini hayranlıkla dinlediğimiz canımız hocamızı incitmişlerdi.\n\nertesi sene dubaideki bir üniversiteden teklif almış kabul edip gitti.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN"
+      ]
+    }
+  ]
+}

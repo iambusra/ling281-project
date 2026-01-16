@@ -1,0 +1,49 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:02:47.176139",
+    "total_entries": 3,
+    "input": "rusya ukrayna savaşını özetleyen gif",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rusya ukrayna savaşını özetleyen gif",
+      "entry_id": "173230567",
+      "author": "hoxx",
+      "date": "01.03.2025 22:19",
+      "content": "son günlerde popüler olmuştur.\n\ntık",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rusya ukrayna savaşını özetleyen gif",
+      "entry_id": "173232340",
+      "author": "cool vosvos",
+      "date": "01.03.2025 23:04",
+      "content": "ulan amerika tam totoşsunuz lan ibneler.\n\nbenim gibi amerikancıyada bunu dedirttiniz ya.\n\nhayır bir de gerizekalısınız kaç tane ülkeye girdiniz diktatör devirdiniz 10 küsür trilyon yaktınız onca asker kaybettiniz. aq diktatörlüklerinde herkes korku ile diken üstünde yaşar ilk güvenli fırsatta en yakınına en büyük ihaneti etmekten çekinmez zira tam tersi güç, konum sahibinin olası bir öfkesi ile aynısını yaşayabileceğini düşünür.\n\nkoca rusyada 50'şer milyon dolar siyasetten ve siyaset dışında putinin affla bilmem neyle mafya gibi bile bile ölüme gönderdiği manyaklar itaat ettiği gibi kendisine kırbaç vuran eli koparma içgüdüsü bir benim hayal dünyam mı?",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "rusya ukrayna savaşını özetleyen gif",
+      "entry_id": "173232893",
+      "author": "iphone 4",
+      "date": "01.03.2025 23:21",
+      "content": "gif",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

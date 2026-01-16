@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:35:29.897523",
+    "total_entries": 1,
+    "input": "rusların tekrardan tahliye konvoyunu bombalaması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rusların tekrardan tahliye konvoyunu bombalaması",
+      "entry_id": "134668707",
+      "author": "schhhhhh",
+      "date": "08.03.2022 16:10 ~ 16:16",
+      "content": "(bkz: anonymous)'un paylaştığı haber. ne kadar doğru bilmiyorum ama üzülerek yalan olmasına pek ihtimal vermiyorum. çok çaresiz, çok üzücü bir durum. görüntüler geldikçe editlerim.\n\nkaynak\n\nukrayna dışişleri bakanlığı açıklaması\nçeviri: ateşkes ihlal edildi! rus güçleri şuan zaporizhzhia'dan mariupol'a güvenlik koridorlarını bombalıyorlar. 8 tır + 30 otobüs mariupol'a insani yardım götürmeye ve zaporizhzhia'dan sivillerin tahliyesine hazırlar. rusya'nın verdiği teminatların arkasında durması için rusya üzerindeki baskı arttırılmalıdır.\n\nedit: ek haber eklendi.",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HUMAN",
+        "POLICY"
+      ]
+    }
+  ]
+}

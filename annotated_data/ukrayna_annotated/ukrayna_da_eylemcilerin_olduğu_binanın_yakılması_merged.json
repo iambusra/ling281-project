@@ -1,0 +1,432 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:02:42.107646",
+    "total_entries": 30,
+    "input": "ukrayna'da eylemcilerin olduğu binanın yakılması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukrayna'da eylemcilerin olduğu binanın yakılması",
+      "entry_id": "42459025",
+      "author": "insan donuna girmis telli turna",
+      "date": "02.05.2014 22:08",
+      "content": "kaynak olmadan paylasilmis bir iddiadir. gercekse, avrupa birligini zor durumda birakacak bir vahsettir.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'da eylemcilerin olduğu binanın yakılması",
+      "entry_id": "42459085",
+      "author": "efes darth",
+      "date": "02.05.2014 22:11",
+      "content": "http://haberciniz.biz/…se-verdi-38-olu-2829998h.htm",
+      "referenced_content": [],
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'da eylemcilerin olduğu binanın yakılması",
+      "entry_id": "42459156",
+      "author": "17december",
+      "date": "02.05.2014 22:14",
+      "content": "turuncu devrimci götverenlerin yaptığı katliamdır. sonra rusya bunların anası niye sikti oluyor.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "CRIME"
+      ]
+    },
+    {
+      "title": "ukrayna'da eylemcilerin olduğu binanın yakılması",
+      "entry_id": "42459196",
+      "author": "saligunucumanamazinagidenevliya",
+      "date": "02.05.2014 22:15 ~ 22:18",
+      "content": "reuters a da haber olmuştur. patlama ve binadan atlama sonucu olduğu da söyleniyor.\nreuters: http://uk.mobile.reuters.com/…o43220140502?irpc=932",
+      "referenced_content": [],
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'da eylemcilerin olduğu binanın yakılması",
+      "entry_id": "42459404",
+      "author": "ohuyom ben yea",
+      "date": "02.05.2014 22:25",
+      "content": "çıkmak için nabız yoklayan savaşın başlamasına neden olacak, vahşi olay. umarım olaylar daha fazla büyümeden bir şekilde (bkz: ümidim yok) (bkz: bir çözüm bulunsa keşke) biter.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'da eylemcilerin olduğu binanın yakılması",
+      "entry_id": "42466269",
+      "author": "hiyar imparatoru",
+      "date": "03.05.2014 03:35",
+      "content": "rusya-ukrayna krizinin siyasi boyutlarını bir kenara bırakarak lanet edilmesi gereken faşist katliam.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CRIME",
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "ukrayna'da eylemcilerin olduğu binanın yakılması",
+      "entry_id": "42466346",
+      "author": "le fougueux",
+      "date": "03.05.2014 03:43",
+      "content": "siyasi açıdan, uzun vadede ukrayna'ya çok koyacak olan katliam, insanlık suçu.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CRIME",
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "ukrayna'da eylemcilerin olduğu binanın yakılması",
+      "entry_id": "42467958",
+      "author": "motions",
+      "date": "03.05.2014 09:25 ~ 09:26",
+      "content": "haberi izlerken madımak oteli gözümde canlandı. allah ne bize ne de başkalarına böyle şeyler yaşatmasın.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "ukrayna'da eylemcilerin olduğu binanın yakılması",
+      "entry_id": "42468125",
+      "author": "17december",
+      "date": "03.05.2014 09:46 ~ 09:47",
+      "content": "(bkz: sağcı her yerde sağcı)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'da eylemcilerin olduğu binanın yakılması",
+      "entry_id": "42468396",
+      "author": "itch where you cant reach",
+      "date": "03.05.2014 10:12",
+      "content": "acı olay.\n\nama bazı fikir mühendisleri biliyor ellerine böyle bir fırsat geçse insanları diri diri yakacaklarını ki iyi ki biz de böyle bir olay olmadı diyor. ne de olsa geçmişte yaptılar adamlar, tecrübeliler.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CRIME",
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "ukrayna'da eylemcilerin olduğu binanın yakılması",
+      "entry_id": "42468442",
+      "author": "neyoklan",
+      "date": "03.05.2014 10:17",
+      "content": "sivas'ta 37 kişiyi yakarak öldüren zihniyetin, gezi üzerinden laf sokma çabasına alet olmuş katliamdır.\n\nşimdi siktirip gidebilirsin.evet.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CRIME",
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "ukrayna'da eylemcilerin olduğu binanın yakılması",
+      "entry_id": "42470165",
+      "author": "thor44",
+      "date": "03.05.2014 12:09",
+      "content": "banderacı nazi piçlerin ve kiev cuntasının ölümlerden ölüm beğeneceği süreci hızlandıracak vahşet.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "CRIME"
+      ]
+    },
+    {
+      "title": "ukrayna'da eylemcilerin olduğu binanın yakılması",
+      "entry_id": "42474722",
+      "author": "le fougueux",
+      "date": "03.05.2014 15:36 ~ 15:37",
+      "content": "hala soğuk savaş paranoyasından kurtulamayan ekşici dahi yazar bozmalarının hala soğuk savaş kavramlarını kullanarak komünizm üzerinden değerlendirdikleri katliam.\n\nliberalizm eskiden rusya'ya karşı dinciliği aklıyordu, şimdi de ırkçılığı aklıyor.\n\n(bkz: ikinci soğuk savaş)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY",
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'da eylemcilerin olduğu binanın yakılması",
+      "entry_id": "42480680",
+      "author": "muz vurusu",
+      "date": "03.05.2014 20:04",
+      "content": "klavye koministlerini galeyana getirmiştir. bakın göt oğlanları, orada öldürenler ne kadar şefersizse ölenler de o kadar şerefsizdiler. utanmadan bi de madımak lafını ağızlarına alıyorlar. adamlar keleşlerle alışveriş merkezini elegeçiriyor, bizim götverenlere sorsan \"barışçıl rus halkı\" hepsi.\n1- rusya bizim dostumuz değil, hiç mi tarih bilginiz yok?\n2- rusya kominist değil, rusya oligarlar tarafından yönetilir, pastayı onlar yer normal halkın hali perişan, insan hakları desen bizden kötü\n3- rusya'da özgürlük yok, hükümet karşıtı kanallar, internet siteleri, dergiler kapatıldı. bir kaç gün önce yeni yasa kabul edildi, buna göre hükümet gerekli gördüğü sitelerin şartelini anında indirecek. biraz bize benziyorlar değil mi?\n4- kırım tatarlarını katleden ruslar değil miydi bre yavşaklar, nedir bu balık hafızası? şimdi gelmiş kırım için oldu, kurtuldular falan diyorsunuz.\n5- yıllarca çeçenlere yapılanları ne çabuk unuttunuz beyinsizler?\n\nputin kadar başınıza taş düşsün. adamlar napsınlar, rusya'yayla devam edip sömürülmeye devam mı etsinler? hayatında bir kere rusya'ya, ukrayna'ya gitmemiş insanların ezberden yaptıkları kominizm, neo faşizm hakkındaki yorumlar midemi bulandırıyor artık. kharkov valisi sırf ukrayna'nın bütünlüğnü desteklediği için sniper tarafından suikaste uğradı. slavyans şehrinde millet vekili işkenceye uğradı, karnı yarılıp bağırsakları söküldü. bunları yapanlar mı barışçıl protestoçular.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "CRIME"
+      ]
+    },
+    {
+      "title": "ukrayna'da eylemcilerin olduğu binanın yakılması",
+      "entry_id": "42484377",
+      "author": "linener",
+      "date": "03.05.2014 22:25",
+      "content": "okuduğunu anlamayan ağzı bozuk \"beyinli\"ler için bilgi tekrarıdır.\n\n1- burada hiç kimse komünist diye ukrayna olayında rusya'ya destek vermiyor. anladığım kadarıyla rusya gerici batı'nın tersine, müttefik seçiminde oportünist davranmadığı için destek görüyor. hiç bir zaman radikal islama destek vermedi, hiç bir zaman faşist örgütlerle aynı fotoğraf karesine girmedi. batı'nın tehlikeli açılımlarına karşı, daha çok g20 bazlı daha demokratik bir dünya düzeni oluşumunun bir unsuru olarak görünüyor, en azından benim için.\n\n2- pravıy sektör lideri yaroş, taraftarlarına yarın silahlarınızla gelin dediği zaman hiç bir batılı ülke meydan hareketinin barışçıl olmaktan çıktığını söylemedi. böylece, barışçıl göstericilerin silahlı olabileceğine ilişkin bir standardı bizzat batı yaratmış oldu. rusların bu standarda uygun davranmasından da kimsenin rahatsız olmaması gerekir.\n\n3- tarihten öğrendiğin tek şey rus düşmanlığı ise bırak sözlüğü, türkiye'de yalnız kalacağın bellidir. çevrendeki (radikal islamcılar hariç) arkadaşlarına sor cevabını onlardan alırsın. bu kafayla ancak soğuk savaş müzesinde bir yerin olur, toplumda değil.\n\n4- bugün rusya siyasetinde söz sahibi hangi oligark var onu yaz da öğrenelim. hepsi putin'in karşısında hazırolda duruyor. anladığım kadarıyla bu sefer 1990'li yıllara takılıp kaldın. ha şunu da aklında tut, putin'in masasında \"oligark vergisi\" diye bir yasa taslağı var. oligarklar başlarını kaldırırlarsa bir gecede, 1990'da amerikan'ın yarattığı kaos ortamında kazandıkları haksız servetlerinin % 80'nini kaybedeceklerini biliyorlar.\n\noligarkları arıyorsan kiev'e git, başkan adayları oligarkları gör, bölge valiliklerine atanan oligarkları gör.\n\n5- rusya'da batı yıllarca özgürlük diye diye cirit attı. putin aleyhine parlattıkları \"a.cık isyanı\" adlı punk grubun hiç bir parçasını dinledin mi? dinlediğini söyleyen birini gördün mü? ama arkasında batılı bir gazeteci ordusu geziyor.\n\nrusların eğitim seviyesi ortalaması üniversitesi 2'dir. bizim gibi orta 2 değildir ki kandırması kolay olsun.\n\n6- kırım tatarları'nın senin avukatlığına ihtiyacı yok. başlarındaki feodal ağalar ab-abd ve nato ile çok sıcak ilişkiler içindeler. herhalde haklarını da onlar korur. ama zamanla kırım tatarlarının içlerindeki gerici damarı söküp atacaklarından eminim ama o zamanda onlara çamur atacağından eminim.\n\n7- \"beyinli\" arkadaş çeçen defterinin türkiye'de beslan katliamı ile kapandığını da farkedememiş. dedik zaten kendisi müzelik, bütün görüşleri de müzelik. ara sıra sokağa çıkıp insanlarla sohbet etmesini tavsiye etmekten başka bir şey gelmiyor elimden.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'da eylemcilerin olduğu binanın yakılması",
+      "entry_id": "42484686",
+      "author": "lukstar",
+      "date": "03.05.2014 22:37",
+      "content": "doğruysa bir ülkeyi sürekli sıkıştırıp, tahrik edip, fiilen böldükten sonra elinizde kalacak şeydir. hiç kimse faşist cart curt diye ötmesin, rusya sanki istemiyor böyle katliamlar olsun da doğuyu koparalım, kiev'e de girelim diye bahane çıkmasını. ülkede faşist var diye saldırmak meşru hale geliyorsa, rus ordusunun başta moskova'yı vurması gerekir, hiç mi youtube'da seyretmediniz nazilerin eğitim kampı videolarını.\n\nbir ihtimal daha var;\n(bkz: false flag)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "CRIME"
+      ]
+    },
+    {
+      "title": "ukrayna'da eylemcilerin olduğu binanın yakılması",
+      "entry_id": "42485317",
+      "author": "muz vurusu",
+      "date": "03.05.2014 23:01",
+      "content": "bu mantıktan hateket edersek;\nputin'in çevresindeki oligarkların isimleri istenmiş. ab ve abd gözdağını verdiler zaten putin destekçisi oligarklara. bütün banka hesaplarını dondurmak ile tehtid edildiler. bakın ne güzel putin'e malzeme çıkmış \"odessa'da rusları yaktılar\" diye, neden peki şimdiye ukrayna'ya savaş açmıyor? demekki mesele o kadar basit değilmiş, boruyu öttüren putin değil yanındaki oligarklarmış. oligarklara vergi olayına ise sadece gülünür. rusya'da iki kesim var; putin'in yanındakiler ve karşısındakiler. ülkede putin'e karşı olan birçok oligark var, birine ceza kesilecekse bunlara kesilir. yanındakilere birşey olmaz. slavyansk'ta yapılan operasyondan sonra ayrılıkçılar rusya'ya tel açıp askeri testek istiyorlar, bu konuşmaları resmi makamlar kaydetmişler. artık rusya'dan ne vaadler aldıysalar, rusya'nın fıs çıktığını anlayınca ukrayna hükümetine anlaşma teklif ettiler.\nsanırsınız ukraynalılar silahlandı da ruslar buna tepki olarak silahlandı. bari bu kadar açık yalan söylemeyin. arayın bulun, meydanlarda silah dağıtıyorlar ruslar. rusya'nın amacı iç savaş çıkarıp ülkeyi bölmek, umarım bu olmaz. praviy sektörün silahlanmasına karşıyım. resmi kurumların ilgilenmesi gereken konular bunlar.\n\nbuyrun odessa'daki olayların başlangıcının görüntüleri, kararı süz verin. taşlı sopalı kavgada polislerin arkasından keleşlerle ateş açan ruslar: http://m.youtube.com/watch?v=gxkp6tb8yhs",
+      "referenced_content": [],
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "ukrayna'da eylemcilerin olduğu binanın yakılması",
+      "entry_id": "42487638",
+      "author": "hickimsehayattansagkurtulamaz",
+      "date": "04.05.2014 00:15 ~ 00:16",
+      "content": "hacı yakanlar niye kötü kişi oluyor onu anlamadım? bizim meclisi rus yanlıları işgal etse ben de gitsem yaksam kötü bir iş mi yapmış olacağım? bunun madımak'la ne ilgisi var?\n\nülkeni işgal eden yabancılar ve işbirlikçilerini istediğin gibi öldürebilirsin. yakarsın, sikersin vs vs. çevre temizliği kapsamında değerlendirmek lazım.\n\n(bkz: stalinistlerin rusya'nın köpeği olması)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "CRIME"
+      ]
+    },
+    {
+      "title": "ukrayna'da eylemcilerin olduğu binanın yakılması",
+      "entry_id": "42493303",
+      "author": "derjava",
+      "date": "04.05.2014 08:42 ~ 08:44",
+      "content": "(bkz: 2 mayıs 2014 odesa olayları)\n\nhata içeren başlık. nazi değil anti-rusyacı bunlar. ülkeyi, bölgeleri rusya'ya ilhak etmek isteyenleri hedef alıyorlar, bu işlerle uğraşmayan ruslarla ve diğer ülke vatandaşları ile bir alıp veremedikleri yok.\n\nsen ülkeyi işgal için arkamızda rusya var diye profesyonel biçimde alenen silahlan, organize halde yuvalan, git ülke bütünlüğünü savunan yerel halktan 3 kişiyi öldür, provoke et, hiç bir şey olmayacak gibi de takıl. bu defa trajik bitti işte.\n\nolaylar iki aşamalı. gündüz silahlı rusya yanlıları -ki birçoğu ukrayna vatandaşı bile değil- ukrayna birliği için gösteri yapan birisi genç kız 3 kişiyi öldürdü. bundan sonra başladı asıl olaylar.\n\nhttp://korrespondent.net/…odesse-khronyka-sobytyi#3\n\nbak bakalım fotoğraflara, rusya yanlılarının tamamı maskeli, baretli, tamamı erkek ve bazılarında da silah var. çelik yelek taşıyor birçoğu. teçhizatlarını taşımak için sırt çantaları var. eğitimli ve profesyoneller. kollarındaki kırmızı banttan ve taktıkları turuncu-siyah aziz georgiyevski kurdelasından anlarsın.\n\nukrayna yanlılarının ise çoğu ergen, maskesiz ve kızlı-erkekliler. fakat içlerinde fanatik futbol taraftarları da var, milliyetçiler de. bu gruptan 3 kişiyi öldürürsen, onların içindeki milliyetçilere de olayları yönlendirme imkanı verirsin.\n\nprofsoyuzda öldürülenlerin 10'u rusya pasaportu taşıyor; 5'i de moldova'nın ayrılıkçı bölgesi rusya yanlısı transdinyester'den. tutuklananların içinde ukraynalı olmayan rusya yanlısı onlarca profesyonel var. çarşaf çarşaf pasaportlarının fotoğrafları yayınlanıyor ukrayna basınında.\n\nsen kenti karıştırmak için güpegündüz yerel halktan adamları öldürürsen karşılığını da alırsın. şu anda rusya yanlılarının kentte hiçbir sesi çıkmıyor. bıçak gibi kesildi. niye? çünkü olayları yönlendiren profesyoneller tutuklu da ondan.\n\nnihayetinde rusya'nın istediği şeyler bu tip olaylar, olası hareketine meşruiyet kazandırmak için ileri süreceği nedenler.\nşimdi putin'in manevrası bekleniyor. bir şeyler yapmak zorunda. rusya'daki halkı 3 ay içinde ultra milliyetçi hale getirip reytingini bu yolla tavana fırlatırsan senden beklenti de tavan yapar. hareket etmek zorunda, başka hiç bir çaresi yok. girince çıkamayacağını bildiği için bu kadar tereddütte.",
+      "referenced_content": [],
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "ukrayna'da eylemcilerin olduğu binanın yakılması",
+      "entry_id": "42496881",
+      "author": "kaynak kicim",
+      "date": "04.05.2014 13:11",
+      "content": "--- +18 ---\n\nolaydan sonra binanın içi - (bkz: http://www.liveleak.com/view?i=f0f_1399119582)\n\n--- +18 ---",
+      "referenced_content": [],
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'da eylemcilerin olduğu binanın yakılması",
+      "entry_id": "42500873",
+      "author": "der kruger hans",
+      "date": "04.05.2014 16:11",
+      "content": "ukranya avrupa birliğini stratejik ortak olarak belirlediğinde eline ne geçeceğini umuyor sorusunu akıllara getiriyor. ileri teknoloji ülkesi mi olacak? bilimin lokomotifi olup ihracat şampiyonu mu olacak, ne olacaktı da rusyanın güvenliğini tehdit etmenin doğuracağı fenalıklara gark olmayı göze aldı.\nbir diğer ab ukranyayı niçin istiyor sorusunun cevabı nedir. verimli tarım topraklar mı? öyleyse ukranya bir çok ülkeye 50 yıllığına tarım arazisi satan bir ülke. bence esas mesele rus sınırında tartışmalı bir saha yaratmak ve ek olarak rusyanın da mevcut gelişmeleri öngörmediğini hiç mi hiç zannetmiyorum. ab istediğini alacak, rusya istediğini alacak ve maruz kalan her zaman ki gibi çimenler olacak.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "ukrayna'da eylemcilerin olduğu binanın yakılması",
+      "entry_id": "42503923",
+      "author": "lukstar",
+      "date": "04.05.2014 18:34 ~ 18:37",
+      "content": "madımak'a sığınanların silahlı rus beslemesi milliyetçiler olduğunu sanan kafanın üstünden vicdan propagandası yaptığı olay. öncesinde,\n- daha o gün sabah olan cinayetler\n- ülkenin rusya tarafından bölünmüşlüğünün yarattığı travma\n- her fırsatta yapılan topyekün işgal tehditleri\nvardır. bu üçü bırakın naziyi, sıradan adamı zıvanadan çıkarır, dolayısı ile en çok sorumluluk sahibi de rusya'dan başkası değildir.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HUMAN",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "ukrayna'da eylemcilerin olduğu binanın yakılması",
+      "entry_id": "42509967",
+      "author": "derjava",
+      "date": "04.05.2014 22:30 ~ 06.05.2014 11:42",
+      "content": "devamı gelecek olaylar zincirinin ikinci halkası\n\nutanmadan bir de madımak ile karşılaştırılıyor. madımak'ta ölenler ülkeyi bölmek için ellerine sopa ve silah alıp 4 kişiyi öldürüp öyle sığındılar madımak'a, değil mi? bak aynı madımak'a sığınanlara benziyorlar:\n\n(bkz: https://www.youtube.com/watch?v=ghaid0yxnjq)\n\nmadımakta ölenlerin ruhunu geçtik en azından yaşayan yakınlarından utanın be!\n\nodesa'ya dönelim. masabaşında ürettiğiniz dünyayı açıklayan teorilerinizi bırakın bir okuyun şu temel bilgileri. hayatında yolu düşmemiş eski sovyet coğrafyasına bık bık ötüyor oradan.\n\nodesa'nın donetsk ve lugansk gibi sovyetik şehirlerden temel farkı çarlık şehri, imparatorluk havasını taşımasıdır. yekaterina'nın şehri desek daha doğru olur herhalde. bu fark nüfus kompozisyonunda da belirgindir. kentin caddelerine bile bu çeşitliliği vurgulamak için isimler verilmiştir: greçeskaya, arnavutskaya, evreiskaya vs. oldukça kozmopolittir ve liman vesilesiyle dışa açıktır, turizm kenti olması hasebiyle de dünya ile donbass gibi arasında mesafe yoktur. kentin varlıklı kesiminde yahudi ağırlığı belirgindir. bu varlıklı kesim batı ile entegre olmak ister. kentte rus etnik nüfus ve sscb dönemine özlem duyan -genellikle- yoksul ve yaşlı kesim rusya tarafındayken; orta gelirli ve varlıklı kesim ve buraya dikkat, yeni yetişen genç nüfusun neredeyse tamamı ukrayna'nın bütünlüğünü savunur yani dolaylı olarak batı taraftarıdır.\n\nbir de olağan odessitler var ki bunlar dünyanın her tarafında olduğu gibi hayat kavgasında olup kendilerine iyi imkan sunabileceğini düşündüğüne oy verir. boğazına kadar yolsuzluğa batık rusya destekli ex-başkan yanukoviç bu noktada rusya tandanslı eğilimi bitirdiği gibi kırım'ın rusya'nın işgali sonrası iktisadi durumu da rusya'nın kredisini azaltan unsurlardır. kırım'da kdv'yi yüzde 3-4 seviyelerine çekip çeşitli sübvansiyonlar vermesine rağmen kırım'da işsizliğin artması, maaşların aynı kalıp fiyatların rusya seviyesine yükselmesi, özellikle içki, tarım için yüzde 90 bağımlı bulunduğu ukrayna'dan gelen suyun kesilmesi, benzin ve temel gıda maddelerinin ukrayna'dakinin misli katına ulaşması ve yarımadanın temel geçim kaynağı turizmin içler acısı durumu kırım'ın ukrayna anakarasındaki temel tedarikçisi konumundaki odesa'da elbette yakından takip ediliyor. kolay olmadığını anladı insanlar hayat kalitesinin yükseltilmesinin. rusya toz pembe hayaller sundu insanlara da realite sıfır.\n\nodesa şu anda ukrayna için en önemli stratejik kenttir. odesa giderse ukrayna kara ülkesi olur. odesa giderse rusya doğrudan transdinyester'e ulaşıp avrupa'nın dibinde biter. odesa giderse üç beş sene sonra kiev de gider.\n\nneden peki bu ayrılıkçı güçler bu kadar etkili sorusunu da soralım. temel sorun hususen yanukoviç döneminde güvenlik, istihbarat ve ordu yönetimine rusya'nın adamlarının hakim olmasında yatıyor. son üç milli savunma bakanı rus kökenli olduğu söyleniyor. yanukoviç’in derdi kendini beslemekten başka birşey olmadığı gibi kritik oblastların emniyet müdürleri, istihbarat şefleri, ordunun komutanları hep rusya'nın kontrolünde oldu. 46 milyonluk ukrayna'nın 40 binlik ordusu vardı yahu.\n\nhalihazırdaki yönetim iş başına geldiğinde bütün konsantrasyonu ile bütün bu güvenlik, ordu ve istihbarat atamalarını yaptı ama henüz altlarını dolduramadı. natsionalna guardiaya diye özel birlik kurma yoluna gitti. özel önem verilen odesa'da emniyet, yönetim, istihbarat tamamen değişti ve ukrayna yanlıları alt kadroları oluşturmaya başladılar. bu en alta yani sıradan polislere henüz hızlıca sirayet etmese de yavaş yavaş buralarda da değişiklikler olacaktır.. 25 mayıs'taki seçimde başkan seçilirse hele ilk turda seçilirse rusya yanlılarının hiç bir şansı kalmayacak. alt kadrolar dahil bütün devlet sistemi bir düzene oturacak. donestk'te, lugansk'ta 11 mayıs'ta referandum düzenlenme çalışmaları işte bundan ötürü. rusya'nın devlet başkanlığı seçimini tanımayacağını kastetmesi bundan ötürü. bütün ülkede referandum düzenlenmedi, seçimi tanımıyorum demek için bu tarz karışıklıklara da ihtiyacı var.\n\nbir ülke kendi egemenliğini sağlamak için her türlü önlemi alır arkadaşım. sen bir ülkenin kanunlarla kabul edilmiş bir parçasını başka bir ülkeye bağlayacağım deyip o ülkenin vatandaşlarını öldürürsen bu savaş olur, terörizm olur. karşılığını devlet görevlilerinden almasan da başat halkından alırsın. rusya'da yap bakalım ne oluyor? ukrayna devlet olamadığı için bunları yapamıyordu. şimdi bunun sancısı çekiyor. bu devlet olamamanın temel sebebi de rusya. güçlü bir ukrayna'da bunların olacağını sanıyorsan yanılıyorsun.\n\nrusya ukrayna'yı kaybetti, artık kiev'de yanukoviç gibi rusya tandanslı birinin yönetime gelmesi ihtimali bitti. odesa'da her geçen gün ukrayna güçlenecektir. bu katliamdan ötürü (bak katliam dedim) öfkeli rusya yanlılarının nümayişleri olur bir müddet ama öyle kolay kolay halk cumhuriyeti kuracağım, otomatik silahlarla şehri kontrol edeceğim, orayı burayı ele geçireceğim dönemi olmayacaktır. rusya mutlaka hareket edecektir de, ederse de ne olacağını kestiremiyor gibi. senden daha akıllı galiba, buraların yüzde sekseni doksanı bizden diye dalmıyor. karşısında artık sıhhi bir devlet kurma yoluna giren ve rusya karşıtlığı tavan yapan bir ukrayna olacak.\n\ngelelim buradaki süper komunist süper bilgili süper stratejik yoldaşlara. adamlara hayran olmamak elde değil. moskova'da bile kalmadı bunlardan. adam oturmuş, geçmiş entryleri araştırmış, bir yerde bir farklılık olduğuna hükmetmiş ve oradan birşeyler tüttürüyor. sorun bu zaten. adam sanıyor ki hiç bir şey değişmeyecek. ama güzel, oku öğren birşeyler.\n\nsscb rusya silüetine bürünmüş sadece devam ediyor ve faşizmi durduruyormuş. git bir putin'i eleştir de faşizm neymiş öğren rusya'da. sanıyor ki moskova'da herkese bedava ilaç, bedava yiyecek, barınma veriyolar. 3 bin dolar bir aylık bir oda kirası kommünalna hariç. hem de düşman abd doları istiyorlar ya. kapitalizmin doruklarına ulaşırsın üç günde. oligarkları da putin dize getirmişmiş. he he. adamın kendisi en büyük oligark. yolsuzluğun, rüşvetin haddi hesabı yok. adamlar emek gaspediyor git savaş bence.\nsenin entry'de yazdığın ya da yazmaya çalıştığın her yeri defalarca gezdim arkadaşım. sen adım bile atmamışsın bana ingilizce birşeyler okuyup cevap veriyorsun. rus milliyetçisi dediğin rusça bilecek kardeşim. lenin'in soçineniyasını okuyacak düzeyde olmasa da en azından yer isimlerinin rusçaları yazabilecek kadar hakim olacak lisana.\n\nrusya'nın büyük bir kültürel mirası vardır. rusça bilmekten gurur duyarım. sccb'nin bu mirasa hiç birşey katmadığı gibi olanın da anasını bellediğini düşünürüm.\n\nprofsoyuz'u da ne olur ne olmaz yolun düşer odesa'ya taksiciye söylersin diye yazdım. ruslara karşı aşağılık kompleksi olsaydı oranın resmi ismini yani ukraincesini -profspilok- olarak yazardım. ha gittiğinde deribasovskaya’daki kompot’ta kahvaltı yap, eklerlerinden tat ve kesinlikle kompostolarını iç, ev yapımı reçellerinden de arkadaşlarına hediye götür.\n\nbu da sana bir kamuyou yoklaması araştırması sonucu olsun. yanlı dersin sen gerçi ama bak en azından harflere gözün alışır.\n\nhttp://news.liga.net/…nariya_resheniya_problemy.htm\n\ngrafiklerin yanındaki soruları ben çevireyim yukarıdan aşağıya:\n\n1- rusya'nın bölgenize asker sokmasını destekliyor musunuz?\n2- bölgenizin rusya'ya ilhak olunmasını istiyor musunuz?\n3- yönetim şekli nasıl olmalı. a) üniter b)üniter ve bölgelere daha fazla hak c) federal [y: uniter, y+: üniter ve bölgelere fazla hak, kırmızılı olan da federatif\n4- silahlı ayrılıkçıların bölgenizde olmasını destekliyor musunuz?\n\nmavi renkli kutular: hayır\nkırmızı renkli kutular: evet\n\neditlemece:\n\ngenel geçer bilgilerden mahrumsun, önce öğrenmen lazım o yüzden yazıyorum “zırva”ları.\n\nodesa'daki halk rusya'yı istiyor. adam bunu yazıyor. yüzde 80 diyor bir yerde. he he.\nyok öyle bir şey.\nanti rusluk artıyor mu. özellikle kırım'ın ilhakından sonra evet artıyor. ama asıl artan anti-rusyacılık.\n\nneymiş isim listesini ukrayna versinmiş. adam verir mi sen bizim pasaportu taşıyanları öldürdün demenin resmiyete dökülmüş hali bu. lavrov ister hemen elbette, rusya için meşruiyet demek bu. adam bunu yazıyor ya bir de.\n\nhatlar karışmış, el kaide diyor. yazar şimdi şöyle böyle diye bir de.\n\nharkov'dan otobüslerle adam taşınmış. doğru. o gün metalist ile çernomorets'in maçı vardı. metalist, harkov'un takımı.\n\nrusçanın bu topraklardan silinmesinin imkanı yok. kiev'de sokakta konuşulan dilin yüzde 90'u rusça yahu. yasa çıkartıldı yasaklanmasına dair ve büyük bir hataydı, geri düzelttiler diye biliyorum. yasaklanamaz, asla savunulacak bir şey değil.\n\ndiyoruz ki senin ismini yazamadığın yerleri biz defalarca gördük diyoruz adam ben bu bilgileri rusça okuyarak edindim diyor ve kendini büyük üstad yerine koyuyor.\n\nprednestrovya yazıyor. buradan anlamak o kadar basit ki adamın rusçadan ve rusça literatürden habersiz olduğunu.\nilla rusçasını yazıyor, defalarca da tekrar etmiş. ikaz da etmişiz. transdinyester yaz geç işte. ama kaşındın.\n\nilla rusça yazacaksak biz ona pridnestrovye deriz. -pri- ön ek canım, buradaki kullanımı yanında demek. dinyester'in yanındaki yer oluyor yani. -pre- ise genellikle fiillere gelen fiili bir üst perdeye taşıyan bambaşka bir ön ek. hiç bir alakası yok.\n\nbitmedi. ikincisi tek başına yazarsan sonu -ya- ile bitemez gülüm, kelime nötr cins bir kelime. sonu ya ile ne zaman biter biliyor musun? isim tamlaması olduğunda. mesela \"golos pridnestrovya\" dersin. pridnestrovye'nin sesi demek. cinsiyete göre de değişir bu. rusçada böyle tamlama yaparsan burada nötr durumundaki isim ek alır, pridnestrovye pridnestrovya olur. ingilizcede değişmediğinden konudan uzak yazar tayfası çekimlenmiş kelimeyi asıl kelime sanır. kelimenin tek başına ve diğer dillerde saf haliyle kullanılması icab eder. buna gizli intihal de denilebilir.\naraştır bakalım ben prednestrovya yazdım diye. ne diyecekler görelim? önce google’a bak bence. yazdığının yerine başka bir şey çıkartmasın karşına?\nbir kelimede iki hata yapmış ya adam. ve bunlar harf kayması değil, yapısal hatalar.\n\nbakın sorun bu işte. altyapı yok. anlattıkları, üzerine teoriler ürettikleri yerde hayatları boyunca bulunmamışlar. hakiki bilgi birikimi yok. lisan yok. ama ideolojik dürtüsünden ötürü renkli cümlelerle burada güya bilgi veriyor. ideolojik olmanın sakıncası yok ama altını doldur be güzel kardeşim.\n\narkadaşım özet geçeyim.\nodesa'da gündüz 2 bin kişilik ukrayna'nın birliğini savunanlara 200 kişilik tam teçhizatlı rusya yanlıları saldırdı ve kesinliği değişmekle birlikte 4 kişiyi öldürdü. öfkeli kalabalık grup sonrasında rusya yanlılarını kamplarını kurdukları yere kadar takip etti ve buradaki binaya sıkıştırarak 40 civarında kişiyi öldürdü. dün de binadan kurtarilabilenleri polis tutukladı ve tekrar olaylar büyümesin diye saldı.\n\nbiter mi? bitmez ama odesa, ukrayna yanlılarının özel önem verdiği bir yer. milliyetçi tayfa da var evet. hem de katı olanları. meydan olayları sırasında yanukoviç ile ateşkes anlaşması yaptıklarını söyleyen kliçko'ya sahnede rest çekip yanukoviç istifa edene kadar bir yere gitmeyeceğiz diyen parasyuk var ki ünlü 14. meydan savunma bölüğünün lideridir.\n\narkadaşım bir ülkenin meşru topraklarını provokasyon ve saldırılarla başka bir ülkeye katma işine girersen bunun neticesi iyi olmaz. sen ukrayna'yı alay edilir konuma itip milliyetçiliği körüklersen bunun da cevabını alırsın.\n\ngelecek adam türkiye'ye, elinde komşu ülkenin bayrakları ile ülkemi kendi ülkesine katmak niyetiyle gösteri yapıp adam öldürecek, otomatik silahlarla binaları resmi binaları ele geçirecek ben de ülkenin bir vatandaşı olarak tamam diyeceğim. ben demem arkadaşım.\n\nbu ukrayna'nın devlet olamaması ile alakalı. devlet otoritesinin geçerli olmaması ile alakalı. bak donetsk'in dibindeki dnipropetrovsk'a. vali olarak kente atanan ünlü yahudi işadamı kolomoyski'ye bak. sesini çıkartan ayrılıkçının kellesine para sayıyorum dedi. ses var mı orada?\n\nson edit: nereden girdik bu işlere yahu. sözlüğün asıl amacına hizmet etmek için eski sscb coğrafyasına dair çok büyük boşluğun olduğunu düşündüğüm konularda entry'ler girecekken nelerle, kimlerle uğraşıyoruz.\n\n(bkz: bık bık)",
+      "referenced_content": [],
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY",
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "ukrayna'da eylemcilerin olduğu binanın yakılması",
+      "entry_id": "42515355",
+      "author": "lukstar",
+      "date": "05.05.2014 01:25",
+      "content": "rusya'nın sorumluluğu yokmuş bu olayda. kendini rus çıkarlarına vakfetmişler (bkz: aka faydalı aptal) öyle diyor. sen ülkeyi parçala, ulusal gururu ayaklar altına al, etnik rusları silahlandır, spetsnaz'ı halk diye yedirmeye çalış üstüne suçun olmasın. işgalden sonra ırak'ta patlayan hiçbir canlı bombada da abd'nin suçu yoktu değil mi?",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "CRIME"
+      ]
+    },
+    {
+      "title": "ukrayna'da eylemcilerin olduğu binanın yakılması",
+      "entry_id": "42518494",
+      "author": "kivanco",
+      "date": "05.05.2014 07:46 ~ 07:53",
+      "content": "olayla ilgili olarak yangından kaçmak için pencerelere çıkmaya çalışan insanlara tabanca ile ateş açan aşırı sağcı bir orospu çocuğu şişko şu linkten izlenebilir. silahı ile ateş açarken koltuğunun altındaki çivili sopasına da sımsıkı sarılıyor. dünyanın her yerinde de mi birbirinize benzersiniz be orospu evlatları?\n\nhttp://www.liveleak.com/view?i=09c_1399151796",
+      "referenced_content": [],
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "CRIME"
+      ]
+    },
+    {
+      "title": "ukrayna'da eylemcilerin olduğu binanın yakılması",
+      "entry_id": "42518806",
+      "author": "fani dunya",
+      "date": "05.05.2014 08:41",
+      "content": "emperyallerin şirketleri globalleşirken, dünyanın geri kalanını etnik ve dinsel tabanda böl yönet politikaları sayesinde gün be gün hortlayan ve semiren faşist kafaların, insanları diri diri yakacak gözü dönmüşlükle gerçekleştirdiği bir vahşet daha. söylenecek her şeyin tükendiği son nokta....",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "CRIME"
+      ]
+    },
+    {
+      "title": "ukrayna'da eylemcilerin olduğu binanın yakılması",
+      "entry_id": "42522180",
+      "author": "lukstar",
+      "date": "05.05.2014 12:06 ~ 15:06",
+      "content": "rusya'nın ulusal çıkarından anti-emperyalizm devşirmeye çalışan gerizekalı kitlesinin rusya'nın sorumluluğunu görmediği olay. parçalarsan, burnuna topu dayayıp topyekün işgalle tehdit edersen, katliam da olur, bomba da patlar. bunu sadece faşisti değil, sıradan adamı da yapar. işgal tehditiyle burun buruna gelen adamdan da mantıklı davranmasını ben beklemiyorum, üstelik hitler'in reenkarnasyonu bir tip daha yeni bir anschluss (bkz: kırım) gerçekleştirmiş, doğudaki etnik grupları ülkeyi bölmek için sürekli kışkırtıyor, silahlandırıyor yetmeyip armalarını söktüğü özel timlerini ülkeye sokuyorsa.\n\naynısını çin yapsın bakalım rus doğu asyası için, ne pogromlar, ne cinayetler, ne sürme planları olacak.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "CRIME"
+      ]
+    },
+    {
+      "title": "ukrayna'da eylemcilerin olduğu binanın yakılması",
+      "entry_id": "42574891",
+      "author": "muz vurusu",
+      "date": "07.05.2014 14:53",
+      "content": "(bkz: #42574874)",
+      "referenced_content": [
+        {
+          "type": "entry",
+          "title": "2-mayis-2014-odessa-olaylarinin-ic-yuzu",
+          "entry_id": "42574874",
+          "author": "muz vurusu",
+          "date": "07.05.2014 14:53 ~ 17:53",
+          "content": "2 mayıs 2014 tarihinde rus ayrılıkçılarla kiev'den gelen futbol takımı taraftarları arasında taşlı sopalı kavga çıkıyor. kavga esnasında rus tarafından silahlı kişiler tarafından ateş açılıyor ve bunun sonuncunda bir kaç ukraynalı hayatını kaybediyor. sonrası da malum, büyük bir trajedi yaşanıyor. ölenlerin 15'in rusya federasyonu, 5'inin ise moldovya'nın ayrılıkçı bölgesinin vatandaşları oluduğu ortaya çıkıyor. bu gerçeklere rağmen bazı yazarlar tarafından olayların bilinçli olarak çarpıtıldığını görüyorum. kalabalığa ateş eden bu şahısların \"barışçıl protestocu, sendika işçileri vs..\" şeklinde isimlendirilmesini maksatlı bir propaganda olarak görüyorum. ukrayna'da şuanda rusya ile gerçek anlamda bir savaş sürüyor. rusya savaş için gerekli desteği bulamadığı için üstü kapalı olarak savaşıyor (şuan türkiye'nin suriye'de yürüttüğü savaş gibi). bu olaylarda yer alanların çoğu rusya tarafından armaları sökülmüş rus özel birlik askerleri. bunlar çeşitli platformlarda kanıtlarıyla beraber kamoyuna sunuldu. bunların içinde muhalif rus yayın organları da var.\n\nbuyrun odessa'daki olaylarda silah kullanan ruslardan bir kaç kare:\n\nhttp://s16.postimg.org/…rqhqd/bmp_ef5w_caaa3_ab.jpg\n\nhttp://s27.postimg.org/l0llc4x4j/599x346a.jpg\n\nhttp://s14.postimg.org/dcs1d0dhd/599x413.jpg\n\nhttp://s7.postimg.org/…04gm9xl7/strilba_v_odesi.jpg\n\nson fotoğrafa iyi bakın. rusya'dan gelen bu şahıs odessa'daki ukraynalıların ölümlerden sorumlu tutuluyor. kimliği tespit edilmiş, adı anton raevskiy ve rusya federasyonu vatandaşı. kolundaki döğmelere dikkat edin. karayüzler üyesiymiş. http://tr.wikipedia.org/wiki/karayüzler\n\nhttps://fbcdn-sphotos-c-a.akamaihd.net/…03893_n.jpg\n\nbazı yazarların zeka seviyesine uygun olarak ekleme: türkiye'nin suriye'ye karşı silahlı grupları destekleyerek sürdürülen savaştan farklı olarak rusya bunların dışında direkt ukrayna içinde yer alan armasız askerleri ile bu savaşı sürdürmektedir.",
+          "has_external_url": true
+        }
+      ],
+      "referenced_entry_ids": [
+        "42574874"
+      ],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'da eylemcilerin olduğu binanın yakılması",
+      "entry_id": "86179204",
+      "author": "mmtgvn",
+      "date": "01.02.2019 03:25",
+      "content": "amcası orada vefat eden bir arkadaşımın beyanına göre mezar yerleri önceden kazılmıştır. (ki kendisi ukrayna yanlısı imiş.)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'da eylemcilerin olduğu binanın yakılması",
+      "entry_id": "173401818",
+      "author": "linener",
+      "date": "07.03.2025 22:04 ~ 22:09",
+      "content": "ukrayna'da eylemcilerin olduğu binanın yakılması\n\nyaklaşık 11 yıl önce odesa'da rusya yanlısı 48 göstericinin yakıldığı olaylar zincirine bu başlık yakışmıyor ama zamanın ukrayna sevdalısı bir moderatörü böyle uygun görmüş olmalı. sanki eylemciler değil de bina hedefmiş gibi bir izlenim yaratmak istemiş her halde. yangından korunmak için balkona çıkanlara ateş eden puşt bile moderatörümüz için hedefin bina değil de içindeki insanlar olduğuna ikna edememiş ne yazık ki.\n\no zamanlar yazdım bu katliam yanlarına kalmaz diye. öngörüm büyük ölçüde gerçekleşti. katliamın önde gelenleri muhtemelen şimdiye kadar bandera'nın eşek cennetine kavuşmuş olmalılar. bacaklarını, kollarını kaybedenler bir tarafa en şanslıları kapağı avrupa'ya atan molotofçu kızlar olmalı.\n\nhesap daha kapanmadı. rusya ya bu kente de girecek ya da en azından rusçanın serbest olduğu, bölge insanlarının rusya ile ekonomik, sosyal ve kültürel bağları kurabileceği bir statüye kavuşacaktır, yani ukrayna ile rusya arasında bir açık bir şehir olacaktır. daha azı rusların işlerini yarım bıraktığı anlamına gelir.\n\nsöz konusu sendika binası müzeye dönüştürüldüğünde ziyaret etmek farz olacak.\n\n..",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY",
+        "HUMAN"
+      ]
+    }
+  ]
+}

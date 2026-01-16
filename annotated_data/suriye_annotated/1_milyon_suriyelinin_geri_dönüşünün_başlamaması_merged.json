@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T16:43:42.178799",
+    "total_entries": 2,
+    "input": "1 milyon suriyelinin geri dönüşünün başlamaması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "1 milyon suriyelinin geri dönüşünün başlamaması",
+      "entry_id": "168165819",
+      "author": "50ftqueenie",
+      "date": "08.09.2024 17:11",
+      "content": "türkiye'ye mi?",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "1 milyon suriyelinin geri dönüşünün başlamaması",
+      "entry_id": "168165926",
+      "author": "zeytinagaci",
+      "date": "08.09.2024 17:15",
+      "content": "10 milyon demek istedin sanırım.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

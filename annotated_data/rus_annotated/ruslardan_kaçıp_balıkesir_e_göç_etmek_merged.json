@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:30:49.759542",
+    "total_entries": 1,
+    "input": "ruslardan kaçıp balıkesir'e göç etmek",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ruslardan kaçıp balıkesir'e göç etmek",
+      "entry_id": "28804229",
+      "author": "sanzelize canavari",
+      "date": "01.06.2012 11:19",
+      "content": "galiba var böyle bir şey. tabi değer taşıması için kafkas halklarından olmak lazım.\n\nmesela bir tanıdığım var, gürcü bunlar.'ruslar'dan kaçmışız, balıkesir'e gelmişiz' diye anlatıyor.\n\nneyden o kadar kaçabilirsin ki? denizi görmeseler paris'ten çıkarlarmış demek ki.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:57:52.798997",
+    "total_entries": 3,
+    "input": "suriyelilerden sabun yapmak isteyenler",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelilerden sabun yapmak isteyenler",
+      "entry_id": "139933011",
+      "author": "acz ve fakr",
+      "date": "13.07.2022 16:29",
+      "content": "her gün açılan yeni bir ırkçı başlıkla emin olunan durum. içimizden birileri fırsat bulsa (ne yazık ki) suriyelilerden sabun yapmayı makul görebilir. bunu yapmamalarının önündeki tek engel şu an fırsat bulamamış olmaları gibi geliyor bana. bu başlıkları gördükçe üzülüyor hatta kahroluyorum. bu kadar insan düşmanı ırkçıyı biz nerede ve nasıl yetiştirdik. (bkz: üzgün)\n\nırkçılık böyle bir şey işte. kendiniz gibi olmayanın denize girmesinden bile rahatsızlık duyup, onu insan yerine koymazsınız başta sonrasında sabun yapmak çok kolaylaşır. sanmayın ki denize sokmamakla ya da denize girmesinden rahatsız olmakla sabun yapmak arasında çok büyük bir mesafe var. inanın ki yok. ellerine fırsat geçmesine bakar.\n\n(bkz: suriyeli bacıların denize atlama görüntüleri) şu başlığa bakın ve insanlardan sabun yapmak için fırsat bekleyenleri tanıyın.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "suriyelilerden sabun yapmak isteyenler",
+      "entry_id": "139933326",
+      "author": "elimi zimbaladim",
+      "date": "13.07.2022 16:38 ~ 16:40",
+      "content": "insanlar göç politikası olmayan bir ülkede milyonlarca cihatçı göçmene yönelik endişelerini dile getirdikçe liberaller, abci liberal solcular ve ümmetçiler ırkçılık olarak niteleyip, aptalca nazi benzetmesi yaptıkça ümit özdağ gibilere gün doğuyor.\n\nacil olarak muhalefetin somut ve uygulanabilir göç politikalarını açıklaması gerekiyor.\n\naklı başında herkesin de ab sınırının açılmasını dillendirmesi gerekiyor. ama liberal solcularımız ab'nin talepleri doğrultusunda, islamcılar ümmetçilik perspektifiyle, liberaller ucuz işçi ihtiyacını karşıladığı için göçmenlerin türkiye'de kalması için harıl harıl çalışıyor.\n\nsonra cahilin biri çıkıp nazi benzetmesi yapıyor. muhtemelen nazi mantığına sahip insanlar vardır fakat almanya'da olduğundan fazla olduğunu sanmıyorum.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyelilerden sabun yapmak isteyenler",
+      "entry_id": "139933975",
+      "author": "birikiucdortbesaltiyedisekizdokuz",
+      "date": "13.07.2022 16:56",
+      "content": "türklüğün bitirilmeye çalışılmasına karşı çıkmak ile sabun yapılmalarını istemek farklı şeyler. illa ki o kadar ırkçısı vardır fakat çoğunluk gitsinler de kurtulalım düşüncesinde. o kadar sadist insan az vardır. abartmakta üstümüze yok.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:01:05.362391",
+    "total_entries": 1,
+    "input": "suriyelileri göndermemize aihm müsaade etmez",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelileri göndermemize aihm müsaade etmez",
+      "entry_id": "139198624",
+      "author": "sanchez morales",
+      "date": "25.06.2022 13:07",
+      "content": "iktidarı destekleyen güruhun yeni bahanesidir. son yaşanan olayda da görüldüğü üzere, suriyelileri göndermeye evvela aihm müsaade etmezmiş. bahaneye bakın. türkiye'nin oturum izni verdiği ancak sonradan sınırdışı ettiği suriyeli sığınmacı, türkiye'yi aihm'e şikayet edince, türkiye uluslararası hukuk nezdinde haksız bulunmuş ve akabinde 12.500 euro para cezasına çarptırılmıştı ya hani. bu durum emsal teşkil ediyormuş.\n\nişine gelince aihm falan sallamayan güruhun, işine gelmeyince aihm kararlarını tanrı buyruğu gibi telâkki etmesini aklım havsalam almıyor.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    }
+  ]
+}

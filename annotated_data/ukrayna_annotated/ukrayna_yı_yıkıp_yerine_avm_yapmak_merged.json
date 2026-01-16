@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:08:38.284036",
+    "total_entries": 1,
+    "input": "ukrayna'yı yıkıp yerine avm yapmak",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukrayna'yı yıkıp yerine avm yapmak",
+      "entry_id": "40838234",
+      "author": "s1r",
+      "date": "03.03.2014 01:53",
+      "content": "ukrayna rusya krizini bitirecek olan plan. bir katını da ruslara verdik mi tamamdır. ukrayna'da bizimki gibi ileri demoktasi ile yoğurulmuş, tadına doyulmaz badem bıyıklarla bezenmiş yöneticiler olmadığından akıllarına gelmemiş.\n\n(bkz: ahmet davutoğlu'nun ukrayna politikası)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    }
+  ]
+}

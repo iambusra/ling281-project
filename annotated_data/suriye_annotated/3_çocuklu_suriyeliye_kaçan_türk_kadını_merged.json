@@ -1,0 +1,73 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:12:06.001887",
+    "total_entries": 5,
+    "input": "3 çocuklu suriyeliye kaçan türk kadını",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "3 çocuklu suriyeliye kaçan türk kadını",
+      "entry_id": "148175303",
+      "author": "kellecan",
+      "date": "26.01.2023 12:54",
+      "content": "ne kadını ya? 15 yaşında çocuk! başlığa bak, te allam ya.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "3 çocuklu suriyeliye kaçan türk kadını",
+      "entry_id": "148175379",
+      "author": "iconium",
+      "date": "26.01.2023 12:57 ~ 12:57",
+      "content": "(bkz: başlık nedir, nasıl açılır, altı nasıl doldurulur?)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "3 çocuklu suriyeliye kaçan türk kadını",
+      "entry_id": "148175747",
+      "author": "kosucu",
+      "date": "26.01.2023 13:07 ~ 13:34",
+      "content": "15 yaşındaki bir çocuğa bakamayan baba, anne ve anneanne yüzünden gidip o çocuk aklıyla birilerine sığınıp, güvenmiş. herkes anne olamaz, her doğuran anne değildir.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "GENDER-MORAL"
+      ]
+    },
+    {
+      "title": "3 çocuklu suriyeliye kaçan türk kadını",
+      "entry_id": "148176164",
+      "author": "senisevmiyorumsozluk",
+      "date": "26.01.2023 13:20",
+      "content": "lan ne kadını ne kaçması hakkaten, bildiğin sokağa atılmış, sokakta ve aç kalmamak için suriyeli bir adamın yanına sığınmak zorunda kalmış 15 yaşında kız çocuğu bu haberdeki gariban.\n\nkızcağızı ne babası istemiş ne annesi, yanında yaşadığı, şimdi ajitasyon yapan anneanne de evden atınca annesine sığınmış, orada da üvey baba evden atmış, kızda suriyeli bir adamın ablası (bu abla kısmı da şüpheli) ve ablanın mı adamın mı belli olmayan 3 çocukla yaşadığı bir eve sığınmış, ki söylenen orada da istenmiyormuş .\nen sonunda orada çıkan bir yangında balkondan atlayıp ölmüş gitmiş, muhtemelen kızcağız oradan kurtulsa saçma bir sentetik uyuşturucudan, ondan kurtulsa sığındığı ve muhtemelen kendisini satacak bir barzonun elinde harcanacaktı.\n\nbazı insanlar gerçekten çile çekmeye geliyor bu dünyaya, bu çocuk gibi harcanan garibanlar bütün toplumun ayıbı.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "3 çocuklu suriyeliye kaçan türk kadını",
+      "entry_id": "148176816",
+      "author": "rantci yandas muteahhit",
+      "date": "26.01.2023 13:39",
+      "content": "okurken üzen haber. ortada birisine kaçma falan yok bu arada, başlığı açanın bok yemesi. kızcağız bir de 7 aylık bebeği kurtarmış ölmeden önce. allah rahmet eylesin.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN"
+      ]
+    }
+  ]
+}

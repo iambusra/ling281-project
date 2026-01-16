@@ -1,0 +1,60 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:14:43.015491",
+    "total_entries": 4,
+    "input": "ukrayna'nın eurovision'da birinci olma ihtimali",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukrayna'nın eurovision'da birinci olma ihtimali",
+      "entry_id": "4190161",
+      "author": "demlikposet",
+      "date": "16.05.2004 00:40",
+      "content": "(bkz: ite kaka)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'nın eurovision'da birinci olma ihtimali",
+      "entry_id": "4190163",
+      "author": "joe nethunder",
+      "date": "16.05.2004 00:40",
+      "content": "her geçen saniye artan ihtimal.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'nın eurovision'da birinci olma ihtimali",
+      "entry_id": "4190217",
+      "author": "portakal",
+      "date": "16.05.2004 00:57",
+      "content": "ukrayna'li grubun, aldiklari ilk 12 puandan sonra yaptiklari bacaklarini havaya kaldirararak sallamadan oluşan sevinişi görünce herkesin içinden geçen \"ukrayna alsa 12 puani\" dileğinin bir sonucu olarak, oldukça yüksek olan ihtimal... bire yakin gibi... o cümleyi de düzgün kurdum ya nöbetçi organlarimla...",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'nın eurovision'da birinci olma ihtimali",
+      "entry_id": "4190250",
+      "author": "portakal",
+      "date": "16.05.2004 01:03",
+      "content": "(bkz: ukraynanin eurovisionda birinci olmasi)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

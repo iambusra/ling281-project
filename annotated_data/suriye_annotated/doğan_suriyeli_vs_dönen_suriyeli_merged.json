@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:41:31.187323",
+    "total_entries": 1,
+    "input": "doğan suriyeli vs dönen suriyeli",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "doğan suriyeli vs dönen suriyeli",
+      "entry_id": "171051099",
+      "author": "barely evil",
+      "date": "15.12.2024 17:32",
+      "content": "sayın içişleri bakanımızın bu istatistiği de paylaşarak güneş gibi bizi aydınlatması dileğiyle...",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POLICY"
+      ]
+    }
+  ]
+}

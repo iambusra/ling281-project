@@ -1,0 +1,340 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:46:42.960623",
+    "total_entries": 24,
+    "input": "suriye kürdistanı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriye kürdistanı",
+      "entry_id": "29462572",
+      "author": "tintobrass",
+      "date": "21.07.2012 18:10 ~ 22.07.2012 15:32",
+      "content": "doğrusu, abd ve israil güdümüyle kurulan 2 nolu kürt bölgesidir.\n\nböl, parçala, yönet stratejesi için kürtler bulunmaz fırsat.\nemperyalist ülkelerin yerinde olsam ben de kürtlerin üzeriene oynarım.\nsuriyeli kürtler, bir gazla babalarını bile keserler.\n\n(bkz: kürtlerin öğrenemediği şeyler/#29410143)",
+      "referenced_content": [
+        {
+          "type": "entry",
+          "title": "kurtlerin-ogrenemedigi-seyler",
+          "entry_id": "29410143",
+          "author": "tintobrass",
+          "date": "17.07.2012 17:57 ~ 18:01",
+          "content": "türklerden çok önce anadolu'daydık, muhabbetinin yersiz olduğu.\n\nartık bir çoğunuz, türkler sayesinde okuma-yazma öğrenip ve üniversitelere gidebiliyorsunuz.\n\ntürklerin 1071'den çok önce anadolu'da olduğunu, kürtlerin yavuz selim zamanına kadar anadolu'daki varlıklarının sembolik olduğunu, \"atalarınızın\" türkmen kanı dökmek şartı ile anadolu'nun diğer bölgelerine yerleştirildiğini, osmanlının sünni islamı yayma politikası gereği bir kürt eyaletinin tanındığını ve bu suretle türkmen topraklarını işgal ettiğinizi, dolaysıyla bu topraklarda neden sevilmediğinizi artık anlamanız gerek.\n\ngeleceğinizin geçmişinizde saklı olduğunu, bazı şeylerin asla unutulmayacağını bilmelisiniz.",
+          "has_external_url": false
+        }
+      ],
+      "referenced_entry_ids": [
+        "29410143"
+      ],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriye kürdistanı",
+      "entry_id": "29515404",
+      "author": "a350",
+      "date": "25.07.2012 17:48",
+      "content": "ahmet altan'ın ilgili yazısı\nhttp://www.medyafaresi.com/…acak-topragi-buldu.html",
+      "referenced_content": [],
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriye kürdistanı",
+      "entry_id": "29524894",
+      "author": "rugulas ikarus",
+      "date": "26.07.2012 10:42",
+      "content": "türkiye'nin kürt meselesinde iyiden iyiye stalker eski sevgiliye bağladığını gösteren yeni ülke adayı. isyanlar nedeniyle tüm otoritenin çöktüğü bölgede, esed döneminde oy verme hakkı bile bulunmayan kürtler, içlerinde pkk'nin de olduğu bir yapılanmayla çeşitli bölgelerde yönetimi ele geçirdi. bu halin yeni bir devlete dönüşüp dönüşmeyeceğini tahmin etmek zor ama kürtler için her durumda esed döneminden daha iyi olacağına kuşku yok.\n\npeki tüm bunlardan türkiye'ye ne?\n\nbence türkiye, kürtlere platonik olarak aşık. gözü ondan başkasını görmüyor. fakat ilişkileri hiç iyi gitmedi ve kürt tarafı ayrılmak istiyor. yetmezmiş gibi \"sorun bende değil sende berkcan\" diyor. türkiye ise eski sevgilisinin yakasını bırakmıyor, sokağa çıkmasını yasaklıyor, başka ülkelerle flörtüne karışıyor, özgürce yaşamasına müdahale ediyor. ülke olarak can yücel şiiri paylaşmamıza çok az kaldı.\n\nbence artık buna bir son vermek lazım. bölünmeler daima kötü değildir. bazen yararlıdır.\n\n(bkz: bırak o kızın yakasını)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriye kürdistanı",
+      "entry_id": "29525064",
+      "author": "giveup",
+      "date": "26.07.2012 11:00 ~ 11:21",
+      "content": "ata demirer'in bir zamanlar televizyonda yayınlanan korsan tv adlı komedi programındaki veteriner karakter niyazi gül'ün tanımlamalarına benzeyen bir tanım. suriye kürdistan'ı ne lan?\n\n(bkz: şerefsiz kuzu hayvanı)\n(bkz: energizer tavşanı)\n(bkz: ördek hayvanı)\n\nkorsan tv - niyazi gül;\nhttp://youtu.be/aoeuywzwhcu",
+      "referenced_content": [],
+      "has_external_url": true,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriye kürdistanı",
+      "entry_id": "29525110",
+      "author": "tripoli",
+      "date": "26.07.2012 11:04",
+      "content": "(bkz: karpatlar'ın maradonası)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriye kürdistanı",
+      "entry_id": "29543187",
+      "author": "in memoriam",
+      "date": "27.07.2012 16:57",
+      "content": "(bkz: isveç kürdistanı)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriye kürdistanı",
+      "entry_id": "29558760",
+      "author": "ildicotila",
+      "date": "28.07.2012 19:53",
+      "content": "değil dünya, tüm samanyolu galaksisindeki dış siyaseti en iyi biz biliriz havasındaki dış siyasetimizin hop dedik abi cinsinden büyük bir gafletidir.\n\nöyle ki; esad devrilsinde ne olursa olsun diye hesapsızca düşünmenin bir sonucudur. bir vatandaş bunu, bir takım tutar gibi destekleyebilir. ama siyasetçiler bunu böyle yapamaz.\n\nen basitinden esad'ın devrilmesi ne şartlarda olur, nasıl farklı varyasyonlar ortaya çıkabilir en ince detayına kadar hesap edilmeliydi.\n\nkimi düşünen, yazan kesimin uyarıları da geçerli olmadı. hoppidik bir kürdistan daha 70 milyonluk ülkenin haberi bile olmadan 1.5 milyonluk bir halk tarafından bir haftada kuruldu.\n\nseyredemedik. nasıl oldu nasıl bitti? buna üzülüyorum...",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE"
+      ]
+    },
+    {
+      "title": "suriye kürdistanı",
+      "entry_id": "29558873",
+      "author": "escherichiacoli",
+      "date": "28.07.2012 20:05",
+      "content": "kendi devletinin kuruluş ideolojisine düşman bir hükümetin icraatlarının doğal sonucu. ne de olsa ulus-devlet kötüydü. kavmiyet, milliyetçilik ümmet bilincini zedeliyordu. millet islam milletiydi. sınırlar kalkmalı, federatif yapıda osmanlı tekrar ayağa kaldırılmalıydı. bu doğrultuda eski ideolojinin meyvesi eski anlayış bozuldu. buraya kadar tamam. ancak bozmak kolay, inşa etmek zordur. türkiye'nin dibinde ve belki onu da kapsayacak etnik ve mezhepsel kabileler kakafonisinden ne inşa edecekler, bize hangi bedelleri ödetecekler çok merak ediyorum.\n\nüç kuruşa elde ettiğimiz modern ulus devletin kıymetini anlayamayan bir kısım türk seçmeni de tercihlerinin sonuçlarını \"ne oluyor\" endişesiyle izliyor. cevap veriyorum: eşşeğin siki oluyor sevgili arkadaşım. ebenin amı oluyor.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE"
+      ]
+    },
+    {
+      "title": "suriye kürdistanı",
+      "entry_id": "35390003",
+      "author": "xswt",
+      "date": "21.07.2013 17:10",
+      "content": "parça pinçik şeklinde olan kürdistandır. şöyle ki; ortadoğu'da kürtler 4 ülkede kayda değer bir nüfusu sahiptir. türkiye, ırak ve iran'da kürdistan diyebileceğimiz kürtlerin yoğun olarak yaşadığı en önemlisi coğrafi bir bütünlüğü olan bölgeler mevcut. ama suriye'deki kürtler için böyle bir bütünlükten bahsetmek imkansın. suriye'nin kuzeyi kürtler tarafından rojava denen bölgede hem kürt nüfusu %25'in altında hem de kürtler 3 parça halinde yerleşik olarak bulunuyorlar. suriye'nin kuzeydoğudaki kamışlı, amude, derik gibi yerler haricinde kürtler özerklik ilan edemezler. suriye için çizilen haritanın ne kadar hayal ürünü olduğunu ister savaşı esat kazansın isterse muhalifler kazansın çok acı bir şekilde öğrenecekler. suriye'nin kuzeyinde sadece %25 kürt nüfusuyla ve 3 parça halinde bi bok yapamazsınız.",
+      "referenced_content": [],
+      "has_external_url": true,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriye kürdistanı",
+      "entry_id": "35404498",
+      "author": "tintobrass",
+      "date": "22.07.2013 09:12",
+      "content": "güçlenmesinde ahmet davutoğlu ve rte'nin büyük emeği vardır.\nallah onlardan razı olsun!",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriye kürdistanı",
+      "entry_id": "35406969",
+      "author": "preze",
+      "date": "22.07.2013 12:08",
+      "content": "(bkz: batı kürdistan)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriye kürdistanı",
+      "entry_id": "44888586",
+      "author": "fatihaltayli",
+      "date": "11.08.2014 11:42",
+      "content": "(bkz: rojava)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriye kürdistanı",
+      "entry_id": "94120791",
+      "author": "jotaro",
+      "date": "19.08.2019 00:19",
+      "content": "(bkz: kuzey ve doğu suriye özerk yönetimi)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriye kürdistanı",
+      "entry_id": "165931212",
+      "author": "counteroffensive",
+      "date": "02.07.2024 17:57",
+      "content": "pkk ve uzantıları oradayken bağımsızlığını ilan etmesi mümkün değildir. biz kürtler için pkk'den kurtulmak gereklidir ve bunu da barzani çizgisindeki kürt hareketlerine destek vererek yapabiliriz. pkk'den kurtulduktan sonra buranın yönetimi, barzani çizgisindeki islami bir kürt yönetimine bırakılmalıdır. zamanı gelince buralar osmanlı toprağı olacak tekrar. türkiye, ulus devlet yerine rejim değiştirip osmanlı olduğunda ona ilk katılanlar da suriye ve ırak kürdistan'ı olacaktır.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriye kürdistanı",
+      "entry_id": "171011814",
+      "author": "kacakcaysempatizani",
+      "date": "14.12.2024 01:51",
+      "content": "suriye’de kurulacak bir kürt devletinin türkiye tarafından kabul edilmesi, tarihi bir dönüm noktası olabilir. kürtler, yüzyıllardır bölgesel güçlerin çıkar savaşlarının ortasında kendi kimliklerini ve haklarını savunmaya çalışıyor. ırak kürdistanı’nın varlığı, kürtlerin bölgedeki siyasi denklemlerde yer alabileceğini gösterirken, suriye kürtlerinin bu süreçte benzer bir yol izlemesi oldukça doğal bir gelişme olacaktır.\n\ntürkiye’nin bu durumu kabullenmesi ise hem kürt halkıyla uzun süredir süren gerilimi sonlandırabilir hem de bölgeyi daha istikrarlı bir hale getirebilir. bugün suriye kürtleri, özellikle rojava’daki yapılarını koruyarak kendi kendilerini yönetebileceklerini ve demokratik değerleri yaşatabileceklerini kanıtladılar. türkiye’nin bu oluşuma tehdit olarak yaklaşmak yerine, kürtlerin de bölgenin doğal bir parçası olduğunu kabul ederek bir işbirliği geliştirmesi hem türkler hem kürtler için kazan-kazan senaryosu yaratabilir.\n\nkürtler için bu süreç, bir kimlik mücadelesinden çok bir varlık mücadelesidir. türkiye, bu gerçeği görmezden gelmek yerine, suriye kürtleriyle diyalog kurarak daha geniş bir bölgesel barışın öncüsü olabilir. bu kabullenme, sadece suriye kürtleriyle sınırlı kalmaz, aynı zamanda türkiye’nin kendi kürt vatandaşlarıyla ilişkilerini iyileştirmek için de bir dönüm noktası olabilir. barış, korkuyla değil, karşılıklı güvenle inşa edilir. ve bu güven, türkler ve kürtler arasında yeni bir sayfa açabilir.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriye kürdistanı",
+      "entry_id": "171012994",
+      "author": "tebeye",
+      "date": "14.12.2024 03:00",
+      "content": "üstteki yazarın nicki bile kaçak varın gerisini siz düşünün.\n\nsıkıntı kürtler'in devlet kurmak istemesi değildir. sıkıntı amerika eliyle başka milletlere ait olan toprakların üzerine (petrol var diye kuzey ırak ve kuzey suriye) çökmeye çalışmalarıdır.\n\nkürtler veya başka bir millet toprak kurmak istiyorsa dünya üzerinde başka yerlerde bunu deneyebilirler. fakat ne suriye ne de türkiye'nin bütünlüğünü bozup, amerika'nın'divide and conquer' modeline izin vermeye niyetimiz yok.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriye kürdistanı",
+      "entry_id": "171013757",
+      "author": "delikanlininja",
+      "date": "14.12.2024 04:20",
+      "content": "ne olacak? türkiye'deki kürtler koşa koşa oraya mı gidecek? amerika daha kurmadan demokrasi götürür, yeterli doğal kaynak varsa",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriye kürdistanı",
+      "entry_id": "171013767",
+      "author": "anani siken kadi",
+      "date": "14.12.2024 04:21",
+      "content": "recep tayyip erdoğan'ı tanıyorsam bunu da kurar, bayrağını da ankara'da göndere çeker.\n\nyapmadığı şey değil zira, yaptıkları da yapacaklarının teminatıdır.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriye kürdistanı",
+      "entry_id": "171013782",
+      "author": "greenwolf",
+      "date": "14.12.2024 04:24",
+      "content": "yok japonya kürdistanı.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriye kürdistanı",
+      "entry_id": "171013828",
+      "author": "formaldehitkafasi",
+      "date": "14.12.2024 04:33",
+      "content": "kürdistan?",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriye kürdistanı",
+      "entry_id": "171014181",
+      "author": "drbedo",
+      "date": "14.12.2024 05:50",
+      "content": "rojava'da, yılların mücadelesinin getirdiği siyasi birikimin ve ideolojik teorilerin pratiğe ve satatüye dönüşmesine tanık olduğumuz günlerdeyiz. kim ne derse desin rojava kürtleri, cani daiş çetelerine karşı şehirlerini ve evlerini terk etmeyip sokak sokak topyekün bir halk savaşı yürütmüş ve bir devlet statüsünde olmamasına rağmen nato bloğunun ilgisini çekmiş ve dünya daiş korkusuyla kasıp kavrulurken yiğitçe savaşıp dünyanın desteğini arkasına almıştır. sahada ortaya koyduğu savaşçı karakterin ardından doğru zamanda ve doğru müttefiklerle masada da politik ve demokratik bir karakter ile kazanım elde etmiştir. ne kadar ağlasanız da sızlasanız da suriye mevcut unsurlar eliyle yeniden dizayn edilmiş olup uluslararası konjonktürde de kısa zamanda meşruluk kazanacaktır. şu an şam'da ve iç siyasette alenen desteklen cihadist grupların yönettiği yarının suriyesinde, rojava özerk yönetimi bölgenin demokratik ve aydınlık yüzü olacaktır. yeni ortadoğuda model alınması gereken türde bir gelişim beklediğim ve siyaset bilimi kitaplarına da konu olması gereken bir küresel devrim/deneydir.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriye kürdistanı",
+      "entry_id": "171014200",
+      "author": "8k",
+      "date": "14.12.2024 05:55",
+      "content": "(bkz: ıslak rüyalar)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriye kürdistanı",
+      "entry_id": "172226705",
+      "author": "manyribera",
+      "date": "26.01.2025 15:21 ~ 15:22",
+      "content": "kurulacağı kesinleşmiştir gerek israil-hamas mücadelesi gerek suriyenin iç karışıklığı isralin güvenliğini zedelemektedir abd nin talimatıyla abdullah öcalan ın serbest bırakılıp pkk nin lağvedilmesinin ardından gerekli statünün verileceğini düşünüyorum",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriye kürdistanı",
+      "entry_id": "175272593",
+      "author": "panik odasinda uyuklayan adam",
+      "date": "13.05.2025 15:28",
+      "content": "ıslak rüya denile denile siklenmeyerek kurulmasına ön ayak olunmuş özerk yönetim bölgesi.\n(bkz: türkiye kürdistanı)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POLICY"
+      ]
+    }
+  ]
+}

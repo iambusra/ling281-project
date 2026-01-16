@@ -1,0 +1,53 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:54:48.927762",
+    "total_entries": 3,
+    "input": "suriyeliler gidecek zanneden saf akp yandaşları",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeliler gidecek zanneden saf akp yandaşları",
+      "entry_id": "170872182",
+      "author": "kucukkenanabritanicayikitapgibiokuyan",
+      "date": "09.12.2024 11:39",
+      "content": "bir kısım akp yandaşı zaten suriler araplar afganlar gitmesin istiyor, ama vatanını seven ülkenin demografik yapısının tecavüze uğramasını istemeyen bazı saf akpliler var, onlar bunların gideceklerini falan ze-annediyorlar.\nonlara üzülüyorum, olm sizi yine keklediler.\n\nbu araplar gitmez, en azından buranın içine iyice etmeden gitmezler.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyeliler gidecek zanneden saf akp yandaşları",
+      "entry_id": "170872299",
+      "author": "bimehisimladalanadam",
+      "date": "09.12.2024 11:44",
+      "content": "hama düşünce suriyelilerin hepsi anında geri dönmek hareketlendi.\nbizim iş yerinde legal çalışan 10 kadar suriyeli işçi var.\nzaten geçici koruma kapsamındalar.\nancak göç idaresinden gerekli izin ve yol belgesi ile gidebilirler.\n\nistanbula gelen, şehrin ekmeğini suyunu içen birisi suriyeye döner mi?",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyeliler gidecek zanneden saf akp yandaşları",
+      "entry_id": "170872389",
+      "author": "platzeins",
+      "date": "09.12.2024 11:47",
+      "content": "vahabi selefiler ülkeyi ele geçirdiği için hergün kafa kesme kan kaos bombalarla dolu bir hayat olacak.\nbu yüzden bırak gitmeyi, ben en az 3 milyon daha bekliyorum.sınırların kapatılması lazım.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "POLICY"
+      ]
+    }
+  ]
+}

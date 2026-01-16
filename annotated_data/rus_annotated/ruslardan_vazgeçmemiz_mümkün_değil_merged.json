@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:30:52.112690",
+    "total_entries": 2,
+    "input": "ruslardan vazgeçmemiz mümkün değil",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ruslardan vazgeçmemiz mümkün değil",
+      "entry_id": "23931882",
+      "author": "wednesday",
+      "date": "08.06.2011 12:54",
+      "content": "ertuğrul günay'ın beyanı.\n\nhttp://www.ntvmsnbc.com/id/25221208/",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ruslardan vazgeçmemiz mümkün değil",
+      "entry_id": "23933078",
+      "author": "diazepam",
+      "date": "08.06.2011 14:05",
+      "content": "(bkz: hay ağzın bal yesin)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

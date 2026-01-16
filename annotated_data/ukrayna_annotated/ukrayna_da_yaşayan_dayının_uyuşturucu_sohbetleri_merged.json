@@ -1,0 +1,48 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:13:59.742210",
+    "total_entries": 3,
+    "input": "ukrayna'da yaşayan dayının uyuşturucu sohbetleri",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukrayna'da yaşayan dayının uyuşturucu sohbetleri",
+      "entry_id": "43243241",
+      "author": "einherjar",
+      "date": "03.06.2014 23:18 ~ 04.06.2014 11:36",
+      "content": "ukranya'da yasayan dayimizin cok feyzli videosu.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "ukrayna'da yaşayan dayının uyuşturucu sohbetleri",
+      "entry_id": "43243580",
+      "author": "madrabbit 62",
+      "date": "03.06.2014 23:32",
+      "content": "(bkz: tecrübe konuşuyor)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'da yaşayan dayının uyuşturucu sohbetleri",
+      "entry_id": "43277097",
+      "author": "dualist",
+      "date": "05.06.2014 12:27",
+      "content": "(bkz: bi tane daha yer misin)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

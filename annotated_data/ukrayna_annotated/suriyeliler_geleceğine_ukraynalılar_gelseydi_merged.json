@@ -1,0 +1,37 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:23:24.974944",
+    "total_entries": 2,
+    "input": "suriyeliler geleceğine ukraynalılar gelseydi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeliler geleceğine ukraynalılar gelseydi",
+      "entry_id": "46819770",
+      "author": "dunden kalmis yemek",
+      "date": "06.11.2014 00:13",
+      "content": "daha fazla \"multecilere tecavuz\" konulu haber gorurduk haber sitelerinde.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyeliler geleceğine ukraynalılar gelseydi",
+      "entry_id": "46819771",
+      "author": "jusiyans",
+      "date": "06.11.2014 00:13",
+      "content": "en azından \"bari onlar da gelseydi\" diyerek insanı bir yaklaşımda bulunmak isterim.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN"
+      ]
+    }
+  ]
+}

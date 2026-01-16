@@ -1,0 +1,49 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:50:26.838301",
+    "total_entries": 3,
+    "input": "suriyeli komşu",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeli komşu",
+      "entry_id": "78249686",
+      "author": "monsieur boduc",
+      "date": "19.06.2018 21:34",
+      "content": "sahip olmadığımdır.\nyalnız ilk entryde anlatılanların birebir hepsini yapan ve üstüne bir de (sanırım ip atlayarak) suni depremler yaratan konyalı alt komşuya sahibim. öküz hep öküz yani, çok şaapmayın",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyeli komşu",
+      "entry_id": "78249836",
+      "author": "biroda3salon",
+      "date": "19.06.2018 21:38",
+      "content": "kültür farkından dolayı inanılmaz zor olabilecek bi durumdur. aynı dili konuşmamak, bir tarafın böyle bi teşebbüste bulunmaması işleri daha da zorlaştırır.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "suriyeli komşu",
+      "entry_id": "171513999",
+      "author": "ternam",
+      "date": "01.01.2025 14:21",
+      "content": "nefret etmesem de arada sınırları zorlayan komşudur.\n\nyeni bi yaşam umuduyla gelmişler. belki savaştan belli fakirlikten kaçtılar bilmiyorum. bu insani bi süreç.\n\nnefret ettiğim konu herkesi içeri alan o politika. bizim binaya 3 suriyeli aile yerleşti.\n\nadamlar kapının önüne 50 ayakkabı bırakıyor amk. bebeleri kafayı yemiş gibi sağa sola saldırıyor. binanın önüne park ettiğim arabama şut çekiyor piçler:d\n\nbinadakilerin hepsi şikayetçi. anlatamıyorsun arada medeniyet farkı var.\n\ndemografik denge falan amına koydular ortalığın. bizimkiler suriye ye de gitmiyor. bura daha keyifliymiş:d",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    }
+  ]
+}

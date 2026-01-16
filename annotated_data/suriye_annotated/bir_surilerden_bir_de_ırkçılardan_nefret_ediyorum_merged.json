@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T14:56:50.329968",
+    "total_entries": 1,
+    "input": "bir surilerden bir de ırkçılardan nefret ediyorum",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "bir surilerden bir de ırkçılardan nefret ediyorum",
+      "entry_id": "131669553",
+      "author": "demekle olsaydi",
+      "date": "29.12.2021 11:10",
+      "content": "bir beyonce sözü.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

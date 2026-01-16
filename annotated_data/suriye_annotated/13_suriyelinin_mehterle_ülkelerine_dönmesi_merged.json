@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T15:06:12.255398",
+    "total_entries": 1,
+    "input": "13 suriyelinin mehterle ülkelerine dönmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "13 suriyelinin mehterle ülkelerine dönmesi",
+      "entry_id": "75453582",
+      "author": "tskitishvili",
+      "date": "27.03.2018 17:58 ~ 18:16",
+      "content": "140 bin suriyelinin yasadigi esenyurt’ta akpli belediyenin sovuyla gerceklesmis hadise.\n\nallah’in yeryuzundeki yansimasinin bir soylemi daha yerine getirilmis olmus. suriyeliler de bu jeste minibusun onune tesekkur pankarti astirarak cevab verebilmis.\n\nhttp://www.hurriyet.com.tr/…rine-ugurlandi-40786039\n\nedit: 35 diye degistirilmis haber metni. 3 aile 35 kisi ahgsgs. birazdan 10 aile yapar ama caps var elimde kacamazsin hurriyet editoru.\n\norijinal haber: https://m.imgur.com/a/wbgbv",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "HUMAN",
+        "CULTURE"
+      ]
+    }
+  ]
+}

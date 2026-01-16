@@ -1,0 +1,98 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:04:01.440888",
+    "total_entries": 7,
+    "input": "suriyelilerin gideceğini düşünen kesim",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelilerin gideceğini düşünen kesim",
+      "entry_id": "170869079",
+      "author": "elimi zimbaladim",
+      "date": "09.12.2024 08:56",
+      "content": "akıl tutulması yaşayan kesimdir.\n\nücretsiz sağlık ve eğitim gibi hizmetler sunulan, henüz şeriatın anayasalaşmadığı türkiye dururken, savaştan yıkılmış, ekonomisinin ne olacağı belli olmayan ve cihatçılar tarafından yönetilen suriye'ye göç etmeyecekler.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "suriyelilerin gideceğini düşünen kesim",
+      "entry_id": "170869262",
+      "author": "inoktane",
+      "date": "09.12.2024 09:08 ~ 09:09",
+      "content": "bir ülkenin kendi halkının rejimi değiştirmesi ayrı, dıştan gelen müdahale ile devrilmesi ayrı.\ndış güçlerin eliyle gelen demokrasi ne kadar sağlıklı olur?\nolumsuz örnekleri çok gördük. hele de türlü terör örgütlerinin cirit attığı yerde! herkes pastadan bir pay alma derdinde.\nişin içinde israil var, abd var, rusya bi taraftan...\n\nböylesine kaos dolu, istikrardan uzak bir ortamda yıllar önce ülkedinden ardına bakmadan kaçmış, geldiği ülkede çocuk dünyaya getirmiş, düzen kurmuş, yerleşmiş insanların \"hadi biz gidiyoruz\" demesini bekleyen var mı cidden?\n\ngöstermelik bir kısım gidenleri gösterdiler, niye? çünkü mülteci sorunu ülkemizde büyük bir sorun ve iktidarı destekleyenler de dahil durumdan şikayetçi. iktidar \"bakın gidiyorlar, bu sorundan kurtuluyoruz\" havası yaratma derdinde ama her aklı başında insan durumun böyle olmadığının ve olmayacağının farkında.\n\ninsanlar kurulu düzenini ancak ortada istikrar sağlanmış, bir düzen oturmuş, ülke adına iyi aşamalar kaydedilmişse çıkar gider. ülkenin başına kim gelecek, iç savaş çıkacak mı, htş kim, durum neye gebe belli değil. yarın bir gün iç savaş durumu yaşanabilir, örnekler dolu.\n\nadam bir kere kaçtığı ülkesine durum böyleyken hevesle döner mi?",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelilerin gideceğini düşünen kesim",
+      "entry_id": "170869263",
+      "author": "m 602 reo",
+      "date": "09.12.2024 09:08",
+      "content": "bir kısım iktidar partisi propagandası yapan beslemeler ve bir kısım aptallardan oluşan topluluk.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE"
+      ]
+    },
+    {
+      "title": "suriyelilerin gideceğini düşünen kesim",
+      "entry_id": "170869361",
+      "author": "ahsap dibegin demir tokmagi",
+      "date": "09.12.2024 09:15 ~ 10:23",
+      "content": "el kaide çakması htş örgütünün yönettiği demokratik, laik, kadın haklarının medeni kanunla korunduğu, eşitlikçi eğitim siteminin olduğu bir ülkeye geri dönmeyeceklerini düşünmenizi anlamıyorum..",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelilerin gideceğini düşünen kesim",
+      "entry_id": "170876776",
+      "author": "dark and black",
+      "date": "09.12.2024 15:12",
+      "content": "(bkz: suriye cennet ama kurulu düzenimiz var yeğenim)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyelilerin gideceğini düşünen kesim",
+      "entry_id": "170876857",
+      "author": "kronik eksi",
+      "date": "09.12.2024 15:16",
+      "content": "mutlaka gidecek çok ama çok küçük bir kesim olacaktır. büyük çoğunluk kalacaktır. çünkü vatandaşlık, oturma izni v.s. gibi pek çok haklar verildi. adamlar neden gitsin?",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelilerin gideceğini düşünen kesim",
+      "entry_id": "170876956",
+      "author": "babillion",
+      "date": "09.12.2024 15:20",
+      "content": "bu zamana kadar geçici sığınmacı statüsü sebebi ile türkiyede bulunuyorlardı.\nsuriyede savaş biter ve demokrasiye yakın bir hükümet kurulursa türkiyede durmaları için sebep kalmayacağı için gitmek zorundalar.yoksa ellerindeki geçici sığınmacı kimliği hangi sebeple yenilenecek.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    }
+  ]
+}

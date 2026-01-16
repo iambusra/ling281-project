@@ -1,0 +1,88 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:32:14.257572",
+    "total_entries": 6,
+    "input": "almanya'da suriyelinin burnunu kestiği top model",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "almanya'da suriyelinin burnunu kestiği top model",
+      "entry_id": "177938031",
+      "author": "summerof69",
+      "date": "28.08.2025 17:24 ~ 17:33",
+      "content": "başlığa sığmadı, tam hali:\n\"kızları taciz etmesine engel olduğu için suriyeliler tarafından burnu kesilen amerikalı top model\" olmalıydı. adamın suratını adeta 15cm lik bıçak ile ortadan ikiye kesmişler.\n\nilgili video:\n\nhttps://youtu.be/tghwcokfgtc",
+      "has_external_url": true,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "almanya'da suriyelinin burnunu kestiği top model",
+      "entry_id": "177938108",
+      "author": "nihai kullanici",
+      "date": "28.08.2025 17:28",
+      "content": "her milletin insan artıkları olabilir.\n\nülkemizde ve dünyada caydırıcı cezalar olmadığı sürece vahşi insanların sadece haberini yapmakla kalırız.\n\nözellikle ülkemizde masum insanlara kıyanlar için acilen idam cezası gelmelidir. idama karşı olanlar benim gözümde dünyanın en aptal insanıdır.\n\ntanım: yazık olmuş top modeldir. inşallah sebep olanlar cezasını fazlasıyla çekerler.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "almanya'da suriyelinin burnunu kestiği top model",
+      "entry_id": "177938118",
+      "author": "mayonezli tost",
+      "date": "28.08.2025 17:29",
+      "content": "bu nasıl kesilme arkadaş kılıç mı yaşıyor bu yavşaklar.\n\nkeşke yanında biraz yaş mama yaşısaydı diyecekler gelmeden.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "CRIME"
+      ]
+    },
+    {
+      "title": "almanya'da suriyelinin burnunu kestiği top model",
+      "entry_id": "177938492",
+      "author": "rundstedt",
+      "date": "28.08.2025 17:51",
+      "content": "hitler yanlış zamanda doğmuş.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "almanya'da suriyelinin burnunu kestiği top model",
+      "entry_id": "177938569",
+      "author": "desjard",
+      "date": "28.08.2025 17:54",
+      "content": "illa ki yapılan vahşi bir suç ve cezasını alması lazım.\n\nfilistinde çocukları zevkle öldürenlere bir şey dememeyi bırak, o cinayetlerden haz alanların “işte islamiyet bu” diye öne sürdükleri haber.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "almanya'da suriyelinin burnunu kestiği top model",
+      "entry_id": "177983616",
+      "author": "hirsim yok inadim var",
+      "date": "30.08.2025 11:00",
+      "content": "utanç verici bir haberdir.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

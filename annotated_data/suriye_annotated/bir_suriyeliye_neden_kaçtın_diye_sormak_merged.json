@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T15:02:31.305520",
+    "total_entries": 1,
+    "input": "bir suriyeliye neden kaçtın diye sormak",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "bir suriyeliye neden kaçtın diye sormak",
+      "entry_id": "83863403",
+      "author": "ketender tepetopuzu",
+      "date": "30.11.2018 20:26",
+      "content": "suriyelinin suriye'den siktir olup gitmek başlığının gazına geldiğini söyleyerek karşılık vereceği aktivite.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    }
+  ]
+}

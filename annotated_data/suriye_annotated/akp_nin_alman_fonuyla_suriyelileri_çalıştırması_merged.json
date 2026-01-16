@@ -1,0 +1,26 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T15:33:18.868961",
+    "total_entries": 1,
+    "input": "akp'nin alman fonuyla suriyelileri çalıştırması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "akp'nin alman fonuyla suriyelileri çalıştırması",
+      "entry_id": "157173212",
+      "author": "oteberidegil",
+      "date": "27.09.2023 13:24",
+      "content": "akp'nin alman fonuyla suriyelileri istihdam ettiğini kabul etmesi olayıdır.\n\nlink\n\nyani şu anda cumhurbaşkanlığı almanya'dan fon alıyor. almanya'dan... fon alıyor.. foncu akp.",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "POLICY",
+        "ECON"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-10T23:30:37.015202",
+    "total_entries": 1,
+    "input": "02 temmuz ülkemde suriyeli istemiyorum gözaltıları",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "02 temmuz ülkemde suriyeli istemiyorum gözaltıları",
+      "entry_id": "92060963",
+      "author": "aguscuk",
+      "date": "02.07.2019 22:25",
+      "content": "bir de ters kelepçe takmışlar. bu devlet benim devletim, bu bayrak benim bayrağım, bu vatan benim vatanım.zamanında osmanlı askeri geri çekilirken arkasından vuran, katleden insanların torunlarını vatanımda istemiyorum. karımıza kızımıza nargile tüttürerek hallenen, vatanı için savaşmayan insanları ülkemde istemiyorum. 40 milyar dolarımı hiç eden, bayramda gidip “savaş var orda” diyip dönmeyen insanları hiç istemiyorum.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    }
+  ]
+}

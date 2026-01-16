@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T12:50:06.050346",
+    "total_entries": 1,
+    "input": "06 aralık 2011 rusya seçimlerini protesto",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "06 aralık 2011 rusya seçimlerini protesto",
+      "entry_id": "26475218",
+      "author": "ayrintida gizli seytan",
+      "date": "09.12.2011 00:43 ~ 00:45",
+      "content": "halen devam eden ve sosyal medya da \"yayınları sansürlüyorlar yardım edin\" tipi haberleri duymaya başladığımız isyan. sosyal medya diyip geçmeyin efendim, bu yıl bütün isyanlar örgütlenmeler buradan yayılıyor.\nhttp://9gag.com/gag/955091\nhttp://www.bbc.co.uk/news/world-europe-16050028",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY",
+        "CULTURE"
+      ]
+    }
+  ]
+}

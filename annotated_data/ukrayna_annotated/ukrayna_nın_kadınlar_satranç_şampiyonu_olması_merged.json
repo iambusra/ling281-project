@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:16:19.477496",
+    "total_entries": 1,
+    "input": "ukrayna'nın kadınlar satranç şampiyonu olması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukrayna'nın kadınlar satranç şampiyonu olması",
+      "entry_id": "32589777",
+      "author": "anlamarayis",
+      "date": "12.03.2013 17:07",
+      "content": "malum 50 karakter mevzusundan ötürü dünya çapında diyemedim şu meleklere.\n\nastana'da 2-12 mart 2013 tarihleri arasında yapılan dünya kadınlar takım şampiyonası'nı ukrayna'nın kazanmasından bahsediyorum. bizlerin onları neden bu kadar çok beğendiğini buradan anlayabilirsin ey ibret delisi olasıca türk kızı. mevlam verdikçe vermiş. ne zeki kızlardır onlar, maşallah.\n\nonlarca kadının arasından rahatlıkla seçebileceğiniz işte o kızlar .",
+      "has_external_url": true,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN",
+        "CULTURE"
+      ]
+    }
+  ]
+}

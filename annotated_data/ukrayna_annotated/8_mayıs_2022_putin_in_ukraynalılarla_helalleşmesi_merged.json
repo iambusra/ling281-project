@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:23:39.934861",
+    "total_entries": 2,
+    "input": "8 mayıs 2022 putin'in ukraynalılarla helalleşmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "8 mayıs 2022 putin'in ukraynalılarla helalleşmesi",
+      "entry_id": "137180763",
+      "author": "en arka koltuktaki gozluklu cocuk",
+      "date": "08.05.2022 13:34",
+      "content": "fetöcülerin helallik istemesiyle aynıdır. bir ara modaydı.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE"
+      ]
+    },
+    {
+      "title": "8 mayıs 2022 putin'in ukraynalılarla helalleşmesi",
+      "entry_id": "137181003",
+      "author": "kraliyett",
+      "date": "08.05.2022 13:41 ~ 13:43",
+      "content": "ülkesini başka bir ülkeden gelecek saldırıya karşı tamamıyla açık hale getiren bir ülke liderinin hezeyanıdır.\n\nputin rusya için ulusal güvenlik sorunu haline gelmiştir. kendisi ansızın gerçekleşen ihtilalleriyle meşhur bir ülkenin diktatörüdür. (bkz: sen de mi brütüs)\n\nbeş dakikada değişir bu işler. koca dünyada küçücük et parçası cesedini gömecek iki metre kare yer bulamadığı olur insanoğlunun. (bkz: adolf hitler)\n\nukrayna'lılar bir gün evlerine kavuşacaktır. ama sen şahsi kariyerini karanlık bir geleceğin talih rüzgarına bırakmış birisisin. asıl sana mutlu bir gelecek dilemek gerekli.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    }
+  ]
+}

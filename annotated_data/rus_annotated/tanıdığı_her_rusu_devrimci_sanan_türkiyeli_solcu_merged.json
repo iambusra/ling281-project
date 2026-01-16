@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:23:46.890107",
+    "total_entries": 1,
+    "input": "tanıdığı her rusu devrimci sanan türkiyeli solcu",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "tanıdığı her rusu devrimci sanan türkiyeli solcu",
+      "entry_id": "36883652",
+      "author": "flavius aetius",
+      "date": "12.09.2013 20:11",
+      "content": "aziz vatanımızın bir yurttaşıdır, tıpkı sözlükte yazar olan ya da okuyan pek çok insan gibi... aslında başlığı da tandığı her rusu devrimci sanan türk şeklinde açacaktım, fakat işin bir yönü türk solu demek bir diğer yönü de türk diyerek bir ırk/millet belirtip belki de enternasyonalizmi baştan yok saymak vardı. bu sebeple başlığı tanıdığı her rusu devrimci sanan türk şeklinde açmam ahmet kaya'nın da demiş olduğu gibi \"nerden baksan tutarsızlık/nerden baksan ahmakça olacaktı.\".\n\nefendim ülkemizde bulunan devrimci ve ilerici arkadaşlarda ne yazık ki böyle bir sıkıntı mevcuttur. nedenini ben de çözemedim. ama yalnızca solcularda da değil. her ne kadar parkası olsa da ilişikte bulunan resimdeki abimiz de mevvzuya lenin-stalin-sosyalizm üzerinden girmektedir.\n\n--- ilişikte bulunan resimdeki abimiz ---\n\nhttp://imgim.com/deliolan.png\n\n--- ilişikte bulunan resimdeki abimiz ---\n\nher rus devrimci midir peki? beş parmağın beşi nasıl bir değilse, nasıl ki enternasyonalizm gereği farklılıklar önemli ise her rus da devrimci değildir. peki bunu biliyoruz, o zaman da elimizde şöyle bir sorun oluyor:\n\n(bkz: her kübalıyı devrimci sanan türkiyeli solcu)",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL",
+        "HUMAN"
+      ]
+    }
+  ]
+}

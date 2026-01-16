@@ -1,0 +1,73 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:40:28.499354",
+    "total_entries": 5,
+    "input": "bir suriyelinin gelecekte cumhurbaşkanı olması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "bir suriyelinin gelecekte cumhurbaşkanı olması",
+      "entry_id": "142967490",
+      "author": "yeni kullanici kaydi ben baktim",
+      "date": "21.09.2022 15:52",
+      "content": "şu memlekette \"yoh ebesinin o kadar da değil\" dediğin ne varsa sıradan gerçekleştiği için temkinli yaklaştığım iddia.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "bir suriyelinin gelecekte cumhurbaşkanı olması",
+      "entry_id": "142967604",
+      "author": "amerikan popechku",
+      "date": "21.09.2022 15:55 ~ 15:56",
+      "content": "cumhurbaşkanı olmasa bile kontrolsüz üreyen mülteciler yakın gelecekte nüfus olarak avantajlı duruma gelecek ve bu kalabalığı arkasına almak isteyen siyasilerin iştahını kabartacaklardır.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "bir suriyelinin gelecekte cumhurbaşkanı olması",
+      "entry_id": "142967650",
+      "author": "dur arkandan su dokeyim",
+      "date": "21.09.2022 15:57",
+      "content": "olmaz belki belediye başkanı olur ama cumhurbaşkanı olmaz. eğer öyle bir sey olsaydı önce hdpli biri başkan olur. o bile henüz imkansız.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "bir suriyelinin gelecekte cumhurbaşkanı olması",
+      "entry_id": "142967792",
+      "author": "tarator1",
+      "date": "21.09.2022 16:01",
+      "content": "türkiye cumhuriyeti'nin bitmiş olmasıdir.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "bir suriyelinin gelecekte cumhurbaşkanı olması",
+      "entry_id": "142968025",
+      "author": "anani siken kadi",
+      "date": "21.09.2022 16:07",
+      "content": "ondan önce arap devletleri türkiye'deki arap nüfusunu bahane ederek anadolu'da hak iddia edecekler. nasıl rusya rus nüfusu bahane ederek balkan devletlerine çöküyor, o şekilde. zamanında hatay'ı nasıl aldıysak anadolu'yu da o şekilde kaptırmamız çok muhtemel. tarih de bizi vatanını ikram eden süzme enayi olarak yazar.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    }
+  ]
+}

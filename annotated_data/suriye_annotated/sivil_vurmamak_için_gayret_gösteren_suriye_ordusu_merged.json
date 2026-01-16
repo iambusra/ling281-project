@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:45:28.649491",
+    "total_entries": 2,
+    "input": "sivil vurmamak için gayret gösteren suriye ordusu",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "sivil vurmamak için gayret gösteren suriye ordusu",
+      "entry_id": "173393645",
+      "author": "odoriko",
+      "date": "07.03.2025 15:20 ~ 15:21",
+      "content": "esad rejiminden kalanlara karşı yapılan operasyonda sivil hedefi masallah yeryüzünden kazıyan ordudur.\nnokta(!) atışı mübarek...\n\nx linki",
+      "has_external_url": true,
+      "sentiment_numeric": 5,
+      "categories": [
+        "CRIME"
+      ]
+    },
+    {
+      "title": "sivil vurmamak için gayret gösteren suriye ordusu",
+      "entry_id": "173394427",
+      "author": "arma yann tiersen",
+      "date": "07.03.2025 15:59",
+      "content": "(bkz: ne izledim lan ben dedirten şeyler)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

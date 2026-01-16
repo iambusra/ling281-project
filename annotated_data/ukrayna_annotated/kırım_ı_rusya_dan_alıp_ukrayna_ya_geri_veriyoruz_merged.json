@@ -1,0 +1,86 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:10:58.224533",
+    "total_entries": 6,
+    "input": "kırım'ı rusya'dan alıp ukrayna'ya geri veriyoruz",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "kırım'ı rusya'dan alıp ukrayna'ya geri veriyoruz",
+      "entry_id": "41470696",
+      "author": "gencliginde metalci dovmus hikmet amca",
+      "date": "26.03.2014 16:36",
+      "content": "az önce başlatmış olduğum muhteşem kampanya. hazır ukraynalı kızlar rus erkeklerine vermeme kararı almışken, krizi fırsata çevirmenin zamanıdır ağalar. kılıcımı kalkanımı kuşandım sabiha gökçen'e doğru yola çıkıyorum birazdan. havaalanında görüşmek üzere.\n\nhttps://encrypted-tbn1.gstatic.com/…aqxennuyp_5jsyn",
+      "has_external_url": true,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "kırım'ı rusya'dan alıp ukrayna'ya geri veriyoruz",
+      "entry_id": "41470814",
+      "author": "generalduncan",
+      "date": "26.03.2014 16:41",
+      "content": "avaaz.org'da ya da change.org'da başlarsa oturduğum yerden mutlaka imza verip destekleyeceğim kampanya.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "kırım'ı rusya'dan alıp ukrayna'ya geri veriyoruz",
+      "entry_id": "41470854",
+      "author": "its a sign",
+      "date": "26.03.2014 16:43",
+      "content": "ak gençliğin katılmasını dinlediğim kampanya. mısır'da olmadı, suriye'de olmadı, artık nereye kadar? bari gidin kırım'da kendinizi gösterin. hadi aslanlarım. bütün parti olarak gidin!",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "kırım'ı rusya'dan alıp ukrayna'ya geri veriyoruz",
+      "entry_id": "41470856",
+      "author": "6 ustu bir mac 0 kadar abartmayalim",
+      "date": "26.03.2014 16:43",
+      "content": "(bkz: malı arap faik'ten aldık)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "kırım'ı rusya'dan alıp ukrayna'ya geri veriyoruz",
+      "entry_id": "41471354",
+      "author": "dergul",
+      "date": "26.03.2014 17:04",
+      "content": "bravo kapitano",
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "kırım'ı rusya'dan alıp ukrayna'ya geri veriyoruz",
+      "entry_id": "41471728",
+      "author": "somek kafali",
+      "date": "26.03.2014 17:20",
+      "content": "(bkz: kırım'da tatar nüfusunu arttırmanın yolları)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    }
+  ]
+}

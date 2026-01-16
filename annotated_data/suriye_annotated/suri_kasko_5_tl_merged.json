@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:45:45.818324",
+    "total_entries": 1,
+    "input": "suri kasko 5 tl",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suri kasko 5 tl",
+      "entry_id": "93124560",
+      "author": "imtherapy",
+      "date": "27.07.2019 00:14",
+      "content": "bağcılarda bolca bulunan suriye kökenli insanımsıların oluşturduğu çalışma sloganı",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    }
+  ]
+}

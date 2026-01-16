@@ -1,0 +1,49 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:27:56.174615",
+    "total_entries": 3,
+    "input": "türk botu batarken gülen ruslar",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türk botu batarken gülen ruslar",
+      "entry_id": "67445424",
+      "author": "arpadam kaymakpuruzu",
+      "date": "13.04.2017 18:19 ~ 18:20",
+      "content": "https://www.youtube.com/watch?v=yjqu4wkb6xq\n\nkaraktersiz rus denizcileridir. kendilerine refakat eden türk sg botunun peşinden gülmekteler. o kazada 3 şehit vermiştik.\n\nhttp://www.sozcu.com.tr/…botu-alabora-oldu-1354891/",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "türk botu batarken gülen ruslar",
+      "entry_id": "67445757",
+      "author": "arpadam kaymakpuruzu",
+      "date": "13.04.2017 18:38",
+      "content": "ösocu gerzeklerin salaklığıyla bir tutulmaktadır. ne olursa olsun orada insanlar var ve ölümle mücadele ediyorlar. bilmem anlatabildim mi?",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "türk botu batarken gülen ruslar",
+      "entry_id": "67445795",
+      "author": "cesur kavimlerin efendisi",
+      "date": "13.04.2017 18:39",
+      "content": "adamların karısını kızını mikersen olacağı buydu.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "SEXUAL"
+      ]
+    }
+  ]
+}

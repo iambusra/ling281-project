@@ -1,0 +1,61 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:51:30.791621",
+    "total_entries": 4,
+    "input": "suriyeli mültecilerin araç çalıp suriye'ye kaçması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeli mültecilerin araç çalıp suriye'ye kaçması",
+      "entry_id": "31712385",
+      "author": "sierra leone",
+      "date": "13.01.2013 00:45",
+      "content": "\" gprs cihazıyla\" takip edilir bu araçlar. akibetlerine bakılıp bakılıp iç çekilebilir.\n\nsilinirse diye caps .\n\ngazeteye bak çay demle amk. büyük harflerle yazmışlar üstelik. aqvjkvnjkfvnj",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyeli mültecilerin araç çalıp suriye'ye kaçması",
+      "entry_id": "31712406",
+      "author": "babamasoliimbananickaldirsin",
+      "date": "13.01.2013 00:47 ~ 00:49",
+      "content": "akıl mantık dışı bi olaydır efendim.. türkiye,suriye schengen e dahil değildi son hatırladığımda.sınır diye bir şey yok mu orada kontrol edilmez mi kiralama belgeleri vs.? bilen birileri açıklasa da ..\n\nedit: sınır teli kesilerek imiş tamam",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyeli mültecilerin araç çalıp suriye'ye kaçması",
+      "entry_id": "31712423",
+      "author": "virta",
+      "date": "13.01.2013 00:48",
+      "content": "akpli gençler tarafından nasıl karşılandığını merak ettiğim olay.\n\n(bkz: acıma yetime döner koyar götüne)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyeli mültecilerin araç çalıp suriye'ye kaçması",
+      "entry_id": "31712854",
+      "author": "humanist cellat",
+      "date": "13.01.2013 01:17",
+      "content": "yalan haberdir. bir şey çalındıysa onu zalim, eli kanlı, dakka dukka esed'in adamları yapar. özgür suriyeli kardeşlerimizin çalmasına ne gerek var ülkemiz onlara çalışıyor şu an hamd olsun. alsın götürsünler istediklerini hazır sınır karagöz perdesi olmuş iken.",
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "HUMAN",
+        "HUMAN-POS"
+      ]
+    }
+  ]
+}

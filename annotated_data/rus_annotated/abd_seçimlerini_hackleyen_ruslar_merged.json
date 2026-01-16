@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:27:56.852027",
+    "total_entries": 1,
+    "input": "abd seçimlerini hackleyen ruslar",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "abd seçimlerini hackleyen ruslar",
+      "entry_id": "65158405",
+      "author": "evelemegeveleme",
+      "date": "30.12.2016 00:41",
+      "content": "şu iki kişi olduğunu açıklamışlar.\n\nhttps://twitter.com/…njm1/status/814547958628814848\n\nbenim anlamadığım, abd; rus hackerların seçimi sabote ettiğine bu kadar eminse,\nneden seçimler iptal olmuyor?\n\nbiri açıklar umarım.",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CRIME",
+        "POLICY"
+      ]
+    }
+  ]
+}

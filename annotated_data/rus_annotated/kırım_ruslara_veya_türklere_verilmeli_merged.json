@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:30:15.172634",
+    "total_entries": 1,
+    "input": "kırım ruslara veya türklere verilmeli",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "kırım ruslara veya türklere verilmeli",
+      "entry_id": "9628680",
+      "author": "brownie",
+      "date": "02.06.2006 15:49",
+      "content": "jirinovski nin duma da patlattığı son bombasi; kirim in 1954 yilinda ukrayna ya hediye edildiğinden bahisle, kucuk kaynarca anlasmasi na gore ruslar bir sekilde kırımdan çekilirlerse burayi turklere iade etmek zorunda imiş.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "POLICY"
+      ]
+    }
+  ]
+}

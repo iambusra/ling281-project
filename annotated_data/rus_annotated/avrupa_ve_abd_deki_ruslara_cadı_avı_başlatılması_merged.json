@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:29:23.735975",
+    "total_entries": 1,
+    "input": "avrupa ve abd'deki ruslara cadı avı başlatılması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "avrupa ve abd'deki ruslara cadı avı başlatılması",
+      "entry_id": "134367317",
+      "author": "je suis gainsbourg",
+      "date": "01.03.2022 14:46",
+      "content": "cidden düşündüren bir durum. joseph mccarthy dirilmiş gibi bir ortam mevcut batı'da şu an. savaş başından beri batı'daki ruslara yapılanları okursanız demek istediğimi anlarsınız. meğer o insan hakları, ayrımcılığa karşı yasalar, liberal düşünce falan aslında hepsi pamuk ipliğine bağlı. bu savaşla bunu anladık.\n\nrusya'daki ruslar da dahil eminim rusların epey ezici çoğunluğu bu savaşa karşılar çünkü bu olacakları bilmelerinin yanı sıra savaşın oyun olmadığını da çok iyi biliyorlar. rusya beklenenden çok daha fazla zayiat veriyor, dökülüyor.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY",
+        "HUMAN"
+      ]
+    }
+  ]
+}

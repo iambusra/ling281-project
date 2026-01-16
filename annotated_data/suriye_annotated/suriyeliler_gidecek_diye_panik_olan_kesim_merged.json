@@ -1,0 +1,26 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:54:48.404412",
+    "total_entries": 1,
+    "input": "suriyeliler gidecek diye panik olan kesim",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeliler gidecek diye panik olan kesim",
+      "entry_id": "170884324",
+      "author": "faytonfayt",
+      "date": "09.12.2024 20:32",
+      "content": "partili olmayan tehlikeli kesim.\n\npartili olmayan derken parti ve siyasetten ziyade daha çok para, daha çok menfaat peşinde olan, çok çalışmadan kazanmayı ve devleti kazıklamayı şiar edinmiş tipler.\n\n- ev ve dükkan sahipleri: suriyeliler gidince mülk arzı artacağı için kiralar düşecek. suriyelilere ev vermeyenler dahi bu yüzden suriyeliler gitsin istemiyor. yoksa 10 binlik evi 30 bine nasıl verecekler.\n\n- emlakçılar: yukarıdaki sebepten ötürü komisyonları düşecek.\n\n- sigortasız işçi çalıştıranlar: sigortasız suriyeli işçi çalıştıran büyük küçük tüm işletmeler. suriyeliler gidince sigorta yapmak zorunda kalacaklar.\n\n- fuhuş baronları: sermayesi insan bedeni olan bu kansızlar savaştan kaçan kadın akışının kesilmesini istemiyor.\n\n- insan kaçakçıları: başka işleri kalmayacak.\n\n- terör örgütleri: başıboş amaçsız insanlar örgütlerin 1 numaralı insan kaynağıdır. dem ve vb partiler bu yüzden panik halinde.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "ECON"
+      ]
+    }
+  ]
+}

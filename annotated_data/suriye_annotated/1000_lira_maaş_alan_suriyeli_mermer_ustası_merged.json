@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-10T23:33:31.961897",
+    "total_entries": 1,
+    "input": "1000 lira maaş alan suriyeli mermer ustası",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "1000 lira maaş alan suriyeli mermer ustası",
+      "entry_id": "44246482",
+      "author": "virta",
+      "date": "15.07.2014 21:33",
+      "content": "apk'nin çapsız dış politikası sonucunda dara düşmüş insandır. ama rte bağırıyo konuşurken, uzun bir de, o yüzden sorun yok.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,786 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T15:34:12.355149",
+    "total_entries": 62,
+    "input": "almanya'nın suriyelileri sınırdışı etmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "almanya'nın suriyelileri sınırdışı etmesi",
+      "entry_id": "94124488",
+      "author": "nucboy",
+      "date": "19.08.2019 01:34",
+      "content": "asıl başlık: almanya'nın tatil için memleketine giden suriyelileri sınır dışı etmesi olacaktı.\n\nkaynak\n\nbild am sonntag gazetesine konuşan seehofer, “suriyeli sığınmacı statüsünü taşırken düzenli olarak tatil için suriye’ye gidenler orada zulüm gördüğünü söylemekte ciddi olamaz” diye açıkladı.\nbu sorunun öncelikle suriyelileri ilgilendirdiğini dile getiren alman bakan, ama diğer yabancıların da memleketlerine gittiği öğrenilmesi durumunda sığınmacı statüsünün gözden geçirileceğini kaydetti.\n\nseehofer, “durumun müsait olduğunda” tüm suriyeli sığınmacıları sınır dışı edeceklerini hatırlattı.\n\nbenzer bir şeyi bizimkiler de yapamaz mı acep? durumun müsait olduğunda ile ne demek istemiş ki? kötü çeviri heralde.",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "almanya'nın suriyelileri sınırdışı etmesi",
+      "entry_id": "94129758",
+      "author": "eskibirev",
+      "date": "19.08.2019 07:13",
+      "content": "almanlar ellerinde kalan son suriyelileri de bize iteleyecekler yine.bunlar için de birkaç yüz euro verirler herhalde.bizimkiler sever çorba parası almayı.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "almanya'nın suriyelileri sınırdışı etmesi",
+      "entry_id": "94195781",
+      "author": "technomevo",
+      "date": "20.08.2019 15:08",
+      "content": "ben yıllık izin kullanıp tatile gidemiyorum adamlar sığınmacı statüsünde tatile gidiyor.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "almanya'nın suriyelileri sınırdışı etmesi",
+      "entry_id": "94200188",
+      "author": "abozkurtb",
+      "date": "20.08.2019 17:02 ~ 17:03",
+      "content": "demokrasi, sen ne güzel bir olgusun. konuş konuş, buralara da essin bu rüzgar.\n\ntanım; sürekli memleketine gidip, ortamlarda sığınıyorum diyenleri, ülkelerine postalayacaklarmış.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "almanya'nın suriyelileri sınırdışı etmesi",
+      "entry_id": "94200242",
+      "author": "rising star of anatolia",
+      "date": "20.08.2019 17:03",
+      "content": "almanya'nın neden dünyanın en büyük ülkelerinden biri olduğunu gözümüze gözümüze vuran oldukça mantıklı bir olaydır. adam ne demiş?\n\n--- spoiler ---\n\n“suriyeli sığınmacı statüsünü taşırken düzenli olarak tatil için suriye’ye gidenler orada zulüm gördüğünü söylemekte ciddi olamaz”\n--- spoiler ---\n\ne haksız mı? normal bir ülke bunu yapmalı zaten. adam, ülkemde hayati tehlikem var, diye baska ülkeye sığınıp oranın etinden sütünden yararlanacak ama bayramda \"hayati tehlike yaşadığını iddia ettiği\" ülkeye ziyarete gidecek.\n\nhani la senin can güvenliğin yoktu ülkende?",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "almanya'nın suriyelileri sınırdışı etmesi",
+      "entry_id": "94200785",
+      "author": "vurguncular",
+      "date": "20.08.2019 17:19",
+      "content": "bu sefer biz almanları kıskandık\n\numarım bize doğru sınır dışı etmiyorlardır,\nkorkarım bize doğru sınır dışı ediyorlardır.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "almanya'nın suriyelileri sınırdışı etmesi",
+      "entry_id": "94437592",
+      "author": "reyhanlili",
+      "date": "25.08.2019 21:27",
+      "content": "gerçek bir (bkz: devlet) ve\n(bkz: muz cumhuriyeti) arasındaki farkları net bir şekilde görebileceğiniz uygulamadır.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "almanya'nın suriyelileri sınırdışı etmesi",
+      "entry_id": "94438248",
+      "author": "gravewalker",
+      "date": "25.08.2019 21:42",
+      "content": "akilli insan ulkesine dilenci, tinerci vs. gibi insan musveddesi almaz zaten. bizim gibi kerizlere kakalarlar.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "almanya'nın suriyelileri sınırdışı etmesi",
+      "entry_id": "117462335",
+      "author": "umbra",
+      "date": "28.12.2020 13:45",
+      "content": "darısı ülkemizin başına. yalnız böyle bir kararı türkiye almış olsa ilk kınayan ve yaptırım tehditinde bulunan da almanya olur. çok ironik değil mi?",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "almanya'nın suriyelileri sınırdışı etmesi",
+      "entry_id": "117462384",
+      "author": "eminmisin ki",
+      "date": "28.12.2020 13:46",
+      "content": "hayırlı olsun hepsi türkiye'ye gelir şimdi.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "almanya'nın suriyelileri sınırdışı etmesi",
+      "entry_id": "117462406",
+      "author": "oteberidegil",
+      "date": "28.12.2020 13:47",
+      "content": "suriye devlet başkanı, onun abisi rusya devlet başkanı ve türkiye hariç tüm ülkeler''allah aşkına, geri dönün. savaş bitti amk! ülkeyi yeniden inşa ediyoruz.'' diye uyarılarda bulunmasına rağmen bunu dikkate almayan suriyelilere yönelik yaptırımdır.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "almanya'nın suriyelileri sınırdışı etmesi",
+      "entry_id": "117462416",
+      "author": "phenomenon",
+      "date": "28.12.2020 13:47 ~ 14:00",
+      "content": "bakınız elin almanı nasıl da farkında \"suriyelileri göndermezsek hırsızlık, gasp, cinayet, tecavüz artacak\" diyor...\n\nbiz ise bırak göndermeyi; türkler iş bulamasın da millet suriyeli çalıştırsın diye asgari ücreti delicesine arttırıyoruz.\n\ntüm kamuoyuna buradan aleni bir şekilde duyuruyorumdur ki;\n\nben almanya'yı kıskanıyorum arkadaş! deli gibi kıskanıyorum...\n\ndünyalar tatlısı sevgilisi kendisini terk edecekmiş gibi gelen varoş barzolar gibi kıskanıyorum... biricik oğluşu evlenmiş de gelinin sözünden çıkmaz olup siniri bozulan erkek anası gibi kıskanıyorum... marul kemiren veganın karşısında pirzola yiyeni kıskandığı gibi kıskanıyorum...",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "almanya'nın suriyelileri sınırdışı etmesi",
+      "entry_id": "117462465",
+      "author": "nonameone",
+      "date": "28.12.2020 13:49",
+      "content": "ordan kovulan da bize gelir. öyle güzel politikamız var ki mevlana gibi kim gelirse gelsin kabul ediyoruz.",
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "POLICY",
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "almanya'nın suriyelileri sınırdışı etmesi",
+      "entry_id": "117462492",
+      "author": "travenian",
+      "date": "28.12.2020 13:50 ~ 18:57",
+      "content": "adamlarda dosyalar var ya.\n\nbaya mülteci kimdir . necidir. nerden geldi. ne tür özelliklere sahip. geçmişi nedir. geldiğinden bu yana verilen kurslarda (evet evet adamlar dil kursu veriyor, entagrasyon kursu veriyor veriyor allah veriyor) ne tür sonuçlar almış. gözlemciler (evet adamlar düzenli olarak denetliyor teftiş ediyor göçmenleri) ne tür raporlar vermişler.\n\ngelen mülteci ne tür sosyal faailiyetlerde bulunmuş herhangi bir illegal yapılanma içinde mi .\n\nailesi ve çocukları ortama uyum sağlamış mı .\n\nhepsi var bu dosyalarda.\n\naçıp bakıyor ve ona göre karar veriyorlar.\n\nbizim çapsız siyasal islamcılar da açtılar kapıları. milyonlarca suriyeliyi doldurdular ülkeye. kim nerde ne iş yapar ne haldedir allaha emanet.\n\nalmanyanın sınır dışı ettiklerini de koşa koşa biz alırız. eeee din kardeşi (!) nede olsa.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "almanya'nın suriyelileri sınırdışı etmesi",
+      "entry_id": "117462653",
+      "author": "dood",
+      "date": "28.12.2020 13:55",
+      "content": "adamlar yeri yurdu belli dosyasi filan olanlari geri gonderiyor.\n\nbizim burda ak partinin saldim cayira mevlam kayira yaptiklari milyon tane suriyelilerin kimi nerde ne yapiyor terorist mi vs belli olmayanlari isteseler bile bulup gonderemezler.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "almanya'nın suriyelileri sınırdışı etmesi",
+      "entry_id": "117462665",
+      "author": "alischme",
+      "date": "28.12.2020 13:55",
+      "content": "bence işsiz saçma sapan hangi milletten varsa atıversinler, devlet beleşçilere para ödemesin.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "almanya'nın suriyelileri sınırdışı etmesi",
+      "entry_id": "117463023",
+      "author": "tikibello",
+      "date": "28.12.2020 14:06",
+      "content": "sayın almanya içişleri bakanı horst seehofer \"bunu yapmazsak almanya’da sınır dışı edilme ihtimali göz önüne alınmadan mağaza hırsızlığından adam öldürmeye kadar her şeyin yapılabileceği anlamına gelir\" demişsiniz. gerçeği dile getirip söyleyin. müslüman oldukları için sınır dışı ediyorsunuz değil mi? bize yollayın. din!!! kardeşlerimize biz bakarız!!!",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "almanya'nın suriyelileri sınırdışı etmesi",
+      "entry_id": "117463722",
+      "author": "ideadumpster",
+      "date": "28.12.2020 14:26",
+      "content": "hani onlar bizi kıskanıyordu?\nkıskandıran harekettir.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "almanya'nın suriyelileri sınırdışı etmesi",
+      "entry_id": "117463738",
+      "author": "infected brain",
+      "date": "28.12.2020 14:27",
+      "content": "ya bu dünya ve tarih binlerce kez göç olayı gördü ve yaşadı. binlerce savaş veya iç savaş oldu. soykırımlar oldu. ama hiç biri bu suriyede ki gibi olmadı. adamlar bombardıman altında kalıyorlar. almanya bunları kabul edip kurtarıyor. ülkesine alıyor. yiyecek, su, barınak veriyor. daha 2 gün geçmeden noelde sokaklara çıkıp kızları taciz ediyorlar. taşkınlık yapıyorlar. la bir durun yav.!! ben allah muhafaza. böyle bir ortamdan kurtulsam şükür eder en az 1 ay kendime gelemem. içtiğim her suya, yediğim her yemeğe, yaşadığım her güne şükür ederim.\nya bu ülkeye osmanlıdan beri çok göç geldi.\nyahudiler geldi, balkanlardan türkler geldi.\npolonyadan bile gelenler oldu. afganlar geldi. kaynaşıp sessiz sedasız oturdular. hatta iş kurdular. amarika yeni kıtaya irlandalılar, italyanlar falan göç etti orada bir yer edindiler. katkıda bulundular. dünyanın çoğu bölgesine göç eden yahudiler de keza öyle.\nama bu suriyeliler çok ayrı bir şey.!!\nalmanyada onlarca ülkeden gelen insanlar var. neden sadece suriyeliler? bir düşünün.\nmesela almanyada yüz binlerce türk aile var. neden sadece 1 türk aileyi sınır dışı ediyor?\nişin şu yönüde var. avrupada az da olsa radikal sağ ırkçı partiler yükseliyor. çifte vatandaşlığın iptal edilmesi gibi yaptırımlar yavaş yavaş başlıyor.\nbakalım sonu nereye varacak.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "almanya'nın suriyelileri sınırdışı etmesi",
+      "entry_id": "117463790",
+      "author": "sonnenuntergang",
+      "date": "28.12.2020 14:29",
+      "content": "almanya'nın şimdi de suriye'yi kıskanması durumunu işaret eder..\nbu kadar kıskanacak ne vardı ki?",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "almanya'nın suriyelileri sınırdışı etmesi",
+      "entry_id": "117464116",
+      "author": "droltr",
+      "date": "28.12.2020 14:38",
+      "content": "t: almanya sınırdışı edince biz de etmiş sayılacak mıyız diye düşündüren eylem.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "almanya'nın suriyelileri sınırdışı etmesi",
+      "entry_id": "117464230",
+      "author": "o felix",
+      "date": "28.12.2020 14:40",
+      "content": "yanlış anlaşılmış haberdir. ortada haberden anladığım kadarıyla geri gönderme durumu yok, almanya’ya iltica edip suç işleyenlerin sınırdışı edilmesi var. bu da zaten kaçınılmaz bir şey, gevşek davranma niyetinde olmadığını belirtmiş alman hükümeti.\n\nbu noktada da en çok sivil toplum örgütleri karşı çıkıyorlar. vaka bazında, farklı farklı durumlarla karşılaşılabiliyor çünkü. bu da işlemleri yavaşlatıyor. yoksa yüzbinlerce suriyeli trenlere doldurulup ülkesine gönderilmiyor yani.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "almanya'nın suriyelileri sınırdışı etmesi",
+      "entry_id": "117465002",
+      "author": "pinksunset",
+      "date": "28.12.2020 15:05 ~ 15:06",
+      "content": "akıllı millet... misler gibi disiplin ve kararlar... bi de bize bak... aaah ah...",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "almanya'nın suriyelileri sınırdışı etmesi",
+      "entry_id": "117465127",
+      "author": "socialfish",
+      "date": "28.12.2020 15:08",
+      "content": "sınırdışı işleminin hangi ülkeye doğru yapıldığı önem arz etmektedir. örneğin, almanya'dan suriye'ye mi yoksa ab - türkiye mülteci iadesi anlaşması uyarınca türkiye'ye mi sınır dışı edileceklerdir? bildiğim kadarıyla suriye'ye halen uluslararası uçuşları yapılmıyor. o halde ihale yine bize kalıyor. bu arada biz de bu sene başında yunanistan'a doğru sınırları açmıştık. sahi ne oldu o iş? (bkz: swh)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "almanya'nın suriyelileri sınırdışı etmesi",
+      "entry_id": "117465791",
+      "author": "issox",
+      "date": "28.12.2020 15:29",
+      "content": "sadece almanya'nın değil, başta vatandaşlarının huzurunu korumak için, tüm ülke devletlerinin yapması gereken eylemdir.\n\nayrıca, sadece suriyeliler'e değil, sığınmacı olarak gelip de ülkesinde düzeni bozmaya çalışan her milletin vatandaşına.\n\ntebrikler",
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "POLICY",
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "almanya'nın suriyelileri sınırdışı etmesi",
+      "entry_id": "117466209",
+      "author": "sagliginiz icin",
+      "date": "28.12.2020 15:42",
+      "content": "(bkz: yarrağı yedik)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "almanya'nın suriyelileri sınırdışı etmesi",
+      "entry_id": "117466328",
+      "author": "prof dr who",
+      "date": "28.12.2020 15:45",
+      "content": "ucu bize dokunacak hadisedir.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "almanya'nın suriyelileri sınırdışı etmesi",
+      "entry_id": "117466517",
+      "author": "goriandrey",
+      "date": "28.12.2020 15:51",
+      "content": "vatandaşını düşünen bir ülkenin yaptığıdır.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "almanya'nın suriyelileri sınırdışı etmesi",
+      "entry_id": "117466862",
+      "author": "yordun beni ilham perisi",
+      "date": "28.12.2020 16:02",
+      "content": "türkiye'de \"sınıra duvar öreceğim, parasını da suriye ödeyecek\" diyenin seçim kazanma olasılığı giderek artıyor.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "almanya'nın suriyelileri sınırdışı etmesi",
+      "entry_id": "117467194",
+      "author": "xxijji",
+      "date": "28.12.2020 16:13",
+      "content": "mesnevinin senelerce bu ülkeyi zehirlemesinden kaynaklı oldukça zarar görmekteyiz.(bkz: suriyeliler) neden sürekli mazlumun yanında olmak zorunda hissediyor ve kendimize eziyet ediyoruz sorusunun cevabı olarak geçmektedir.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "almanya'nın suriyelileri sınırdışı etmesi",
+      "entry_id": "117467223",
+      "author": "wrath of kane",
+      "date": "28.12.2020 16:14",
+      "content": "hani kimse suriyelileri gönderemezdi, artık çok geçti? boş boş konuşursunuz işte. her ülke suriyelileri savaş bitimine kadar ülkeye aldı, gönderme hakkı var. uluslararası hukuku öğrenin.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "almanya'nın suriyelileri sınırdışı etmesi",
+      "entry_id": "117467561",
+      "author": "aprewday",
+      "date": "28.12.2020 16:25",
+      "content": "almanya da 1 milyon suriyeli varsa ve bunları göndermeyi kafasına koymuşsa 1 milyonunu da geri gönderir bizdeki gibi saldım çayıra bırakmadı surilerin günde kaç kere tuvalete gittikleri bilgisine bile hakimlerdir.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "almanya'nın suriyelileri sınırdışı etmesi",
+      "entry_id": "117467623",
+      "author": "noname3467",
+      "date": "28.12.2020 16:27",
+      "content": "suriyelilerin, afganların, ıraklısının ülkelerindeki savaş, kötü yaşam koşulları vs sorunları ne almanya nın ne türkiye nin sorunudur.\nsavaşı var diye ülkemize doluşup köpek gibi ürüyorlar, neden her suriyeli vatandaşa türk hükümeti bakıyor.\nsavaş sorunlarına yapılan iyilikten maraz doğdu.\nne ülkeler nede göç eden her vatandaş böyle rahat hareket etmemeli.\nsuriyeliler almanya ya gittiler oranından da düzenini bozdular.\nalmanyada havuzda yaşanan skandalı biliyorsunuz.\nben ülkemde 8-9 milyon kafasına göre elini kolunu sallayarak gelen ıraklı suriyeli afgan istemiyorum.\nsavaşı olan olmayan herkes gelmesin ülkemize. gelenlerin uzun vadede başımıza açacakları sorunları bile bilemiyoruz.\nekonomimizi zaten çökerttiler.\nbu kadar çok akın akın gelen her göçmene karşıyım.\nsavaş var geldiler yok yine geldiler, afganlarda elini kolunu sallayarak istanbula geliyorlar.\nafganın hiçbir eğitimi vasfı olmayanın istanbulda ne işi var!!!\nyeter artık cidden!\nalmanyadan sonra darısı bizim başımıza!",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "almanya'nın suriyelileri sınırdışı etmesi",
+      "entry_id": "117467632",
+      "author": "bidbadbrutus",
+      "date": "28.12.2020 16:27",
+      "content": "adamlar oradan oraya yeter da",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "almanya'nın suriyelileri sınırdışı etmesi",
+      "entry_id": "117468001",
+      "author": "fbd",
+      "date": "28.12.2020 16:39",
+      "content": "ben en çok suç işleyebilecek suriyelileri nasıl elimizden kaçırıp almanyaya göndermişiz ona şaşırıyorum.\nhalbuki bu işin başlarında eğitimli,parası,mesleği olanları yollayıp kalanları dağıtmıştık ülkemizin dört bir yanına.demek ki arada kaçırdıklarımız olmuş,kusura bakmasınlar.\nzaten bizde de suç işleniyor suriyeliler mi gözünüze batıyor diyenlerin sayesinde ülke doldu taştı bunlarla.\nbüyük ülkeler nitelikli,yasalara saygılı insan sayısını artırmaya bakarken biz battı balık yan gider diyerek gelsinler diyoruz.\nama sorsan almanyanın durumu çok kötü bizi kıskanıyor.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "almanya'nın suriyelileri sınırdışı etmesi",
+      "entry_id": "117468133",
+      "author": "holdsnocurrency",
+      "date": "28.12.2020 16:43",
+      "content": "iyi yapmışlar diyenler yarın almanlar aynısını türklere yapınca ne diyecek çok merak ediyorum.\n\nama evet, darısı türkiye’nin de başına",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "almanya'nın suriyelileri sınırdışı etmesi",
+      "entry_id": "117468250",
+      "author": "olmayanadam45",
+      "date": "28.12.2020 16:48",
+      "content": "almanya'nın 2021'de suriyelileri sınır dışı etmesi",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "almanya'nın suriyelileri sınırdışı etmesi",
+      "entry_id": "117468479",
+      "author": "plonaj",
+      "date": "28.12.2020 16:56",
+      "content": "surili kardeşlerimiz rahat olsunlar, her türlü iti kopuğu, puştu, katili alan ve dünyanın kıskandığı bir devlet var.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POLICY",
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "almanya'nın suriyelileri sınırdışı etmesi",
+      "entry_id": "117468480",
+      "author": "justin mcleod",
+      "date": "28.12.2020 16:56",
+      "content": "almanya'daki suriyeler alman vatandaşlığına geçirilmediği için zaten en başta bu şartlar altında ülkede tutuldular. türkiye'deki suriyelilerin ise neredeyse tamamına yakını oy potansiyeli yüzünden türk vatandaşlığı aldı. yani kendi vatandaşını sınırdışı edemezsin hepi topu 300 binini belki.\nsiyasal islamcılar bu ülkenin kanseridir.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "almanya'nın suriyelileri sınırdışı etmesi",
+      "entry_id": "117468877",
+      "author": "duspa",
+      "date": "28.12.2020 17:10",
+      "content": "bizimki gibi ülkeyi yönetenlerin anayasayı sallamadığı topraklarda karşılığı olmayan eylemdir. düşünsene, göçmen veya mültecinin birine gidip diyorsun;\n\n-sizi sınır dışı etmek zorundayız.\n\n+neden?\n\n-çünkü anayasaya uymuyorsunuz.\n\n+hangi anayasa?",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "almanya'nın suriyelileri sınırdışı etmesi",
+      "entry_id": "117469031",
+      "author": "acukta baga vir",
+      "date": "28.12.2020 17:15",
+      "content": "itiraf ediyorum almanları kıskanıyorum. mercedes bmw audi vw adamlarda, bosch würth grundig siemens adidas adamlarda, weihenstephan kölsch schneider weisse adamlarda pandemide en başarılı ülke üstüne aşıyı da bunlar buldu. yetmedi mi bayern munchen, borussia dortmund adamlarda. gelelim hatunlara.. sarışın beyaz tenli balık etli -avrupa'nın en büyük memeli hatunları- da alman hatunları. daha nolsun bi an alman olduğunu düşün ya. kapıda mercedes. pandemi var çıkamıyorum mu diyorsun yoo çıkarsın aşı sende. canın çıkmak istemedi mi evde 95 beden memeleriyle sevişken bi alman hatunu dön eve başla sekse. seks bitti aldın duşunu açtın biranı geçtin tv karşısına bayern munih gene birilerine 7 tane atmakla meşgul hayata bak aq.\n\nşu fotoda arkadaki mavi gömlekli itin mutluluğuna bak. alman amk o mutlu olmasın da ben mi mutlu olayım türkiye'de. havalimanları biraz eski ama çatır çatır çatlıyorum kıskançlıktan.",
+      "has_external_url": true,
+      "sentiment_numeric": 4,
+      "categories": [
+        "XENO",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "almanya'nın suriyelileri sınırdışı etmesi",
+      "entry_id": "117469114",
+      "author": "ncyigit",
+      "date": "28.12.2020 17:17",
+      "content": "ahanda başımıza kaldılar...\n\n\"suriyeli kardeşlerimize 52 milyar dolar harcadık daha da harcayacağız..\"\n(asgari ücretle yada 2000 tl maaş alan emekli topluluğu alkış üstüne alkış)\n\"suriyeli din gardaşlarımızı yüzüstü mü bırakacağız..sarılalım..\"\n(sarılalım derken suriyeli gardaşı arkaya geçip 3 puan alır)\nammqqq almanyası yine bizi gısganıyor..",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "ECON"
+      ]
+    },
+    {
+      "title": "almanya'nın suriyelileri sınırdışı etmesi",
+      "entry_id": "117469539",
+      "author": "rockergirlikeblue",
+      "date": "28.12.2020 17:31",
+      "content": "buraya gelirlerse şaşmam meksika duvarı falan lazım herhalde.d",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "almanya'nın suriyelileri sınırdışı etmesi",
+      "entry_id": "117469569",
+      "author": "bizgeldim",
+      "date": "28.12.2020 17:32",
+      "content": "sınır dışından buraya doğura doğura gelirler artık.hadi gözümüz aydın.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "almanya'nın suriyelileri sınırdışı etmesi",
+      "entry_id": "117469691",
+      "author": "dualsaber",
+      "date": "28.12.2020 17:36",
+      "content": "sınır dışı edilenler saniyormusunz ki suriyeye geri dönecekler. adamlari suriyeye gondersen de bizim folloşa dönen dogu sinir kapisindan aynen turkiyeye. hatta o kadar uğraşmaya bile gerek yok oy kaygisindaki hukumet sinir disi edilenleri direkt ulkeye alacak.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY",
+        "XENO"
+      ]
+    },
+    {
+      "title": "almanya'nın suriyelileri sınırdışı etmesi",
+      "entry_id": "117469693",
+      "author": "lucklucki",
+      "date": "28.12.2020 17:36",
+      "content": "zeki olduklarinin gostergesidir.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "almanya'nın suriyelileri sınırdışı etmesi",
+      "entry_id": "117469922",
+      "author": "biruzakanadolugenci",
+      "date": "28.12.2020 17:43",
+      "content": "adamlar suç işleyen yabancıyı sınır dışı ediyorlar. bizde ise normal vatandaş suç işleyerse 2 yıl denetim veriliyor. suriyeli suç işlerse 3 yıl. yani senin mahkum olacağın, hapis yatacağın bir suçtan adam hapis yatmadan kurtuluyor.\nbende almanya'nın yerinde olsam bizi kıskanırdım. yani kendi halkına böyle birşey yapmana rağmen nasıl vatandaş ülkesinii yakıp yıkmıyor, ülkesini ne kadar da seviyor insanlar diye.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "CRIME"
+      ]
+    },
+    {
+      "title": "almanya'nın suriyelileri sınırdışı etmesi",
+      "entry_id": "117470331",
+      "author": "pohyiyen",
+      "date": "28.12.2020 17:57",
+      "content": "apertheid rejimi yıkıldıktan sonra nelson mandela ülkede siyahi nüfus artsın da nasıl artarsa artsın sonrasına sonra bakarız diyerek sınırları sonuna kadar açmıştı. sonuç olarak milyonlarca kişi ülkeye doluştu. güney afrika suç oranları en yüksek ülkeler arasında liderliğe oynuyor şimdi. bugün de ülkedeki şeriatçı nüfus artsında nasıl artarsa artsın denilerek ülkeye arap afgan paki dolduruluyor. sonuçlarını 10, 20 yıl sonra göreceğiz ve hiçte hayırlı olmayacak gibi.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "almanya'nın suriyelileri sınırdışı etmesi",
+      "entry_id": "117470409",
+      "author": "7714714",
+      "date": "28.12.2020 17:59",
+      "content": "parasını verseler akp hepsini alır",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "almanya'nın suriyelileri sınırdışı etmesi",
+      "entry_id": "117470715",
+      "author": "baskabaska",
+      "date": "28.12.2020 18:10",
+      "content": "sanki oradan cikan suriyeliler ulkesine donecekmis gibi entry girenler olmus. hayirli olsun yeni suriyelilerimiz:)",
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "HUMAN",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "almanya'nın suriyelileri sınırdışı etmesi",
+      "entry_id": "117470929",
+      "author": "haalenahmet",
+      "date": "28.12.2020 18:18",
+      "content": "türkiye’ye hoşgeldiniz",
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "HUMAN",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "almanya'nın suriyelileri sınırdışı etmesi",
+      "entry_id": "117471378",
+      "author": "ackesman",
+      "date": "28.12.2020 18:32",
+      "content": "her ne kadar surilerdem usandıysam şu sözü tekrar edilecek gibi\nilk koministeleri aldılar sesim çıkmadı kominist değildim sonra yağudileri sesim çıkmadı yağudi değildim... diye devam eden sözdür\nbir bakmışınız ilk suriler sonra türkler sonra slavları göndrrmişler....",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "almanya'nın suriyelileri sınırdışı etmesi",
+      "entry_id": "117471424",
+      "author": "swat tr",
+      "date": "28.12.2020 18:34",
+      "content": "almanya kadar olamıyoruz. adamlar kendi vatandaşları için kimsenin gözünü yaşına bakmıyor zaten olması gereken de budur. sen ülkende rahat durma iç savaş çıkar yoksa esat bizi vuruyor. esat hepinizin anasını siksin.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "almanya'nın suriyelileri sınırdışı etmesi",
+      "entry_id": "117473351",
+      "author": "ferryporsche",
+      "date": "28.12.2020 19:32",
+      "content": "bize gönderin bir 30 milyar dolar harcadık bir 30 milyar daha harcarız inşallah bizim ülkemize gönderirler",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "almanya'nın suriyelileri sınırdışı etmesi",
+      "entry_id": "117473995",
+      "author": "besyaprakliyonca",
+      "date": "28.12.2020 19:50",
+      "content": "almanya sınırdışı edince biz de etmis sayılsak edebilsek keşke.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "almanya'nın suriyelileri sınırdışı etmesi",
+      "entry_id": "117476117",
+      "author": "hassiktirdiyoruz",
+      "date": "28.12.2020 20:40",
+      "content": "sinirlari tutun ve terketmeyin sayim bitmedi hala",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY",
+        "XENO"
+      ]
+    },
+    {
+      "title": "almanya'nın suriyelileri sınırdışı etmesi",
+      "entry_id": "117476278",
+      "author": "societty",
+      "date": "28.12.2020 20:44",
+      "content": "bizimkiler de ırkdaşlarımızı sınırdışı eder. bat dünya bat!",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY",
+        "XENO"
+      ]
+    },
+    {
+      "title": "almanya'nın suriyelileri sınırdışı etmesi",
+      "entry_id": "117477532",
+      "author": "abrecinp",
+      "date": "28.12.2020 21:12",
+      "content": "t: kurallara uymayanların sınır dışı edileceğini belirten yazı.\n\nmantıklı olan da bu zaten. kurallara uymayanları sınır dışı edersin ama hepsini yollamak gibi saçma hayallere kapılmazsın. üniversitede okuyan çocuktan bile rahatsız olanlar var.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "almanya'nın suriyelileri sınırdışı etmesi",
+      "entry_id": "117477573",
+      "author": "zuleyman",
+      "date": "28.12.2020 21:13",
+      "content": "sorun değil sonunda onları da biz alırız dediğim haberdir.",
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "almanya'nın suriyelileri sınırdışı etmesi",
+      "entry_id": "117478070",
+      "author": "petitprinceofparis",
+      "date": "28.12.2020 21:25 ~ 21:38",
+      "content": "her millet, türk milleti gibi değildir. türk milleti, bir savaş tehlikesi ile yüz yüze geldiyse kaçmaz. savaşta esir düşüp o halde yaşamaktansa çarpışarak ölmeyi tercih eder. kadını, erkeği ve yaşı fark etmeksizin bu böyledir.\n\nsuriyeliler gittikleri ülkelere göçmen olarak gitmediler. güzide medyamızda bile hep \"düzensiz göçmen\" olarak adlandırıldılar. nitekim suriyeli komşularımız, savaşta çarpışmak ve çarpışırken ölmek yerine kaçmayı tercih ettiler. bu konuda yorum değil, sadece durum tespiti yapıyorum. nitekim beka durumunda ne yapılması gerektiğine dair herkes necip türk milleti gibi damarlarında asil kan taşıyor olmayabilir.\n\nsuriyeli komşularımızı suudi arabistan, birleşik arap emirlikleri vb zengin arap ülkeleri bile din kardeşi olarak görüp, himaye etmemişken; bugün savaş bittiyse hala savaşı bahane ederek avrupa'ya kaçmaya çalışmanın, orada kaçak/sığıntı olarak yaşamanın manası kalmamıştır. kabul edilebilirliği de yoktur.\n\ndolayısı ile almanya doğru yapmaktadır. darısı türkiye'nin başınadır.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "CULTURE",
+        "HATE"
+      ]
+    },
+    {
+      "title": "almanya'nın suriyelileri sınırdışı etmesi",
+      "entry_id": "117480634",
+      "author": "sikar",
+      "date": "28.12.2020 22:25",
+      "content": "bu suriler bize gelsin, dibin dinde ne var görelim",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "almanya'nın suriyelileri sınırdışı etmesi",
+      "entry_id": "117481093",
+      "author": "esitler arasinda sonuncu",
+      "date": "28.12.2020 22:35",
+      "content": "(bkz: geri kabul anlaşması)\n\nab-türkiye geri kabul anlaşması'nın temel hedefi mütekabiliyet çerçevesinde, her bir tarafın diğer tarafın topraklarına giriş, topraklarında bulunma ya da ikamet etme koşullarını yerine getirmeyen kişilerin, hızlı ve sistemli bir şekilde geri kabulünü sağlamaktır.\n\nkısaca, türkiye’ye iade edileceklerdir yakında.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    }
+  ]
+}

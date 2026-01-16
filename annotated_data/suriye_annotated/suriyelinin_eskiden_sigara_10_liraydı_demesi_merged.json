@@ -1,0 +1,26 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:07:01.234323",
+    "total_entries": 1,
+    "input": "suriyelinin eskiden sigara 10 liraydı demesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelinin eskiden sigara 10 liraydı demesi",
+      "entry_id": "102809546",
+      "author": "madagaskarkoylusu",
+      "date": "29.02.2020 16:32",
+      "content": "çok özür dileriz.bence suriye pasaportlu veya çatpat dilimizi konuşan herkes sigarayı 10liradan almalı ben bizim markete söyledim ne demek abim tabiki yardımcı olurum ama marlboro kapsam dışı olsun bize gelişi yüksek dedi.sonuçta bu ülkede vergiden muaflar.haydi el birliği ile sigara,ekmek,telekominikasyon,araba,ev gibi hizmetleri yarı fiyatına almalarını sağlayalım veya bize bu hizmetler iki katına çıkarılsın.\ngerçekten çok özür dileriz.\n\nkaynak:\n\nhttps://twitter.com/…tatus/1233412999316197378?s=21",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO",
+        "ECON"
+      ]
+    }
+  ]
+}

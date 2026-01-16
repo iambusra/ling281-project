@@ -1,0 +1,63 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:40:15.213778",
+    "total_entries": 4,
+    "input": "atış poliganlarının suriyelilerle dolması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "atış poliganlarının suriyelilerle dolması",
+      "entry_id": "137882255",
+      "author": "newsky24",
+      "date": "25.05.2022 10:36",
+      "content": "sadece tabancayla değil, otomatik silahlarla bile atış yapılan poligonların suriyelilerle dolu olduğunu belirten bir yılmaz özdil yazısıdır.\nbizzat kendisinin gidip görüp gözlemlediği olayları yazdığını belirtmiştir.\n\n18 yaş kuralına bile uymuyorlar diyor, 15 yaşındakiler bilematışmyapıyormuş.\n\nkendi ülkesinden savaş var diye türkiye'ye gelenler burada neden otomatik silahlarla atış talimi yapar?\n\nkaynak",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "atış poliganlarının suriyelilerle dolması",
+      "entry_id": "137882407",
+      "author": "newsky24",
+      "date": "25.05.2022 10:40",
+      "content": "(bkz: otomatik silah atış poliganının surilerle dolması)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "atış poliganlarının suriyelilerle dolması",
+      "entry_id": "137882886",
+      "author": "tankutay",
+      "date": "25.05.2022 10:56",
+      "content": "otomatik silah kullanımı türkiye'nin neresinde olursa olsun askeri düzlemde olmadığı sürece büyük bir suçtur. yılmaz bey tetiğe art arda basmak ile otomatik tüfek farkını bilmiyor olabilir. şayet gerçekten otomatik silah kullanıldıysa problem çok çok büyük.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CRIME"
+      ]
+    },
+    {
+      "title": "atış poliganlarının suriyelilerle dolması",
+      "entry_id": "137884690",
+      "author": "avkatbeg36",
+      "date": "25.05.2022 11:48",
+      "content": "devletin bunların hepsini toplayıp özgür suriye ordusuna alarak ellerine ak-47 ile bedava poligon imkanı sunması gerek..",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POLICY",
+        "HUMAN-POS"
+      ]
+    }
+  ]
+}

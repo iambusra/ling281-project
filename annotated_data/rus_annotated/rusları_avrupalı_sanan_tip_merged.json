@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:28:36.598125",
+    "total_entries": 1,
+    "input": "rusları avrupalı sanan tip",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rusları avrupalı sanan tip",
+      "entry_id": "44158298",
+      "author": "neovic",
+      "date": "12.07.2014 15:34 ~ 14.09.2015 02:58",
+      "content": "bakış açısına göre hem doğru hem de yanlış bir kanı olduğu söylenebilir. şu dünyada hem avrupalı hem asyalı olan, yeri geldiğinde avrupalı da asyalı da sayılmayan yegane iki milletten biridir ruslar. diğeri de malum, türkler.\n\nedith piaf: işte bu başlıklar hep başa kalıyor böyle.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

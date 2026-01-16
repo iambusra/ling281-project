@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:51:10.572549",
+    "total_entries": 1,
+    "input": "suriyeli muhalifler ile pkk'nın anlaşma imzalaması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeli muhalifler ile pkk'nın anlaşma imzalaması",
+      "entry_id": "32228004",
+      "author": "ed gein jr",
+      "date": "18.02.2013 11:05 ~ 11:06",
+      "content": "suriyeli teröristler-akp-pkk-israil cephesindeki yeni gelişme .\n(bkz: suriyeli muhalifleri israil'in tedavi etmesi)\n(bkz: akp'nin açılımı sonrası pkk'nın iyice güçlenmesi)\n(bkz: dincilerin suriye'ye karşı israil'i desteklemesi)",
+      "has_external_url": true,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    }
+  ]
+}

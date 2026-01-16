@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:59:26.205778",
+    "total_entries": 1,
+    "input": "suriyelilere telefonda vatandaşlık verilmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelilere telefonda vatandaşlık verilmesi",
+      "entry_id": "142573595",
+      "author": "mahserin 4 sovalyesi",
+      "date": "12.09.2022 11:34",
+      "content": "ümit özdağ’ın duyurduğu olay. https://twitter.com/…tatus/1569227774325571585?s=21\n\nsabıka kaydında tek leke olmayan ben, babamın uzun yıllar çalıştığı almanya’ya iki günlüğüne gidememiştim. diğer ülkeler sınırlarını sıkı sıkı korurken biz telefon ile vatandaşlık dağıtıyoruz. kabilede bile yabancıyı hemen köye almazlar.",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "POLICY"
+      ]
+    }
+  ]
+}

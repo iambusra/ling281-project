@@ -1,0 +1,102 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:42:39.659788",
+    "total_entries": 7,
+    "input": "hastanede nargile içen suriyeli",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "hastanede nargile içen suriyeli",
+      "entry_id": "69022730",
+      "author": "shipshack",
+      "date": "23.06.2017 14:58",
+      "content": "türkiyede bir devlet hastanesinde keyif yapıyorlar.\nburdan",
+      "has_external_url": true,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "hastanede nargile içen suriyeli",
+      "entry_id": "69023308",
+      "author": "blacksoul",
+      "date": "23.06.2017 15:32",
+      "content": "bizim vergilerimizle o hastane de yatıp kalkip bir de babalarının malıymış gibi kullanmaları var ya. o nargileyi tutup ona sokasim geldi.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "CRIME"
+      ]
+    },
+    {
+      "title": "hastanede nargile içen suriyeli",
+      "entry_id": "69023418",
+      "author": "cadillacman",
+      "date": "23.06.2017 15:38",
+      "content": "bizim vatandaşlarımız imkansızlıklardan hastanede bakılamazken bunlar ağa paşa gibi burada kendi ülkemizde bedavadan tüm hizmetlerden fazlasıyla yararlanırlar üzerine üstlük de pişkinlik edip böyle edepsizce davranışlarda bulunurlar. tez zamanda hepsinin geri gönderilmesini ait oldukları yere diyorum nokta.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "hastanede nargile içen suriyeli",
+      "entry_id": "179731242",
+      "author": "vsvsvssea",
+      "date": "10.11.2025 18:18",
+      "content": "nargile içmiyorum ama kulaklığımda ibonun yanarım şarkısı son ses..\nkor ateşler içinde yanıyorum yemin olsunderken, düşmek istemesem de o kuyuya direniyorum. şu serum bitince yarın tüm gaz kaldığım yerden devam edip kendimi işe vermek istiyorum. evet canım acıyor evime gidip yatıp uyumak istiyorum..",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "hastanede nargile içen suriyeli",
+      "entry_id": "179731618",
+      "author": "turti lr",
+      "date": "10.11.2025 18:41",
+      "content": "hemen yargisiz infaz yapmayin arkadaslar, kizilay'in kanlarimizi yolladigi cihatcilardan biri olabilir (!)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "hastanede nargile içen suriyeli",
+      "entry_id": "179736083",
+      "author": "arjani",
+      "date": "10.11.2025 21:58",
+      "content": "suriyelilerin nargile içmediği bir yer yok ki.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "hastanede nargile içen suriyeli",
+      "entry_id": "179736265",
+      "author": "11223344556677889900",
+      "date": "10.11.2025 22:07",
+      "content": "bana pek türkiye gibi gelmedi ama yok da diyemem tabii ki..\nkaynak ihtiyacı mevcuttur. gazaltı olur, oksijen olur",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "ECON"
+      ]
+    }
+  ]
+}

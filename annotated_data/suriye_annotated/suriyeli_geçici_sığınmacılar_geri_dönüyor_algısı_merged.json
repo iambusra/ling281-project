@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:49:08.485596",
+    "total_entries": 1,
+    "input": "suriyeli geçici sığınmacılar geri dönüyor algısı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeli geçici sığınmacılar geri dönüyor algısı",
+      "entry_id": "171008959",
+      "author": "yeni araba kokusu",
+      "date": "14.12.2024 00:10",
+      "content": "şeriat gelirse seküler ve şi arapları lübnan (israil saldırmazsa) ve türkiye’ye akın edecektir. 1 giden suriyeliye karşılık 2 alırız. ama bu gelenleri yobaz tayfa eski gelenler gibi hoş karşılamıcak. ama emşn olduğum bir şey var oda şuanda ülkemizde olan yobaz, boş adam suriyelilerden daha uyumlu insanlar olacaklarıdır.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    }
+  ]
+}

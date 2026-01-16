@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:30:02.434290",
+    "total_entries": 2,
+    "input": "denizbank'ın ruslara satılması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "denizbank'ın ruslara satılması",
+      "entry_id": "28893268",
+      "author": "ya ti krovat",
+      "date": "07.06.2012 19:48",
+      "content": "ruslar sıcak denizlere nükleer santral \"ihale\"siyle indiklerinden farklı açıdan değerlendirilmesi gereken gelişme.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "denizbank'ın ruslara satılması",
+      "entry_id": "29900440",
+      "author": "so that",
+      "date": "23.08.2012 00:08",
+      "content": "(bkz: sberbank)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

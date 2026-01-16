@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:00:05.334661",
+    "total_entries": 1,
+    "input": "suriyelileri atatürk büstünde toplayan genç",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelileri atatürk büstünde toplayan genç",
+      "entry_id": "144932857",
+      "author": "kaom",
+      "date": "10.11.2022 14:10 ~ 14:14",
+      "content": "kardeş apple dedin samsung çıktı?\n\nedit: fotoğraf yeni şafak haberinden alınmış. haber daha ilginç başlığı açılan olaydan.",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

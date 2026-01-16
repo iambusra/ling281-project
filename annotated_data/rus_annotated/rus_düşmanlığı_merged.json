@@ -1,0 +1,38 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:17:23.434726",
+    "total_entries": 2,
+    "input": "rus düşmanlığı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rus düşmanlığı",
+      "entry_id": "134779138",
+      "author": "eksimtrack",
+      "date": "11.03.2022 07:36",
+      "content": "covid gibi aniden gelişen düşmanlıktır.\nonlarca yıldır ortadoğu’da terör estirenlere bir halt olmazken tehdit yüzünden ukrayna’ya giren rusya için tüm dünya seferber olmuş düşmanlık besliyor. altında başka sebepler aramamak için tatlı su balığı olmak lazım.\nyapılan haddinden fazla yaptırımlar ve ambargolar durumu özetliyor aslında. boku çıktı bu rusları dışlamanın.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "rus düşmanlığı",
+      "entry_id": "179532893",
+      "author": "ibisile",
+      "date": "02.11.2025 02:15",
+      "content": "\"bizim iki taraftan birine katılmaklığımız mukadder olduğu hissini veren ne idi? o sırada istanbul'u düşündüren üç şey vardı: rus düşmanlığı, alman gücü ve ingiliz yenilmezliği!\" falih rıfkı atay - zeytindağı",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "XENO",
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

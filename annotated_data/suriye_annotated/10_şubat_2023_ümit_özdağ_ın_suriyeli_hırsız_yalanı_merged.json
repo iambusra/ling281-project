@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-10T23:32:55.480139",
+    "total_entries": 1,
+    "input": "10 şubat 2023 ümit özdağ'ın suriyeli hırsız yalanı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "10 şubat 2023 ümit özdağ'ın suriyeli hırsız yalanı",
+      "entry_id": "149047858",
+      "author": "kimulanbu",
+      "date": "11.02.2023 02:47",
+      "content": "cüneyt özdemir'in \"depremde soğuk ama mucizelerle dolu gece... 5 gecede neler yaşanıyor?\" başlıklı yayınına katıldığında açıklamasını yapmıştır.`:(01:28:24)`\n\nözür dilemeyi düşünür müsünüz? sorusuna;\n\"hayır niye özür dileyeyim kardeşim? kimden özür dileyeyim? neden özür dileyeyim\" diye cevap verip cüneyt özdemir'in muhteşem bakışları arasında uzun uzun kendisini ifade etmiştir.\n(bkz: https://youtu.be/g_i6fwywup8?t=5301)",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE",
+        "HUMAN"
+      ]
+    }
+  ]
+}

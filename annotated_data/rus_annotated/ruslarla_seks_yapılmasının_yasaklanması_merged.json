@@ -1,0 +1,183 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:31:02.232379",
+    "total_entries": 14,
+    "input": "ruslarla seks yapılmasının yasaklanması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ruslarla seks yapılmasının yasaklanması",
+      "entry_id": "125002999",
+      "author": "verybutverygoodman",
+      "date": "25.06.2021 09:08",
+      "content": "güne kara haberle başlamak ...:(",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ruslarla seks yapılmasının yasaklanması",
+      "entry_id": "125003170",
+      "author": "engraulis encrasicolus",
+      "date": "25.06.2021 09:14",
+      "content": "doğrusu, rus turistler türkiye'ye gelmeye başlarken, koronavirüs vakalarında görülen artıştan dolayı' rus turistler için pcr zorunluluğu devam etsin' talebidir.\n\nkaynağımsı.",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ruslarla seks yapılmasının yasaklanması",
+      "entry_id": "125003324",
+      "author": "tasaltinda kurba",
+      "date": "25.06.2021 09:20",
+      "content": "200 dolarda rusa versek maliyet 4800.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "ECON"
+      ]
+    },
+    {
+      "title": "ruslarla seks yapılmasının yasaklanması",
+      "entry_id": "125003326",
+      "author": "warone",
+      "date": "25.06.2021 09:20",
+      "content": "ruhlarla seks diye okudugum baslik.\n(bkz: yaran yanlış okumalar)\n\nneden 31 00 lira ceza, o da cok malumun ilani olmus. (bkz: swh)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "SEXUAL"
+      ]
+    },
+    {
+      "title": "ruslarla seks yapılmasının yasaklanması",
+      "entry_id": "125003471",
+      "author": "del piero nun killi kocakafali olani",
+      "date": "25.06.2021 09:25",
+      "content": "ben hep conolarla seks yaptigim icin beni ilgilendirmeyen hede.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "SEXUAL"
+      ]
+    },
+    {
+      "title": "ruslarla seks yapılmasının yasaklanması",
+      "entry_id": "125003554",
+      "author": "bildigini bilmeyen",
+      "date": "25.06.2021 09:28",
+      "content": "bunu nasıl tespit edecekler ki? hepimizin çüküne seks sensörü takmalılar.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "SEXUAL"
+      ]
+    },
+    {
+      "title": "ruslarla seks yapılmasının yasaklanması",
+      "entry_id": "125003616",
+      "author": "tohumunaparamisaydim",
+      "date": "25.06.2021 09:30",
+      "content": "(bkz: sen istiyor duj verecek yüz dolar daha)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ruslarla seks yapılmasının yasaklanması",
+      "entry_id": "125003706",
+      "author": "i am not in danger i am the danger",
+      "date": "25.06.2021 09:33",
+      "content": "ailenizde kimse covid değilken covid olursanız ve erkekseniz banko 3100 ceza yazacaklar.\nkadınsanız yaşadığınız ile bir rus erkek gelmişse 3100 ceza olacak.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ruslarla seks yapılmasının yasaklanması",
+      "entry_id": "125004374",
+      "author": "monreve",
+      "date": "25.06.2021 09:56",
+      "content": "pcr testi olmadan yurda girmeyi başabilmiş turistle de kutlama yapmak için sevişilmesin mi yani",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "SEXUAL"
+      ]
+    },
+    {
+      "title": "ruslarla seks yapılmasının yasaklanması",
+      "entry_id": "125022079",
+      "author": "kovboyunusikenmidilli",
+      "date": "25.06.2021 19:26",
+      "content": "atın ölümü arpadan olsun",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ruslarla seks yapılmasının yasaklanması",
+      "entry_id": "125088424",
+      "author": "onlar insansa ben hayvanim",
+      "date": "27.06.2021 16:17",
+      "content": "la bi rus ruletimiz bi vodkamız bi de rus hatunumuz vardı, onlara da ilişmeyin aq.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "XENO",
+        "SEXUAL"
+      ]
+    },
+    {
+      "title": "ruslarla seks yapılmasının yasaklanması",
+      "entry_id": "125088498",
+      "author": "dandik tavsan",
+      "date": "27.06.2021 16:20",
+      "content": "seksist, ırkçı, rezil ve kadın düşmanı bir kampanya.\n\ninsanlar akıllarındaki pisliği aynen kusuyorlar...",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE"
+      ]
+    },
+    {
+      "title": "ruslarla seks yapılmasının yasaklanması",
+      "entry_id": "125088635",
+      "author": "kirtujj",
+      "date": "27.06.2021 16:24",
+      "content": "dolar aldı başını gidiyor. bu ekonomik dar boğazda fazla lüks.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "ECON"
+      ]
+    },
+    {
+      "title": "ruslarla seks yapılmasının yasaklanması",
+      "entry_id": "125088788",
+      "author": "tel sarma",
+      "date": "27.06.2021 16:28",
+      "content": "\"peki duj, o da yasak mı?\" diye endişelendiren durumdur.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

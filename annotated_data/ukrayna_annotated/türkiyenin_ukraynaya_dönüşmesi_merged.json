@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:09:28.196998",
+    "total_entries": 1,
+    "input": "türkiyenin ukraynaya dönüşmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türkiyenin ukraynaya dönüşmesi",
+      "entry_id": "80135325",
+      "author": "blockrockin beatnik",
+      "date": "10.08.2018 23:57 ~ 23:57",
+      "content": "(bkz: türk kızları vs. ukrayna kızları)\neyvah eyvah. memlekete oradan bile döviz girmeyecek. battık.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "ECON"
+      ]
+    }
+  ]
+}

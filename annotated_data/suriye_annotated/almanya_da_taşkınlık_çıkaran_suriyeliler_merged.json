@@ -1,0 +1,37 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:32:19.856054",
+    "total_entries": 2,
+    "input": "almanya'da taşkınlık çıkaran suriyeliler",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "almanya'da taşkınlık çıkaran suriyeliler",
+      "entry_id": "177228090",
+      "author": "cafcafiaht",
+      "date": "31.07.2025 12:19",
+      "content": "dw'nin yayımladığı habere konu olan suriyelilerdir. berlin'i ve düsseldorf'u karıştırmışlar.\n\niltica ettikleri her yerin düzenini bozup, kaos yaratan bir millet. yıllarca esad'ın zulmüne maruz kaldılar ama çoğunlukta olmalarına rağmen ülkelerini ve kendilerini sefaletten kurtarmak için ne birlik oldular ne kıllarını kıpırdattılar. şimdi ise kaçtıkları ülkelerde toplanıp protestolar yapıyorlar. gerçi onda da halen birbiriyle tartışıp, kavga çıkarıp yaşadıkları ülkelerin huzurunu kaçırıyorlar.",
+      "has_external_url": true,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "almanya'da taşkınlık çıkaran suriyeliler",
+      "entry_id": "177228111",
+      "author": "ibeddebi",
+      "date": "31.07.2025 12:20",
+      "content": "modern olmak zor geliyor ondandır.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

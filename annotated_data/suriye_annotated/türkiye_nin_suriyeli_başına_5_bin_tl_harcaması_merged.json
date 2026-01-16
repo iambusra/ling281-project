@@ -1,0 +1,51 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:11:27.878609",
+    "total_entries": 3,
+    "input": "türkiye'nin suriyeli başına 5 bin tl harcaması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türkiye'nin suriyeli başına 5 bin tl harcaması",
+      "entry_id": "66334056",
+      "author": "nasibeyn",
+      "date": "16.02.2017 15:40",
+      "content": "sen beş milyar beş milyon milyar sen ne yaptın?",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "türkiye'nin suriyeli başına 5 bin tl harcaması",
+      "entry_id": "66334387",
+      "author": "nomoreplayer",
+      "date": "16.02.2017 15:58",
+      "content": "google'da''türkiye arge bütçesi'' diye aradığımız zaman gazete haberlerinde 2013 yılında merkezi bütçeden 5.8 milyar lira, 2016 yılında 6.2 milyar lira ayırdığımızı görebiliriz.\n\nhttp://www.dunya.com/…r-lira-harcandi-haberi-249688\nhttp://www.dunya.com/…r-lira-harcandi-haberi-320477\n\n6 yılda suriyeliler için katlandığımız masraf 25 milyar dolar. yıllık ortalama 4 milyar dolar. ar-ge için 2013 ve 2015 yıllarında merkezi bütçeden ayrılan paranın 2 katından bir fazla para demek bu.\n\nçocuklarımızın, ailelerimizin, ülkemizin, yani bizim gelişen ve büyüyen dünyaya ayak uydurabilmemiz, bu dünya içerisinde önemli bir aktör olabilmemiz için yapılan arge çalışmalarına ayrılan bütçenin en az 2 katı gidiyor bu adamlara her sene.",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "ECON",
+        "XENO"
+      ]
+    },
+    {
+      "title": "türkiye'nin suriyeli başına 5 bin tl harcaması",
+      "entry_id": "66334458",
+      "author": "carcar",
+      "date": "16.02.2017 16:01",
+      "content": "o bankaların başına oturtdukları şerfsiz badem bıyıklılar bana 60 ay vadeli 60 bin liralık kredi verseydi şu an 10 kişiye ekmek verdiğim işletmem ayakta olacak, bir çocuğun eğitimine katkım devam edecekti.....\n\nsuriyelilerle hiç bi derdim yok. ki bunuda insanlık için değil referandumda oya dönüştürmek için yapıyorlar.... suriyede iç savaşı körükleyerek o sahile vuran bebeklerin sebebidir bugünkü iktidar.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "ECON"
+      ]
+    }
+  ]
+}

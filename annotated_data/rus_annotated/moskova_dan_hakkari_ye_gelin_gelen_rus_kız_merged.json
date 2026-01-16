@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:17:21.081115",
+    "total_entries": 1,
+    "input": "moskova'dan hakkari'ye gelin gelen rus kız",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "moskova'dan hakkari'ye gelin gelen rus kız",
+      "entry_id": "179533440",
+      "author": "am boregi",
+      "date": "02.11.2025 02:57",
+      "content": "gerçek aşk bu olsa gerek dedirten türden bir olay bu. başka türlü hiçkimse moskova gibi bir şehirden ve rusya'dan kalkıp hakkari'ye gelin gelmez.\n\nhaber link",
+      "has_external_url": true,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN"
+      ]
+    }
+  ]
+}

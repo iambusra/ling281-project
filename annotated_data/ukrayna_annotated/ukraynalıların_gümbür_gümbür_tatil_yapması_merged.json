@@ -1,0 +1,86 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:23:47.471622",
+    "total_entries": 6,
+    "input": "ukraynalıların gümbür gümbür tatil yapması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukraynalıların gümbür gümbür tatil yapması",
+      "entry_id": "142169157",
+      "author": "kingkrule",
+      "date": "03.09.2022 09:25",
+      "content": "tanıdığım bir çok ukraynalının storylerine baktığımda hepsi dünyanın çeşitli noktalarında tatildeler. ibiza'dan fransa'ya yunanistan'dan türkiye'ye denize girip güneşin keyfini çıkartıyorlar. ulan bu nasıl savaş diye düşünüyor insan gerçekten. biz çalıştığımız halde 2 gün tatile gitsek 1 yıl kredi ödüyoruz. yanlış anlamayın bu bir eleştiri değil belki bize de taktik verirler bizde gezeriz.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukraynalıların gümbür gümbür tatil yapması",
+      "entry_id": "142169313",
+      "author": "tristran",
+      "date": "03.09.2022 09:32 ~ 09:34",
+      "content": "ukraynalı dediğin zaten tatile gitmek için bir sene para biriktirir.\n\nonu geçtim baktıkların kadın ve çocuklardır erkeklerin sınır dışına çıkması yasak.\n\ndiğer bir konu suri geleceğine ukraynalı gelsin.\n\nırkçıyım evet. müslümanlıkla alakası yok hain araplardan ve uşaklarından nefret ederim.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ukraynalıların gümbür gümbür tatil yapması",
+      "entry_id": "142169577",
+      "author": "bogulan alabalik",
+      "date": "03.09.2022 09:45",
+      "content": "şehirlere bombalar yağardı her gece biz durmadan sevişirdik.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukraynalıların gümbür gümbür tatil yapması",
+      "entry_id": "142169741",
+      "author": "antibitchinator",
+      "date": "03.09.2022 09:53",
+      "content": "savaşta olan bir devletin vatandaşlarının alım gücünün bizden iyi olması durumudur. sorgulamamız gereken şey şu ki bizim asgari ücretlimiz neden senede bir kere kendi ülkesinin kıyılarında tatil yapacak güçte değil?",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "ECON"
+      ]
+    },
+    {
+      "title": "ukraynalıların gümbür gümbür tatil yapması",
+      "entry_id": "142169924",
+      "author": "polat2345",
+      "date": "03.09.2022 10:01",
+      "content": "muhtemelen \"gümbür gümbür tatil yapanlar\" 18-65 yaş arası olmayan erkekler ve kadınlardır.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukraynalıların gümbür gümbür tatil yapması",
+      "entry_id": "142170090",
+      "author": "filip moris",
+      "date": "03.09.2022 10:07",
+      "content": "ama tatil yapan genç ve sağlıklı ukraynalı erkek göremezsiniz mesela. hele plajlarda nargile fokurdatanları hiç.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    }
+  ]
+}

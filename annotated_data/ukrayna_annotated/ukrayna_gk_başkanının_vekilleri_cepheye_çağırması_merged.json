@@ -1,0 +1,38 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:07:29.188699",
+    "total_entries": 2,
+    "input": "ukrayna gk başkanının vekilleri cepheye çağırması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukrayna gk başkanının vekilleri cepheye çağırması",
+      "entry_id": "160367359",
+      "author": "bilgilendiricibilgi",
+      "date": "06.01.2024 00:04",
+      "content": "hadi bakalım sıra sizde yiğitler. yok kadınları askere alalım, yok hükümlüleri askere alalım diye kendi gtlerini kurtarmaya çalışırken, genel kurmay başkanı masaya vurmuş.\n\nkaynak",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "GENDER-MORAL",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "ukrayna gk başkanının vekilleri cepheye çağırması",
+      "entry_id": "160367414",
+      "author": "kader mahdumu",
+      "date": "06.01.2024 00:06",
+      "content": "ayrıca cemaat liderlerini ve her fırsatta kefenimizi giydik diyen vatanseverleri de davet etmeli. gelmeyenleri vatana ihanetten yargılamalılar",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY",
+        "CRIME"
+      ]
+    }
+  ]
+}

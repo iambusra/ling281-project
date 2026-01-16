@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T14:56:25.382618",
+    "total_entries": 1,
+    "input": "surilerin vatanlarından kaçması depremi getirdi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "surilerin vatanlarından kaçması depremi getirdi",
+      "entry_id": "149006093",
+      "author": "sefik kedi",
+      "date": "10.02.2023 16:14 ~ 16:15",
+      "content": "milyonlarca suriyelinin vatanlarıni, ata topraklarinı topuklarınö kiclarina vura vura kaçarak terketmesi bu depremi getirmiştir. allah vatanlarına hiyanet eden milyonların üzerine gazabinı göndermiştir. her hadisede etkilen masumlar muhakkak olacaktir burda da allahin bir hikmeti vardır bilemeyiz.\n\nnot; sacma sapan yorum sebep getrienlere bir ironidir.\nek not iq su 87 üstü olanlara nota gerek yoktu zaten.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    }
+  ]
+}

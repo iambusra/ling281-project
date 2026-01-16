@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:06:06.266522",
+    "total_entries": 1,
+    "input": "ukrayna tarihi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukrayna tarihi",
+      "entry_id": "167673106",
+      "author": "irrevadis",
+      "date": "24.08.2024 00:11 ~ 00:14",
+      "content": "avrupa'nın kapıları üst başlığı ile feylesof yayınları tarafından çevrilen kitap. yazarı serhii plokhy harvard'da tarih profesörü.\n\nukrayna tarihinin rusya tarihi ile kesiştiği ve ayrıştığı noktaları anlamak için bu kitap birebir. düz bakınca alfabe aynı, din aynı, kültür aynı bunların ne farkı var diyebilir insan. ama bu kitap ukrayna tarihi konusunda gerçekten aydınlatıcı. kievan rus'tan başlayarak, kazaklar'dan devam ederek sovyetler ve onların dağılışına dek ukrayna tarihindeki her şeyi detaylarıyla anlatıyor.\n\ncoğrafi konumu itibariyle de özel bir yerde olan ukrayna göçler, kesişmeler ve ayrışmalar coğrafyası olmuş. yazar; titiz bir araştırma ile kafada küçük rusya olarak kodlanan alanı ayrı bir bağlama oturtmayı başarmış. tarih boyunca yaşananlara bakınca rusya'nın bugün ukrayna'ya yaşattıkları ukraynalılara hiç de şaşırtıcı gelmemiş olmalı.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "CULTURE",
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

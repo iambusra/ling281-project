@@ -1,0 +1,26 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T14:55:23.723138",
+    "total_entries": 1,
+    "input": "ev fiyatların düşmesin diye surilere sahip çıkmak",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ev fiyatların düşmesin diye surilere sahip çıkmak",
+      "entry_id": "155069504",
+      "author": "o degil de neyse",
+      "date": "29.07.2023 15:17",
+      "content": "böyle bir ev sahibi kitle var. zengin suriler afganlar pahalı evleri alırken fakir suriler ucuz evleri alıyor ya da kiralıyor bu fiyat artışlarının bir kısmının sebebi de bunlar. ve kendisine ait 5 ten fazla evi olanlar bu konular konuşulurken ortamlarda pısıp kalıyor kem küm ediyorlar.\n\nsonra kirasını ödeyemeyen kiracı olunca da %25 pam pum derken kiracıya cırlıyor. kiracının suçu ne?\nkaldı ki hemen dibimizde filistin diye bir gerçek var. bu surilerin afganların pakilerin şunların bunların bu ülkeden defolup gitmesi gerek. kendi memleketimizde parya oluyoruz be.\n\nulan kürtçe tabela için ortalığı ayağa kaldıranlar trabzon havalimanında arapça anons yaptırıyor tabelalar asılıyor. bu nasıl milliyetçilik güye gelmiş geçmiş en sağcı meclis\n\nsorarlarsa ortamlarda sağcıyız, milliyetçiyiz, muhafazakarız dersiniz kim bilecek.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "ECON"
+      ]
+    }
+  ]
+}

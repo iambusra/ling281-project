@@ -1,0 +1,61 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:52:52.928268",
+    "total_entries": 4,
+    "input": "suriyeli sığınmacının veda mesaji",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeli sığınmacının veda mesaji",
+      "entry_id": "170856369",
+      "author": "yedinci element",
+      "date": "08.12.2024 21:06",
+      "content": "buna inanana suriyede sahipsiz 100 dönüm arazim var tapu harcı verene bedava.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "ECON"
+      ]
+    },
+    {
+      "title": "suriyeli sığınmacının veda mesaji",
+      "entry_id": "170856490",
+      "author": "moonmoon",
+      "date": "08.12.2024 21:09",
+      "content": "(bkz: cool story bro)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyeli sığınmacının veda mesaji",
+      "entry_id": "170856563",
+      "author": "hakanikon",
+      "date": "08.12.2024 21:12",
+      "content": "rehberindeki bir arkadasinin numarasini degistirerek uygulayabilecegin bir ekran goruntusu. ayrica bu sekilde ekran goruntusu yapan programlar da var. istersen bessar esad ile de wp yazismasi uydurabilirsin. simdi bunu yazdim diye multeci kacak ve ucuz is gucu gitmesin dedigimi sanmayin. ama boyle ilkokul zeka seviyesindeki seylere de inanmayin.\n\n80 personel calistiriyoruz. vasifsiz elemanlarimiz bile asgari ucretten fazla kazanabiliyor. tum calisanlarimiz turk ve bolgenin kendi insani. ancak sektordeki rekabet etmeye calistigimiz rakipler afgan, suri... ne ararsan calistiriyorlar. en cok da bizim gibilerin isine yarar ulkedeki ucuz, kacak ve sigortasiz iscilerden kurtulmak. ama dedigim gibi yazarin entrysindeki ekran goruntusu tamamen uydurma bence.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "ECON"
+      ]
+    },
+    {
+      "title": "suriyeli sığınmacının veda mesaji",
+      "entry_id": "170856714",
+      "author": "muratglby",
+      "date": "08.12.2024 21:16",
+      "content": "uydurma profil resminde rejim bayrağı var.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

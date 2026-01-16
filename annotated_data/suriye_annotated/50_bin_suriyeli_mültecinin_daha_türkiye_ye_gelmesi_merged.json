@@ -1,0 +1,426 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:18:48.316016",
+    "total_entries": 33,
+    "input": "50 bin suriyeli mültecinin daha türkiye'ye gelmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "50 bin suriyeli mültecinin daha türkiye'ye gelmesi",
+      "entry_id": "55673709",
+      "author": "purchaserr",
+      "date": "21.10.2015 08:11",
+      "content": "su an multeciler akpye oy kaybettiriyor: hic istediklerini sanmiyorum.. bu arada kendi gelecegimiz icin; suriyeli cocuklara elinizden geldigince dogru yanlis ogretmeye xalisin: yoksa ilerde cok basimiz agriyacak..",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "50 bin suriyeli mültecinin daha türkiye'ye gelmesi",
+      "entry_id": "99330571",
+      "author": "tekil cogunluk",
+      "date": "19.12.2019 14:10",
+      "content": "2019: 50 bin mülteci daha geliyor gözümüz aydın.\n\nhabertürk",
+      "has_external_url": true,
+      "sentiment_numeric": 5,
+      "categories": [
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "50 bin suriyeli mültecinin daha türkiye'ye gelmesi",
+      "entry_id": "99330736",
+      "author": "guzelgunnk",
+      "date": "19.12.2019 14:15",
+      "content": "kucak açan başkanımız sağolsun!",
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "50 bin suriyeli mültecinin daha türkiye'ye gelmesi",
+      "entry_id": "99331904",
+      "author": "damper16",
+      "date": "19.12.2019 14:50",
+      "content": "şunları gelirken tuz ruhuna bandırıp yıkayın.her gün sözlükte yeni bir hastalığın salgınının başlığı açılıyor.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "50 bin suriyeli mültecinin daha türkiye'ye gelmesi",
+      "entry_id": "99332694",
+      "author": "fovalio",
+      "date": "19.12.2019 15:12",
+      "content": "bunların daha küçük paket seçeneği yok mu? her paket 50 bin 100 bin’lik.\nacilen 3 bin 5 binlik paketlerinde piyasaya sürülmesi gerekiyor.\n\n(bkz: mağduruz)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "50 bin suriyeli mültecinin daha türkiye'ye gelmesi",
+      "entry_id": "99332846",
+      "author": "spetsnaz",
+      "date": "19.12.2019 15:16",
+      "content": "yıl olmuş 2020 (bkz: neredeyse) hala suriyede yaşayan suriyeli var.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "50 bin suriyeli mültecinin daha türkiye'ye gelmesi",
+      "entry_id": "99333034",
+      "author": "agirtahrikunsuru",
+      "date": "19.12.2019 15:22",
+      "content": "yetmez ama evet diye diye biritirdiler. yetti artık. bıktım ben her adım başı mülteci görmekten.\nneden bizim ülkemiz dingonun ahırı gibi? önüne gelen giriyor.\nbiz istesek avrupa ülkesine gitmek için neler neler gerekiyor.\nbıktık ama.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "50 bin suriyeli mültecinin daha türkiye'ye gelmesi",
+      "entry_id": "99333439",
+      "author": "mustafakls",
+      "date": "19.12.2019 15:32",
+      "content": "yeter artık kimseyi almayın, olanları da gönderin. kendi halkımızın yaşam kalitesi yerlerde her gün ekonomik kriz sebebiyle intihar haberleri okuyoruz. çoğu kişi borç batağında, insanlar doğru düzgün alışveriş yapamaz hale geldi.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "ECON"
+      ]
+    },
+    {
+      "title": "50 bin suriyeli mültecinin daha türkiye'ye gelmesi",
+      "entry_id": "99333450",
+      "author": "acilin ben doktor muyum",
+      "date": "19.12.2019 15:33",
+      "content": "toplumun yapısı çoktan bozuldu.asimile olmuyor asimile etmeye çalışıyorlar.değişik bir dünya insanı bu suriyeli kardeşlerimiz",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "50 bin suriyeli mültecinin daha türkiye'ye gelmesi",
+      "entry_id": "99333512",
+      "author": "fernando hoze",
+      "date": "19.12.2019 15:34",
+      "content": "allah arttırsın. ekmek elden su gölden.ohh!! onlar da doğurur mis gibi. bizim topraklar da bereketli tabi. gelen gitmiyor,yapışıyor.afiyet olsun mis gibi suriyeliler geliyor. bülent ersoy deyimiyle dünya güzelleri geliyor.",
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "50 bin suriyeli mültecinin daha türkiye'ye gelmesi",
+      "entry_id": "99333788",
+      "author": "naziminmanevitorunu",
+      "date": "19.12.2019 15:42",
+      "content": "gelin gelin hoşgeldiniz\nhoşgeldiniz yeni virüsler\nhoşgeldiniz yeni bakteriler\nhoşgeldiniz yeni salgınlar\nyeterince yoktunuz zaten bir siz eksiktiniz hoşgeldiniz",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "50 bin suriyeli mültecinin daha türkiye'ye gelmesi",
+      "entry_id": "99333963",
+      "author": "cemu",
+      "date": "19.12.2019 15:46",
+      "content": "(bkz: hababam sınıfı)\n(bkz: aç kapıyı veysel efendi)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "50 bin suriyeli mültecinin daha türkiye'ye gelmesi",
+      "entry_id": "99334133",
+      "author": "lookpostaciiscoming",
+      "date": "19.12.2019 15:51",
+      "content": "bu zihniyete oy verenlere müstehak olan durumdur. adam senden kestiği haraçla suriyeli besliyo kardeşim. sen de her seçimde oh ne güzel yapıyosun daha da besle diyosun. suriyelisi geliyor, afganı, pakisi, libyalısı..vs. adamlar ulus devlete karşı olduklarını sana başından söylemişti zaten. sanki hususi osmanlının son dönemine bizi geri döndürmeye çalışıyorlar. bu göçmenler zaten güney doğudaki bi kaç ilde çoğunluk konumunda. yarın bura benim toprağım deyip ayrılmak istese ya da suriyeye daha ılımlı bi iktidar geldiğinde suriyeye ilhak olmak istese ne yapacaksın. zaten amaç oydu dimi istikrarı asla olmayacak bir türkiye. devam böyle benim cahil milletim. yol yaptılar, kanal istanbul yapacaklar..",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "50 bin suriyeli mültecinin daha türkiye'ye gelmesi",
+      "entry_id": "99334298",
+      "author": "inat edip saunada terlemeyen adam",
+      "date": "19.12.2019 15:55",
+      "content": "siz mülteci dersiniz, bakmışınız seçmen olmuşlar.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "50 bin suriyeli mültecinin daha türkiye'ye gelmesi",
+      "entry_id": "99334556",
+      "author": "barbatos lupus rex",
+      "date": "19.12.2019 16:01",
+      "content": "biz çıkalım isterseniz.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "50 bin suriyeli mültecinin daha türkiye'ye gelmesi",
+      "entry_id": "99334576",
+      "author": "reyhanlili",
+      "date": "19.12.2019 16:02",
+      "content": "sikilse sesi çıkmayan bir halkın ülkesine geliyorlar. vallahi trene bakar gibi bakıyoruz...",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "50 bin suriyeli mültecinin daha türkiye'ye gelmesi",
+      "entry_id": "99334980",
+      "author": "barely evil",
+      "date": "19.12.2019 16:11",
+      "content": "bakmışsınız iktidar olmuşlar.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "50 bin suriyeli mültecinin daha türkiye'ye gelmesi",
+      "entry_id": "99338841",
+      "author": "misafirim",
+      "date": "19.12.2019 17:50 ~ 19:14",
+      "content": "gaziantep' ten bildiriyorum.\nher yer leş, mikrop. 2 aydır müthiş bir virüs salgını var. hastaneler tıklım tıklım. devlet hastanelerine adım atılmıyor zaten. girsen daha enfekte çıkıyorsun. özeller bi dünya para. göze alıp gitsen de yoğunluktan muayene olamadığın zamanlar oluyor.\navmlere aklı olan girmez. okullar hakeza. mülteci sınıfları var. hem devlete hem vatandaşa her türlü yük.\nkültür farklılığına, çocuğuna eziyet eden mülteci annelerin bozduğu sinirlere, her ortamda bağıra çağıra konuşmalara, otobüste insani boğan o değişik kokulara vs vs pek girmiyorum bile.\n\nve hala 5 bin daha geliyor öyle mi? bize de gidecek bir yer bulsun sayın yetkililer madem. zira bu sekilde yaşanmıyor artik memleketimde.\n\nedit: 50 binmiş. fazla iyimsermişim.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "CULTURE",
+        "ECON"
+      ]
+    },
+    {
+      "title": "50 bin suriyeli mültecinin daha türkiye'ye gelmesi",
+      "entry_id": "99366888",
+      "author": "circle of eyes",
+      "date": "20.12.2019 10:33",
+      "content": "2020 yılı boyunca çıkacak benzer haberlerin ne ilki ne de sonudur.\nistenmediklerini anladıkları ana kadar akın akın gelmeye de devam edecekler.\nneticde resmen beleş bir hayat vaad edilmiş; vergi yok fatura yok ceplerinde harçlıkları var, millet götünü yırtıp üniversite eğitimi alamazken bunlar sınava da girmiyor, adı üstünde: kavm-i necip .",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "50 bin suriyeli mültecinin daha türkiye'ye gelmesi",
+      "entry_id": "99369850",
+      "author": "qappaq",
+      "date": "20.12.2019 12:00",
+      "content": "bop projesi dedikleri buymuş. türk'ü yok edip yerine arabı yerleştirmek!\nümmet ümmet yaşayın gari, ben terk.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "50 bin suriyeli mültecinin daha türkiye'ye gelmesi",
+      "entry_id": "99370051",
+      "author": "bugracetinkaya",
+      "date": "20.12.2019 12:06",
+      "content": "insanı ülkesinden sogutmaya calışmaktır bu suriler baska bir neden gelemiyor:(",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "50 bin suriyeli mültecinin daha türkiye'ye gelmesi",
+      "entry_id": "99370342",
+      "author": "kac yasima geldim hala oyun oynuyorum",
+      "date": "20.12.2019 12:15",
+      "content": "gelsinler tabi suriyede suriyelinin zaten ne işi var. suriyeli dediğin türkiyede nargile içip yan gelip yatmalı. diğer türlüsü suriyeli sayılmaz.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "50 bin suriyeli mültecinin daha türkiye'ye gelmesi",
+      "entry_id": "99421669",
+      "author": "suda bogulan marjinal balik",
+      "date": "21.12.2019 18:07 ~ 18:08",
+      "content": "sayı 100 bini geçmiştir:\nhttps://twitter.com/…tatus/1208320774005760000?s=19",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "50 bin suriyeli mültecinin daha türkiye'ye gelmesi",
+      "entry_id": "99424377",
+      "author": "osmancik57",
+      "date": "21.12.2019 19:23",
+      "content": "öncelikle hoş geldiniz, safalar getirdiniz.\n\nister suriye’den gelmiş olun ister başka bir yerden, diliniz, dininiz, mezhebiniz ne olursa olsun, yanınızda olduğumu vurgulamak istiyorum.\n\nnasıl bir zahmetli yolculukla buraya geldiğinizi, ne tür badireler atlatmış olabileceğinizi tahmin edebiliyorum.\n\nanlatacak çok şeyiniz olduğunu da.\n\nsizinle birlikte yola çıkanların bazılarının buraya ulaşamadan yitip gittiğini gördünüz belki, belki aile fertlerinizden, sizin için dünyadaki en değerli varlıklardan birini kaybettiniz o çileli yolculukta.\n\nkaybettiklerinizi geriye getiremem, ne kadar anlamaya çalışırsam çalışayım, yaşadıklarınızı anlayamam da.\n\nama sizin yanınızda olabilirim ve yanınızdayım. şunu bilin ki, bu ülkede milyonlarca insan da sizin yanınızda ve sizin buradaki varlığınızdan hiçbir şekilde şikâyetçi değil.\n\ngittiğim her şehirde, sizinle dayanışma için birbirleriyle yarışan insanlar gördüm ben.\n\nelbette size kızan, kötü muamele eden, hatta canınıza kast edebilen, insan türü adına utanç duyduğum vatandaşlarım da var.\n\nbelki onlar adına değil ama onlardan gelen kötülüğe karşı sizi yeterince koruyamadığım için kendi adıma özür dilerim.\n\nmaalesef bu dünyayı zalimlerle paylaşmak zorundayız. ama bu, hiçbir şekilde onların kötülüğüne göz yummak anlamına gelmiyor. kimse sizden, onları affetmenizi veya ihlallerine sessiz kalmanızı bekleyemez. vicdanen affetseniz bile hukukun onları cezalandırmasını talep edebilirsiniz ve etmelisiniz.\n\nsevgili dostlarım,\n\nşunu hatırlatmak isterim ki, sığınmacı olmak bir haktır. siz de hak sahibi bireylersiniz.\n\nbize borçlu değilsiniz, teşekkür etmeniz veya minnettarlık duymanız falan gerekmiyor.\n\nsahip olduğunuz haklar, hem evrensel, doğal hukuktan kaynaklanıyor, hem de pozitif hukuktan. siz şu an, yeryüzündeki yedi küsur milyar insandan her birinin sahip olduğu bir hakkı, sığınma hakkını kullanıyorsunuz ve geri kalanlara da bu hakkı tanımanın gereklerini yapmak düşüyor.\n\ninsan onuruna yaraşır bir muamele beklemek sizin için hak, başkaları için de yükümlülüktür.\n\nbu ülkenin vatandaşı olmadığınız için, bazı vatandaşlık haklarından bugün için yararlanamayabilirsiniz, ama insan haklarının tamamına, bu kapsamda ayrımcılığa uğramama hakkına, siz de herkes kadar sahipsiniz ve onları herkese karşı ileri sürebilirsiniz.\n\nnerede olursanız olun, başınız eğik, yüzünüz yerde olmasın. kendinize güvenin, ayağınız yere sağlam bassın ve haklarınızı talep edin.\n\nyaşadığınız felaket karşısında size kucak açan, kol kanat geren sayısız iyi insanın varlığını görmek, belki bir nebze de olsa teselli verici olabilir size. ben ise, yaşadığım ülkedeki erdemli insanların farkına varmama, hayata daha farklı bir gözle bakmamıza vesile olduğunuz için size teşekkür borçluyum.\n\nsevgili dostlarım,\n\nkendinizi vatansız kalmış hissetmeyin. sığınmacının vatanı bütün yeryüzüdür; burası sizin de vatanınız.\n\nher daim başımın üstünde yeriniz var.\n\nsaygılarımla.",
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "50 bin suriyeli mültecinin daha türkiye'ye gelmesi",
+      "entry_id": "99424820",
+      "author": "mawali06",
+      "date": "21.12.2019 19:34",
+      "content": "bir devlet düşünün ki, bilerek ve isteyerek mülteci ithal ederek kendi ülkesinin demografik yapısını değiştiriyor, kendi vatandaşını azınlık yapmaya çalışıyor. inanın bizden başka dünyada örneği yok, olmayacak da.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "50 bin suriyeli mültecinin daha türkiye'ye gelmesi",
+      "entry_id": "99458262",
+      "author": "suda bogulan marjinal balik",
+      "date": "22.12.2019 14:37 ~ 14:38",
+      "content": "suriye ve rusya idlib'i kuşatmaya başladı. yakın zamanda türkiye'ye 2-3 milyon civarında yeni mülteci gelecek.\nhttps://twitter.com/…tatus/1208686771363557376?s=19",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "50 bin suriyeli mültecinin daha türkiye'ye gelmesi",
+      "entry_id": "99458617",
+      "author": "jotunbarkov",
+      "date": "22.12.2019 14:47",
+      "content": "?",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "50 bin suriyeli mültecinin daha türkiye'ye gelmesi",
+      "entry_id": "99476410",
+      "author": "zkan83",
+      "date": "22.12.2019 21:26 ~ 21:27",
+      "content": "50 bin olan suriyeli sayısı an itibarı ile 80 bine çıktı yokmu arttıran",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "50 bin suriyeli mültecinin daha türkiye'ye gelmesi",
+      "entry_id": "99478528",
+      "author": "tek derdi kiz dusurmek olan yazar",
+      "date": "22.12.2019 22:04",
+      "content": "reis, bu akşam yaptığı konuşmada 80.000 mülteci müjdesi verdi.\n\nbaşlık güncellensin.",
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "50 bin suriyeli mültecinin daha türkiye'ye gelmesi",
+      "entry_id": "99478726",
+      "author": "azadsea",
+      "date": "22.12.2019 22:07",
+      "content": "sahadaki mevcut duruma bakılırsa 50.000 hiç birşey yakın zamanda çok daha büyük sayılardan bahsedeceğiz.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "50 bin suriyeli mültecinin daha türkiye'ye gelmesi",
+      "entry_id": "99479835",
+      "author": "matilda effect",
+      "date": "22.12.2019 22:25",
+      "content": "gözümüz aydın, son dakika açıklamasına göre 80 bin olan sayı\n\n\"cumhurbaşkanı erdoğan: 80 binin üzerinde idlibli kardeşimiz ülkemiz sınırına doğru göçe başladı\"\n\nhttps://twitter.com/…nsi/status/1208829574857076742",
+      "has_external_url": true,
+      "sentiment_numeric": 5,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "50 bin suriyeli mültecinin daha türkiye'ye gelmesi",
+      "entry_id": "99480934",
+      "author": "serguns",
+      "date": "22.12.2019 22:44",
+      "content": "sırf bu suriyeli meselesi yüzünden bazen düşünüyorum. biz önceleri ne güzel sabahlara uyanmışız da kıymetini bilmemişiz.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "50 bin suriyeli mültecinin daha türkiye'ye gelmesi",
+      "entry_id": "100020390",
+      "author": "zkan83",
+      "date": "03.01.2020 22:35",
+      "content": "bugün itibarı ile 250 bine yükseldi bölünerek çoğalmaya devam ediyorlar 25km lik yolda dahada artar sülalesini s...",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    }
+  ]
+}

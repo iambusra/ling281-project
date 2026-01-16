@@ -1,0 +1,233 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:32:21.417852",
+    "total_entries": 18,
+    "input": "rusların türkiye'ye kaçması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rusların türkiye'ye kaçması",
+      "entry_id": "134729206",
+      "author": "hytsnzl",
+      "date": "10.03.2022 00:02",
+      "content": "neredeyse bütün dünya tarafından ambargo yiyen rus vatandaşlarının tarafsız hareket eden türkiye'ye kaçması durumu.\n\nhabere göre moskova'daki thy ofisinin önünde kuyruk varmış.",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "rusların türkiye'ye kaçması",
+      "entry_id": "134729651",
+      "author": "kerrafik jehri",
+      "date": "10.03.2022 00:10",
+      "content": "ukrayna'li insanlara yapılan saldırının sebepi kötü politikacilardir. rus halkı değildir. tüm dünyadaki ruslara ve rusya'daki halka yapılanlarda yine başka bir ayıptır.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "rusların türkiye'ye kaçması",
+      "entry_id": "134730504",
+      "author": "prizrak",
+      "date": "10.03.2022 00:27",
+      "content": "şu an yurtdışına çıkmanın birkaç yolundan biri önce türkiye ye uçup oradan istediğin ülkeye bilet almak olduğu için normal olan durum. asyaya doğru gitmeyen herkesin tek yolu gibi birşey. kaçı kalır kaçı transit geçer bilemiyorum tabii.\n\nböyle giderse bende eninde sonunda istanbul üzerinden belgrad şeklinde gitmek zorunda kalacağım için oradan biliyorum. hiçbir yere direkt uçuş kalmadı gibi birşey. fiyatlar zaten alev alev. düzelir diye beklerken daha beter olmaz umarim.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "ECON",
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rusların türkiye'ye kaçması",
+      "entry_id": "134731178",
+      "author": "osbirci31",
+      "date": "10.03.2022 00:38 ~ 01:51",
+      "content": "önümüzdeki yıllarca birazcık parası olan, eğitimli ve donanım sahibi rusların ellerine fırsat geçer geçmez rusya'dan kaçışını izleyeceğiz. putin de doktorsuz mühendissiz ülkeyi çomarlarıyla yönetir.\n\ngerçi türkiye de benzer sorunlarla başbaşa ama o başka entry'nin konusu.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "rusların türkiye'ye kaçması",
+      "entry_id": "134733222",
+      "author": "kifayetsizkelimeler",
+      "date": "10.03.2022 01:15",
+      "content": "dün samsun'dan ankara'ya gelirken farklı zamanlarda 3 adet rus plakalı araçla karşılaşmış, acaba mı demiştim.\n\nihtimali yüksek kaçışlardır.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "rusların türkiye'ye kaçması",
+      "entry_id": "134733621",
+      "author": "abideihurriyet",
+      "date": "10.03.2022 01:25",
+      "content": "türkiye’yi geçiş güzergahı olarak kullansalar bile ekonomiye katkı sunacak olaydır.\nbunun dışında yaz aylarında da baya bir rus turist olacağa benziyor fakat paraları pul olduğu için sıkıntı da olabilir.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "ECON"
+      ]
+    },
+    {
+      "title": "rusların türkiye'ye kaçması",
+      "entry_id": "134733746",
+      "author": "the amazing turkishman",
+      "date": "10.03.2022 01:29",
+      "content": "takip ettiğim az bilinen bir rus model vardı savaşın 4.-5. günü artık burada duramam diye istanbul bileti koymuştu. sonrasnda burada mı kaldı aktarma mı yaptı haberim olmadı.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rusların türkiye'ye kaçması",
+      "entry_id": "134733800",
+      "author": "otlu gozleme",
+      "date": "10.03.2022 01:31 ~ 02:09",
+      "content": "türkiye'de tuzumuz kuru her şey güllük gülistanlık. buyursunlar gelsinler bir hafta içinde ölmek daha iyiymiş diye kaçarlar.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "rusların türkiye'ye kaçması",
+      "entry_id": "134733977",
+      "author": "pikeyirtanbilardocu",
+      "date": "10.03.2022 01:36",
+      "content": "türkiye'nin ekonomik durumu düşünülünce geldikleri gibi giderler diyebiliriz",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "ECON"
+      ]
+    },
+    {
+      "title": "rusların türkiye'ye kaçması",
+      "entry_id": "134734050",
+      "author": "pasion",
+      "date": "10.03.2022 01:39",
+      "content": "mart sonuna kadar thy dışında uçuş yapan şirket kalmadığı için ortaya çıkan durum.\n\nnisan ayında diğer şirketler yine uçuşlarını iptal etmezlerse yığılma vs olmaz. zaten şuan rus uçaklarına tüm avrupa kapalı, tek çare türkiye' den aktarma ile gitmek.\n\ndedikodular bu durumun yıl sonuna kadar sarkacağı yönünde lakin adı üstünde dedikodu.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "ECON"
+      ]
+    },
+    {
+      "title": "rusların türkiye'ye kaçması",
+      "entry_id": "134734389",
+      "author": "umitsizseniz umit sizsiniz",
+      "date": "10.03.2022 01:51 ~ 01:51",
+      "content": "afyon otogarı aklınıza gelsin...",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rusların türkiye'ye kaçması",
+      "entry_id": "134766053",
+      "author": "krmzkalem",
+      "date": "10.03.2022 22:29",
+      "content": "https://emlakkulisi.com/…mlarini-hizlandirdi/691551",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rusların türkiye'ye kaçması",
+      "entry_id": "134766391",
+      "author": "ananiymus",
+      "date": "10.03.2022 22:37 ~ 22:38",
+      "content": "türkiye onlar için aktarma durağı gibi şu an, bize kaçma durumu yok. ülkeye gelmek isteyen türkiye üstünden geliyor, gitmek isteyen de türkiye üstünden gidiyor.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rusların türkiye'ye kaçması",
+      "entry_id": "144153853",
+      "author": "kuba gibiyim kendi kendime yetiy",
+      "date": "21.10.2022 01:07",
+      "content": "türkiye'ye gelen ruslar, suriyelilerle birlikte esadistan'a gönderilmeli. esad baksın onlara.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE"
+      ]
+    },
+    {
+      "title": "rusların türkiye'ye kaçması",
+      "entry_id": "153858257",
+      "author": "smurfy",
+      "date": "24.06.2023 19:37 ~ 19:39",
+      "content": "bugün çığrından çıkmış durum. ne kadar top seviye rus ve belaruslu varsa soluğu türkiye'de alıyor. link\n\ntüm dünyanın istemedikleri bizim ülkede toplanıyor yeter yav.",
+      "has_external_url": true,
+      "sentiment_numeric": 1,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "rusların türkiye'ye kaçması",
+      "entry_id": "162028335",
+      "author": "summerof69",
+      "date": "29.02.2024 20:50",
+      "content": "artık geri gidiyorlar:\n\nhttps://t24.com.tr/…-firsati-degerlendiremedi,43759",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rusların türkiye'ye kaçması",
+      "entry_id": "162029123",
+      "author": "salmo gardineri",
+      "date": "29.02.2024 21:16",
+      "content": "bir tkp üyesinin yazdığı rusları-ukraynalıları yağlayan bomboş bir yazı.\n\nneymiş bir de bunlardan özür dileyecekmişiz, höst.\n\nvatanını savunmayan insan muamelesi göremez.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "rusların türkiye'ye kaçması",
+      "entry_id": "174455277",
+      "author": "karelya",
+      "date": "11.04.2025 11:00",
+      "content": "sanction başladığında biraz yaşandı ancak genç ve eğitimli nesil moskova-bangkok arasında takılıyor.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

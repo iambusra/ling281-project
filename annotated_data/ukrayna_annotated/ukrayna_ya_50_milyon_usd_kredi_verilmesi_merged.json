@@ -1,0 +1,72 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:10:23.766087",
+    "total_entries": 5,
+    "input": "ukrayna'ya 50 milyon usd kredi verilmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukrayna'ya 50 milyon usd kredi verilmesi",
+      "entry_id": "64303810",
+      "author": "yeniturklirasi",
+      "date": "25.11.2016 08:12",
+      "content": "eskiden ne kadar basitti dünya, şimdi bu ne komplike misillemeler.\nkim dost, kim düşman.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'ya 50 milyon usd kredi verilmesi",
+      "entry_id": "64303821",
+      "author": "pez",
+      "date": "25.11.2016 08:14",
+      "content": "tayyip isini biliyor valla ver 50 milyon doları 3.40 dan, dolar bunlar odemeye 5-6 tl olur faiz artı kur farkından gelicek parayla zengin oluruz. ehonomi cok iyi masallah.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "ECON"
+      ]
+    },
+    {
+      "title": "ukrayna'ya 50 milyon usd kredi verilmesi",
+      "entry_id": "64303890",
+      "author": "pocoyo",
+      "date": "25.11.2016 08:24",
+      "content": "(bkz: ayranı yok içmeye taht-ı revanla gider sıçmaya)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'ya 50 milyon usd kredi verilmesi",
+      "entry_id": "64303923",
+      "author": "yankee jumping",
+      "date": "25.11.2016 08:28",
+      "content": "suriye'de 3 askerin şehit edilmesinin cevabı.. ha sonuçları ne olur orasını bilemiyorun",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'ya 50 milyon usd kredi verilmesi",
+      "entry_id": "64313291",
+      "author": "benzoylemetil ekgonin",
+      "date": "25.11.2016 17:58",
+      "content": "- \"kredi yıllık faiz oranı %2,5 \" bu faiz oranını dolar bazında mevduatta verebilecek bankalar var. bu para bizim olsa ki bir nevi öyle, en kötü ihtimalde bankaya yatırarak aynı kazanacağımız parayı kazanabilir ve anaparayı güvende tutabilirdik.\n\n- \" yıllık faiz oranı %2.5 olan bu kredinin temerrüt yani gecikme faizi %3\" yani ödeme yapılmasa da çok ciddi fark yaratmaz.\n\n- her yıl 2 kere sadece faiz borcu ödenecek . yani 4 yıl boyunca altı ayda bir 625.000$'lık 8 adet faiz ödemesi alacağız. 5. yıl ilk taksit yine 625.000$ son taksit anaparayla birlikte 50.625.000$ .\n\n50mio$ bu tarz platformlarda çok küçük paralar ve bu bir borç değil bence hibe gibi birşey. her tarafa göz kırpan türkiye ne yapacağını şaşırdı .",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "ECON"
+      ]
+    }
+  ]
+}

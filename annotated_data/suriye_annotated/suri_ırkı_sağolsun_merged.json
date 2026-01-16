@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:45:45.161828",
+    "total_entries": 1,
+    "input": "suri ırkı sağolsun",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suri ırkı sağolsun",
+      "entry_id": "141347430",
+      "author": "hosvelkam",
+      "date": "15.08.2022 17:29",
+      "content": "başlığın silinen ilk entrysine aşağıdaki görsel linkinden ulaşılabilen, yazar beyanıdır.\n\nbaşlığın silinen ilk entrysi görsel",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

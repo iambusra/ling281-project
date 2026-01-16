@@ -1,0 +1,50 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:55:11.601977",
+    "total_entries": 3,
+    "input": "suriyeliler gitti ucuza iş yaptırın da görelim",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeliler gitti ucuza iş yaptırın da görelim",
+      "entry_id": "171027585",
+      "author": "nesedenyana",
+      "date": "14.12.2024 19:59",
+      "content": "suriyelilerin gittiği yok,\nama yurdum çakalları bunu bahane edip zam yapma peşinde,",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "ECON",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyeliler gitti ucuza iş yaptırın da görelim",
+      "entry_id": "171027675",
+      "author": "beytiahzan",
+      "date": "14.12.2024 20:02 ~ 20:04",
+      "content": "(bkz: suriyelilerin gidişiyle yaşanacak işgücü sorunu)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "ECON"
+      ]
+    },
+    {
+      "title": "suriyeliler gitti ucuza iş yaptırın da görelim",
+      "entry_id": "171027744",
+      "author": "gucci mane",
+      "date": "14.12.2024 20:05",
+      "content": "evet, ucuza boktan kalitede iş yapıyorlardı ve siz vergi kaçırabilin diye sigortasız çalışıyorlardı.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "CRIME"
+      ]
+    }
+  ]
+}

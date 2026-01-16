@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:25:15.050964",
+    "total_entries": 2,
+    "input": "bizi siz öldürün vermeyin rusa",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "bizi siz öldürün vermeyin rusa",
+      "entry_id": "113595074",
+      "author": "desunoto",
+      "date": "28.09.2020 13:57",
+      "content": "2009'da azerbeycan bayraklarını toplayıp çöpe atıyorlardı. şimdi canımız oldular. 3 gün önce suudi arabistan din kardeşimizdi şehitlere gösterilmeyen saygı arap kralları için gösteriliyordu bugün amborga yedik:) bu kadar güçlü bir dış siyasete karşı trump korkmasın da kim korksun?:)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "bizi siz öldürün vermeyin rusa",
+      "entry_id": "113595163",
+      "author": "durbidakka",
+      "date": "28.09.2020 13:59",
+      "content": "başlık nasıl sıçılır örneğidir.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

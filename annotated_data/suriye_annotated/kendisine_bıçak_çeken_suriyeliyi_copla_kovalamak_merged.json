@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T14:59:27.471338",
+    "total_entries": 1,
+    "input": "kendisine bıçak çeken suriyeliyi copla kovalamak",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "kendisine bıçak çeken suriyeliyi copla kovalamak",
+      "entry_id": "161512563",
+      "author": "eurasia",
+      "date": "13.02.2024 14:06",
+      "content": "istanbul, fatih'te bakkala bıçak çekip para isteyen suriyeli’yi bir bakkal kafasına copla vura vura kovaladı. video",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CRIME"
+      ]
+    }
+  ]
+}

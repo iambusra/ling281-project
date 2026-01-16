@@ -1,0 +1,61 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:33:03.717084",
+    "total_entries": 4,
+    "input": "rusların ve ukraynalıların tank düellosu",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rusların ve ukraynalıların tank düellosu",
+      "entry_id": "159863350",
+      "author": "osbirci31",
+      "date": "19.12.2023 19:49 ~ 19:50",
+      "content": "savaşların hiç de filmlere benzemediğini gösteren bir başka video. bir filmde olsa o tank daha ilk atışta diğerini imha etmiş olurdu.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rusların ve ukraynalıların tank düellosu",
+      "entry_id": "159863877",
+      "author": "belki de o gezegen yok olup gitti",
+      "date": "19.12.2023 20:13",
+      "content": "tanklardan çok personel farkı görülüyor. sabit durup dağlara taşlara atarsan böyle olur.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rusların ve ukraynalıların tank düellosu",
+      "entry_id": "159863902",
+      "author": "anonimolduhaykirislarim",
+      "date": "19.12.2023 20:13",
+      "content": "world of tanks sahnesi gibi. map biraz daha güzel olabilirdi yalnız",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rusların ve ukraynalıların tank düellosu",
+      "entry_id": "159864220",
+      "author": "somun civata",
+      "date": "19.12.2023 20:25",
+      "content": "ruslar bildigin salak. madem bir savas bu, git 3-5 hamas militani bul. bu ukraynalilar da yahudi de. olayi coz.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    }
+  ]
+}

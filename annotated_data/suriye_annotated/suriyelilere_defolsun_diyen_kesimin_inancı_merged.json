@@ -1,0 +1,49 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:58:46.171808",
+    "total_entries": 3,
+    "input": "suriyelilere defolsun diyen kesimin inancı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelilere defolsun diyen kesimin inancı",
+      "entry_id": "149628047",
+      "author": "0game",
+      "date": "21.02.2023 21:50",
+      "content": "elhamdülillah müslümanım.\n\nniye ki?",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyelilere defolsun diyen kesimin inancı",
+      "entry_id": "149628139",
+      "author": "chessplayer44",
+      "date": "21.02.2023 21:51",
+      "content": "akıl ve mantıktır.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyelilere defolsun diyen kesimin inancı",
+      "entry_id": "149628293",
+      "author": "gs007tr",
+      "date": "21.02.2023 21:53",
+      "content": "suriyenin kuzeyinde kürt devleti oluşmasın istiyorumdur.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "POLICY"
+      ]
+    }
+  ]
+}

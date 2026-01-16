@@ -1,0 +1,26 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:59:37.584133",
+    "total_entries": 1,
+    "input": "suriyelilere vatandaşlık vermemek ırkçılıktır",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelilere vatandaşlık vermemek ırkçılıktır",
+      "entry_id": "139436782",
+      "author": "kahvede yan bakan adam",
+      "date": "01.07.2022 00:18 ~ 00:21",
+      "content": "aslında başlık \"suriyelilere vatandaşlık verilmesin demek ırkçılıktır\" olacaktı.\n\n2017 referendum döneminde chp gaziantep'te bir broşür dağıtıyor. zafer partisi mi dağıtıyor chp mi belirsiz:d neyse efendim takvim gazetesi bunu alıyor ve \"chp ırkçılık yapıyor\" diye haber yapıyor. takvim'e göre suriyelilerin vatandaş yapılmaması demek ki ırkçılık oluyor. sığınmacı sorununun zirve yaptığı şu dönemde bunların unutmaması gerektiğini düşünüyorum",
+      "has_external_url": true,
+      "sentiment_numeric": 4,
+      "categories": [
+        "XENO",
+        "POLICY",
+        "HUMAN"
+      ]
+    }
+  ]
+}

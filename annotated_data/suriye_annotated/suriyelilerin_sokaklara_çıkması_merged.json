@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:05:22.567874",
+    "total_entries": 1,
+    "input": "suriyelilerin sokaklara çıkması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelilerin sokaklara çıkması",
+      "entry_id": "170834873",
+      "author": "kolaymolaygelsin",
+      "date": "08.12.2024 10:34 ~ 10:37",
+      "content": "esad rejiminin devrilmesi ile vuku bulan olay. bakın tekrar ediyorum ülkemizde her yerde binlerce suriyeli bayraklarıyla kalabalığıyla birlikte esad rejiminin devrilmesini kutlamakta.\n\nşanlıurfa\n\nistanbul\n\nhatay\n\nbakın tekrar söylüyorum ülkelerinde savaş var diye türkiye cumhuriyete devletine sığınan suriyelilerin sokaklara çıkıp kutlama yapmasından bahsediyoruz. bu ülkede artık kimse 10 kasım 23 nisan 29 ekim gibi tarihleri bu coşkuyla kutlamıyor kutlayamıyor. madem bu kadar mutlusunuz hepiniz siktirin gidin çok sevdiğiniz bok çukuruna!",
+      "has_external_url": true,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    }
+  ]
+}

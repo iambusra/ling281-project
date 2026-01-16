@@ -1,0 +1,868 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:24:36.618140",
+    "total_entries": 66,
+    "input": "rus uçağı erdoğan'a zarar vermek için düşürüldü",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rus uçağı erdoğan'a zarar vermek için düşürüldü",
+      "entry_id": "56525414",
+      "author": "abbathfromhell",
+      "date": "26.11.2015 20:38",
+      "content": "(bkz: bi sen eksiktin tam olduk)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "rus uçağı erdoğan'a zarar vermek için düşürüldü",
+      "entry_id": "56525441",
+      "author": "trmert",
+      "date": "26.11.2015 20:39 ~ 20:40",
+      "content": "doğu perinçek, bu açıklaması ile, 2019 secimlerinde akp mv'ligine goz kirpmistir.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "rus uçağı erdoğan'a zarar vermek için düşürüldü",
+      "entry_id": "56525472",
+      "author": "more space",
+      "date": "26.11.2015 20:40",
+      "content": "akranlarının gerek siyaset arenasından, gerekse dünyevi hayattan teker teker feragat ettiği bir siyasetci eskisinin söylemi.\n(bkz: bunamak)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "rus uçağı erdoğan'a zarar vermek için düşürüldü",
+      "entry_id": "56525490",
+      "author": "a for axi",
+      "date": "26.11.2015 20:41",
+      "content": "(bkz: paralel'e bağlayacaklar matmazel)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus uçağı erdoğan'a zarar vermek için düşürüldü",
+      "entry_id": "56526179",
+      "author": "insan haltlari",
+      "date": "26.11.2015 21:12",
+      "content": "(bkz: #56526070)\n\nolm oldu lan. perincek kafasina ulastim sonunda. hic ulasamam saniyordum. yuru beee. abd emperyalizmi yapmistir kesin. vay yavrum.",
+      "referenced_content": [
+        {
+          "type": "entry",
+          "title": "ucagi-vuran-pilot-paraleldi",
+          "entry_id": "56526070",
+          "author": "insan haltlari",
+          "date": "26.11.2015 21:06 ~ 21:08",
+          "content": "(bkz: serefsizim aklima gelmisti)\n\nama biraz daha suslu bir komplo olabilir. \"hukumeti hedef alan ust akilla baglantili derin bir yapi.\", \"orduda temizlenememis amerika baglantili cunta artiklari.\" falan gibi. metiner, tayyar falan kanal kanal gezip tekrarlar, reis mitinglerle anlatir. saka saniyorsun ama olmayacak sey degil. yedirirler mi, illaki...",
+          "has_external_url": false
+        }
+      ],
+      "referenced_entry_ids": [
+        "56526070"
+      ],
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "rus uçağı erdoğan'a zarar vermek için düşürüldü",
+      "entry_id": "56526225",
+      "author": "o felix",
+      "date": "26.11.2015 21:14",
+      "content": "doğu perinçek olunca pek de şaşırmadığım açıklama. mantığa bakar mısın, en çok zarar gören erdoğanmış o halde erdoğana zarar vermek için yapılmışmış. ulan ne menem bir akıl tutulmasıdır bu yaa?\n\nhayır efendim, bu olaydan en çok zarar gören o uçağı vuran pilotumuzdur. adamın hayatı tehlikeye girdi lan resmen. demek ki o pilotumuzu çekemeyen birileri yapmış bunu.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "rus uçağı erdoğan'a zarar vermek için düşürüldü",
+      "entry_id": "56526245",
+      "author": "tekirkedi",
+      "date": "26.11.2015 21:15",
+      "content": "bir onerme.dogrulugu nasil olsa ispatlanir niyet ettikten sonra.ayrica;susar misin slk,şamil tayyar agliyor su an \"nasil ben akil edemedim\"diye:(((",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "rus uçağı erdoğan'a zarar vermek için düşürüldü",
+      "entry_id": "56526279",
+      "author": "dnazr",
+      "date": "26.11.2015 21:17",
+      "content": "doğu perinçek yıllardır siyaset sahnesinde kuklayı oynamaktan yorulmadı adam tam bir kemiksiz hiç bir açıklaması yada hareketinin arkasının devamı aynı minvalde olmadı olmadı çünkü \"kasapteki ete soğan doğramaz\" kemiksiz hıyar...",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "rus uçağı erdoğan'a zarar vermek için düşürüldü",
+      "entry_id": "56526328",
+      "author": "milli gurme",
+      "date": "26.11.2015 21:19",
+      "content": "şimdi o pilot düşünsün diyor,tanımsız terk-i diyar ediyorum.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "rus uçağı erdoğan'a zarar vermek için düşürüldü",
+      "entry_id": "56526365",
+      "author": "taco",
+      "date": "26.11.2015 21:20",
+      "content": "let me guess;\n\n(bkz: kandırıldık)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus uçağı erdoğan'a zarar vermek için düşürüldü",
+      "entry_id": "56526390",
+      "author": "dertlerederman",
+      "date": "26.11.2015 21:21",
+      "content": "başlığı görünce, yeni şafak haberi sandığım.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus uçağı erdoğan'a zarar vermek için düşürüldü",
+      "entry_id": "56526403",
+      "author": "ben smyrna",
+      "date": "26.11.2015 21:21",
+      "content": "solcu.a.a ahahaha aha ve komünist .a.. ahaha hahaha bir kişi cümlesi.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "rus uçağı erdoğan'a zarar vermek için düşürüldü",
+      "entry_id": "56526600",
+      "author": "mytholog",
+      "date": "26.11.2015 21:29",
+      "content": "bu ne lan şimdi? tsk içerisinde natocu-asyacı mücadelesi mi var? endişe uyandırıcı bir beyan.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "rus uçağı erdoğan'a zarar vermek için düşürüldü",
+      "entry_id": "56526652",
+      "author": "fani dunya",
+      "date": "26.11.2015 21:31",
+      "content": "perincek'in rte aşkının geldiği son nokta. tsk'nın rte'ye darbe yaptığını iddia eder hale gelmek için ne yiyip içmek gerektiğine varın siz karar verin! sanırım bir sonraki iddiası, tsk'nın camileri bombalayacağı şeklinde olacaktır.....",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "rus uçağı erdoğan'a zarar vermek için düşürüldü",
+      "entry_id": "56526722",
+      "author": "ah minel aski ve halatihi",
+      "date": "26.11.2015 21:34 ~ 21:35",
+      "content": "akp öyle bir seçmene hitabediyor ki, ahmet davutoğlu'nun uçağın vurulması emrini bizzat ben verdim açıklamasına rağmen yarın erdoğan ya da davutoğlu \"uçağı paralel subayla düşürdü\" iddiasını dillendirse bu iddia akp seçmeni tarafından havada kapılır. böyle bir ortamda perinçek'in bu açıklaması akp seçmenine uzatılmış bir daldır. o dala da yapışacaktır seçmen.",
+      "referenced_content": [],
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "rus uçağı erdoğan'a zarar vermek için düşürüldü",
+      "entry_id": "56526735",
+      "author": "benantikaseviyorum",
+      "date": "26.11.2015 21:34",
+      "content": "benim bldigim ucagi tsk dusurdu. perinceg'e gore tsk erdogan'a zarar vermek icin dusurdu ucagi. o zaman tsk paralel . zamaninda paralelciler paralel tsk'nin generallerini askerlerini erdogani kandirarak komployla hapse tikti. eee o zaman paralel kendine mi paralel?",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "rus uçağı erdoğan'a zarar vermek için düşürüldü",
+      "entry_id": "56526808",
+      "author": "pageplant",
+      "date": "26.11.2015 21:37",
+      "content": "(bkz: kuzenim düşürmüş)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus uçağı erdoğan'a zarar vermek için düşürüldü",
+      "entry_id": "56526853",
+      "author": "kivanco",
+      "date": "26.11.2015 21:38",
+      "content": "aktroll'ler baksın da feyiz alsın amk. yıllardır yalıyorsunuz bu seviyelere gelemedeniz.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "rus uçağı erdoğan'a zarar vermek için düşürüldü",
+      "entry_id": "56526869",
+      "author": "alehinalestin",
+      "date": "26.11.2015 21:38",
+      "content": "(bkz: nereden dönersen dön dönek derler)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "rus uçağı erdoğan'a zarar vermek için düşürüldü",
+      "entry_id": "56527096",
+      "author": "ne slonyatsya",
+      "date": "26.11.2015 21:47",
+      "content": "(bkz: burhan sen misin?)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus uçağı erdoğan'a zarar vermek için düşürüldü",
+      "entry_id": "56527231",
+      "author": "shed",
+      "date": "26.11.2015 21:52",
+      "content": "gayet sarılmamız gereken bir iddia. ordan yürürsek girmeye çabaladığımız bataklıktan sıyrılabiliriz. zarar verilmeye çalışılan kendine açıklamalarıyla zarar vermeye çalışmazsa iyi olur gerçi.\n\ngenelkurmay: düşürdüğümüz uçağın milliyeti belli değil.\n\ncumhurbaşkanı: bir rus uçağı düşürdük\n\nöğretmenler: alkış alkış\n\ngenelkurmay: rus uçağı olduğunu bilmiyorduk. pilotları kurtarmaya çalıştık.\n\ncumhurbaşkanı: özür dilemeyeceğiz\n\nallış alkış alkış",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "rus uçağı erdoğan'a zarar vermek için düşürüldü",
+      "entry_id": "56527243",
+      "author": "bordomaviasi",
+      "date": "26.11.2015 21:53",
+      "content": "ohhhh devam et tatlımmm",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "rus uçağı erdoğan'a zarar vermek için düşürüldü",
+      "entry_id": "56527292",
+      "author": "skarlet ohara",
+      "date": "26.11.2015 21:54 ~ 21:59",
+      "content": "haber kadar asıl haber kaynağı olan rotahaber ile yapılan bir mülakatta söylenmiş olması ve bunu bu cemaatçi sitenin yayınlamış olması..\nbeyin yakan komploculuk budur..",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "rus uçağı erdoğan'a zarar vermek için düşürüldü",
+      "entry_id": "56527329",
+      "author": "lamba fitili",
+      "date": "26.11.2015 21:56",
+      "content": "türk siyasi tarihinin gördüğü en büyük trollün açıklamasıdır.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "rus uçağı erdoğan'a zarar vermek için düşürüldü",
+      "entry_id": "56527856",
+      "author": "randimanli",
+      "date": "26.11.2015 22:15",
+      "content": "doğu perinçekin şaşırtıcı beyanı. ben şaşırmadım da fanatik sevenleri çok, onlar için şaşırtıcıdır herhalde.\n\nröportajın tamamı şurada .",
+      "referenced_content": [],
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "rus uçağı erdoğan'a zarar vermek için düşürüldü",
+      "entry_id": "56527926",
+      "author": "bayan uyukucu",
+      "date": "26.11.2015 22:19",
+      "content": "yemin ediyorum kafa o kadar gitti ki bir an doğu perinçek neresiydi amk diye düşündüm . allah belamı versin ya da iyisi mi sizinkini versin ben uyumaya gidiyorum.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "rus uçağı erdoğan'a zarar vermek için düşürüldü",
+      "entry_id": "56528241",
+      "author": "fullcontact",
+      "date": "26.11.2015 22:31 ~ 22:31",
+      "content": "düşen uçağın maliyeti beklenenden fazla olursa \"b\" planı bu . perinçek biraz tez canlı davranmış.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "rus uçağı erdoğan'a zarar vermek için düşürüldü",
+      "entry_id": "56528287",
+      "author": "bordomaviasi",
+      "date": "26.11.2015 22:32",
+      "content": "bülent ersoy vol 2",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus uçağı erdoğan'a zarar vermek için düşürüldü",
+      "entry_id": "56529222",
+      "author": "vicilantist",
+      "date": "26.11.2015 23:08",
+      "content": "önce soner yalçın, şimdi de bu.. soner yalçın da ordu içindeki fettoşçulara atıf da bulunuyordu.\n\neski kankiler bir araya geliyorlar. ilginç..",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "rus uçağı erdoğan'a zarar vermek için düşürüldü",
+      "entry_id": "56529487",
+      "author": "skop",
+      "date": "26.11.2015 23:18",
+      "content": "bir aktroll beyanıdır.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "rus uçağı erdoğan'a zarar vermek için düşürüldü",
+      "entry_id": "56529588",
+      "author": "abi enikonu icecegiz",
+      "date": "26.11.2015 23:22",
+      "content": "askeri çok sevmiyor muydu bu abimiz. ordu, vatan, millet falan. ee ordu mu erdogan'a zarar veriyor komutanim. ahaha.\n\nperinçek tutarsizliginin en güzel orneklerinden bir söz.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "rus uçağı erdoğan'a zarar vermek için düşürüldü",
+      "entry_id": "56530067",
+      "author": "serwet",
+      "date": "26.11.2015 23:39",
+      "content": "emri ben verdim diyen davutoğlu'nun açıklamasıyla beraber ele alındığında mantıklı gelen tespit.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "rus uçağı erdoğan'a zarar vermek için düşürüldü",
+      "entry_id": "56530147",
+      "author": "sodiumnitrate",
+      "date": "26.11.2015 23:42",
+      "content": "bu adamin beynine kan gitmiyo bi suredir zaten de, bu da cok fantastik olmus yahu.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "rus uçağı erdoğan'a zarar vermek için düşürüldü",
+      "entry_id": "56530489",
+      "author": "ball porsugu",
+      "date": "26.11.2015 23:54",
+      "content": "basgan düneyin zabahinan ucagi kaakmişlar",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "rus uçağı erdoğan'a zarar vermek için düşürüldü",
+      "entry_id": "56530998",
+      "author": "koministimam2",
+      "date": "27.11.2015 00:10 ~ 00:12",
+      "content": "mehmet barlas ve rasim ozan da dahil olmak üzere bilimum yandaş ve havuz medya elemanının, bu beyanat sonrası toplu bir özeleştiri ile \"böyle bir açıklama nasıl bizim aklımıza gelmez\" diyerek intihar eylemi planladıkları alınan duyumlar arasındaymış!\n\nzaytung haber",
+      "referenced_content": [],
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "rus uçağı erdoğan'a zarar vermek için düşürüldü",
+      "entry_id": "56531176",
+      "author": "sofa",
+      "date": "27.11.2015 00:17",
+      "content": "türk siyasetinin ajdar'ı bir amcamızdan inciler..",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "rus uçağı erdoğan'a zarar vermek için düşürüldü",
+      "entry_id": "56531241",
+      "author": "defansi olmayan takimin kalecisi",
+      "date": "27.11.2015 00:20",
+      "content": "doğu perinçek'in son zamanlarda başlayan iran ve rusya aşkının son meyvesi. neler dönüyor acaba..",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "rus uçağı erdoğan'a zarar vermek için düşürüldü",
+      "entry_id": "56531299",
+      "author": "yine sisirdiniz beni",
+      "date": "27.11.2015 00:23",
+      "content": "180 derece dönme hızı konusunda akp ile yarışabilecek tek kişinin zırva beyanatı.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "rus uçağı erdoğan'a zarar vermek için düşürüldü",
+      "entry_id": "56531480",
+      "author": "takrolimusmonohidrat",
+      "date": "27.11.2015 00:31",
+      "content": "(bkz: 25 yıldır tam bitecekti) denen örgüt içerir",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "rus uçağı erdoğan'a zarar vermek için düşürüldü",
+      "entry_id": "56533629",
+      "author": "protospher",
+      "date": "27.11.2015 02:49 ~ 02:49",
+      "content": "şaşırılacak bir demeç değil. türkeş'in oğlu bunların önünde yepyeni bir ufuk açtı. kapıyı aralık gören omuz veriyor işte.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "rus uçağı erdoğan'a zarar vermek için düşürüldü",
+      "entry_id": "56533696",
+      "author": "oorangepie",
+      "date": "27.11.2015 02:57",
+      "content": "bravo",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "rus uçağı erdoğan'a zarar vermek için düşürüldü",
+      "entry_id": "56534250",
+      "author": "tatli limoncu",
+      "date": "27.11.2015 04:47",
+      "content": "söyleşinin orijinal kaynağı burası: http://www.rotahaber.com/…hedef-aliyor-h570623.html\n\nsöyleşiyi çok ham buldum ama tamamı okunduğunda, doğu perinçek'in açıkladığı görüşün iç politikadan çok, dış politikaya dair olduğu görülüyor. yani yaptığı açıklamaların \"tayyip'i devirmek istiyürler:'(\" değil de, \"türk-rus ilişkilerini bozmak istiyorlar\" olarak okunması daha doğru olur.\n\nrus savaş uçağının vurulması olayı ve sonrasında yaşananlar, el bebek gül bebek yetiştirilen bir çuval incirin berbat oluşu gibi... çünkü türk-rus ilişkileri yıllardır dostluk üzerinden ilerliyordu. iki ülke güçlü ticari bağlar kurmuş, bunun da ötesinde ikili güven oluşmuştu. öyle ki, türkiye stratejik anlamda en önemli projelerinden biri olan nükleer santral işini rusya'ya vermişti. ancak türkiye'nin rus uçağını düşman belleyerek düşürmesi, rusya'nın bu beklenmedik olaya beklendik şekilde sert tepki göstermesi, türkiye'nin nato'ya sığınması, rusya'nın bazı ilişkileri askıya alması ve giriştiği yaptırımlar... bunlar türkiye'yi nato'ya yaklaştıran, rusya'yı ise türkiye'den uzaklaştıran hamleler oldu.\n\nvatan partisi dış politikasının temeline nato'yu veya avrupa'yı değil, bir bütün olarak avrasya'yı koyan bir parti. bu doğrultuda türkiye'nin şangay iş birliği örgütüne üye olmasını ve batı asya birliğinin kurulmasını savunuyor. bölge ülkeleriyle bizzat temaslar kuruyor, ikili ilişkiler geliştiriyor, o ülkelerde temsilcilikler açıyor ve dost halkların devletlerini de yeniden dost kılmak için çaba gösteriyor. bu olaylar silsilesi, vatan partisi'nin dış politika ekseni olan avrasyacılığa çok sert bir darbe vurdu. türkiye'nin rusya ile ilişkilerinin bozulması, hatta düşmanlığa evrilmesi demek, vatan partisi'nin avrasyacı dış politikasının kısa ve orta vadede çökmesi demek.\n\ndoğu perinçek de kendine bu aşamada türkiye ile rusya arasında arabuluculuk rolü biçmiş gibi görünüyor. rusya'ya \"türkiye, dost rus uçağını neden vursun ki?\" diyerek sesleniyor. türkiye'deki hükümete ise, yol yakınken bir şekilde işleri toparlamasını ve rusya ile ilişkileri yeniden rayına sokmasını salık veriyor. çünkü avrasyacılık politikası sürdürülecekse, türkiye ve rusya'nın hasmane tutumlar içine girmemesi ve yeniden sıcak ilişkiler geliştirmesi gerekiyor.",
+      "referenced_content": [],
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "rus uçağı erdoğan'a zarar vermek için düşürüldü",
+      "entry_id": "56534415",
+      "author": "garibdildar",
+      "date": "27.11.2015 05:43",
+      "content": "zarar vermek icin dusuruldu ise nolacak dusulmesiyse ne olacak",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "rus uçağı erdoğan'a zarar vermek için düşürüldü",
+      "entry_id": "56535584",
+      "author": "toplumsanallasma",
+      "date": "27.11.2015 09:13",
+      "content": "doğu perinçek'in desteklediği bir lidere \"islamcı\"ların oy veriyor olması... ulan nasıl bir ülke burası???",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE"
+      ]
+    },
+    {
+      "title": "rus uçağı erdoğan'a zarar vermek için düşürüldü",
+      "entry_id": "56535646",
+      "author": "tayfalarsaisyanlarda",
+      "date": "27.11.2015 09:16",
+      "content": "ordu da kim kaldı da zarar verecek? diye sordurtur. emri veren de, alan da kendi adamı.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "rus uçağı erdoğan'a zarar vermek için düşürüldü",
+      "entry_id": "56535653",
+      "author": "andrew",
+      "date": "27.11.2015 09:17",
+      "content": "(bkz: doğu perinçek/@andrew)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus uçağı erdoğan'a zarar vermek için düşürüldü",
+      "entry_id": "56535957",
+      "author": "yamuk prenses ve 7 cuceler",
+      "date": "27.11.2015 09:40",
+      "content": "şüpheleniyordum ama emin olamıyordum. anlaşılan o ki eski derin devlet erdoğan'ı ele geçirmiş.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "rus uçağı erdoğan'a zarar vermek için düşürüldü",
+      "entry_id": "56536079",
+      "author": "kiymiktir batar",
+      "date": "27.11.2015 09:48",
+      "content": "ya o perinçek'i saltanat kayığına atıp,\nruhumda hicranın'ı söyletme hikayesini?\n\ngeç bunları...",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "rus uçağı erdoğan'a zarar vermek için düşürüldü",
+      "entry_id": "56536122",
+      "author": "lastcapturee",
+      "date": "27.11.2015 09:50",
+      "content": "vay arkadaş bunuda gördük yaaa....",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus uçağı erdoğan'a zarar vermek için düşürüldü",
+      "entry_id": "56536795",
+      "author": "sabahlamayi seven adam",
+      "date": "27.11.2015 10:29",
+      "content": "(bkz: vatan ta ta ta tan)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus uçağı erdoğan'a zarar vermek için düşürüldü",
+      "entry_id": "56536798",
+      "author": "kitarobit",
+      "date": "27.11.2015 10:30",
+      "content": "bir dönem daha ülke yönetimi akp tarafından garantilendiği için desteğini açıkça vermeye başlamış politikacı sözü.\n\nya da tırlarla ilgili ilk haberi kendi gazetesi aydınlık yaptığı için paçaları, ne paçası, götü tutuştu da yalakalık yapmaya çalışıyor.\n\nufacık partine bakmadan yatıp kalkıp gazetenden, televizyon kanalından chp'ye saydırmandan belliydi bazı şeyler ama bu defa kendini de, havuzu da aştın be ağam.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "rus uçağı erdoğan'a zarar vermek için düşürüldü",
+      "entry_id": "56537023",
+      "author": "smegy",
+      "date": "27.11.2015 10:42",
+      "content": "(bkz: cognitive dissonance)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus uçağı erdoğan'a zarar vermek için düşürüldü",
+      "entry_id": "56537063",
+      "author": "qdilllllibp",
+      "date": "27.11.2015 10:44",
+      "content": "(bkz: tabi lan manyak mısın)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "rus uçağı erdoğan'a zarar vermek için düşürüldü",
+      "entry_id": "56537148",
+      "author": "tungnafellsjokull",
+      "date": "27.11.2015 10:49 ~ 01.08.2016 18:53",
+      "content": "(bkz: kanzuk sen haksızsın)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "rus uçağı erdoğan'a zarar vermek için düşürüldü",
+      "entry_id": "56537706",
+      "author": "beyazsaclicocuk",
+      "date": "27.11.2015 11:16",
+      "content": "ucagin dusurulduhu gun davutoglu tsk'ye angajman kuralini uygulayin emrini bizzat ben verdim dedi.\n\nlan yoksa ahmet sen de mi paralelsin?",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "rus uçağı erdoğan'a zarar vermek için düşürüldü",
+      "entry_id": "56537875",
+      "author": "yule",
+      "date": "27.11.2015 11:23",
+      "content": "(bkz: abi valla ergenekoncu değilim yeminlen bak)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus uçağı erdoğan'a zarar vermek için düşürüldü",
+      "entry_id": "56539128",
+      "author": "orategama",
+      "date": "27.11.2015 12:25",
+      "content": "mağdurum ben mağdur",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "rus uçağı erdoğan'a zarar vermek için düşürüldü",
+      "entry_id": "56540095",
+      "author": "denizcunda",
+      "date": "27.11.2015 13:15",
+      "content": "vatan partisi genel başkanı doğu perinçek’i, partisinin taksim’deki binasında ziyaret ettik; ülke gündeminden dış politikaya kadar birçok konuyu konuştuk. röportajın bugünkü bölümünde, rus uçağının düşürülmesi ve türkiye’nin dış politikasına dair konular yer alıyor.\n\nröportajın 1. bölümü:\n\n*iki gün önce sınırda türk jetleri tarafından bir rus uçağı düşürüldü malumunuz. bu konudaki değerlendirmelerinizle başlayalım isterseniz...\n\nrus uçağının düşmesinden en çok kim zarar gördü? tayyip erdoğan. tayyip erdoğan, iki gün öncesine kadar zafer kazanmış, oyunu yüzde 50’ye çıkarmış, iktidarını sağlamlaştırmış bir konumdaydı. iki günde ne oldu tayyip erdoğan? şuanda türkiye’nin başında bir bela konumuna düştü. bu da gösteriyor ki, bu uçağı düşürenler tayyip erdoğan’ı hedef alıyor. en ağır zararı ona verdiler. onunla birlikte türkiye büyük zarar gördü ama sonuç itibariyle akp iktidarı kendisini pekiştirmiş gibi gözükürken 1 kasım seçimleriyle, bugün 25 kasım, 24 gün içinde çok ağır bir yara aldı. bir iktidar ancak bu kadar hızlı yıpranabilir. iki günde yıprandı.\n\nçünkü rusya, türkiye’nin güvenliği bakımından çok gerekli bir ülke. ekonomimizi geliştirmek bakımından gerekli bir ülke. en büyük iki ticaret ortağımızdan biri. turizmimiz, ihracatımız, tarım zenginliklerimiz, sanayimiz vs. burada çok ağır darbe yedi türkiye. tabi bu arada tayyip erdoğan ve hükümetinin itibarı çok ciddi sarsıldı.\n\nbir hükümet herhalde kendisini böyle ateşe atmaz. bu uçağın düşürülmesinin arkasında kim var diye sorduğum zaman, kimler kaybetti sorusunu hemen masaya koyarım. kaybeden, tayyip erdoğan ve hükümet.\n\nseçimden çok güçlü çıkmış bir tayyip erdoğan, şimdi yaralı bir tayyip erdoğan. ve yaralı bir hükümet. kim yapmış? demek ki bu işin arkasında bana göre, tayyip erdoğan’ı devirmek isteyen ve rusya ile türkiye’nin arasını açmak isteyen kuvvetler var.\n\n*dünkü açıklamanızda da; ‘bu, ülkenin bütünlüğüne kasteden bir olay” dediniz…\n\ntürkiye ile rusya’nın arasını açarsanız, türkiye’nin bütünlüğü tehlikeye girer. türkiye’nin bütünlüğünü nasıl sağlayacaksınız? suriye, iran, ırak, azerbaycan, güneyimizdeki bize benzeyen komşularımızla güvenlik ve ekonomi alanında işbirliği yaparak sağlayacaksınız.\n\nikincisi, rusya, orta asya, türk cumhuriyetleri ve çin gibi türkiye’nin toprak bütünlüğü konusunda bizim yanımızda olan ülkelerle birlikte olacaksınız. şimdi, rusya ile türkiye’nin arasının açılması, pkk’nın çok sevineceği bir olay. pkk şu anda göbek atıyor. pkk bitiyordu, gidiyordu, şimdi birden bire hem suriye’nin, hem rusya’nın dostluğunu kazanma fırsatı ele geçirdi.\n\nkendini güçlü hisseden bir hükümet iki günde baş aşağı gitti\n\n*davutoğlu bugün grup toplantısında “bayırbucak tarafına saldırılar yoğunlaşması üzerine, bu husus bir kez daha vurgulanmış, her türlü tedbirin alınacağı belirtilmiş, silahlı kuvvetlere talimatlar tarafımca verilmiştir.” dedi.\n\no genel bir talimat vermiştir, ama rus uçağının düşeceğini bilmeyebilir, öngörmeyebilir. bakın şimdi yalvarıyor rusya’ya davutoğlu. yani bir hükümet başkanı, türk jetleri tarafından rus uçağının düşürülmesini ister mi? bunun sonuçlarını nasıl kaldıracaklar? kendini çok güçlü hisseden ve kamuoyu önünde kuvvet kazanmış bir hükümet iki günde pat diye baş aşağı gitti.\n\nayrıca, ‘sınır güvenliğimiz koruyun’ talimatı demek ki eksik bir talimat. ben başbakan olsam, şu talimatı veririm; “bizim stratejik müttefiklerimiz vardır; rusya gibi, suriye gibi. onlarla bizim başımızı belaya sokacak ve aramızı keskinleştirecek eylemlerden dikkatle sakınmak gerekir.” siz talimatı böyle verirseniz isabetli olur. tehdit nereden geliyor bize? güneyimizde amerika ve israil bir koridor açmak istiyor. biz ona amerika-israil koridoru diyoruz. barzanistan’dan doğu akdeniz’e kadar uzanan bir koridor açmak istiyor. türkiye, güneyinde o koridoru bozmak üzerine odaklanacak. ona yoğunlaşacak. talimat böyle verilir.\n\nbizim sınır güvenliğimiz demek, kürt koridorunu bozmak demek. kürt koridorunu bozan her şey türkiye’nin yararınadır, kürt koridorunu kuvvetlendiren her şey de zararınadır. şimdi ne oldu? bu olay, türkiye ile rusya ve suriye’nin arasını açtığı için o kürt koridorunun kurulmasına hizmet etti. amerika’nın işine geldi. bu olaydan yararlanan amerika, kaybeden türkiye.\n\n*obama’nın da açıklamaları oldu, türkiye’ye destek veren…\n\nobama “türkiye’nin savunma hakkı var” diyor ama o da aslında kendisini ele veriyor. kışkırtmaya devam ediyor. türkiye ile rusya ilişkilerinin bozulmasına yönelik açıklamalar onlar.\n\nhükümet bu olayla çok kan kaybetti. bana sorsanız, bu hükümet en kısa zamanda nasıl baş aşağı gider diye, işte böyle derdim. bakın bu çizgide gitsin, yıkılır. rusya düşmanı bir hükümet türkiye’nin başında kalamaz.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "rus uçağı erdoğan'a zarar vermek için düşürüldü",
+      "entry_id": "56540194",
+      "author": "denizcunda",
+      "date": "27.11.2015 13:19",
+      "content": "yapılan yorumlara bakıyorum da tam (bkz: en son haber) yorumları kıvamında. sözlük yazarlarının kaynağı okumadan yorum yapmalarına inanamıyorum. çok yazık çok.",
+      "referenced_content": [],
+      "has_external_url": false
+    },
+    {
+      "title": "rus uçağı erdoğan'a zarar vermek için düşürüldü",
+      "entry_id": "56557984",
+      "author": "sirhot86",
+      "date": "28.11.2015 06:53",
+      "content": "ilerici haber\n\nbaşlığı açanın verdiği haber link'in de yazılan haberi tekrar okuyun\n\nyeni akit\n\nyeni akit'in verdiği haberi okuyun\n\ndoğu perinçek'in sözlerinden birbirinin tam zıttı anlamı olan cümleler nasıl çıkabilir?\n\ndoğu perinçek'i karalamak ne kadar basit değil mi, zahmet edip araştırmadan, hemen sövün sayın, zaten bu beklenirdi deyin..\nyazık.",
+      "referenced_content": [],
+      "has_external_url": true
+    },
+    {
+      "title": "rus uçağı erdoğan'a zarar vermek için düşürüldü",
+      "entry_id": "56558002",
+      "author": "patateslerin efendisi",
+      "date": "28.11.2015 07:05",
+      "content": "(bkz: yav hee he)",
+      "referenced_content": [],
+      "has_external_url": false
+    },
+    {
+      "title": "rus uçağı erdoğan'a zarar vermek için düşürüldü",
+      "entry_id": "56561890",
+      "author": "denizcunda",
+      "date": "28.11.2015 12:53",
+      "content": "tayyip erdoğan saltanatının yıkılışı 24 kasım 2015 günü başladı.\n\n23 kasım’da iktidarını pekiştirmiş bir tayyip erdoğan vardı. 1 kasım seçiminde yüzde 50 oranında oy almıştı. akp, tek başına iktidar hedefine ulaşmıştı.\n\nhepsi 23 gün sürdü. 24 kasım 2015 günü tayyip erdoğan’ın tahtı artık çatırdamaktadır.\n\nvurulan, yalnız rus uçağı değildir. tayyip erdoğan iktidarı da o gün o saatte inişe geçmiştir.\n\n“akp iktidarının başına düşen tayyare”\n\n25 temmuz manzaralarına bakınız: akdeniz’in ve ege’nin sebze ve meyve üreticileri, beyaz et üretenler, turizmciler, otelciler, tekstilciler, hazır giyimciler, sanayiciler, ihracatçılar, rusya’da iş yapan inşaatçılar, benzin ve doğal gaz tüketen herkes, bütünüyle türkiye ekonomisinin sahipleri ve çalışanları: onlar da rus uçağıyla birlikte vuruldular. kısacası, türkiye ekonomisi vuruldu. türkiye’de üreten ve tüketen herkes, toplu olarak vurulmuştur.\n\nmehmet faraç arkadaşımızın dünkü yazısının ara başlığındaki “’vurduk’ mu vurulduk mu” sorusunu, herkes her geçen gün bir kez daha vurularak yanıtlayacak. ama asıl büyük hakikat başlıktadır: “akp’nin başına düşen tayyare”.\n\nkoltuğun altındaki yangın\n\nakp iktidarı sıcak para ekonomisiyle birlikte borç batağına saplanırken, cankurtaran gemisine de ateş açmıştır. türkiye, üretim ekonomisini ancak çin ve rusya gibi ortaklarla inşa edebilir. rusya uçağını düşürenler, akp hükümetini boylu boyunca batağın içine itmişlerdir. nesnel sonuç budur. eyleme akp yönetiminin katılması, bu sonucu değiştirmez; ancak akp’nin devlet aklından yoksun olduğunu gösterir. demek ki türkiye, üretim ekonomisine geçmek için, akp’yi sırtından atacak ve asya ile ortaklığı başarıyla yürütecek bir millî hükümeti oluşturma yoluna girecektir.\n\no nedenle türkiye’nin uğradığı kaybı giderme olanağı vardır. ancak tayyip erdoğan’ın bu olayın altından kalkma şansı bulunmuyor. seçimden güçlü çıkmış olan tayyip erdoğan, artık yangının üstünde oturuyor. akp hükümeti, iki adım ötesini görecek devlet aklından yoksundur, ancak oturduğu koltuğun yandığını mecburen anlayacaktır, hatta anlamaya başlamış olmalıdır.\n\nrusya ve suriye düşmanlığının altında kalanlar\n\nrus uçağının düşürülmesi, öyle bir eylemdir ki, sonuçları stratejik önemdedir.\n\ntürkiye’de her iktidar, rusya ve suriye ile dost olmaya mecburdur. türkiye’nin yalnız ekonomisi değil, güvenliği de rusya’yla ve güney komşularıyla işbirliğini gerektiriyor. türkiye, bölücü teröre karşı vatan bütünlüğü için mücadelede kesin başarıya ulaşmak için, batı asya ve avrasya ittifaklarını oluşturmak durumundadır. bu nedenle hiçbir iktidar, rusya’ya ve suriye’ye karşı cephe tutmanın neden olacağı yıkımın altından kalkamaz. akp hükümeti, beşer esat ve putin düşmanlığının altında kalır. süreç başlamıştır. bu açıdan kim düşürürse düşürsün, uçak tayyip erdoğan’ın başına düşmüştür. hiçbir eylem, tayyip erdoğan yönetimine bu kadar ağır darbe indiremezdi.\n\nintihar girişimi ya da intihara yönlendirme\n\nuçağı düşürme eylemini tezgahlayanlar, türkiye’ye ağır zarar verdiler, ancak aynı zamanda tayyip erdoğan’ın yıkılışı sürecini de ateşlemiş oldular. onların niyetlerinden bağımsız olarak bu nesnel sonucu da görmek gerekir. bu açıdan olay, intihar girişimi de olabilir, intihara yönlendirme de olabilir.\n\nbu tür olaylarda, kim yaptı sorusuna yanıt bulmak için, genellikle en çok kim kazandı ve kim kaybetti sorusu ortaya atılır. ertuğrul özkök ve bazı yazarlar, “emri kim verdi” sorusunu herhalde bu amaçla gündeme getirdiler. dedektif olmaya gerek yok, iklimi yaratanlar da emir verenlerle aynı görevi yapmadılar mı? bayırbucak türkmenlerinin yüzde 98’i daha önce bölgeden ayrılmak zorunda kaldığı halde, “türkmenler kırılıyor” kampanyasını yürütenlerin başında hürriyet gazetesi ve elbette diğer atlantik basını ve televizyonları vardı. akp medyası da aynı dolduruşa katıldı. rus uçağını düşürenlerin arkasında, atlantik kuvvetlerinin olduğu açıktır. abd yöneticileri pek memnun. obama’nın “kara gücümüz” dediği pkk ise, zil takıp oynamaktadır.\n\ntürkiye-rusya ilişkilerine dinamit\n\nbu eylemle türkiye-rusya ilişkileri dinamitlenmiştir. 21. yüzyılın denklemleri içinde bu da var kuşkusuz. 2000’li yılların başında “21. yüzyılın perspektifleri” başlıklı bir cıa raporu yayımlanmıştı. aydınlık, o zaman haber yaptı. cıa, türkiye’nin çıkarlarının bu yüzyılda rusya ve çin ile uyum halinde olduğunu saptıyordu. bu olgu, abd’nin türkiye politikasını da belirlemiştir: türkiye’nin asya’daki mevzisine yerleşmesini önlemek, en azından geciktirmek!\n\navrupa’nın liderleri, türkiye’nin ab’ye aday üye yapılmasının arkasında abd olduğunu sık sık açıkladılar. ankara yönetimi, ab kapısına bağlanmalıydı ki, türkiye asya’daki gerçek dostlarıyla buluşmasın. ancak bu da yetmedi. artık türkiye’nin asya’daki olası müttefikleriyle yakınlaşmasını önlemek için kışkırtmalar gerekiyordu. tayyip erdoğan yönetiminin suriye’ye terör ihracına sürüklenmesi, bu tertiplerin ciddî bir aşamaya geldiğini gösterdi. rus uçağının düşürülmesi, tüy dikmiştir.\n\nmillicilerin görevi\n\nolan olmuştur.\n\nrusya ve suriye dostluğu, türkiye’ye gereklidir; gerekli olmanın ötesinde zorunludur.\n\ntayyip erdoğan, rusya dostluğu olanağını kaybetti. ama türkiye, rusya dostluğunu kaybetmez. çünkü bu dostluk, yalnız türkiye için değil, rusya için de gerekli ve zorunludur. türkiye, rusya, iran, çin, hindistan ve orta asya cumhuriyetleri, asya çağının ülkeleridir. onların birliği, dünyamızın gelişmesi ve barış için stratejik değerdedir.\n\ngörevlerimizi de bu ufuk içinde belirleyebiliriz. vatan partisi olarak, rusya ve suriye dostluğu için şimdi daha kararlı, daha verimli çalışmalar yürütme kararı aldık ve hemen kolları sıvıyoruz.\n\nbatı asya birliği ve avrasya birliği siyasetleri, millî görevdir. vatan partisi, bu millî görevi tutarlı ve kararlı olarak yerine getirdiği için türkiye’yi yönetecek yeteneğe sahiptir ve bu yönde ilerlemektedir.\n\ndoğu perinçek / 28 kasım 2015, aydınlık",
+      "referenced_content": [],
+      "has_external_url": false
+    },
+    {
+      "title": "rus uçağı erdoğan'a zarar vermek için düşürüldü",
+      "entry_id": "56572153",
+      "author": "lucreas",
+      "date": "28.11.2015 21:29",
+      "content": "suçu bize atiyler...",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "rus uçağı erdoğan'a zarar vermek için düşürüldü",
+      "entry_id": "56782766",
+      "author": "mikadonun lanetli bilye kavanozu",
+      "date": "07.12.2015 12:43 ~ 12:45",
+      "content": "ne derece doğrudur yanlıştır diye bakmadan zarar görenlerin değerlendirlendirilmesi gereken açıklamadır. sonuçta süreçten dolayı trajedilerin yaşanması kaçınılmazdır. binlerce aile bir dramın eşiğine gelmiş durumda. türk-rus evliliklerinin oluşturduğu aile yapısının bütünlüğü temelden zarar görmüştür. aileler, aile diyorum.. anne, baba, çocuklar gelecek kaygısı içindeler. geleceği geçtim bugünleri bile belirsiz. hali hazırda binlerce türk' ün oturma ve çalışma izni iptal edilmiş durumda. verilen süreler içinde ülkeyi terk etmek zorundalar. bunların içinde 10-15 yıldır orada çalışan, yaşayan insanlar var. artık evleri, yuvaları orası olmuşken pat diye sınır dışı edilmeleri söz konusu. kurulu düzenleri, çocuklarının eğitimleri, aile bütünlüğü, yuvaları, ruh sağlıkları hepsi paramparça olmuşken, alınan politik kararlardan kim daha çok etkilendi şeklinde bir yarışa girmenin çözüme yönelik herhangi bir katkısı yok. ciddi ciddi değerlendirilmesi gereken sosyal bir parçalanışla karşı karşıya olduğumuz gerçeğini kavrayıp, bu noktada ne yapılabilirin planlanması için iki ülkenin iş birliği zorunluluğu kaçınılmaz. hayat kağıt üstünde yürümüyor maalesef. ya da nintendo oyunu değil..",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY",
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "rus uçağı erdoğan'a zarar vermek için düşürüldü",
+      "entry_id": "62222447",
+      "author": "maybe on board",
+      "date": "09.08.2016 02:02 ~ 02:05",
+      "content": "şu başlıkları tekrar tekrar okumak müthiş eğlenceli,yazarken de eğlenceliymiş demek ki.83 entry yazılmış,yarın kaça düşecek acaba?\n\nmerak etmeyin caps almadım.çünkü o kadar yüksek algıya sahip bir çoğunluk olmadığınızın yıllardır farkındayım.şu anda kripto cemaatçilerin debe listelerinde hala üstlerde görünmesi bile bunu tasdik ediyor.\n\nbu başlık yanlış hatırlamıyorsam cemaatçi bir hesap tarafından açılmıştı.doğu perinçek'in açıklamasını veren bir cemaat sitesinin referansıyla.sonra ekşici zeki yazarlardan gelsin komiklikler-şakalar.\n\nher seferinde oltaya takıldınız ya,her seferinde.biraz kullanın şu gövdenizin üstündekini.ya da o kadar zor geliyorsa kullananlar tarafından yazılan yazıları-kitapları okuyun bari.hani yazarları hapse atılan...öldürülen.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "rus uçağı erdoğan'a zarar vermek için düşürüldü",
+      "entry_id": "62222887",
+      "author": "frankiegoestohollywood",
+      "date": "09.08.2016 02:43",
+      "content": "- rus uçağı erdoğan'a zarar vermek için düşürüldü .\n- eyvalla. bu açıklamayla rusya'yla aramızı düzelttik. peki ya israil'e ne diyeceğiz?\n- vanminütü erdoğan'a zarar vermek için cin söyletti .\n- smayli!\n\n.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    }
+  ]
+}

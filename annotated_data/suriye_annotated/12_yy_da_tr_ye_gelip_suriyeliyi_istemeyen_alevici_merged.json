@@ -1,0 +1,86 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T16:53:49.354791",
+    "total_entries": 6,
+    "input": "12.yy'da tr'ye gelip suriyeliyi istemeyen alevici",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "12.yy'da tr'ye gelip suriyeliyi istemeyen alevici",
+      "entry_id": "61667240",
+      "author": "suffocated",
+      "date": "11.07.2016 21:25",
+      "content": "operatör, ortak mülkiyetin işletmeden çıkarılmasına yönelik nakit taleplerini diğer nakit taleplerinden ayrı olarak tebliğ edecektir ve aynısını işletmeden çıkarma güven fonunun vasisine de yapacaktır.\n\nsöz konusu nakit taleplerinden birinin ödeme vadesinde taraf tarafından ödenmemesi veya tarafın vasiye bildirimde bulunarak buna karar vermesi durumunda (bu tür karar, vasinin nakit talebini ödemenin vade tarihine kadar karşılamasını sağlayacak şekilde yeterli zaman dahilinde yapılacaktır), operatör vasiden ödeme ve fatura talep edecek, vasi de nakit talebi tutarını otuz (30) gün içerisinde ödeyecektir.\n\nödemenin gerekli olduğu, ancak ilgili tarafın işletmeden çıkarma güven fonu kredisinde söz konusu nakit talebini karşılayacak tutarın mevcut olmadığı durumda, vasi söz konusu tarafın teminatını bölüm 5 kapsamında paraya çevirmek için gereken tüm adımları atacak ve paraya çevrilmiş teminattan, ilgili nakit talebinden arta kalan miktarı, söz konusu tarafın işletmeden çıkarma güven fonunda tutacaktır.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "ECON",
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "12.yy'da tr'ye gelip suriyeliyi istemeyen alevici",
+      "entry_id": "61667246",
+      "author": "platoniclover",
+      "date": "11.07.2016 21:26",
+      "content": "(bkz: başlıktan sonrasını okumadım)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "12.yy'da tr'ye gelip suriyeliyi istemeyen alevici",
+      "entry_id": "61667376",
+      "author": "tatar ramazan",
+      "date": "11.07.2016 21:33",
+      "content": "(bkz: şu yönetimin yatacak yeri yok parayla aktroll hesabı sattı namussuzlar heralde)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CRIME"
+      ]
+    },
+    {
+      "title": "12.yy'da tr'ye gelip suriyeliyi istemeyen alevici",
+      "entry_id": "61667626",
+      "author": "besi",
+      "date": "11.07.2016 21:45",
+      "content": "sozlukte seviyeyi dusurmemeye calisirim ama bu orospu cocuklari kisirlastirilmadikca ulkenin gelecegi bok icinde olacagi kesin. bir daha yazayim damitilmamis orospu cocugu.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "SEXUAL"
+      ]
+    },
+    {
+      "title": "12.yy'da tr'ye gelip suriyeliyi istemeyen alevici",
+      "entry_id": "61667749",
+      "author": "ankaraayazi",
+      "date": "11.07.2016 21:51",
+      "content": "bu ülkede alevilerin uğradıkları zulmü bilseler gelmek istemezler zaten. alevileri şehirlerde katledip otelde yaktınız süreyelileri de denizlerde boğdurup toki konutlarında yakarsınız pislikler.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE"
+      ]
+    },
+    {
+      "title": "12.yy'da tr'ye gelip suriyeliyi istemeyen alevici",
+      "entry_id": "61667774",
+      "author": "istedikleri yere gidenler",
+      "date": "11.07.2016 21:53 ~ 21:54",
+      "content": "son donemde ne yapmaya calistigini anlamadigim bir alevi'nin actigi baslik.\n\n(bkz: insan donuna girmis telli turna)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE"
+      ]
+    }
+  ]
+}

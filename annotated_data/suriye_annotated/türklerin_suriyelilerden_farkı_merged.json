@@ -1,0 +1,50 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:13:18.821752",
+    "total_entries": 3,
+    "input": "türklerin suriyelilerden farkı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türklerin suriyelilerden farkı",
+      "entry_id": "95946195",
+      "author": "iamapastafarian",
+      "date": "29.09.2019 18:10",
+      "content": "orasına burasına ‘0’ koyarak girebildiğim wikipedia’da gezinirken insani gelişme endeksi’ne denk geldim ve biraz inceledim.\n\n2015 listesine göre sri lanka’nın üstünde 72. sıradayız. altımızda ise saint kitts ve nevis adında bir karayip ada ülkesi, yıllardır yıpranmakta olan ukrayna, ulu orta hırsızlığın revaçta olduğu brezilya’nın yanı sıra mısır, ırak, filistin gibi ülkeler var.\n\nyarısını, bayrağını dahi bilmediğimiz ülkelerin (bkz: büyük ihtimalle) oluşturduğu 188 ülkelik bu listede suriye 134. sırada yer alıyor.\n\ntarihinde imparatorluklar ve yakın tarihinde atatürk gibi bir adam olan ülkenin 72. sırada olmasıyla yıllardır yerle bir olan bir ülkenin 134. sırada bulunması benim nazarımda aynı şey. aynı ahmaklıkta, aynı gerilikte.\n\nbeyaz türk olan %1’lik kesimimiz hariç, ne sanata değer veriyoruz; ne teknolojiye, ne de bilime. ilgi alanlarımızın geneli magazin konuları ve bilumum yararsız meseleler.\n\niletişim bilgimiz yerlerde. insanlarla nasıl konuşacağımızı; derdimizi, isteğimizi, üzüntümüzü, sevincimizi nasıl anlatacağımızı bilmiyoruz.\n\nasabiyetin, hasetin, kinin, kıskançılığın, nefretin hayatımıza etkisi çok fazla. ülkede adam akıllı huzur yok.\n\niş ahlakı, eğitimde fırsat eşitliği, kadın hakları, demokrasi ve liyakat gibi konulara hiç girmiyorum, entry bitmez.\n\nbir de utanmadan ırmağının akışına aşık olabildiğimiz ülkemizde zerre ar etmediğimiz bunca olumsuz durum varken türk halkı olarak suriyeliler i istemiyoruz, ülkelerinde kalmayıp ölmedikleri için onlardan nefret ediyoruz.\n\nsanki o beğenmediğimiz suriyelerden önce, buraya yazdığım onca problem yokmuş, insanı hayattan keyif alamaz hale getiren düzen bizim değilmiş gibi davranıyoruz.\n\nsuriyelilere karşı ırkçılık ve nefretin tek sebebi; onlarda kendimizi görmemizdir. onların ilkelliğinde kendi yansımızı görüp kendimizle yüzleşmemizdir.\n\nkısaca; olmayan farktır. olsa olsa aynı bokun laciverti denecek kadar bir farktır.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "türklerin suriyelilerden farkı",
+      "entry_id": "95951999",
+      "author": "nordka",
+      "date": "29.09.2019 20:42",
+      "content": "küçük bir kesimi dışarda bırakırsak bir farkı yoktur. ha bir de dil farkı var. arapça konuşurlar ama çoğu kültürel olarak araplaşmış etnik gruplardan oluşur.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "türklerin suriyelilerden farkı",
+      "entry_id": "95952166",
+      "author": "libertas08",
+      "date": "29.09.2019 20:46",
+      "content": "uzun yazmaya gerek yok tek kelime'hijyen'",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE"
+      ]
+    }
+  ]
+}

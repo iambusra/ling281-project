@@ -1,0 +1,49 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:14:01.345579",
+    "total_entries": 3,
+    "input": "abd'nin ukrayna'da yaptığı ağır provokasyon",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "abd'nin ukrayna'da yaptığı ağır provokasyon",
+      "entry_id": "42535237",
+      "author": "yasafenerbahce",
+      "date": "05.05.2014 21:54 ~ 22:02",
+      "content": "tüm ukraynalıların bir olup karşı durmaları gereken provokasyon. şahsen abd benim ülkeme böyle bir şey yapsa ben de garajımda bulunan zırhlı muharebe aracıyla, depomda bulunan karadan havaya füzelerle abd ordusuna karşı savaşırdım.\n\n-adamlar abd ordusunu ukrayna topraklarına sokup üstüne \"onlar abd ordusu değil yerel halk milisleri\" diye palavra sıktı.\n\n-üstelik yerel halk milisi adı altındaki abd ordusu ukrayna ordusuna ateş etti, karargahlarını kuşattı. karadan havaya füzelerle ukrayna helikopterlerini düşürdü.\n\n-ukrayna'nın bir vilayetini katakulliye getirerek kendi topraklarına kattı. kırım artık abd'nin 51. eyaleti.\n\n-abd ordusunun en elit birlikleri olan marine corps'ları odessa'ya gönderdi, bu usmc 4 tane sivili öldürdü.\n\nmarx, allah, tanrı, jesus, virgin mary, yoldaş putin'i korusun. baksana abd kendisini savaşa girmesi için deli gibi provoke ediyor.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "abd'nin ukrayna'da yaptığı ağır provokasyon",
+      "entry_id": "42535294",
+      "author": "sulphur",
+      "date": "05.05.2014 21:56",
+      "content": "gerçek savaşın ne olduğunu anlamaya yardımcı olan kan dondurucu görüntülere sahip provokasyon.\n\ndünya üzerinde sadece insan bu kadar acımasız olabilir.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "abd'nin ukrayna'da yaptığı ağır provokasyon",
+      "entry_id": "42543919",
+      "author": "tanimsizin gecici ismi",
+      "date": "06.05.2014 08:52",
+      "content": "(bkz: war. war never changes)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

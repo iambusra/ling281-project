@@ -1,0 +1,38 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:22:52.578615",
+    "total_entries": 2,
+    "input": "ukraynalılar neden antalya'ya yerleşiyor",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukraynalılar neden antalya'ya yerleşiyor",
+      "entry_id": "136601946",
+      "author": "yuzdekirkbir",
+      "date": "24.04.2022 14:21 ~ 14:23",
+      "content": "neden izmir veya muğla ya yerleşmiyor, antalya'ya yerleşiyor? bence daha iyi iklimi var, özgürler, biraz pahalı artık ama, antalya'da yaşam daha güzel. sanırım daha rahat ediyorlar.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "CULTURE",
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "ukraynalılar neden antalya'ya yerleşiyor",
+      "entry_id": "136721176",
+      "author": "yuzdekirkbir",
+      "date": "27.04.2022 12:21",
+      "content": "bunun anlamı,ülkemizde sadece izmir'in uygar olduğunu sanan arkadaşlara duyrulur, ülkemizin her şehrinin güzel özellikleri vardır.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "CULTURE",
+        "HUMAN"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:27:25.978536",
+    "total_entries": 4,
+    "input": "devrim doğruysa bugün ruslar neden kapitalist",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "devrim doğruysa bugün ruslar neden kapitalist",
+      "entry_id": "105845760",
+      "author": "kursadin torunu",
+      "date": "22.04.2020 10:58",
+      "content": "garip durum.\n\n1917'de devrimi yaptılar, marx da diyordu nihayetinde komünist düzen gelecek.\nkomünist devrim yapıldı sonra ellerinde patladı.\n\nrusya, hatta kağıt üzerinde komünizm ile yönetilen çin bile kapitalist sistemin kölesi.\n\nyerinde bir soru.\ndemek marx bir sikim bilmiyormuş, demek insan faktörünü düşünememiş sakallı kaçkın.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "devrim doğruysa bugün ruslar neden kapitalist",
+      "entry_id": "105846336",
+      "author": "tohumunaparamisaydim",
+      "date": "22.04.2020 11:14 ~ 11:16",
+      "content": "devrim doğru. bütün iranlılar şeriatçı. (bkz: swh)\n(bkz: iran islam devrimi)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "devrim doğruysa bugün ruslar neden kapitalist",
+      "entry_id": "105846359",
+      "author": "kursadin torunu",
+      "date": "22.04.2020 11:15",
+      "content": "iyi de be arkadaş adama sormazlar mı;\n75 sene bu düzen çin ve rusya gibi büyük coğrafyalarda kol gezdi de,\n\nneden tüm dünyaya yayılmadı bu mükemmel olduğu iddia edilen düzen?\n\nçünkü milletin ebesini sikmekle meşgul bir düzen bu düzen, kan gözyaşı katliam akla geliyor sscb denince.\n\nsadece stalin ve mao'nun kestiği katlettiği insanları saysak, buradan mars'a yol olur.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "devrim doğruysa bugün ruslar neden kapitalist",
+      "entry_id": "105848862",
+      "author": "enbasarilikonduktor",
+      "date": "22.04.2020 12:11",
+      "content": "insanlari fakirlikte esitleyen ve sinif atlama sansi tanimayan bir sistem calismaz. kimseyi daha fazla uretmesi icin (sadece imalat degil, teknolojik gelismeler de buna dahil) motive edemezsiniz.\nkuba'li bir arkadasimin dedigi gibi,''burada maas alman icin gereken tek sey ay basinin gelmesidir''\nsistemi anlatmak icin tugla gibi 3 cilt yazabilirsiniz ama birisi neden calismayacagini bir cumle ile soyler.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    }
+  ]
+}

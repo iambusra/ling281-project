@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:26:05.459871",
+    "total_entries": 1,
+    "input": "erzurum'un rus işgalinden kurtuluşu",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "erzurum'un rus işgalinden kurtuluşu",
+      "entry_id": "39190762",
+      "author": "stripped boxer",
+      "date": "25.12.2013 01:20 ~ 05.01.2014 17:30",
+      "content": "bir kahramanlık hikayesidir. erzurumlular da bu kahramanlıkları ile hep övünürler.\n\ndoğrudur belki ama bu konuda şöyle bir hikaye de vardır, fıkra tadında:\n\n--- spoiler ---\n\nerzurum'un rus işgalinden kurtuluş günüdür. canlandırmalar, halk oyunları, şiirler, vs... yalnız vali, başka bir programından dolayı biraz gecikmiştir törene; sonlara doğru yetişir. günün anlam ve önemi hakkında konuşma yapmak üzere apar topar kürsüye davet edilir.\n\nbiraz da hazırlıksız olan vali kısa bir konuşma planlar kafasında. konuşmasının sonlarına doğru gözüne ön sıralarda oturan yaşlı bir dede ilişir; göğsünde madalyası da vardır üstelik. hemen pas atar gazi dedeye:\n\"dadaşlar! ben ne desem, ne anlatsam boş. işte asıl kahraman orada oturuyor. henüz fırsatımız da varken, gelsin o anlatsın şanlı taarruzumuzu.\"\n\nbu sefer de gazi dedeyi apar topar kürsüye, valinin yanına getirir görevliler. vali önce elini öper, sonra mikrofonu dedeye uzatır. biraz da şaşkın olan dede kısık sesiyle başlar konuşmaya:\n\n\"valla oğul ne anlatiim. dediler urus geliir, biz girdik beleklere. dediler urus gitti, biz çıktık beleklerden.\"\n\n--- spoiler ---\n\nnot: yanlış bilmiyorsam belek samanlık oluyor.\n\nedit: smiley silindi.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "CULTURE",
+        "HUMAN"
+      ]
+    }
+  ]
+}

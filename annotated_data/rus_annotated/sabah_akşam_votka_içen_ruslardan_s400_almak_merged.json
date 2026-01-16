@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:30:38.186623",
+    "total_entries": 1,
+    "input": "sabah akşam votka içen ruslardan s400 almak",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "sabah akşam votka içen ruslardan s400 almak",
+      "entry_id": "92483927",
+      "author": "bir adet eksi sozluk yazari",
+      "date": "11.07.2019 23:00",
+      "content": "atatürk günde 1 kilo rakı içerdi diye başlık açan ak çomarların gurur duyduğu hadise. nooldu amk badem bıyıklı müslim bilim adamlarınız teknoloji üretemiyo mu da elin ayyaşından teknoloji alıp bi de \"amerigaya kafa dutuyo reis\" diyonuz orrrrrman çocukları sizi.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    }
+  ]
+}

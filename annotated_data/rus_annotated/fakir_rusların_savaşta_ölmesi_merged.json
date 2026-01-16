@@ -1,0 +1,139 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:32:39.589671",
+    "total_entries": 9,
+    "input": "fakir rusların savaşta ölmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "fakir rusların savaşta ölmesi",
+      "entry_id": "166538481",
+      "author": "gancura",
+      "date": "21.07.2024 20:51 ~ 20:52",
+      "content": "mert öztürk denen youtuber 1 aydır rusyada geziyor zenginlerin alemlerde olduğu fakirlerin savaştığı benim kafamda netleşti.\nizlemek isteyen bakabilir https://youtu.be/g0cntfyox3e?feature=shared",
+      "referenced_content": [],
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "ECON"
+      ]
+    },
+    {
+      "title": "fakir rusların savaşta ölmesi",
+      "entry_id": "166538719",
+      "author": "muzmin evli",
+      "date": "21.07.2024 20:57",
+      "content": "bunu bilmek için herhangi bir videoya vs ihtiyaç yok ki. hangi ülke söz konusu olursa olsun, savaşta hep fakirler ölür.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "fakir rusların savaşta ölmesi",
+      "entry_id": "166538755",
+      "author": "x68000",
+      "date": "21.07.2024 20:58",
+      "content": "oha hiç alışkın olmadğımız bir olay. şerefsizlere bak sen! iyi ki türkiyemiz böyle değil.\n\n(bkz: #166527421)",
+      "referenced_content": [
+        {
+          "type": "entry",
+          "title": "turkiye",
+          "entry_id": "166527421",
+          "author": "x68000",
+          "date": "21.07.2024 13:26 ~ 13:32",
+          "content": "bir kanalda ece sükan bodrum'da lüks otel tanıtırken diğer kanalda priket köy evinde oturan şehidimizin ruhu şadolsun haberleri yayınlanan ülke. bir kanalda kıbrıs barış harekatının ellinci yılı haberi verilirken diğer kanalda mali erbil ve serdar ortaç gibiler için kumar cennetine çevrilen kuzey kıbrıs tatili temalı magazin programları yayınlanırdı. ne biçim bir düzen ustaca farklı bağlamlara ayrılıp ayrı sanal makineler, sandboxlar kurulmuş ve insanların aklı da bu farklı bağlamlar arasındaki bağlantıyı kurup noluyo lan demeye yetmiyor. halbuki tiyatro çok basit, savaşta fakirlerin barışta zenginlerin ülkesi, yaşarken en kötü şartlarda yaşayan fakirler zenginler için kurulmuş gibi görünen bir ülkeyi korurken canlarını feda ediyor, etmek zorunda bırakılıyorlar. peki bu ülke yıkılsa bundan en zararlı kim çıkar? herhalde priket evde oturan şehit değil, onun kaybı priket ev ve 17002 tl asgari ücreti, anasının babasının 12500 tl emeklisi olur.\n\nböyle saçma iş olmaz.",
+          "has_external_url": false
+        }
+      ],
+      "referenced_entry_ids": [
+        "166527421"
+      ],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "fakir rusların savaşta ölmesi",
+      "entry_id": "166538817",
+      "author": "rundstedt",
+      "date": "21.07.2024 21:00",
+      "content": "zaten bilinen şeydir. keşke şehid olsam diyen siyasetçi çocuklarının mı öleceğini sanıyordunuz?",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "fakir rusların savaşta ölmesi",
+      "entry_id": "166539314",
+      "author": "gores",
+      "date": "21.07.2024 21:13",
+      "content": "ukrayna farklı mı sanki ya da türkiye farklı mı olacak. aşırı borçlanmamızın sonucu, sadece faiz ödemesi için, pasifikte çıkacak savaşta kore savaşında olduğu gibi amerika emrine verilecek türk askeri kimlerden oluşacak sanıyorsunuz?",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "ECON",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "fakir rusların savaşta ölmesi",
+      "entry_id": "166539414",
+      "author": "engineerdolma",
+      "date": "21.07.2024 21:16",
+      "content": "ya ne olacaktı? bu dünyada parası olanlar asla savaşlarda ölmez.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "ECON"
+      ]
+    },
+    {
+      "title": "fakir rusların savaşta ölmesi",
+      "entry_id": "166539910",
+      "author": "solferino",
+      "date": "21.07.2024 21:32 ~ 21:35",
+      "content": "büyük şehirlerden insanları savaşa götürmek mantıklı değil. çok ceset gelirse aileler örgütlenir isyan başlatırlar.\no yüzden genel seferberlik hallerinde her zaman küçük köylerden, kasabalardan asker toplarlar yöneticiler.\n100-200 kişilik köylerden mesela.\norada gösteriler olsa ne yazar? tarlada pankart açarlar en fazla.\ngelir önemli tabii ama ondan daha önemlisi lokasyonunuz.\nsavaş durumunda harcanmak istemeyen büyük sehirlere baş kentlere göç etmeli.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "fakir rusların savaşta ölmesi",
+      "entry_id": "166551961",
+      "author": "heuristic algorithmic",
+      "date": "22.07.2024 08:47",
+      "content": "dağdaki çoban ile oyunun eşit olduğuna şaşıranlar, buna neden şaşırıyor anlamadım.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "fakir rusların savaşta ölmesi",
+      "entry_id": "166551982",
+      "author": "zeytinagaci",
+      "date": "22.07.2024 08:48",
+      "content": "savaşlarda fakirler ölür, zenginler için. bu değişmez bir kuraldır.",
+      "referenced_content": [],
+      "has_external_url": false
+    }
+  ]
+}

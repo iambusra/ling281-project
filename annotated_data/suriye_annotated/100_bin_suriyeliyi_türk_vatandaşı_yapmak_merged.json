@@ -1,0 +1,108 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T16:52:44.677837",
+    "total_entries": 8,
+    "input": "100 bin suriyeliyi türk vatandaşı yapmak",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "100 bin suriyeliyi türk vatandaşı yapmak",
+      "entry_id": "37791063",
+      "author": "code complete",
+      "date": "22.10.2013 13:36",
+      "content": "su fotograf ile yapilan iddia . gercek olma ihtimalini yuksek goruyorum ama yine de emin degilim. bu tip soylentiler cok dolasiyor, diyebiliriz ki ates olmayan yerden duman cikmaz .",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "100 bin suriyeliyi türk vatandaşı yapmak",
+      "entry_id": "37803106",
+      "author": "code complete",
+      "date": "22.10.2013 23:15",
+      "content": "sadece izmir icin gecerli olan rakammis. diger illerle birlikte toplam 600 bin suriyeli turk vatandasi yapilmis. 54 milyon secmen sayisi goz onune alindiginda simdiden oylarin %1.11'i ak parti'ye gidecek gibi gorunuyor ki gayet buyuk bir orandir.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "100 bin suriyeliyi türk vatandaşı yapmak",
+      "entry_id": "37803235",
+      "author": "jereni",
+      "date": "22.10.2013 23:20",
+      "content": "ileri demokrasinin bir getirisidir.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "100 bin suriyeliyi türk vatandaşı yapmak",
+      "entry_id": "37803252",
+      "author": "rakiicdiyenbabaninkizi",
+      "date": "22.10.2013 23:21",
+      "content": "amerikanin oyunlarindan biri.\n\n100bin turkiyeli de amerikan vatandasi olsun oyleyse.\n\nmumkun mu bu pazarlik?",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "100 bin suriyeliyi türk vatandaşı yapmak",
+      "entry_id": "37803552",
+      "author": "non unum",
+      "date": "22.10.2013 23:32",
+      "content": "şimdiye kadar, gerek milletvekilleri gerek gazeteciler tarafından defalarca sorulmasına rağmen hiç bir yetkili ağızdan bu sayı tam olarak duyulamadı. yanılmıyorsam aydınlık gazetesinin yaptığı bir araştırmaya göre sayı yüz bin civarında.\nsonuçta sayı kaç olursa olsun yapılan uygulama hukuksuz ve cezası da halka kesilecek.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "100 bin suriyeliyi türk vatandaşı yapmak",
+      "entry_id": "37803768",
+      "author": "arch angel",
+      "date": "22.10.2013 23:39",
+      "content": "[ https://tckimlik.nvi.gov.tr/ şuradan] kontrol ettiğim kadarıyla tc değil, yabancı kimlik sahibi olmuşlardır. yani bu halleriyle oy kullanma hakları yok.\n\nama malumunuz \"ölülere bile oy kullandırın\" diyen bir zihniyet var başımızda. kesin bir şekilde kanıtlanamamış olsa da(futboldaki şike gibi bir şey nasıl kanıtlayacaksın ki) geçen seçimde dönen dolapları hepimiz gördük.\n\nkim bilir, bakarsınız yine gece yarısı sessiz sedasız meclisten geçirilen bir torba yasayla bu güzide kardeşlerimiz bir bakmışsınız oy kullanabiliyormuş!",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "100 bin suriyeliyi türk vatandaşı yapmak",
+      "entry_id": "37803861",
+      "author": "fotograftutkusu",
+      "date": "22.10.2013 23:43",
+      "content": "sırf mhp kazanıyor diye karabük gibi bir ile yüzlerce suriyeli yerleştiren zihniyetten beklenen hareket.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "100 bin suriyeliyi türk vatandaşı yapmak",
+      "entry_id": "37804041",
+      "author": "invplaspe",
+      "date": "22.10.2013 23:49",
+      "content": "3 çocuk 5 çocuk deyip nüfus allah nüfus diye kıvranan hükümet için çok köklü ve pratik bir çözümdür.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POLICY"
+      ]
+    }
+  ]
+}

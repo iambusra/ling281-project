@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-10T23:20:52.737646",
+    "total_entries": 1,
+    "input": "haran şuri",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "haran şuri",
+      "entry_id": "32303192",
+      "author": "bir alkista sucu cocuga",
+      "date": "23.02.2013 16:27",
+      "content": "hakan şükür ün efsane playstation 1 dönemindeki spiker tarafından söylenen ismi.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE",
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,911 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:53:56.347208",
+    "total_entries": 73,
+    "input": "suriyeliler çanakkale geçilmesin diye şehit oldu",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeliler çanakkale geçilmesin diye şehit oldu",
+      "entry_id": "137223008",
+      "author": "karatigin",
+      "date": "09.05.2022 12:00",
+      "content": "her osmanlı vatandaşı gibi",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyeliler çanakkale geçilmesin diye şehit oldu",
+      "entry_id": "137223086",
+      "author": "solariss",
+      "date": "09.05.2022 12:02",
+      "content": "hay suriyeliler öpsün sizi. ne meraklıymışsınız suriyelilere. al eve götür bak desen bakmazlar bunlar. anca güzelleme yaparlar.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyeliler çanakkale geçilmesin diye şehit oldu",
+      "entry_id": "137223269",
+      "author": "karanligin huzurunda",
+      "date": "09.05.2022 12:08",
+      "content": "çanakkaledeki yeşil sarıklılar aslında suriyelilermiş denilerek nokta konması gereken doğa üstü olaydır.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyeliler çanakkale geçilmesin diye şehit oldu",
+      "entry_id": "137223601",
+      "author": "itsubishi",
+      "date": "09.05.2022 12:18",
+      "content": "kutsal değerlerin, milli ve manevi duyguların süistimalini, ticaretini herhalde bu iktidar ve yandaşlarından daha çok yapan olmamıştır cumhuriyet tarihi boyunca. allah bildiği gibi etsin sizi ne diyeyim.\n\nsiyasal islam zehirdir.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE"
+      ]
+    },
+    {
+      "title": "suriyeliler çanakkale geçilmesin diye şehit oldu",
+      "entry_id": "137224186",
+      "author": "nevom",
+      "date": "09.05.2022 12:36",
+      "content": "dini sömürüp insanları soğuttular bari tarihi karalayıp sömürmeyin. gerçekten inandığı için dinine sahip çıkanlar hariç. siyasi amaçlı dindar gözükenler için. çanakkale şehitliğine gidip bakılsın kaç suriyeli var. yada kaç yabancı var. %99'u türk ve 15 yaşındaki çocuklar. türkiyeye türkden başka canını verecek yok. dostuda yok. suriyeli gençler ise kaçmış plajarda, sokaklarda",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "suriyeliler çanakkale geçilmesin diye şehit oldu",
+      "entry_id": "138371304",
+      "author": "methefree",
+      "date": "05.06.2022 18:40 ~ 18:55",
+      "content": "ciddi ciddi bütün ikna yöntemlerini deniyorlar. benim anlamadığım bütün bu uğraşların sonunda bize \"haaaa öyle miii o zaman tamam kalsınlar\" dedirteceklerini mi sanıyorlar? hadi diyelim ikna olduk, bunlar bu gazla ikinci aşamaya geçer ve bizi bu topraklardan postalama çalışmalarına başlar, o zaman kimbilir neler saçmalarlar.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyeliler çanakkale geçilmesin diye şehit oldu",
+      "entry_id": "138371465",
+      "author": "kizilotka",
+      "date": "05.06.2022 18:45",
+      "content": "“geldikleri gibi giderler” ümit özdağ",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyeliler çanakkale geçilmesin diye şehit oldu",
+      "entry_id": "138372688",
+      "author": "kaos",
+      "date": "05.06.2022 19:20",
+      "content": "yakinda suriyeliler orta asyadan bizle göçtü derlerse sasirmam herkes seçilir kazanir kaybeder bu kadar korkmayın kaybetmekten bikac oy ugruna ejdadinizin kemiklerini sizlatmayin ingilizlerin gazına gelip atalarimin karnini delerek içinde altin varmi diye bakan kani bozuk vatan haini serif hüseyinin artiklari geliyor aklima daha da delleniyorum",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "suriyeliler çanakkale geçilmesin diye şehit oldu",
+      "entry_id": "160216296",
+      "author": "juvini",
+      "date": "31.12.2023 20:19",
+      "content": "son günlerde araplara karşı ırkçılık yapanların unuttuğu gerçek. çanakkale'de arap kardeşlerimiz de bizimle beraber savaştı. şu mezar taşlarından utanın.\n\nhttps://i.hizliresim.com/rmxexme.",
+      "has_external_url": true,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "suriyeliler çanakkale geçilmesin diye şehit oldu",
+      "entry_id": "160216446",
+      "author": "ben size ne yaptim ya",
+      "date": "31.12.2023 20:25",
+      "content": "salla götünden avradını siktimin iti. dünya savaşında suriye cephesinde bize karşı savaşanlar yeni zimbabwelilerdi zaten.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "SEXUAL"
+      ]
+    },
+    {
+      "title": "suriyeliler çanakkale geçilmesin diye şehit oldu",
+      "entry_id": "160216485",
+      "author": "ayfor",
+      "date": "31.12.2023 20:26",
+      "content": "arap sen içme bokunu çıkarıyorsun",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyeliler çanakkale geçilmesin diye şehit oldu",
+      "entry_id": "160216565",
+      "author": "o nick buraya gelecek aga",
+      "date": "31.12.2023 20:29 ~ 20:34",
+      "content": "bunu duyan tarihçiler: https://youtu.be/ehzguyuzbtw?si=kh9rn2jdafkua_p-",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyeliler çanakkale geçilmesin diye şehit oldu",
+      "entry_id": "160216674",
+      "author": "0game",
+      "date": "31.12.2023 20:33",
+      "content": "--- spoiler ---\n\nhassiktir lan ordan\n--- spoiler ---",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyeliler çanakkale geçilmesin diye şehit oldu",
+      "entry_id": "160216698",
+      "author": "rarura",
+      "date": "31.12.2023 20:34",
+      "content": "(bkz: çanakkale savaşında arapların nargile içmesi)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyeliler çanakkale geçilmesin diye şehit oldu",
+      "entry_id": "160216780",
+      "author": "eurasia",
+      "date": "31.12.2023 20:37",
+      "content": "mustafa kemal atatürk çanakkale'de araplara değil türklere şu ünlü emri verir: \"ben size savaşmayı değil ölmeyi emrediyorum.\"",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyeliler çanakkale geçilmesin diye şehit oldu",
+      "entry_id": "160216792",
+      "author": "zehra32",
+      "date": "31.12.2023 20:37 ~ 20:41",
+      "content": "bu suriyelilerde hep halep'ten\nhalep'in türkmen damarı arap damarından fazladır. (2011 den önce öyleydi. 1914 lerde türkmen şehri denebilir)\n\nne olmuş yahudi şehitlerde var.\n\nhatta israilin 2.başbakanı moşe şeret bile canakkale gazisi. üstelik osmanlı toprağından doğmamasına rağmen\n\nhttps://tr.wikipedia.org/wiki/moşe_şaret",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyeliler çanakkale geçilmesin diye şehit oldu",
+      "entry_id": "160216869",
+      "author": "serbesti",
+      "date": "31.12.2023 20:39",
+      "content": "bedelli bekleyerek faturasını pederin ödediği cihazdan tvit atan ergenleri pek ilgilendirmeyen konudur, tanım\n\no nedenle bizim için çalışan suri, veya halep vilayetimizden türkmen kardeşimiz bunlardan çok daha değerli. zaten iktisadi sıkıntılara rağmen hakettikleri değeri de görüyorlar, bunların bunalıma girmesi de ondan, bunalımları hiç bitmesin",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "suriyeliler çanakkale geçilmesin diye şehit oldu",
+      "entry_id": "160216878",
+      "author": "komando kani var bende",
+      "date": "31.12.2023 20:40",
+      "content": "yukardaki arkadaşın verdiği görselde suriyeli şehitlerin çoğunun halep'ten olduğunu görürsünüz. eskiden halep'te türk nüfus çoğunluktaydı yani türkmen nüfus. hatta halep'e git çoğu kişiyle türkçe anlaşabilirsin.\no şehitler arap değil türk. suriyede yaşayan türkler.\narapların çoğu katılmadı çanakkale savaşına hatta çanakkale savaşına gidenlere keriz gözüyle baktılar.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyeliler çanakkale geçilmesin diye şehit oldu",
+      "entry_id": "160216923",
+      "author": "yaren",
+      "date": "31.12.2023 20:41",
+      "content": "9 eylül 1922'de yunan denize döküldü ve kurtuluş savaşı bitti. o dönemde atatürk'ün okuduğu 1922 tefrika tarihli bir roman var; çalıkuşu, reşat nuri güntekin'in.\n\nbu romanda bütün suriye türk olarak bahsedilir... iki farklı eski televizyon dizisinde dahi böylece işlenmiştir. bilenler bilir.\n\ndemem o ki, o dönemde çanakkale'ye savaşa gelip şehit olanlar bugün suriyeli diye anılıyorlar ama gerçekte türktürler. çünkü o dönemde suriye diye bir devlet de böyle bir devleti kuran bir millet de yoktu.\n\naklını başına devşirmesi gerekenler var.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyeliler çanakkale geçilmesin diye şehit oldu",
+      "entry_id": "160217032",
+      "author": "jimmyelros",
+      "date": "31.12.2023 20:44",
+      "content": "sıktınız lan artık. yeminle sözlüğe eskiden daha keyifle girerdim. engelle engelle bitmiyorsunuz. kendi milletine düşman, ne suriyeli aşığı insanlarmışsınız.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyeliler çanakkale geçilmesin diye şehit oldu",
+      "entry_id": "160217151",
+      "author": "oglak oglani",
+      "date": "31.12.2023 20:48",
+      "content": "tabi lan araplar ve kürtler vardı sadece.\n\ntürkler sonradan savaştan bitap düşmüş o dönemim medeniyet olarak çok ilerisinde bulunan bu milletlere ihanet ederek türkiye'yi kurdu.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE"
+      ]
+    },
+    {
+      "title": "suriyeliler çanakkale geçilmesin diye şehit oldu",
+      "entry_id": "160217281",
+      "author": "engineerdolma",
+      "date": "31.12.2023 20:53",
+      "content": "çanakkale'de türk milleti kan döktü. emperyalizme karşı türklerin zaferidir.\n\naraplar ise bu esnada ingilizlerin testislerini yalamak ile meşgul idi.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyeliler çanakkale geçilmesin diye şehit oldu",
+      "entry_id": "160217282",
+      "author": "tomatoes",
+      "date": "31.12.2023 20:53",
+      "content": "isimleri okursanız eğer türkçeleştirilmiş arap isimleri olduğunu anlarsınız. çünkü halepin o zaman nüfusunun büyük kısmı türkmen. hatta şuanki suriyeli mültecilerinde azımsanmayacak kısmı türkmen.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyeliler çanakkale geçilmesin diye şehit oldu",
+      "entry_id": "160217485",
+      "author": "voxx",
+      "date": "31.12.2023 21:01 ~ 21:26",
+      "content": "arıburnu cephesinde ordu ihtiyatı olarak bulundurulan 19.tümene bağlı 72 ve 77.alayların çoğu arap, nusayri, yezidi gibi askerlerden oluşmaktaydı. tümenin diğer alayı da bir çok efsanelere konu olan meşhur 57.piyade alayıdır.\n\n72 ve 77.alaylarla ilgili fahrettin altay'ın çatışmanın yoğunlaşmaya başladığı ilk anlarda arap askerlin çadırlarında nargile içtiklerine dair notu vardır.\ngörsel\n\n19.tümen kumandanı yarbay mustafa kemal'in de bu iki alay yerine türklerden oluşan iki eğitimli alay talebi de mevcuttur ama kabul görmemiştir,\n\ngörsel\n\nkaynak: fahrettin altay - 10 yıl savaş ve sonrası",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyeliler çanakkale geçilmesin diye şehit oldu",
+      "entry_id": "160218055",
+      "author": "felix octavius",
+      "date": "31.12.2023 21:22",
+      "content": "suriyenizi de arabinizi da telefon diregiyle siksinler. yeter lan yeter! anlayin artik, arap mayasi bu ulkede tutmaz, tutamaz, dunya tersine donse de tutturamazsiniz, birakin artik milleti zorlamayi. 22 senedir hayatimizi siktiniz araplastirmak icin bizi, kimin kuklasiysaniz onlara gidin. turk milletini rahat birakin artik. biz arap degiliz, arap gibi yasamayacagiz, bunu bize dayatan da dupeduz vatan haini satilmis bir serefsizdir.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyeliler çanakkale geçilmesin diye şehit oldu",
+      "entry_id": "160218322",
+      "author": "ebuve",
+      "date": "31.12.2023 21:31",
+      "content": "götünü araplara siktirmek için can atan onursuz alçakların götünden sallaması.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "SEXUAL"
+      ]
+    },
+    {
+      "title": "suriyeliler çanakkale geçilmesin diye şehit oldu",
+      "entry_id": "160218619",
+      "author": "furkinin anasi",
+      "date": "31.12.2023 21:39 ~ 21:40",
+      "content": "son 15 yıldır kendi ülkesindeki savaştan bile kaçıp, sahillerimizde göt büyüten suriyeli yiğidoları görmesek, bilmesek hadi inanalım arap dölü.\n\no istediğiniz olmayacak. o hayalleriniz tutmayacak. türkiye cumhuriyeti araplar'ın vatanı olmayacak. türkler'i yok edemeyeceksiniz. siktir olup gideceksiniz ülkemden.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyeliler çanakkale geçilmesin diye şehit oldu",
+      "entry_id": "160218833",
+      "author": "keslanpetocu",
+      "date": "31.12.2023 21:46",
+      "content": "ya lojistik diye bir şey var. çanakkale için arap coğrafyasından asker getirilmez, ki getirilmemiştir de zaten. kaldı ki güneyde kaç tane cephe var, ingilizler boru hattı çeke çeke geliyorlar filistinden suriye'den. isyan var, iç çatışma var, var oğlu var. temsili birlik dışında çanakkaleye asker gönderenin aklından şüphe edilir.",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyeliler çanakkale geçilmesin diye şehit oldu",
+      "entry_id": "160218844",
+      "author": "eksiyeinat",
+      "date": "31.12.2023 21:46",
+      "content": "o zaman suriyeli değillerdi osmanlı milletindenlerdi.",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyeliler çanakkale geçilmesin diye şehit oldu",
+      "entry_id": "160219356",
+      "author": "windowswizard",
+      "date": "31.12.2023 22:02",
+      "content": "türk vilayeti olan halep'ten gelenleri arap sanan denyo, senin de yeni yılın kutlu olsun.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyeliler çanakkale geçilmesin diye şehit oldu",
+      "entry_id": "160219533",
+      "author": "aoy",
+      "date": "31.12.2023 22:08",
+      "content": "hadi oradan yalancı diyeceğim bir saçmalık. çanakkale cephesinde arap birlikleri de vardı elbette ama osmanlı subayları onlara güvenmedikleri için kritik anlarda onlara dayanarak müdafaa ya da hücum yapmadılar. sen yalakalığını git bunun alıcısının bol olduğu mecralarda yap.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyeliler çanakkale geçilmesin diye şehit oldu",
+      "entry_id": "160219640",
+      "author": "aegnor",
+      "date": "31.12.2023 22:11",
+      "content": "yukarıda bir arkadaş daha yazmış ama biraz daha açayım; meşhur arıburnu savaşı sırasında yarbay mustafa kemal(atatürk) in idaresindeki 19. tümenin üç alayı bulunmaktadır, 57, 72 ve 77. alaylar.\n\nyarbay m.kemal düşmanın 25 nisan 1915 te arıburnu bölgesine çıkartma yapacağını öngören birkaç osmanlı subayından birisidir, yedekte beklemesi gerekirken çıkarmanın başladığını duyunca kendi insiyatifi ile arıburnu istikametine yürümeye başlamıştır, yanında güvendiği 57. alay vardır, diğer alayları da biraz arkada yakında konumlanmıştır.\n\nhepimize tarih dersinde öğretilen kaçan askerleri durdurup süngü taktırma hadisesi gerçekleşir, bu askerler gelibolu yarımadasının neredeyse tüm kıyı şeridini savunmakla görevli 9. tümenin bir bölüğüdür, o sırada savundukları koya (bkz: anzak koyu) anzak kolordusu (yaklaşık 20000 asker) çıkartma yapmaktadır, 100 kadar asker ellerinden geldiğince düşmana direnmiş sonra çaresiz geri çekilmeye başlamıştır, bu birlik 19. tümenin komutanı ile karşılaştığında düşmanın hedefi olan anafartalar platosu ile düşman arasındaki tek türk birliğidir.\n\natatürk bu askerleri durdurur, süngü taktırıp yatma emri verir, bu süngü hücumuna hazırlanma emridir, ama saatlerdir çok üstün düşmana karşı savunan cephanesi bitmiş yorgun askerleri zaten sayıca çok üstün düşmanın üzerine göndermek gibi bir niyeti yoktur atamın, sadece düşmanın kafasını karıştırmak için bunu yaptırır o sırada yakındaki 57. alayı çağırtır, alay hemen koşar ve düşmanın üzerine atılır.\n\n57. alay anzakları kıyıya kadar sürer ancak nihayetinde 2500-3000 kişilik bir kuvvettir, 20000 anzak henüz kıyıya çıkamamıştır ama en az 7-8000 civarında düşman askeri vardır karşısında, atamız çoktan komutasındaki diğer iki alayı çağırmıştır alaylar gelir taarruza geçme emri alır ama bir türlü emri yerine getirmez atamız tam ne oluyor diye sormak üzereyken 72. alay komutanı ağlayarak yanına gelir alayının çil yavrusu gibi dağılarak savaş alanından kaçtığı haberini verir, biraz sonra 77. alaydan da benzer ama daha küçük çaplı bir firar haberi gelir.\n\n57. alayın ve diğer iki alaydan geriye kalan askerlerin tüm kahramanlığına rağmen anzak kolordusu denize dökülemez, aylar süren ve hepimizin bildiği gibi korkunç kayıplarla sonuçlanan kanlı bir savaş başlar.\n\nevet bu alaylar ağırlıklı olarak suriye den gelen askerlerden oluşmuştur hatta atamızın daha önce kurup eğittiği iki alayı savaştan kısa süre önce alınarak yerlerine verilmişlerdir, atamızın bu alayları istemediği, kendi deyimi ile “halis türk delikanlılarından kurulu” eski iki alayını genel kurmaydan geri istediği yazışmalar arşivlerde bulunmaktadır.\n\nırkçı bir yaklaşımla yazmadım bu satırları, bu acı olayı yaratan durumun çöküntü halinde bir devletin vatandaşını sadece asker ve vergi lazım olduğunda hatırlaması, hizmet ve eğitim götürmemesi yüzünden olduğunu düşünüyorum.\n\nöte yandan bu başlığı açan paralı girdi yapan provakatör arkadaşı rezil etmek için yazdım, hoş anlamaz ama en azından burada dursun.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyeliler çanakkale geçilmesin diye şehit oldu",
+      "entry_id": "160219769",
+      "author": "kistirgec",
+      "date": "31.12.2023 22:15",
+      "content": "ha iyi o zaman ülkenin içine etme hakkına sahipler.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyeliler çanakkale geçilmesin diye şehit oldu",
+      "entry_id": "160219984",
+      "author": "yorgun kovboy",
+      "date": "31.12.2023 22:22",
+      "content": "yalancıyı sikseler keşke.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyeliler çanakkale geçilmesin diye şehit oldu",
+      "entry_id": "160220150",
+      "author": "piizeus",
+      "date": "31.12.2023 22:27 ~ 22:27",
+      "content": "hayır olmadı. doğu illerinden bile toplam katılım yüzde beşin altında. gelibolu zaferi balkan türklerinin ağırlıkta olduğu bir muharebedir. komutanları dahil.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyeliler çanakkale geçilmesin diye şehit oldu",
+      "entry_id": "160220583",
+      "author": "cmaktrk",
+      "date": "31.12.2023 22:40",
+      "content": "iyi de o zamanlar halep zaten türk toprağı idi, onların arap olduğunu nereden biliyorsun?",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyeliler çanakkale geçilmesin diye şehit oldu",
+      "entry_id": "160220739",
+      "author": "hicliklesonsuzlukarasinda",
+      "date": "31.12.2023 22:46",
+      "content": "peki filistin cephesinde ne yaşandı?",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyeliler çanakkale geçilmesin diye şehit oldu",
+      "entry_id": "160221206",
+      "author": "irregular 2",
+      "date": "31.12.2023 22:59",
+      "content": "olm hakikaten, orospu çocukluğunda markasınız yeminle. zaten çanakkale de geçildi. hani sonradan, geldikleri gibi giderler dendiğinde gemiler karadan gelmiş değildi.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyeliler çanakkale geçilmesin diye şehit oldu",
+      "entry_id": "160221398",
+      "author": "peynirrakikavun",
+      "date": "31.12.2023 23:05",
+      "content": "yalanciyi opmuyorlar böyle oluyor . suriye nere canakkale nere suriyeli belki sarikamista oldu ama çanakkale'de ölmedi .",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyeliler çanakkale geçilmesin diye şehit oldu",
+      "entry_id": "160221709",
+      "author": "professor james moriarty",
+      "date": "31.12.2023 23:16 ~ 23:17",
+      "content": "araplarda mehmet diye isim olmaz namussuz herifler, halep türkmen şehridir, o şehitler suriye türkmenleri",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyeliler çanakkale geçilmesin diye şehit oldu",
+      "entry_id": "160222439",
+      "author": "popi tombalak",
+      "date": "31.12.2023 23:37",
+      "content": "tamam suriye li kardeslerimiz şehit oldu diyelim. onların kıçını yalama gayesi içindesiniz devamlı. peki ve hiç mi türk ölmedi? türk kıçı niye yalamiyorsunuz?",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyeliler çanakkale geçilmesin diye şehit oldu",
+      "entry_id": "160222548",
+      "author": "gopkhan",
+      "date": "31.12.2023 23:40",
+      "content": "(bkz: çanakkale savaşı'nda 72. ve 77. alay)\n\n(bkz: bak şurdan siktir git)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyeliler çanakkale geçilmesin diye şehit oldu",
+      "entry_id": "160227415",
+      "author": "smokinle kopruden atlayan adam",
+      "date": "01.01.2024 01:58",
+      "content": "aslında bu tezlerine “ok” deyip arkasından islamcıların iki tanecik değil 250 yüzlü olduğunu anlamak için şunu söyleyin:\n\n“çanakkale şehitliğinde ermeni, rum ve musevi isimler de var. gencecik çocuklar'bizim' için şehit olmuşlar, onları da alalım mı ülkeye mesela 3'er milyon rum, ermeni, yahudi, ne dersin?”\n\nislamcı buna hayır diyecektir:) çünkü derdi şeriatçı almak.\n\nsiz sorun ama yine de:)\n\nnot: türkiye ve istanbul'un kapasitesi haddinden fazla aşıldı. rum veya suriyeli değil, japon bile alınmamalı:)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyeliler çanakkale geçilmesin diye şehit oldu",
+      "entry_id": "160228186",
+      "author": "boeingbogan",
+      "date": "01.01.2024 02:34",
+      "content": "selanik' ten gelen atama yunan diyenler şam' dan gelene suriyeli demekte. hassiktirin götelekler.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyeliler çanakkale geçilmesin diye şehit oldu",
+      "entry_id": "160228212",
+      "author": "nick ararken kaybolan yazar",
+      "date": "01.01.2024 02:35",
+      "content": "hassiktir amk, bilmesek uyutacak tarih büken şerefsiz. ulan ben kastamonu türkmeniyim, benim atalarım o inebolu-ankara yolunda nice evlatlarını şehit vermiş. senin o arap siki yalayacağım ayağına tarihi bükmene imkan vermem. şerife annemin ruhuna asla ihanet etmem.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyeliler çanakkale geçilmesin diye şehit oldu",
+      "entry_id": "160228300",
+      "author": "bkl1n3",
+      "date": "01.01.2024 02:41",
+      "content": "o zaman niye kendi bağımsız suriye devletini kurdular? topraklarını bize verselerdi ya. o zaman suriye savaşı da olmazdı bugün.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyeliler çanakkale geçilmesin diye şehit oldu",
+      "entry_id": "160231567",
+      "author": "midway",
+      "date": "01.01.2024 10:20",
+      "content": "yavşak götünden sallamış",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyeliler çanakkale geçilmesin diye şehit oldu",
+      "entry_id": "160231951",
+      "author": "barbatos lupus rex",
+      "date": "01.01.2024 10:47",
+      "content": "önceden evliyalar sayesinde diyorlardı, sonra güncelleme geldi, suriler sayesinde demeye başladılar. herkesi kendileri gibi tarih bilmez sanıyorlar.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyeliler çanakkale geçilmesin diye şehit oldu",
+      "entry_id": "160233298",
+      "author": "tangada bile don var",
+      "date": "01.01.2024 12:07",
+      "content": "aq neyin kafası bu bende anlamadım. kurutulus savaşında ingiliz fransız uşağı degilmiydi onlar?",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyeliler çanakkale geçilmesin diye şehit oldu",
+      "entry_id": "160233645",
+      "author": "riseofthetitans",
+      "date": "01.01.2024 12:24",
+      "content": "rohanın atlıları gelmeseydi senin baban yunan olurdu...",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyeliler çanakkale geçilmesin diye şehit oldu",
+      "entry_id": "160234128",
+      "author": "soninsansilkici",
+      "date": "01.01.2024 12:53 ~ 02.01.2024 09:27",
+      "content": "osmanlı askerleri de çöllerde sehit düştü o zaman oralarda bizim bosaltsinlar oraları. kore de de toprak hakkımız var orada da sehit verdik. dünya nin hicbir yerinde yoktur ülkesine gelen kaçaklar için aslında hak sahibi olduklarina dair konusanlar... adamlara neredeyse bu topraklar sizin hakkınız diyecekler",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyeliler çanakkale geçilmesin diye şehit oldu",
+      "entry_id": "160235366",
+      "author": "bkl1n3",
+      "date": "01.01.2024 13:54",
+      "content": "onlar arap suriyeliler değil, suriye'de halep'te yaşayan türkmenlerdir. çünkü o yıllarda suriye osmanlı toprağıydı, tıpkı selanik gibi.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyeliler çanakkale geçilmesin diye şehit oldu",
+      "entry_id": "160235600",
+      "author": "troda",
+      "date": "01.01.2024 14:05",
+      "content": "vay be; çanakkale zaferi de elden gitti desenize! çok yakında “kurtuluş savaşı da bir arap zaferidir” derlerse artık şaşırmayacağım. insanda birazcık utanma olur, ama nerdee?",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyeliler çanakkale geçilmesin diye şehit oldu",
+      "entry_id": "160235856",
+      "author": "near",
+      "date": "01.01.2024 14:18",
+      "content": "sömürgelerden ingilizler adına savaşanlarda var çanakkale imparatorluğun müttefikleriyle verdiği bir savaş tarih anlarla anlaşılan bir disiplin değil aynı suriyeliler apo'yu yıllarca korudu. suriyeliler ile ilgili genel sorun orda birlikte savaştık şurda kavga ettik değil. bu insanlar bir şekilde türkiye'ye kendi istekleriyle geldiler ama uyum sağlayamadılar ve sağlamak için bir çabalarıda yok. türkiye ekonomik ve toplumsal olarak bu yükü taşımaktan yoruldu. suriye kısmında da esad düşmedi burda karşılıklı bir anlaşma ile bu insanların yeniden dönüşü sağlanmalı tabi politik olarak mümkün mü zamanla göreceğiz",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyeliler çanakkale geçilmesin diye şehit oldu",
+      "entry_id": "160236286",
+      "author": "bigbrother",
+      "date": "01.01.2024 14:39 ~ 14:40",
+      "content": "(bkz: bir siktir git dedirten yobaz iddiaları)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyeliler çanakkale geçilmesin diye şehit oldu",
+      "entry_id": "160236648",
+      "author": "itibardan tasarruf eden yazar",
+      "date": "01.01.2024 14:56",
+      "content": "tarihi fesli deli kadir'den öğrenenlerin iddia ettiği zırvalık. itibar etmeyiniz. bunlara resmi kayıtlar ile cevap verseniz bile anlamazlar. iddia ediyorum, deveye hendek atlatabilirsiniz ama siyasal islamcı bir aktrolle kesinlikle laf anlatamazsınız.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyeliler çanakkale geçilmesin diye şehit oldu",
+      "entry_id": "160236670",
+      "author": "kesinlikle dengesizim",
+      "date": "01.01.2024 14:57",
+      "content": "he ya, trene koyup teeeee çanakkaleye getirmişler suriyeden askere alınanı.\n\ntek cephe de çanakkaleydi zaten. marmara çevresi de boştu, asker teeeeee doğudan geldi oraya...\n\no liste yalan kardeş.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyeliler çanakkale geçilmesin diye şehit oldu",
+      "entry_id": "160238141",
+      "author": "bimehisimladalanadam",
+      "date": "01.01.2024 16:04 ~ 16:36",
+      "content": "büyük oyun görme moduna giriyorum.\n\n********\n1909 yılından itibaren yapılanlara bakınca aklıma tek bir şey geliyor.\nbirileri osmanlının, kendi petrol havzalarında söz sahibi olmasını istememiş.\n\nsultan abdülhamit meşrutiyeti ilan etme şartıyla sultan yapıldı.\nosmanlıda sömürge kavramı olmadığından her yer vatan kabul edildiğinden, her vilayetten meclise mebus geliyordu.\nbritanyada ise sömürgeler ingiltereye vekil yollamazlar.\nböyle olunca işler karıştı. 93 harbi çıktı.\nsonrasında ise işin böyle gitmeyeceğini anlayan padişah meclisi iptal yetkisini kullandı. kanuni esasi ise devam etti. müstebit, diktatör vs. derken bunları düşünmek gerekir. neticede 33 sene kuyruğu dik tutabilmiş birisi var.\n\nişin sonunda malum birileri bazı uşakları vasıtasıyla sultanı indirmiş yerine mason biraderleri geçirmişler.\nhani bir poh bilseler tamam da bildikleri tek şey vatan millet sakarya ya zafer ya ölüm. full+full hamaset bilirler.\n\niktidarı ele geçirirken ortaklık ettikleri haydutlarla birleşip milletin anasını bellediler.\nenver paşa denilen adam dağlarda eşkıyalık etti. ordusunda kırk milletten harami vardı.\ndiğerlerini saymıyorum bile.\n\nsadece libyanın kaybı bile başlı başına götlerine girmesi gereken bir şeydir.\n********\n\n93 harbi çıkmasaydı ya da 1909 olmasaydı şu anda güllük gülistanlık olmasa bile biz en azından necrocracy değildik.\n\n1.dünya savaşı çıkmazdı.\nsscb kurulmazdı.\namerika rahatça borusunu öttüremezdi.\nsoğuk savaş diye bir nane olmayacağı için işler daha yolunda giderdi.\ndünyada ilk 5 ülkeden birisi her zaman osmanlı olurdu ki zaten yıkılana kadar da öyleydi.\n\ntürkiye şu anda kaçta?\nbizi bu duruma kim soktu.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyeliler çanakkale geçilmesin diye şehit oldu",
+      "entry_id": "160238193",
+      "author": "aleksitimi de ne",
+      "date": "01.01.2024 16:07",
+      "content": "resmi rakamlar suriyeli 6 şehit yazıyor.\nallah rahmet eylesin.\nancak bu ayrımcı, bölücü yaklaşıma neden itibar ediliyor. bakınız türkiye dışından şehitlere sadece birkaçını hatırlayalım bingazi (8), trablus (5) drama (6), girit (5), kosova (12), manastır (13), selanik (13), bağdat (6), halep (5), kerkük (9), trablusşam (lübnan) (37), yemen (24)\nne anlatıyor bu rakamlar? bir dramalı kadar şehit verip dramalı'dan daha fazla ses çıkarmak nedir?\ne o halde kurtuluş savaşı sonrasında bağımsızlığını ilan eden modern, laik, çağdaş, demokratik, eşitlikçi, adaletli devletimiz için çalışmaya devam ediyor olmalısınız.\nkurtuluş savaşı çok boyutlu bir savaştı, bir şehit de verse bin şehit de verse her bir ilimiz eşittir. savaşın lojistik, sağlık gibi alanlarında mücadele etmiş gazilerimiz ve savaştan sağ kurtulmayı başaranlar da eşit derecede saygıyı hakederler.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "suriyeliler çanakkale geçilmesin diye şehit oldu",
+      "entry_id": "160240178",
+      "author": "jeryjer",
+      "date": "01.01.2024 17:37",
+      "content": "o aşağılık parazitleri başımıza musallat ettimiz ne çanakkalesi iyice sapıttınız vatansız köpeklere bak",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyeliler çanakkale geçilmesin diye şehit oldu",
+      "entry_id": "160247980",
+      "author": "hayvan evladi seni",
+      "date": "01.01.2024 22:29 ~ 22:31",
+      "content": "insan değişir. 1915'te çanakkale'de o an içinde olduğu ülke için savaşır, 2 sene sonra aynı insan kendi ulus devleti kurulacak diye kendi imparatorluğuna karşı savaşır vs olur öyle. insanların fikirleri değişir eylemi değişir. şimdi ben mesela fikrimi eylemimi değiştirecek olsam isterim ki insanlar beni öyle kabul etsin. ama işte bunu yapıyorsan ve dahil olduğun ülkeden ayrışıp artık başka ülkenin vatandaşı olduysan ve 100 sene sonra ekonomik ve politik sebeplerle yine o ülkeye geldiysen biz sizin için savaşmıştık diyemezsin. gelirsen gelirsin yine, burada hayat kurarsın, buralı olursun, vergini verirsin ama bunu diyemezsin.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "suriyeliler çanakkale geçilmesin diye şehit oldu",
+      "entry_id": "160249055",
+      "author": "bizgeldim",
+      "date": "01.01.2024 22:58",
+      "content": "osman pamukoğlu paşanın fatih altaylı ile olan son programını açın izleyin.paşam belgelerle ispat ediyor herşeyi.\n\nilgili video",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyeliler çanakkale geçilmesin diye şehit oldu",
+      "entry_id": "160250260",
+      "author": "kontemontekristo",
+      "date": "01.01.2024 23:32",
+      "content": "adamlar savaşmamak için memleketlerinden kaçtı geldi. bu da başlık açmış ne o çanakkale için şehit olmuşlarmış.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyeliler çanakkale geçilmesin diye şehit oldu",
+      "entry_id": "160257705",
+      "author": "gelberryyargelberry",
+      "date": "02.01.2024 08:05",
+      "content": "türkmen onlar beyinsiz.\n\nayrıca, suriye denen yer, o zamanlar osmanlı toprağıydı.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyeliler çanakkale geçilmesin diye şehit oldu",
+      "entry_id": "160258288",
+      "author": "brutus slachtbeest",
+      "date": "02.01.2024 09:01",
+      "content": "(bkz: shakespeare'in aslı şeyh pir'dir)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyeliler çanakkale geçilmesin diye şehit oldu",
+      "entry_id": "160258903",
+      "author": "hypodenz",
+      "date": "02.01.2024 09:46",
+      "content": "kesin yazan olmustur ama yine yazayim.\nhassiktir bok.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyeliler çanakkale geçilmesin diye şehit oldu",
+      "entry_id": "160259109",
+      "author": "aelmaci",
+      "date": "02.01.2024 09:59",
+      "content": "yahu adamlara göre biz orada işgalciydik, bunun nesini anlamıyorsunuz\n\n(bkz: i.hakkı sunata) (bkz: ana ben ölmedim) biri kendi günlükleri diğeri çoğunlukla resmi belgelerle yazılmış bu kitapları okuduğunuzda çok net görünüyor ki; esir düşen osmanlı askerleri arasında esir kamplarında bile türkleri ve arapları çıkan kavgalar nedeniyle ayrı tutmuşlar, yine görünüyor ki 10 kişilik arap askerini bir yere gönderince 5'i yolda kaçıyor, efendim şerif hüseyin olayı ortada, yani onlar da bizi sevmek zorunda değil zaten ve sevmiyorlar.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyeliler çanakkale geçilmesin diye şehit oldu",
+      "entry_id": "160259176",
+      "author": "volvosaglamaraba",
+      "date": "02.01.2024 10:02",
+      "content": "ulan suriler bu kadar cengaver olsa suriye geçilmezdi avanaklar.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyeliler çanakkale geçilmesin diye şehit oldu",
+      "entry_id": "160261163",
+      "author": "pyroxevil",
+      "date": "02.01.2024 11:47",
+      "content": "osmanlı tebâsı olan her millet cephede görev yaptı. suriyelilere bir şey borçlu değiliz. savaşan herkes vatanı için savaştı. o zaman suriye'li, kudüs'lü, ankara'lı topyekün osmanlı tebâsı idi. padişaha, dolayısıyla halifeye ayândı. şimdi suriye ayrı, biz ayrı. aramızda yalnızca sınır değil, ciddi bir kültür farkı da mevcut. mevzu bahis budur vesselam.\n\n4, 7 ve 9. ordu (yıldırım orduları) filistin / sina cephesinden anadoluya doğru çekilirken halep mevkinde evlerden kurşun sıkanlar, su kuyularına ölü hayvan cesetleri atanlar kimmiş peki? japonlar mı? o mantığa bakarsan bu da bir mantık? yani meseleye bakış açınız önemli. nereye çekerseniz oraya gider. o yüzden bırakın bu göçmen sevdasını.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyeliler çanakkale geçilmesin diye şehit oldu",
+      "entry_id": "160264615",
+      "author": "keyptown",
+      "date": "02.01.2024 14:23",
+      "content": "nasıl mardinde, artvinde, muğlada, yozgatta, türkiyenin 4 farklı bölgesinden bir kişi askere gidebiliyorsa o zaman suriyeden biri askere gidebiliyordu.\nçünkü suriye osmanlı toprağı.\ntürkiye de seferberlik durumu olsa askere alınırsın. osmanlı'da aynısını yapmış.\nanlatmaktan yorulduk cahil oğlu cahillere.\nsuriyeli şehit oldu diyor.\nşunu hiç demiyor ama osmanlı 1.dünya savaşında ordusunun %40nı kaybetti. milyonlarcası yaa kayıp yaa hastalıktan öldü.\nçöllerde kurudu, dağlarda dondu, sularda boğuldu.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyeliler çanakkale geçilmesin diye şehit oldu",
+      "entry_id": "160264831",
+      "author": "arap sen icme bokunu cikartiyorsun",
+      "date": "02.01.2024 14:33",
+      "content": "peki suriyelilerin bundan haberi var mı? lan arap sevici akpyi yalayacaksınız diye de bu ülkenin kahramanlarının hikayesini de uydurmazsınız amk.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyeliler çanakkale geçilmesin diye şehit oldu",
+      "entry_id": "162583982",
+      "author": "eurasia",
+      "date": "18.03.2024 14:48",
+      "content": "(bkz: çanakkale savaşında arap askerlerin firar etmesi)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyeliler çanakkale geçilmesin diye şehit oldu",
+      "entry_id": "162584374",
+      "author": "juvini",
+      "date": "18.03.2024 15:04",
+      "content": "bugün suriyelilere nefret söyleminde bulunanlara hatırlatılması gereken başlık.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:25:45.660587",
+    "total_entries": 6,
+    "input": "twitch yayını yapan rusun ocağının söndürülmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "twitch yayını yapan rusun ocağının söndürülmesi",
+      "entry_id": "142996392",
+      "author": "xopowo",
+      "date": "22.09.2022 09:50",
+      "content": "evindeki ocakla twitch yayını yapan rus un hesabı twitch tarafından kapatılmış. twitch, senin ocağını söndürürüm oğlum diyerek karşı trolleme amaçlı yaptıysa bence çok komik. ama yapmadıysa trajikomik.\n\ntiviçin ilki viyi hizmit kişillirinin ihlili\n\nputin'e de sokam ilkelerinize sokam. rusya da kafayı yedi batı da. rusların kaybedeceği çok şeyi kalmadı zaten. ama \"özgür\" batı da karizmasını 2 senede çizdirdi. batıya laf ettim diye akgavat ilan edileceğim birazdan ama olsun.\n\ngörsel\n\nhttps://www.twitch.tv/russiangas1",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "twitch yayını yapan rusun ocağının söndürülmesi",
+      "entry_id": "142996435",
+      "author": "nickimi getirin ulen",
+      "date": "22.09.2022 09:52",
+      "content": "koskoca twitch'in düştüğü durumu gözler önüne sermiştir. bu batılılar böyle, işlerine gelmeyen her şeyi anında susturuyorlar.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "twitch yayını yapan rusun ocağının söndürülmesi",
+      "entry_id": "142996461",
+      "author": "swordsman was here",
+      "date": "22.09.2022 09:53",
+      "content": "(bkz: fazla atar göte batar)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "twitch yayını yapan rusun ocağının söndürülmesi",
+      "entry_id": "142996470",
+      "author": "ixs54",
+      "date": "22.09.2022 09:53",
+      "content": "yazık oldu bakıp ısınıyorduk.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "twitch yayını yapan rusun ocağının söndürülmesi",
+      "entry_id": "142996742",
+      "author": "edgecrusher",
+      "date": "22.09.2022 10:02",
+      "content": "ruslar durduk yere bir godoşun lafıyla binlerce sivil öldürür ve tecavüz eder, arkalarında durursunuz. insanların acılarıyla dalga geçerler, arkalarında durursunuz. yedikleri bokun sonucuna katlanmak zorunda kalınca göt acısıyla bu twitch'teki gibi ezik güce tapan bir yavşak kalkar anlamsız ve tam anlamıyla ziyan bir hareket yapar, arkalarında durursunuz.\n\nsize bir haberim var; siz kimin arkasında ne zaman durulacağını bilmiyorsunuz kardeş. ayarsız, bihaber, eğitimsiz ve hiçbir sike yaramayacak düşüncelerinizi kendinize saklayın. hormonlarınızla, bir anlık duygularınızla verdiğiniz kararlar özgür irade diye bir şeye sahip olmadığınızı zaten gösteriyor. siz bence kümesinizden hiç çıkmayın, böylece dünyaya ve topluma verdiğiniz zararı en aza indirgemiş ve en sonunda bir boka yaramış olursunuz.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "twitch yayını yapan rusun ocağının söndürülmesi",
+      "entry_id": "142996747",
+      "author": "bu filmin kotu adami",
+      "date": "22.09.2022 10:02",
+      "content": "sanırım olay şu\n\naklıma \"açın gombileri\" diye bağıran yalakayı getirmiştir.",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

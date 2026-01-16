@@ -1,0 +1,51 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:05:25.193320",
+    "total_entries": 3,
+    "input": "suriyelilerin suriye'ye geri dönme nedeni",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelilerin suriye'ye geri dönme nedeni",
+      "entry_id": "170911728",
+      "author": "kaynak kicim",
+      "date": "10.12.2024 20:26",
+      "content": "milyonlarca suriyeli, sanki bir anda ülkelerine geri dönüyormuş gibi haber yapanlardan öğrenmek istediğim nedenlerdir.\n\ngünlük yaşamlarını idame ettirebilecekleri doğru düzgün bir alt/üst yapının olmaması, ülkelerine dönecek finansmanın nereden sağlanacağı, döndüklerinde nasıl geçim kaynağı bulacakları gibi sorunları geçtim, daha ülkeyi kimlerin ve nasıl bir rejim ile yöneteceği bile belli değil ve uzun bir süre de belli olacak gibi görünmüyor..",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY",
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "suriyelilerin suriye'ye geri dönme nedeni",
+      "entry_id": "170911778",
+      "author": "anarchist urban guerrilla",
+      "date": "10.12.2024 20:28",
+      "content": "aktrollerin uydurmalari. 3 gundur 2bin kisi gecmis sadece. ki onlar da yagma yapmak isteyen seriatcilardir.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyelilerin suriye'ye geri dönme nedeni",
+      "entry_id": "170911974",
+      "author": "gameofgirl",
+      "date": "10.12.2024 20:35",
+      "content": "olm suriyeliler türkiye'de türk vatandaşlarından daha iyi yaşıyor sence bunlar döner mi suriye'ye lan? şu an keriz silkeler gibi suriyeliler dönüyor suriye'ye diye haber yapıp duruyorlar. ha cahiller inanıyor o ayrı mevzu. zaten bu cahiller yüzünden kaç senedir bop eş başkanı türkiye'nin başında değil mi?\n\nabi cidden bunların cahilliği bizim yaşamımızı ciddi anlamda etkiliyor ya. lanet olsun.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    }
+  ]
+}

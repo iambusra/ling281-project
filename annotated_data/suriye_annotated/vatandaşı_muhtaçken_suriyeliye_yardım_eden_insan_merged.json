@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:13:48.951894",
+    "total_entries": 1,
+    "input": "vatandaşı muhtaçken suriyeliye yardım eden insan",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "vatandaşı muhtaçken suriyeliye yardım eden insan",
+      "entry_id": "53823695",
+      "author": "punkrock1907",
+      "date": "06.08.2015 20:41",
+      "content": "arap faşisti ve rabiacıdır. ya da türk düşmanı bir kızıldır.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    }
+  ]
+}

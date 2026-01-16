@@ -1,0 +1,588 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:27:28.673548",
+    "total_entries": 48,
+    "input": "ismi ve soyismi hatırlanan ruslar",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ismi ve soyismi hatırlanan ruslar",
+      "entry_id": "105069966",
+      "author": "cerag",
+      "date": "09.04.2020 18:35",
+      "content": "(bkz: ivan drago)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "ismi ve soyismi hatırlanan ruslar",
+      "entry_id": "105070022",
+      "author": "feanorr",
+      "date": "09.04.2020 18:36",
+      "content": "(bkz: fyodor mihayloviç dostoyevski)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "ismi ve soyismi hatırlanan ruslar",
+      "entry_id": "105070026",
+      "author": "sonnenuntergang",
+      "date": "09.04.2020 18:36",
+      "content": "(bkz: leo tolstoy)\n(bkz: aleksandr puşkin)\n(bkz: fyodor dostoyevski)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "ismi ve soyismi hatırlanan ruslar",
+      "entry_id": "105070074",
+      "author": "julius agahowa",
+      "date": "09.04.2020 18:37",
+      "content": "(bkz: yuri gagarin)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "ismi ve soyismi hatırlanan ruslar",
+      "entry_id": "105070080",
+      "author": "equinoxe",
+      "date": "09.04.2020 18:37",
+      "content": "(bkz: ırina shenokosova)\n\n(bkz: alanya)\n\n(bkz: natalia shashkina)\n\n(bkz: yine alanya)\n\n(bkz: hey gidi gençlik)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "ismi ve soyismi hatırlanan ruslar",
+      "entry_id": "105070150",
+      "author": "mir",
+      "date": "09.04.2020 18:38",
+      "content": "(bkz: ivan divandelen)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "ismi ve soyismi hatırlanan ruslar",
+      "entry_id": "105070226",
+      "author": "halamin biyiklari olsaydi amcam olurdu",
+      "date": "09.04.2020 18:39",
+      "content": "pyotr ilyiç tchikovsky",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "ismi ve soyismi hatırlanan ruslar",
+      "entry_id": "105070247",
+      "author": "halamin biyiklari olsaydi amcam olurdu",
+      "date": "09.04.2020 18:39 ~ 14.04.2020 18:49",
+      "content": "ludmilla drago",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "ismi ve soyismi hatırlanan ruslar",
+      "entry_id": "105070263",
+      "author": "decco",
+      "date": "09.04.2020 18:40",
+      "content": "(bkz: maria sharapova)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "ismi ve soyismi hatırlanan ruslar",
+      "entry_id": "105070295",
+      "author": "by mardinli47",
+      "date": "09.04.2020 18:40",
+      "content": "vladimir ilyiç lenin",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "ismi ve soyismi hatırlanan ruslar",
+      "entry_id": "105070394",
+      "author": "m8rtcn",
+      "date": "09.04.2020 18:42",
+      "content": "rodion romanoviç raskolnikov",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "ismi ve soyismi hatırlanan ruslar",
+      "entry_id": "105070438",
+      "author": "cinnnahcik",
+      "date": "09.04.2020 18:43",
+      "content": "ekaterina makarova.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "ismi ve soyismi hatırlanan ruslar",
+      "entry_id": "105070518",
+      "author": "yedektalihli",
+      "date": "09.04.2020 18:44",
+      "content": "(bkz: o rus bu çocuğu)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "ismi ve soyismi hatırlanan ruslar",
+      "entry_id": "105070739",
+      "author": "harlemzencisi",
+      "date": "09.04.2020 18:48",
+      "content": "(bkz: ekaterina gamova)\n\n(bkz: elena dementieva)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "ismi ve soyismi hatırlanan ruslar",
+      "entry_id": "105070760",
+      "author": "33derece",
+      "date": "09.04.2020 18:49",
+      "content": "(bkz: ivan sergei dimitriç topov)\nadına bakan da adam sanır, mına koduumun yancısı.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "ismi ve soyismi hatırlanan ruslar",
+      "entry_id": "105070930",
+      "author": "fareli koyun pompacisi",
+      "date": "09.04.2020 18:52 ~ 18:53",
+      "content": "(bkz: mihail illarionoviç kutuzov)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "ismi ve soyismi hatırlanan ruslar",
+      "entry_id": "105070993",
+      "author": "namestee",
+      "date": "09.04.2020 18:53 ~ 18:55",
+      "content": "rodion romanovich raskalnikov",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "ismi ve soyismi hatırlanan ruslar",
+      "entry_id": "105071034",
+      "author": "b4usleep",
+      "date": "09.04.2020 18:54 ~ 18:56",
+      "content": "(bkz: lubov sokolova)\n(bkz: irina rodnina - alexandr zaitsev)\n(bkz: gary kasparov)\n(bkz: anatoly karpov)\n(bkz: leonid brejnev)\n(bkz: vladimir ilyiç lenin), vı. lenin:)\n(bkz: ekaterina gamova)\n(bkz: mihail gorbaçov)\n(bkz: aleksandr alehin)\n(bkz: vasiliy alekseyev) ve elbette\n(bkz: maria sharapova) ile\n(bkz: anna kournikova)\n\nbinlerce yazılabilir bir yerde durmak lazım",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "ismi ve soyismi hatırlanan ruslar",
+      "entry_id": "105071071",
+      "author": "theodorospapaloukas",
+      "date": "09.04.2020 18:54",
+      "content": "(bkz: rinat dasaev)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "ismi ve soyismi hatırlanan ruslar",
+      "entry_id": "105071148",
+      "author": "hukuksal sevinimler",
+      "date": "09.04.2020 18:56",
+      "content": "(bkz: eduard shevardnadze)\n\n(bkz: yuri gagarin)\n\n(bkz: mihail gorbaçov)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "ismi ve soyismi hatırlanan ruslar",
+      "entry_id": "105071230",
+      "author": "realizmanyak",
+      "date": "09.04.2020 18:57",
+      "content": "fyodor dostoyevski",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "ismi ve soyismi hatırlanan ruslar",
+      "entry_id": "105071292",
+      "author": "icpbitiyor",
+      "date": "09.04.2020 18:59",
+      "content": "ivan drago",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "ismi ve soyismi hatırlanan ruslar",
+      "entry_id": "105071311",
+      "author": "burakoli",
+      "date": "09.04.2020 18:59",
+      "content": "(bkz: yuri gagarin)\n\n(bkz: garry kasparov)\n\n(bkz: natalia romanova) (bkz: black widow)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "ismi ve soyismi hatırlanan ruslar",
+      "entry_id": "105071316",
+      "author": "coolbaycin",
+      "date": "09.04.2020 18:59",
+      "content": "(bkz: tilki andrei)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "ismi ve soyismi hatırlanan ruslar",
+      "entry_id": "105071368",
+      "author": "kingtiger1",
+      "date": "09.04.2020 19:00",
+      "content": "nastasya filippovna",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "ismi ve soyismi hatırlanan ruslar",
+      "entry_id": "105071399",
+      "author": "windergood",
+      "date": "09.04.2020 19:01",
+      "content": "(bkz: josef stalin)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "ismi ve soyismi hatırlanan ruslar",
+      "entry_id": "105071470",
+      "author": "elestirman",
+      "date": "09.04.2020 19:02",
+      "content": "(bkz: stolichnaya vodka)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "ismi ve soyismi hatırlanan ruslar",
+      "entry_id": "105071559",
+      "author": "zirtlambac",
+      "date": "09.04.2020 19:03",
+      "content": "vasily nikolayevich karasev. efes pilsen de bir sezon oynamış olsa da gönülleri fethetmistir.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "ismi ve soyismi hatırlanan ruslar",
+      "entry_id": "105071938",
+      "author": "zozulya",
+      "date": "09.04.2020 19:11",
+      "content": "valeri karpin",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "ismi ve soyismi hatırlanan ruslar",
+      "entry_id": "105071998",
+      "author": "bugubilge",
+      "date": "09.04.2020 19:12",
+      "content": "vladimir bestchasnyk",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "ismi ve soyismi hatırlanan ruslar",
+      "entry_id": "105072210",
+      "author": "dveloper",
+      "date": "09.04.2020 19:16",
+      "content": "(bkz: vladimir vladimiroviç putin)\n(bkz: mihail gorbaçov)\n(bkz: boris yeltsin)\n(bkz: dmitry medvedev)\n(bkz: vladimir ilyiç lenin)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "ismi ve soyismi hatırlanan ruslar",
+      "entry_id": "105072346",
+      "author": "tugcan72",
+      "date": "09.04.2020 19:19",
+      "content": "(bkz: garry kimovich kasparov)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "ismi ve soyismi hatırlanan ruslar",
+      "entry_id": "105072387",
+      "author": "betonraziye",
+      "date": "09.04.2020 19:20",
+      "content": "(bkz: viki odintcova)\n(bkz: polina malinovskaya)\nikisini de dene tarafını seç!\nc-) hepsi",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "ismi ve soyismi hatırlanan ruslar",
+      "entry_id": "105072402",
+      "author": "aklimdakiler",
+      "date": "09.04.2020 19:20 ~ 19:21",
+      "content": "(bkz: vasiliy zaitsev)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "ismi ve soyismi hatırlanan ruslar",
+      "entry_id": "105072473",
+      "author": "lethe1",
+      "date": "09.04.2020 19:21",
+      "content": "(bkz: vladimir ilyiç lenin) (bkz: maksim gorki) (bkz: ivan turgenyev) (bkz: fyodor dostoyevski) (bkz: dimitri mendeleyev) (bkz: mihail sergeyeviç gorbaçov)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "ismi ve soyismi hatırlanan ruslar",
+      "entry_id": "105072488",
+      "author": "iyi dersler arkadashlar",
+      "date": "09.04.2020 19:21",
+      "content": "nikolay ikinci",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "ismi ve soyismi hatırlanan ruslar",
+      "entry_id": "105072842",
+      "author": "timothee chalamet",
+      "date": "09.04.2020 19:27 ~ 18.11.2020 21:30",
+      "content": "(bkz: lev nikolayeviç tolstoy)\n(bkz: fyodor mihayloviç dostoyevski)\n(bkz: aleksey maksimoviç peşkoy)\n(bkz: vladimir ilyiç lenin)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "ismi ve soyismi hatırlanan ruslar",
+      "entry_id": "105073194",
+      "author": "economicus16",
+      "date": "09.04.2020 19:34",
+      "content": "(bkz: valeri karpin)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "ismi ve soyismi hatırlanan ruslar",
+      "entry_id": "105073330",
+      "author": "garnash",
+      "date": "09.04.2020 19:36 ~ 19:37",
+      "content": "(bkz: yekaterina gamova)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "ismi ve soyismi hatırlanan ruslar",
+      "entry_id": "105073433",
+      "author": "sipitama",
+      "date": "09.04.2020 19:38",
+      "content": "(bkz: artyom alekseyevich chyornyj)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "ismi ve soyismi hatırlanan ruslar",
+      "entry_id": "105074061",
+      "author": "jeddawi",
+      "date": "09.04.2020 19:50",
+      "content": "vladimir putin",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ismi ve soyismi hatırlanan ruslar",
+      "entry_id": "105074139",
+      "author": "mete adanir",
+      "date": "09.04.2020 19:51",
+      "content": "her zaman aklıma ilk gelen üçlü:\n\nyuri gagarin\nlev yashin\njoseph stalin.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ismi ve soyismi hatırlanan ruslar",
+      "entry_id": "105074968",
+      "author": "yarayla alay eder yaralanmamis olan",
+      "date": "09.04.2020 20:07",
+      "content": "(bkz: nastasya filippovna)\n(bkz: rodion raskolnikov romanoviç)\n(bkz: anna karenina)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ismi ve soyismi hatırlanan ruslar",
+      "entry_id": "105076356",
+      "author": "mrvantoinette",
+      "date": "09.04.2020 20:32",
+      "content": "(bkz: lev tolstoy)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ismi ve soyismi hatırlanan ruslar",
+      "entry_id": "105081087",
+      "author": "eesaudadee",
+      "date": "09.04.2020 21:52",
+      "content": "vadim kiselev",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ismi ve soyismi hatırlanan ruslar",
+      "entry_id": "105112213",
+      "author": "sekole",
+      "date": "10.04.2020 10:36",
+      "content": "çok var, yazılmamışları yazmaya çalışayım...\n(bkz: nikolai rimsky-korsakov)\n(bkz: ıgor stravinsky)\n(bkz: alexander pushkin)\n(bkz: yuri gagarin)\n(bkz: grigori rusputin)\n(bkz: peter the great)(bkz: deli pedro)\n(bkz: mikhail gorbachev)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ismi ve soyismi hatırlanan ruslar",
+      "entry_id": "105127482",
+      "author": "figy",
+      "date": "10.04.2020 16:20 ~ 16:22",
+      "content": "vladimir ılyich ulyanov\njoseph vissarionovich stalin (tam anlamıyla rus olmasada gürcü asıllı olması gerek)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ismi ve soyismi hatırlanan ruslar",
+      "entry_id": "105127676",
+      "author": "andthentherewassilence",
+      "date": "10.04.2020 16:25",
+      "content": "grigori grabovoi\ngrigori rasputin",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

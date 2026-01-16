@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:06:50.826952",
+    "total_entries": 2,
+    "input": "avrupa'nın ukrayna ve filistin ikiyüzlülüğü",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "avrupa'nın ukrayna ve filistin ikiyüzlülüğü",
+      "entry_id": "165304509",
+      "author": "sansasyonseverim",
+      "date": "13.06.2024 01:42",
+      "content": "'avrupa medeniyeti' nin nasıl kendindinden görmediğinin acısına kör, sağır, dilsiz olabileceğini; aslında nasıl bencil olduklarını, o bahsettikleri insan hakları, kalkınma planları gibi konuların nasıl sadece kendine benzerleri kapsadığını gördüğümüz ikiyüzlülüktür.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "avrupa'nın ukrayna ve filistin ikiyüzlülüğü",
+      "entry_id": "165304918",
+      "author": "dergul",
+      "date": "13.06.2024 02:06",
+      "content": "yanlış örnek olmuş. asıl ukrayna ile ırak karşılaştırılmalıdır. her iki ülkeye de azınlıkları koruma bahanesiyle girilmiş ama sadece bir tanesi yalanını yasallaştırabilmiştir.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    }
+  ]
+}

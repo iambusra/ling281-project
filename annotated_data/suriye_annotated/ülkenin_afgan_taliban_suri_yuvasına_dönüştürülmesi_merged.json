@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:13:34.507256",
+    "total_entries": 1,
+    "input": "ülkenin afgan taliban suri yuvasına dönüştürülmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ülkenin afgan taliban suri yuvasına dönüştürülmesi",
+      "entry_id": "127199075",
+      "author": "newsky24",
+      "date": "22.08.2021 12:34",
+      "content": "ibretle izlediğimiz durumdur.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

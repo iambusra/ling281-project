@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:14:30.326159",
+    "total_entries": 1,
+    "input": "zelenskiy'nin suriyelilerden iyi türkçe konuşması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "zelenskiy'nin suriyelilerden iyi türkçe konuşması",
+      "entry_id": "139777558",
+      "author": "tamuhalif",
+      "date": "09.07.2022 17:38",
+      "content": "abi mumkunse suriyeli paki afgi falan ne varsa gitsinler. turkce ogrenmekle falan da zaman kaybetmesınler. 1 mılyon olsa entegre falan derdık de 10 mılyonlardan bahsedıyoruz.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    }
+  ]
+}

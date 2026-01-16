@@ -1,0 +1,61 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:08:52.743185",
+    "total_entries": 4,
+    "input": "trump’ın suriye erdoğan’ın zaferidir itirafı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "trump’ın suriye erdoğan’ın zaferidir itirafı",
+      "entry_id": "178675656",
+      "author": "deepthinking",
+      "date": "25.09.2025 19:28",
+      "content": "trump\n\nabd başkanı donald trump:\n\nsuriye'de verilen mücadelede cumhurbaşkanı erdoğan'ın büyük katkısı var.\n\nsuriye, cumhurbaşkanı erdoğan'ın zaferidir.",
+      "has_external_url": true,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "trump’ın suriye erdoğan’ın zaferidir itirafı",
+      "entry_id": "178675691",
+      "author": "portekizli corvet",
+      "date": "25.09.2025 19:30 ~ 22:32",
+      "content": "suriye reis'in kalfalık eseridir.\n\nsıradaki ustalık eseri ise yapılacak yeni anayasa ile yeni türkiye (yeni osmanlı) olacaktır.\ninşallah demode ulus devlet prangasından kurtulacağız ve kurulacak türkiyeli-kürt-arap federasyonu ile de dünyada hak ettiğimiz güce ve saygınlığa kavuşacağız.\n\nkudurun ey israil ve onun tohumları! müslümanlar yeniden şaha kalkıyor.",
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "POLICY",
+        "XENO"
+      ]
+    },
+    {
+      "title": "trump’ın suriye erdoğan’ın zaferidir itirafı",
+      "entry_id": "178675717",
+      "author": "yankee jumping",
+      "date": "25.09.2025 19:31",
+      "content": "bundan zaten kimsenin şüphesi yok ki… şu anda hem amerika’nın hem israil’in istediği gibi her şey.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "trump’ın suriye erdoğan’ın zaferidir itirafı",
+      "entry_id": "178677070",
+      "author": "xoxox",
+      "date": "25.09.2025 20:31",
+      "content": "hırsızın trollerine kol gibi girmiştir. ağlayın lan it sürüsü.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE"
+      ]
+    }
+  ]
+}

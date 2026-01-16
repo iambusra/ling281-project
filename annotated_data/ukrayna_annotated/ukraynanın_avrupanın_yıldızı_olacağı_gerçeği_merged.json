@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:16:32.963168",
+    "total_entries": 1,
+    "input": "ukraynanın avrupanın yıldızı olacağı gerçeği",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukraynanın avrupanın yıldızı olacağı gerçeği",
+      "entry_id": "134258978",
+      "author": "gokhanzngn",
+      "date": "26.02.2022 23:54",
+      "content": "bugünlerde uğradıkları büyük haksızlıklar, yarınları için büyük bir başlangıç olacak.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN"
+      ]
+    }
+  ]
+}

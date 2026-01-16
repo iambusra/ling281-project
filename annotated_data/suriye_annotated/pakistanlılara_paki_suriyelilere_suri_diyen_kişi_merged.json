@@ -1,0 +1,49 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:44:26.182960",
+    "total_entries": 3,
+    "input": "pakistanlılara paki suriyelilere suri diyen kişi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "pakistanlılara paki suriyelilere suri diyen kişi",
+      "entry_id": "137308161",
+      "author": "balili tipi pirpir forvet",
+      "date": "11.05.2022 12:13",
+      "content": "ırkçıdır. nokta.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE"
+      ]
+    },
+    {
+      "title": "pakistanlılara paki suriyelilere suri diyen kişi",
+      "entry_id": "137308478",
+      "author": "mnaobk",
+      "date": "11.05.2022 12:22",
+      "content": "kadinlara da huri der.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "SEXUAL",
+        "POS-STEREO"
+      ]
+    },
+    {
+      "title": "pakistanlılara paki suriyelilere suri diyen kişi",
+      "entry_id": "137308484",
+      "author": "amerikan popechku",
+      "date": "11.05.2022 12:22 ~ 12:26",
+      "content": "türkiye'liye türk diyince ırkçı mı oluyosun allahın salağı.\n\narabistanlıya arap diyince, finlandiya'lıya fin diyince, amerika'lıya amerikan diyince...",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    }
+  ]
+}

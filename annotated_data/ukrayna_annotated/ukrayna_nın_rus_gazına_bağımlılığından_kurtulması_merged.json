@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:15:53.861409",
+    "total_entries": 1,
+    "input": "ukrayna'nın rus gazına bağımlılığından kurtulması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukrayna'nın rus gazına bağımlılığından kurtulması",
+      "entry_id": "57366758",
+      "author": "yalnis yasamis eleman",
+      "date": "31.12.2015 10:17",
+      "content": "ukrayna başbakanı arseniy yatsenyuk'un yaptığı açıklamaya göre artık bu ekonomik problemin çözüldüğü sonucudur.\nbunu bir ukrayna yapabiliyorsa biz neden yapamayalım?\nukrayna başbakanı şöyle demiş;\n“eskiden biz, rusya federasyonu tarafından sağlanan doğalgaza tamamen bağlı idik. 2014 yılında ise gazı başka yerlerden almaya başlayınca ukrayna’nın enerji bağımsızlığı arttı ve ukrayna’ya gelen doğalgaz fiyatları düştü” dedi.\n\nrusya federasyonu’na karşı izlediğimiz sert tutumumuzdan dolayı fiyatların daha da düşeceğini ümit ediyorum.\n\nsert tutum. vuvvvv. ukrayna babasına yani koskoca rusya'ya sert tutum sergileyebiliyor. peki biz ne yaptık?\n\nkaynak",
+      "has_external_url": true,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POLICY",
+        "ECON"
+      ]
+    }
+  ]
+}

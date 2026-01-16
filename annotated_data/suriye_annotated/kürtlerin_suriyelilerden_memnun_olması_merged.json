@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T16:02:50.108336",
+    "total_entries": 1,
+    "input": "kürtlerin suriyelilerden memnun olması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "kürtlerin suriyelilerden memnun olması",
+      "entry_id": "135335569",
+      "author": "kaosveenrtika",
+      "date": "24.03.2022 10:11",
+      "content": "e memnun olacaklar tabi suriyeliler sayesinde statü atladılar:)",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN-POS"
+      ]
+    }
+  ]
+}

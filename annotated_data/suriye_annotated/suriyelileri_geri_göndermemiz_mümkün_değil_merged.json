@@ -1,0 +1,134 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:00:20.010632",
+    "total_entries": 10,
+    "input": "suriyelileri geri göndermemiz mümkün değil",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelileri geri göndermemiz mümkün değil",
+      "entry_id": "50916905",
+      "author": "vitriol",
+      "date": "29.04.2015 16:05 ~ 16:06",
+      "content": "(bkz: satılan mal geri alınmaz)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyelileri geri göndermemiz mümkün değil",
+      "entry_id": "50917019",
+      "author": "yoruk ali",
+      "date": "29.04.2015 16:09",
+      "content": "kimse siginmaciyi geri gonderin istemiyor. ama siginmaciysa, devlet olarak kontrolunu yap, kamplarda tut, yemek ver, saglik hizmeti sun, hijyen kosullarini sagla vs.\n\npeki sen ne yapiyorsun devlet olarak?\ndaha sayilarini dahi bilmiyorsun,\nsokaklarda dilenmelerine gozyumuyorsun,\nuniversitelere sinavsiz alinmalarini garanti ediyorsun,\nsigortasiz calistirilarak somurulmelerine gozyumuyorsun... vs.\n\nsana devlet denmez, mafyalasmis sistemin ortagi denir.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN-POS",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelileri geri göndermemiz mümkün değil",
+      "entry_id": "50917120",
+      "author": "amy milkhouse",
+      "date": "29.04.2015 16:13",
+      "content": "(bkz: onlar kalsın biz gidelim)",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "suriyelileri geri göndermemiz mümkün değil",
+      "entry_id": "50917265",
+      "author": "atobaba",
+      "date": "29.04.2015 16:20",
+      "content": "ne olacığıdı?\ndaha oy kullanıcıııklar hemen göndermezük.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyelileri geri göndermemiz mümkün değil",
+      "entry_id": "50917425",
+      "author": "ugrassive",
+      "date": "29.04.2015 16:27",
+      "content": "bir anda hümanist kesilen tescilli sevicilerin yine küfür kıyamet saydırdıkları başlık.\n\n(bkz: chainard)\n\ngöndermeniz mümkün değil çünkü oy sayınız o kadar azaldı ki suriyeli sığınmacıları \"eğer bize oy vermezseniz sizi sınır dışı ederiz\" tehdidi ile kendinize bağlayarak iktidarınızı korumaya çalışacak kadar alçaldınız.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelileri geri göndermemiz mümkün değil",
+      "entry_id": "50932564",
+      "author": "kulululu",
+      "date": "30.04.2015 08:56",
+      "content": "değil, çünkü onlar resmi olarak \"sığınmacı\" kategorisine konulamıyor. onlar bizim misafirlerimiz.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "suriyelileri geri göndermemiz mümkün değil",
+      "entry_id": "141391530",
+      "author": "captainflint1785",
+      "date": "16.08.2022 18:05",
+      "content": "bizim türkler de almanya'dan 60 yıldır dönmüyor, suriyeliler neden dönsün?\nhayata sıfırdan bir kez daha başlamak düzen kurmak kolay mı? adamlar gidebilirse avrupa'ya gider zaten, geri dönmezler...",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyelileri geri göndermemiz mümkün değil",
+      "entry_id": "141391836",
+      "author": "ilgincolmasaolmazmi",
+      "date": "16.08.2022 18:14",
+      "content": "birçok çocuk türkiye'de doğdu büyüdü suriye ile alakası yok. burada yaşam kurdular ki yaşam kurduğun yerden kolay kolay gitmezsin.\n\nkim olsa gitmez gidemez.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "suriyelileri geri göndermemiz mümkün değil",
+      "entry_id": "141392778",
+      "author": "stressizadam",
+      "date": "16.08.2022 18:42",
+      "content": "insan gibi çözeceğiz. mesela yolda bir arap, afgan, paki, suriyeli mi gördük? hemen kardeşim gel buraya bir çay ısmarlayayım sana diyeceğiz. tabi bunu söylemek için ilk önce hepimiz arapça öğreneceğiz. hem ne güzel fazladan bir dil öğrenmiş olacağız. sonuçta onlar bizim müslüman kardeşlerimiz ve türkçe öğrenmek zorunda değiller. hem biz faşist bir millet miyiz ki dilimizi dayatacağız. ardından çayımızı yudumlarken bu kardeşlerimize neden gitmeleri gerektiğini bir güzel anlatacağız. tatlı tatlı ikna edeceğiz. bakın çay bitmeden bu şeker arkadaşlar çoktan bavulunu çantasını hazırlamış olacaklar göreceksiniz. bu kadar basit bu iş. abartmaya gerek yok. sonuçta onlarda insan ve bizi anlayacaklardır. hadi bugünden itibaren bunu yapıyoruz.",
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "suriyelileri geri göndermemiz mümkün değil",
+      "entry_id": "141393022",
+      "author": "cokonemlidegilzaten",
+      "date": "16.08.2022 18:50 ~ 20:52",
+      "content": "almanya'ya çalışma izni alarak giden türkler ile türkiye'deki sığınmacıları bir tutan radikal sol gericiler mümkün değil diyorsa kolaylıkla gönderilebilir.\n\nson 20 yılda radikal sol gericilerin ne dediyse yanlış çıkması, yaptıkları her propagandanın türkiye'ye ve türklere karşı olması en azından eğitimli türkleri artık uyandırmalı.\n\nsuriye'de pyd devleti kurulsun diye suriyelileri zorla türkiye'de tutmaya çalışan bu radikal sol gerici propagandalarına karşı sığınmacıları kesin bir dille göndereceğini vaadetmeyen hiçbir partiye oy vermeyiniz.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "POLICY"
+      ]
+    }
+  ]
+}

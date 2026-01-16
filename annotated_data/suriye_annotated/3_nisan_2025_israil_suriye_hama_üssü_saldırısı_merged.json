@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:13:15.013307",
+    "total_entries": 1,
+    "input": "3 nisan 2025 israil suriye hama üssü saldırısı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "3 nisan 2025 israil suriye hama üssü saldırısı",
+      "entry_id": "174229215",
+      "author": "desjard",
+      "date": "03.04.2025 01:45 ~ 01:47",
+      "content": "avrupalı yahudi kolonicilerin saldırısı da diyebiliriz.\n\nbeyaz avrupalı yahudi kolonicilerin yanında durmasak iyi olur gibi geliyor.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    }
+  ]
+}

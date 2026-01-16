@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:29:46.193744",
+    "total_entries": 1,
+    "input": "ruslara küfür ederiz",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ruslara küfür ederiz",
+      "entry_id": "76617178",
+      "author": "sombrefloe",
+      "date": "03.05.2018 23:55",
+      "content": "porçay'ın ruslu dota maçı temalı pirlere niyaz ederiz yorumu: https://www.youtube.com/watch?v=9vdm71tczc4",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE",
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

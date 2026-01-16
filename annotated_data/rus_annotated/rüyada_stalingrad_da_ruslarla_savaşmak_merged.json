@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:31:29.629141",
+    "total_entries": 2,
+    "input": "rüyada stalingrad'da ruslarla savaşmak",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rüyada stalingrad'da ruslarla savaşmak",
+      "entry_id": "33476086",
+      "author": "xfestos",
+      "date": "24.04.2013 15:45",
+      "content": "(bkz: stalin'den kalan yarım şarabı da bi içtim mi)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rüyada stalingrad'da ruslarla savaşmak",
+      "entry_id": "33476925",
+      "author": "atesikus",
+      "date": "24.04.2013 16:29 ~ 16:37",
+      "content": "zor iştir. zira stalingrad'ı rus, kazak, gürcü... onlarca farklı etnik kökenden asker savunmuştur. aralarından rusları ayırt edip onlarla savaşacan da bilmem ne de...\n\nha ama \"sscb=ruslar\" sığlığında olanlar için mümkündür.\n\nha bir de bu moronluğunu \"karakter sınırı yüzünden kızıl ordu yerine rus kullandım\" diye örtbas etmeye çalışırken komple sıçıp sıvayanların becereceği bir iştir. biz sanki sözlükte yazmıyoz da neyin karakter sınırına takılıp takılmadığını anlayamıyoz. teallam.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

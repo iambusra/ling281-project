@@ -1,0 +1,96 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:30:40.518905",
+    "total_entries": 7,
+    "input": "türklerin ruslardan öğrendiği şeyler",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türklerin ruslardan öğrendiği şeyler",
+      "entry_id": "76492338",
+      "author": "dogumtarihine1986yazan16yasindakiergen",
+      "date": "30.04.2018 04:06",
+      "content": "kars gravyer peyniri, çökelekten öteye gidemeyen bizlere büyük sevap işlediler.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "türklerin ruslardan öğrendiği şeyler",
+      "entry_id": "76492398",
+      "author": "uberallessuperfantastik",
+      "date": "30.04.2018 04:17",
+      "content": "(bkz: semaver)\nrus dilinde kendi kaynayan anlamı vardır “sama varit” kelimelerinin kısaltması, samavar’dir.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "türklerin ruslardan öğrendiği şeyler",
+      "entry_id": "76492565",
+      "author": "scyntich",
+      "date": "30.04.2018 04:47",
+      "content": "duş almak\n\n(sen istiyor duş?)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "türklerin ruslardan öğrendiği şeyler",
+      "entry_id": "76492697",
+      "author": "buyumustekuculmusunkardesi",
+      "date": "30.04.2018 05:14",
+      "content": "yazlimadiysa eğer duj alma!(bkz: swh)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "türklerin ruslardan öğrendiği şeyler",
+      "entry_id": "76492818",
+      "author": "garipbasci",
+      "date": "30.04.2018 05:45",
+      "content": "duşun maliyetli bir şey olması.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "ECON"
+      ]
+    },
+    {
+      "title": "türklerin ruslardan öğrendiği şeyler",
+      "entry_id": "76492957",
+      "author": "iki leva",
+      "date": "30.04.2018 06:30",
+      "content": "(bkz:???????????????)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "türklerin ruslardan öğrendiği şeyler",
+      "entry_id": "76493204",
+      "author": "cengipower",
+      "date": "30.04.2018 07:22",
+      "content": "tatil şehirlerinde sezonluk çalışan doğu camişina ilk millilik duygusunu öğreten millet",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    }
+  ]
+}

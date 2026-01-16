@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:04:38.413379",
+    "total_entries": 1,
+    "input": "suriyelilerin hepsi ülkesine döndü algısı yaratmak",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelilerin hepsi ülkesine döndü algısı yaratmak",
+      "entry_id": "170912288",
+      "author": "kuntakinte",
+      "date": "10.12.2024 20:47 ~ 20:53",
+      "content": "olm bu ne acele len? birkaç gün bekleseydiniz de suriyeli kardeşlerimiz bavullarını toplasaydı. sanki hepsi ışınlandı, yok oldu.\n\nyok ülkede suriyeli kalmadı, mutlu musunuzcular,\nyok suriyelilerin yaptığı işleri kim yapacak, görürsünüz sizciler,\nçalıtıracak işçi kalmadı, 5 fabrikamı kapadımcılar,\nsuriyeliler gitti o zaman selanikliler de gitsinciler,\namerikan otoyolu fotoğrafları paylaşıp gittileeer diye ağlaşanlar...\n\nolm neyin peşindesiniz len?\ngiden yok, olursa da kalkıp peşlerinden gidersiniz, tutan yok.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:29:59.431546",
+    "total_entries": 3,
+    "input": "akp'den suriyeli bursa milletvekili adayı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "akp'den suriyeli bursa milletvekili adayı",
+      "entry_id": "77327118",
+      "author": "tatil kufesi",
+      "date": "25.05.2018 08:26 ~ 08:30",
+      "content": "9 yıl önce türkiye'ye gelen,\nsoyadını'erdoğan' karısının adınnı'sümeyye' olarak\ndeğiştiren işi çözmüş!! suriyeli açıkgözün'türk milleti'nin!!'\ntemsilcisi olarak bursa'dan milletvekili adayı olmasıdır.\n\nahhahahaa! adam artık bizlerin rüyasında göremeyeceği\nmilletvekili maaşı, olanakları içinde yaşayacak,\nve hepsinden önemlisi devlet sırlarımızı bilecek ve kaderimizle\nilgili kararlara imza atacak!!\nbiz suriyeliler dönecek mi derken..\n\nbir de akep bu seçimlerde milliyetçiliği oynuyor.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "akp'den suriyeli bursa milletvekili adayı",
+      "entry_id": "77327154",
+      "author": "sylock",
+      "date": "25.05.2018 08:29",
+      "content": "bir anormallik görmüyorum, diğer partililerinde yapması lazım ciddi bir kesim var çünkü temsil edilmeyi bekleyen..",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY",
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "akp'den suriyeli bursa milletvekili adayı",
+      "entry_id": "77327277",
+      "author": "patryn",
+      "date": "25.05.2018 08:38",
+      "content": "kaynak\n\nalmanya’da gurbetçilere kaç yılda böyle bir hak verilmiş acaba? 9 senede milletin vekili olabilmek... yani 70 yaşında ahmet dede gelip derdini bu kişiye anlatacak.\n\ngidecek kalacak derken; katip bile alırken kılı kırk yaran hükümet, suriye’lileri en mahrem konuların görüşüldüğü parlamentoya alacak.\n\nyazık.",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "POLICY"
+      ]
+    }
+  ]
+}

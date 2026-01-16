@@ -1,0 +1,37 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:06:35.770247",
+    "total_entries": 2,
+    "input": "suriyelilerle ilgili hiç iyi habere rastlayamamak",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelilerle ilgili hiç iyi habere rastlayamamak",
+      "entry_id": "61702505",
+      "author": "invinoveritas",
+      "date": "13.07.2016 18:22 ~ 18:24",
+      "content": "suriyelilerin değil de, onları siyasi, ekonomik ve bilimum çıkarları için her türlü etik değerden uzak kullananların haberleri ön planda olduğu içindir.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "ECON",
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "suriyelilerle ilgili hiç iyi habere rastlayamamak",
+      "entry_id": "61702515",
+      "author": "niyesordunlafolsundiyemi",
+      "date": "13.07.2016 18:23",
+      "content": "ülkede iyi haber' e rastlanıyor mu diye merak ettiğim tespit..\n\nhe \"a haber\" izliyorsan kafalar cam gibi maşallah..",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CULTURE"
+      ]
+    }
+  ]
+}

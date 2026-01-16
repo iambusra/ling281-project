@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:24:01.753437",
+    "total_entries": 2,
+    "input": "rus alexandr dugin'in istanbul'u istemesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rus alexandr dugin'in istanbul'u istemesi",
+      "entry_id": "64180585",
+      "author": "yazmicam",
+      "date": "19.11.2016 00:00",
+      "content": "putin'in ortadoğu danışmanı ve ak partinin sık sık görüştüğü alexandr dugin'in çok garip paylaşımı. ben pek yorum yapamadım size bırakıyorum. bu arada alexandr dugin geçen günlerde ak parti grup toplantısına katılmıştı. ilginç.\n\nbuyrun\nbuyrun2",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus alexandr dugin'in istanbul'u istemesi",
+      "entry_id": "64180806",
+      "author": "der meister",
+      "date": "19.11.2016 00:10",
+      "content": "(bkz: alman ernst)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

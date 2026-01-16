@@ -1,0 +1,48 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:58:28.148980",
+    "total_entries": 3,
+    "input": "suriyelilere 40 türklere 99 tl olan tarife",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelilere 40 türklere 99 tl olan tarife",
+      "entry_id": "147995672",
+      "author": "nettapus",
+      "date": "22.01.2023 14:37",
+      "content": "türk telekomun hizmetiymiş; link",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyelilere 40 türklere 99 tl olan tarife",
+      "entry_id": "147995708",
+      "author": "elineverensihirbaz",
+      "date": "22.01.2023 14:38",
+      "content": "(bkz: akp döneminde gerçekleşmiştir)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyelilere 40 türklere 99 tl olan tarife",
+      "entry_id": "147995849",
+      "author": "zeynemus",
+      "date": "22.01.2023 14:42",
+      "content": "bence 40 da çok onu da bizim tarifeye giydirsinler",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "ECON"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:46:09.756301",
+    "total_entries": 3,
+    "input": "surilerin istihdamı için türkiye'ye hibe verilmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "surilerin istihdamı için türkiye'ye hibe verilmesi",
+      "entry_id": "129183252",
+      "author": "edgecrusher",
+      "date": "18.10.2021 10:44",
+      "content": "adam kendi ülkesinde mülteci istemiyor ama ülkesinde mülteci istemeyen ve bu konuda bir şey yapabilecek güce sahip ülkelere kızıyor. ikiyüzlülük böyle bir şey işte.\n\nalman devleti senin götünün rahatını kendi vatandaşının rahatının önüne koyacak değil. bunu yapması gereken senin devletin, onun da üstüne çökmüş olanlar senin verdiği parayı hortumlamakla meşgul. hedefini şaşırmışsın kardeş sen.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "surilerin istihdamı için türkiye'ye hibe verilmesi",
+      "entry_id": "129183343",
+      "author": "hak yeme fuck yeah",
+      "date": "18.10.2021 10:48",
+      "content": "akp gidince özellikle almanya'ya olmak üzere ne kadar avrupa ülkesi varsa şutlayalım bu ortadoğuluları.\n\ngörsünler ebelerinin istihd amını .",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "surilerin istihdamı için türkiye'ye hibe verilmesi",
+      "entry_id": "129183465",
+      "author": "bilek metal",
+      "date": "18.10.2021 10:53",
+      "content": "o kadar parayla şey bile istihdam edilmez.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "ECON"
+      ]
+    }
+  ]
+}

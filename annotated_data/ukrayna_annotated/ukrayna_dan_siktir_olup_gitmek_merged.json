@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:15:29.910884",
+    "total_entries": 2,
+    "input": "ukrayna'dan siktir olup gitmek",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukrayna'dan siktir olup gitmek",
+      "entry_id": "48655664",
+      "author": "men kucik chomichmen",
+      "date": "24.01.2015 07:29 ~ 07:35",
+      "content": "birilerinin türkiye'den siktir olup gitmek ukraynalilarin yaptigi eylemdir.\n\n21. yüzyılın savaşları konusunda yazdigim belgelerdeki gibi, dunyanin ingilizce konusan 5 ulkesi, internet ve iletisim trafigini izliyor, dinlemeler yapiyor (bak sen), isine geldigi gibi hedef ulkelerde iktidari degistirmek icin, sosyal medya araciligi ile halk hareketleri (!) organize ediyorlar.\n\nukrayna, rusya ile gumruk birligi anlasmasi imzalama yonunde giderken, bundan rahatsiz olan avrupa birligi ulkeleri harekete gectiler.\n\nukrayna halki, ozgur ukrayna icin harekete gectiler. (rusya ile gumruk birligi imzaladiginda rusya boyunduruguna girmek var bir yanda, diger yanda da ab boyunduruguna girmek. iki secim arasinda, ab'yi secince nasil ozgur olunuyor anlayan varsa beri gele)\n\nsokak hareketi, meydan da ozgurluk (!) icin toplandi.\n\nsonucunda, yonetim devrildi. rusya ile anlasma isi yatti. yeni gelen yonetim, ab'yi de arkasinda hissettiginden, rusya'ya kafa tuttu.\n\nsonuc, rusya -putin'in eski kgb ajani olmasi, iletisim konusunda eski yontemleri kullanmasi, bu yuzden de batili ulkelerin teknolojik operasyon yapamamasi da sayesinde- kirim'i ilhak etti.\n\nukrayna'nin yeni yoneticileri, ab ve abd'ye donduler. hem kirim'i kaybettik (ukrayna ekonomisinin can damarlarindandir), 40 milyar dolar borcumuz var, destek cikin diye. cevap: 100 milyon dolar gibi olmeyin de surunun diye bir yardim (onu da geri alacaklar) para verdi ab.\n\nhala da ab yolunda giden ve ab destekli sokak darbesi ile gelen ukrayna yonetimi, donetsk'i de bu gidisle kaybedecek. sonrasinda da, bati ukrayna'nin polonya'ya (yani ab'ye) ilhaki gibi birsey olabilir.\n\nbizim icin sonuc: el seyiyle seye girilmez. birileri sana sunu yap aman sana destek cikacagim diyorsa, bir dusun, ulan bu adam anam degil babam degil, ben yonetimi degistirdim, bu adamlarin cikari ne diye bu isten.\nkimse de, senin kara kasin, kara gozun, ozgurlugun ya da demokrasin isin can atmiyor. (maksat demokrasi olsa, misir darbesinde abd ve ab destek cikmazlardi. misir'da darbeye sahip cikan ab, ayni zaman diliminde ukrayna'da demokrasi diye halka gaz veriyordu. gerci orada da yaptiklari ayni idi, secilmis yonetimi sokak hareketi ile devirmek.)\n\nneyse, kisaca, tanidigim birkac ukraynali var. ukrayna'da isleri olmasina ragmen, ulke seferberlik ilan ettigi icin bu ikincisi, yurtdisina kaciyorlar. otelde garsonluk yaparim da gidip savasmam diyorlar.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "ukrayna'dan siktir olup gitmek",
+      "entry_id": "48655715",
+      "author": "men kucik chomichmen",
+      "date": "24.01.2015 07:45",
+      "content": "(bkz: batı ukrayna)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

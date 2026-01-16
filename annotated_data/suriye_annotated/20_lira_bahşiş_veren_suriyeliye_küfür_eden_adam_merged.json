@@ -1,0 +1,197 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:02:19.671421",
+    "total_entries": 15,
+    "input": "20 lira bahşiş veren suriyeliye küfür eden adam",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "20 lira bahşiş veren suriyeliye küfür eden adam",
+      "entry_id": "154696336",
+      "author": "ibeddebi",
+      "date": "18.07.2023 20:04",
+      "content": "ankara pavyonlarinda çalışan müzisyenin olayı. suriyeli baya sert bakıyor sonu kavgayla mi bitti merak konusu.\n\nlink",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "20 lira bahşiş veren suriyeliye küfür eden adam",
+      "entry_id": "154696458",
+      "author": "portekizli forvet",
+      "date": "18.07.2023 20:08",
+      "content": "herkese küfür eden bir bebenin videosu. olayı bu yani. anladınız mı?",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "20 lira bahşiş veren suriyeliye küfür eden adam",
+      "entry_id": "154696937",
+      "author": "cmrdlny93",
+      "date": "18.07.2023 20:27",
+      "content": "alican erkal'ı izlemeye gidenler zaten küfür duymaya gidiyorlar burası bir netleşsin. bunu kendisi de izah etti kaç kere, illa küfür ettirmek adına yarışıyorlar.\nher neyse suriye'li de mevzuyu muhtemelen biliyor ve daşşak geçmek maksadıyla artistlik yapıyor da bilmiyor pavyonda adamın anasını g*tünden kendi rızasıyla s*kerler.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO",
+        "SEXUAL"
+      ]
+    },
+    {
+      "title": "20 lira bahşiş veren suriyeliye küfür eden adam",
+      "entry_id": "154697546",
+      "author": "bir zamanlar cok mutluyduk",
+      "date": "18.07.2023 20:51",
+      "content": "(bkz: sağlam dayak döndüğü düşünülen yerler)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "20 lira bahşiş veren suriyeliye küfür eden adam",
+      "entry_id": "154710477",
+      "author": "dnzgzn",
+      "date": "19.07.2023 05:43",
+      "content": "muhtemelen sonu dayakla bitmiştir.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "20 lira bahşiş veren suriyeliye küfür eden adam",
+      "entry_id": "154710516",
+      "author": "duuwel",
+      "date": "19.07.2023 05:54",
+      "content": "adap öğrenmiş miktarını tutturamamış sadece bence başarılı bir suriyeli.\n\nnot: askerimiz bunlar için şehit oluyor saçmalığını bırakın, askerlerimiz zaten olmaması gereken yerde, yapılmaması gereken hesaplar yüzünden şehit oluyor.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "20 lira bahşiş veren suriyeliye küfür eden adam",
+      "entry_id": "154710518",
+      "author": "razordeath",
+      "date": "19.07.2023 05:54",
+      "content": "(bkz: alican erkal)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "20 lira bahşiş veren suriyeliye küfür eden adam",
+      "entry_id": "154711052",
+      "author": "sa de su da so da",
+      "date": "19.07.2023 07:41 ~ 12:27",
+      "content": "pkk artıklarının askerimizi düşünür gibi yaparak asker bunlar için şehit oluyor diyerek algı kastığı olay,\n\naskerimiz bunlar için şehit olmuyor. askerimiz bu vatanın yüce menfaatleri uğruna sınır ötesi operasyon yürütüyor.\n\nsuriye'de, ırak'ta pkk ve ışid gibi terör örgütü ile çatışıyor. bu örgütlerin derdi bizimle. bu videodaki veya ülkeye doluşan kunduzlarla değil.\n\nevet bu kunduzlar savaştan kaçtı. vatanlarını sattı ama zaten millet bilinci olmayan sefil yaratıklardı ama gene bunların soyundan, ırkından binlercesi de bizim ülkemizin bayrağını göndere çekmek için türkiye için o bölgede savaşıp canını veriyor.\n\nolayları sulandırmayın. şwhitlerimizin adını bu tarz olaylarla anmayın.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "20 lira bahşiş veren suriyeliye küfür eden adam",
+      "entry_id": "154711258",
+      "author": "boyle buyurdu kamen",
+      "date": "19.07.2023 08:01",
+      "content": "bakın bugün bunlar adama kendi mekanında dikleniyor yarın bizlere kendi vatanımızda diklenecekler.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "20 lira bahşiş veren suriyeliye küfür eden adam",
+      "entry_id": "154711950",
+      "author": "benimguzelaysem",
+      "date": "19.07.2023 08:54",
+      "content": "ahaha 1 dolar bile değil lan dilenciye versen almaz bahşiş diye veriyor bir de",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "20 lira bahşiş veren suriyeliye küfür eden adam",
+      "entry_id": "154712426",
+      "author": "birakcayicorbayi",
+      "date": "19.07.2023 09:19",
+      "content": "kendisi alican erkal isimli müzisyendir, herkese yargı dağıtır, hiç çekinmez. muhtemelen program sonunda \"pezevenk mavisi\" bmw'sine binerek ortamdan ayrılmıştır.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "20 lira bahşiş veren suriyeliye küfür eden adam",
+      "entry_id": "154712768",
+      "author": "nordka",
+      "date": "19.07.2023 09:34",
+      "content": "bir anadolu primatı.\niç anadolu primatları surilerden çok daha beterdir.\nbunları verip surileri alsak kazançlı çıkarız.\ntanım: primat.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "20 lira bahşiş veren suriyeliye küfür eden adam",
+      "entry_id": "154713268",
+      "author": "binatlikarinca",
+      "date": "19.07.2023 09:56",
+      "content": "miktarda anlaşamamıştır",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "20 lira bahşiş veren suriyeliye küfür eden adam",
+      "entry_id": "154713415",
+      "author": "yarra yering",
+      "date": "19.07.2023 10:02",
+      "content": "büyük resimciler gelsin.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "20 lira bahşiş veren suriyeliye küfür eden adam",
+      "entry_id": "154715643",
+      "author": "bir zamanlar cok mutluyduk",
+      "date": "19.07.2023 11:33",
+      "content": "adamın ismi alican erkal’mış.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

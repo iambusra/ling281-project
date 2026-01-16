@@ -1,0 +1,132 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:10:54.825150",
+    "total_entries": 10,
+    "input": "12 haziran 2014 rus tanklarının ukrayna'ya girişi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "12 haziran 2014 rus tanklarının ukrayna'ya girişi",
+      "entry_id": "43450935",
+      "author": "simlock",
+      "date": "12.06.2014 19:44 ~ 19:45",
+      "content": "(bkz: putin dur allahını seversen zaten ortalık karışık)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "12 haziran 2014 rus tanklarının ukrayna'ya girişi",
+      "entry_id": "43450951",
+      "author": "yazdiklarimin hepsi hayal urunudur",
+      "date": "12.06.2014 19:44",
+      "content": "aziz yildirim doneminde gerceklesmistir.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "12 haziran 2014 rus tanklarının ukrayna'ya girişi",
+      "entry_id": "43450979",
+      "author": "enduksiyon bobini",
+      "date": "12.06.2014 19:46",
+      "content": "mancini döneminde gerçekleşmemiştir.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "12 haziran 2014 rus tanklarının ukrayna'ya girişi",
+      "entry_id": "43451044",
+      "author": "cicekler bocukler",
+      "date": "12.06.2014 19:49",
+      "content": "ya tamam dünya savaşı çıkacaksa çıksın artık dediğimdir.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "12 haziran 2014 rus tanklarının ukrayna'ya girişi",
+      "entry_id": "43451130",
+      "author": "maybe on board",
+      "date": "12.06.2014 19:53 ~ 20:11",
+      "content": "balkanlarda da birşeyler olsun artık.bi orası kaldı.\n\nedit: ispiyoncuların bir taraflarına girmesi gereken tankların rusya'ya girişi.oldu mu amınakoduğum.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "12 haziran 2014 rus tanklarının ukrayna'ya girişi",
+      "entry_id": "43451231",
+      "author": "e a p",
+      "date": "12.06.2014 19:59 ~ 20:00",
+      "content": "tywin lannister döneminde gerçekleşmiştir.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "12 haziran 2014 rus tanklarının ukrayna'ya girişi",
+      "entry_id": "43451252",
+      "author": "tuncayist",
+      "date": "12.06.2014 20:01",
+      "content": "ne yazıkki olan yine tatarlara olacaktır.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE"
+      ]
+    },
+    {
+      "title": "12 haziran 2014 rus tanklarının ukrayna'ya girişi",
+      "entry_id": "43451406",
+      "author": "in god we trust all others we audit",
+      "date": "12.06.2014 20:09",
+      "content": "gerçekleşmemiştir.\n\ndağılabiliriz.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "12 haziran 2014 rus tanklarının ukrayna'ya girişi",
+      "entry_id": "43451500",
+      "author": "esmile36",
+      "date": "12.06.2014 20:13",
+      "content": "kıyamete bir adım kala gerçekleşmiştir.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "12 haziran 2014 rus tanklarının ukrayna'ya girişi",
+      "entry_id": "43451574",
+      "author": "benimadimmesmecon",
+      "date": "12.06.2014 20:17",
+      "content": "insana ağız tadıyla dünya kupası izletmemeye kararlı rus dengesizlerinin yaptığı olay.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE"
+      ]
+    }
+  ]
+}

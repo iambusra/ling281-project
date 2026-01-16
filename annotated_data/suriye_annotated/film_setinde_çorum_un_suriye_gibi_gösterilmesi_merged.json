@@ -1,0 +1,96 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:42:09.850597",
+    "total_entries": 7,
+    "input": "film setinde çorum’un suriye gibi gösterilmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "film setinde çorum’un suriye gibi gösterilmesi",
+      "entry_id": "177872560",
+      "author": "0602rainman",
+      "date": "26.08.2025 08:41 ~ 09:10",
+      "content": "\"erkan petekkaya ve ayça bingöl, uzun bir aradan sonra karı-koca rolüyle aynı projede buluşuyor. kızları nazlı karakterini de ayça ayşin turan canlandıracak. filmin çekimleri çorum'da başladı.\"\nhaber\ngörsel\ngörsel",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "film setinde çorum’un suriye gibi gösterilmesi",
+      "entry_id": "177872624",
+      "author": "the biraders siyahmazof",
+      "date": "26.08.2025 08:46",
+      "content": "halbuki çorum newyork gibi bir şehir, çok büyük gaf işlemisler. büyük talihsizlik",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "film setinde çorum’un suriye gibi gösterilmesi",
+      "entry_id": "177872761",
+      "author": "ickisiayranolanadam",
+      "date": "26.08.2025 08:57",
+      "content": "o da bir şey mi, ver yeşil ekranı arkaya, çorum'u hawai gibi bile gösterebilirsin artık.\n\ntanım: olmayan rezalet.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "film setinde çorum’un suriye gibi gösterilmesi",
+      "entry_id": "177872791",
+      "author": "arma yann tiersen",
+      "date": "26.08.2025 09:00",
+      "content": "(bkz: açacağın başlığı sikeyim deyip uzaklara bakmak)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "film setinde çorum’un suriye gibi gösterilmesi",
+      "entry_id": "177872797",
+      "author": "gan",
+      "date": "26.08.2025 09:00",
+      "content": "çorumlu vatandaşlarımıza da bu yapılmaz ama!",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "film setinde çorum’un suriye gibi gösterilmesi",
+      "entry_id": "177872799",
+      "author": "secundum cattus",
+      "date": "26.08.2025 09:01",
+      "content": "adı üstünde \"film seti\", istese jurassic park gibi bile gösterebilir.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "film setinde çorum’un suriye gibi gösterilmesi",
+      "entry_id": "177872855",
+      "author": "alcatel",
+      "date": "26.08.2025 09:06",
+      "content": "çorum gayet modern bir şehir. apartmanların üzerinde atatürk kabartmalarını bile görebilirsiniz. görsel",
+      "has_external_url": true,
+      "sentiment_numeric": 5,
+      "categories": [
+        "CULTURE"
+      ]
+    }
+  ]
+}

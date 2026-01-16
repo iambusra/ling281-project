@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:44:20.679713",
+    "total_entries": 1,
+    "input": "olası 2025 yılı kuzey suriye harekatı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "olası 2025 yılı kuzey suriye harekatı",
+      "entry_id": "173179262",
+      "author": "hepinizoleceksiniz4",
+      "date": "27.02.2025 22:14 ~ 28.02.2025 10:17",
+      "content": "bugün ilan edilen pkk fesih çağrısının ardından farklı okumalarım sonucu gerçekleşmesinin muhtemel olduğunu düşündüğüm askeri harekettir.\n\nbu çağrıya uymayacak olan kuzey suriye’deki mazlum kobani sözde liderliğinde ile ülkemiz arasında yaşanacak süreç nasıl seyredecek hep beraber göreceğiz.\n\nedit: olası bir büyük askeri harekatta karşımızda sadece “tek başına kalmış” bir grup olacaktır. yani örneğin mazlum kobani’yse karşımızdaki amerika yanlarında olmayacak. zaten amerika’nın yanında olduğu bir grup olmuyor, grupları desteklemek ayrı yanında omuz omuza çarpışmak ayrı.\n\nmazlum da bakacak, amerika’sız, rusya’sız kendi taşak büyüklüğü tek başına türkiye’yle savaşmaya yeteceğini düşünürse o zaman buyrun meydana denilecek. ha, suriye’ye entegre olmayı kabul ederlerse, silahları bırakıp sivilleşecekler. olay bu.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY",
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

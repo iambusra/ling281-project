@@ -1,0 +1,108 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:17:01.993887",
+    "total_entries": 8,
+    "input": "ukraynalı kadınlar",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukraynalı kadınlar",
+      "entry_id": "134253612",
+      "author": "hashiti",
+      "date": "26.02.2022 22:09 ~ 22:25",
+      "content": "bir savcının tır şoförüyle evlenmesi gayet normal de, bir kadının her haftasonu işini bırakıp, türkiye'ye gelip, eşinin temizliğini, ev işlerini yapmasını normal mi buluyorsunuz? daha doğru ulaşılması gereken bir mertebe olarak mı görüyorsunuz? bir kadının size hayat arkadaşı olmak yerine, size kölelik etmesini mi istiyorsunuz gerçekten? kocaman, yetişkin bir insanın başka bir insana temizliğini, yemeğini yaptırmasını doğru mu buluyorsunuz? aynı zamanda bir kadının nişan, düğün istemesini çok fazla bulup, eleştiriyorsunuz. aynı zamanda türk kadınları her gün tacize, şiddete uğrarken, dolmuşlarda parayı uzatırken elinin erkek eline değmemesine dikkat etmeleri gerekirken, sokak ortasında katledilirken, zorla evlendirilip, ömür boyu sevmedikleri erkeğe kölelik yapmaya mahkum bırakılırken, hiç mi utanmıyorsunuz savaşın içinde olan kadınlar hakkında böyle amaçsız başlık açmaya? güya bu kadınların karakterlerinin ne kadar iyi olduğunu vurgalamaya çalışıyor. siz hiç mi ahlak nedir, edep nedir öğrenmediniz, görmediniz? nasıl insanlarsınız siz ya? size bankamatik, cüzdan gözüyle bakan, sizi yolan kadınlara layıksınız. size onlar müstehak. siz iyi olanı haketmiyorsunuz. ahlaksız, namussuz, iğrençsiniz.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "GENDER-MORAL"
+      ]
+    },
+    {
+      "title": "ukraynalı kadınlar",
+      "entry_id": "140270444",
+      "author": "regalianus",
+      "date": "21.07.2022 11:47",
+      "content": "bir tanesiyle tanıştım, gerçekten güzel ve kültürlü kadındı.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "ukraynalı kadınlar",
+      "entry_id": "157591565",
+      "author": "fuckyoulikeahurricane",
+      "date": "10.10.2023 01:33",
+      "content": "en cana yakın ırk.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "ukraynalı kadınlar",
+      "entry_id": "157591596",
+      "author": "doctor hu",
+      "date": "10.10.2023 01:34",
+      "content": "cok takilmayin bu kadinlara. en düz, en duygusuz adami bile kendine asik edebilir. sevisin ama öteye gitmemeye calisin. su ana kadar 4-5 ukraynali kadinla iliskim oldu. her seferinde tam asik olacakken kendimi zor durdurdum.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POS-STEREO"
+      ]
+    },
+    {
+      "title": "ukraynalı kadınlar",
+      "entry_id": "162055199",
+      "author": "jaheira",
+      "date": "01.03.2024 19:11",
+      "content": "estetik düşkünü kadınlardır. ama düştükleri yere siz karar verin: link",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "GENDER-MORAL"
+      ]
+    },
+    {
+      "title": "ukraynalı kadınlar",
+      "entry_id": "162055239",
+      "author": "backstagebug",
+      "date": "01.03.2024 19:13",
+      "content": "hayatında hiç birinin yanına yaklaşamamış, bir kuple muhabbet edememiş adamlara dert olmuşlardır",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "ukraynalı kadınlar",
+      "entry_id": "162055298",
+      "author": "nissanalmera",
+      "date": "01.03.2024 19:16 ~ 19:19",
+      "content": "sözlüğün erekte olamayan hemcinslerimin haricinde benim farklı bir bakış açım var.\n\non binlerce erkek ukraynali savaşta öldü.\nkimi babasını\nkimi oğlunu\nkimi nişanlısını\nkimi eşini kaybetti.\n\nbu kadınlar bundan sonra nefret ve kin ile hayatlarına devam edecekler. dogurduklari çocukları aşırı milliyetçi ve rus düşmanı olarak yaşayacak. bu insanların travmaları uzun süre devam edecek.\n\nbu saatten sonra bu kadınlarla evlenen sevgili olan hatta tek gecelik ilişki yasamak isteyen erektemuslarin daha dikkatli olması gerekir. bu kadınların artık kaybedecekleri bir şeyleri kalmadı.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "ukraynalı kadınlar",
+      "entry_id": "177261095",
+      "author": "endoplazmikretikulum",
+      "date": "01.08.2025 18:22 ~ 18:24",
+      "content": "https://x.com/…258244?t=evazg7u5sh9fpyhh4udz_w&s=19\n\n\"unlike men, many of whom are unwilling conscripts, all ukrainian women under arms are volunteers. they number about 100,000 of the country’s 1m military personnel\"",
+      "has_external_url": true,
+      "sentiment_numeric": 5,
+      "categories": [
+        "HUMAN-POS"
+      ]
+    }
+  ]
+}

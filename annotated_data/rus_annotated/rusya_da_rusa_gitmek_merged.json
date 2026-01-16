@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:25:22.211562",
+    "total_entries": 2,
+    "input": "rusya'da rusa gitmek",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rusya'da rusa gitmek",
+      "entry_id": "36848967",
+      "author": "bedwetter",
+      "date": "11.09.2013 14:15",
+      "content": "kime gidersen git, rusa gitmek fiilini gerçekleştirmektir.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rusya'da rusa gitmek",
+      "entry_id": "36849379",
+      "author": "didier drogba",
+      "date": "11.09.2013 14:31",
+      "content": "türkiye'de mala vurmak gibidir.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

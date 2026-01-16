@@ -1,0 +1,87 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:43:16.196341",
+    "total_entries": 6,
+    "input": "ırkçı çetelerin suriyelilere saldırması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ırkçı çetelerin suriyelilere saldırması",
+      "entry_id": "165905625",
+      "author": "heykellere ufleyen adam",
+      "date": "01.07.2024 22:50",
+      "content": "israil talimatı ile harekete geçen ırkçı çeteler suriyelilerin evlerini taşlıyor.\n\nırkçı çeteler",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "HATE",
+        "XENO",
+        "CRIME"
+      ]
+    },
+    {
+      "title": "ırkçı çetelerin suriyelilere saldırması",
+      "entry_id": "165905739",
+      "author": "kimjong",
+      "date": "01.07.2024 22:53 ~ 22:54",
+      "content": "paylaştığın twitterın yorumlarında bile yoksunuz troll dostum. siz kendinize başka bi evren yaratmışsınız orada yaşayın",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ırkçı çetelerin suriyelilere saldırması",
+      "entry_id": "165905792",
+      "author": "hayrimenkul",
+      "date": "01.07.2024 22:54 ~ 23:21",
+      "content": "gereğini yapacağız diyen yetkililer ne yapacaklarını söylesinler, 3 aylık 6 aylık eylem planlarını söylesinler, herkes duysun.\n\nama yok siz sorun çözülsün istemiyorsunuz çünkü ortada bir sorun görmüyorsunuz. görene de ırkçı diyorsunuz faşist diyorsunuz. ülke elden gidiyor farketmiyor musunuz?",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "ırkçı çetelerin suriyelilere saldırması",
+      "entry_id": "165905908",
+      "author": "terminus yerlisi",
+      "date": "01.07.2024 22:57 ~ 02.07.2024 00:18",
+      "content": "hersike üfleyen adam adlı trol hesabının yalan yanlış tespiti.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ırkçı çetelerin suriyelilere saldırması",
+      "entry_id": "165906188",
+      "author": "desjard",
+      "date": "01.07.2024 23:04",
+      "content": "türkiye kendini atatürkçü, cumhuriyetçi gibi gösteren siyonistlerle dolu maalesef",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ırkçı çetelerin suriyelilere saldırması",
+      "entry_id": "165909965",
+      "author": "baskabakan",
+      "date": "02.07.2024 00:18",
+      "content": "son dönemde kodese tıkılan büyük mafya babalarına dikkat çekmek isterim, özellikle birkaç tanesi bu olayları başlatabilecek güçtedir.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CRIME"
+      ]
+    }
+  ]
+}

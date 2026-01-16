@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:25:20.375218",
+    "total_entries": 1,
+    "input": "neden rusa gitmeliyiz",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "neden rusa gitmeliyiz",
+      "entry_id": "52837151",
+      "author": "malta erigi",
+      "date": "02.07.2015 17:29 ~ 17:30",
+      "content": "neden gitmeyelim ki;\n\nöncelikle moskova'da ve leningrad'da o soğuk havaya inat yarı çıplak gezen ilik gibi hatunlar var. şimdi hemen bu karılar parayla sevişiyor geyiğine girmeyin. o insanlar sizin bildiğiniz natasha değiller. okumuş kültürlü insanlar. çevresinde de bu karılarla ilişkiye girmek isteyen bir sürü abaza var.hatta bir karının etrafında resmen ar-ge yapıp ona yaklaşmak için yeni inovatif fikirler geliştiren bir sürü insan var.\n\npek çok güzellik yarışmasından ödüle sahip. ayrıca bu tarz benim gibi yarışmalara girseler eminin bir sürü ödül alırlar.\n\nbu karılar sayesinde milli olan 15000 abazanın yanı sıra eğlence amaçlı takılanları da sayarsak bu rakam katlanarak artar.\n\nnedense ülkemize böyle rus karıları yerin dibine sokma anlayışı var.\n\nbeğenmiyorsan paranda çoksa rusa güvenin yoksa alırsın alman, çek ya da farklı zilyon tane ülkenin karısını. rusları kötülemek niye. kadınlar size her türlü sefkati gösteriyor, hala natasha diye bik bik ötüyorlar.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    }
+  ]
+}

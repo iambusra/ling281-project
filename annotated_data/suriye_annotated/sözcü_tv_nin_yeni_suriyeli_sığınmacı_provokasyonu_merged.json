@@ -1,0 +1,84 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:45:35.986984",
+    "total_entries": 6,
+    "input": "sözcü tv'nin yeni suriyeli sığınmacı provokasyonu",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "sözcü tv'nin yeni suriyeli sığınmacı provokasyonu",
+      "entry_id": "170970126",
+      "author": "yetkin99",
+      "date": "12.12.2024 19:59",
+      "content": "kemalistlerin esed sevdası nedeniyle yaptığı uydurma haberdir.\nhttps://x.com/…416241?t=qk3jmcpzbjnp1ezlxelupa&s=19\nkimmiş bu korkup gelmek isteyenler?? gerçekten böyle birisi olsa zaten fırsatı kaçırmayıp bangır bangır konuştururdu.\nbu süreçte baas artıklarının böyle haberleri çok olacak.\nçünkü esed gitti diye kahroluyorlar. her türlü pisliği yapacaklar.",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE"
+      ]
+    },
+    {
+      "title": "sözcü tv'nin yeni suriyeli sığınmacı provokasyonu",
+      "entry_id": "170970327",
+      "author": "beytiahzan",
+      "date": "12.12.2024 20:07",
+      "content": "baasci kemalistlerin iğrenç hareketidir.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE"
+      ]
+    },
+    {
+      "title": "sözcü tv'nin yeni suriyeli sığınmacı provokasyonu",
+      "entry_id": "170970341",
+      "author": "graw",
+      "date": "12.12.2024 20:07",
+      "content": "yazan ve paylaşana bakıldığında;) maaşlar yatmış belli...",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE"
+      ]
+    },
+    {
+      "title": "sözcü tv'nin yeni suriyeli sığınmacı provokasyonu",
+      "entry_id": "170974095",
+      "author": "beytiahzan",
+      "date": "12.12.2024 21:45",
+      "content": "(bkz: allah belanızı versin)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "sözcü tv'nin yeni suriyeli sığınmacı provokasyonu",
+      "entry_id": "170974180",
+      "author": "kimjong",
+      "date": "12.12.2024 21:47 ~ 21:49",
+      "content": "başlığı açan troll fakat bu cexapın ikiyüzlü olması gerçeğini değiştirmedi.\n\nsiyasal aleviciliğe çok hevesliler.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE"
+      ]
+    },
+    {
+      "title": "sözcü tv'nin yeni suriyeli sığınmacı provokasyonu",
+      "entry_id": "170988617",
+      "author": "yetkin99",
+      "date": "13.12.2024 10:21",
+      "content": "erdoğan'ın başarısını hazmedemedikleri için yapmışlardır.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

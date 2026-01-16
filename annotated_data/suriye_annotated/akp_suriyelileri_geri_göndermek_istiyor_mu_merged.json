@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T15:33:43.893638",
+    "total_entries": 1,
+    "input": "akp suriyelileri geri göndermek istiyor mu",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "akp suriyelileri geri göndermek istiyor mu",
+      "entry_id": "115627136",
+      "author": "komunemekcisi",
+      "date": "15.11.2020 14:23",
+      "content": "haber içeriğine bakılırsa pek de göndermek istemiyormuş: https://www.gercekgundem.com/…onmesini-istemiyor-mu\niktidarın kendi seçmen kitlesinde ciddi bir karşı duruş olmadığı sürece suriyeliler burada kalmaya devam edecekler zannımca.",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY",
+        "XENO"
+      ]
+    }
+  ]
+}

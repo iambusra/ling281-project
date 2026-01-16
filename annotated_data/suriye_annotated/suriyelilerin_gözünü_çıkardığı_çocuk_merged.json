@@ -1,0 +1,63 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:04:29.004255",
+    "total_entries": 4,
+    "input": "suriyelilerin gözünü çıkardığı çocuk",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelilerin gözünü çıkardığı çocuk",
+      "entry_id": "108588208",
+      "author": "activator",
+      "date": "09.06.2020 16:28",
+      "content": "diğer gözün de etkilenmemesi için acilen tedavi edilmeli. ufacık bir küçük yaşta iki gözü kör bırakılmamalı. lütfen maddi durumu iyi birisi çıkıp yardım eli uzatsın.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "HUMAN",
+        "ECON"
+      ]
+    },
+    {
+      "title": "suriyelilerin gözünü çıkardığı çocuk",
+      "entry_id": "156703363",
+      "author": "guerra",
+      "date": "13.09.2023 11:31",
+      "content": "canım ülkem. kendi milletini, kendi devletini yiyip bitiriyor. anayasadan türk kavramını çıkardıklarında bütün sorunlar bitmiş olacak. çünkü bu ülke artık türklerin değil.\n\nhttps://twitter.com/…i06/status/1701593276598653285",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyelilerin gözünü çıkardığı çocuk",
+      "entry_id": "156704003",
+      "author": "hayatinzorluklari",
+      "date": "13.09.2023 11:55 ~ 20:23",
+      "content": "arapçı çöl piçlerine tapanlar yüzünden böyle olaylar hep artıyor...",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyelilerin gözünü çıkardığı çocuk",
+      "entry_id": "156704259",
+      "author": "ufuktuana",
+      "date": "13.09.2023 12:06",
+      "content": "siyasal islamcıların umrunda olmayacaksın çocuk. senin hayallerini çalan hırsız ve arsızlar bunun bedelini bir gün ödeyecek. umarım en kısa sürede istediğin göz dünyanı aydınlatır.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE"
+      ]
+    }
+  ]
+}

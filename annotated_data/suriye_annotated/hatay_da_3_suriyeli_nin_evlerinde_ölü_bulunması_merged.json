@@ -1,0 +1,123 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:42:40.660264",
+    "total_entries": 9,
+    "input": "hatay'da 3 suriyeli'nin evlerinde ölü bulunması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "hatay'da 3 suriyeli'nin evlerinde ölü bulunması",
+      "entry_id": "45140486",
+      "author": "confession",
+      "date": "21.08.2014 21:39",
+      "content": "(bkz: hatay'da sürekli insanların ölmesi)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "hatay'da 3 suriyeli'nin evlerinde ölü bulunması",
+      "entry_id": "45142274",
+      "author": "murtazaa",
+      "date": "21.08.2014 23:00 ~ 23:06",
+      "content": "karıncayı bile incitmeyen sevgi pıtırcıklarının sevinçle karşıladığı olaydır.\n\nölenler insan!\n\nedit:birisi de 2.999.997 tane kaldı ha gayret yazmış.yazıklar olsun lan cidden.elinde olsa 3 milyon insanı öldürecek kadar hastalıklı bir beyine sahip.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "hatay'da 3 suriyeli'nin evlerinde ölü bulunması",
+      "entry_id": "45143227",
+      "author": "ahmetgm",
+      "date": "21.08.2014 23:41",
+      "content": "ne kadar rezil insan varmış şu sözlükte.\ntürkiye'nin destek verdiği bir iç savaştan kaçanlardan bahsediyoruz burada. yarın aynısı bizim başımıza da gelir. o zaman anlarız zorunlu göç neymiş.\ntanım: çok kötü bir olaydır. eğer sebep bu insanların suriyeli olması ise, durum daha da vahimdir.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "hatay'da 3 suriyeli'nin evlerinde ölü bulunması",
+      "entry_id": "45143401",
+      "author": "genius06",
+      "date": "21.08.2014 23:50",
+      "content": "şaşırtmayan olaydır. ölmelerini istemek ölsünler demek tabiki canilik. ama hatayın iskenderun ilçesinde olanları duydunuz mu bilmiyorum? 10 yaşındaki bir erkek çocuğu tecavüze uğradı iddiaları var rapordada tecavüze yeltenilmiş diye geçiyormuş onun üstüne bir tane iskenderundan belene giden otobüs suriyeliler tarafından kurşunlandı bir kaç ay önce suriyeli bir kiracı ev sahibini öldürdü. hatayda olanların bir kaçı bu o yüzden hatay da 3 suriyelinin ölmesi beklenen bir olaydı maalesef\n\ndevlet hepsini alıp toplama kampına götüreceğine şehirlerde cirit atmasına göz yumarsa daha çok olay çıkar. hatayda gasp tecavüz cinayet olayları arttı her taşın altından suriyeliler çıkıyor maalesef ve böyle gider kurunun yanında yaşta yanacak yani iyi niyetli suriyelilerinde başı yanacak. bizi yöneten basiretsiz olduğundan bu kurunun yanında yaşın yanmasıda engellenmicek maalesef.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "hatay'da 3 suriyeli'nin evlerinde ölü bulunması",
+      "entry_id": "45143663",
+      "author": "carcar",
+      "date": "22.08.2014 00:03",
+      "content": "agladim yahu .bu ne vicdansizlik huuuu kendinize gelin .in san lar ca re siz ce si gin dik la ri kom su ul ke de ac lik ve se fa let ten öl müş ler!",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "hatay'da 3 suriyeli'nin evlerinde ölü bulunması",
+      "entry_id": "45143672",
+      "author": "matamaiticeoir",
+      "date": "22.08.2014 00:03",
+      "content": "eğer ırkçı bir eylemse yapanlar kadar devlette suçludur.çünkü bu ülkenin insanlarına 90 yılı aşkın bu öğretiliyor. bu suç topluma aittir. onu öldüren bir kişi değildir.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "hatay'da 3 suriyeli'nin evlerinde ölü bulunması",
+      "entry_id": "45143722",
+      "author": "bezginpanda",
+      "date": "22.08.2014 00:06",
+      "content": "ölmelerini istemek yerine tayyipe oy vermekten vazgeçin. bu kadar basit.\nşahsi görüşüm katillerinin yine suriyeli olma ihtimalleri yüksek olan toplu cinayet.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "hatay'da 3 suriyeli'nin evlerinde ölü bulunması",
+      "entry_id": "45143878",
+      "author": "sahanda sucuklu paskalya yumurtasi",
+      "date": "22.08.2014 00:13",
+      "content": "suriyelilerin hatay'da evi olması ne kadar normalse, teknik açıdan bu da o kadar normal.\n\nsuriye illerinde çok daha fazla suriyeli evlerinde ve sokaklarda ölü bulunmakta.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "hatay'da 3 suriyeli'nin evlerinde ölü bulunması",
+      "entry_id": "45144251",
+      "author": "sourbeyi",
+      "date": "22.08.2014 00:30",
+      "content": "daha adamların niye öldüğü belli değil milleti ırkçılıkla suçlayan mallar çıktı hadi bakalım.\n\neğer olayın o boyutuna gelinirse, 3 milyon insan ne demek biliyor musun? norveç'in nüfusuna nerdeyse denk demek. evet dünyanın en gelişmiş insani endeksine sahip norveç. kişi başı milli gelirde ilk sırada olan norveç.\n\nyahu sen daha kendi milletine iş bulamıyorsun. kpss giren insan sayısı 3 milyon alınan da bir avuç insan! sikerim sizin hümanistliğinizi!!!!! sanki biz insan gibi yaşıyoruz amına koyayım. kiralar 3 katına çıktı. ucuz iş gücünün amına koydular. her köşede ya dilenen arap ya da arabasının tekerini götüne soktuğumun altında jiple dolanan arabı. milletin anasına bacısına mal mal bakmaya başladılar. bunları öldürelim diyen yok ama başı boş bırakamazsın 3 milyon insanı sokağa! bunlar kampta kalacaktı diye geldiler. kamplarına geri dönsünler aç değil açıkta değiller orda.\n\nev sahibini öldürdü diye antep'liler komple ayaklandılar daha kaç gün oldu? adana'da esnafa siktir çekende bunlar. biz gitmiyoruz siz gidin diyende arap. kendi ayağına kurşun sıkan başka bir millet var mı acaba dünyada?\n\nson sözüm hümanist kardeş, seninki hümanistlik değil mallığın saflık bulmuş hali!",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,572 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:45:38.514125",
+    "total_entries": 44,
+    "input": "suç işleyen suriyelileri sınır dışı edeceğiz",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suç işleyen suriyelileri sınır dışı edeceğiz",
+      "entry_id": "92554023",
+      "author": "bilemiyorum altan bilemiyorum",
+      "date": "13.07.2019 15:17 ~ 18:44",
+      "content": "habere göre bir rte söylemi.\n\n-ülkelerine dönmelerini teşvik edeceğiz.\n-suç işleyenleri kesinlikle sınır dışı edeceğiz.\n-aldıkları sağlık hizmeti karşılığında bir katkı payı alınmasını öngörüyoruz. (bkz: öngörüyoruz ne demekse artık)\n\ndemiş.\n\nreyiz çok erken değil mi ya bu politikalar için. daha burada doğanlar büyüyüp çocuk yapacak falan. acele etmeyin. asasdf.\n\n\"biz suriyelilere kapılarımızı açmak zorundaydık. görmezden gelemezdik. onlara sahip çıktık.\"\n\nsanki ab ile 3 milyar euro ve vize serbestliği için anlaşmamış, daha geçen gün \"ödemezseniz salarım ha hepsini\" dememiş gibi.\n\n(bkz: geri kabul anlaşması)",
+      "has_external_url": true,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suç işleyen suriyelileri sınır dışı edeceğiz",
+      "entry_id": "92554093",
+      "author": "dust",
+      "date": "13.07.2019 15:19",
+      "content": "zahmet olmasın.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suç işleyen suriyelileri sınır dışı edeceğiz",
+      "entry_id": "92554105",
+      "author": "inciinci",
+      "date": "13.07.2019 15:20",
+      "content": "suç işliyor serbest bırakıyor. bu ne saçma bir şey lan,sokakta yürürken gelecek para ver yok diyeceksin bıçaklayacak öleceksin ama o sınır dışı edilecek. ceza? yok.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY",
+        "CRIME",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suç işleyen suriyelileri sınır dışı edeceğiz",
+      "entry_id": "92554141",
+      "author": "sheogorath",
+      "date": "13.07.2019 15:20 ~ 15:22",
+      "content": "ülkede neredeyse hiç suriyeli mülteci kalmamasını sağlayacak olaydır.\n\nadamlar ülkenin suç yükünü üstleniyor resmen beş yıldır.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suç işleyen suriyelileri sınır dışı edeceğiz",
+      "entry_id": "92554435",
+      "author": "zuleyman",
+      "date": "13.07.2019 15:30",
+      "content": "helal olsun reis dediğim açıklama. bundan sonra oyum sana ve sabah akşam ahaber izleyip sabah gazetesi okuyarak arayı kapatacağım.",
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suç işleyen suriyelileri sınır dışı edeceğiz",
+      "entry_id": "92554452",
+      "author": "nonameone",
+      "date": "13.07.2019 15:31",
+      "content": "bi zahmet.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suç işleyen suriyelileri sınır dışı edeceğiz",
+      "entry_id": "92555062",
+      "author": "kolamolayok",
+      "date": "13.07.2019 15:51",
+      "content": "gaz almaya dönük söylendiğini düşündüğüm beyandır.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suç işleyen suriyelileri sınır dışı edeceğiz",
+      "entry_id": "92555228",
+      "author": "plonaj",
+      "date": "13.07.2019 15:57",
+      "content": "hani ümmetti onlar?\nen sonunda söylediğimize gelecekler, her zaman olduğu gibi...",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "suç işleyen suriyelileri sınır dışı edeceğiz",
+      "entry_id": "92555239",
+      "author": "green riddle",
+      "date": "13.07.2019 15:57",
+      "content": "yani tecavüz edip adam öldürürlerse sınır dışı edileceklermiş çok mantıklı iş reis.\n\nsuç işlenmesi beklenmeden postalanması gereken sığır sürüsüdür.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "CRIME"
+      ]
+    },
+    {
+      "title": "suç işleyen suriyelileri sınır dışı edeceğiz",
+      "entry_id": "92556666",
+      "author": "sinekikki",
+      "date": "13.07.2019 16:40",
+      "content": "adamlar hali hazırda vatandaşlığa başvurup, türk vatandaşı olabiliyorlar kolaylıkla. ondan ziyade bunun da önüne geçilmesi lazım. adam vatandaşlık alıyor suç işlese ne yazacak artık o da bu ülkenin vatandaşı.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY",
+        "HATE"
+      ]
+    },
+    {
+      "title": "suç işleyen suriyelileri sınır dışı edeceğiz",
+      "entry_id": "92556824",
+      "author": "mutevazibaskan",
+      "date": "13.07.2019 16:45",
+      "content": "bilader zaten suç işleyen göçmenler yasalar gereği sınır dışı ediliyor ki bize yeni bişeyle gelin",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suç işleyen suriyelileri sınır dışı edeceğiz",
+      "entry_id": "92556934",
+      "author": "pardonkuzenimyazdi",
+      "date": "13.07.2019 16:48",
+      "content": "oldukça akıllıca bir politika söylemi. şimdi muhalif gruplardan ve partilerden, kurulacak alternatif yeni partilerden “suriyeli kardeşlerimizi yedirmeyiz” şeklindeki çıkışlar gelebilir ve bu sorun, sorun olmaktan çıkabilir.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suç işleyen suriyelileri sınır dışı edeceğiz",
+      "entry_id": "92557401",
+      "author": "renginibellietmeyenbukalemun",
+      "date": "13.07.2019 17:03",
+      "content": "sınır mı kalmış amk?",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suç işleyen suriyelileri sınır dışı edeceğiz",
+      "entry_id": "92557453",
+      "author": "malang",
+      "date": "13.07.2019 17:04",
+      "content": "dilenen suriyelileri de sınır dışı etmesini istiyoruz. her otobüs, metrobüs durağı suriyeli dilenciyle işgal durumda. bir de metrobüs içinde ki suriyeli çocuk dilenciler var. bu çocuklarla ilgili de bir çalışma yapılsın.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suç işleyen suriyelileri sınır dışı edeceğiz",
+      "entry_id": "92557571",
+      "author": "maderman666",
+      "date": "13.07.2019 17:08",
+      "content": "her seferinde lafta kalan vaadler gibi olmamasını dileriz. her kesimden olumlu tepki alabileceği bir koz var karşısında. şimdiye kadar bekleyerek zaten kırılmıştı notu. fakat biraz da olsa bu notu düzeltme fırsatı var.\n\nfakat kişisel fikrim, şov amaçlı yapılmasıdır. icraat göreceğimizi sanmıyorum",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suç işleyen suriyelileri sınır dışı edeceğiz",
+      "entry_id": "92557720",
+      "author": "nickerman",
+      "date": "13.07.2019 17:12",
+      "content": "bu zamana kadar etmediğimiz anlamına da gelebilecek bir ifade. hırlısı hırsızı, tacizcisi ne kadar pisliği varsa besledik bir başka deyişle.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE"
+      ]
+    },
+    {
+      "title": "suç işleyen suriyelileri sınır dışı edeceğiz",
+      "entry_id": "92558350",
+      "author": "sabun30dakaldi",
+      "date": "13.07.2019 17:32",
+      "content": "ee kimse dememis mi isledigi sucun cezasini nasil cekicekler diye.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suç işleyen suriyelileri sınır dışı edeceğiz",
+      "entry_id": "92558416",
+      "author": "shah caspian",
+      "date": "13.07.2019 17:34 ~ 17:36",
+      "content": "suçluya cezası verilmek yerine sınır dışı etmek de ayrı bir kafa olsa gerek. adamlar kelle kesti antep'te cezası sınır dışı etmek mi bunun?",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suç işleyen suriyelileri sınır dışı edeceğiz",
+      "entry_id": "92558449",
+      "author": "sagliginiz icin",
+      "date": "13.07.2019 17:35",
+      "content": "olmamasi gereken hadise. sonucta ummet bunlar.\n\nsaraya alip beslemek daha iyi fikir...",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suç işleyen suriyelileri sınır dışı edeceğiz",
+      "entry_id": "92558503",
+      "author": "carlsen",
+      "date": "13.07.2019 17:37",
+      "content": "suç işlemesini beklemeyin. hepsini sınır dışı edin",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suç işleyen suriyelileri sınır dışı edeceğiz",
+      "entry_id": "92558696",
+      "author": "camiden adidas caldim bol geldi",
+      "date": "13.07.2019 17:42 ~ 17:43",
+      "content": "(bkz: seni de yorduk kral, kusura bakma)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suç işleyen suriyelileri sınır dışı edeceğiz",
+      "entry_id": "92558911",
+      "author": "rising star of anatolia",
+      "date": "13.07.2019 17:49",
+      "content": "şimdi ben merak ettim. adam burada bir kadına tecavüz edecek ve öldürecek.. sonra suç işlediği için hiç hapse falan atılmadan suriye'ye geri mi gönderilecek?\n\nbiraz daha net olması daha iyi olacak açıklama.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suç işleyen suriyelileri sınır dışı edeceğiz",
+      "entry_id": "92560076",
+      "author": "sosislisutlac",
+      "date": "13.07.2019 18:26",
+      "content": "hali hazırda ki suriyeliler ve diğer yerlerden gelenlere vatandaşlık verilmeyeceğinin garantisi verilsin",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suç işleyen suriyelileri sınır dışı edeceğiz",
+      "entry_id": "92560124",
+      "author": "sosislisutlac",
+      "date": "13.07.2019 18:28",
+      "content": "üniversite okuyanlara ve ailelerine vatandaşlık veriliyor bilginize",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suç işleyen suriyelileri sınır dışı edeceğiz",
+      "entry_id": "92560533",
+      "author": "eskibirev",
+      "date": "13.07.2019 18:42",
+      "content": "suç işlesin işlemesin bütün suriler,pakiler,afganlar ve devlete yük olan,devletten yardım alan herkes ülkesine gönderilmelidir.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suç işleyen suriyelileri sınır dışı edeceğiz",
+      "entry_id": "92560817",
+      "author": "dd1978",
+      "date": "13.07.2019 18:51",
+      "content": "evet biz getirdik, kusura bakmayın diyorum, bizzat ben istedim.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suç işleyen suriyelileri sınır dışı edeceğiz",
+      "entry_id": "92560892",
+      "author": "gamsiz",
+      "date": "13.07.2019 18:54",
+      "content": "yahu bu uygulama zaten en az iki yıldır var. yeni değil ki.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suç işleyen suriyelileri sınır dışı edeceğiz",
+      "entry_id": "92560893",
+      "author": "tutkun firari",
+      "date": "13.07.2019 18:54",
+      "content": "istemiyoruz. suça karışsın ya da karışmasın bu kişiler neden vatanlarında yaşamıyor.\n\nvatandaş suriyeli beslemek zorunda değil, türkiye tökezlediğinde kendi vatanını satmış savmış adam ülkemizden her türlü suçu işleyip kaçacak.\n\nsuriyelilerin hepsi vatanında yaşasın, misafirlik bitti. halk bunu artık görüyor. 806 binin devamı gelecek.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suç işleyen suriyelileri sınır dışı edeceğiz",
+      "entry_id": "92560897",
+      "author": "earendill",
+      "date": "13.07.2019 18:54",
+      "content": "görüldüğü gibi gene türk olmanın dezavantajını yaşıyoruz bu ülkede. suç işleyince hapse atılıyoruz biz, ama suriyeli olsak sadece sınırdışı edilecektik. ben de suç işlediğim takdirde hapse atılmak yerine sınırdışı edilme opsiyonu istiyorum.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suç işleyen suriyelileri sınır dışı edeceğiz",
+      "entry_id": "92561385",
+      "author": "bosuna",
+      "date": "13.07.2019 19:10",
+      "content": "la hadi kapıları açtın, savaş var dedin. ab ye gitmelerine niye izin vermiyosun? ben de bunu anlamıyorum.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suç işleyen suriyelileri sınır dışı edeceğiz",
+      "entry_id": "92561543",
+      "author": "karmasutvera",
+      "date": "13.07.2019 19:15",
+      "content": "sen önce bir \"sınır\" sahibi ol da sonra \"dışı\" edersin.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suç işleyen suriyelileri sınır dışı edeceğiz",
+      "entry_id": "92561751",
+      "author": "iyiyim ben boyle",
+      "date": "13.07.2019 19:23",
+      "content": "peki, apaçık kafa kesmiş bir ışidli olduğu 500 metreden belli olanları da sınırdışı edecek misiniz diye sormak istediğim açıklama.\n\nbugün, bakırköy'ün en lüks ve büyük avm'si içinde, yanında burkalı karısı (?) ile gördüğümde ve tipin suratından akan kötülüğü fark edince, \"bu teröristin burada ne işi var?\" diye düşündüm. çok tedirginlik verici bir durum. kimler dolduruldu güzel ülkeme? hiç mi suratlarına bakıp, en azından bir güvenlik soruşturmasına tabi tutmadılar bu korkunçlu tip gibileri? halkı durduk yerde tedirgin etmenin ne anlamı var?\n\nbence böyle terörist olduğu neredeyse kesin olan bıyıksız sakallı tiplerin derhâl toplanıp acilen sınırdışı edilmeleri gerekiyor. huzurumuz kalmadı, sürekli tetikte dolaşmak durumunda kalıyoruz. normal tavır ve tipli suriyelilerle bir sorunum yok, ama bu bambaşka bir durum.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suç işleyen suriyelileri sınır dışı edeceğiz",
+      "entry_id": "92561884",
+      "author": "asimovunmutfakrobotu",
+      "date": "13.07.2019 19:28",
+      "content": "(bkz: twit atan suriyelinin sınır dışı edilmesi)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suç işleyen suriyelileri sınır dışı edeceğiz",
+      "entry_id": "92562608",
+      "author": "roseanne78",
+      "date": "13.07.2019 19:53 ~ 20:47",
+      "content": "şimdiye kadar hicbir suçtan cezalandirilmadiklarini kabul ediyor .ölen öldüğüyle kaldı . inanmak zor bu demece . arap damarı tutarsa kıyamaz",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suç işleyen suriyelileri sınır dışı edeceğiz",
+      "entry_id": "92564313",
+      "author": "iks kare eksi yedi",
+      "date": "13.07.2019 20:44",
+      "content": "rahat olun, seçimden önce soylu 6 ayda suriyeli sorununu çözeriz demişti. ocak 2020 de en geç bu iş çözülür.\n\nmuhtemelen soylu’nun kendisi bile unutmuştur kendi sözünü. kimi kandırıyorsam ben de.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suç işleyen suriyelileri sınır dışı edeceğiz",
+      "entry_id": "92564628",
+      "author": "maziden biri87",
+      "date": "13.07.2019 20:52",
+      "content": "kendilerini tespit ettik biliyoruz ama eyleme geçmeden tutuklayamayız.küçük enişte vol2.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suç işleyen suriyelileri sınır dışı edeceğiz",
+      "entry_id": "92569970",
+      "author": "ucdanebimelyon",
+      "date": "13.07.2019 22:57",
+      "content": "zahmet etmeyin ya o kadar; yazık din kardeşlerimize onun yerine suçlu türklerdir din gardaslarımızın suçlanmasına göz yummayı ah bu bolucu teror sevici muhalifler..",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suç işleyen suriyelileri sınır dışı edeceğiz",
+      "entry_id": "92573282",
+      "author": "baragadi",
+      "date": "14.07.2019 00:05 ~ 00:07",
+      "content": "(bkz: suriyelilere hapis şoku)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suç işleyen suriyelileri sınır dışı edeceğiz",
+      "entry_id": "92573880",
+      "author": "bulamadim bir nick",
+      "date": "14.07.2019 00:16",
+      "content": "milyonlarca suriyeli arap mülteci bir ülke başkanının fahri kayınçosuysa, o suriyeliler vatandaş da yapılır, ülkenin sahibi de yapılır, sınırdışı da edilemez.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suç işleyen suriyelileri sınır dışı edeceğiz",
+      "entry_id": "92581468",
+      "author": "xhepa",
+      "date": "14.07.2019 04:07",
+      "content": "sınırdışı dediği ise hatay’da kampa bırakmaktır.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suç işleyen suriyelileri sınır dışı edeceğiz",
+      "entry_id": "92584904",
+      "author": "zuzukuzusu",
+      "date": "14.07.2019 10:00",
+      "content": "nereye? kim alır ki artık? suriye’de âguşunu açmış onları bekliyordu. kayığa doldurup akdeniz’e mi salacaksın yallah habibi diyerek. savaş sırasında bile hangi arap ülkesi kabul etti ki?\n\nesad akıllı adam. tüm işe yaramazlardan kurtuldu. işe yarayanlar avrupa’da gelişimini tamamlayınca, suriye’yi eski refah günlerine döndürmek için geri dönecekler. çifte kazanç. biz????",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suç işleyen suriyelileri sınır dışı edeceğiz",
+      "entry_id": "92591005",
+      "author": "yav hadi",
+      "date": "14.07.2019 13:37",
+      "content": "güzel diyor da polis doğru düzgün türkçe konuşamayan suriyelileri gettolaşmış yerleşimlerinden nasıl ayıklayıp bulacak, muamma. zaten polisin olay yerine vaktinde gelmesini geçtim karakolun 150 m ötesinde seyyar bıçak satıcısı başka seyyara bıçak çekip tehdit ediyor karakolun nöbetçileri dönüp bakmıyor bile. güvenlik güçlerinin daha disiplinli bir tutumda olması gerekiyor.\nsağlık hizmetlerinden katkı payı alınması ise çok gecikmiş bir karar. adaletli bir yaklaşım olmasının yanında sağlık hizmetlerindeki iş yükünü önemli şekilde azaltacağına inanırım. ya arkadaş ben sağlık sigortasına sahip değilsem, gss primlerim eksikse anamı ağlatıyorlar.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suç işleyen suriyelileri sınır dışı edeceğiz",
+      "entry_id": "175676091",
+      "author": "istebuarimaya",
+      "date": "29.05.2025 22:32",
+      "content": "suç işlemese de sınır dışı edilmeli. esad yok, savaş bitti.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suç işleyen suriyelileri sınır dışı edeceğiz",
+      "entry_id": "175676534",
+      "author": "faytonfayt",
+      "date": "29.05.2025 22:49",
+      "content": "diğer azınlıklara da aynı tarife uygulanmalı.\n\ntürk olmayan ve suça karışan herkes sınır dışı edilmeli.\n\n(bkz: cezaevi nüfusunun 400 bin'i geçmiş olması)",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "POLICY"
+      ]
+    }
+  ]
+}

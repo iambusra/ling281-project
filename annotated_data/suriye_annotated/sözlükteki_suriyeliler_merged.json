@@ -1,0 +1,134 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:45:37.564279",
+    "total_entries": 10,
+    "input": "sözlükteki suriyeliler",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "sözlükteki suriyeliler",
+      "entry_id": "6279643",
+      "author": "esekherif",
+      "date": "12.11.2004 20:28",
+      "content": "(bkz: zortezurtek)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "sözlükteki suriyeliler",
+      "entry_id": "49370130",
+      "author": "20 13",
+      "date": "22.02.2015 16:06",
+      "content": "e napsın adamlar? o kadar kapılar açıldı, geldiler ev aldılar iş buldular falan. internet ortamlarına aktıkları bir vakit de, muhtemelen'abi ekşi sözlük diye bir site buldum süper''lafını duyunca hemen üye oluvermişler. sağolsun serok sedat da kırmamış bunları. olsun. yazsınlar. burası özgür bir ülke fln. hatta tamam lanet olsun vergilerinizi de veriyorsunuzdur, eminim. ama yediğiniz kaba etmeyin lütfen. yarın birgün düşman askeri gelip işgale koyulduğunda elinizde yunan, suriye, birleşik krallık bayraklarıyla görmeyelim sizi, fena olur. benden söylemesi.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "sözlükteki suriyeliler",
+      "entry_id": "67317632",
+      "author": "esbgtr",
+      "date": "07.04.2017 08:08",
+      "content": "ben daha yazar olamadim elin suriyelisi olursa aglarim aaa",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "sözlükteki suriyeliler",
+      "entry_id": "67317768",
+      "author": "nohud",
+      "date": "07.04.2017 08:24",
+      "content": "vatandaşlık verilesidir",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POLICY",
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "sözlükteki suriyeliler",
+      "entry_id": "89705245",
+      "author": "sosyopatiz elhamdurillah",
+      "date": "05.05.2019 15:04",
+      "content": "(bkz: vakittamamdir)\n\n(bkz: crembears)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "sözlükteki suriyeliler",
+      "entry_id": "92929391",
+      "author": "maliyilgor",
+      "date": "22.07.2019 13:37",
+      "content": "burada bile mi",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "sözlükteki suriyeliler",
+      "entry_id": "107995818",
+      "author": "ayozeperez",
+      "date": "29.05.2020 01:24",
+      "content": "sözlükteki galatasaraylıların tamamı bu gruba girer.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "sözlükteki suriyeliler",
+      "entry_id": "118369710",
+      "author": "insanfaktoru",
+      "date": "17.01.2021 19:17",
+      "content": "aleyhlerine en ufak bir şey yazdığınızda derhal mesaj kutunuza damlarlar.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "sözlükteki suriyeliler",
+      "entry_id": "140294459",
+      "author": "owencan",
+      "date": "21.07.2022 22:41",
+      "content": "(bkz: owencan)\n\ngururla söylüyorum ki ben bir suriyeliyim. her ne kadar bu ara mülteci karşıtlığı tavan yapsa da mülteci bir kardeşiniz olarak hepinizi kucaklıyorum. ümit hocam son sözüm size, siz bizi sevmeseniz de ben sizi çok seviyorum. ilk seçimde oyum zafer partisinindir.",
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "sözlükteki suriyeliler",
+      "entry_id": "157053126",
+      "author": "owencan",
+      "date": "23.09.2023 20:49",
+      "content": "sözlükte yaratılan suni suriye düşmanlığına karşı birleşmesi gereken vasat oluşum. herbiri birer aristokrat olan biz gibi güzel insanları öcü, bölüm sonu olarak gösteren dinazor algıcılar eminim hayatında tek suriyeli tanımamıştır. sözlükteki suriyelilerin lideri ve kralı olarak hepimiz kardeşiz diyorum.\n\nshow must go on",
+      "has_external_url": true,
+      "sentiment_numeric": 5,
+      "categories": [
+        "HUMAN-POS"
+      ]
+    }
+  ]
+}

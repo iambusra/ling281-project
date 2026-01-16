@@ -1,0 +1,61 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:14:14.796832",
+    "total_entries": 4,
+    "input": "ukrayna'da vali dövmek",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukrayna'da vali dövmek",
+      "entry_id": "40589626",
+      "author": "nightfever",
+      "date": "21.02.2014 12:27",
+      "content": "(bkz: ukranya'ya çarşanba günü bonba atmak)",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "XENO",
+        "CRIME"
+      ]
+    },
+    {
+      "title": "ukrayna'da vali dövmek",
+      "entry_id": "40589688",
+      "author": "splatz",
+      "date": "21.02.2014 12:31",
+      "content": "barışcıl gosterilerin kotrolden cıktıgına dair bir işarettir",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "ukrayna'da vali dövmek",
+      "entry_id": "40589828",
+      "author": "kaelthas sunstrider",
+      "date": "21.02.2014 12:40",
+      "content": "tam da kavas ların yapacağı bir hareket. vali ye el kalkar mı lan kavas?",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "ukrayna'da vali dövmek",
+      "entry_id": "40589847",
+      "author": "31feetunder",
+      "date": "21.02.2014 12:41",
+      "content": "(bkz: 5n 1k)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

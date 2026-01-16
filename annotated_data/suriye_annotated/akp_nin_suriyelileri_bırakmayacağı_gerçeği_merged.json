@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T15:33:24.445854",
+    "total_entries": 1,
+    "input": "akp'nin suriyelileri bırakmayacağı gerçeği",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "akp'nin suriyelileri bırakmayacağı gerçeği",
+      "entry_id": "125652056",
+      "author": "counteroffensive",
+      "date": "12.07.2021 21:48",
+      "content": "bırakmayacağı ifadesi yanlış anlaşılabilecek bir ifadedir. doğrusu ise gitmek istemeyeni zorla göndermeyecek vicdanda olmasıdır. ak partili değilim ama ak parti'nin suriyeliler konusundaki politikasının en azından zorla göndermemek üzerine olan kısmını doğru buluyorum.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POLICY"
+      ]
+    }
+  ]
+}

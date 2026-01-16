@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:19:18.378215",
+    "total_entries": 2,
+    "input": "rus dronelarının polonya hava sahasına girmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rus dronelarının polonya hava sahasına girmesi",
+      "entry_id": "178274528",
+      "author": "parietallob",
+      "date": "10.09.2025 02:51",
+      "content": "bu gece gerçekleşmiş hadise. kaynaklardan biri bu şekilde.\n\nnato'nun article 5'ı -collective defense maddesi- invoke edip etmeyeceği merak konusu ama gerçekleşeceğini hiç sanmam. yine de bugün israil'in katar'a saldırısı, ardından bu olay derken insan ne oluyoruz demeden de edemiyor.\n\ngelişmeleri merakla takip ediyor olacağız.",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "rus dronelarının polonya hava sahasına girmesi",
+      "entry_id": "178281213",
+      "author": "bir zamanlar cok mutluyduk",
+      "date": "10.09.2025 13:06",
+      "content": "küçük bir rus latifesi.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

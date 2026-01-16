@@ -1,0 +1,26 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:44:11.956251",
+    "total_entries": 1,
+    "input": "muhaliflerin suriye sevdasının bir anda depreşmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "muhaliflerin suriye sevdasının bir anda depreşmesi",
+      "entry_id": "173414685",
+      "author": "61ts",
+      "date": "08.03.2025 11:50",
+      "content": "suriye'de yirmi yıl süren esed/şebbiha tarafından yapılan soykırıma ses çıkarmayan hatta esed'i büyük lider diye alkışlayan bunlar yetmezmiş gibi ülkemize sığınan mültecileri aşağılayan, ülkemizden kovmaya çalışan şahısların birden dönüvermesi.\n\nnot: suriye'deki soykırımcı esed döneminde ezilenlerin yanında yer alan onlara destek veren muhalifler bu tespitin dışındadır.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CRIME",
+        "XENO",
+        "HUMAN"
+      ]
+    }
+  ]
+}

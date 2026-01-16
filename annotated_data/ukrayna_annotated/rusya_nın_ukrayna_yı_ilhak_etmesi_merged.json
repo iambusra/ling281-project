@@ -1,0 +1,87 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:07:55.386270",
+    "total_entries": 6,
+    "input": "rusya'nın ukrayna'yı ilhak etmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rusya'nın ukrayna'yı ilhak etmesi",
+      "entry_id": "134047127",
+      "author": "boslama",
+      "date": "21.02.2022 23:11",
+      "content": "sanki iş buraya geliyor. abd bedelini öder falan diyor ama cılız 1-2 askeri hareketlilik dışında bir şey yok. ukrayna zaten direnemeyeceğini biliyor. sanki böyle olma ihtimali güçlü.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rusya'nın ukrayna'yı ilhak etmesi",
+      "entry_id": "134047274",
+      "author": "scotch cq",
+      "date": "21.02.2022 23:14",
+      "content": "biden önce afganistan’ı taliban’a sonra da ukrayna’yı rusya’ya teslim etti.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "rusya'nın ukrayna'yı ilhak etmesi",
+      "entry_id": "134306654",
+      "author": "iron blue",
+      "date": "28.02.2022 00:49",
+      "content": "böyle bir şeyin mümkün olmadığını düşünüyorum. orayı ilhak etmesinin sağlıklı bir sekilde gerçekleşmesi için milliyetçi rus nüfusunun yerleştirilmesi gerekiyor. ukrayna halkını böylesine düşman yapmayı başarabilmiş bir ülke için çok zor eylemdir.\n\nrusya'nın yapmak isteyeceği şey kontrol edilebilir bir devlet yaratmaktır. bunun içinde rusya yanlısı bir hükümet yeterlidir. bu plan gerçekleştiği takdirde rusya saldırıları tamamen durdurur. zaten putin'in ukrayna ordusundan isteği ordunun darbe yapmasıdır.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "rusya'nın ukrayna'yı ilhak etmesi",
+      "entry_id": "134307060",
+      "author": "sevgili frodo",
+      "date": "28.02.2022 00:59",
+      "content": "ortada net bir durum yoktur. bu olayı konuşmak için zaman gereklidir. bir olayın başlangıcında olayın sonu konuşulmaz.\n\nukrayna basit bir ülke değildir son 8 yıldır bu savaşa zaten hazırlanıyordu. ordusu da bu anlamda türkiye'den yıllardır askeri danışmanlık alıyordu. kaldı ki zaten amerika birleşik devletleri ukrayna'ya 650 milyon dolarlık silah sevkiyatı yapmıştı ki bu oran hiç de az bir oran değildir.\n\nözellikle savaş gibi daha realist olmamız gereken konularda bilmeden ya da takip ettiğimiz kaynakları yeterince incelemeden konuşmak doğru bir çalışma değildir.\n\nbu konuda özellikle ekşi sözlük gibi birçok insanın okuduğu bir mecrada topluma hitap edecek kadar bilmeden konuşmak çocukcadır lütfen bu tarz eylemlerden kaçının.\n\nukrayna gerçekten muazzam bir savunma hattı oluşturmuştur. bu başarısından dolayı ukrayna askerlerini ve ukrayna halkını takdir ediyorum. bunun yanında şunu da ifade etmemiz gerekiyor ki rus devleti ordusunun sadece dörtte birlik bir kısmını göndermiştir.\n\nsavaş henüz yeni başlamıştır. özellikle ilerleyen günlerde meydana gelen gelişmeleri incelediğimizde çok daha ayrıntılı bir düşünce ortaya koyabiliriz.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rusya'nın ukrayna'yı ilhak etmesi",
+      "entry_id": "134308149",
+      "author": "roadrashh",
+      "date": "28.02.2022 01:25",
+      "content": "(bkz: #134306438) gelmiş hemen bir tane sovyet sevici. buna kalsa eski sovyetler den ayrılan hiçbir ülke ülke değildir. artıralım istersen. osmanlı'nın zamanında toprağı olan hiçbir ülke de ülke değildir. bu tarz yobaz, örümcek bağlamış düşünceler şükürler olsun tarihe karıştı da bunca sıkıntının içinde bir de bu tip oksijen israflarına maruz kalmıyoruz. tek tük çıkıyorlar işte arada bu tip platformlarda.\nkonuya dönecek olursak bence de iş oraya doğru gidiyor. umarım olmaz. çünkü olmaz dediğimiz herşey olmaya başladı son zamanlarda. daha fazlasını aklıma bile getirmek istemiyorum. ama rusyanın amacı bu. bir yerde ayrılıkçı ya da avrupacı birileri varsa coşuyorlar. bura zaten bizimdi diye. devlet bahçeli kafası. 82 musul 83 kerkük hesabı. rusyanın amacı eski sovyetler kafası. en azından putinin. umarım ilhak gibi birşey denemez ya da ilan etmezler. yoksa işler içinden çıkılmaz bir hal alır.",
+      "referenced_entry_ids": [
+        "134306438"
+      ],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "rusya'nın ukrayna'yı ilhak etmesi",
+      "entry_id": "134322866",
+      "author": "frankyanke",
+      "date": "28.02.2022 13:52",
+      "content": "(bkz: edemedi)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

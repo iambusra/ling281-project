@@ -1,0 +1,48 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:25:22.748680",
+    "total_entries": 3,
+    "input": "varoluş sancısını dindirmek için rusa gitmek",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "varoluş sancısını dindirmek için rusa gitmek",
+      "entry_id": "36620184",
+      "author": "earthworker",
+      "date": "03.09.2013 00:07",
+      "content": "montla sıç maktan sonraki en iyi çözüm. hadi olur ya mont bulamadın, bulsan da üzerine olmadı. rusa git.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "varoluş sancısını dindirmek için rusa gitmek",
+      "entry_id": "36620440",
+      "author": "cherryjam",
+      "date": "03.09.2013 00:15",
+      "content": "(bkz: bahane aramaya inanmak)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "varoluş sancısını dindirmek için rusa gitmek",
+      "entry_id": "36652993",
+      "author": "sirjohn",
+      "date": "04.09.2013 04:33",
+      "content": "(bkz: erkeklerin benim varoluşsal sorunlarım var tribi)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

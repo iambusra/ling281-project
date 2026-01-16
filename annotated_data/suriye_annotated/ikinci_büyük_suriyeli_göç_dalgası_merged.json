@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:42:56.756273",
+    "total_entries": 1,
+    "input": "ikinci büyük suriyeli göç dalgası",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ikinci büyük suriyeli göç dalgası",
+      "entry_id": "170793564",
+      "author": "faytonfayt",
+      "date": "06.12.2024 22:41",
+      "content": "ihtimal dahilinde. beşar esad'ın düşmesi an meselesi.\n\nülkeyi göç ve insan pazarına çevirebilirler yine.\n\ntürk halkının her şeye ayık olmasını diliyorum. şimdiye kadar olamadıkları için pek umudum yok ama uyarmadan edemiyor insan.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    }
+  ]
+}

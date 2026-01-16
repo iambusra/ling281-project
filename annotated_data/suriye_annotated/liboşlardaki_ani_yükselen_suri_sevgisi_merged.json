@@ -1,0 +1,51 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:43:53.104149",
+    "total_entries": 3,
+    "input": "liboşlardaki ani yükselen suri sevgisi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "liboşlardaki ani yükselen suri sevgisi",
+      "entry_id": "135034364",
+      "author": "join",
+      "date": "17.03.2022 01:38",
+      "content": "mültecilerin gönderileceğini duyan liboşların hemen o anda paniğe kapılıp şiddetli şekilde açığa vurdukları garip sevgi türü.\n\nhayvanseverlere köpekleri çok seviyorsanız evinize alıp besleyin demekten geri durmayan liberal zihin hastalığına yakalanmış bu zavallıların evlerine mülteci alıp beslemiyor olmalarının sebebi ise merak konusu.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "liboşlardaki ani yükselen suri sevgisi",
+      "entry_id": "135034413",
+      "author": "back for more",
+      "date": "17.03.2022 01:40",
+      "content": "seven alsın evinde beslesin. herkese yeryüzünde cehennemi yaşatıyorlar.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "liboşlardaki ani yükselen suri sevgisi",
+      "entry_id": "135035112",
+      "author": "le fougueux",
+      "date": "17.03.2022 02:09",
+      "content": "ne zaman sevgileri azalmıştı ki?\n\n(bkz: ortadoğu liberali)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    }
+  ]
+}

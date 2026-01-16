@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:18:51.711037",
+    "total_entries": 1,
+    "input": "rus doğalgazı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rus doğalgazı",
+      "entry_id": "178689560",
+      "author": "senersongur",
+      "date": "26.09.2025 10:41",
+      "content": "türkiye'nin enerji ihtiyacını karşılayan önemli bir doğalgazdır. uzun yıllar almaya devam etmekte fayda var.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "ECON"
+      ]
+    }
+  ]
+}

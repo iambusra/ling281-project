@@ -1,0 +1,73 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:46:35.884232",
+    "total_entries": 5,
+    "input": "suriye için savaşırım",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriye için savaşırım",
+      "entry_id": "176881042",
+      "author": "bir zamanlar cok mutluyduk",
+      "date": "17.07.2025 18:25",
+      "content": "cem küçük kaynaklı bir söz. fakat kendisi, kilo ve yaş olarak buna uygun mu, o merak konusu.\n\nhttps://www.ensonhaber.com/…s-arasinda-gergin-anlar",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriye için savaşırım",
+      "entry_id": "176881153",
+      "author": "agacta elma yiyen kiz",
+      "date": "17.07.2025 18:33",
+      "content": "buyursun, savassin. suriler kendi vatanlari icin savasmazken, kacip burada nargile icip bedavadan yasarken, kizlarimizi taciz ederken neden bizim gencecik turk askerlerimiz orada onlar icin savassin ki? aganin eli tutulmazmis, isteyen gitsin savassin.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriye için savaşırım",
+      "entry_id": "176881190",
+      "author": "rognes",
+      "date": "17.07.2025 18:35",
+      "content": "(bkz: mal beyanı)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriye için savaşırım",
+      "entry_id": "176881245",
+      "author": "nothingface",
+      "date": "17.07.2025 18:38",
+      "content": "hayatında beş tane şınav çekmemiş bir dombilinin hezeyanları.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriye için savaşırım",
+      "entry_id": "176881317",
+      "author": "kendini arayan adamin kendi",
+      "date": "17.07.2025 18:41",
+      "content": "abd vietnam'da vietnam için, afganistan'da afganistan için, irak'ta ırak için hatta suriye'de suriye için savaştı deme son 70 yılda...\n\nabd'nin ikinci dünya savaşında ölen askerleri hep çok savaşmak istiyorlardı deme elin fransızının pembe mabadını kurtarmak için...\n\nneyse ya kime ne anlatacaksın. bekleyin savaş kapınıza gelince götünüz kurtarırsınız...\n\nama gene de yazmam gerek, olası düşmanlar türk dedin mi esir almaktan bile korkarlar, yapacakları en iyi şey öldürmektir. bugünden kulu kölesi olmaya razı olanlar bi' de böyle düşünsün...",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "XENO"
+      ]
+    }
+  ]
+}

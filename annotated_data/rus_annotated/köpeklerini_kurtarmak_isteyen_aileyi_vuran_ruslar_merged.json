@@ -1,0 +1,86 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:27:13.575386",
+    "total_entries": 6,
+    "input": "köpeklerini kurtarmak isteyen aileyi vuran ruslar",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "köpeklerini kurtarmak isteyen aileyi vuran ruslar",
+      "entry_id": "134486505",
+      "author": "gecerken my lord diyen adam",
+      "date": "04.03.2022 08:52 ~ 09:01",
+      "content": "ukrayna'da ünlü bir köpek eğitmeni olan baba, oğluyla birlikte eşini ve kızını güvenli bölgeye götürüyor, ardından 3 köpeğini kurtarmak için yine oğluyla beraber geri dönüyorlar fakat yolda rus konvoyuyla karşılaşıyorlar. anında ruslar ateş açıyor, baba ve 2 köpek olay yerine ölüyorlar maalesef. kalan son köpeğin sahibinin ölü bedeninin yanından ayrılmadığı söyleniyor.\n\nsavaşın acımasızlığı bu işte. rusları ve işgali savunan, bu olaylara sevinen tüm şerefsizler de izlesin!\n\n+18 link\n\ndaha kısa hali\n\nedit: babanın adı ikar bakun'muş.\n\nhttps://twitter.com/…tatus/1498795925107580936?s=21",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "köpeklerini kurtarmak isteyen aileyi vuran ruslar",
+      "entry_id": "134486891",
+      "author": "blanx",
+      "date": "04.03.2022 09:08",
+      "content": "allahım bu orospu evlatlarına neden gücün yetmiyorda hep güçsüz ceza çekiyor şu dünyada, yeni doğanlar lösemi ile can çekişirken, kucağında bebeğini koruyan anne, yeni doğanı ile öldürülürken, insanlar, açlıkla, susuzlukla sınanırken, neden dünyaya ölüm ve pislik saçanları ödüllendirip, bu dünyada cennetinde yaşatıyorsun???\nher gece ben gibi milyarlarca insan dua ediyor bunun gibi zulümler son bulsun diye, sen neden sadece hep pisliğe dibine kadar batanları dinliyor ve onların yanında oluyorsun?\nadaletin bu kadar mı???",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE"
+      ]
+    },
+    {
+      "title": "köpeklerini kurtarmak isteyen aileyi vuran ruslar",
+      "entry_id": "134487528",
+      "author": "pandelon",
+      "date": "04.03.2022 09:32 ~ 09:33",
+      "content": "orul orul ..... rusçuların uyramayacağı başlık...",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "köpeklerini kurtarmak isteyen aileyi vuran ruslar",
+      "entry_id": "134487737",
+      "author": "arieswoodtiger",
+      "date": "04.03.2022 09:40",
+      "content": "ne yazık,ne üzucü.ahhhh be,ahh.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "köpeklerini kurtarmak isteyen aileyi vuran ruslar",
+      "entry_id": "134487820",
+      "author": "nickimi verin bana",
+      "date": "04.03.2022 09:43",
+      "content": "savaşın acı ama gerçek yüzünü yansıtan bir hadise. insan ya da köpek olarak kategorize etmek anlamsız: yitip giden canlar savaşta birer aktör değiller ve sebeple de ekstra üzüntü verici. ha madalyonun öteki yüzünde de \"vur emrine sahip\" savaşta askerler var dolayısıyla...",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "köpeklerini kurtarmak isteyen aileyi vuran ruslar",
+      "entry_id": "134492959",
+      "author": "frigatebird",
+      "date": "04.03.2022 12:22",
+      "content": "“savaş zaruri ve hayati olmalıdır. milletin hayatı tehlikeye maruz kalmadıkça savaş bir cinayettir.”\nmustafa kemal atatürk\n`#` ukrayna\nnot: bu sözü söyleyen insanın ömrü cephede geçmiştir.\nnot1: savaşın ne derecede rahatsız edici olduğunu gösteren sıradan bir olay.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    }
+  ]
+}

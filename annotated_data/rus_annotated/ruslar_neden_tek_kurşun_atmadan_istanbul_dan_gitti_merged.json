@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:26:28.141926",
+    "total_entries": 1,
+    "input": "ruslar neden tek kurşun atmadan istanbul'dan gitti",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ruslar neden tek kurşun atmadan istanbul'dan gitti",
+      "entry_id": "169472586",
+      "author": "denizci14",
+      "date": "22.10.2024 14:27",
+      "content": "1877-78 savaşında balkanlarda osmanlıyı yenip ilerleyerek yeşilköy e giren rus ordusunun istanbul ellerinin altında girecekken gerçekleşmiş hadise.\n\nşüphesiz (bkz: ingilizler neden kurşun atmadan istanbul'dan gitti) konusunda yazan, bol bol komplo teorisi üreten uzmanların fikri vardır.\n\nabdülhamit ten korkmuşlardır, belki de.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

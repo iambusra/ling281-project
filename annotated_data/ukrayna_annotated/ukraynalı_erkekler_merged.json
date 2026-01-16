@@ -1,0 +1,545 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:19:30.743410",
+    "total_entries": 43,
+    "input": "ukraynalı erkekler",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukraynalı erkekler",
+      "entry_id": "74797427",
+      "author": "bishop brain",
+      "date": "07.03.2018 16:30",
+      "content": "ukrayna'da yakaladıkları türk erkeklerini dövmeleriyle ünlüdürler.\n\n\"turistik\" bir ziyaret sebebiyle ukrayna'ya gitmek isteyen suser varsa dikkat etsin derim. (bkz: swh)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "ukraynalı erkekler",
+      "entry_id": "117316186",
+      "author": "nekoyalimadimizi",
+      "date": "25.12.2020 05:47",
+      "content": "tabularınızı şaşırtıcı biçimde yıkabilirler. party animal sandığınız tipler dengeli evcimen olabilir hatta alkolün su gibi aktığını sandığınız hayatlardan özel günlerde sadece şarap içen insanlar çıkabilir. genellememek lazım",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "ukraynalı erkekler",
+      "entry_id": "152885460",
+      "author": "mare di liberta",
+      "date": "27.05.2023 23:52",
+      "content": "son birkaç ayda, iş icabı dünyanın dört bir yanından insanlarla tanışan biri olarak söylemeliyim ki, ukraynali erkekler gördüğüm en kibar ve saygılı erkekleri olmaya adaylar. hepsi mi ayni olur? evet, oluyormuş efendim. yapmaniz gereken işi yapip yardim ettiğiniz için bile öyle naif iltifatlarla ve samimi teşekkür ediyorlar ki, daha önce muhatap olduğu kişilerin ne denli kaba olduğunu farkediyorsunuz.",
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "ukraynalı erkekler",
+      "entry_id": "158126946",
+      "author": "joeyramone",
+      "date": "26.10.2023 12:00 ~ 14:43",
+      "content": "değil 2 gün 3 ay görüşüp hiç cinsellik kelimesi bile geçmeyen türk erkeklerinden çok farklılar. çok...\n\nsırf bu sebeple türk erkeklerinden çok farklı olmaları ilginç olan grup.\n\nedit: yazar bir arkadaşımız \"türk erkeklerinden çok farklılar 2 gündür konuşuyoruz hiç cinsellikten bahsetmedik, hep benden konuşuyoruz ehi ehi\" tarzı bir entry girmişti. ona istinaden girilmişti ancak kaçınca saçma bir entry olmuş. 2 gün cinsellik konuşmamış bu kişiler nedeniyle türk erkeklerini aşağılayıp ukraynalıları yere göğe sığdıramayan entrynin birden kaybolması kötü olmuş. kezban running...",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "ukraynalı erkekler",
+      "entry_id": "158127028",
+      "author": "liminori",
+      "date": "26.10.2023 12:03 ~ 12:34",
+      "content": "gerçekten çok yakışıklı ve çok tatlılar.\nsokakta her adım başı aşık olabileceğiniz tipler var (kumral seviyorsanız:))\nukraynada gece kulübünde biriyle tanışmıştım, çok güzel sohbet etmiş ve güzel vakit geçirmiştik.\nçok kibar, oldukça kaliteli bir çocuktu.",
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "ukraynalı erkekler",
+      "entry_id": "158127106",
+      "author": "arma yann tiersen",
+      "date": "26.10.2023 12:05",
+      "content": "(bkz: inanma seni sikecek)\n\nünlü düşünür doğu eşrefoğlu nun dediği gibi;\n\n\" aslan ceylanı yemeye 40 gün önceden karar verir de, 40 gün ortalıkta gözükmez karnının gurultusu duyulmasın diye \"",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukraynalı erkekler",
+      "entry_id": "158127362",
+      "author": "esemmateur",
+      "date": "26.10.2023 12:16",
+      "content": "biz türk erkekleri gibi değiller, 30'dan sonra çöküyorlar.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "ukraynalı erkekler",
+      "entry_id": "158127516",
+      "author": "tarzanbaba",
+      "date": "26.10.2023 12:21",
+      "content": "biz türk erkekleri gibi değiller.\n\nbiz seksi önden yapıp sonrasında muhabbet ediyoruz.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "CULTURE",
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "ukraynalı erkekler",
+      "entry_id": "158127756",
+      "author": "samet22",
+      "date": "26.10.2023 12:30",
+      "content": "kadınları güzel olduğuna göre aynı gen havuzdan gelen erkekleri de doğal olarak yakışıklıdır.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukraynalı erkekler",
+      "entry_id": "158127793",
+      "author": "babydonthurtme",
+      "date": "26.10.2023 12:32 ~ 16:29",
+      "content": "sevişmeyi düşünmüyorsa friendzone kümesine girmişsin haberin yok dediğim saplı cinsdaşlarım.\n\nbizim kültürde isteyerek ya da istemeyerek yapılan cinsel perhiz yaygın. muhafazakar ailenin çocuklarında zaten öyle bir hayat yok. arada, tek tük, belki de evlenene kadar hiç. aptal olmayan türk erkeği kolay kolay muhabbeti oraya getirmez. mecburen kadından gelmesini bekler. zaten şerbetli her türlü bekler mk. (bkz: swh) 2 güne getiren türk erkeği ağır abazadır ya da aptal olduğundan yanlış sinyal almıştır. ya da karakteri böyledir ondan uzak durmak gerekir onu da bad boy seven kızlar düşünsün.\n\nmalumunuz ukrayna'da böyle bir şey yok. ağır dindar değilse ki gençlerin çoğu değil, 3. buluşmadan sonra götü başı oynama başlar. 2 günde sevişmeye getirmez tabi onu yapan hayvandır. ama çok sürmeden gelecektir. gelmiyorsa kalemini kırmıştır, sende gözü yoktur.\n\nsen bilir kişi misin sen kimsin lan diyebilirsiniz. değilim götümden sıktım. yine de gözlemlerim iyidir. bu konuda kendime güvenirim. (bkz: swh)\n\nedit: katolik değil ortodoks imişler. salladım orayı dindar demek istedik işte. katolikler ağır dindardır. yine ben yine gözlem. (bkz: swh)",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "SEXUAL",
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "ukraynalı erkekler",
+      "entry_id": "158128252",
+      "author": "one time",
+      "date": "26.10.2023 12:49",
+      "content": "eğer ingilizce konuşuyorsa yüksek ihtimalle ukrayna'lı değildir ya da yazılımcıdır.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukraynalı erkekler",
+      "entry_id": "158129647",
+      "author": "kuzgunentor",
+      "date": "26.10.2023 13:40",
+      "content": "son derece bencil bir yazarın ilgisine mazhar olmuşlardan birini bünyesinde barındıran erkekler grubudur. 2 gündür sadece kendisinden konuşan bir kadın bencil ve benmerkezci bir kadındır, uzak durulması gerekir. yakında elin ukraynalısı da, rusu da ne olduğunu anladıktan sonra buraya gelip ağlayacak yazarları da ortaya sermiştir.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukraynalı erkekler",
+      "entry_id": "158129742",
+      "author": "howardroark",
+      "date": "26.10.2023 13:44",
+      "content": "kadınlar neden seks düşünmeyen erkekleri yüceltiyorlar? kendileri seks istemiyor mu? hem güzel güzel seks yaparak hem de birbirini tanımaya çalışarak fölrt edilemiyor mu?\nneden seks sadece erkeklerin kadınlardan rica ettiği bişi gibi algılanıyor?bunlardan bana ne? başka derdim mi kalmadı mk? gidiyorum ben, zaten karşı cins ilgimi çekmiyo afgadfg",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukraynalı erkekler",
+      "entry_id": "158129809",
+      "author": "che ernesto",
+      "date": "26.10.2023 13:47",
+      "content": "şanslı erkeklerdir. taş gibi hatunlarla birlikte oluyorlar. biz de burada ceberrut suratlı türk karılarla muhattap olalım. hayat slav erkeklerine güzel.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "ukraynalı erkekler",
+      "entry_id": "158130609",
+      "author": "more space",
+      "date": "26.10.2023 14:17",
+      "content": "su zamanda ukrayna'dan erkeklerin cikabilmesi icin askerlige elverisli olmamasi yada karisinin hamile filan olmasi lazim.\neger ukraynali gorduyseniz ve savastan 1 hafta sonra milli seferberlikten once ukranya'dan cikmadiysa kuvvetle muhtemel bu ozelliklere haizdir.\n\nbelki de allahin rus'unu ukraynali zannediyorsunuz.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY",
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukraynalı erkekler",
+      "entry_id": "158130657",
+      "author": "old school fucker",
+      "date": "26.10.2023 14:20",
+      "content": "cok ulke gezdim ve diyebilirim, ukraynali erkekleri ovecek kadar bir kadin abazan olmamali.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "SEXUAL",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "ukraynalı erkekler",
+      "entry_id": "158130863",
+      "author": "degismeyenperde",
+      "date": "26.10.2023 14:28",
+      "content": "rus ve ukraynalı çok arkadaşım var,\nukraynalı ile eğlenirsin, gezersin, sohbet muhabbet edersin.\n\nbaşın sıkışınca rus'u ararsın.\n\nben rusçuyum",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "ukraynalı erkekler",
+      "entry_id": "158131415",
+      "author": "oppah",
+      "date": "26.10.2023 14:48",
+      "content": "evet o kadar iyiler ki, avrupa‘da barlar, discolar, tinder, humble yabanci erkek arayan ukraynali kadinlarla dolu.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukraynalı erkekler",
+      "entry_id": "158131481",
+      "author": "returnofthecosmos",
+      "date": "26.10.2023 14:50",
+      "content": "türk erkekleri şöyle, türk erkekleri böyle diyorsunuz ama yaşadığım bölge ve ispanya'da da türk erkekleri kadınlar tarafından bayağı sevilir ve methedilir.\n\nsabırlı, naz çeken, kadını kollayan ve sahip çıkan, cömert diye anlatıyorlar sürekli hem eski sevgilileri hem arkadaşları hakkında. yani sizin gömdüğünüzü de seven var, bence pilavda bir numara yok, siz gerizekalısınız.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukraynalı erkekler",
+      "entry_id": "158131676",
+      "author": "abdullahin dislanmislik hissi",
+      "date": "26.10.2023 14:58",
+      "content": "entrylere bakilirsa varliklariyla kamilleri fena triggerlamis erkeklerdir.\n\nmal misiniz oglum hahahaha\n\n(bkz: yakisikli erkekler)dir.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ukraynalı erkekler",
+      "entry_id": "158133384",
+      "author": "turkiyeden bikan pilot",
+      "date": "26.10.2023 16:03",
+      "content": "cinsellik düşmanı kezbanlar tarafından övülen erkekler.\n\nallah sizin gibi ruh hastalarından bizi uzak eylesin.\n\nnedir oğlum sizin bu cinsellik düşmanlığınız? altın kaplamalı kukunuza çimento dökün de rahatlayın.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "GENDER-MORAL",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "ukraynalı erkekler",
+      "entry_id": "158133673",
+      "author": "strannaya jizn",
+      "date": "26.10.2023 16:15 ~ 22:45",
+      "content": "genç nesildekilerden bahsediyorsak:\n\n* tip olarak gayet düzgünlerdir, çoğu spora meraklıdır.\n* karakterleri sağlamdır, güvenilirlerdir.\n* özellikle rusya-ukrayna savaşından sonra dünyada da ukraynalı erkek hype'ı vardır. genel olarak cesur ve vatansever oldukları algısı yayılmaktadır.\n* kadına doymuşlukları olduğu için yanlarından çıplak model geçse dönüp bakmazlar.\n* genelde ataerkil bir bakışa sahiplerdir.\n* türk kadını için akıl karı bir seçim değildir, türk erkeği kadar hanımcılık yapmazlar.\n* ukraynalı kadınların en güzellerini de ukraynalı erkekler alır. bizimkilerin alabildiği kendilerinin bize bıraktıklarıdır.",
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "ukraynalı erkekler",
+      "entry_id": "158133750",
+      "author": "mkltkn",
+      "date": "26.10.2023 16:18",
+      "content": "(bkz: ukronazi)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ukraynalı erkekler",
+      "entry_id": "158133773",
+      "author": "psikopat manyak deli salak",
+      "date": "26.10.2023 16:19",
+      "content": "ukrayna’ya 1 haftalığına tatile gitmiştim lvive gittiğimde 1 haftalık süreçte takıldığım yaklaşık 6 bayanın hepsi evli cuckold bayanlardı. tinderdan düşenlerin çoğu öyle hatta 2 sini sonradan öğrenmiştim kocasını arkadaşım diye tanıtıp aynı odada biz sevişirken arkadaşım o bir şey olmaz diyip aynı odada sevişmiştik",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "SEXUAL"
+      ]
+    },
+    {
+      "title": "ukraynalı erkekler",
+      "entry_id": "158133806",
+      "author": "yunanmitolojisi",
+      "date": "26.10.2023 16:20",
+      "content": "(bkz: ne anlatıyon be abla gözünü seveyim be abi)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukraynalı erkekler",
+      "entry_id": "158133820",
+      "author": "i destroy you",
+      "date": "26.10.2023 16:21",
+      "content": "(bkz: yaran yanlış okumalar)\n(bkz: uzaylı erkekler)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukraynalı erkekler",
+      "entry_id": "158134309",
+      "author": "masterpiecer",
+      "date": "26.10.2023 16:38",
+      "content": "ukrayna'da geçirdiğim günlere nazaran, bizim erkeklerimize kıyasla \"tam bir ayı\" tipinde olanlardır.\n\nevlenene kadar gayet yağlayıp ballayıp sonrasında ise (hepsi değil ama çoğu) köle gibi davranıyorlar. bizzat bazı ukraynalı kadın/erkek arkadaşlarımdan biliyorum biraz daha.\n\nbizim erkeklerimiz de 10/10 değil ama temel duygular ve davranış olarak avrupa erkeklerine taş çıkarırlar(bizdeki şiddet bağımlı orospu çocuklarını da saymazsak). tabi ki cinsellik bu ülkede geleneksel bir tabu olduğundan dolayı kafaya küçükken işlenmiş şeyler var ama bunları aşmak ölümcül veya imkansız değil.\n\nnot: bu toprakların çıkardığı erkek gibi erkek.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CULTURE",
+        "SEXUAL"
+      ]
+    },
+    {
+      "title": "ukraynalı erkekler",
+      "entry_id": "158134501",
+      "author": "kaanarici06",
+      "date": "26.10.2023 16:46",
+      "content": "buradaki erkeklerin çoğu bunlara kayar geçer çünkü çevrelerindeki kadınlardan daha güzeller.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "ukraynalı erkekler",
+      "entry_id": "158134512",
+      "author": "namusu bacak arasinda arayan kirkayak",
+      "date": "26.10.2023 16:46",
+      "content": "cinselliği başımıza kaka kaka 200 gb porno arşivi yaptım sizin yüzünüzden amına koyim.\n\nsikimiz var diye güdülerimize yenik düşüyoruz diye yıllar kendimi kasa kasa maymuna döndüm. kul olma kuul ol diye diye kuyruğu sürekli dik tutmayı adet edindik, ee sonra bir bakıyoruz ki oğlum sizler cayır cayır sevişiyorsunuz amk. erkekleri niye baskı altına aldınız yıllarca? coğrafya kederdir amk.\n\npeygamberin benden daha hareketli cinsel hayatı vardır, yoksa beni yatırıp sikin, en azından hareket gelir.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "SEXUAL"
+      ]
+    },
+    {
+      "title": "ukraynalı erkekler",
+      "entry_id": "158134578",
+      "author": "kafaylagolatankaleci",
+      "date": "26.10.2023 16:49",
+      "content": "bir çoğu türk kadınlarından güzeldir.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "ukraynalı erkekler",
+      "entry_id": "158134896",
+      "author": "geceye turp sikan adam",
+      "date": "26.10.2023 17:01",
+      "content": "ukraynalı kadınlar övülüp türk kadınları eleştirilse başlığın altının ne hale geleceğini hepimiz tahmin edebiliyoruz sanırsam. ancak tersi yapılınca öyle şeyler olmuyor. ha normal olanı olmaması zaten ama bu çifte standart içeren tavır insanın dikkatini çekiyor.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "ukraynalı erkekler",
+      "entry_id": "158135164",
+      "author": "zapiiski iz kieva",
+      "date": "26.10.2023 17:11",
+      "content": "yukarıdaki entry'de bahsedilen şekilde cinsellik muhabbeti geçmeme sebebi 13-14 yaşından itibaren cinsellikle tanışmış olmaları, kadınlarla ilişki konusunda bariyerler olmadığı için sorun yaşamıyor olmaları. çok çok güzel bir kızın, erkeğin sadece sırtına, sivilcesine, burnuna, ağzına, omuzlarına keyifle baktığı için gidip rahat rahat konuşuyor olması. kısacası kadınların yetişme tarzı sebebiyle erkeklerin de buna uygun olarak cinsel tecrübeden cinsel eğitime gayet güzel bir duruma gelmesi. \"ilk adımı erkek atar, hesabı erkek öder\" gibi ortadoğu toplumu kurallarından uzak olmaları. bahsettiğin kişi seninle şu anda cinsellik konuşmuyor çünkü fındık üstünde fıstık kırmış birisi. ama kendini çekip \"ben 5. buluşmaya kadar seks yapmıyorum\" diyebilir misin? hayır işte, olay da orada başlıyor. sen ukraynalı erkekle daha rahat olacaksın, onunla seksi daha kolay yapacaksın bir türk erkeğine göre. bilmem anlatabildim mi? türk erkeğinin 40 yaşında ulaştığı cinsel seviyeye 23-24 yaşında çoktan ulaşıyorlar. bariyer yok, sınır yok.\n\naynı örneği bu yaşıma geldim yine veriyorum. örneğin ben ukrayna yerine 8 yıl türkiye'de yaşamış olsam kaba tabirle score denilen olay bu seviyede olmazdı. kadınlarla ilişkilerim saçma sapan seviyelerde olurdu çünkü toplum sebepli içe kapanan, hayatı sadece futbol ve siyasetten ibaret gören bu yüzden de sanki seks para kazananların yaptığı bir şeymiş gibi it gibi çalışarak para kazanıp karıyla kızla yer, sonra boşluğa düşerdim. ukrayna, rus, belarus, çek, polonya dediğimiz bölgeden kadınlarla iletişim olduğunda ve gözünü biraz açtığında işler farklı boyutlara ulaşıyor. örneğin erasmus'a giden türk kızı muhabbeti gibi, slavik ülkelerde yaşayan türk erkeği de başka bir cinsel tatmin seviyesinde ve tecrübesinde oluyor. \"göstereyim ama elletmeyeyim\" gibi bir şey, ukrayna-rusya'da yaşamış bir erkeğe karşı yapamazsın. türk erkekleri ukrayna'da olduklarında çok rahat oluyorlar ve bütün bunların olması için kadınların dibine düşmene gerek yok. seni beğenen kendisi gelip konuşuyor. kendisi senden numara alıyor. arkadaşını araya sokup muhabbet kuruyor. seks dediğin şey ne tabu oluyor ne de ulaşılacak bir şey. kızlar teklif ediyor denilen olay zaten bir norm. bu yüzden de eğer patolojik sorunların yoksa ukrayna'da ilişkilerde hemen seks muhabbeti ile başlamıyorsun çünkü orayı aşmış oluyorsun. aklındaki tek soru işareti ten uyumu oluyor \"acaba seks yapabilecek miyim?\" sorusu değil.\n\ntürk kızları olarak kendinizi türk erkeklerine tanıtma şeklinizle ukraynalı erkeklere tanıtma şeklinizde fark olduğu, yaşadığınız toplumun dinamikleri sebepli başka pasaport görür görmez otomatikman bir nebze daha rahat olduğunuz için size bütün türk harici erkekler akıllı, seksi, romantik geliyor. üşenmemiş olsam buraya ukrayna ve rus erkeklerinin kadınlara uyguladıkları şiddetlerin istatistiklerini paylaşırdım. sadece ben kaç defa dayaktan yanıma kaçan arkadaş sahibi oldum. \"siz türk erkekleri kadınlarla daha romantik, daha yumuşaksınız\" diyen yüzlerce kendim ve etrafımda yaşayarak gördüğüm ukrayna kadını örnekleri sayardım eğer başlık o odakta olsaydı. sen ukrayna erkeklerini gözünde melek olarak görebilirsin keza biz türk erkekleri de aynı seviyede ukrayna ve rus kadınlarını görüyoruz. e şimdi ne olacak? kim haklı? türk kızlarından yaka silkip ukraynalı adriana lima güzelliğinde kızla kolaylıkla seks yapıp cennete düştüğünü düşünen erkek mi? yoksa ukraynalı erkeklerin seksi, karizmatik, romantik olduğunu düşünüp onlarla türk erkeklerine nazaran daha kolay seks yapan türk kızları mı? hangi taraf haklı? bildiğin boşluğa düşüyoruz bunu tartışacak olsak. ama aslında iki taraf ta haklı değil ortada bir ilüzyon var. dışa açılınca da hepimiz karşı cinsi suçlarken aslında suçlamamız gerekenin toplum olduğunu bilemiyoruz.",
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "SEXUAL",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "ukraynalı erkekler",
+      "entry_id": "158135908",
+      "author": "kymelria",
+      "date": "26.10.2023 17:39",
+      "content": "1 yıla yakın ukraynada yaşamışlığım var. emin olun burada bahsettiğiniz erkekler 1 elin parmaklarını geçmez. bu tür erkekler ya gerçek ortodokstur ya da evli falandır.\ngençlerin geneli ellerinde bira şişeleriyle gezer. öyle kaliteli markalar da değil, bildiğin litrelik pet şişe biralar. genelde parklarda vs takılır, oradaki alet edevatla spor yapar falan.\n\ngopnik diye arattın bi zahmet.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "ukraynalı erkekler",
+      "entry_id": "158137786",
+      "author": "themadjoker",
+      "date": "26.10.2023 18:53",
+      "content": "bu erkekler güzelliğe ve sekse doymuş olduğu için bizim kezolara farklı geliyor. adam zaten istediği anda kavuşuyor buna. neden konusunu açsın ki?",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "ukraynalı erkekler",
+      "entry_id": "158156310",
+      "author": "the galapagos",
+      "date": "27.10.2023 08:40",
+      "content": "böyle bir başlık mı varmış lan?\nneyse hemen herifleri analiz edip onlar gibi olmaya çalışacağım.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukraynalı erkekler",
+      "entry_id": "158157031",
+      "author": "ottowagner",
+      "date": "27.10.2023 09:17",
+      "content": "hatta 2 sini sonradan öğrenmiştim kocasını arkadaşım diye tanıtıp aynı odada biz sevişirken arkadaşım o bir şey olmaz diyip aynı odada sevişmiştik? hastalık mı kaptın amk bu nasıl cümle yapısı böyle?",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "SEXUAL"
+      ]
+    },
+    {
+      "title": "ukraynalı erkekler",
+      "entry_id": "158157332",
+      "author": "spozhmai",
+      "date": "27.10.2023 09:30 ~ 10:12",
+      "content": "sayelerinde aşağılık kompleksli yıkık tiplerin \"adamlar sekse doymuş ağbi, ondan.\", \"bizim kezolara bakmazlar ağbi.\" şeklindeki avuntularını okuduğumuz erkekler.\n\nhe evet, ukrayna komple seks. ukrayna sınırından bir giriyorsun, herkes sıka sıka ilerliyor (bkz: swh) yahu güzel kardeşlerim, inanmazsınız ama dünya üzerindeki pek çok erkeğin hayat motivasyonu sağlayan özel zevkleri, hobileri var ve bu seks olmak zorunda değil. tuhaf geliyor size, anlayabiliyorum ama herkesin yaşam amacı \"kimle flört edebilirim, kiminle seks yapabilirim?\" üzerine kurulu değil. kaldı ki sizlerdeki cinsel açlık da değil, aç insan doyar, sizin sorununuz aç gözlülük. \"ona da atlayam, buna da atlayam\" diye düşünene kadar yeni bir dil öğrenseniz, kendinizi geliştirseniz daha iyi olacak aslında. bir de kalkıp kendi ülkenizin kadınlarına nefret kusuyorsunuz utanmadan...\n\nkonumuza dönecek olursak ukraynalı erkekler, yetiştirildikleri aileye ve çevreye göre farklı farklıdır. ayyaşı da vardır, karısını döveni de, kibarı da, centilmeni de... bir türk kezbanı olarak, en iyilerinden ve yakışıklılarından ikisinin çekirdek ailemizin bireyi olmalarından büyük mutluluk duyuyorum. onlardan yola çıkarak genelleyecek olursam çok delikanlı, efendi adamlardır. şu yazdıklarınızı okusalar \"kadınlarla nasıl böyle konuşabilirsiniz?!\" diye önce şok olur, sonra da kafa atarlar muhtemelen (bkz: swh)\n\nedit: bak bak, nasıl eksiliyorlar (bkz: swh) toynaklarınızı vura vura eksileyin, belki öfkenizi dizginleyebilirsiniz.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "SEXUAL",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "ukraynalı erkekler",
+      "entry_id": "158157393",
+      "author": "maminism",
+      "date": "27.10.2023 09:32",
+      "content": "sscb kalıntısı ruscuklardır",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ukraynalı erkekler",
+      "entry_id": "158157675",
+      "author": "ahanbele",
+      "date": "27.10.2023 09:44 ~ 09:44",
+      "content": "ukraynalı kadınlar sayesinde cenneti yaşadıklarını düşündüğüm erkeklerdir.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "ukraynalı erkekler",
+      "entry_id": "158159563",
+      "author": "erhan2020",
+      "date": "27.10.2023 11:00 ~ 11:01",
+      "content": "geçen iki tane gym'de gördüm.\nişin komik yanı bu manyaklar soyunma kabininde değil direkt herkesin içinde donu indirdiler. soyunma odasına girdiğimde sağa hafif baktığımda koca iki beyaz yanak görmek baya şok ediciydi.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "SEXUAL"
+      ]
+    },
+    {
+      "title": "ukraynalı erkekler",
+      "entry_id": "158160274",
+      "author": "bastir kiton",
+      "date": "27.10.2023 11:25",
+      "content": "batılılara göre kavruk tenliler, göç ilk başladığında türk sanıyordum bunları, alman'dan daha çok türk'e benziyorlar. hatta apaçi gibi giyiniyorlar. ya bu moda gurbetçilerde yok, türkiye'de de bile bitti diye düşünürken, bir bakmışsın ukraynaca konuşuyorlar.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ukraynalı erkekler",
+      "entry_id": "158162750",
+      "author": "qutrit",
+      "date": "27.10.2023 12:58",
+      "content": "kadınımız da erkeğimiz de ruh hastası amk.\n\nyabancı insanlar hakkında düşündüklerimiz, aşağılık hissimizi ele veriyor.\n\nukrayna özelinde, kadın erkek bedenen sağlıklı görünüyorlar. ama çirkin ukraynalı kadın da gördüm, hepsi güzel değil.\n\nkadın ya da erkek, daha güzel görünmelerinin en büyük sebebi, açık ten mavi göz kombinasyonunun ülkemizde az olması. onların da cildi bozuk olanları, vücudu orantısız olanları vs var. japonları ve korelileri ayırmak başta zor gelir ya, mavi gözlü açık tenlileri de bazıları başta ayırt etmekte zorluk çekiyor galiba.\n\ngüzel görünmelerinin başka bir sebebi de, giyim tarzları. şık değil ama seksi giyinmeyi biliyorlar. bizim yeni nesil de seksi giyinmeyi biliyor mesela, bizim eski zamanlara göre çok daha güzel gelmiyorlar mı?\n\n“sekse doymak” da çok iddialı bir laf. türkiye’de tabu olabilir ama yine de sevişen sevişiyor. her türk vatandaşı 30 yaşına kadar bakir/bakire dolaşmıyor.\n\nhem, her gün sevişince millet gerçekten doyuyor mu sanıyorsunuz? harvey weinstein niye doymamış o zaman? lolita express ‘in müşterileri türk mü? prens andrew yahu, tipsiz de olsa prenslik kontenjanından ingiltere’de yaşayan biri olarak bir sürü kadını yatağa atmıştır, neden lolita express’e kadar düşmüş? bu iş için (16 yaşında kızlar dahil) para vermesi gerekirmiş gibi…\n\nya da, sscb çöktükten sonra ukraynalı kadınlar fuhuş için sadece türkiye’ye mi geldiler? avrupa’da da çok büyük bir fuhuş pazarı var. avrupa’da cinsel özgürlük yok mu?\n\nalmanya’da da abaza alman erkekleri gördüm bol bol.\n\nçok sayıda ukraynalı erkek tanımıyorum, etrafta gördüklerimin çoğu cahil ve kaba geliyor (okumuşunu da gördüm, onlar gerçekten centilmen).\n\nkadınları ise, eğitimli de olsalar, biraz paragözler (eğitimsiz olanları kaba).\nalmanya’da yaşayan ukraynalı bir kadın tanıyorum. 40 yaşlarında, avukat yardımcısı, alman kocası mühendis, tek çocukları var, müstakil evleri kendilerinin. daha çok para kazanacak diye kocasını bırakıp 4 yaşındaki çocuğuyla bir kaç seneliğine arabistan’a gitti. baba kişisiyle senede 5-6 kere tatillerde buluşuyorlar. sanki açlıktan ağızları kokuyor da, 4 yaşındaki çocuğunu, gelişme çağının en kritik döneminde, babasından ayrı tutuyor.\n\n2 senede fazladan ne kadar yapabilir, 200 bin euro olsun (hayatta o kadar değildir de, mesela). zaten yıllık gelirleri iki kişi minimum 150 bin euro vardır, sahip oldukları ev en ucuz 500 bin euro’dur. çocuğunun mutlu olmak için lacoste tişörte değil, babasına ihtiyacı var.\nfazladan 200 bin zengin yapmaz ama çocuğunun ruh sağlığını bozar (kocasıyla ilişkisi, sevişemedikleri zamanları falan saymıyorum).\n\nukraynalı kadınların, bizim ukrayna’daki kekolara da en çok para için yanaştıkları malum.\nukraynalı erkeklerin asıl sorunu, kadınlarını cezbedecek kadar para kazanmak olabilir (ve muhtemelen onlar da maddiyatçılar).\n\nyabancılarla evlenen türk erkekleri sanki bir çeşit itaat, yabancıyla evlenen türk kadınları da egzotizm arıyor.\nherkes öyle değildir tabi de, benim gördüklerim böyle (özellikle de almanya, gördüğüm alman damatların %90ı sosyal fobili ezik tipler, mesleğinde becerikli mühendis falan olabilirler ama barda tanımadıkları bir kızın yanına gidip beraber şarap içecek özgüvenleri yok, bizim kızlar kapmasa gider kendilerinden 10-15 yaş büyük boşanmış alman kadınlarla evlenecek profildeler, ezici çoğunluğu tipsiz).",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ukraynalı erkekler",
+      "entry_id": "158164307",
+      "author": "reinne",
+      "date": "27.10.2023 13:58",
+      "content": "bu sozlugun en pis isini ben yapiyorum. kanalizasyon iscisi ya da bok bocegi gibi birseyim. basliktaki en sikindirik fikri bulup cimbizla cekmek gibi bir misyon edindim kendi kendime. faydali oldugumu dusunuyorum.\n\nbugunku bokumuz su: “ukrayna’dan erkeklerin cikabilmesi icin savasa elverisli olmamasi lazim. gordugunuz muhtemelen rus koylusudur”\n\ntabi ya! ukrayna hukumeti “savas var, erkekler cikamaz” dedigi icin hicbir ukraynali erkek ulkesini terk etmedi. zaten biliyorsunuz ukrayna sinirlari cinsiyet tanima sistemli cok gizli bir teknolojiyle korunuyor. bir ukraynali erkek askere degil de polonya’ya falan gitmeye calisirsa ne oldugunu anlayamadan super mario gibi direkt kharkiv’de respawn oluyor.\n\ngercek su ki; sadece almanya ve polonya’da 18-60 yas arasi toplam 600.000 ukraynali erkek multeci var. butun ukraynali erkekler savasa falan gitmedi. hatta su an ukrayna’da olanlarin bile cogu askere alinmadi. korkak olduklarindan falan degil. ihtiyac yok ve gereklilik yok. hadi 50 yas ustu, hasta, baskasina bakmakla yukumlu olanlari cikaralim. yine en az 10 milyon erkek kalir. 10 milyonluk orduyu ne yapsin ukrayna? nasil besleyeceksin? nasil donatacaksin? oyle eline bir mosin nagant uc tane de kursun verip yallah cepheye de diyemezsin.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

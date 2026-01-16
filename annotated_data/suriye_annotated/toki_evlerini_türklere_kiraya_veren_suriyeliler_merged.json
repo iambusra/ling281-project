@@ -1,0 +1,60 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:08:33.238790",
+    "total_entries": 4,
+    "input": "toki evlerini türklere kiraya veren suriyeliler",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "toki evlerini türklere kiraya veren suriyeliler",
+      "entry_id": "169599891",
+      "author": "cinayet saatinde uyuyakalmak",
+      "date": "26.10.2024 17:09",
+      "content": "ümit özdağ açıklamasıdır. vatandaşlık alan ve tokiden ev sahibi olan suriyeliler, evlerini evsiz, barksız türklere kiraya vermeye başlamış. bir şey diyeceğim de küfür zannedecekler o yüzden demiyorum.\n\nkaynak",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "toki evlerini türklere kiraya veren suriyeliler",
+      "entry_id": "169599989",
+      "author": "geckalmisyazar",
+      "date": "26.10.2024 17:15",
+      "content": "ülkenin mültecisi artık biz olduk kabul edelim.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "toki evlerini türklere kiraya veren suriyeliler",
+      "entry_id": "169600015",
+      "author": "en sonunda",
+      "date": "26.10.2024 17:16",
+      "content": "eserinle gurur duy akp!",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "toki evlerini türklere kiraya veren suriyeliler",
+      "entry_id": "169601968",
+      "author": "zamyatin",
+      "date": "26.10.2024 18:46",
+      "content": "türklere kiraya vermiyoruz vermiyoruz yallah da diyebilirlerdi.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE"
+      ]
+    }
+  ]
+}

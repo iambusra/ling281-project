@@ -1,0 +1,38 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:11:14.092310",
+    "total_entries": 2,
+    "input": "sevgilisinden gizli ukrayna'ya tatile giden erkek",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "sevgilisinden gizli ukrayna'ya tatile giden erkek",
+      "entry_id": "28233777",
+      "author": "hatasizcool",
+      "date": "20.04.2012 17:57",
+      "content": "döndüğünde sevgilisini aramayacak olan erkektir.erkekliğini bir kere bile tam olarak yaşadıktan sonra ne diye arasın.\ntabi ki haklı adam.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "GENDER-MORAL",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "sevgilisinden gizli ukrayna'ya tatile giden erkek",
+      "entry_id": "28233819",
+      "author": "irmikyus",
+      "date": "20.04.2012 18:01",
+      "content": "sevgilisine haber verirse gidemeyeceğini bilen erkektir.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "GENDER-MORAL",
+        "CULTURE"
+      ]
+    }
+  ]
+}

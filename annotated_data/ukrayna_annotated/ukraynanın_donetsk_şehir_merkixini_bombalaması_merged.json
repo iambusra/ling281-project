@@ -1,0 +1,26 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:16:27.708290",
+    "total_entries": 1,
+    "input": "ukraynanın donetsk şehir merkixini bombalaması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukraynanın donetsk şehir merkixini bombalaması",
+      "entry_id": "138337514",
+      "author": "fuckyoulikeahurricane",
+      "date": "04.06.2022 22:07",
+      "content": "ingilizce veya türkçe hiç bir haber kaynağında olmayan her gün onlarca masumun öldüğü bombalamalardır.\n\nukrayna amerikadan aldığı yeni roketlerle donetsk şehir merkezini kendi vatandaşlarını öldürmektedir. savaşın her türlüsüne hayır! tüm dünyanın duyması gereken haber. neden herkes susuyor?\n\nhttps://instagram.com/…em_share&igshid=ymmymta2m2y=",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CRIME",
+        "HUMAN",
+        "POLICY"
+      ]
+    }
+  ]
+}

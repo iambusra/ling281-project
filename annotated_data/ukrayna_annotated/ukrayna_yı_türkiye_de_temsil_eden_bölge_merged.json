@@ -1,0 +1,108 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:08:13.068673",
+    "total_entries": 8,
+    "input": "ukrayna'yı türkiye'de temsil eden bölge",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukrayna'yı türkiye'de temsil eden bölge",
+      "entry_id": "49454034",
+      "author": "deady",
+      "date": "26.02.2015 01:00",
+      "content": "(bkz: madem canım sıkıldı o zaman troll'lük yapayım)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'yı türkiye'de temsil eden bölge",
+      "entry_id": "49454445",
+      "author": "denizleriastagel",
+      "date": "26.02.2015 01:18",
+      "content": "http://inciswf.com/1304375737.swf",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'yı türkiye'de temsil eden bölge",
+      "entry_id": "49454446",
+      "author": "turkiyeden bikan pilot",
+      "date": "26.02.2015 01:18",
+      "content": "(bkz: bi siktir git dedirten laflar)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'yı türkiye'de temsil eden bölge",
+      "entry_id": "49454801",
+      "author": "the loft",
+      "date": "26.02.2015 01:35 ~ 01:37",
+      "content": "babaları, analarına bir takım ihtiyaçları için uğramış olduğundan dünyaya gelmiş olan dallamaların kaale alınmayacak başlıklarından, entrylerinden bir diğeri.\n\nhangi izmirli sizleri nasıl acıta acıta sikti de böylesine dinmez bir sancı içindesiniz inanın merak ediyoruz.\nkeşke anlatsanız da bunları öğrensek.\n\nama asıl merak ettiğim şey,\nbunları yazarak bir sürü küfür alıyorsunuz ya,\nnasıl yüzsüz, nasıl şeref yoksunu insanlarsınız da hoşunuza gidiyor bu küfürler bile,\nmisal ananızın yüzüne baktığınızda o kadını bile küflenmiş, paslanmış, lağım çukuna dönmüş içiniz yüzünden küfürlere muhattap ettiğinizde hiç mi üzülmezsiniz?\nnasıl bir yaşam formusunuz gerçekten merak içindeyim.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE"
+      ]
+    },
+    {
+      "title": "ukrayna'yı türkiye'de temsil eden bölge",
+      "entry_id": "49465619",
+      "author": "obikapbubikap",
+      "date": "26.02.2015 16:01",
+      "content": "(bkz: kiev otobüsü)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'yı türkiye'de temsil eden bölge",
+      "entry_id": "49465934",
+      "author": "abbas isyanda",
+      "date": "26.02.2015 16:15",
+      "content": "sürekli egeliler ve akdenizlilere anasının zamanında yaptığı çılgın fantezileri yakıştıran orospu çocuklarının zırvalaması.\n\nbu orospu çocukları sabah akşam ege ve akdenizliler hakkında olur olmaz fanteziler üretirler.\n\nınsan beyni fizyolojik olarak asla çıkarmaz. hep toplama ile gider. mesela \"ben işe yaramazım\" diye bir düşünceniz var. temele inerseniz bu insanların anneleri bu kişilere çocukken \"sen işe yaramazsın\" dediğini farkedersiniz.\n\naynı şekilde ege ve akdenizliler hakkında sürekli fanteziler üreten kişilerle konuştuğunuzda annelerinin çocukken bu kişilere ege ve akdenizli erkeklerle yaşadığı fantezileri anlattığını görürsünüz.\n\nbu kesin bir olgudur. bu fanteziler beyinde öyle bir yer kaplar ki kişi ilerki yaşamında bu fantezilerle ile ilgili obsesif düşünceler geliştirir. hatta bu fanteziler doğrultusunda annesinin yaşantıları bu kişilerde değişik obsesif düşüncelere ve kompulsif davranışlara yol açar.\n\no yüzden bu kişilere hasta gözüyle bakınız. en yakın psikiyatri uzmanına tedavi ettiriniz.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE"
+      ]
+    },
+    {
+      "title": "ukrayna'yı türkiye'de temsil eden bölge",
+      "entry_id": "49466335",
+      "author": "cupe",
+      "date": "26.02.2015 16:35",
+      "content": "(bkz: putin bunu beğendi)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'yı türkiye'de temsil eden bölge",
+      "entry_id": "49483291",
+      "author": "sesver",
+      "date": "27.02.2015 08:35",
+      "content": "ukrayna deyince aklına güzel kızlar ve seks gelenleri gösteren gerçek. ama dostum o kızlar size parayla bile vermez.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "SEXUAL"
+      ]
+    }
+  ]
+}

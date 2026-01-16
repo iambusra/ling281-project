@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:04:24.195615",
+    "total_entries": 1,
+    "input": "suriyelilerin gitmesiyle gelen burukluk",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelilerin gitmesiyle gelen burukluk",
+      "entry_id": "170887014",
+      "author": "onlar bilmiyorlar bilseler yapmazlar",
+      "date": "09.12.2024 22:02",
+      "content": "bbc news\n\nmeğer adamlar yaşadıkları zulüm nedeniyle, canlarını ve ırzlarını korumak için gelmişler. vatanları kurtulunca bir an önce gitmek istiyorlarmış.\n\nbiz zorda kalan bir milleti, bu mecburiyetiyle onları baskılamışız, ezmişiz ve tahkir etmişiz.\n\nkeşke daha iyi davransaydık, bakınız gidiyorlar. çok acı bazı olaylar yaşandı. umarım iyi hatırlanırız.\n\nhele bir de çoğu türkçe konuşmuyor mu:) canlarım benim. suriye üzerinizden filistine giderken ziyarete geleceğiz inşaallah.",
+      "has_external_url": true,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN-POS",
+        "HUMAN"
+      ]
+    }
+  ]
+}

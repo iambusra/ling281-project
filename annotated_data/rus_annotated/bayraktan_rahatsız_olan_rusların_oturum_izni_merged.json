@@ -1,0 +1,26 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:33:24.154855",
+    "total_entries": 1,
+    "input": "bayraktan rahatsız olan rusların oturum izni",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "bayraktan rahatsız olan rusların oturum izni",
+      "entry_id": "158180018",
+      "author": "123 uydur",
+      "date": "27.10.2023 23:12",
+      "content": "gerçekten pes. böyle bir saygısızlığı insanın aklı almıyor. bu rahatlığı kim verdi size. biz bayramımızı kutlarken siz de paşa paşa o dalgalanan bayrağı izleyeceksiniz.\n\noturum izni iptali falan çok kibar kalıyor.. defolup gitsinler 5 yıl boyunca türkiye ye girmemek şartı ile.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "POLICY"
+      ]
+    }
+  ]
+}

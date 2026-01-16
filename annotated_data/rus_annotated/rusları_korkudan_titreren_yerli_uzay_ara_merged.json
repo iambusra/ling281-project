@@ -1,0 +1,84 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:28:28.486514",
+    "total_entries": 6,
+    "input": "rusları korkudan titreren yerli uzay ara",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rusları korkudan titreren yerli uzay ara",
+      "entry_id": "59750229",
+      "author": "manitunun cayirlarinda otlayan egeli",
+      "date": "05.04.2016 23:46",
+      "content": "halühazırda buna inanan olduğunu düşünmüyorum.\nlakin havuz medyası biraz gazlarsa yakında gerçekleştirileceğine inanan epey insan çıkacaktır. bir de niye sadece ruslar titriyor ki? titrerse tüm dünya titrer.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "rusları korkudan titreren yerli uzay ara",
+      "entry_id": "59750691",
+      "author": "nopasarann",
+      "date": "06.04.2016 00:02",
+      "content": "hahaahaha.\n\nkelimelerimi bile hak etmedi. gülmemle yetinin.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rusları korkudan titreren yerli uzay ara",
+      "entry_id": "59750746",
+      "author": "nick mi o ne la",
+      "date": "06.04.2016 00:03",
+      "content": "ihalesini cengiz inşaat almıştır!!!",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rusları korkudan titreren yerli uzay ara",
+      "entry_id": "59751137",
+      "author": "burhan nadir",
+      "date": "06.04.2016 00:18 ~ 00:21",
+      "content": "(bkz: kamaşullah)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rusları korkudan titreren yerli uzay ara",
+      "entry_id": "59751528",
+      "author": "bravekor",
+      "date": "06.04.2016 00:33",
+      "content": "son zamanlarda trollük çoluk çoluğun eline düştü. artık çok sıkıcı trollemeler var. ahh nerede o eski troller...",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rusları korkudan titreren yerli uzay ara",
+      "entry_id": "82169664",
+      "author": "başlık taşıyan",
+      "date": "10.10.2018 18:11",
+      "content": "(bkz: rusları korkudan titreren yerli uzay aracı)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "XENO"
+      ]
+    }
+  ]
+}

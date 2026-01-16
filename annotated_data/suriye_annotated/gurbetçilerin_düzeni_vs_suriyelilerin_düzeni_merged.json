@@ -1,0 +1,39 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:42:36.413420",
+    "total_entries": 2,
+    "input": "gurbetçilerin düzeni vs suriyelilerin düzeni",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "gurbetçilerin düzeni vs suriyelilerin düzeni",
+      "entry_id": "171048656",
+      "author": "ero01",
+      "date": "15.12.2024 15:43",
+      "content": "gurbetçilerin kurulu düzeni vs suriyelilerin kurulu düzeni olacaktı ama işte..neyse!\n\nmalum gündemimiz suriyelilerin ülkelerine geri dönmeleri.\n\nvatan aşkıyla yanıp tutuşan, soğuk kış aylarında vatan hayalleriyle içi ısınan gurbetçiler öve öve bitiremedikleri türk ekonomisi, sağlık sistemi, hasret kokan ülkelerine kavuşmak varken kurulu düzenlerini bozup cennet vatanlarına dönmezken,\n\nsuriyeliler savaştan çıkmış, yanık ve dökük, hastaneleri, doktorları, okulları, öğretmenleri, yaşam alanları, ekonomisi olmayan ülkelerine neden geri dönsün mantıklı bir açıklamasını bulamadım.\n\nmesela gurbetçiler bize suriyeliler ülkelerine neden geri dönmez çok net şekilde dürüstçe anlatabilirler.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "gurbetçilerin düzeni vs suriyelilerin düzeni",
+      "entry_id": "171048806",
+      "author": "kuzey korede secim heyecani yasayan adam",
+      "date": "15.12.2024 15:50",
+      "content": "suriyeliler daha delikanlı. adamlar gitmeyeceğiz diyor gitmiyor, gideriz diyor gidiyor.\n\nbizimkiler kamera gördüğü yerde kollu bacaklı ampule dönüşüyor ama vatanına gel deyince “yea ama düzen var yeğeenim biliyon? yoksa sokaklarda yaşıyoz biliyon” diye milleti yiyorlar.\n\niki yüzlüler bizim gurbetçiler. suriyeliler ciddi şekilde daha samimi bu konuda.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HATE",
+        "XENO",
+        "POS-STEREO"
+      ]
+    }
+  ]
+}

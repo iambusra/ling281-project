@@ -1,0 +1,78 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T16:44:05.418707",
+    "total_entries": 4,
+    "input": "1 temmuz 2024 suriyelilerin zırhlı araca sıkması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "1 temmuz 2024 suriyelilerin zırhlı araca sıkması",
+      "entry_id": "165897118",
+      "author": "post tenebras lux",
+      "date": "01.07.2024 18:41 ~ 18:47",
+      "content": "akp'liler sus-pus.\n\nbu olayların kayseri olayları ile alakası olduğunu sanmıyorum. erdoğan'ın açıklamaları ve suriye ile yakınlaşma sonrası esat karşıtlarının tepkisi gibi duruyor.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "1 temmuz 2024 suriyelilerin zırhlı araca sıkması",
+      "entry_id": "165897290",
+      "author": "kendime nick bulamadim yahu",
+      "date": "01.07.2024 18:47",
+      "content": "#165897118\n\nsus pus falan değiller ne yazık ki.\nbugün cumhurbaşkanının yaptığı açıklamaları dikkatlice okuyun",
+      "referenced_content": [
+        {
+          "type": "entry",
+          "title": "1 temmuz 2024 suriyelilerin zırhlı araca sıkması",
+          "entry_id": "165897118",
+          "author": "post tenebras lux",
+          "date": "01.07.2024 18:41 ~ 18:47",
+          "content": "akp'liler sus-pus.\n\nbu olayların kayseri olayları ile alakası olduğunu sanmıyorum. erdoğan'ın açıklamaları ve suriye ile yakınlaşma sonrası esat karşıtlarının tepkisi gibi duruyor.",
+          "has_external_url": false
+        }
+      ],
+      "referenced_entry_ids": [
+        "165897118"
+      ],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "1 temmuz 2024 suriyelilerin zırhlı araca sıkması",
+      "entry_id": "165897382",
+      "author": "chokonut",
+      "date": "01.07.2024 18:50",
+      "content": "utanmaz, arlanmaz, ar damarları çatlamış arap götü yalayıcıların savunacağı olaydır.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "1 temmuz 2024 suriyelilerin zırhlı araca sıkması",
+      "entry_id": "165897429",
+      "author": "kafkayaselam",
+      "date": "01.07.2024 18:52",
+      "content": "bunun affedilme gibi bir ihtimali yok, o asker hepimizin askeri.\ntanım: bilinen şeylerin kötü olaylarla kanıtlandığı şerefsiz saldırı.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CRIME"
+      ]
+    }
+  ]
+}

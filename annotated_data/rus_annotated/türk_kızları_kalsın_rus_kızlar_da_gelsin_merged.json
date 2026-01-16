@@ -1,0 +1,291 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:22:09.868497",
+    "total_entries": 20,
+    "input": "türk kızları kalsın rus kızlar da gelsin",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türk kızları kalsın rus kızlar da gelsin",
+      "entry_id": "10200329",
+      "author": "gregor sarmisaa",
+      "date": "27.10.2006 16:55",
+      "content": "(bkz: #8191363)",
+      "referenced_content": [
+        {
+          "type": "entry",
+          "title": "turk-kizlari-tedavulden-kalksin-rus-kizlari-gelsin",
+          "entry_id": "8191363",
+          "author": "gregor sarmisaa",
+          "date": "14.09.2005 11:06",
+          "content": "alternatif \"türk kızları bir yere gitmesin, rus kızlar gelsin\" kampanyası daha bi rasyonel durmaktadır.\n\n(bkz: hastasıyım rekabet ortamlarının)",
+          "has_external_url": false
+        }
+      ],
+      "referenced_entry_ids": [
+        "8191363"
+      ],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "türk kızları kalsın rus kızlar da gelsin",
+      "entry_id": "10200446",
+      "author": "burky",
+      "date": "27.10.2006 17:18",
+      "content": "(bkz: kadinsaniz hepiniz birden gelin)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "CULTURE",
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "türk kızları kalsın rus kızlar da gelsin",
+      "entry_id": "10200456",
+      "author": "gelishine yarim vole",
+      "date": "27.10.2006 17:21",
+      "content": "(bkz: hanim sofraya bir tabak daha koy)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "türk kızları kalsın rus kızlar da gelsin",
+      "entry_id": "10200460",
+      "author": "esismen",
+      "date": "27.10.2006 17:23",
+      "content": "(bkz: türk misafirperverliği)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "CULTURE",
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "türk kızları kalsın rus kızlar da gelsin",
+      "entry_id": "10200461",
+      "author": "gelishine yarim vole",
+      "date": "27.10.2006 17:23",
+      "content": "(bkz: geri git ne bileyim)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "türk kızları kalsın rus kızlar da gelsin",
+      "entry_id": "10200515",
+      "author": "kunculu akit",
+      "date": "27.10.2006 17:37",
+      "content": "(bkz: bütün kızlar toplandık)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "türk kızları kalsın rus kızlar da gelsin",
+      "entry_id": "10200547",
+      "author": "continuum transfunctioner",
+      "date": "27.10.2006 17:47",
+      "content": "(bkz: gelsin gelsin oba makarna)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "CULTURE",
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "türk kızları kalsın rus kızlar da gelsin",
+      "entry_id": "10200550",
+      "author": "esismen",
+      "date": "27.10.2006 17:48",
+      "content": "(bkz: sana gelen bana gelsin)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "türk kızları kalsın rus kızlar da gelsin",
+      "entry_id": "10200557",
+      "author": "bi bakalim bu nick secilmis mi",
+      "date": "27.10.2006 17:49",
+      "content": "(bkz: allah gozunuzu doyursun)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "türk kızları kalsın rus kızlar da gelsin",
+      "entry_id": "10200564",
+      "author": "sadece okuyucuyum",
+      "date": "27.10.2006 17:50",
+      "content": "(bkz: ne yardan geçerim ne metresten)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "türk kızları kalsın rus kızlar da gelsin",
+      "entry_id": "10200566",
+      "author": "darkscar",
+      "date": "27.10.2006 17:52",
+      "content": "(bkz: gel gel ne olursan yine de gel)\n(bkz: gel gel gel cartele gel) (bkz: sonuncu olmadı gibi)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "CULTURE",
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "türk kızları kalsın rus kızlar da gelsin",
+      "entry_id": "10200653",
+      "author": "dr kula",
+      "date": "27.10.2006 18:18",
+      "content": "o'da gelsin,sende gel,hep beraber bir sinerji yaratalım diye düşünen türk erkeğinin temennisi.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "türk kızları kalsın rus kızlar da gelsin",
+      "entry_id": "10200719",
+      "author": "caranhithion",
+      "date": "27.10.2006 18:44",
+      "content": "(bkz: daha fazlasini iste)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "türk kızları kalsın rus kızlar da gelsin",
+      "entry_id": "10200848",
+      "author": "onio pitah ner",
+      "date": "27.10.2006 19:31",
+      "content": "(bkz: dünyanın bütün çiçeklerini istiyorum)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "türk kızları kalsın rus kızlar da gelsin",
+      "entry_id": "10200863",
+      "author": "gregor sarmisaa",
+      "date": "27.10.2006 19:35",
+      "content": "(bkz: gel gel gel hooop)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "CULTURE",
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "türk kızları kalsın rus kızlar da gelsin",
+      "entry_id": "10200870",
+      "author": "asikukla",
+      "date": "27.10.2006 19:37",
+      "content": "abazan bünyenin can çekişlerinin kelimelere dökülmüş hali..",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "SEXUAL"
+      ]
+    },
+    {
+      "title": "türk kızları kalsın rus kızlar da gelsin",
+      "entry_id": "10200991",
+      "author": "metamorpnus",
+      "date": "27.10.2006 20:27",
+      "content": "(bkz: imaj hiçbir şeydir susuzluk her şey)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "türk kızları kalsın rus kızlar da gelsin",
+      "entry_id": "114816589",
+      "author": "voyager altin plak",
+      "date": "27.10.2020 12:15",
+      "content": "(bkz: nüfusu arttırma yöntemleri)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "türk kızları kalsın rus kızlar da gelsin",
+      "entry_id": "158157632",
+      "author": "voyager altin plak",
+      "date": "27.10.2023 09:42",
+      "content": "katılmadığım önerme. ülke zaten mülteci kampına döndü, rus kızları da gelmesin valla oturacak yer kalmıyor.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "türk kızları kalsın rus kızlar da gelsin",
+      "entry_id": "175933348",
+      "author": "ocean ocean",
+      "date": "09.06.2025 18:41",
+      "content": "dileğiniz kabul oldu galiba",
+      "referenced_content": [],
+      "has_external_url": true,
+      "sentiment_numeric": 4,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:06:58.797938",
+    "total_entries": 1,
+    "input": "suriyelinin atış poligonunda işi nedir",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelinin atış poligonunda işi nedir",
+      "entry_id": "137954505",
+      "author": "akrep yelkovan",
+      "date": "27.05.2022 00:01",
+      "content": "biraz önce flash haber'de ümit özdağ'ın sormuş olduğu soru...\n\nkonuşmayi şu şekilde yazıya döktüm.\n\n--- spoiler ---\n\n\"atış poligonu pahalı bir spordur. bir, silahınız olacak. iki, yaptığınız her mermi başına para vereceksiniz.'ülkemde savaş var çatışmak istemiyorum. silahtan uzak durmak istiyorum' diyen ve türkiye'de yardım alarak hayatta kalan suriyelinin atış poligonunda işi nedir?\n\nbu soru cevaplandırılması gereken bir soru. neye hazırlanıyor, kim hazırlıyor. bu insanlara poligonlarda yakmış oldukları mermilerin parasını kim veriyor?\"\n--- spoiler ---",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "ECON"
+      ]
+    }
+  ]
+}

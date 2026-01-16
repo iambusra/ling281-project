@@ -1,0 +1,50 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:29:53.912190",
+    "total_entries": 3,
+    "input": "akp'den sonra suriyeli göçmenlerin durumu",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "akp'den sonra suriyeli göçmenlerin durumu",
+      "entry_id": "69258137",
+      "author": "kimberliitti",
+      "date": "05.07.2017 17:33",
+      "content": "bir partinin olmayan dış politikası yüzünden türkiye ye göçen insanların, o parti miladını doldurduktan sonra yaşayacakları durum\n\nolan başlık.\n\nburaya kan kusmaya gelenler, şimdiden hatırlatayım, akp den farkınız yok.\n\nsoyguncusu, dokturu, hırsızı, profesörü, katili, işçisi göç etti ancak gündem de sadece tek bir yüzleri var ve olabildiğince negatifleştirilmiş durumda.\n\ninternet de paylaşılan nice charles lynch ler, kendi cezasını kendisi vermeye başladı.\n\nyapanın da cezayı kesenin de davranış olarak tartışılacak bir yanı yok.\n\nkendisine referandumu kazandıran milyonlarca suriyeli göçmen, o gittiğinde ne yapacak?\n\nyerine gelen hükümet ile birlikte onları neler bekleyecek?\n\nne yapılmalı?",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "akp'den sonra suriyeli göçmenlerin durumu",
+      "entry_id": "69258195",
+      "author": "spinapubica",
+      "date": "05.07.2017 17:37",
+      "content": "parti miladini doldursun hele bir, o da bir $eydir...",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "akp'den sonra suriyeli göçmenlerin durumu",
+      "entry_id": "69258381",
+      "author": "kimberliitti",
+      "date": "05.07.2017 17:48",
+      "content": "bir miladı aşmanın yolu belki de sonrasını düşünmek olamaz mı?\n\npolitikacı gözüyle baksanız bile, o milyonlar şu an sizi dinliyor olsaydı milat çoktan aşılmamış mıydı?\n\ntürkiye rönesansına mı gidecek? yoksa cumhuriyetine mi dönecek?",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL",
+        "CULTURE"
+      ]
+    }
+  ]
+}

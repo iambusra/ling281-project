@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T14:57:10.967920",
+    "total_entries": 1,
+    "input": "otomatik silah atış poliganının surilerle dolması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "otomatik silah atış poliganının surilerle dolması",
+      "entry_id": "137882390",
+      "author": "newsky24",
+      "date": "25.05.2022 10:40",
+      "content": "yılmaz özdil'in bugünkü yazısında bahsettiği bizzat kendi gözlemidir.\n\nsadece tabancayla değil, otomatik silahlarla bile atış yapılan poligonların suriyelilerle dolu olduğunu belirten bir yılmaz özdil yazısıdır.\nbizzat kendisinin gidip görüp gözlemlediği olayları yazdığını belirtmiştir.\n\n18 yaş kuralına bile uymuyorlar diyor, 15 yaşındakiler bilematışmyapıyormuş.\n\nkendi ülkesinden savaş var diye türkiye'ye gelenler burada neden otomatik silahlarla atış talimi yapar?\n\nkaynak",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    }
+  ]
+}

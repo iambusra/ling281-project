@@ -1,0 +1,72 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:02:49.531103",
+    "total_entries": 5,
+    "input": "24 şubat 2025 bm'nin ukrayna oylaması sonucu",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "24 şubat 2025 bm'nin ukrayna oylaması sonucu",
+      "entry_id": "173088801",
+      "author": "cathars",
+      "date": "24.02.2025 21:08 ~ 21:25",
+      "content": "--- spoiler ---\nbm genel kurulu, rus birliklerinin ukrayna'dan derhal çekilmesini talep eden karar tasarısını 18'e karşı 93 oyla kabul etti.\n--- spoiler ---\n\nhaber değeri taşıyan kısmı ise 18 adet hayır oyu veren ülkeler arasında rusya'yla birlikte abd ve israil'in de olması. evet yanlış okumadınız. yeni suriye hükümeti, suudi arabistan, katar, libya, hindistan, ırak, çin, ermenistan gibi ülkeler ise çekimser kalmış. bana göre çekimser kalmak da bir nevi hayır demek.\n\nisrail de bu konuda abd ile aynı trene bindiğine göre belli ki suriye üzerinden çok büyük anlaşmalar dönmüş. koca koca ülkelerin çıkarları uğruna nasıl dansöz gibi kıvırdığını acı acı izliyoruz.\n\nkaynak: https://x.com/…onflicttr/status/1894075584575094825",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "24 şubat 2025 bm'nin ukrayna oylaması sonucu",
+      "entry_id": "173089764",
+      "author": "kardankara",
+      "date": "24.02.2025 21:30",
+      "content": "cinsi cinsine çeker derler. elbette otokratik liderler birbirine öykünecek, birbirlerini destekleyecekler. şaşırmadığım karar oldu kendi adıma. dünyayı kendi kafalarında taksim ettiler. zaten putin ve trump arasında söylemler, iddialar ve fikirler açısından çok fark yok. trump rusyayı çin'in palazlanmasına karşı bir güçsüzleşmiş müttefik, israil'i de ortadoğu'da bir çapa olarak görüyor. avrupa ise yeni düşmanları. dünya daha iyi bir yer olmayacak. bunu kendi adıma not düşeyim. belki de avrupa' yı bile kendi aralarında bölüştüler.\n\nama asla bu sürekli bir ittifak olamaz. bunu da tarih gösterecek. üç kutup beş eksenli dünya modeli diyor buna ama o kutuplar bir noktada çakışacak\n\nben bunu polonya'yı ikiye bölen hitler ile stalin' in gizli paktına benzettim.\n\nne olursa olsun bizim için iyi bir sonucu olmayacak.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "24 şubat 2025 bm'nin ukrayna oylaması sonucu",
+      "entry_id": "173094059",
+      "author": "kamusal adamin oglu",
+      "date": "24.02.2025 22:31 ~ 23:23",
+      "content": "bm bir boka yaramadığı için yine bir boka yaramayacak karardır.\n\nbu arada karşı oy, çekimser ve oylamaya katılmayanların toplamı evet oyuyla aynı. yani dünyanın yarısının s*ikinde değil bu savaşın bitmesi ihtimali.\n\nbu da oyları bölgesel olarak daha iyi anlamlandırabilmek adına oylama neticesinde şekillenen dünya haritası. el emeği göz nuru.\n\ngörsel\n\nnot: - afganistan abd'yi kendi topraklarından skip attığı için toplantılara katılamıyor.\n-batı sahra, tayvan ve kosova tanınmıyor\n- kıbrıs'ın tamamı tek parça gibi görünüyor ama orada anlı şanlı kuzey kıbrıs devleti var, fakat tanınmıyor.\n-grönland vs gibi bağımlı bölgeler temsil edilmiyor.",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "24 şubat 2025 bm'nin ukrayna oylaması sonucu",
+      "entry_id": "173095278",
+      "author": "kimjong",
+      "date": "24.02.2025 22:56",
+      "content": "bm hayalet ülkelerden ibaret ciddiye alınacak birşey yok",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "24 şubat 2025 bm'nin ukrayna oylaması sonucu",
+      "entry_id": "173110160",
+      "author": "cathars",
+      "date": "25.02.2025 12:40",
+      "content": "abd, rusya ve israil'in aynı safta olması 100 yılda bir görülen bir doğa olayı. tarihe tanık oluyoruz. en son 1945'lerde falan olmuştu bu.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    }
+  ]
+}

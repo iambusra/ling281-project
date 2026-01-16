@@ -1,0 +1,61 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:25:25.367687",
+    "total_entries": 4,
+    "input": "sevgilinin rusa gitmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "sevgilinin rusa gitmesi",
+      "entry_id": "33011320",
+      "author": "ojeli gramafon",
+      "date": "01.04.2013 00:47",
+      "content": "eski sevgilinin rus sevgili yapmasından çok daha kötü olan durum.\ndönerse senindir felsefesinin sıçtıgı noktadır. bir türk atasözünde dediği gibi giden gitmiştir gittiği gün bitmiştir. ben gideni değil giden beni kaybetmistir.\nüzülmüyoruz kızlar nefes almaya devam.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "sevgilinin rusa gitmesi",
+      "entry_id": "33011399",
+      "author": "paint it purple",
+      "date": "01.04.2013 00:50",
+      "content": "gönderen utansın dediğimdir.\n\nsevgili diyo bir de utanmadan... haydi 25 senelik bayık bir evlilik neticesinde olsa anlarım da daha sevgililik aşamasında herifi rus'a kaçıracak kadar ne yaptın be kızım derler adama. biraz kadın olun ciddiyim. yoksa ne mutlu olursunuz ne de mutlu edersiniz.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "GENDER-MORAL"
+      ]
+    },
+    {
+      "title": "sevgilinin rusa gitmesi",
+      "entry_id": "33011488",
+      "author": "birakyazarinolayim",
+      "date": "01.04.2013 00:53",
+      "content": "kadını da italyan'a gönderecek olay. (bkz: yiyorsa yap)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "sevgilinin rusa gitmesi",
+      "entry_id": "33011508",
+      "author": "panzel",
+      "date": "01.04.2013 00:54",
+      "content": "(bkz: kiev deplasmanı)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

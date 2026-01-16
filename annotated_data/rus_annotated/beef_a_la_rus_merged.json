@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:25:00.579368",
+    "total_entries": 2,
+    "input": "beef a la rus",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "beef a la rus",
+      "entry_id": "30747912",
+      "author": "noel gallagher",
+      "date": "29.10.2012 15:32",
+      "content": "mc donald's in rusya'da populer, cavdar ekmeginden yapilan hamburgeri.\n\nhttp://www.mcdpressoffice.eu/…/local_menu_items.pdf",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "beef a la rus",
+      "entry_id": "30747940",
+      "author": "oric",
+      "date": "29.10.2012 15:35 ~ 15:37",
+      "content": "rusya'yı ve fas'ı avrupa birliğinde sayıp, türkiye'yi saymayan mc donalds eu'nun yiyecek broşüründe yer alan seçenek.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    }
+  ]
+}

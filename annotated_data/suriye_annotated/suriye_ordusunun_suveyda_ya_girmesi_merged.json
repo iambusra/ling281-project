@@ -1,0 +1,96 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:47:02.865462",
+    "total_entries": 7,
+    "input": "suriye ordusunun suveyda’ya girmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriye ordusunun suveyda’ya girmesi",
+      "entry_id": "176821929",
+      "author": "amkya",
+      "date": "15.07.2025 10:31",
+      "content": "suriye ordusunun durzi bölgesi olan suveyda'ya an itibariyle dis mahallelerden giris yapmasidir. halep de dahil olmak üzere tüm birlikler bu bölgeye kaydirildi. ypg'nin bir hamle yapmasi halinde yarin cok farkli seyler konusabiliriz. suriye'de maalesef her sey bicak sirti. 1 günde iktidar degisebilir.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriye ordusunun suveyda’ya girmesi",
+      "entry_id": "176822006",
+      "author": "nickim yok sikim var",
+      "date": "15.07.2025 10:37",
+      "content": "ahmed eş şara kısa dönemde sükuneti ve huzuru sağlayacaktır. allah (svt) güç, kuvvet versin.\n\nt: suriye'de huzuru ve sükuneti sağlamak için şam ehlinin harekete geçmesi hadisesi",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "suriye ordusunun suveyda’ya girmesi",
+      "entry_id": "176822030",
+      "author": "portekizli forvet",
+      "date": "15.07.2025 10:38 ~ 10:39",
+      "content": "devletin, toprağına girmesidir.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriye ordusunun suveyda’ya girmesi",
+      "entry_id": "176822103",
+      "author": "kediye parmak atan cilgin fare",
+      "date": "15.07.2025 10:43",
+      "content": "israil denen şer yuvasının bu coğrafyayı rahat bırakmayacağı aşikar. şüphesiz, bir beyne sahip olanların bundan alacağı dersler vardır.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE"
+      ]
+    },
+    {
+      "title": "suriye ordusunun suveyda’ya girmesi",
+      "entry_id": "176822144",
+      "author": "bulutlari bekleyen",
+      "date": "15.07.2025 10:45",
+      "content": "abd suriye temsilcisinin \"tek devlet, tek bayrak, tek millet\" temalı konuşmasının ardından yaşanan gelişme.\n\nypg'nin tüm mızmızlanmalarına da \"suriye'de federasyon işlemez\" deyip rest çekmişlerdi.\n\ntürkmenlerin ve türkiye'nin etkisinin arttığı, üniter bir suriye, bizim için en iyi formül görünüyor.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriye ordusunun suveyda’ya girmesi",
+      "entry_id": "176822155",
+      "author": "murattemur",
+      "date": "15.07.2025 10:45",
+      "content": "suriye'de bir aleviler bir de türkmenler yeterince silahlanmamış. suriye ordusu değil terörist htş'nin üyeleri bir şehre girmiş. htş ve el şara teröristler. taaa özbekistan'dan gelen adamın suriye'de ki tek derdi terördür.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CRIME"
+      ]
+    },
+    {
+      "title": "suriye ordusunun suveyda’ya girmesi",
+      "entry_id": "176822198",
+      "author": "amkya",
+      "date": "15.07.2025 10:48",
+      "content": "aktrollerin birden toplanmasi ne alaka arkadas? devlet topragina giriyormus da, el sara sukuneti saglayacakmis falan. suriye'nin petrolünü elinde bulunduran ypg'ye sesini cikaramayan devlet ve yöneticisinden bahsediyorsunuz. ypg'yi söküp atamadiklari sürece, objektif bakildiginda mazlum abdi'nin sam'da oturmamasi tamamen kendi inisiyatifi. tercihi bu yani. simdi „onun da zamani var, devletaklii“ tayfa bögürür.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    }
+  ]
+}

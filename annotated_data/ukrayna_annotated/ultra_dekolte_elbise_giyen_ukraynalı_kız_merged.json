@@ -1,0 +1,87 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:21:20.673139",
+    "total_entries": 6,
+    "input": "ultra dekolte elbise giyen ukraynalı kız",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ultra dekolte elbise giyen ukraynalı kız",
+      "entry_id": "145058644",
+      "author": "the sound and the fury",
+      "date": "13.11.2022 19:50",
+      "content": "şu hanım kızımızdır uğruna rusyaya komünizme ihanet edilecek kızdır, adamı zelenski askeri yapar, dünyanın en güzel 8. harikasıdır https://www.instagram.com/…6z_/?igshid=ymmymta2m2y=",
+      "has_external_url": true,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POLICY",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "ultra dekolte elbise giyen ukraynalı kız",
+      "entry_id": "145058724",
+      "author": "strike",
+      "date": "13.11.2022 19:52",
+      "content": "şu ortamda bile amsalakların ilgisini çeken kız.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "GENDER-MORAL"
+      ]
+    },
+    {
+      "title": "ultra dekolte elbise giyen ukraynalı kız",
+      "entry_id": "145058741",
+      "author": "ben ne diyorum sen ne diyorsun",
+      "date": "13.11.2022 19:52",
+      "content": "bu elbiseyi çok beğeniyorum. aliexpress de görmüştüm",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "ECON"
+      ]
+    },
+    {
+      "title": "ultra dekolte elbise giyen ukraynalı kız",
+      "entry_id": "145059144",
+      "author": "zirguleli suzinak",
+      "date": "13.11.2022 20:01",
+      "content": "internetin gıdım gıdım aktığı şu saatlerde bile madencilik titizliğiyle şöyle şeyler bulup çıkartanlar ayrı bir kafa yapısına sahip.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "ECON"
+      ]
+    },
+    {
+      "title": "ultra dekolte elbise giyen ukraynalı kız",
+      "entry_id": "145059434",
+      "author": "outdoor",
+      "date": "13.11.2022 20:07",
+      "content": "mına koim, karının memleketinde her gün yüzlerce insan ölüyor, bu da am göt paylaşıyor. gerçi bunun akrabaları şu an antalya'da taşak keyfi yapmakla meşgul. ne biçim millet bunlar amk?",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ultra dekolte elbise giyen ukraynalı kız",
+      "entry_id": "145061353",
+      "author": "beer beer beer",
+      "date": "13.11.2022 20:45",
+      "content": "sadece kilolu olmayan kiz gorselidir. kilolu olmayan+full makyajli kizlar genelde cok guzel addediliyor. yuz kismina iyice bakin. iyiiiice bakin yani. guzel kiz cilt bakimi haric cok efor sarfetmiyor bence. guzel kiz eyyorlamam bu kadar.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "GENDER-MORAL",
+        "POS-STEREO"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:15:39.070335",
+    "total_entries": 1,
+    "input": "darth vader'ın ukrayna'dan toprak istemesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "darth vader'ın ukrayna'dan toprak istemesi",
+      "entry_id": "26205739",
+      "author": "corona borealis",
+      "date": "18.11.2011 17:36 ~ 17:37",
+      "content": "belediye'ye kızmıştır.\n\nhttp://www.haberturk.com/…h-vader-bana-toprak-verin\n\nhalbuki türkiye'de mis gibi 2b arazileri yağmalanıyorken... iki rekat kılıyormuş gibi yapsa alacak...",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CRIME",
+        "ECON"
+      ]
+    }
+  ]
+}

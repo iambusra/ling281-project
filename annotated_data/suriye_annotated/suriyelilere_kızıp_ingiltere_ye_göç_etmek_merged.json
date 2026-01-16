@@ -1,0 +1,74 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:59:07.714615",
+    "total_entries": 5,
+    "input": "suriyelilere kızıp ingiltere'ye göç etmek",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelilere kızıp ingiltere'ye göç etmek",
+      "entry_id": "167854178",
+      "author": "zeytinseven",
+      "date": "29.08.2024 12:14",
+      "content": "tam bizim beyaz türklere yakışır hareket. lafa gelince, türkiye göçmen deposu oldu, hepsi ülkesine def olsun gitsin der. kendisi aylarca belki yıllarca ingilizlerden vize bekler. e seni ingilizler istiyor mu peki?\nbu ne perhiz bu ne lahana turşusu. seni gittiğin ülkede çiçeklerle mi karşılayacaklar?\nbu arkadaşlar bir de suriyelinin eğitimlisinin avrupa tarafından seçildiğini söyler. onun tabiriyle elek altı, vasat olanların türkiye'ye doldurulduğunu anlatır. e doğru. bizim de eğitimli olanlarımızı alırlar mülteci olarak belki. bana türkiye'de zulmediliyor deyip siyasi iltica da isteyebilirsiniz. türkiye'de bedava üniversite eğitimi alıp kaçmaya çalışan bu mültecilere kallavi bir tazminat döşemek lazım. yok öyle buradaki hasan amcanın vergisi ile bedava eğitim alıp, boris'e hizmet etmek.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyelilere kızıp ingiltere'ye göç etmek",
+      "entry_id": "167854319",
+      "author": "varda yemez amca",
+      "date": "29.08.2024 12:20",
+      "content": "ingiltere'de suriyeli olmaktır.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyelilere kızıp ingiltere'ye göç etmek",
+      "entry_id": "167854649",
+      "author": "contorium yiyen balik",
+      "date": "29.08.2024 12:34",
+      "content": "suriyelilerden kaçarken hindistan ve pakistanlılara tutulacaktır.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyelilere kızıp ingiltere'ye göç etmek",
+      "entry_id": "167854694",
+      "author": "geographics",
+      "date": "29.08.2024 12:36 ~ 12:37",
+      "content": "teoman'dan duyup koşa koşa başlık açmayın. azıcık orijinal olun.\nmesela ingiltere'ye değil hollanda'ya göçün en azından.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyelilere kızıp ingiltere'ye göç etmek",
+      "entry_id": "167858773",
+      "author": "arma yann tiersen",
+      "date": "29.08.2024 15:18",
+      "content": "suriyeli değil de vandal diyelim,\n\nhiç demagoji yapmaya gerek yok,\n\nkimsenin ırka özel bir düşmanlığı yok,\n\ndışarıdan gelip, kural tanımaz, huzur bozan hareketler yapana özel bir tepki söz konusu\n\ngidenler, ingiltere'ye gidip bunları yapmıyor zaten.\n\ngayet ingiliz gibi, sistem neyse ona entegre olup yaşayıp gidiyorlar.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN-POS"
+      ]
+    }
+  ]
+}

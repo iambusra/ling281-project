@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T14:50:29.339052",
+    "total_entries": 1,
+    "input": "anketlere suriler ve afganlar dahil mi sorusu",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "anketlere suriler ve afganlar dahil mi sorusu",
+      "entry_id": "141469334",
+      "author": "seviyorsevmiyorseviyorsevmiyorseviyor",
+      "date": "18.08.2022 14:00",
+      "content": "akp'nin oyunun azaldığı söylenen anketlere cevap verenler arasında son zamanlarda vatandaş yapılmış ve hepsi akp neferi olan arap-afgan tipler de var mı sorusudur.\n\neğer yoksa seçimde sürpriz yaşama ihtimalimiz yüksek.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    }
+  ]
+}

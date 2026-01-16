@@ -1,0 +1,142 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:16:29.845465",
+    "total_entries": 9,
+    "input": "14 mart 2022 ukraynanın sivilleri bombalaması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "14 mart 2022 ukraynanın sivilleri bombalaması",
+      "entry_id": "134921979",
+      "author": "fuckyoulikeahurricane",
+      "date": "14.03.2022 13:24",
+      "content": "bugün bir kaç saat önce en az 20 sivil donets’te ukrayna bombalarıyla öldürülmüştür\n\nhttps://instagram.com/…m_share&utm_medium=copy_link\n\ngörüntüler +18.\n\nstop war!!",
+      "referenced_content": [],
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "14 mart 2022 ukraynanın sivilleri bombalaması",
+      "entry_id": "134922495",
+      "author": "fuckyoulikeahurricane",
+      "date": "14.03.2022 13:40",
+      "content": "göremeyenler için.\nhttps://www.instagram.com/…px/?utm_medium=copy_link\n\nbir çocuk ölmüş..",
+      "referenced_content": [],
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "14 mart 2022 ukraynanın sivilleri bombalaması",
+      "entry_id": "134943014",
+      "author": "sabahaddin ali",
+      "date": "14.03.2022 22:04",
+      "content": "böyle bir bombalamanın amacının ne olduğunu anlayamadığım olay. ukrayna gerçekten kendi halkını mı bombaladı, bunu yaptıysa neden yaptı? kasıtlı mıydı hata mı? dünya çok kötü bir yer.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "14 mart 2022 ukraynanın sivilleri bombalaması",
+      "entry_id": "135019828",
+      "author": "fuckyoulikeahurricane",
+      "date": "16.03.2022 19:12",
+      "content": "#134943014 donetsk uzun zamandır ukrayna'dan ayrı bir ülke ve her gün bombalanıyor. rusya askeri harekat sebebi bu yüzden ama değişen bir şey yok her şey aynı..",
+      "referenced_content": [
+        {
+          "type": "entry",
+          "title": "14 mart 2022 ukraynanın sivilleri bombalaması",
+          "entry_id": "134943014",
+          "author": "sabahaddin ali",
+          "date": "14.03.2022 22:04",
+          "content": "böyle bir bombalamanın amacının ne olduğunu anlayamadığım olay. ukrayna gerçekten kendi halkını mı bombaladı, bunu yaptıysa neden yaptı? kasıtlı mıydı hata mı? dünya çok kötü bir yer.",
+          "has_external_url": false
+        }
+      ],
+      "referenced_entry_ids": [
+        "134943014"
+      ],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "14 mart 2022 ukraynanın sivilleri bombalaması",
+      "entry_id": "135095276",
+      "author": "dertanyan",
+      "date": "18.03.2022 15:50",
+      "content": "ukrayna türkiye büyükelçiliğinin twitter hesabında kendi yaptıkları füze saldırısını rusya'nın yaptığı yalanı pompalanmaktadır.",
+      "referenced_content": [],
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "14 mart 2022 ukraynanın sivilleri bombalaması",
+      "entry_id": "135095371",
+      "author": "smyrnian eagle",
+      "date": "18.03.2022 15:53 ~ 15:55",
+      "content": "biz yine de ortamlarda mazlum ukrayna diyelim.\n\nuzun tanım: her iki savaşan ülkenin şeytana hizmet ederken çocuklarında olduğu bir grup sivili katleden insanlık dışı ukrayna faaliyeti.\nkısa tanım: (bkz: nazizm)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE"
+      ]
+    },
+    {
+      "title": "14 mart 2022 ukraynanın sivilleri bombalaması",
+      "entry_id": "135095384",
+      "author": "crowder",
+      "date": "18.03.2022 15:54",
+      "content": "gülsüm halilova ve nazgül kenzetay gibi yalancı kaltakların rusya'ya mal etmekte geç kaldıkları bir haber olabilir.\ngözden kaçırdıkları elbet oluyor.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "14 mart 2022 ukraynanın sivilleri bombalaması",
+      "entry_id": "135095575",
+      "author": "fabbbyy",
+      "date": "18.03.2022 15:59",
+      "content": "eger gerçekten ukranya vurduysa burdaki yalakalar yanlıslıkla olmus ve ya buna benzer bahane üreteceklerdir.\nyok rusya vurduysa ana avrat sövecekler.\n\nher seferinde söyledigim gibi olan hep sivillere olur.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "14 mart 2022 ukraynanın sivilleri bombalaması",
+      "entry_id": "135095868",
+      "author": "foreverhkn",
+      "date": "18.03.2022 16:08 ~ 16:21",
+      "content": "bugün paylaşılan görüntüler ayın 14'ünde rusya büyükelçiliği sayfasında zaten paylaşılmıştı. saldırının ukrayna tarafından yapıldığı çok açık çünkü donetsk'te lenin heykeli önünde ölü insanların görüntüleri de vardı ama ukrayna tarafından paylaşılan görüntülerde o yok. lenin heykeli detayı neden önemli? çünkü 2014'te yanukoviç'e yapılan darbe sonrasında artan milliyetçilikle beraber ukrayna'da lenin heykelleri bir bir yıkılıyordu. donbass bölgesi dışında kalan, de facto olarak ukrayna toprakları içerisinde bulunan son lenin heykeli kharkov'da yıkılmıştır.\nrusya büyükelçiliği paylaşımı\n\nsavaşın yine masum sivillerin ölmesine yol açtığı bombalamadır.",
+      "referenced_content": [],
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

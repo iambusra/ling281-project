@@ -1,0 +1,173 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:19:21.673627",
+    "total_entries": 13,
+    "input": "rus turist",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rus turist",
+      "entry_id": "37690587",
+      "author": "3 tas has hosaf",
+      "date": "17.10.2013 22:03",
+      "content": "(bkz: entry'ler arasında hızlıca dolaşıp http aramak)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus turist",
+      "entry_id": "58866192",
+      "author": "rulingus",
+      "date": "29.02.2016 17:40",
+      "content": "zaten bu efelenmeyle elde edecegi oylari elde etti. memleket zarara ugramis umurundami? isin sadece turizm boyutu bile devasa bir zarar isin birde diger ticaret kollari var meyvesi sebzesi vs. zaten ülkenin dogru dürüst ihrac mali yok olanlari da bu dahi insanlar yokediyorlar. artik o para yerine o dikilen rezidanslari köprüleri yeriz.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "ECON"
+      ]
+    },
+    {
+      "title": "rus turist",
+      "entry_id": "58892668",
+      "author": "abideihurriyet",
+      "date": "01.03.2016 21:26",
+      "content": "dünyada en sevilmeyen turist ırkıdır.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "rus turist",
+      "entry_id": "58892793",
+      "author": "mechaniccc",
+      "date": "01.03.2016 21:32",
+      "content": "türkiye'de özellikle turistik bölgelerde ekonomiye katkısı azımsanamaz. fakat son olaylardan sonra, ki o uçak vurulmasaydı demiyorum iyi ki vurduk, en az %50 %60 azalacağı kanaatindeyim. zaten son yıllarda giderek azalan bir grafik çizmekteydi. bunun sebebini antalya'da bulunduğum sırada piyasanın içinden olan aynı zamanda da yıllarca rusyada kalmış birinden öğrendim. ne kadar doğrudur bilemem: ruslar senede en az 1 kez tatil yapmazsa kafayı yer dedi. ama son yıllarda geldiğinde para bırakmıyorlar çünkü firmalar kampanya yapıp ucuza getirip konaklatıyor. onlarda bu kadar ucuz yol, yemek ve konaklama yapıyorken buradaki esnafa para bırakmıyor, pahalı geliyor gibi bir şeyler söylemişti. neyse boş verin. bu bilgi de kenarda dursun...",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "ECON",
+        "XENO"
+      ]
+    },
+    {
+      "title": "rus turist",
+      "entry_id": "70024218",
+      "author": "dogrulukpayi",
+      "date": "07.08.2017 11:58",
+      "content": "2017'nin ilk ayında toplam 5 milyon 205 bin 1177 ziyaretçinin giriş yaptığı antalya ziyaretçi sayısını geçtiğimiz yıla göre %63 arttırdı. artıştaki en büyük pay %4006’lık rekor artışla rus vatandaşlara ait.\n\ndetay lara buradan ulaşabilirsiniz.",
+      "has_external_url": true,
+      "sentiment_numeric": 4,
+      "categories": [
+        "ECON"
+      ]
+    },
+    {
+      "title": "rus turist",
+      "entry_id": "70024238",
+      "author": "mikelaencelo",
+      "date": "07.08.2017 11:59",
+      "content": "uzun vadede, türkiyeye en az dövizi getirdiği, genelde fakirlerinin geldiği vs söylenen turist tipi.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "ECON"
+      ]
+    },
+    {
+      "title": "rus turist",
+      "entry_id": "72163204",
+      "author": "dogrulukpayi",
+      "date": "16.11.2017 14:50",
+      "content": "sayısı 2016 yılında ciddi anlamda düşen, 2017 yılında ise 2015 yılının ötesine geçen turist grubudur. şöyle ki 2017 yılının ilk 9 ayında türkiye’ye giriş yapan rus turist sayısı 4 milyon 123 bin olmuş.\n\nkaynak: rus turist sayısı 2015'i geride bıraktı",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "ECON"
+      ]
+    },
+    {
+      "title": "rus turist",
+      "entry_id": "76061855",
+      "author": "dogrulukpayi",
+      "date": "16.04.2018 12:17",
+      "content": "türkiye seyahat acentaları birliği’nin istatistiklerinde 2017’de türkiye’ye giriş yapan yabancı ziyaretçilerin hangi ülkelerden geldiğinin verisi bulunuyor.buna göre ülkemize geçtiğimiz yıl en çok ziyaretçi yaklaşık 4,8 milyon kişi ile rusya’dan gelmiş.\n\ndetay: http://dogrulukpayi.com/…turkiye-nin-turizm-karnesi",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "ECON"
+      ]
+    },
+    {
+      "title": "rus turist",
+      "entry_id": "83579208",
+      "author": "dogrulukpayi",
+      "date": "22.11.2018 10:39",
+      "content": "ulaşabilen eski veri 1998 yılına ait ve 1999 yılından itibaren yükselişe geçen rus turist sayısı, 2016 yılında iki ülke arasındaki krizlerden dolayı 866 bin civarında kaldı. daha sonra düzelen ilişkilerle birlikte rusya’dan gelen turist sayısı, 2018’in ilk 9 ayında 5 milyonun üstüne kadar çıktı. bu sayı aynı zamanda şimdiye kadar görülen en yüksek rus turist sayısıdır.\n\nhttps://www.dogrulukpayi.com/…ekora-daha-imza-attik",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "ECON"
+      ]
+    },
+    {
+      "title": "rus turist",
+      "entry_id": "128650064",
+      "author": "bishaunen",
+      "date": "02.10.2021 12:37",
+      "content": "ülkeye gelmeden önce sosyal medya platformundan kalacağı otelde kalanlara çocuğuna \"kum seti\" bırakacak var mı diye soran kitledir. sonra turizm ciler neden rus turist sevmiyor derler. cevabı çok açık değil mi?",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus turist",
+      "entry_id": "128663817",
+      "author": "meartista",
+      "date": "02.10.2021 21:16",
+      "content": "bu sezon uçuşların başladığı ilk dönemde bir tık kalite görsek de ardından gelenler tüm işletmecileri hayal kırıklığına uğrattı. öncesinde gelen ukraynalılara asık suratla bakıp ruslara kadar sizi idare edecez diyen esnaf ukraynalıları arar oldu. bizzat şahit olduklarım ise ülkeyi 100 dolarlık bütçeyle gezmeye gelenlerdi. açıkçası tayland'dan beter pazarımız var artık.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "rus turist",
+      "entry_id": "139597124",
+      "author": "bayindiroglu",
+      "date": "05.07.2022 00:37",
+      "content": "gözlemlerime göre genel olarak patavatsızca ve kaba bir halk ve çoğu hiç yabancı dil bilmiyor.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus turist",
+      "entry_id": "177794453",
+      "author": "arachnid",
+      "date": "22.08.2025 22:18",
+      "content": "rus halkını ne derece yansıttığını merak ediyorum. buraya gelenler genelde sürekli bağırarak konuşan, gürültücü, kaba, çevresine rahatsızlık veren, medeniyetten nasibini almamış tipler.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    }
+  ]
+}

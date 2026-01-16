@@ -1,0 +1,76 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:13:16.664572",
+    "total_entries": 5,
+    "input": "türklerin suriyelilerden daha vahşi olması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türklerin suriyelilerden daha vahşi olması",
+      "entry_id": "92291557",
+      "author": "0 5 ucu olan adam",
+      "date": "07.07.2019 22:12 ~ 22:15",
+      "content": "sayın bakanımız süleyman soylu bugün açıkladı, türklerin suç işleme ihtimali daha yüksek.\n\nümmet birliği kardeşlerimiz suriyelilerden öğreneceğimiz çok şey var, vicdan, insanlık, hakkaniyet...\n\nzaten bunları sokaklarımızda, sahillerimizde de gözlemliyoruz. suriyeliler eğleniyor, gülüyor, coşuyor, etraflarına neşe ve bilgelik saçıyorlar.\n\numarım göçebe bozkır kültüründeyken islamla şereflenen türkler, suriyeli ensar kardeşlerimizden çok şey öğrenecek.\n\n2030'da 10 milyona ulaşacak suriyeli nüfusumuzla daha huzurlu olacağız.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "CULTURE",
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "türklerin suriyelilerden daha vahşi olması",
+      "entry_id": "92295952",
+      "author": "qappaq",
+      "date": "07.07.2019 23:40",
+      "content": "umarım oluruz da geldikleri yerlere sktr ederiz. türk, titre ve özüne dön!",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "türklerin suriyelilerden daha vahşi olması",
+      "entry_id": "92296171",
+      "author": "mert benim",
+      "date": "07.07.2019 23:44",
+      "content": "olsaydık burada olamazlardı",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "türklerin suriyelilerden daha vahşi olması",
+      "entry_id": "92296221",
+      "author": "prmhalil",
+      "date": "07.07.2019 23:45",
+      "content": "muhtemelen bu gidişle onlar kalsınlar siz dönün suriye'ye diyecekler",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "türklerin suriyelilerden daha vahşi olması",
+      "entry_id": "92296414",
+      "author": "nickiminnickinincikledim",
+      "date": "07.07.2019 23:49",
+      "content": "bunu diyen hangi gavatsa, belli ki hiç açıp tarihini okumamış. bizim milletimiz biraz cahildir, dik kafalıdır ama kesinlikle vahşi ya da acımasız değildir. (istisnalar kaideyi bozmaz.) özellikle dünya da sıcakkanlılığımız ve misafirperverliğimiz ile tanındığımızı göz önüne alırsak, kafa kesen arapların yanında, türkün esamesi bile okunmaz.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    }
+  ]
+}

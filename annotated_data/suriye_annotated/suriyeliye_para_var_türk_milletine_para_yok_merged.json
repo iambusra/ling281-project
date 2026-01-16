@@ -1,0 +1,26 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:07:37.093737",
+    "total_entries": 1,
+    "input": "suriyeliye para var türk milletine para yok",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeliye para var türk milletine para yok",
+      "entry_id": "103528146",
+      "author": "zorunluyasanmisliklar",
+      "date": "15.03.2020 01:21",
+      "content": "vergilerimizden suriye vatandaşlarına 40 milyar dolar para harcandı ama bizim kanımızdan canımızdan umreden gelen vatandaşımıza para yok öylemi!\n\neğer para varsa neden umreden gelen vatandaşlarımızla ilgilenilmedi?\n\nneden kendi hallerine bırakıldılar?\n\ndevlet tarafından karantina altına alınmaları gerekiyordu evlerine gönderildiler. şaşırılacak iş gerçekten.",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "ECON",
+        "POLICY"
+      ]
+    }
+  ]
+}

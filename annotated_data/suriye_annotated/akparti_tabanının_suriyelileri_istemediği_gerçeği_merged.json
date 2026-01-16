@@ -1,0 +1,26 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T15:33:52.191761",
+    "total_entries": 1,
+    "input": "akparti tabanının suriyelileri istemediği gerçeği",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "akparti tabanının suriyelileri istemediği gerçeği",
+      "entry_id": "69229071",
+      "author": "rokingen",
+      "date": "04.07.2017 11:57",
+      "content": "gerçekliği çevremizde defalarca test edilen bir tespittir. kadına, çocuğa insani yardımı herkes anlar, elinden gelince de yardıma katkıda bulunur. kastımız toplumsal düzeni bozan, tacizci tecavüzcüler...",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN",
+        "CRIME",
+        "SEXUAL"
+      ]
+    }
+  ]
+}

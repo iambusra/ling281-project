@@ -1,0 +1,110 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:23:04.643412",
+    "total_entries": 8,
+    "input": "25 nisan 2025 rus general suikasti",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "25 nisan 2025 rus general suikasti",
+      "entry_id": "174822242",
+      "author": "recomax",
+      "date": "25.04.2025 21:29",
+      "content": "rusya'nın başkenti moskova'da genelkurmay başkanlığı ana harekât dairesi başkan yardımcısı tümgeneral yaroslav moskalik bir arabanın patlatılması sonucu öldü.\nhttps://www.tasnimnews.com/…eral-moskalik-öldürüldü",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CRIME",
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "25 nisan 2025 rus general suikasti",
+      "entry_id": "174822306",
+      "author": "rover suren ardanuclu",
+      "date": "25.04.2025 21:32",
+      "content": "dış güçlerin işi olabilir,\ndikkat etmek lazım.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "25 nisan 2025 rus general suikasti",
+      "entry_id": "174822326",
+      "author": "enaypidi",
+      "date": "25.04.2025 21:33",
+      "content": "(bkz: putin bunu düşünmüştür)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "25 nisan 2025 rus general suikasti",
+      "entry_id": "174822387",
+      "author": "eq",
+      "date": "25.04.2025 21:35",
+      "content": "aklıma erdoğan'ın rusya'da bir arabayı görüp bu araç zırhlı mı diye putin'e sorması geldi. putin reis de \"bölge zırhlı\" diyerek güzel bir cevap vermişti fakat galiba dünyada zırhlı olan pek yer yok. >",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "25 nisan 2025 rus general suikasti",
+      "entry_id": "174822391",
+      "author": "biturlusarjolamadim",
+      "date": "25.04.2025 21:35",
+      "content": "haber uydurma gibi duruyor. rus haber sitelerinde buna dair hiç bir haber bulamadım.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "25 nisan 2025 rus general suikasti",
+      "entry_id": "174822453",
+      "author": "entryimi nasil begendiniz",
+      "date": "25.04.2025 21:37",
+      "content": "hiç üzülmediğimiz suikasttır.\nhuzurlu mutlu şekilde yaşayıp giderken durduk yere başka bir ülkeye saldırmasalarmış.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "CRIME",
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "25 nisan 2025 rus general suikasti",
+      "entry_id": "174822506",
+      "author": "ne rakisi sevim",
+      "date": "25.04.2025 21:39",
+      "content": "en buyuk kisim yine bize girecektir. bekliyoruz efendim.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "25 nisan 2025 rus general suikasti",
+      "entry_id": "174822701",
+      "author": "supermike",
+      "date": "25.04.2025 21:46",
+      "content": "--- spoiler ---\nhaber uydurma gibi duruyor. rus haber sitelerinde buna dair hiç bir haber bulamadım.\n--- spoiler ---\n\nbinlerce haber ve olayın vidosu var sadece twitter'da...\n\ntanım: \"evin kristaldense başkasının evine taş atma\" özdeyişini kale almayan rejinim generalinin yaşadığı olaydır...",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

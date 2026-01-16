@@ -1,0 +1,63 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:25:46.924012",
+    "total_entries": 4,
+    "input": "19 mart 2022 istanbula tonla rusun dolması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "19 mart 2022 istanbula tonla rusun dolması",
+      "entry_id": "135146377",
+      "author": "stenella",
+      "date": "19.03.2022 20:57",
+      "content": "ben kendi şehrimde doğru dürüst oturacak ev bulamıyorum. bir de putin yüzünden tüm ruslar buraya doluştu. kendi ülkelerinde yapamadıkları protestoyu burda yapıyorlar. anlıyorum oksimoron da gelmiş ülkemizde müzik yapıyor ama suriyeliler gibi ruslar da türkiye'yi göç için tek seçenek görmüş durumda. ülkemizin acilen vize koyması lazım bu ruslara.\n\nartık rusların parası kalmadı, kredi kartları çalışmıyor, turizm geliri falan beklemeyin. bu gençler istanbul'da nasıl geçenecek. ev fiyatları kiralar artacak olan gene bize olacak.\n\nistanbul'da ruslar kadıköy'de toplandı\nhttps://www.youtube.com/…hw7zbohprz4&ab_channel=cnn",
+      "has_external_url": true,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "19 mart 2022 istanbula tonla rusun dolması",
+      "entry_id": "135146564",
+      "author": "samatya kos marmarayi elestiriyorlar",
+      "date": "19.03.2022 21:02",
+      "content": "biz nataşhalar elena koskhalar beklerken rusyanın suriyelisi gelmiş.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "19 mart 2022 istanbula tonla rusun dolması",
+      "entry_id": "135146639",
+      "author": "senersongur",
+      "date": "19.03.2022 21:04 ~ 21:05",
+      "content": "(bkz: istanbul'da ev kiralarının uçması)\n\nne kadar çok yabancı, o kadar yüksek kira. maalesef.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "XENO",
+        "ECON"
+      ]
+    },
+    {
+      "title": "19 mart 2022 istanbula tonla rusun dolması",
+      "entry_id": "135146824",
+      "author": "bugungunlerdenisyan",
+      "date": "19.03.2022 21:08",
+      "content": "yok arkadaş, istanbul'da ev yok. daha kimse gelmesin yok. orta sınıf denilen memur maaşının tamamı bile bir ev kiralamaya yetmiyor artık. biri anlasın şunu.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "ECON"
+      ]
+    }
+  ]
+}

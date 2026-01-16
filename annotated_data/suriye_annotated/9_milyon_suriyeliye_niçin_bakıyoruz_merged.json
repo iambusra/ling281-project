@@ -1,0 +1,213 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:25:11.204963",
+    "total_entries": 14,
+    "input": "9 milyon suriyeliye niçin bakıyoruz",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "9 milyon suriyeliye niçin bakıyoruz",
+      "entry_id": "116922475",
+      "author": "turkbest",
+      "date": "15.12.2020 21:31",
+      "content": "meclis'e sunulan şok suriyeli raporu! ile ilğili yazısında yazar gülcan havva eraslan\nbahsetmiş\n\nhttps://www.aykiri.com.tr/…-sok-suriyeli-raporu/297\nayrıca yine yazmış,\nsuriyeli sığınmacılar ile ilgili 11-12 kasım’da birleşmiş milletler’in de katılım sağladığı “uluslararası sığınmacıların geri dönüşü” konferansı yapıldı suriyeli sığınmacıların sebep olduğu sorunlardan kurtulmak isteyen bütün ülkeler bu konferansa katıldı da bir tek türkiye’den katılım olmadı. hem de cumhurbaşkanı erdoğan’ın bu hafta içinde sarf ettiği “türkiye 9 milyon suriyeliye hem kendi içinde hem de suriye’de bakmaktadır” sözüne rağmen.\n\n/ https://www.aykiri.com.tr/…k-turkiye-katilmadi/283/",
+      "referenced_content": [],
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "9 milyon suriyeliye niçin bakıyoruz",
+      "entry_id": "116922820",
+      "author": "meksus",
+      "date": "15.12.2020 21:39",
+      "content": "çünkü avrupalılar, suriyelilerin gelip kendi ülkelerini istila etmelerini istemiyor",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "9 milyon suriyeliye niçin bakıyoruz",
+      "entry_id": "116923020",
+      "author": "turkbest",
+      "date": "15.12.2020 21:44",
+      "content": "hatırlatanlar oldu. geçen yıl tam 7 milyon diye gururlanmışız.\n\nhttps://www.yenicaggazetesi.com.tr/…ruz-257130h.htm\nharcanan para 40 milyar dolarmış,\negecansen, sormuş.\n'suriyeli mültecilere karşı beslenen “pek de dostça olmayan” bu duyguların diğer sebebi de hükümetin “suriyelilere 40 milyar dolar harcadık” beyanıdır. suriyeliler için çok büyük tutarlarda para harcandığı doğrudur. ama meslektaşım mustafa sönmez'in yazdığı gibi bu 40 milyar dolar biraz abartılı durmaktadır. maliye bakanlığı şu 40 milyar doların, hangi fasıllardan, hangi tarihlerde harcandığını, hangi kurdan dolara çevrildiğini ve yurtdışından ne kadar para geldiğini bir sayfalık bir rapor haline getirip yayınlasa çok iyi olacak' abimizn yazısının tamamı?",
+      "referenced_content": [],
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "ECON",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "9 milyon suriyeliye niçin bakıyoruz",
+      "entry_id": "116923052",
+      "author": "blackbad",
+      "date": "15.12.2020 21:45",
+      "content": "harcayacak bir kırk milyar dolarımız daha olduğundandır diyeceğim ama o da yok. o halde bu neyin kafası demekten başka bir şey kalmıyor.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "ECON",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "9 milyon suriyeliye niçin bakıyoruz",
+      "entry_id": "116923094",
+      "author": "teselliikramiyesi",
+      "date": "15.12.2020 21:46",
+      "content": "2040 yılına kadar ülkelerine dönmezlerse başımıza iç savaş dahil birçok sıkıntı çıkartacaklarını söylüyor ümit bozdağ kitabında..",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "9 milyon suriyeliye niçin bakıyoruz",
+      "entry_id": "116923220",
+      "author": "lodos86",
+      "date": "15.12.2020 21:49",
+      "content": "dilencilik fakültesi için",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "9 milyon suriyeliye niçin bakıyoruz",
+      "entry_id": "116923350",
+      "author": "marx i tecavuz eden redkit",
+      "date": "15.12.2020 21:51",
+      "content": "siha yaptık lan gevşek diyenlerin cevap vermeyeceği soru.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "9 milyon suriyeliye niçin bakıyoruz",
+      "entry_id": "116923429",
+      "author": "nicksiz ama gururlu yazar",
+      "date": "15.12.2020 21:53",
+      "content": "ab den yaptırım gelmediyse suriyelilerin yüzü gözü hürmetine gelmedi,rte rahat rahat esip gürlüyor ve ab den ses çıkmıyorsa bunu başınıza bela ettiğiniz suriyelilere borçlusunuz",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "9 milyon suriyeliye niçin bakıyoruz",
+      "entry_id": "116923611",
+      "author": "bokundabolcaboncukvar",
+      "date": "15.12.2020 21:57",
+      "content": "allah rızası için.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "9 milyon suriyeliye niçin bakıyoruz",
+      "entry_id": "116924410",
+      "author": "ysf06",
+      "date": "15.12.2020 22:15",
+      "content": "biraz sabret zamanı gelince öğreneceğiz.\n\nbkz(bkz: #106449375)",
+      "referenced_content": [
+        {
+          "type": "entry",
+          "title": "suriyelilerin-bir-daha-geri-donmeyecekleri-gercegi",
+          "entry_id": "106449375",
+          "author": "ysf06",
+          "date": "02.05.2020 17:46 ~ 16.12.2020 01:58",
+          "content": "dönmeyeceklerdir tabii ki, eline verilen bomba gibidir, sırası gelince kullanılacaktır, siz amerika veya ingiltere gibi ülkelerin dünyayı nasıl yönettiğini sanıyorsunuz!\n\nekleme: suriyelilerin türkiye'de bulunma sebebiyle; türklerin almanya'ya gitme sebeplerini veya bulgaristan türklerinin göç sebeplerini aynı terazide tartıp, tartışma sağlamak bile onlar için bir başarıdır, ne denilir ki!",
+          "has_external_url": false
+        }
+      ],
+      "referenced_entry_ids": [
+        "106449375"
+      ],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "9 milyon suriyeliye niçin bakıyoruz",
+      "entry_id": "116943760",
+      "author": "humuslupilav",
+      "date": "16.12.2020 10:48",
+      "content": "kendimiz aç kalmak için.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "9 milyon suriyeliye niçin bakıyoruz",
+      "entry_id": "116943949",
+      "author": "rumuzbey",
+      "date": "16.12.2020 10:54",
+      "content": "kuru ekmek verip aç bırakmamak için",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "9 milyon suriyeliye niçin bakıyoruz",
+      "entry_id": "116943991",
+      "author": "hasansabbahinyegeni",
+      "date": "16.12.2020 10:56",
+      "content": "“nerden baksan tutarsızlık, nerden baksan ahmakça.”",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "9 milyon suriyeliye niçin bakıyoruz",
+      "entry_id": "116944120",
+      "author": "silver wings",
+      "date": "16.12.2020 11:01",
+      "content": "türkiyenin en büyük sorunu budur, gündemden düşmemelidir. millet salağa mı yatıyor, elinden bir şey mi gelmiyor yoksa olayı kavrayacak zekadan yoksun mu anlayamıyorum.\n\n3-5 milyar euroya fit olup bu insanları kabul edenler bu sorunun 5-10 yıl sonra trilyonlarla bile çözülemeyecek hale geleceğini öngörememiş olabilir mi?\nhayır olamaz, 30 yıl 50 -100 yıl sonraki planlara hizmet eden bilinçli yapılmış şeyler bunlar.\nsuriye sınırındaki mayınlar tam da iç savaştan önce neden temizlendi?\n\nçok geç olmadan hepsi ama hepsi memleketine gönderilmelidir. orada kamp kurulup can güvenliği sağlanarak bakılsınlar gerekirse insanlık gereği olarak.\nama ülkeden çok geç olmadan çıkarılmalılar. belki de zaten çok geç.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    }
+  ]
+}

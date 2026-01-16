@@ -1,0 +1,38 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:11:02.981283",
+    "total_entries": 2,
+    "input": "ukrayna'ya gidip arapla evlenmek",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukrayna'ya gidip arapla evlenmek",
+      "entry_id": "40081524",
+      "author": "murtazaa",
+      "date": "31.01.2014 13:12",
+      "content": "duyduğum en absürt olaylardan biridir.evet efenim olmuştur.\n\nöncelikle (bkz: bir arkadaşım ekolü)\n\narkadaşın abisi ukrayna'ya okumaya gider.aradan bir süre geçtikten sonra bir kızla tanışıldığını,çok hoşlanıldığını söylemeye başlar.bir fotoğraf istenir doğal olarak ve şoka girilir.kardeş sen suriye'ye gittin galiba geyikleri arasında kızın arap olduğu öğrenilir.neyse sonra ciddileşti ilişkileri,allah mesut etsin,sarı sarı çocukları olsun inşallah.:)\n\nzorunlu not:iş bu entry'de arap ırkına herhangi bir saldırı ya da aşağılamada bulunulmamış aksine türk erkeğinin absürt gönül ilişkileriyle dalga geçilmiştir.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE",
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "ukrayna'ya gidip arapla evlenmek",
+      "entry_id": "40081990",
+      "author": "kazaryasa",
+      "date": "31.01.2014 13:30",
+      "content": "arabistana gidip ukraynali ile evlenmekten bir farki yoktur nazarimda",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE",
+        "HUMAN"
+      ]
+    }
+  ]
+}

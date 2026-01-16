@@ -1,0 +1,37 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:40:37.769605",
+    "total_entries": 2,
+    "input": "bursa'da kemer görünümlü bıçak takan suriyeli",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "bursa'da kemer görünümlü bıçak takan suriyeli",
+      "entry_id": "177282309",
+      "author": "cag atlanirken arada kalan adam",
+      "date": "02.08.2025 16:44",
+      "content": "18 yaşındaki suriyeli, buraya geldiğinde 5 yaşındaydı muhtemelen.\n\nbüyüdü ve belinde döner bıçağıyla dolaşıyor.\n\nbiz böyle manzaralar neden görüyoruz? aklınıza ilk gelen kişi sayesinde.\n\nhaber",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "bursa'da kemer görünümlü bıçak takan suriyeli",
+      "entry_id": "177282359",
+      "author": "sana guluyorum sadece",
+      "date": "02.08.2025 16:46 ~ 16:47",
+      "content": "adam kendisine resmen thranduil elf kılıcı yapmış.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

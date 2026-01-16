@@ -1,0 +1,108 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:09:05.989815",
+    "total_entries": 8,
+    "input": "ukraynaya ukranya demek",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukraynaya ukranya demek",
+      "entry_id": "134195222",
+      "author": "kadillak",
+      "date": "25.02.2022 12:31 ~ 13:29",
+      "content": "ilginç durum.\n\nyahu kaç yaşında kerli ferli uluslararası ilişkiler profesörü, hukukçu,yorumcu, stratejist heriflerin bağıra bağıra ukranya demesinin bir sebebi varsa biri bana anlatsın. bu kadar zor mu bunun telaffuzu. yoksa benim bilmediğim birşey mi var.\nedit: imla",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "ukraynaya ukranya demek",
+      "entry_id": "134195352",
+      "author": "marston and son",
+      "date": "25.02.2022 12:36",
+      "content": "ispanyolca ve portekizce konusulan ulkelerdeki vatandaslarin topyekun gerceklestirdikleri eylemdir...\n\nhttps://www.wikiwand.com/es/ucrania\nhttps://www.wikiwand.com/pt/ucrânia",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "ukraynaya ukranya demek",
+      "entry_id": "134196235",
+      "author": "boyoz gevrek klorak asfalya",
+      "date": "25.02.2022 13:02",
+      "content": "yorumları okuyunca doğrusunun yani türkçesinin ukranya olduğunu düşünenler var sanırım.\n\nher duyduğumda tüylerim diken diken oluyor, ciddi ciddi üniversitede ders veren adamlar falan çıkıp ukranya diyor, sanırım ülke veya bölge isimleri -ya ile bitmeli şeklinde bir düşünceye sahipler otomatik olarak",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "ukraynaya ukranya demek",
+      "entry_id": "134196356",
+      "author": "principles of mechanism",
+      "date": "25.02.2022 13:05",
+      "content": "yanlış bilmiyorsam halkın ismi ukran, orda konuşulan dil ukranca (ukraynaca deniliyor türkiyede). ülkenin ismi niye ukranya olmuş onu anlamadım ama doğrusu ukrayna iken ukranya demek cahillik göstergesidir.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "ukraynaya ukranya demek",
+      "entry_id": "134447091",
+      "author": "ugm",
+      "date": "03.03.2022 10:31",
+      "content": "son savaştan sonra iyice kulak yormaya başlayan durum.\n\nhadi halk içinde söyleyenlere bir şey diyemezsiniz sonuçta herkesin bir şivesi ya da eğitim düzeyi var ama televizyona yorum için çıkan doçentli proflu adamlar kalkıp ukranya deyince de uyuz oluyor insan.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "ukraynaya ukranya demek",
+      "entry_id": "134447148",
+      "author": "nasil eksici oldum",
+      "date": "03.03.2022 10:33",
+      "content": "(bkz: meyrem)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukraynaya ukranya demek",
+      "entry_id": "134447214",
+      "author": "syzer",
+      "date": "03.03.2022 10:35",
+      "content": "porsche'de porş der. (bkz: swh)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "ukraynaya ukranya demek",
+      "entry_id": "134447786",
+      "author": "lestat98",
+      "date": "03.03.2022 10:54",
+      "content": "bahceli’nin suanda pespese yaptigi yanlis okumasi.\nprompter den yanlis okumak",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

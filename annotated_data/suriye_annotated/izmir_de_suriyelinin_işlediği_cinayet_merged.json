@@ -1,0 +1,246 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:43:14.774542",
+    "total_entries": 18,
+    "input": "izmir'de suriyelinin işlediği cinayet",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "izmir'de suriyelinin işlediği cinayet",
+      "entry_id": "128582956",
+      "author": "numbaly",
+      "date": "30.09.2021 12:14 ~ 12:22",
+      "content": "maalesef 17 yaşında gencecik bir türk evladı yine bir suriyeli göçmen saldırısı sonucu hayatını kaybetmiş.\n\nkaynak\n\n--- spoiler ---\n\ntorbalı’da bu gece şok bir cinayet gerçekleşti. barış yapı sitesi’nde iddiaya göre suriye uyruklu bir grupla tartışma yaşayan batuhan barlak ile bu gençlerin kavgası büyüdü. bu kavga iki taraf arasında bıçaklı tartışmaya dönüştü. iddiaya göre suriyeli bir genç tarafından kalbinden bıçaklanan batuhan barlak adındaki 17 yaşındaki genç hızlı bir şekilde torbalı devlet hastanesi’ne kaldırıldı. barlak burada kendisine yapılan tüm müdahalelere rağmen kurtarılamadı. öte yandan polis olayla ilgili soruşturma başlatırken gözaltı işlemlerinin olduğu öğrenildi\n--- spoiler ---\n\nedit: suriyeli o...ç... kalbinden bıçaklıyor. yani direkt olarak öldürmeye niyetli zaten. bu gibi yüzbinler maalesef ülkemizin her şehrinde cirit atıyor.",
+      "has_external_url": true,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "CRIME"
+      ]
+    },
+    {
+      "title": "izmir'de suriyelinin işlediği cinayet",
+      "entry_id": "128583110",
+      "author": "lejyonermaximus",
+      "date": "30.09.2021 12:20 ~ 12:21",
+      "content": "suriyelilerin suç oranı çok düşüktü değil mi?\n\nvefat eden kardeşimize allah rahmet eylesin.\n\nvatandaşına cani ithal eden tek ülke olabiliriz.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "izmir'de suriyelinin işlediği cinayet",
+      "entry_id": "128583132",
+      "author": "mortalgoal",
+      "date": "30.09.2021 12:21",
+      "content": "abi bu kaçıncı ya. evlatlarımıza yazık değil mi. milyonlarca mülteci şehirlere yayılmış durumda. bir an önce bir çözüm üretilmesi, mültecilerin evlerine gönderilmesi şart.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "izmir'de suriyelinin işlediği cinayet",
+      "entry_id": "128583794",
+      "author": "yunuse",
+      "date": "30.09.2021 12:47 ~ 12:55",
+      "content": "bakalım daha neler göreceğiz?\n\n''torbalı’da bu gece şok bir cinayet gerçekleşti. barış yapı sitesi’nde iddiaya göre suriye uyruklu bir grupla tartışma yaşayan batuhan barlak ile bu gençlerin kavgası büyüdü. bu kavha iki taraf arasında bıçaklı tartışmaya dönüştü. iddiaya göre suriyeli bir genç tarafından kalbinden bıçaklanan batuhan barlak adındaki 17 yaşındaki genç hızlı bir şekilde torbalı devlet hastanesi’ne kaldırıldı. barlak burada kendisine yapılan tüm müdahalelere rağmen kurtarılamadı. öte yandan polis olayla ilgili soruşturma başlatırken gözaltı işlemlerinin olduğu öğrenildi''\n\nkaynak",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL",
+        "CRIME"
+      ]
+    },
+    {
+      "title": "izmir'de suriyelinin işlediği cinayet",
+      "entry_id": "128583901",
+      "author": "nyx ulric",
+      "date": "30.09.2021 12:51",
+      "content": "afganistanlı caninin saldırısına uğrayan ayşegül:\n\n(bkz: ayşegül aydın kök hücre tedavisi olsun)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "XENO",
+        "CRIME"
+      ]
+    },
+    {
+      "title": "izmir'de suriyelinin işlediği cinayet",
+      "entry_id": "128584121",
+      "author": "roman yazanski",
+      "date": "30.09.2021 12:58",
+      "content": "afganı surisi bıçaksız gezmiyor haberiniz olsun, zira emniyet güçleri sanırım bundan habersiz. bu kopiller görüldükleri yerde çevrilip üst araması yapılmalı. kendi ülkesinde ithal dingolardan tırsarak gezen vatandaş olduk vay arkadaş.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "izmir'de suriyelinin işlediği cinayet",
+      "entry_id": "128584329",
+      "author": "sessiz megafon",
+      "date": "30.09.2021 13:07",
+      "content": "bu ülkede huzurlu yaşamamız için vigilante'liğe soyunucaz sonunda.\n\nsuçu günahı var mı demeden biz de göçmenleri kalbinden bıçaklasak mesela? çözüm mü? evet aslında bir çözüm ama geçici.\nsorun şu, bizim kaybedecek şeylerimiz var, onların yok. bu yüzden bunları yapma cürreti gösteriyorlar ve biz gösteremiyoruz.\nkaybedecekleri şeyleri onlara verelim, mesela ülkesine siktir edersek kaybedecek bir can veririz ve ona göre ne bok yerlerse yerler. çektikleri acılardan bize ne?\nbizim memleket yok oluyor başkasının derdinden bi-ze-ne. aynı bok çukuruna sürükleniyoruz ve müstahak işte kimse bir şey yapmıyor ve yapılmasına mani oluyor. böyle geri zekalı toplumlara her şey müstahak.\n\nhümanist zırvaları, sikeyim bu arada. merhameti kendi ülkenize duyun.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "izmir'de suriyelinin işlediği cinayet",
+      "entry_id": "128584372",
+      "author": "nyx ulric",
+      "date": "30.09.2021 13:08 ~ 13:09",
+      "content": "hala yetmezse afganistanlı caninin saldırısına uğrayan ayşegül'de var:\n\n(bkz: ayşegül aydın kök hücre tedavisi olsun)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL",
+        "CRIME"
+      ]
+    },
+    {
+      "title": "izmir'de suriyelinin işlediği cinayet",
+      "entry_id": "128584435",
+      "author": "cmrdlny93",
+      "date": "30.09.2021 13:10",
+      "content": "muhtemelen suriye'de suç olmadığından serbest kalması gerekecek bıçaklama olayıdır.\n\nbu ülkede izole hayat sürenler olduğu sürece, bu sığınmacı geçinen lakin bizlerden fazla serbest ve dokunulmazca yaşayan güruh barındıkça bu olaylar artmaya devam edecektir, ta ki izolecilerden birinin canı yanana kadar..\n\nne zaman bir mankenin, bir şarkıcının, bir birinin metresi ki sizler buna sevgili diyorsunuz canı yanarsa işte o zaman gündem olacaktır.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "izmir'de suriyelinin işlediği cinayet",
+      "entry_id": "128584478",
+      "author": "goran ivanisevic",
+      "date": "30.09.2021 13:12",
+      "content": "bu çocuğun katili bellidir.\nailesine sabır dilerim.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CRIME"
+      ]
+    },
+    {
+      "title": "izmir'de suriyelinin işlediği cinayet",
+      "entry_id": "128585051",
+      "author": "olmaduucun",
+      "date": "30.09.2021 13:32",
+      "content": "sebep olanlar..",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "izmir'de suriyelinin işlediği cinayet",
+      "entry_id": "128585844",
+      "author": "noname3467",
+      "date": "30.09.2021 14:00",
+      "content": "ankara'daki gencin de kalbine bıçak saplanarak ölmüştü. bu cinayetde öyle.\nnasıl insanlar? bu nasıl vicdansızlık bu anlamış değilim!\nbıçağı kalbe saplayarak adama saldırmak kasten adam öldürmektir.\ndilerim allahtan 45 kere müebbet hapis alır. o delikten hiç çıkamazsın!",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CRIME"
+      ]
+    },
+    {
+      "title": "izmir'de suriyelinin işlediği cinayet",
+      "entry_id": "128585999",
+      "author": "alperturka",
+      "date": "30.09.2021 14:05 ~ 14:09",
+      "content": "kasten kalpten bıçaklamak. o öldürdüğü çocuğun ailesinden alınan vergilerle gül gibi yaşayıp giden bir suriyelinin gerçekleştirdiği vahşet. izmirin başı sağ olsun. ne yazsak gg.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "XENO",
+        "HATE",
+        "CRIME"
+      ]
+    },
+    {
+      "title": "izmir'de suriyelinin işlediği cinayet",
+      "entry_id": "128587151",
+      "author": "furkantura",
+      "date": "30.09.2021 14:45",
+      "content": "izmir, (istanbul baz alınmazsa) demografik yapısı en çok bozulan kent olmuştur.\n\nve ne yazık ki belirtilenler gibi bu grup halinde gezen mülteciler direkt öldürmeye kastediyor, direkt kalbinden bıçaklamışlar çocuğu olacak iş değil! ailesine büyük sabırlar diliyorum.\n\naynı tablo sadece torbalı'da var sanmayın, bornova, bayraklı ve karşıyaka'da da durumlar aynı.\ndaha geçtiğimiz günlerde bornova'da bir bankada işlem sırası beklerken, bir teyzemiz mülteci arkadaşı uyardı. gayet tatlı dille evladım maskeni tak (mülteci arkadaş maskesizdi) biz korkuyoruz yaşlıyız dedi bu mülteci arkadaş, burası türkiye diye bağırıp teyzenin üstüne yürüdü, dışarda bunu bekleyen diğer arkadaşları bankaya hücum etti tepki gösterdikte güvenlik filan araya girdi sakinleştirdi. bu hikayeyi şundan anlatıyorum, bu arkadaşların hayata bakış açıları bizim gibi değil, bu arkadaşlar savaşı görüp geldiği için midir nedir psikolojik açıdan sosyal türkiye'ye uyum sağlamaya yatkın değiller, agresif tutumları var adamda keserler adamda öldürürler. bu arkadaşları ülkeye alıyorsan önce psikolojik olarak tedavi et, bunu karşılayacak maddi gücün yok ise alma!\n\nmülteci sorunu karşısında, hümanizm ve şovenizmi bırakalım lütfen ve realizmi benimseyelim. lütfen!",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "CRIME"
+      ]
+    },
+    {
+      "title": "izmir'de suriyelinin işlediği cinayet",
+      "entry_id": "128590619",
+      "author": "french inhale",
+      "date": "30.09.2021 16:41",
+      "content": "kaçak suç unsurları memleketteki hainler tarafından korunup, kollanıp, beslenip, savunuluyor.\n\nevlatlarımıza saldırıp, öldürüyorlar.\n\niktidar, muhalefet ve savunucu fonlanmış şahıslar bu saldırıların sorumlusudur.\n\ntürk milleti yine sırtında yük taşımaya, asalakların cezasını çekmeye devam ediyor ama nereye kadar.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "izmir'de suriyelinin işlediği cinayet",
+      "entry_id": "128590968",
+      "author": "milli derin devlet",
+      "date": "30.09.2021 16:52",
+      "content": "suriyeli seviciler şimdi ne düşünüyordur ulan bunların kendilerine faydası yok size mi olacak.\nyazık oldu çocuğa.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "izmir'de suriyelinin işlediği cinayet",
+      "entry_id": "128594360",
+      "author": "alles im wasser tiefer",
+      "date": "30.09.2021 18:56",
+      "content": "bir türk evladı daha suriyelilerin hançeri ile hayattan koparıldı. işin kötüsü olay ana akım medyada yer bulmadığı gibi ekşi sözlük'te de gündem olamamış.\n\nkutlu tinîn şâd, otağın uçmağ olsun batuhan barlak .",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "CRIME"
+      ]
+    },
+    {
+      "title": "izmir'de suriyelinin işlediği cinayet",
+      "entry_id": "128604885",
+      "author": "avendegoras",
+      "date": "30.09.2021 23:13",
+      "content": "siyasi içerikli her entrymde yazıyorum yine yazacağım: 2023 seçimleri türk milleti için bir iq testi olacak. cumhurbaşkanı ve parlementodan ziyade “moron musunuz yoksa değil misiniz?” sorusunu cevaplandıracağız. şu an türkiye’nin en büyük sorunu mülteci sorunudur. bu öyle bir sorun ki ayaklarımıza prangalar misali bağlanmış ve bizi dibe çekmekte. mülteci sorununu çözmeden başka sorunları çözeceğini dile getiren hiçbir siyasiye inanmayınız. sizi gerizekalı yerine koyuyorlar. eskiden alternatifsizdik. önümüze sunulan seçeneklerden ehveni şer olanını seçiyorduk. çoğu zaman neyi seçtiğimizi bile bilmiyorduk. ancak şimdi türkiye’nin temel sorununa parmak basan, kaygılanan, proje üreten yepyeni bir parti var. ismi zafer partisi . zafer partisi’nin alacağı oy türkiye’nin iq oranı olacak. kendini gerizekalı, ahmak, moron, güdük, koyun, çomar yerine koyma artık ey türk. sana yapılan asisti artık değerlendirip gole çevir ey türk oğlu.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY",
+        "XENO"
+      ]
+    }
+  ]
+}

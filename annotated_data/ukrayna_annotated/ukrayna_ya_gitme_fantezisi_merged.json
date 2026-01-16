@@ -1,0 +1,75 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:11:10.113465",
+    "total_entries": 5,
+    "input": "ukrayna'ya gitme fantezisi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukrayna'ya gitme fantezisi",
+      "entry_id": "7830717",
+      "author": "southern fist",
+      "date": "11.07.2005 17:51",
+      "content": "anlatılanlar, görülenler, duyulanlar neticesinde gezmek, görmek amacından çok güzel kızları için türk gençleri tarafından organize edilen fantezidir. planlar falan yapılır da bir türlü gerçeğe dönüşmez, yapılamamış bir aktivite olarak kalır. muhabbet içinde muhtemel formunu aşağıdaki şekilde alır:\n\n< neyse ondan sonra ben dedim ki buna..\n> sen onu bırak da hani ukrayna'ya gidiyoduk?\n< ya abi o iş olucak da işte..\n> ulan takıyom yüzüğü seneye ona göre ha!..",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "SEXUAL",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "ukrayna'ya gitme fantezisi",
+      "entry_id": "7830821",
+      "author": "kirke",
+      "date": "11.07.2005 18:07",
+      "content": "bir milletin butun kadinlarini potansiyel verici olarak goren zavalli beyinlerin urettigi dusunce. 1 nevi seks turizmi. dunyanin en guzel kadinlari ukrayna ve rusya'dakiler, o halde gidip onlara turk erkeginin ustun performansini gostermeliyiz. kadinlar da sizi bekliyorlar ya. bu nasil bir zihniyettir anlayamiyorum.yukaridaki ornekte de gayet net goruldugu uzre adamin sevgilisi vardir ve yaza nisan ya da dugun yapmayi planliyordur.o yuzden elini cabuk tutup yuzugu takana kadar (yuzuk takmazsa yalnizca sevgililik muessesesi varsa arada sorun yok) ukrayna'ya gidip artik parayla fuhus mu olur bunun adi yoksa one night stand mi olur kadinlarla birlikte olmalidir ki turkiye'ye donup 40 dereden gelen suyla arindiktan sonra aile kurma planlarini gerceklestirebilsin. ama turk kadini yabanci 1 erkekle olmak icin ornegin isvec'e gitse dunyanin en buyuk orospusu olur.\n\nukrayna'ya seks yapmaya gidenlerle thailand'a gidip 5 dolara 12 yasinda cocukla olan adamlar arasinda hicbir fark goremiyorum.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "SEXUAL",
+        "GENDER-MORAL"
+      ]
+    },
+    {
+      "title": "ukrayna'ya gitme fantezisi",
+      "entry_id": "8182430",
+      "author": "gari",
+      "date": "12.09.2005 20:48 ~ 20:50",
+      "content": "ukrayna-türkiye maçında tribünlerde milli takımı destekleyen üç kişi (muhatabbı eşleri olan) koskocaman bir pankart açmış ve bu radikale haber [görsel] olmuştu: kızlar valla uslu durduk\n\nmetin okuması yapsın culturtal studies okuyan arkadaşlar, maksat iş çıksın... [not: pop-sosyolog'lar da olabilir ancak öğrenciye vermek istemiyor metin sahibi... ama ben kefil olurum, \"ayol metin sahibi diye bir şey mi kaldı bu çağda aşkolsun, ben kefilim çocuklara\" derim]",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "ukrayna'ya gitme fantezisi",
+      "entry_id": "30534039",
+      "author": "sutyen kullanmayan memeli hayvan",
+      "date": "11.10.2012 18:40",
+      "content": "bazen koskoca şehrin sadece bir kadına benzemesi üzerinedir..\n\nhttp://farelikoyunhayalcisi.blogspot.com/…ince.html",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "ukrayna'ya gitme fantezisi",
+      "entry_id": "30534076",
+      "author": "pis pisi",
+      "date": "11.10.2012 18:43",
+      "content": "(bkz: gidip de dönmemek dönüp de bulmamak var)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

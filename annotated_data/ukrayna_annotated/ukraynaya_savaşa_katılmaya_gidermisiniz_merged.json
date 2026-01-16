@@ -1,0 +1,60 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:09:13.596886",
+    "total_entries": 4,
+    "input": "ukraynaya savaşa katılmaya gidermisiniz",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukraynaya savaşa katılmaya gidermisiniz",
+      "entry_id": "134207977",
+      "author": "28111995",
+      "date": "25.02.2022 19:02",
+      "content": "ukraynaya rusyayla savaşmak için gidermisiniz?",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukraynaya savaşa katılmaya gidermisiniz",
+      "entry_id": "134208009",
+      "author": "akumanokeshin",
+      "date": "25.02.2022 19:03",
+      "content": "üstteki yazar -misiniz'i ayrı yazarsa düşünebilirim.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukraynaya savaşa katılmaya gidermisiniz",
+      "entry_id": "134208019",
+      "author": "hak yeme fuck yeah",
+      "date": "25.02.2022 19:03",
+      "content": "sen bir daha başlık açmayacak ve entry girmeyeceksen, olur.\n\ngiderim.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukraynaya savaşa katılmaya gidermisiniz",
+      "entry_id": "134208126",
+      "author": "ft35",
+      "date": "25.02.2022 19:06",
+      "content": "misiniz ayrı olsaydı belki giderdik amk sığırı demek istedigim başlık veya sıçmık",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

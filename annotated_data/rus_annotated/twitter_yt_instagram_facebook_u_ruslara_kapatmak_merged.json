@@ -1,0 +1,60 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:29:29.610078",
+    "total_entries": 4,
+    "input": "twitter yt instagram facebook'u ruslara kapatmak",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "twitter yt instagram facebook'u ruslara kapatmak",
+      "entry_id": "134218958",
+      "author": "kamwimbile",
+      "date": "25.02.2022 23:30",
+      "content": "(bkz: vpn)\n\nçok zor bir mevzudur. bir kere bu ulus üzeri şirketler böyle net bir tavır almak istemezler, alsalar da internet devrinde bunu aşmakta kimse zorlanmaz. beyhude bir çaba olacaktır.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "twitter yt instagram facebook'u ruslara kapatmak",
+      "entry_id": "134219143",
+      "author": "neelix",
+      "date": "25.02.2022 23:34",
+      "content": "steam' i kapatsalar yeter. yemin ederim dünya huzur bulur.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "twitter yt instagram facebook'u ruslara kapatmak",
+      "entry_id": "134219729",
+      "author": "yanlis zamanda gelen dogru insan",
+      "date": "25.02.2022 23:48",
+      "content": "en büyük toplumsal yaptırım olur. vpn bir yere kadar idare eder ama bir süre sonra tüm dünyadan dışlandığını hisseden bir toplum putini o koltukta oturtmaz.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "twitter yt instagram facebook'u ruslara kapatmak",
+      "entry_id": "134220038",
+      "author": "buda benim nikim husnu",
+      "date": "25.02.2022 23:54",
+      "content": "daha ötesi de mümkün. tüm ios ve android cihazlar şıp diye bloke edilebilir.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:42:41.938899",
+    "total_entries": 6,
+    "input": "hatay’ı suriye topraklarında gösteren harita",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "hatay’ı suriye topraklarında gösteren harita",
+      "entry_id": "36876247",
+      "author": "confession",
+      "date": "12.09.2013 14:45",
+      "content": "\"suriye'nin'muhalif' grupları, istanbul'da yaptıkları son toplantıda hatay'ı suriye topraklarında gösteren bir harita kullandı. türkiye, uzun yıllar boyunca bu tip haritaları suriye karşıtı düşmanlığı körüklemek için kullanarak propaganda yapıyordu.\"\n\nlink",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY",
+        "XENO"
+      ]
+    },
+    {
+      "title": "hatay’ı suriye topraklarında gösteren harita",
+      "entry_id": "36876513",
+      "author": "confession",
+      "date": "12.09.2013 14:56",
+      "content": "(bkz: ne çektin be hatay)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "hatay’ı suriye topraklarında gösteren harita",
+      "entry_id": "178998950",
+      "author": "adam opera dinleyen bir kasap",
+      "date": "09.10.2025 10:40 ~ 11:03",
+      "content": "pkk/ypg elebaşı mazlum abdi ile dün görüşen abd'nin türkiye büyükelçisi ve trump'ın suriye özel temsilcisi tom barrack'ın, hatay'ı suriye toprağı olarak gösteren bir haritanın önünde poz verdiği ortaya çıktı.\n\nskandal, barrack’ın kendi sosyal medya hesabından paylaştığı fotoğrafla ortaya çıktı.\n\n(bkz: terörist haritası ile poz veren abd elçisi)",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY",
+        "XENO"
+      ]
+    },
+    {
+      "title": "hatay’ı suriye topraklarında gösteren harita",
+      "entry_id": "178999281",
+      "author": "elinherifi",
+      "date": "09.10.2025 10:57 ~ 10:59",
+      "content": "\"yine mi çıktı\" dediğim haritadır. zira yarım yüzyılı aşan hayatım boyunca bitmedi bu haritanın meselesi. ara ara hortlar, \"bilmemkimler hatay'ı suriye'de gösteren harita asmış\" falan muhabbetleri devam eder.\n\nkimsenin yemediği küçük esnaf üçkağıtları gibi, sırf toplumu bir konuda ve birine karşı galeyana getirmek için ara ara ısıtılıp servis edilir bu mevzu. ne yapalım, hadi suriye'ye savaş açalım, ok?\n\ngel gör ki ben hatay'a hiç suriye veya başka bir devletten vali atandığını görmedim; öğretmenler, kamu görevlileri, polis vs. hep türkiye cumhuriyeti devleti..\n\ntanım2: sike sürülmeyecek boş beleş haber ve mevzular.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "hatay’ı suriye topraklarında gösteren harita",
+      "entry_id": "178999504",
+      "author": "aslagelmeyecektelefonubekleyenadam",
+      "date": "09.10.2025 11:09 ~ 11:12",
+      "content": "bahse konu haritayı en üst seviyede servis eden kişi abd ankara büyükelçisi tom barrack, aynı kişi ne söylemişti hatırlayalım;\n\n(bkz: trump'ın türkiye'deki yönetime meşruiyet vermesi)\n\npeki öncesinde ne söylemişti;\n\n\"türkiye için en iyi sistem osmanlı millet sistemidir\" akabinde ise 21 temmuz 2025 tom barrack açılaması ile de alenen ulus devleti hedef göstermişti.\n\ntüm bu gelişmelerin toplamında bu haritanın paylaşımı masum değildir, aksine denilebilir ki; büyük ortadoğu planı tıkır tıkır işliyor",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "hatay’ı suriye topraklarında gösteren harita",
+      "entry_id": "178999583",
+      "author": "hektorun torunu",
+      "date": "09.10.2025 11:14",
+      "content": "(bkz: hayallerde yaşıyor bazı ibneler)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE"
+      ]
+    }
+  ]
+}

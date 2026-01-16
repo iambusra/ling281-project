@@ -1,0 +1,61 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:08:05.307771",
+    "total_entries": 4,
+    "input": "survivor 2021 suriler afganlar",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "survivor 2021 suriler afganlar",
+      "entry_id": "127204529",
+      "author": "nerden geldin nereye gidiyon ey yolcu",
+      "date": "22.08.2021 15:39",
+      "content": "(bkz: başta güldüren sonrada düşünmeye ve sorgulamaya sevk eden başlıklar)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "survivor 2021 suriler afganlar",
+      "entry_id": "127204631",
+      "author": "nikimikibosversene",
+      "date": "22.08.2021 15:43",
+      "content": "keleşle adam vurma parkurunu afganlar önde bitirdi ve rakip takımdan birinin kafası kesilecek. az sonra ekranlarda.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "survivor 2021 suriler afganlar",
+      "entry_id": "127204725",
+      "author": "sokartes",
+      "date": "22.08.2021 15:47",
+      "content": "(bkz: whoever wins we lose)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "survivor 2021 suriler afganlar",
+      "entry_id": "127205289",
+      "author": "civizi",
+      "date": "22.08.2021 16:06",
+      "content": "bugünkü ödülünüüüüüz! evet özellikle hamza sıddık'ın favori yemeğiymiş...\ndeve eti veee pilaaaav! içecek olarak tabiki de buz gibi deve sidiği.(15 saniyelik deve sidiği reklamı)\nbitti mi? bitmedi! yemek sonrası köle pazarında sınırsız alışveriiiş!\nbitti mi? bitmedi! şu elimde gördüğünüz olduğunuz altın kaplama ak-47 de kazanan takımın üyelerine verilecek.\nherkes (sevinçle): allahu akbaaaar! allahu akbaaaar! allahu akbaaaar!",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CRIME"
+      ]
+    }
+  ]
+}

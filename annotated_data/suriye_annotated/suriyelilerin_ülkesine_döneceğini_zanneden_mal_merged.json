@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:05:58.405870",
+    "total_entries": 1,
+    "input": "suriyelilerin ülkesine döneceğini zanneden mal",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelilerin ülkesine döneceğini zanneden mal",
+      "entry_id": "170869338",
+      "author": "rahatina duskun adam",
+      "date": "09.12.2024 09:13",
+      "content": "özellikle muhalif ise mal oğlu maldır.\n\nfahrettin'in en güncel propagandasına kolaylıkla kanmakla kalmayıp, muhtemelen daha önceki bir çok propagandasına da kandığını tesciller.\n\n10-15 yıldır burada yaşayıp, düzenini kuran, birçok avantajdan faydalanan insanların burayı bırakıp suriye'de tekrar yeni düzen inşa edeceğini zannedecek kadar ahrazdır aynı zamanda.\n\nsuriye'lilerin %10'u bile geri dönerse öpüp başınıza koyun.\nsayıları suriye'lilerden az olmayan diğer arap mültecilerin -tamamının- burada kalacak olmasına da ne bahane bulacağınızı şimdiden düşünmeye başlayın.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    }
+  ]
+}

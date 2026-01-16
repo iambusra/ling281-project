@@ -1,0 +1,39 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:46:19.355231",
+    "total_entries": 2,
+    "input": "suriye alevilerine nusayri demek",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriye alevilerine nusayri demek",
+      "entry_id": "30946735",
+      "author": "byrsx",
+      "date": "15.11.2012 01:09",
+      "content": "iran alevilerine şii demekten pek farkı yoktur. suriye'de alevi olarak anılan, devlet başının da mensubu bulunduğu grup anadolu aleviliğiyle de iran aleviliğiyle de alakası olmayan farklı bir inanıştır. kendilerine nusayri demeseler de alevi denilerek şamanizm kökenli anadolu aleviliği gibi tanıtılmaları yanlıştır.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriye alevilerine nusayri demek",
+      "entry_id": "173449296",
+      "author": "ahmetcemil1965",
+      "date": "09.03.2025 18:10",
+      "content": "turk devleti ve turk sunnileri arap alevilerini sevmez\narap sunnileri arap alevilerini sevmez, yillarca suriye'de suren alevi terorunden dolayi\nsafi kurtler suriye alevilerini hem arap olduklari icin, hemde alevi olduklari icin sevmez\nısrail araplari hic sevmez.\nsuriye'li araplarin tek sansi kaldi. usa'ya siginmak. usa da rus uslerinin alevi bolgelerinden kaldirilmasi icin alevilere rus karsiti gosteri yapin diyecek.\nruslar\n1- onuncu yuzyildan beri slav olarak sibirya, turk ulkeleri, balkan ulkeleri ve kafkaslari kesiyorlar\n2- stalin zamaninda ulkede yirmi milyon kesildi\n3- en son ukrayna savasi.\nruslar suriye'den cikmamak icin baya alevi keserler. sonra kesilmis aleviler usa ile basbasa kalirlar",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO",
+        "CRIME"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T14:54:45.339234",
+    "total_entries": 1,
+    "input": "tek problem çıkartanların afgan ve suriler olması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "tek problem çıkartanların afgan ve suriler olması",
+      "entry_id": "126778391",
+      "author": "niyazigo",
+      "date": "11.08.2021 03:06",
+      "content": "uzun halinin \"artık tek problem çıkartanların afganlar ve suriyeliler olması\" şeklinde olması gereken başlık.\n\nnerede kötü bi olay duysam artık bi bakıyorum tak orada ya bir suriyeli yada afganın varlığını görüyorum. bazen iyi ki de geldi bu adamlar diyorum çünkü görünen o ki artık bizden problem yaratan kimse kalmadı. ne iğrenç bi tecavüz, ne bi psikopat cinayet, ne de hayasız bi hırsızlık.. bütün bu pis eylemleri bu iki gruba devrettik. zaten neydi öyle, bize hiç yakışmıyordu.\n\nsuriyeliler den sonra afganlar'da gelince tam olduk, el ele verdik ve sonunda barış içinde yaşar olduk. meğer bizim tek eksiğimiz bu arkadaşlarmış.\n\ninsanların ortak bir sevgide değil de, ortak bir nefrette daha kolay birleştiğini duymuştum ama bu kadar hızlı olacağını hiç tahmin etmezdim. vay be.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "CRIME"
+      ]
+    }
+  ]
+}

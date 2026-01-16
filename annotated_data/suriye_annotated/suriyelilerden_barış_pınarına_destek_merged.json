@@ -1,0 +1,26 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T16:04:30.498420",
+    "total_entries": 1,
+    "input": "suriyelilerden barış pınarına destek",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelilerden barış pınarına destek",
+      "entry_id": "96294572",
+      "author": "orientem",
+      "date": "08.10.2019 12:39",
+      "content": "türkiye'nin medya algısında elini güçlendirmesi için olması gerekendir. suriye suriyelilerindir sonuç olarak ve söz hakkı onlarda olmalı. onlar konuştuğunda kimsenin şöyle böyle deme lüksü kalmaz. suriyeliler evine dönsün söylemlerine karşı çıktım normalde. çünkü ülkenin yarısı esad'ın diğer yarısı da terör örgütünün elindeyken şartlar değişmeden onları bu yönetimlerin altında yaşamaya zorlamak insani değil.\n\ngelgelelim barış pınarı tam da bu düzeni değiştirip suriyelilerin ülkesine dönmesini mümkün kılacak bir operasyon fakat suriyelilerden bu konuda destek göremedim tam tersi bizim için değil kendi çıkarlarınız için savaşıyorsunuz diye bir de laf edenine denk geldim.\n\nşu şartlar altında operasyona destek ile ülkelerine dönmek dışında bir alternatif görmüyorum. eğer operasyona destek vermeyecekseniz pyd'nin varlığından memnunsanız buyrun gidin o bölgede yaşayın. yok memnun değilseniz çıkın ülkenizden defolması için konuşun türkiye'ye bu kadar baskı yapılırken suriyenin sahipleri olarak ne istediğinizi dünyaya duyurun.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "XENO",
+        "HATE",
+        "POLICY"
+      ]
+    }
+  ]
+}

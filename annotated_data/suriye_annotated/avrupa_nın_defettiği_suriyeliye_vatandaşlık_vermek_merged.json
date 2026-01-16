@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T15:02:10.905261",
+    "total_entries": 1,
+    "input": "avrupa'nın defettiği suriyeliye vatandaşlık vermek",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "avrupa'nın defettiği suriyeliye vatandaşlık vermek",
+      "entry_id": "61520817",
+      "author": "benim de soyleyeceklerim var la",
+      "date": "03.07.2016 12:10",
+      "content": "bu başlığı açan nasıl bir sığırdır anlayamıyorum? ulan insandan bahsediyoruz. cahil, aptal, ırkçı",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE"
+      ]
+    }
+  ]
+}

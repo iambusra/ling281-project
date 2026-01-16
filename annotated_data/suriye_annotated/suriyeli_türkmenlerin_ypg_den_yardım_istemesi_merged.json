@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:52:57.547791",
+    "total_entries": 1,
+    "input": "suriyeli türkmenlerin ypg'den yardım istemesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeli türkmenlerin ypg'den yardım istemesi",
+      "entry_id": "56391557",
+      "author": "29 mayis 1453 gunu hasta olan yeniceri",
+      "date": "21.11.2015 00:15 ~ 00:17",
+      "content": "akıl almaz bir gelişmedir..\n\ntürkiye'deki hükümet ve sedat peker'den umudunu kesen türkmenler, artık ypg'den yardım ister duruma gelmiş. yahu sormazlar mı adama, uzun reyiz size tonla tır gönderdi be beceriksiz adamlar, naptınız o kadar mühimmatı?",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    }
+  ]
+}

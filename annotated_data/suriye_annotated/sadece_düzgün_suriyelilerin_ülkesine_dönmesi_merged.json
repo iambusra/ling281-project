@@ -1,0 +1,26 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:44:38.869413",
+    "total_entries": 1,
+    "input": "sadece düzgün suriyelilerin ülkesine dönmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "sadece düzgün suriyelilerin ülkesine dönmesi",
+      "entry_id": "170945486",
+      "author": "bahtiyar efendi",
+      "date": "11.12.2024 22:04",
+      "content": "olsa ne trajikomik olur dediğim durum. yine kalırız gaspçı nargilecilerle başbaşa.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO",
+        "CRIME"
+      ]
+    }
+  ]
+}

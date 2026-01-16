@@ -1,0 +1,26 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:15:26.211904",
+    "total_entries": 1,
+    "input": "30 haziran suriyelilerin küçük kızı taciz etmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "30 haziran suriyelilerin küçük kızı taciz etmesi",
+      "entry_id": "165873279",
+      "author": "ad astra gcc",
+      "date": "30.06.2024 23:15 ~ 23:18",
+      "content": "link\n\nhazır tüm dünyada ortalık karışmışken toplu katliamlar, linçler, kafa kesmeler, sokak ortasında çevirip öldürmleler falan nasıl olur acaba?",
+      "has_external_url": true,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "CRIME"
+      ]
+    }
+  ]
+}

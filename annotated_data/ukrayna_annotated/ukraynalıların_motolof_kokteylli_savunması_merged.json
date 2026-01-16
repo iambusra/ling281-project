@@ -1,0 +1,48 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:24:11.488434",
+    "total_entries": 3,
+    "input": "ukraynalıların motolof kokteylli savunması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukraynalıların motolof kokteylli savunması",
+      "entry_id": "134239733",
+      "author": "sonkovboy",
+      "date": "26.02.2022 14:58 ~ 15:00",
+      "content": "dün gece kiev'de olan olaydır. rus zırhlı birliklerine, askeri araçlarına karşı hazırladıkları molotof kokteylleri ile şehirlerini savunmuşlardır. gerçekten büyük bir inanç ve mücadele ruhu görüyoruz. link",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukraynalıların motolof kokteylli savunması",
+      "entry_id": "134240197",
+      "author": "karanlikta kaybolamayan kahraman",
+      "date": "26.02.2022 15:12",
+      "content": "şanlı direniş. ortalığı cehenneme çevirmişler.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "ukraynalıların motolof kokteylli savunması",
+      "entry_id": "134241592",
+      "author": "sozluge kabaran biseyler var",
+      "date": "26.02.2022 16:02 ~ 16:03",
+      "content": "bizim haber sitelerinin fact-check mekanizmalarında ciddi problemler var.\n\nkullanılan video 2014 yılındandır.\n\nteyit: https://www.altnews.in/…in-ukraine-viral-as-recent/",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

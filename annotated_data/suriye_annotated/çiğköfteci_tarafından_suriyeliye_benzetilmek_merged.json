@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T15:02:42.519674",
+    "total_entries": 1,
+    "input": "çiğköfteci tarafından suriyeliye benzetilmek",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "çiğköfteci tarafından suriyeliye benzetilmek",
+      "entry_id": "83828491",
+      "author": "teraskatliev",
+      "date": "29.11.2018 21:09",
+      "content": "suriyelilerin gerçeği sarı saçlı mavi gözlü oluyor doğal benzetme",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "XENO",
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

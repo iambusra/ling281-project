@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:29:48.122959",
+    "total_entries": 1,
+    "input": "suriye'de ruslara drone saldırısı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriye'de ruslara drone saldırısı",
+      "entry_id": "73425139",
+      "author": "orategama",
+      "date": "11.01.2018 09:18",
+      "content": "rus savunma bakanlığına göre, tsk'nın denetimindeki idlib'te bulunan çatışmasızlık bölgesinden kalkan iha'ların gerçekleştirdiği saldırı. doğal olarak tsk'nın idlib'i ne kadar kontrol altında tutabildiği sorgulanmış, rus savunma bakanlığı bir zahmet görevinizi yerine getiriverin diye tsk'ya his yapmıştır.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    }
+  ]
+}

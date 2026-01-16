@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:06:56.462810",
+    "total_entries": 1,
+    "input": "suriyelinin 5 yaşındaki çocuğa tecavüz etmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelinin 5 yaşındaki çocuğa tecavüz etmesi",
+      "entry_id": "165873153",
+      "author": "tornatesviye",
+      "date": "30.06.2024 23:11",
+      "content": "suriyeli biri kayserinin eskişehir bağları mahallesinde 5 ya da 6 yaşlarındaki bir kız çocuğuna tecavüz ettiği iddiaları dolaşmakta. olaylar ileri boyuta varmış. suriyelileri istemeyen vatandaşlara toma müdahalede bulunuyormuş. davutoğlu ekibinin ülkeyi içine soktuğu hal işte bu. yazıklar olsun.\n\nlink burada",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "CRIME"
+      ]
+    }
+  ]
+}

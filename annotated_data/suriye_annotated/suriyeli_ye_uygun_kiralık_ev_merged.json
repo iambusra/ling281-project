@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:53:17.067667",
+    "total_entries": 2,
+    "input": "suriyeli'ye uygun kiralık ev",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeli'ye uygun kiralık ev",
+      "entry_id": "50219827",
+      "author": "retro sokagi mudavimi",
+      "date": "31.03.2015 08:39",
+      "content": "400 tl ye kiraya verilen evdir.sitede filtrelemede suriyeli'yi seçince arama sonuçlarında daha kolay çıkar karşınıza.\n\nhttp://www.odatv.com/…gimizdan-utandirdi-3003151200",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "suriyeli'ye uygun kiralık ev",
+      "entry_id": "50220095",
+      "author": "sana buradan bi korum",
+      "date": "31.03.2015 09:03",
+      "content": "bizim insanlarımızın da kaldıkları, yaşadıkları evler bundan çok çok iyi değil..\n\nfakat 6 aylık haberi şimdi mi veriyor oda tv?\n\nbaşlığın taşınacağı yer:\n\n(bkz: sahibinden.com'daki suriyeli'ye uygun ev ilanı)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    }
+  ]
+}

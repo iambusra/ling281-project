@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:26:02.346149",
+    "total_entries": 1,
+    "input": "rus'un intikamı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rus'un intikamı",
+      "entry_id": "56490563",
+      "author": "inedem",
+      "date": "25.11.2015 11:08",
+      "content": "atın intikamını aratabilir.\n\n(bkz: 24 kasım 2015 suriye sınırında uçak düşürülmesi)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

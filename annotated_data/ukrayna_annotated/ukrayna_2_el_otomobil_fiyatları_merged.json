@@ -1,0 +1,74 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:04:16.504258",
+    "total_entries": 5,
+    "input": "ukrayna 2. el otomobil fiyatları",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukrayna 2. el otomobil fiyatları",
+      "entry_id": "171024351",
+      "author": "nostaljininzevki",
+      "date": "14.12.2024 17:23",
+      "content": "bizde 1.5 milyon istenen volvo v40 modeline adamlar 10 bin dolara alıyor. hani lan bu ülkenin ekonomisi bitikti. artık ukrayna diye bir ülke yoktu. astra j modeline 5 bin dolar yazmışlar.\nukrayna oto pazarı - youtube",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "ECON"
+      ]
+    },
+    {
+      "title": "ukrayna 2. el otomobil fiyatları",
+      "entry_id": "171024539",
+      "author": "sabuncukizi serife",
+      "date": "14.12.2024 17:32 ~ 17:36",
+      "content": "dünyanın neresine giderseniz gidin eğer bir tarım toplumundan bahsetmiyorsak, yani millet götünde yaprakla falan dolaşmıyorsa araba temel ihtiyaç olarak görülür. üretici açısından da böyle (sonuçta satamayacağı bir fiyat biçip, satışları düşürüp zarar etmek istemez). devletler açısından da böyle. (yani vatandaştan sağlıklı şekilde vergi almak istiyorsan onun ulaşımını kolaştırman ya da en azından bunu zorlaştırmaman gerekir.) yani ister savaş olsun ister kıtlık olsun araba almanın kolay olması değil zor olması aslında garip olandır. yeme içme barınmadan sonra en temel ihtiyaçlardan birisi söz konusu burada. elbetteki ucuz olacak.\nkimse cari açıktan falan da bahsetmesin. ithalatta otomotivin payı yüzde 5-10 arasında değişiyor. cari dengeyi korumanın tek yolu ithalatı kısmak değil ihracatı arttırmakla da mümkün olabilir.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "ECON",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "ukrayna 2. el otomobil fiyatları",
+      "entry_id": "171024706",
+      "author": "sosyete kazim",
+      "date": "14.12.2024 17:40",
+      "content": "turkiye'de arac fiyatlari uyduruk bir vergi turu olan ve cikartilirken hedeflendigi yere bir turlu ulasmayan otv yuzunden uctugu icin arastirilmasi gereken fiyatlardir.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "ECON",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "ukrayna 2. el otomobil fiyatları",
+      "entry_id": "171025294",
+      "author": "temurkhan",
+      "date": "14.12.2024 18:11 ~ 18:34",
+      "content": "coğrafya kaderdir.\n\ngidin olum her zaman diyorum. bunu çekmenize gerek yok, 2 palet 1 dalış tüpü alın gerekirse yüzerek gidin ama gidin.\n\niddia ediyorum, dünya tarihinde gelmiş geçmiş en kötü insanların içinde yaşıyoruz.\n\npara, araba vs umrumda değil, 1 tane bile iyi insanı, bencil olmayan gururdan çıldırmayan kendi çıkarını düşünmeyen insanla tanışmadım bu ülkede!\n\nhiç normal değil bu durum, mutluluk yasak bu topraklara!\n\n1 2 tane vardır mutlaka, allahtan dileğim bu ülkede çıksın ve kurtulsanlar ama para için değil, huzur için! para asla huzur getirmez bunu unutmayın!\n\nçıkınca anlarsınız!",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "ukrayna 2. el otomobil fiyatları",
+      "entry_id": "171026250",
+      "author": "super16",
+      "date": "14.12.2024 18:54",
+      "content": "çok iddialı değilim ama suriye'nin ekonomik durumu bile bizden daha iyi olabilir. en azından vatandaşları temel ihtiyaçlarını daha ucuza alıyorlardır",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "ECON"
+      ]
+    }
+  ]
+}

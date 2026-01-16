@@ -1,0 +1,147 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:23:00.263373",
+    "total_entries": 9,
+    "input": "siz çıkın ukraynalılar gelecek",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "siz çıkın ukraynalılar gelecek",
+      "entry_id": "135228932",
+      "author": "kemalistinbiri",
+      "date": "21.03.2022 18:31",
+      "content": "batılı devletler işi biliyor, bizim gibi suriyelileri, afganlıları ve bilumum ortadoğuluları almak yerine ukraynalıları mülteci olarak alıyor. öyle ki; almanya, danimarka, isveç, hollanda, italya gibi avrupa ülkelerinde, arap ve afgan mülteciler, ukraynalılar gelecek denilerek ülkeden atılıyormuş.\n\nadamlar mantıklı bir karar veriyor ancak onlardan kaçanlar bize girmese bari... öyle ya; adamlar işe yarar, kafası çalışan, medeni ve modern insanları alıyorlar. biz ise bu tip mültecileri dolduruyoruz. bugün elde ettiğimiz sonuçtan da belli bu durum...\n\nkaynak",
+      "referenced_content": [],
+      "has_external_url": true,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "siz çıkın ukraynalılar gelecek",
+      "entry_id": "135229056",
+      "author": "eskibirev",
+      "date": "21.03.2022 18:35",
+      "content": "dünyadaki her olumsuzlukta dönüp dolaşıp bize giren bir şeyler oluyor .bu da onlardan biri olacak.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "siz çıkın ukraynalılar gelecek",
+      "entry_id": "135229090",
+      "author": "liberate te ex inferis",
+      "date": "21.03.2022 18:36",
+      "content": "(bkz: ortadogulularin evlat olsa sevilmemesi)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "siz çıkın ukraynalılar gelecek",
+      "entry_id": "135229235",
+      "author": "hergelemimar",
+      "date": "21.03.2022 18:41 ~ 18:58",
+      "content": "şerefsizim benim aklıma gelmişti...\n#130786035",
+      "referenced_content": [
+        {
+          "type": "entry",
+          "title": "rusyanin-ukraynayi-isgale-hazirlanmasi",
+          "entry_id": "130786035",
+          "author": "hergelemimar",
+          "date": "05.12.2021 09:43",
+          "content": "şimdi, kiracısını çıkarmak için almanya dan oğlum gelecek diyen ev sahibi gibi, sevgili suriyeli ve afgan kardeşlerimiz sizi yeterince misafir ettik ama artık ukrayna dan mültecilerimiz gelecek, siz yavaş yavaş gidin...",
+          "has_external_url": false
+        }
+      ],
+      "referenced_entry_ids": [
+        "130786035"
+      ],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "siz çıkın ukraynalılar gelecek",
+      "entry_id": "135229404",
+      "author": "summerof69",
+      "date": "21.03.2022 18:46",
+      "content": "dilerim bunları türkiye'ye itelemezler de ülke ipsiz sapsız hapishanesine dönüşmez. ülke vatandaşları hücre cezası çekercesine güvenlik kaygısı olmadan evlerinden çıkamıyor .",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "siz çıkın ukraynalılar gelecek",
+      "entry_id": "135229492",
+      "author": "the ultimate driving machine",
+      "date": "21.03.2022 18:49",
+      "content": "irkciliga bile hak veriyor artik sozluk yazarlari. vallahi soyleyecek pek soz yok bunun ustune. ustelik irkcilik kendi irklari tarafindan yapilmiyor, bilahare, kendi irklarina karsi da yapiliyor.\n\nyani objektif olmakla her boka muhalif olup gavurun her yaptigini dogru bulmak arasinda ince degil gayet kalin bir cizgi var. azicik okudugunuzu anlayin la.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "siz çıkın ukraynalılar gelecek",
+      "entry_id": "135232883",
+      "author": "kemalistinbiri",
+      "date": "21.03.2022 20:24",
+      "content": "bazı yazar arkadaşlar ırkçılıktan bahsetmiş lakin bunun ırkçılıkla bir ilgisi yoktur. ortalama bir zekada olan her birey, bu durumun, yani afganı suriyelisini ülkemize doldurarak aslında kendi insanımızın haklarından onlara verdiklerimizi anlar.\n\nbu konuda ısrarlı olan idareciler, acaba suriyeli ve afgan bakanlar gelse ve bu bakanlar artık siyaset yapacak dense, aynı insancıllığı gösterirler mi..",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "siz çıkın ukraynalılar gelecek",
+      "entry_id": "135233156",
+      "author": "iriolankazansin",
+      "date": "21.03.2022 20:30",
+      "content": "uzun uzun yazacak arkadaşlara şimdiden söyleyeyim kaynağı yeni şafak olan haber. (bkz: swh) yalan mı doğru mu belli olmayan bir mağdur zırvası.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "siz çıkın ukraynalılar gelecek",
+      "entry_id": "135233428",
+      "author": "lieutenant dan",
+      "date": "21.03.2022 20:37 ~ 20:47",
+      "content": "(bkz: almanya'dan oğlum gelecek diyen ev sahibi) başlığını hatırlatmış haber.\n\nyalan haberse bile mantıklı. biz de türkiye'deki mülteciler, sığınmacılar ve kaçak göçmenler gitsin istiyoruz. o yüzden anlıyorum.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    }
+  ]
+}

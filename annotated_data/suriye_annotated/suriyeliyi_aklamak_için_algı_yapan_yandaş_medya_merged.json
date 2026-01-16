@@ -1,0 +1,62 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:07:49.932318",
+    "total_entries": 4,
+    "input": "suriyeliyi aklamak için algı yapan yandaş medya",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeliyi aklamak için algı yapan yandaş medya",
+      "entry_id": "140177877",
+      "author": "woo",
+      "date": "19.07.2022 08:48",
+      "content": "medya işin bambaşka boyutu, parayla satın alabileceğin bir şey. daha da kötüsü parktan kaz çalan suriyeli için; \"o kaz zaten onlarındı, gezdirmeye getirmişler.\" diye açıklama yapan bir emniyet müdürlüğü var. işte bu çok daha üzücü benim için.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "CRIME"
+      ]
+    },
+    {
+      "title": "suriyeliyi aklamak için algı yapan yandaş medya",
+      "entry_id": "140177970",
+      "author": "randyrhoads 90",
+      "date": "19.07.2022 08:52",
+      "content": "türkiye’nin en pahalı eskortudur.\n\nsanırım yandaş medya için yapılabilecek en iyi tanımlama bu. biraz tuzludur ama, parayı basarsan aklına hayaline gelmeyecek şeyler yaptırabilirsin bu pahalı eskorta.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "ECON",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyeliyi aklamak için algı yapan yandaş medya",
+      "entry_id": "140178050",
+      "author": "turk bilge kagan",
+      "date": "19.07.2022 08:56",
+      "content": "(bkz: dahili bedhah)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyeliyi aklamak için algı yapan yandaş medya",
+      "entry_id": "140179378",
+      "author": "gennaninseki",
+      "date": "19.07.2022 09:46",
+      "content": "zaten çağırından çıkmış cahillikle iyice seviyesizliği, gerzekliği körüklediğini düşünüp sürekli bok attığım “sosyal medya”nın, aslında tam olarak gerçekleri sergileyebilme özgürlüğü içinde olduğundan iyi ki var olduğu ispatlayan yayın organları(!)\n\nhem de göt organları",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

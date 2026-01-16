@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:24:47.650339",
+    "total_entries": 1,
+    "input": "rus tanklarının beyaz saray'a girmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rus tanklarının beyaz saray'a girmesi",
+      "entry_id": "51160186",
+      "author": "graphixel",
+      "date": "08.05.2015 15:02",
+      "content": "çeşitli haber sitelerine göre rus sinema öğrencilerinin 9 mayıs zafer günü kutlamalarına katılamayan obama'ya cevaben kutlamaları ayağına getirmesi olayıymış. gerçekten olduysa böyle bir hadise on numara olmuş, helal!\n\nhaber: http://www.turkrus.com/…rus-tanklari-gecti”-xh.aspx\n\nhttps://www.youtube.com/watch?v=gqytakfmlbu",
+      "has_external_url": true,
+      "sentiment_numeric": 4,
+      "categories": [
+        "CULTURE"
+      ]
+    }
+  ]
+}

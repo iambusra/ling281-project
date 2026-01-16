@@ -1,0 +1,123 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:25:05.187966",
+    "total_entries": 9,
+    "input": "rus'a gitmek",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rus'a gitmek",
+      "entry_id": "1736354",
+      "author": "randyrhoads",
+      "date": "03.11.2002 01:32",
+      "content": "halk arasında sık sık kullanılan bir deyimdir...\npara karşılığı ilişkiye giren ruslara başka bir deyimle nataşa ya gitmek olarak özetlenebilir anlamı...",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "rus'a gitmek",
+      "entry_id": "18130834",
+      "author": "hizli sperm",
+      "date": "09.02.2010 02:34",
+      "content": "(bkz: laleli'ye gitmek)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus'a gitmek",
+      "entry_id": "18130935",
+      "author": "erbil",
+      "date": "09.02.2010 02:47",
+      "content": "(bkz: abi üniversiteli hatun düşürdüm)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "SEXUAL"
+      ]
+    },
+    {
+      "title": "rus'a gitmek",
+      "entry_id": "22984632",
+      "author": "dandik tavsan",
+      "date": "10.04.2011 23:37",
+      "content": "aslında hayal kırıklığına uğramaktır.\n\nrus kaldı mı lan? rusların hepsi zengin oldu. bundan on yıl önce bir neskafe'ye götünü siktiren karıların götleri\nkalktı. neden? sorun bi neden? rusya zenginleşiyor. bizim yiğidolara atlayan karıların memleketi gelişiyor.\nşimdi yeniden \"ruski ruski ruski\" diye bağırarak danalar gibi dolaşıyorlar ortada. cepleri de para dolu amına\nkoyim. antalya'ya gidip görün. elin sarı gacısı rusça emirler yağdırıyor. sen rusça konuşmazsan azarlıyor.\nsen nereye gidiyon da rus'u sikiyon? rus senin patronun olmuş, seni domaltmış!\n\nrus'a gidilmez, rus'dan para kazanılır. asıl ukraynalı'ya, belarus'a, türkemenistan'lıya ya da moldavyalı'ya\ngidilir. bunların arasında en ezikleri ukraynalı karılardır. parayı bastırır, bunları çatır çatır sikersin. ama nereye\nkadar be abim? avrupa birliği ayağına bunların da götü kalkacak. uyuz moldavyalı'ları sikiyor olacaz.\n\nama işin sonunda ne olacak biliyor musunuz?\n\nya elimizi sikecez karı yokluğundan, ya da bok attığımız türk kızlarını hatırlayacaz.\n\nolacak bi şeyler ama hayırlı değil bu gidiş... yine yokluk günleri başlıyor.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "rus'a gitmek",
+      "entry_id": "29666437",
+      "author": "siyah giysili adam",
+      "date": "05.08.2012 21:07 ~ 11.09.2013 15:17",
+      "content": "\"ırkçı değiliz biz ühüü, milliyetçiyiz!!\" diye ağlayan gizli ırkçı türkçülerin kendilerini açık ettikleri dillerine pelesenk olmuş deyimlerden biri. bunu diyen, yakınlarında kendi modernlik anlayışı çerçevesinde davranmayan birini gördüğünde bunu da dedi: \"ya bir git allah aşkına, kürt müsün nesin?!\"",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "rus'a gitmek",
+      "entry_id": "33985871",
+      "author": "solaryum",
+      "date": "20.05.2013 20:49",
+      "content": "http://galeri.uludagsozluk.com/25/sami_5593.jpg",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus'a gitmek",
+      "entry_id": "36297914",
+      "author": "kuturkuturyesilpapazerik",
+      "date": "22.08.2013 16:15 ~ 16:30",
+      "content": "hovarda kardeş ve iki ekurisi daha varsa bir süreden sonra kahve muhabbeti şeklinde dahil olunacak durum.\niki saattir fotoğraf gösteriyorlar bildiğin albüm olmuş bu kızlardan.\nneden bu kadar anlatırken bile ağız suları akar pek anlamadim ama kültür hatta spor halini almış.\nenteresan bilgiler geliyor kaynaktan.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "rus'a gitmek",
+      "entry_id": "36298102",
+      "author": "adam gibi adam",
+      "date": "22.08.2013 16:22",
+      "content": "pazar günü moskovaya giderek gerçekleştireceğim eylem.\nyoksa o sayılmaz mı?",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "rus'a gitmek",
+      "entry_id": "36329014",
+      "author": "mothman",
+      "date": "23.08.2013 15:50",
+      "content": "tır şöförü jargonunda \"rusya'ya gitmek\" anlamında kullanılan söz.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

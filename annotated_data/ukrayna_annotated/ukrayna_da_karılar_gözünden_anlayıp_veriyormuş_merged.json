@@ -1,0 +1,39 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:14:27.808565",
+    "total_entries": 2,
+    "input": "ukrayna'da karılar gözünden anlayıp veriyormuş",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukrayna'da karılar gözünden anlayıp veriyormuş",
+      "entry_id": "31123199",
+      "author": "noryth aquanum",
+      "date": "29.11.2012 18:50",
+      "content": "tehlikeli bir söz. ukrayna erkekleri göt kapmada birincidir. dikkat.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "SEXUAL"
+      ]
+    },
+    {
+      "title": "ukrayna'da karılar gözünden anlayıp veriyormuş",
+      "entry_id": "31123220",
+      "author": "pis pisi",
+      "date": "29.11.2012 18:52 ~ 08.12.2012 20:42",
+      "content": "bu yalani yiyen bunu da yedi:\n\n(bkz: ukrayna'da türk'e seks dayağı)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CRIME",
+        "SEXUAL",
+        "XENO"
+      ]
+    }
+  ]
+}

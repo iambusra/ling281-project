@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:11:44.494174",
+    "total_entries": 1,
+    "input": "türkiye'ye ana avrat söven vefakar suriyeli",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türkiye'ye ana avrat söven vefakar suriyeli",
+      "entry_id": "64595765",
+      "author": "zakir",
+      "date": "09.12.2016 15:21",
+      "content": "ramak kalmis:\n\nhttps://twitter.com/…awil/status/806356787913953280",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

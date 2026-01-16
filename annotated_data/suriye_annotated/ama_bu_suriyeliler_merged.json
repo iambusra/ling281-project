@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:33:46.114820",
+    "total_entries": 1,
+    "input": "ama bu suriyeliler",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ama bu suriyeliler",
+      "entry_id": "171119311",
+      "author": "sanver",
+      "date": "17.12.2024 21:47",
+      "content": "tam ismiyle \"ama bu suriyeliler – türkiye-ab ilişkileri ve suriyelilerin ilişkilere etkileri \", upa yazarı erol nagaş'ın beykent üniversitesi'ndeki tezinden derlenen ve türkiye-ab ilişkileri nde suriyeli sığınmacılar krizinin etkilerini tartışan kitap.\n\nhttps://politikaakademisi.org/…etkileri-yayimlandi/\n\nhttps://sarmalkitabevi.com/…in-iliskilere-etkileri/",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY",
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

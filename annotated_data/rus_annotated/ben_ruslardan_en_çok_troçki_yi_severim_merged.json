@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:30:52.130434",
+    "total_entries": 1,
+    "input": "ben ruslardan en çok troçki'yi severim",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ben ruslardan en çok troçki'yi severim",
+      "entry_id": "22656600",
+      "author": "dr shephard ameliyathaneye",
+      "date": "21.03.2011 11:01",
+      "content": "büyükada'daki trocki parkinin girisinde yaziyor.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

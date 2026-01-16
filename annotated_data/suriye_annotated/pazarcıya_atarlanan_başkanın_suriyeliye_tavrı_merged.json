@@ -1,0 +1,37 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:44:26.907460",
+    "total_entries": 2,
+    "input": "pazarcıya atarlanan başkanın suriyeliye tavrı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "pazarcıya atarlanan başkanın suriyeliye tavrı",
+      "entry_id": "177530309",
+      "author": "gurcell gurcell",
+      "date": "12.08.2025 13:33",
+      "content": "dün pazarcıya “neden 50 tl’ye domates satıyorsun?” diye posta koyan bahçelievler belediye başkanı, sıra ruhsatsız dükkan işleten suriyeli esnafa gelince birden “efendim, rica etsem” moduna geçmiş.\npazarcıya: “bu nasıl fiyat?!”\nsuriyeliye: “aman efendim, kolay gelsin, zahmet olmazsa…” x",
+      "has_external_url": true,
+      "sentiment_numeric": 4,
+      "categories": [
+        "XENO",
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "pazarcıya atarlanan başkanın suriyeliye tavrı",
+      "entry_id": "177530463",
+      "author": "turkona",
+      "date": "12.08.2025 13:40",
+      "content": "(bkz: ikiyüzlülük)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

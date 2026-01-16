@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:31:20.121564",
+    "total_entries": 1,
+    "input": "ruslarla kışın savaşılmaz",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ruslarla kışın savaşılmaz",
+      "entry_id": "56534237",
+      "author": "aksam olunca eve en son giren cocuk",
+      "date": "27.11.2015 04:43 ~ 04:45",
+      "content": "bir dünya gerçeği.\n\nbütün dünya öğrendi şu gerçeği bir biz öğrenemedik. kasım ayında niye düşürüyorsun arkadaşım adamların uçağını. tam da kış başlarken. zaten adamlar sıcak denizlere açılmak için bahane arıyor. bir kaç ay daha bekleyemediniz mi? kuzen düşürdü falan bir şekilde oyalar, ilkbaharı buldurururduk.\n\nsorumsuzluk diz boyu.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    }
+  ]
+}

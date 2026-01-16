@@ -1,0 +1,84 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:26:03.690931",
+    "total_entries": 6,
+    "input": "duisburg'un kaldığı otelde 400 rus mankenin olması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "duisburg'un kaldığı otelde 400 rus mankenin olması",
+      "entry_id": "48103274",
+      "author": "seviyorsevmiyorseviyorsevmiyorseviyor",
+      "date": "03.01.2015 10:44",
+      "content": "otel değiştirtmiştir. teknik direktör elemanları tutamayız demiş.\n\nhttp://m.fanatik.com.tr/…kaldigini-ogrenince-406670",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "duisburg'un kaldığı otelde 400 rus mankenin olması",
+      "entry_id": "48103509",
+      "author": "nick ararken kaybolan yazar",
+      "date": "03.01.2015 11:00",
+      "content": "(bkz: orayı yıkarlar)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "duisburg'un kaldığı otelde 400 rus mankenin olması",
+      "entry_id": "48103811",
+      "author": "suya dusen sisman koala",
+      "date": "03.01.2015 11:19",
+      "content": "okuyan yüzbinlerin aklına \"hangi otel lan?\" sorusunu getiren haber.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "duisburg'un kaldığı otelde 400 rus mankenin olması",
+      "entry_id": "48103840",
+      "author": "talented tales",
+      "date": "03.01.2015 11:20",
+      "content": "duisburg'lu futbolcu olsam jübilemi yapar yine de o otelden ayrılmazdım.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "duisburg'un kaldığı otelde 400 rus mankenin olması",
+      "entry_id": "48104519",
+      "author": "voltranin sag kolu",
+      "date": "03.01.2015 12:01",
+      "content": "hacı bu adamlar sürekli bunların arasında ne gerek vardı ayrılmaya?\n\nren-vestfalya dediğin rusya'nın kompakt hali zaten.\n\ntanım: ister inan ister inanma haberidir.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "duisburg'un kaldığı otelde 400 rus mankenin olması",
+      "entry_id": "48104601",
+      "author": "incity",
+      "date": "03.01.2015 12:06 ~ 12:12",
+      "content": "hitler döneminde yaşansaydı eğer çok kan dökülürdü. iyi ki o zamanlara denk gelmemiş dediğim durum.\n\n3. lig ekibi lan sikişsin işte gençler, n'olcak.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:10:45.469856",
+    "total_entries": 4,
+    "input": "ukrayna'nın rusya'ya 1 trilyon usd dava açması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukrayna'nın rusya'ya 1 trilyon usd dava açması",
+      "entry_id": "47690849",
+      "author": "standart orbit",
+      "date": "16.12.2014 01:10",
+      "content": "(bkz: dr. evil)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'nın rusya'ya 1 trilyon usd dava açması",
+      "entry_id": "47690857",
+      "author": "psikopatik tikli sazanik fok",
+      "date": "16.12.2014 01:10",
+      "content": "gebze 1. asliye mahkemesi'nde açılacak dava.\n\nkaynak: cumhuriyet başsavcısı arkadaşım",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'nın rusya'ya 1 trilyon usd dava açması",
+      "entry_id": "47691078",
+      "author": "kayitli kullanici",
+      "date": "16.12.2014 01:25 ~ 01:26",
+      "content": "avrupa insan hakları sözleşmesi nin devletlerarası başvurular başlıklı 33. maddesi uyarınca yapılması mümkün olan başvurudur. mesela böyle bir başvuru sonucunda verilmiş kıbrıs türkiye'ye karşı kararı da mevcuttur.",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "ukrayna'nın rusya'ya 1 trilyon usd dava açması",
+      "entry_id": "47691867",
+      "author": "deepinthedesert",
+      "date": "16.12.2014 02:20",
+      "content": "korkak ve saçma bir davadır. aynı zamanda komiktir de.\n\nukrayna eğer kırım'ı bu kadar çok istiyorsa neden tek kurşun atmadan terk etti? bu korkaklık ve acizlik ifadesi değil de nedir?\n\nukrayna hükümeti kırımı kaybetmeyi kabul etmiştir ve referandum da yapılmıştır. bu saatten sonra bu konuda ne ukrayna'nın ne de nato ittifakının şimdilik yapacak pek bir şeyi yok.\n\nrusya bu parayı ödemez. asla ödemez.. gerekirse aihm'i tanımaktan vazgeçer ama ödemez.\n\nşimdilik asıl sorun doğu ukrayna meselesi.. mücadele bu noktada.. abd ve kankaları petrol fiyatlarını düşürerek rusya'da ekonomik kriz çıkarmak derdindeler. ve işleri pek kötü gitmiyor gibi. ruble yıl başından bu yana %48 değer kaybetti. rusya'da enerji ihracatına bağlı gelir kalemleri daraldı doğru ama rusya 14 yıl önceki oligarkların eline düşmüş rusya da değil. sanayi üretimleri, askeri teknolojileri de gayet iyi durumda.. ithalata bağımlı değiller.. karşılık olarak gelecek günlerde rusya enerji üretimini azaltıp fiyat arttırmaya ve avrupa'yı soğuk kış günlerinde dondurmaya çalışacaktır.\n\nrusya pes ederse de doğu ukrayna konusunda pes eder. kırım'dan çekilmesi mümkün değil.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY",
+        "ECON"
+      ]
+    }
+  ]
+}

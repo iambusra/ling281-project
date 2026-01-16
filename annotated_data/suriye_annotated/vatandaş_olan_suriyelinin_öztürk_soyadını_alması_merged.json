@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:13:47.536865",
+    "total_entries": 1,
+    "input": "vatandaş olan suriyelinin öztürk soyadını alması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "vatandaş olan suriyelinin öztürk soyadını alması",
+      "entry_id": "132643607",
+      "author": "behram ilahi",
+      "date": "21.01.2022 21:56 ~ 22.01.2022 16:49",
+      "content": "türkiye'de soyadı kanunu çıkınca onca insanın durup dururken neden \"öztürk\" benzeri soyadları seçme ihtiyacı hissettikleri veya neden buna mecbur kaldıkları üzerine düşünülmeden açılmış başlık.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY",
+        "CULTURE"
+      ]
+    }
+  ]
+}

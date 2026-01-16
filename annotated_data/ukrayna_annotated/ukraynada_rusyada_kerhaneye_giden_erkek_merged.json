@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:12:52.625734",
+    "total_entries": 1,
+    "input": "ukraynada rusyada kerhaneye giden erkek",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukraynada rusyada kerhaneye giden erkek",
+      "entry_id": "19439017",
+      "author": "dallaque",
+      "date": "19.06.2010 11:41",
+      "content": "(bkz: yabancı kadınları hayat kadını sanan erkek)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    }
+  ]
+}

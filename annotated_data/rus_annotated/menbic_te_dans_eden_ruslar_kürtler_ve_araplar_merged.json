@@ -1,0 +1,77 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:27:56.301126",
+    "total_entries": 5,
+    "input": "menbic'te dans eden ruslar kürtler ve araplar",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "menbic'te dans eden ruslar kürtler ve araplar",
+      "entry_id": "66762477",
+      "author": "kuradilammas",
+      "date": "10.03.2017 14:50",
+      "content": "menbic'in batısında rus jandarmalarının, pyd silahlı güçlerinin ve suriye orudusu askerlerinin halay çekmesi, kafkas oyunları oynadığı görüntülerde vuku bulan olay.\n\nsuriye'nin geleceği konusunda ciddi ip uçları vermektedir.\n\nhttps://twitter.com/…/web/status/839865226929532929",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "menbic'te dans eden ruslar kürtler ve araplar",
+      "entry_id": "66762576",
+      "author": "rarura",
+      "date": "10.03.2017 14:56",
+      "content": "(bkz: halayı biz çekeriz mala damat vurur)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "menbic'te dans eden ruslar kürtler ve araplar",
+      "entry_id": "66762822",
+      "author": "koyucaknickbulamadim",
+      "date": "10.03.2017 15:10",
+      "content": "savaşa çağırmıyonuz bari halaya çağırın.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "menbic'te dans eden ruslar kürtler ve araplar",
+      "entry_id": "66763062",
+      "author": "loyko zibar",
+      "date": "10.03.2017 15:23",
+      "content": "rusya,suriye'de çok kürt ve arap öldüren cihatçı çeçenlerin yarattığı kötü imajı düzeltmek için,çoğunluğu çeçenlerden oluşan askeri polis taburunu suriye'ye göndermişti.videoda lezginka yapanlar bu taburda görevli çeçenler.\nhttps://www.youtube.com/watch?v=btnjvnlffjk",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "menbic'te dans eden ruslar kürtler ve araplar",
+      "entry_id": "66834592",
+      "author": "last pirate jack sparrow",
+      "date": "14.03.2017 00:39",
+      "content": "(bkz: körler sağırlar birbirini ağırlar)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL",
+        "CULTURE"
+      ]
+    }
+  ]
+}

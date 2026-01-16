@@ -1,0 +1,112 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:10:19.698158",
+    "total_entries": 8,
+    "input": "türkiye suriyelilere yardım için sınırlarını açsın",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türkiye suriyelilere yardım için sınırlarını açsın",
+      "entry_id": "149039009",
+      "author": "hodoristan",
+      "date": "11.02.2023 00:20",
+      "content": "bu yardım, misafirlik işleri bitti. çok net",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "türkiye suriyelilere yardım için sınırlarını açsın",
+      "entry_id": "149039173",
+      "author": "sanchez morales",
+      "date": "11.02.2023 00:22 ~ 00:28",
+      "content": "enkaz altında kurtarılmayı bekleyen dünya kadar deprem mağduru vatandaşımız varken, benim için zerre-i miskal kadar değer taşımayan tavsiyedir.\n\nmerhamet duygularınız bu kadar kabardı ise, buyrun siz açın hudutlarınızı. yahut kendiniz gelip yardım edin.\n\ntürkiye, kendi acısı ile meşgul durumda iken, elalemin derdine koşacak takate, vakte ve paraya sahip değil.\n\n13 yıldır, bu mülteci meselesinin ceremesini bu ülke çekiyor.\n\nbuyrun biraz da siz çekin bu saatten sonra.\n\nülkemizdeki mültecileri de, ama bugün ama yarın kendi ülkelerine güvenli şekilde sevk edeceğiz.\n\ntek taraflı olarak hudutlarımızı açarak, istedikleri ülkeye göç etmelerine de müsaade edeceğiz.\n\nbu işin faturasını tüm dünya sırtlamalı. kimse keriz değil.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY",
+        "ECON"
+      ]
+    },
+    {
+      "title": "türkiye suriyelilere yardım için sınırlarını açsın",
+      "entry_id": "149039273",
+      "author": "terminus yerlisi",
+      "date": "11.02.2023 00:23",
+      "content": "sınırlar kapalı değil ki açsın. isteyen suriyeli istediği gibi giriyor zaten.\nhollanda başvekili boş yapmış.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "türkiye suriyelilere yardım için sınırlarını açsın",
+      "entry_id": "149039347",
+      "author": "aydaronas",
+      "date": "11.02.2023 00:24",
+      "content": "hangi sınır?",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "türkiye suriyelilere yardım için sınırlarını açsın",
+      "entry_id": "149039768",
+      "author": "banagorehavahos",
+      "date": "11.02.2023 00:29",
+      "content": "hollanda'da açsın madem çok yardımsever",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "türkiye suriyelilere yardım için sınırlarını açsın",
+      "entry_id": "149040607",
+      "author": "elineverensihirbaz",
+      "date": "11.02.2023 00:40",
+      "content": "daha da yardım misafirlik falan diye sıçanı...",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "türkiye suriyelilere yardım için sınırlarını açsın",
+      "entry_id": "149041345",
+      "author": "balikadami",
+      "date": "11.02.2023 00:50",
+      "content": "türkiye'de yaşayan suriyelilerin kendi ülkelerindeki depremzedelere yardım etmeye suriye'ye geri dönebilmeleri için tek yönlü olarak açılmasını kast etmişlerse sorun yok açalım. giderken destek içi bilumum paki, afgan ve diğerlerini de alsalar, bir kendi başımıza kalsak.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "türkiye suriyelilere yardım için sınırlarını açsın",
+      "entry_id": "149041631",
+      "author": "devrimci kalem",
+      "date": "11.02.2023 00:54 ~ 00:57",
+      "content": "sınır kapısının açılmasını gerçekten ülkenin ezici çoğunluğu olarak istiyoruz. ülkenin düzenini daha da alt üst etmiş çöl farelerinin ait oldukları yere dönmesi en büyük isteklerimizden birisi. hatta yardım tırlarıyla beraber ülkemizdeki tüm suriyelileri yıllardır hasretini çektikleri memleketlerine ulaştırsınlar.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "POLICY"
+      ]
+    }
+  ]
+}

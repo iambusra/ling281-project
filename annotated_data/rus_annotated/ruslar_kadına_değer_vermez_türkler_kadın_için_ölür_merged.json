@@ -1,0 +1,49 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:27:20.808842",
+    "total_entries": 3,
+    "input": "ruslar kadına değer vermez türkler kadın için ölür",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ruslar kadına değer vermez türkler kadın için ölür",
+      "entry_id": "122419084",
+      "author": "comboatar",
+      "date": "25.04.2021 20:49",
+      "content": "rus kadınından söz ediyorsak doğru bir önerme.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ruslar kadına değer vermez türkler kadın için ölür",
+      "entry_id": "122419352",
+      "author": "kazooo",
+      "date": "25.04.2021 20:54",
+      "content": "türk kadınından bahsediyorsak yanlış önerme",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ruslar kadına değer vermez türkler kadın için ölür",
+      "entry_id": "122419463",
+      "author": "bugun artik dundur",
+      "date": "25.04.2021 20:56",
+      "content": "keske deger vermeseler de oldurmeseler de, sadece insan olarak degee vermeleri yeter. ya olur ya oldururler.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "CRIME"
+      ]
+    }
+  ]
+}

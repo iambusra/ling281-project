@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:21:09.273251",
+    "total_entries": 1,
+    "input": "rus köylüsü çarpması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rus köylüsü çarpması",
+      "entry_id": "176086777",
+      "author": "silahsizhaydut",
+      "date": "16.06.2025 00:26 ~ 00:28",
+      "content": "sınav görevlisi olarak gittiğim okulda, bir sınıf duvarında kocaman harflerle hazırlanmış bir ödev başlığı olarak karşıma çıkıp ismi ile beni dumura uğratan matematik olayı.\n\nkısaca; çok basamaklı çarpmayı iki sütun ile kolay hale getirme işlemi.\n\nama benim zihnimde bir sürü farklı olasılık canlanmıştı bu başlığı okuyunca.\n\n1) bir rus köylüsü ile dar bir koridorda yürüdüğünüzde, cüsse olarak sizden iri olan rus köylüsünün size omuz atmak suretiyle sizi kenara savurarak yolunda ilerlemeye devam etmesi olayının dolaylı anlatımı.\n\n2) bir rus köylüsü kadının sizi kafalayıp, evlenme vaadiyle dolandırması, sağlam giydirmesi durumunun kısa ve öz ifadesi.\n\n3) (kadınlar için) biskolata usulü bir rus köylüsü tarafından duvardan duvara çarpılmak suretiyle sev(!)ilmenin örtülü ifadesi.\n\ngibi bir şeyler çıkacak bu başlıktan diye düşünmüştüm esasında ben. yaklaşıp da okuyunca hassiktir demedim değil.\n\ninsanın zihninde bunlar canlanırken olayın matematiksel bir yöntem ifadesi olmasının yaşattığı hayal kırıklığını tarif etmek ne matematikle, ne türkçeyle mümkün değil dostlar. üzgünüm.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "SEXUAL"
+      ]
+    }
+  ]
+}

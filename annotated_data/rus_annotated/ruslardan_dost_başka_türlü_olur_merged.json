@@ -1,0 +1,48 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:30:35.847924",
+    "total_entries": 3,
+    "input": "ruslardan dost başka türlü olur",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ruslardan dost başka türlü olur",
+      "entry_id": "102875623",
+      "author": "gs007tr",
+      "date": "01.03.2020 23:14",
+      "content": "iyice kahveye dönmüş muhabbet.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ruslardan dost başka türlü olur",
+      "entry_id": "102876512",
+      "author": "uykusuzbiri",
+      "date": "01.03.2020 23:28",
+      "content": "memlekette gerizekalı ne kadar çok daha sık görür hale geldik.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ruslardan dost başka türlü olur",
+      "entry_id": "102884330",
+      "author": "burasi cok onemli",
+      "date": "02.03.2020 01:46",
+      "content": "dün amerika'ya sövüp rus'ları yere göğe sığdıramayanların dediklerine bak, hem vidyoda hem burada. allah kimseyi siyasal islamcılıkla sınamasın.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    }
+  ]
+}

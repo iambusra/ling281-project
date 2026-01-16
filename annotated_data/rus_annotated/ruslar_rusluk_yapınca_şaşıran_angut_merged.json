@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:27:44.114269",
+    "total_entries": 1,
+    "input": "ruslar rusluk yapınca şaşıran angut",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ruslar rusluk yapınca şaşıran angut",
+      "entry_id": "92842869",
+      "author": "cagliari",
+      "date": "20.07.2019 11:25",
+      "content": "ulan herkesin içine mi işledi ırkçılık, dilimize mi yapıştı nedir?\n\nrusların rusluk yapması nedir?\nya da\narapların araplık yapması?\n\nderdimizi doğru kelimelerle anlatamıyorsak ne dediğimizin bir önemi kalmıyor.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    }
+  ]
+}

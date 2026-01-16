@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:14:29.893756",
+    "total_entries": 1,
+    "input": "rusça'nın ukrayna'da resmi dil olması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rusça'nın ukrayna'da resmi dil olması",
+      "entry_id": "28860911",
+      "author": "bildirdi",
+      "date": "05.06.2012 17:33",
+      "content": "yeni yeni ukrayna parlamentosunda geçmekte olan bir yasa.\n\nbir yandan ülkenin yüzde 17'si etnik olarak rus olduğu için bazı bölgelerde bu geçiş mantıklı..\n\nöte yandan şu anki ukrayna hükümetinin rus destekli olduğu teorisi, bu yasanın özgürlük sağlamaktan çok taraf tutmak amaçlı olduğu ihtimalini arttırıyor.\n\nhttp://www.euronews.com/…ial-russian-language-bill/",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY",
+        "CULTURE"
+      ]
+    }
+  ]
+}

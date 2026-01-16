@@ -1,0 +1,329 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:10:47.750108",
+    "total_entries": 23,
+    "input": "türkiye'nin eğittiği suriyeli polis memurları",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türkiye'nin eğittiği suriyeli polis memurları",
+      "entry_id": "65774628",
+      "author": "zafzey",
+      "date": "22.01.2017 22:40",
+      "content": "dibimizdeki ateşin kendiliğinden söneceğini, bizi yakmayacağını düşünmek yerine biraz gerçeklere yoğunlaşsak keşke.\ntürkiye bu savaşın kendi topraklarına sıçramasını istemiyorsa hattın diğer tarafında önlem almak zorundadır.\nişte bu videoda o önlemlerden birisidir.\naslında uzun uzun anlatılıp, at gözlüğüyle değil samimiyetle dinlenilmesi ve anlaşılması gereken o kadar çok şey var ki.\nne yazık ki ne kadar anlatılırsa anlatılsın sonuç değişmeyecek ve kafası kuma gömülü olanlarca tece şöyle, uzun böyle gibi sığ yorumlarla değerlendirilecek video.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY",
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "türkiye'nin eğittiği suriyeli polis memurları",
+      "entry_id": "65775972",
+      "author": "limitsizkredikarti",
+      "date": "22.01.2017 23:28",
+      "content": "(bkz: #65775723)",
+      "referenced_content": [
+        {
+          "type": "entry",
+          "title": "turk-polisinin-suriyelileri-egitmesi",
+          "entry_id": "65775723",
+          "author": "limitsizkredikarti",
+          "date": "22.01.2017 23:19",
+          "content": "baştaki polisimizin direktifleriyle alman videosu mu acaba diye düşündürerek sonrasında anlaşılan video.\n\ntampon yani kurtarılmış bölgede görev yapacak suriyelilerin mersin'de eğitilmesi olayı. toplamı 5000 polisi bulacak.\n\nbiz eğitmesek amerika el atacak, ırak'taki ypg gibi eğitecek ve üstümüze salacaktı. çok daha önce yapmamız gereken şeyi yapıyoruz.\n\nemeği geçenlerin eline sağlık.\n\nsuriyelilerin eğitimi",
+          "has_external_url": true
+        }
+      ],
+      "referenced_entry_ids": [
+        "65775723"
+      ],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "türkiye'nin eğittiği suriyeli polis memurları",
+      "entry_id": "65776257",
+      "author": "matamaiticeoir",
+      "date": "22.01.2017 23:38",
+      "content": "bildiğin polis yazıyor. bunlar türkiye'de mi çalışacak suriye'de harf devrimi mi oldu.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "türkiye'nin eğittiği suriyeli polis memurları",
+      "entry_id": "65777368",
+      "author": "dr krasny",
+      "date": "23.01.2017 00:15",
+      "content": "esad'ın suriye'nin tamamında kontrolü ele almasından sonra neverland'da çalışacak polisler..",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "türkiye'nin eğittiği suriyeli polis memurları",
+      "entry_id": "65794620",
+      "author": "ayetullah dranzer efendi",
+      "date": "23.01.2017 18:56",
+      "content": "ileri zamanlarda kendi devletleri içerisindep parelel bir yapı oluşturma potansiyelleri vardır.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "türkiye'nin eğittiği suriyeli polis memurları",
+      "entry_id": "65877019",
+      "author": "ucukkacikinsan",
+      "date": "26.01.2017 23:06",
+      "content": "neden türkiye ve erdoğan diye nara atıyorlar? bakın mesaja bakın. türkiye ve erdoğan. yani ne demek istiyor, ülke ve padişahı gibi. onun ordusu olduğunu ilan edermişçesine.\n\nulan çok üzülüyorum. bu insanlar polis olduğuna göre vatandaşlık da almışlardır. oy da kullanacaklardır. evet de vereceklerdir. canımıza da okuyacaklardır. geçmiş olsun.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "türkiye'nin eğittiği suriyeli polis memurları",
+      "entry_id": "67464185",
+      "author": "oric",
+      "date": "14.04.2017 14:40 ~ 14:42",
+      "content": "polisler arapça yemin ediyorlar ama türk değiller. suriyeli lan bunlar, yeminlerinde de bol bol \"suriye için\" diyorlar, yemin ettiren polisin ceketi muhtemelen bizimkilerin hediyesi. lise mezunu türk polislerine bu kadar akıcı arapça öğreten bir kurs varsa parası neyse yazılalım bu arada.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "türkiye'nin eğittiği suriyeli polis memurları",
+      "entry_id": "67464236",
+      "author": "memiktolar tombikto",
+      "date": "14.04.2017 14:43",
+      "content": "cerablus'da ya da bir başka kurtarılan şehirde görev yapacak olan suriye'li polislerdir.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "türkiye'nin eğittiği suriyeli polis memurları",
+      "entry_id": "67464277",
+      "author": "sallamakahve",
+      "date": "14.04.2017 14:45 ~ 14:52",
+      "content": "biraz araştırma ve biraz bilgi sahibi olunduğu zaman üniformaların suriye üniforması olduğunu öğrenebilirsiniz. hatta biraz daha araştırırsanız öso olduğunu bile öğrenebilirsiniz. düşünün o kadar basit bir şey araştırmak .\n\ngereksiz dezenformasyon, gereksiz başlık, gereksiz yazar. gereksiz iş yapmayın diyeceğim, yine boşa gidecek.\nalın videonun orjinali: https://www.youtube.com/watch?v=jw2gesafyaa\n\nedit: link eklendi.",
+      "referenced_content": [],
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "türkiye'nin eğittiği suriyeli polis memurları",
+      "entry_id": "67464322",
+      "author": "kirsof35",
+      "date": "14.04.2017 14:47",
+      "content": "(bkz: ülkesi olmayan polis teşkilatı)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "türkiye'nin eğittiği suriyeli polis memurları",
+      "entry_id": "67464515",
+      "author": "orko 8",
+      "date": "14.04.2017 14:58",
+      "content": "cerablus'ta asayişi sağlamakla görevlendirilen ve türkiye tarafından eğitilip donatılan, önemli kısmı suriye türkmenleri'nden oluşan polis gücünün yemin törenidir.\n\nsöz konusu yemin töreni, 23 ocak 2017'de gerçekleştirilmiştir.\n\nvideoda yemini ettirirken görülen de, bu birimin komutanı olan suriye türkmeni abdülrezzak aslan'dır.\n\n(bkz: http://www.gzt.com/…ttigi-suriye-polis-gucu-2601186)\n(bkz: http://www.askeritv.net/…s-icin-polis-egitiyor.html)\n(bkz: http://ortadogugazetesi.net/haber.php?id=56806)\n(bkz: http://www.haberturk.com/…-teskilati-goreve-basladi)\n(bkz: http://www.dunyabulteni.net/…olis-teskilati-kuruldu)",
+      "referenced_content": [],
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "türkiye'nin eğittiği suriyeli polis memurları",
+      "entry_id": "67464526",
+      "author": "suursuzkedi",
+      "date": "14.04.2017 14:58",
+      "content": "(bkz: internette her gördüğüne inanmak)\n(bkz: hele bir otur soluklan yiğidim)\n(bkz: bu yazıyı silinmeden facebookta duvarınıza ekleyin)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "türkiye'nin eğittiği suriyeli polis memurları",
+      "entry_id": "67464549",
+      "author": "realist devekusu",
+      "date": "14.04.2017 14:59",
+      "content": "bunlar suriyeli kardeşlerimiz, lise mezunu dahi olamayıp buranın maaşı ile orada hizmet verecekler.\n\nrahat olunuz, vergileriniz güzel yerlere gidiyor eeeyyy vatandaşlarımız.\n\n-komplo teorisi-\namerika'da ispanyolca bilen polislere dil tazminatına varana kadar ek gelir var, şimdi neden suriye uyruklu türk polisi olmasın ki federe sistemde?\n-komplo teorisi-",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "türkiye'nin eğittiği suriyeli polis memurları",
+      "entry_id": "67464643",
+      "author": "le kays",
+      "date": "14.04.2017 15:04",
+      "content": "yine sözlüktekilere koyun muamelesi yapılan bir başlık ve video daha. gerçek hemen ortaya çıkmış bir de hala savunuyor. muhalefet olmak bu değil.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "türkiye'nin eğittiği suriyeli polis memurları",
+      "entry_id": "67464652",
+      "author": "gongcu",
+      "date": "14.04.2017 15:05",
+      "content": "türk polisinin üniformasının bu görüntüde ne işi var?",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "türkiye'nin eğittiği suriyeli polis memurları",
+      "entry_id": "67464660",
+      "author": "rockinside",
+      "date": "14.04.2017 15:06 ~ 15:09",
+      "content": "yenge! sen misin?\nfacebookta her gördüğüne inanan yengem gibisiniz amk.\nekleme: başlık taşındı, arapça yemin eden türk polisi başlığına yazılmış entry içerir.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "türkiye'nin eğittiği suriyeli polis memurları",
+      "entry_id": "67464783",
+      "author": "samsa albay",
+      "date": "14.04.2017 15:12",
+      "content": "yemin ediyorum şuraya entry girerken bile düşünüyorum acaba yazsam mı diye, adam sıfır araştırma ile gelmiş cayır cayır başlığı açmış, gitmiş üşenmemiş bi de laiklik felan döşemiş, valla helal olsun..\n\nekleme: başlık taşındı, arapça yemin eden türk polisi başlığına yazılmış entry içerir.\nneyse ki başlık ilgili başlığın altına taşınmış..",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "türkiye'nin eğittiği suriyeli polis memurları",
+      "entry_id": "67465298",
+      "author": "odegildenbirgeldiydim",
+      "date": "14.04.2017 15:40 ~ 18.10.2017 15:41",
+      "content": "aksanlarından anadillerinin türkmence olduğu çok net anlaşılan şahıslardır. arapça yemin ediyorlar. isteyenlere vidyodaki yeminin tam türkçe tercümesini gönderebilirim.\n\n--- spoiler ---\n\n- tahya türkiye (yaşasın türkiye)\n- yayha erdoğan (yaşasın erdoğan)\n\n--- spoiler ---\nedit: çaylaklıktan yazarlığa geçiş hürmetine imla.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "türkiye'nin eğittiği suriyeli polis memurları",
+      "entry_id": "67466115",
+      "author": "sherlockun purosu",
+      "date": "14.04.2017 16:26",
+      "content": "kafayı yediniz komple afiyet olsun.\n\nadamlar türkmen veya arap,dilleri de dolayısıyla arapça. türk polis teşkilatı ve silahlı kuvvetleri,dünyanın birçok ülkesine eğitim desteği veriyor. bu eğitimlerde iletişim,gelen ekibin arasında türkçe bilen kişiler sayesinde kurulur.\n\nburada da enteresan olan birşey yok. amerika'nın pyd'ye yaptığı desteğin aynısı ve hatta daha haklısı.\nsuriye polis gücünü,ülkesinin asayişini sağlamak amacıyla teçhizatlandırmış ve eğitmişiz.\n\nbu zekayla çok memleket işlerine karışmayın,çomarlara malzeme oluyorsunuz facebook da falan.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "türkiye'nin eğittiği suriyeli polis memurları",
+      "entry_id": "67466319",
+      "author": "isaacls",
+      "date": "14.04.2017 16:37",
+      "content": "yahiya turkiya\nyahiya erdogan\n\nbunlar ne demek diye merak ettigim yemini eden polislerdir.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "türkiye'nin eğittiği suriyeli polis memurları",
+      "entry_id": "67466762",
+      "author": "sosyalcikinti",
+      "date": "14.04.2017 17:03",
+      "content": "toma yarışlarında t1:) favori olurlar..",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "türkiye'nin eğittiği suriyeli polis memurları",
+      "entry_id": "67467173",
+      "author": "datlidatli",
+      "date": "14.04.2017 17:27",
+      "content": "niğde polis okulunda çalışan bir arkadaşım gece nöbetinde bu şerefsizleri birbirini becerirken yakaladığını söyledikten sonra suriyelilere olan tüm sempatim?? kayboldu.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "türkiye'nin eğittiği suriyeli polis memurları",
+      "entry_id": "67473167",
+      "author": "japan2",
+      "date": "14.04.2017 23:31",
+      "content": "umarım doğru deildir. sikerim öyle polisi saygı duymam.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CRIME"
+      ]
+    }
+  ]
+}

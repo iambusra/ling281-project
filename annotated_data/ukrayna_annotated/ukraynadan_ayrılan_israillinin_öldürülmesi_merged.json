@@ -1,0 +1,38 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:14:45.468468",
+    "total_entries": 2,
+    "input": "ukraynadan ayrılan israillinin öldürülmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukraynadan ayrılan israillinin öldürülmesi",
+      "entry_id": "134363038",
+      "author": "blackpill",
+      "date": "01.03.2022 12:46",
+      "content": "kısaca;\n\"ukrayna’dan ayrılmaya çalışan israil vatandaşı roman brodsky’nin, kontrol noktasında ukrayna askerleri tarafından vurularak öldürüldüğü bildirildi.\"\n\nilginç şeyler oluyor ...\n\nkaynaklar;\n\nhttps://www.ntv.com.tr/…uldu,bbjidadfw0ip3nxynguhkq\n\nhttps://www.reuters.com/…-ministry-says-2022-02-28/",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL",
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "ukraynadan ayrılan israillinin öldürülmesi",
+      "entry_id": "134363226",
+      "author": "hak yeme fuck yeah",
+      "date": "01.03.2022 12:50",
+      "content": "adı kesme işareti olan israilli.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL",
+        "HUMAN"
+      ]
+    }
+  ]
+}

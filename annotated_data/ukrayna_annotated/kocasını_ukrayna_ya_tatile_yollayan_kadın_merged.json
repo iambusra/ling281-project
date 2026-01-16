@@ -1,0 +1,62 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:11:04.224088",
+    "total_entries": 4,
+    "input": "kocasını ukrayna'ya tatile yollayan kadın",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "kocasını ukrayna'ya tatile yollayan kadın",
+      "entry_id": "39854160",
+      "author": "benefiecence undaunted",
+      "date": "22.01.2014 12:34",
+      "content": "italya'ya kafası rahat gidecek olan kadındır.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "kocasını ukrayna'ya tatile yollayan kadın",
+      "entry_id": "39854685",
+      "author": "bezdarniy",
+      "date": "22.01.2014 13:00",
+      "content": "görende ukrayna'da kızlar bacaklarını açmış bizim erkekleri bekliyorlar zannedecek.\nukraynaya tatile giden erkek en fazla hayat kadını ile birlikte olur, seks için para öder, havalı olduğunu göstermek için ukraynalıların bu kadınlara nasıl davrandığını bilmeden gider en güzel restoranda bir de bunlara yemek yedirirler.\nee yolun yolcusu hayat kadını bu malda çok para olduğunu düşünerek pezevengine haber verip bu malı soyması için ortam yaratır. bizim tatile giden türkiyedeki müzmin aile reisi cıbıldak bir şekilde kalır.\ndemem o ki kocasını ukrayna'ya tatile gönderen kadın kocasını sevmeyen ve ona dolaylı yoldan ceza vermeye çalışan kadındır.\nnot: karım beni tek başına antalya'ya bile göndermez.\nukrayna'ya hiç gitmedim.\nbonus olarak rusça biliyorum.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "SEXUAL"
+      ]
+    },
+    {
+      "title": "kocasını ukrayna'ya tatile yollayan kadın",
+      "entry_id": "39856439",
+      "author": "akilsiz bkz",
+      "date": "22.01.2014 14:21",
+      "content": "(bkz: kiev otobüsü)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "kocasını ukrayna'ya tatile yollayan kadın",
+      "entry_id": "39889863",
+      "author": "purepoison",
+      "date": "23.01.2014 20:41",
+      "content": "(bkz: bırak gitsin dönerse senindir)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

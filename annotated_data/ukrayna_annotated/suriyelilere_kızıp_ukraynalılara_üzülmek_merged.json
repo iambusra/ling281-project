@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:23:35.903217",
+    "total_entries": 1,
+    "input": "suriyelilere kızıp ukraynalılara üzülmek",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelilere kızıp ukraynalılara üzülmek",
+      "entry_id": "134218638",
+      "author": "cicik suyu icen cocuk",
+      "date": "25.02.2022 23:23",
+      "content": "suriyelilere savaştan kaçıp sığındıkları için değil, sığındıkları ülkede kalıcı olup, vatandaş gibi davranmadıkları için kızıyoruz.\n\nboşnağı da çerkesi de geldi daha önce, ülkenin yarısı eski imparatorluğun sağından solundan muhacir. ama hepsi bu ülkenin vatandaşı gibi davrandı. çerkesler yeri geldi teşkilatı mahsusayı kurdu, miti kurdu, boşnaklar dişlerini tırnaklarına taktı çalıştı çabaladı.\nbizim surilerde çalışma yok, dil öğrenme yok, devleti benimseme yok. sonra niye kızıyoruz. bu yüzden kızıyoruz.\nulan afrikadan gelen elemanlar bile dil öğreniyor saat falan satıp suça bulaşmadan emeğiyle geçiniyor.\nafganlar bile en azından çalışıyor ve kadın getirmedikleri için yanlarında beşerli onarlı çoğalamıyorlar.\nbizim suriler yukarıdakiler yetmezmiş gibi bir de ürüyor, durduramıyoruz. bu yüzden kızıyoruz.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    }
+  ]
+}

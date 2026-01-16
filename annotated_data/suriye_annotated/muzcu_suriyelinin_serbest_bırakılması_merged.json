@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:44:17.468828",
+    "total_entries": 2,
+    "input": "muzcu suriyelinin serbest bırakılması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "muzcu suriyelinin serbest bırakılması",
+      "entry_id": "129917990",
+      "author": "day zero",
+      "date": "09.11.2021 18:55",
+      "content": "muz videolarının ardından gözaltına alınan ve gaziantep’teki geri gönderme merkezine nakledilen suriyeli gazeteci majed shamaa serbest bırakıldı.\n\ngazetecinin avukatı mehmet ali hartavi reuters’a, shamaa'nın bugün istanbul'a döneceğini söyledi.\n\nhartavi, shamaa'nın kimseyle alay etme niyetinde olmadığını ve suriyelilerin sorunlarını “mizahi bir şekilde ele almak istediğini” belirtti.\n\ngazetecinin çalıştığı orient news de, shamaa'nın avukatının bir sonraki adımın sınır dışı sürecini durdurmak amacıyla türkiye'de dava açmak olacağını söylediğini aktardı.\n\nizmir’deki bir sokak röportajında bir vatandaşın \"ben muz yiyemiyorum, onlar (suriyeliler) kilolarca muz alıyor\" sözlerinin ardından türkiye'de yaşayan suriyeliler tiktok'ta muz yerken çektikleri videoları paylaşmıştı.\n\nkaynak\n\nşaşırdık mı? yooo...",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "muzcu suriyelinin serbest bırakılması",
+      "entry_id": "129918017",
+      "author": "cok zalimsin sakir abi",
+      "date": "09.11.2021 18:57",
+      "content": "(bkz: muz cumhuriyetinde sıradan bir gün)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "XENO"
+      ]
+    }
+  ]
+}

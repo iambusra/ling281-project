@@ -1,0 +1,63 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:02:45.546044",
+    "total_entries": 4,
+    "input": "suriyelilerin artık hiç gündem olmaması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelilerin artık hiç gündem olmaması",
+      "entry_id": "176993447",
+      "author": "sirgalahad777",
+      "date": "22.07.2025 10:47",
+      "content": "çok ilginç bir durumdur.\n\nşöyle ki bir iki yıl öncesine kadar sürekli suriyeliler şunu yaptı, bunu yaptı, şu sahilde nargile içtiler, burada taşkınlık yaptılar, orada donla denize girdiler, topluca dans ettiler şeklinde haberler sosyal medyaya düşerdi. şimdi bu tarz haberlere neredeyse hiç denk gelemiyoruz.\n\nsuriyeli sayısında ciddi bir azalma olmadığına göre bunun bir kaç farklı sebebi olabilir:\n\n- suriyeliler tamamen entegre oldular. onlar artık nerede nasıl davranması gerektiğini bilen elit bir tabaka!\n- bizim yerli kekolarımız o kadar gündem oluyor ki suriyeliler göze batmıyor!\n- suriyeliler artık sürekli gündem olmak istemedikleri için bu tarz gündem olabilecek olaylara karışmıyorlar.\n\naklıma gelenler bunlar!",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE",
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyelilerin artık hiç gündem olmaması",
+      "entry_id": "176993487",
+      "author": "koyun can derdinde",
+      "date": "22.07.2025 10:49",
+      "content": "ümit hoca'nın da süngüsü düştü. bir sebep de bu olabilir.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyelilerin artık hiç gündem olmaması",
+      "entry_id": "176993495",
+      "author": "sosyoekonomi",
+      "date": "22.07.2025 10:49",
+      "content": "iktidar bu tarz haberlerin yapılmasını istemiyor ve ceza kesiyor basına.\n\nyoksa hödüklükleri, tacizler, kavgaları, saldırganlıkları artarak devam ediyor ama yazabilen yok.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "suriyelilerin artık hiç gündem olmaması",
+      "entry_id": "176993531",
+      "author": "olumsuzdusunenadam",
+      "date": "22.07.2025 10:51",
+      "content": "bir farkımız kalmadı eşit şartlardayız artık.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "CULTURE",
+        "HUMAN"
+      ]
+    }
+  ]
+}

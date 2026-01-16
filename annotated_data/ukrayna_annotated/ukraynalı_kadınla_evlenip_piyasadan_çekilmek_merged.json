@@ -1,0 +1,73 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:21:42.757042",
+    "total_entries": 5,
+    "input": "ukraynalı kadınla evlenip piyasadan çekilmek",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukraynalı kadınla evlenip piyasadan çekilmek",
+      "entry_id": "141874226",
+      "author": "regalianus",
+      "date": "27.08.2022 17:14",
+      "content": "en doğru karar gibi duran seçenek.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukraynalı kadınla evlenip piyasadan çekilmek",
+      "entry_id": "141874303",
+      "author": "charlie chapkin",
+      "date": "27.08.2022 17:17",
+      "content": "hangi piyasa ki o? sermayeyle evlenip kimsenin tanımadığı bir yere gitmek istiyorsun gibi geldi bana.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "ECON"
+      ]
+    },
+    {
+      "title": "ukraynalı kadınla evlenip piyasadan çekilmek",
+      "entry_id": "141874341",
+      "author": "el x",
+      "date": "27.08.2022 17:18",
+      "content": "borsaların kapandığı cuma gününü seçmesini salık verdiğimdir.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "ECON"
+      ]
+    },
+    {
+      "title": "ukraynalı kadınla evlenip piyasadan çekilmek",
+      "entry_id": "141874563",
+      "author": "neyazarim",
+      "date": "27.08.2022 17:26",
+      "content": "rsi, ananız\nmacd, babanız.\n\nvermiyorsa td9 sinyali,\navucunuzu yalarsınız.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "ECON"
+      ]
+    },
+    {
+      "title": "ukraynalı kadınla evlenip piyasadan çekilmek",
+      "entry_id": "141874662",
+      "author": "entrybot",
+      "date": "27.08.2022 17:29",
+      "content": "ukrayna'ya gittiğimde bi erkek arkadaşım bana,'oooo, kutsal toprakları ziyaret ediyorsun demek' demişti. galiba, benim pek bilmediğim bi fenomen var ve ülkede gezerken onların gözüyle bakmadığım kesin.\n\nçok çirkin bunu söylemek, evet, baya farkındayım. savaş korkunç bi şey. bedelini sadece yaşayanlar anlar. ama çok üzülerek ve çok utanarak, o dönem iyi ki denk gelmişim ve gitmişim dediğim bi ülke oldu ukrayna, sonradan. bunu ben de beklemiyordum. sadece 11 gün takılırız ve londra'ya geçerim diye düşünüyordum.\n\nama sonuç; muhtemelen çok uzun yıllar kimsenin gidemeyeceği çernobil'e gitmiş olmak ve satın aldığım tişörtü olabildiğince eskitmek olacak. ve hiç değer kaybetmeyecek. hadi ama, çernobil'e gitmiş ve hayatında gerçekten radyasyon görmüş kaç kişi tanıyorsunuz. ben yaptım. ehe. iyi ki götümü kaldırıp yapmışım.\n\nama çok ama çok üzgünüm ukraynalılar. savaş korkunç.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "CULTURE",
+        "HUMAN"
+      ]
+    }
+  ]
+}

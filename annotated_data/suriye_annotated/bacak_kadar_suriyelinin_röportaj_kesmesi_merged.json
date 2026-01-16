@@ -1,0 +1,38 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:40:18.881446",
+    "total_entries": 2,
+    "input": "bacak kadar suriyelinin röportaj kesmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "bacak kadar suriyelinin röportaj kesmesi",
+      "entry_id": "125875174",
+      "author": "raji",
+      "date": "19.07.2021 02:31",
+      "content": "burada\n\nbugün izlediğim en ilginç video budur sevgili arkadaşlar. sizlerle de paylaşmak istedim. 18 yaşına gelmiş güzeller güzeli bir türk gencinin bacak kadar suriyeli çocukla bu kadar seviye altı bir şekilde tartışmasına çok içerledim. fakat çocuğa karşı mantıklı argümanlar sunamıyor oluşuna daha çok içerledim.\n\nsağcısı da solcusu da zengini de yoksulu da suriyelileri istemiyor. hatta herkes suriyelilerden nefret ediyor. bir göçmen grubunun kendisinden nefret eden bir toplumla iç içe yaşamaktan memnun olması mümkün mü? değil. toplumların en azılı katillerinin çocukluk ve gençlik yaşantıları incelendiğinde en göze çarpan şey yaşadıkları dışlanma ve aşağılanma deneyimleridir. böylesi tek bir deneyimin bile sarsıcı sonuçları oluyorken bunu yıllarca yaşamak ne yazık ki insanı hınç dolu, kin dolu birisi haline dönüştürüyor. çok da uzak olmayan zamanlarda bu insanlardan oluşan grupların terörize faaliyetler sergilemesi kimseyi şaşırtmamalı. maalesef olası senaryo çok korkunç.\n\nbir de eklemek isterim; suriyeli sığınmacılar karşıtı argümanlar içinde belki de en yanlışı videoya da konu olan \"bizim sahip olmadığımız kadar güzel haklara sahip oldukları\" söylemidir. bu bilgi ne yazık ki en çok alkol tüketilen ilin konya olduğu bilgisi kadar yanlıştır. fakat bu iki bilgi de efsaneleştiğinden herkes doğru olduğuna inanmaktadır.\n\nsuriyeli insanlar elbette çeşitli yardımlar alıyor fakat çoğunluğu bu ülkede müreffeh koşullarda yaşamıyor. yani bize yok da onlara var diye bir şey yok. zaten öyle olsa avrupa'ya iltica etmek için kırk takla atarlar mı?\n\nsuriyeliler bir an önce gitsinler istiyorum. bunu canı gönülden diliyorum. cinsel anlamda üretken olduğu süre boyunca doğum yapan - hamile bırakan, kontrasepsiyon düşmanı adam ve kadınları ülkemde daha fazla görmek istemiyorum. fakat görmek istemediğim bu manzarayı yıllardır görüyorsam - görüyorsak müsebbibi siyasi iktidardır. suriyeliler değil. öfkemi doğru kişi ve kuruma yönetebilecek kadar aklıselimim çok şükür.",
+      "has_external_url": true,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "bacak kadar suriyelinin röportaj kesmesi",
+      "entry_id": "125875396",
+      "author": "vladimir bojinov",
+      "date": "19.07.2021 02:41 ~ 02:44",
+      "content": "(bkz: acıma yetime döner koyar götüne)\n\nsözde savaştan kaçmışlar ellerinde poşet gibi bebek arabası var.\n\neğer önümüzdeki seçimde hükümet değişmez ya da değişen hükümet bunları göndermezse 15 sene sonra türkiye diye bir ülke kalmayacak. bu sözümü de bir yere yazın.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    }
+  ]
+}

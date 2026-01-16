@@ -1,0 +1,61 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:43:00.425493",
+    "total_entries": 4,
+    "input": "ilber ortaylı'nın suriyeliler hakkında görüşleri",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ilber ortaylı'nın suriyeliler hakkında görüşleri",
+      "entry_id": "167150616",
+      "author": "gurcell gurcell",
+      "date": "08.08.2024 22:11",
+      "content": "prof. dr. ilber ortaylı söyleşisinde suriyeli sığınmacılar konusunda çok açık konuşmuş.\nhttps://x.com/…013975?t=khomi4hwlkpwv49wayxxsw&s=19\ntam hali:\nhttps://youtu.be/p5eky4jsicw?si=dgppx5dvudchxfmz",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ilber ortaylı'nın suriyeliler hakkında görüşleri",
+      "entry_id": "167150749",
+      "author": "nick degildir o nick olsa duramazsin",
+      "date": "08.08.2024 22:13",
+      "content": "ne demiş ulan niye konuşmayı dinlemek zorundayım.\n\nşunu yazmak çok mu zor?\n\nilber ortaylı suriyeli'ler için ............ dedi.\n\nvideoyu izlemedim amk bilmiyorum.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "ilber ortaylı'nın suriyeliler hakkında görüşleri",
+      "entry_id": "167168437",
+      "author": "scanman",
+      "date": "09.08.2024 11:03",
+      "content": "iki yıl kadar önce ahaber'de, \"türkiye’nin mülteciye ihtiyacı var. öyle afganları istemeyiz falan kim toplayacak senin meyvelerini? koyunlarına kuzularına kim bakacak? insan bir şeyi bilir de konuşur.\" diye demeç veren şahsın yeni söylemi.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "ilber ortaylı'nın suriyeliler hakkında görüşleri",
+      "entry_id": "167168739",
+      "author": "tut miki yan cek",
+      "date": "09.08.2024 11:13",
+      "content": "bir tane esnaf vardı, a haber'den geldiklerinde \"ekonomi çok iyi\" diyordu, halk tv geldiğinde \"ekonomi çok kötü\" diyordu. ilber ortaylı ile akrabalığı olabilir.\n\nöte yandan ilber ortaylı'ya yapılan'toz bulutunun ardından ortaya çıkan huysuz aksakallı' muamelesine kopuyorum. şeyh görünce tetiklenenler, o konuşunca kenara çekiliyor.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "CULTURE"
+      ]
+    }
+  ]
+}

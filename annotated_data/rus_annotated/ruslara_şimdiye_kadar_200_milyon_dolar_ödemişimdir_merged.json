@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:30:03.884322",
+    "total_entries": 1,
+    "input": "ruslara şimdiye kadar 200 milyon dolar ödemişimdir",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ruslara şimdiye kadar 200 milyon dolar ödemişimdir",
+      "entry_id": "24113925",
+      "author": "noryth aquanum",
+      "date": "18.06.2011 18:03",
+      "content": "oha, seks manyağı bir adamın sözü ama böylesi de olmaz ki. o kadar para ödenir mi yav?\nsamimice bir söz, hayvanlık kokuyor.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "SEXUAL",
+        "HATE"
+      ]
+    }
+  ]
+}

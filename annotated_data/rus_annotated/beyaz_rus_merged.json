@@ -1,0 +1,96 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:22:24.951259",
+    "total_entries": 7,
+    "input": "beyaz rus",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "beyaz rus",
+      "entry_id": "1701",
+      "author": "wideman",
+      "date": "11.03.1999",
+      "content": "metroda giderken nata$a diye seslenilince,\ndonup bakan hatunlar toplulugu",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "beyaz rus",
+      "entry_id": "544559",
+      "author": "cyrus",
+      "date": "22.07.2001 17:59",
+      "content": "white russian adi ile anilan kokteylin turkce adi.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "beyaz rus",
+      "entry_id": "544566",
+      "author": "phobios",
+      "date": "22.07.2001 18:04",
+      "content": "kuzeybati asya, aksaray ve laleli civarlarinda rastlanan irk.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "beyaz rus",
+      "entry_id": "8382160",
+      "author": "carsamba",
+      "date": "17.10.2005 11:08 ~ 11:09",
+      "content": "guzelim siyah rus (bkz: yari yariya) (bkz: votka) (bkz: kahlua)'un icine sut katilarak elde edilir.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "beyaz rus",
+      "entry_id": "82102192",
+      "author": "jewfro",
+      "date": "08.10.2018 18:57",
+      "content": "belarus gibi bir ülkeye beyaz rusya dememizden mütevellit tüm beyaz rusya vatandaşlarının tekil olarak literatürdeki adı.\n\nböyle bir bakınca yıllardır beyaz türk gibi kalıplar duyduğumuzdan beyaz rus da biraz garip ve komik geliyor.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "beyaz rus",
+      "entry_id": "142161009",
+      "author": "yalnizlar gari",
+      "date": "03.09.2022 00:46",
+      "content": "tarihsel olarak rus iç savaşı döneminde bolşevik lere muhalif olan grupların genel adıdır. sovyet devrimi'nin yıktığı petrograd hükümetinin destekçileridir, hükümetin komple dağılmasından sonra aleksandr kolçak idaresinde sibirya'da ayrı bir hükümet işlerine girmişlerse de başarısız olunca ya öldürülmüş, ya teslim olmuş ya da kaçmışlardır.\n\npetrograd'a da muhalif olan, sonrasında bolşeviklerle çatışmaya giren gruplar (mesela mahnocular, yeşiller, sol sr'lar) beyazlardan sayılmaz. onlar ayrı gruplardır. ayrıca ayrılıkçı hareketler de kendi özelindedir, beyazlar değildir (mesela polonya, baltık devletleri, finlandiya).",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "beyaz rus",
+      "entry_id": "175685329",
+      "author": "teknokrasi filozof",
+      "date": "30.05.2025 10:27",
+      "content": "belarus'ta yaşayan yerli halka belaruslu denir.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

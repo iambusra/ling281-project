@@ -1,0 +1,39 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:40:16.577212",
+    "total_entries": 2,
+    "input": "avrupa'nın suriyeli mültecileri görmezden gelmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "avrupa'nın suriyeli mültecileri görmezden gelmesi",
+      "entry_id": "50478206",
+      "author": "rokingen",
+      "date": "10.04.2015 19:57",
+      "content": "sadece avrupa'nın değil türkiye'nin de görmezden gelme durumudur.\n\nolum hepsi dilenci oldu, aç bilaç sefil yaşamlar sürüyorlar, türkiye'de normal hayat süren vatandaşlara da gerek hırsızlık vs. gerekse sarkıntılık konularında zarar veriyorlar. hökümet ne yapıyor? kaç ay oldu lan... ne zaman bitecek bu iş?",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO",
+        "CRIME"
+      ]
+    },
+    {
+      "title": "avrupa'nın suriyeli mültecileri görmezden gelmesi",
+      "entry_id": "50478444",
+      "author": "cagliari",
+      "date": "10.04.2015 20:08 ~ 20:09",
+      "content": "bunu ortaya atan ne yapilmasi gerektigini de anlatmali. sonucta suriyenin komsulariyla multeci sayisi karsilastirip buradan bir sonuc cikamaz. sinira multeci kampi kurmak ile uzaktaki bir ulkeden multeci kabul etmek arasinda cok fark var. eger avrupadan bisey bekleyeceksek bu ic savasin durdurmasi ve multeci kamplarina maddi destek vermesi olmalidir. adamlarin dunyanin obur tarafindaki savastan milyonlarca multeci kabul etmesini beklemek biraz abes degil mi?",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY",
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

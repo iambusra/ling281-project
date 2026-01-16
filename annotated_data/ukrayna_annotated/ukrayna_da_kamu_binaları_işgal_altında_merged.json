@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:14:16.137026",
+    "total_entries": 1,
+    "input": "ukrayna'da kamu binaları işgal altında",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukrayna'da kamu binaları işgal altında",
+      "entry_id": "40570281",
+      "author": "kayitsiz kullanici",
+      "date": "20.02.2014 15:08",
+      "content": "herifler adam gibi gidip yasal haklarını kullanarak kamu binalarını işgal altına almış. türkiye ile ukrayna olayları kıyaslandığında bizdeki tepkinin \"işgale kalkışanı sikeriz\" olmasıyla adamlardaki \"demokratik haktır kardeşim\" algısı türkiye'nin durduğu yeri gösteriyor.\n\nvelhasılı ukrayna'da kamu binalarını işgal edenlerin tiplerine baktığımız zaman da ortada bir otpor veya bilderberg üyelerine benzemekle birlikte bizim gezi'de adam gibi hakkını savunanlardan bir farkları yok gibi görünüyor.\n\no tipler: http://www.haber01.com/…-altinda-resimleri,228.html",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY",
+        "CRIME"
+      ]
+    }
+  ]
+}

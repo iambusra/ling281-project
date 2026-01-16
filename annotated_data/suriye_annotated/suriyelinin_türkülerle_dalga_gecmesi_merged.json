@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:07:26.443182",
+    "total_entries": 1,
+    "input": "suriyelinin türkülerle dalga gecmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelinin türkülerle dalga gecmesi",
+      "entry_id": "126536269",
+      "author": "buaralarmutsuz",
+      "date": "05.08.2021 00:11",
+      "content": "işte bunlara yüz verdiniz verdiniz astarını istiyorlar arkaları sağlam sonuçta .",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    }
+  ]
+}

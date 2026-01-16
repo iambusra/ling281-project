@@ -1,0 +1,100 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:09:40.927501",
+    "total_entries": 7,
+    "input": "türk'ün suriyeliye intikamı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türk'ün suriyeliye intikamı",
+      "entry_id": "66402960",
+      "author": "quidrides",
+      "date": "20.02.2017 01:50 ~ 01:52",
+      "content": "(bkz: ismin halleri)\n\ndurum malligin vucut bulmus halidir.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE"
+      ]
+    },
+    {
+      "title": "türk'ün suriyeliye intikamı",
+      "entry_id": "66403323",
+      "author": "frankiegoestohollywood",
+      "date": "20.02.2017 02:24",
+      "content": "sadece insanlıktan değil ismin halleri nden de bihaber bir faşistin fb paylaşımı.\n\n(bkz: türkün suriyeliden intikamı)\n\nayrıca bir afrika atasözünü de akla getirmiştir:\n\n(bkz: türkler zenciyi bizde ırkçılık yok diye diye döver)\n\n.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "türk'ün suriyeliye intikamı",
+      "entry_id": "66403368",
+      "author": "bilgehan36",
+      "date": "20.02.2017 02:29",
+      "content": "bana şeytanı çiz deseniz bu ibneyi,mazlumu çiz deseniz o garibi çizerim...ey insanlık tarihi,unutma o fotoğrafı...",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE"
+      ]
+    },
+    {
+      "title": "türk'ün suriyeliye intikamı",
+      "entry_id": "66403405",
+      "author": "proleterkral",
+      "date": "20.02.2017 02:32 ~ 02:36",
+      "content": "tahminimce tekstil atölyesi orası. babam da tekstil atölyesi işletiyordu, ayda yılda bir gider bakardım. bir ara gittim üç-dört suriyeli vardı. ucuz maaşa iliğini sömürüyorlar bu insanların, bizim peder öyle değildi. zaten ilik sömürülecek bir atölye de değildi. kendisi de atlet şort çalışırdı herkesle bir. açlık sınırına gelmişler ve babam aileyi yanına almış, türkü kürdü arabı hepsi oturur bir sofrada yemek yerdi. babam gibi adamlar da hep böyle şeyler yüzünden kaybederler zaten. (hatta ben de her gittiğimde, ailenin çocuğuna türkçe öğretmeye çalışıyordum. fasulye'ydi lakabı da, kim bilir ne oldu fasulye'ye.) sonra battı bizim atölye. gittim kimse yok. ama emin olun bunun gibi adamlar parayı kırıyorlar bir şekilde. adalet bu tiplerin yanında her zaman.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "ECON",
+        "HATE"
+      ]
+    },
+    {
+      "title": "türk'ün suriyeliye intikamı",
+      "entry_id": "66403424",
+      "author": "tepedelenlitibet",
+      "date": "20.02.2017 02:34",
+      "content": "onu ülkesine gönderirsin ama bunu yapmazsın sana yapılmasını istemediğini yani. mesela söylenecek çok söz var ama iki güne unutulur merak etme o da yalandan bi özür videosu falan unutulur arkadaşım. insan onurunu kırmamak lazım ama bi bitmediniz amk",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "türk'ün suriyeliye intikamı",
+      "entry_id": "66403447",
+      "author": "vapur",
+      "date": "20.02.2017 02:37",
+      "content": "bunu yapan hem insanliktan hem de dilbilgisinden nasibini almamis.\n\nbu arada, elemanin soyadi bir yerde saklanmis, yorumlarda ise kabak gibi ortada. sozcu acaba bilerek mi birakti onu diye dusundum.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE"
+      ]
+    },
+    {
+      "title": "türk'ün suriyeliye intikamı",
+      "entry_id": "66406418",
+      "author": "nomisma",
+      "date": "20.02.2017 10:07",
+      "content": "hukuksuzluk tam olarak budur.\n\nadam bakıyor devletin en tepelerine, kendinden olmayana her türlü hakaret, iftira, zulm ediliyor ve başlarına bir şey gelmiyor. bu herifte o rahatlık ile işçisine bu şekilde davranabiliyor. her zaman derim, pislik yukarıdan aşağıya akan bir şeydir. bozulmalar hep tepeden aşağıya iner.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY",
+        "CRIME"
+      ]
+    }
+  ]
+}

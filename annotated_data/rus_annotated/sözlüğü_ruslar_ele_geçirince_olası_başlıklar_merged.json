@@ -1,0 +1,62 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:26:52.229227",
+    "total_entries": 4,
+    "input": "sözlüğü ruslar ele geçirince olası başlıklar",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "sözlüğü ruslar ele geçirince olası başlıklar",
+      "entry_id": "143975407",
+      "author": "engraulis encrasicolus",
+      "date": "16.10.2022 14:20 ~ 16:30",
+      "content": "daha dogrusu sozlugu rus ve ukraynalilar ele gecirince olasi basliklar olacakti.\n\nmalum antalya'da buyuk bir populasyona sahipler. dun de sol framede epey bir populariteleri oldu. antalya'da yasadigimizdan mutevellit attığımız her adimda bunlarla karsilasiyoruz. hayir turist degiller. bildigin yerleşik insanlar. son model araclarla sokakta tur atiyor, avmlerde cilginlarca alisveris yapiyorlar; biz de seyrediyoruz. tamam allah kimseyi vatansız yapmasin ama bok mu var kardesim geldiniz? agzimiza sicildi sizin yuzunuzden.\n\nilk basligi ben atiyorum o zaman;\n(bkz: 16 ekim 2025 paramin bitmesi) (bkz: keske amk)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "sözlüğü ruslar ele geçirince olası başlıklar",
+      "entry_id": "143975441",
+      "author": "swordsman was here",
+      "date": "16.10.2022 14:21",
+      "content": "(bkz: putin bunu düşünmüştür)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "sözlüğü ruslar ele geçirince olası başlıklar",
+      "entry_id": "143975459",
+      "author": "otoban kedisi",
+      "date": "16.10.2022 14:21",
+      "content": "rus kızları gitsin, türk kızları gelsin.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "sözlüğü ruslar ele geçirince olası başlıklar",
+      "entry_id": "143975472",
+      "author": "puanter",
+      "date": "16.10.2022 14:22",
+      "content": "(bkz: sıcak denizlere inince kemiklerimin ısınması)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

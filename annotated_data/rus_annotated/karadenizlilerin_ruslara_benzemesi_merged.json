@@ -1,0 +1,38 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:29:56.792133",
+    "total_entries": 2,
+    "input": "karadenizlilerin ruslara benzemesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "karadenizlilerin ruslara benzemesi",
+      "entry_id": "52516055",
+      "author": "sixpackgirl",
+      "date": "22.06.2015 10:29",
+      "content": "genellikle erkekleri için söylenebilir. her iki ırkın erkekleri de çirkindir.\ntürk kadınları da türk erkeklerine çektikleri için çirkindir.\nama rus kızları çok güzeldir.\n\nama yaşlı ninelerimiz pek bi minnak. canlarım benim.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "karadenizlilerin ruslara benzemesi",
+      "entry_id": "52516157",
+      "author": "vardevela",
+      "date": "22.06.2015 10:34 ~ 10:38",
+      "content": "ah o denizciler yok mu denizciler. sadece mal taşımamışlar.\n\n(bkz: karadenizlilerin bulgarlara benzemesi)\n\nbulgar kadın korosu\n\naraya bir de defne yalnız karışmış",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE",
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:03:01.876202",
+    "total_entries": 3,
+    "input": "suriyelilerin böcek ilacıyla öldürdüğü çocuk",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelilerin böcek ilacıyla öldürdüğü çocuk",
+      "entry_id": "161842042",
+      "author": "charango",
+      "date": "24.02.2024 00:44 ~ 00:48",
+      "content": "bende ülkemde mülteci vs istemiyorum ama suriyelilerin diye açılan bu başlık insafsızca. sanki bilerek çocuğu böcek ilacı ile öldürmüş gibi, toplumu kin ve nefrete sevk etmenin kimseye bir faydası yok.\ncahil bir davar yüzünden yitirilmiş bir can daha, ülkemizde sıradan bir gün, bunu yapan türk olsa ne değişecekti?",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "suriyelilerin böcek ilacıyla öldürdüğü çocuk",
+      "entry_id": "161842154",
+      "author": "yomra",
+      "date": "24.02.2024 00:47 ~ 00:51",
+      "content": "katı halden gaz haline dönüşen fare zehri üst kattakileri zehirliyor.\n\n\"suriyeli mülteci, kasten bir türk'ü öldürdü\" algısı yaratmak için manipülasyon amacı güdülerek açılmış olan bu başlığı ve başlık sahibi yazarı şikayet ediyoruz.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "suriyelilerin böcek ilacıyla öldürdüğü çocuk",
+      "entry_id": "161842333",
+      "author": "roger federerin forehandi",
+      "date": "24.02.2024 00:53 ~ 00:55",
+      "content": "evin kapısını camını bantlayarak evden ayrılan bu çöl farelerini savunan her kim varsa.......................................................................\n\nbunların varlıkları nefes almamıza tehdittir. kimi cahilliğinin sonucu cam kapı bantlayarak öldürür kimi evinize zorla girerek kimi de bıçaklayarak.\n\nama durun o da ne?????? zaten bu şekilde öldürmüşlerdi değil mi?\n\nunutanlarınız varsa eğer\n\nizmir'de türk genç suriyeli genç tarafından bıçaklanarak öldürüldü\n\nizmir'de zorla girdiği evde 12 yaşındaki çocuğu öldüren suriyeli uyruklu saldırgan tutuklandı",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE",
+        "CRIME"
+      ]
+    }
+  ]
+}

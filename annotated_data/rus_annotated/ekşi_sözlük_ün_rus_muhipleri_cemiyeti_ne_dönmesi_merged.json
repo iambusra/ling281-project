@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:26:01.297113",
+    "total_entries": 1,
+    "input": "ekşi sözlük'ün rus muhipleri cemiyeti'ne dönmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ekşi sözlük'ün rus muhipleri cemiyeti'ne dönmesi",
+      "entry_id": "56507535",
+      "author": "sick city",
+      "date": "26.11.2015 00:22 ~ 00:24",
+      "content": "aşağıdaki başlıklara göz atıldığında rahatlıkla anlaşılabilen durum.\n\n(bkz: 24 kasım 2015 suriye sınırında uçak düşürülmesi)\n\n(bkz: #ben rusya'nın yanındayım)\n\n(bkz: 25 kasım 2015 rusya'nın türk tırlarını vurması)\n\n(bkz: 25 kasım 2015 tsk açıklaması)\n\n(bkz: 25 kasım 2015 türkiye'nin götün götün kıvırması)\n\n(bkz: 25 kasım 2015 vladimir putin açıklaması)\n\n(bkz: 25 kasım 2015 yunanistan'ın türkiye'ye tepkisi)\n\n(bkz: 25 kasım 2015 rusya'nın ermeni soykırımı yasası)\n\n(bkz: 25 kasım 2015 türkmen dağı'nın bombalanması)\n\n(bkz: 25 kasım 2015 rusya dışişleri bakanlığı açıklaması)\n\n(bkz: 25 kasım 2015 moskova türk büyükelçiliğine saldırı)\n\n(bkz: 25 kasim 2015 lazkiyede rus hava savunmasi)\n\nvladimir putin rus ergenleri toplasa bu kadar propaganda yaptıramaz.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    }
+  ]
+}

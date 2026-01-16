@@ -1,0 +1,77 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:10:22.180150",
+    "total_entries": 5,
+    "input": "türkiye'de 15 milyon suriyeli görünce hissedilen",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türkiye'de 15 milyon suriyeli görünce hissedilen",
+      "entry_id": "170693377",
+      "author": "winchester brothers",
+      "date": "03.12.2024 09:54",
+      "content": "hiç iyi şeyler hissetmiyorum.\n\nakp ilk önce şam'da cuma namazı kılacağız, asıyoruz kesiyoruz uçuyoruz dedi hooop 15 milyon din kardeşi mayınları önceden temizlenmiş arazilerden yolda üreye üreye memlekete geldi.\n\nşimdi halep kalesinde türk bayrağı gören siyasal islamcı uber zekalara iki çift lafım var, herhalde akp suriyede kalan surilerin dibini kazıyıp onları da memlekete dolduracak şaşırmayın.\n\ngerçi hayatı rant, çıkar, goygoydan ve hamasetten oluşan zeka kırıntılarını ne anlatacağız ki.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "türkiye'de 15 milyon suriyeli görünce hissedilen",
+      "entry_id": "170693772",
+      "author": "7714714",
+      "date": "03.12.2024 10:12 ~ 10:13",
+      "content": "troller halep i fethettik masalları anlatıtken ülke arap işgali altında ne yazık ki. ortada fethedilen bir yer varsa bu türkiye'dir ne yazık ki. adamlar tek mermi sıkmadan ülke kazandılar",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "türkiye'de 15 milyon suriyeli görünce hissedilen",
+      "entry_id": "170694738",
+      "author": "kartalbafilerrr",
+      "date": "03.12.2024 11:03",
+      "content": "akp - mhp hızını alamazsa yaz oraya 3 milyon da afgan paki,\n\nhem de leş kokulusundan, cihat soslu.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "türkiye'de 15 milyon suriyeli görünce hissedilen",
+      "entry_id": "170695780",
+      "author": "kucukkenanabritanicayikitapgibiokuyan",
+      "date": "03.12.2024 11:51",
+      "content": "azımsanamayacak kadar tahmini 1-1,5 milyon ırak ve iran ortadoğulusunu da sos misali bıraktılar türkiyenin üzerine.\n\nakp\nmhp\nhüdapar ortalığı değil, kabusu bu.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "türkiye'de 15 milyon suriyeli görünce hissedilen",
+      "entry_id": "170776207",
+      "author": "kucukkenanabritanicayikitapgibiokuyan",
+      "date": "06.12.2024 09:50",
+      "content": "memleketi arap çölüne çevirmek için canhıraş çalışan bir (bkz: akp) bir de (bkz: mhp) görüyorum,\n\nçocuklarımız lanetle anacak bu dönemi.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    }
+  ]
+}

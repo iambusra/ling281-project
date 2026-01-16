@@ -1,0 +1,1235 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:11:15.862580",
+    "total_entries": 92,
+    "input": "ukrayna'ya vizenin kalkmasi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukrayna'ya vizenin kalkmasi",
+      "entry_id": "21808024",
+      "author": "davulcu nun yeli",
+      "date": "25.01.2011 16:15",
+      "content": "(bkz: şimdi onlar düşünsün)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'ya vizenin kalkmasi",
+      "entry_id": "21808032",
+      "author": "ucan adam",
+      "date": "25.01.2011 16:16 ~ 16:17",
+      "content": "(bkz: önce o vizeyi indir)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "ukrayna'ya vizenin kalkmasi",
+      "entry_id": "21808062",
+      "author": "vampiremmi",
+      "date": "25.01.2011 16:18",
+      "content": "- hayat içki ve seksten ibaret değildir gençler.\n\nberke tarçın",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'ya vizenin kalkmasi",
+      "entry_id": "21808063",
+      "author": "gutter ballet",
+      "date": "25.01.2011 16:18",
+      "content": "türk halkı sarılaşıyor filminin devam filmi niteliğinde olan olay.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'ya vizenin kalkmasi",
+      "entry_id": "21808094",
+      "author": "assab",
+      "date": "25.01.2011 16:20",
+      "content": "(bkz: ukrayna genelev değil)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "ukrayna'ya vizenin kalkmasi",
+      "entry_id": "21808095",
+      "author": "recovering prescription",
+      "date": "25.01.2011 16:21",
+      "content": "(bkz: bu bir sevgi olayı ercan)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'ya vizenin kalkmasi",
+      "entry_id": "21808105",
+      "author": "zohahahaha",
+      "date": "25.01.2011 16:21",
+      "content": "gayri resmi başkentimiz olma ünvanını istanbul'dan kiev e geçirebilir.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "ukrayna'ya vizenin kalkmasi",
+      "entry_id": "21808109",
+      "author": "furio",
+      "date": "25.01.2011 16:21",
+      "content": "rehber niteliğinde;\n\n(bkz: kiev orospu nasihatları)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ukrayna'ya vizenin kalkmasi",
+      "entry_id": "21808116",
+      "author": "ysn",
+      "date": "25.01.2011 16:21",
+      "content": "(bkz: kiev deplasmanı)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'ya vizenin kalkmasi",
+      "entry_id": "21808156",
+      "author": "aliutku",
+      "date": "25.01.2011 16:24 ~ 16:54",
+      "content": "hiçbir fırsat yakalanmasa da oluşacak rekabet ortamının muhtemel sonuçları beni mutlu etmeye yetmektedir.\n\n(bkz: avrupalı kız ile türk kızı arasındaki farklar)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POS-STEREO",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "ukrayna'ya vizenin kalkmasi",
+      "entry_id": "21808175",
+      "author": "kendi halinde bir manyak",
+      "date": "25.01.2011 16:26 ~ 16:29",
+      "content": "(bkz: hobarey)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'ya vizenin kalkmasi",
+      "entry_id": "21808321",
+      "author": "djarumt",
+      "date": "25.01.2011 16:36",
+      "content": "(bkz: ukraynalı erkekler rahatsız)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'ya vizenin kalkmasi",
+      "entry_id": "21808436",
+      "author": "cok ince gordu",
+      "date": "25.01.2011 16:47",
+      "content": "(bkz: invasion begins)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'ya vizenin kalkmasi",
+      "entry_id": "21808448",
+      "author": "birincitekilsahis",
+      "date": "25.01.2011 16:48 ~ 16:51",
+      "content": "\" evet sevgili dinleyiciler şimdi günün başlıklarından seçmeler: başbakanımızın yoğun çabaları ukrayna ile vizelerin kaldırılması na vesile oldu\"\n- ay şevket nereye gidiyorsun? bizim ev o tarafta değil\n- yavaş! yavaş! şevket korkuyorum\n+ çkşarı\n- abooov",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "ukrayna'ya vizenin kalkmasi",
+      "entry_id": "21808506",
+      "author": "impuls",
+      "date": "25.01.2011 16:52",
+      "content": "(bkz: herkese hürrem kampanyası)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'ya vizenin kalkmasi",
+      "entry_id": "21808507",
+      "author": "ismini vermek istemeyen yazar",
+      "date": "25.01.2011 16:52",
+      "content": "(bkz: yürü yüreğim gidelim buralardan)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'ya vizenin kalkmasi",
+      "entry_id": "21808538",
+      "author": "birincitekilsahis",
+      "date": "25.01.2011 16:54",
+      "content": "-sayın vekil ukrayna ile vizelerin kaldırılması gündemdeymiş konu ile ilgili ne düşünüyorsunuz?\n+kalktı bile yavrum kalktı bile\n-aboov",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "ukrayna'ya vizenin kalkmasi",
+      "entry_id": "21808738",
+      "author": "sir alex",
+      "date": "25.01.2011 17:08",
+      "content": "muhteşem yüzyıl dizisi ile bu kararın kesişmesi kesinlikle bir tesadüf değildir.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "ukrayna'ya vizenin kalkmasi",
+      "entry_id": "21808758",
+      "author": "nart nesken jake",
+      "date": "25.01.2011 17:10",
+      "content": "tekrardan''ben istiyor dujj'' geyiklerine sebep olmuştur. oraya bu muhabbetler üzerine giden bir kaç türk'ün dübürünü tahrip etseler hiç acımam.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "SEXUAL"
+      ]
+    },
+    {
+      "title": "ukrayna'ya vizenin kalkmasi",
+      "entry_id": "21808759",
+      "author": "jamsession",
+      "date": "25.01.2011 17:10",
+      "content": "\"türk erk.. anaa gitmişler...\"",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'ya vizenin kalkmasi",
+      "entry_id": "21808828",
+      "author": "aero dynamik",
+      "date": "25.01.2011 17:14",
+      "content": "(bkz: yetmez ama evet)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'ya vizenin kalkmasi",
+      "entry_id": "21808836",
+      "author": "ismini vermek istemeyen yazar",
+      "date": "25.01.2011 17:15",
+      "content": "ey, güzelliğin sözlük tanımı, sarışının en güzel gözlüsü,\nhayatımın anlamı, iç dünyamın gök gürültüsü!\nışık ışık, dalga dalga, elenam, sharapovam,\nben hep senin destanını okudum,\nsenin uğruna yolları arşınlayacağım.\nsana selam veren kuşun\nyuvasını bozacağım\nsana benim gözümle bakanın\nmezarını kazacağım!\n\n(bkz: ukrayna acı vatan)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'ya vizenin kalkmasi",
+      "entry_id": "21808937",
+      "author": "helldoradotcom",
+      "date": "25.01.2011 17:20",
+      "content": "24 şubat 2011 dinamo kiev beşiktaş maçı'na gitmek icin bir sebep daha.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'ya vizenin kalkmasi",
+      "entry_id": "21809067",
+      "author": "urbekli",
+      "date": "25.01.2011 17:28",
+      "content": "beni anlamadığım bir sonuca vardıran gelişme..\n\nbaşbakan rusya ya gidiyo vizeler kalkıyo ukrayna ya gidiyo vizeler kalkıyo...\n\nburdan şu sonuç mu çıkıyo acaba? demek ki bu işler sanıldığı kadar zor değil, demek ki bunlardan öncekiler hiç bi halt yememiş ki şimdiye kadar bi çok ülkeye boşuna vize parası vermişiz..",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "ukrayna'ya vizenin kalkmasi",
+      "entry_id": "21809366",
+      "author": "carpathianmacika",
+      "date": "25.01.2011 17:49",
+      "content": "gidenlerin bir çoğunun gidiş amacı belli, ama artık insanları o kadar çok kendimizden tiksindirmiş durumdayız ki gidiş amacı belli olan insanların babayı alıp döneceği ve benimde buna kıkırdama umudum.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'ya vizenin kalkmasi",
+      "entry_id": "21809421",
+      "author": "smax03",
+      "date": "25.01.2011 17:53",
+      "content": "(bkz: tüm kalkanları indirin)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "ukrayna'ya vizenin kalkmasi",
+      "entry_id": "21809510",
+      "author": "cayciciragi",
+      "date": "25.01.2011 18:00",
+      "content": "artik turkiye'ye kesin donus yapmak icin baska bir engel kalmadi dedirten durum. zon zamanlar da zaten iyice suyu cikmisti bu ulkenin. 6 sene kaldik bu ulkede artik yeter ben yavastan toparlanmaya baslayayim.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'ya vizenin kalkmasi",
+      "entry_id": "21809673",
+      "author": "kararsiz atom",
+      "date": "25.01.2011 18:11",
+      "content": "(bkz: #21761584) burada yazilanlarin aynisinin gecerli oldugu gelismedir.",
+      "referenced_content": [
+        {
+          "type": "entry",
+          "title": "rusyaya-vizesiz-seyahatin-2011-nisanda-baslamasi",
+          "entry_id": "21761584",
+          "author": "kararsiz atom",
+          "date": "22.01.2011 12:16 ~ 26.06.2011 22:59",
+          "content": "en yakin dostu sag eli olan, asagilik kompleksi tavan yapmis homojen kitleyi sevinclere gark ettigi gozlenen gelismedir.\n\nyaklasik 30 tane entry girilmis, bir iki tanesi disinda iki ulke arasindaki vize kaldirilma olayinin onemini beyninden degil de ureme organindan okuyan ve yorumlayan zihniyet yuzunden; avrupa'da yasayan, oranin kulturunu degerlerini ogrenmeye calisan, ulkenin kotu imajini duzeltmek icin gotunu yirtan benim gibi insanlar sanirim where are you from? sorusuna''turkey'' dedigimizde igrenc bir bocek gormus gibi yuzunun sekli degisen kizlarla daha cooook karsilasacak. daha cooook ifadesiz ve renksiz''hmmm, ok, see you'' cevabiyla nerde ne yanlis yaptim diye dusunecek.\n\nulan biriniz de merak etmez misiniz rusya'nin tarihini? biriniz sevinmez misiniz o muhtesem saraylarini, koprulerini, devasa parklarini goreceginiz icin? biriniz de dusunmez misiniz bu adamlarin dunya edebiyatina yaptigi katkilari? o yazarlarin muzeye cevrilmis evlerine, kutuphanelerine gidebilme sansini yakaladiginizi? dunyaca unlu fizikcilerinin, bilim adamlarinin calisma odalarina, universitelerine girebilme,o tarihi yerinde gorebilme sansi hic mi icinizi kipirdatmaz?. varsa yoksa''am'' mi lan derdiniz?''hello, i love you, you love me why not sex?'' diye it surusu gibi yaklastiginiz o dunya guzeli kizlarin size gulumsemesinden cesaret alip rezil etmekten bikmadiniz mi lan koca ulkeyi? cok eziksiniz...kotu haber, diger avrupa milletlerindeki insanlar bu ezikliginizin farkinda, cunku yuzunuzden akiyor! romanyalilar italya icin ne ifade ediyorsa sizin gibi insan musveddeleri yuzunden de turkler avrupalilar ve ruslar icin ayni seyi ifade ediyor.",
+          "has_external_url": false
+        }
+      ],
+      "referenced_entry_ids": [
+        "21761584"
+      ],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'ya vizenin kalkmasi",
+      "entry_id": "21809716",
+      "author": "zenci mahallesindeki solaryumcu",
+      "date": "25.01.2011 18:15",
+      "content": "(bkz: siz turkler sikiyor sikiyor para vermiyor)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE"
+      ]
+    },
+    {
+      "title": "ukrayna'ya vizenin kalkmasi",
+      "entry_id": "21809752",
+      "author": "ibomatt",
+      "date": "25.01.2011 18:18",
+      "content": "türkraynalı diye yeni bir ırkın oluşmasının ilk adımıdır.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "ukrayna'ya vizenin kalkmasi",
+      "entry_id": "21810473",
+      "author": "onurkayabasi",
+      "date": "25.01.2011 19:10",
+      "content": "şu an sol frame'de \"ukrayna ile vizelerin kaldırılması (69)\" şeklinde gözükmesiyle manidar olmuştur.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'ya vizenin kalkmasi",
+      "entry_id": "21810713",
+      "author": "suskungeveze",
+      "date": "25.01.2011 19:28",
+      "content": "(bkz: erkeklere biscolata)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'ya vizenin kalkmasi",
+      "entry_id": "21810737",
+      "author": "nasrallah",
+      "date": "25.01.2011 19:30",
+      "content": "bende ukrayna ya yüzde 100 garantili vize, alamazsanız paranız iade isimli bir kampanya başlatma fikri uyandıran hadise.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "ukrayna'ya vizenin kalkmasi",
+      "entry_id": "21810748",
+      "author": "absent",
+      "date": "25.01.2011 19:31",
+      "content": "muhtemelen alternatif 3 çocuk çözümü için ilave kaynak sağlamak adına yapılan hareket",
+      "referenced_content": [],
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "ukrayna'ya vizenin kalkmasi",
+      "entry_id": "21810778",
+      "author": "eseyran",
+      "date": "25.01.2011 19:33 ~ 19:37",
+      "content": "insanı \"bir de italya ile vizelerin kaldırılması hadisesi yaşanırsa ne kadın kalır bu ülkede ne de erkek\" diye düşünmeye sevk eden hadise. ha tabii şimdi ukrayna ya yeşil ışık yakıp da türk kadınlarının armut toplamasını beklemek yanlış, yakacaksan herkese yak o ışığı behey ampul!\n\nburada, biz türk insanları ne kadar bıkmışız birbirimizden,yoksa bu bir komplo mu?!?!?! (bkz: beyin göçü) (bkz: beden göçü) (bkz: kuş beyin göçü) (bkz: yurt dışına çıkınca ülkede beyin göçü oldu sanmak)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "GENDER-MORAL",
+        "HATE"
+      ]
+    },
+    {
+      "title": "ukrayna'ya vizenin kalkmasi",
+      "entry_id": "21810790",
+      "author": "8th wonder",
+      "date": "25.01.2011 19:34",
+      "content": "(bkz: gittim geldim boşaldım)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "SEXUAL"
+      ]
+    },
+    {
+      "title": "ukrayna'ya vizenin kalkmasi",
+      "entry_id": "21811007",
+      "author": "xaos",
+      "date": "25.01.2011 19:52",
+      "content": "''ukrayna'nın çernobil'den sonra yaşayacağı en büyük facia olabilir...''",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "ukrayna'ya vizenin kalkmasi",
+      "entry_id": "21811023",
+      "author": "thinkingthing",
+      "date": "25.01.2011 19:53",
+      "content": "görünüşe bakılırsa sözlükteki testosteron miktarını coşturan haberdir. yalnız bir de madalyonun diğer yüzü var. andriy şevçenko'ları unutmayalım, tabii hep ukraynalı kızlara odaklanınca, bazı şeyler gözden kaçabiliyor. http://en.wikipedia.org/…phics_of_ukraine#sex_ratio kısmı incelenirse genç nüfusta erkek sayısının daha fazla olduğu görülebilir. çok ümitlenmek yanlış olabilir yani. (bkz: dimyat'a pirince giderken evdeki bulgurdan olmak)",
+      "referenced_content": [],
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'ya vizenin kalkmasi",
+      "entry_id": "21811024",
+      "author": "huzunbaz sevisgen",
+      "date": "25.01.2011 19:53 ~ 19:54",
+      "content": "http://img42.imageshack.us/…post2711208288509fy.jpg\n\nuygun adimla arşınlanacaktır o yollar.\n(bkz: çükenk omza)\n(bkz: bir ki çük döt)",
+      "referenced_content": [],
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "SEXUAL"
+      ]
+    },
+    {
+      "title": "ukrayna'ya vizenin kalkmasi",
+      "entry_id": "21811075",
+      "author": "xahid",
+      "date": "25.01.2011 19:58",
+      "content": "(bkz: 25 ocak ulusal sabotaj ve serbest ticaret bayrami)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "ukrayna'ya vizenin kalkmasi",
+      "entry_id": "21811139",
+      "author": "gejo",
+      "date": "25.01.2011 20:02",
+      "content": "akp sayesinde gelisen bir uygulama daha ama kimse nedense bundan soz etmemis. samanliktaki yangindan bile akp'yi sorumlu tutan kisiler guzellikleri gormez olmus.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "ukrayna'ya vizenin kalkmasi",
+      "entry_id": "21811236",
+      "author": "saliano",
+      "date": "25.01.2011 20:10 ~ 20:13",
+      "content": "(bkz: osmanlı torunlarının hürremler ile buluşması 2012)\n\nedit: sıradaki hedefimiz ne? isveç olsun lütfen.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'ya vizenin kalkmasi",
+      "entry_id": "21811306",
+      "author": "xaos",
+      "date": "25.01.2011 20:14 ~ 20:58",
+      "content": "'ukrayna'ya vize dışında başka şeyler de kalktı.' (bkz: swh)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "ukrayna'ya vizenin kalkmasi",
+      "entry_id": "21811320",
+      "author": "spell",
+      "date": "25.01.2011 20:16",
+      "content": "s.çtık!! afedersiniz dedirten uygulama, bir bu eksikti, uygun fiyatlı bol taksit uçuş imkanlarıyla da birleşip er kişi milletinin günü birlik seyahatler bile düzenleyebileceklerinden korkmaktayım.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'ya vizenin kalkmasi",
+      "entry_id": "21811326",
+      "author": "summer son",
+      "date": "25.01.2011 20:16",
+      "content": "bildigim kadariyla viktor yuşçenko vizeleri karsilikli kaldirmayi zamaninda bize teklif etmis, bizim taraf da geri cevirmisti. simdi ne oldu da tekrar niyetlenildi anlamak mumkun degil.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "ukrayna'ya vizenin kalkmasi",
+      "entry_id": "21811330",
+      "author": "tgrng",
+      "date": "25.01.2011 20:16",
+      "content": "rusya'ya vizeler kaldırıldıgında da tum yurtda sevinc gosterileri yapılmıstı peki ya sonuc? bir an once uygulanması gereken karar,gec bile kalınmıs karar.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "ukrayna'ya vizenin kalkmasi",
+      "entry_id": "21811352",
+      "author": "thisisacell",
+      "date": "25.01.2011 20:18",
+      "content": "ak parti'nin en büyük seçim yatırımı",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "ukrayna'ya vizenin kalkmasi",
+      "entry_id": "21811421",
+      "author": "r feynman",
+      "date": "25.01.2011 20:23",
+      "content": "bastirilmis cinsel durtulerin geyser misali ortaliklara sacilmasina vesile olan, (daha cok erkek) bireylerin ic yapisina ayna tutan, bu bastirilmislik durtulerine isik vuran diplomatik (ayni zamanda da sosyolojik) olay!",
+      "referenced_content": [],
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "SEXUAL",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "ukrayna'ya vizenin kalkmasi",
+      "entry_id": "21811432",
+      "author": "souffles",
+      "date": "25.01.2011 20:24",
+      "content": "\"tüm bayalüğüüü, abazalüğüüü oralaraüü taşücüklüerrrr\" insanlarının ortaya cıkmasına sebep olmustur.\n\nhayır, ben anlamıyorum arkadas. ülkemde cinselliğin tabu olmasından mütevellit, baskılanması ve sonuçta baskılanan duyguların sel olup akmasından ötürü söyleniyor sanırsam bu cümle.\n\nbu amaçla söylenildiğinden hareket edersek, yahu arkadaş, sen alışveriş yaptığın, maaşını ödeyen, sayesinde para kazandığın, kendi yurttaşlarına, vatandaşlarına gözün kapalı \"bizim toplum cok abaza, rerörerö\" diye bok atacagına, kaldır kafanı ve biraz etrafa bak.\n\nbi tek senin milletin mi abazan arkadas? abazanlık olayları sadece senin ülkende olduğunu düsünmek gibi bi gaflet icerisindesin?\n\nal sana, ismi geçtiğinde senin \"cok gelişmiş bir ülke mirim, ornek avrupa devleti\" dediğin avusturya'dan bi örnek;\n\n(bkz: metroda sevişmek)\n\nnoldu? hani burası full abazan dolu, ama oralar \"cok gelişmiş ülkeler\" idi?\n\nbak dostum, türkiye'de olan abazanlıklara bakıp, \"neden?\" diye sorduğunda cevap alabiliyorsun. sebep, cinsellik duygusunun cok saglam bir şekilde bastırılması. gerek türk toplumunun ahlak ve kültürel yapısından, gerek başka sebeplerden ötürü.\n\ne peki yukarda linkini verdiğim olayın sebebini açıkla bana?\n\n\"evleri mi yok?\"\n\ntabii ki var.\n\n\"otele gidecek paraları mı yok?\"\n\nadamların ülkesinde kişibaşına düşen milli gelir $40,300 (2010 rakamı)\n\n\"avusturya ahlak ve kültürel yapısının gençlerin cinsellik duygularını bastırmış olması mı?\"\n\nbi git lütfen.\n\no yüzden;\n\nhey sen! bilgi sahibi olmadan düşünce sahibi olan insan!\n\nhani sürekli diyorsun ya, \"bu ülke emperyalist oyunlar yüzünden bu halde\" diye. hah işte, aslında ortada emperyalist oyunlar falan yok.\n\ncünkü bu ülkeyi bu hale getiren, ülkesini ve milletini sürekli olarak küçük gören, alay eden, aşağılayan, hep senin gibi orospu cocukları.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "SEXUAL",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "ukrayna'ya vizenin kalkmasi",
+      "entry_id": "21811434",
+      "author": "kosi",
+      "date": "25.01.2011 20:24",
+      "content": "ak parti nin seçim hediyesidir, kutlu olsun.",
+      "referenced_content": [],
+      "has_external_url": false
+    },
+    {
+      "title": "ukrayna'ya vizenin kalkmasi",
+      "entry_id": "21811949",
+      "author": "e m c",
+      "date": "25.01.2011 20:55",
+      "content": "boşbakan ın ülkeden kovduklarının nereye gidelim sorusuna cevaptır.\n(bkz: ben bir yere gitmiyorum)\n(bkz: burası benim de vatanım) (bkz: muz cumhuriyeti)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'ya vizenin kalkmasi",
+      "entry_id": "21815836",
+      "author": "egiboy",
+      "date": "26.01.2011 00:28",
+      "content": "(bkz: allaaaaaaaaaaaaaaaaahhhhhhhhhhhhhhhhh)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'ya vizenin kalkmasi",
+      "entry_id": "21816738",
+      "author": "bozuk sut",
+      "date": "26.01.2011 01:30 ~ 01:43",
+      "content": "çük merkezli ülkenin çük merkezli medyasının bu haber için kullandığı fotoğrafa bakılırsa, zannedersem tek eksiğimiz (bkz: zannedersem tek eksiğiniz yarraktı) türk erkekleri müjde! gibi bir başlıkmış.\nmisal, ispanya ile vize kalksa bu kadar coşkulu bir hava yakalanır mıydı, merak etmekteyim. (bkz: swh)",
+      "referenced_content": [],
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "SEXUAL"
+      ]
+    },
+    {
+      "title": "ukrayna'ya vizenin kalkmasi",
+      "entry_id": "21816776",
+      "author": "malsanmalimde",
+      "date": "26.01.2011 01:32",
+      "content": "ukrayna'da sarışın insanların sayısında azalmaya yol açabilecek hadise.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "ukrayna'ya vizenin kalkmasi",
+      "entry_id": "21816948",
+      "author": "bitwise",
+      "date": "26.01.2011 01:44",
+      "content": "femen adlı grubun ukrayna'daki eylemlerinde türkiye'den de bir grubun elini taş'ın altina sokmasına yolacacak hadise.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "CRIME"
+      ]
+    },
+    {
+      "title": "ukrayna'ya vizenin kalkmasi",
+      "entry_id": "21817433",
+      "author": "mabeynihumayun",
+      "date": "26.01.2011 02:23",
+      "content": "böylece ukrayna'da kızlar iç çamaşırı giymiyormuş iddiasını yerinde teyit etmek üzere araştırmacı gezici insanımız yazın ukrayna'ya akacaktır. belki ben bile giderim lan.\n\n(bkz: booking.com)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "SEXUAL"
+      ]
+    },
+    {
+      "title": "ukrayna'ya vizenin kalkmasi",
+      "entry_id": "21817518",
+      "author": "artless artist",
+      "date": "26.01.2011 02:32",
+      "content": "vahim bir değişikliktir.\n\nşu vizeyi niye kaldırırlar anlamıyorum. herkes elini kolunu sallaya sallaya gidiyor, ondan sonra dünyanın herhangi bir yerinde türk olduğunu söyleyince millletin suratı ekşiyor. vizeyi kaldıracağınıza,herkese vermeyin; daha mantıklı. bazen bana bile vermeyin. ama bazen.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "ukrayna'ya vizenin kalkmasi",
+      "entry_id": "21817548",
+      "author": "t muslugu",
+      "date": "26.01.2011 02:35",
+      "content": "ukrayna'ya \"ukranya\" diyen güruh için geçerli değilmiş.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'ya vizenin kalkmasi",
+      "entry_id": "21817574",
+      "author": "read between the lines",
+      "date": "26.01.2011 02:39",
+      "content": "(bkz: abazanların bayramı)\n(bkz: aman tanrım bu bir mucize)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE"
+      ]
+    },
+    {
+      "title": "ukrayna'ya vizenin kalkmasi",
+      "entry_id": "21817607",
+      "author": "earendill",
+      "date": "26.01.2011 02:43",
+      "content": "bi yerde kanuni'nin manevi vasiyetidir. o zaman alabilse alacakmış, ama olmamış. bütün tebayı kurtaramadık, en azından bari kendimizi kurtaralım demiş, ordan hürrem'i almış. ama sonuçta biz de şanlı cedlerimizi örnek alması gereken türk milletinin evlatları değil miyiz? kanuni o gün öyle yapmışsa bize de vizeleri kaldırtmak düşer.\n\nukrayna elbet fetholunacaktır.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "ukrayna'ya vizenin kalkmasi",
+      "entry_id": "21819678",
+      "author": "roboute guilliman",
+      "date": "26.01.2011 10:56",
+      "content": "ukraynayı açık genelev sananları sevindirmiş, coşturmuş haberdir. ağızlarının suyu akarak, bütün ukraynanın bacaklarını açmış, onları beklediğini sanıyorlar herhalde.\n\nbir de genelev deyince aklıma geldi, 6. filo geleceği zaman beyaza boyatmışlar genelevleri filan diye bir şey duymuştum türkiye için, duyduğumda bunu yapanlar için kan beynime sıçramıştı, ukraynalı biraderlerimiz hepten godoş oldukları için bizim gibi düşünmezler, haysiyet filan hak getire adamlarda, zaten domuz da yiyorlar, kıskanmaz bu mendeburlar.\n\naslında beyin bedava değil.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ukrayna'ya vizenin kalkmasi",
+      "entry_id": "21827605",
+      "author": "kakaramukara",
+      "date": "26.01.2011 20:46",
+      "content": "ukrayna ile vizeler kalktı diye sevinen türk erkeğine \"unutma her vizenin bir de finali var\" diye bir iğrençlik yapmak istediğim olay.\n\n(bkz: yaptım gitti)\n(bkz: yaptım ama bir sor niye yaptım)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE"
+      ]
+    },
+    {
+      "title": "ukrayna'ya vizenin kalkmasi",
+      "entry_id": "21914956",
+      "author": "ismini vermek istemeyen yazar",
+      "date": "01.02.2011 12:20",
+      "content": "(bkz: kadınlarımız soyunacak gelin bu güzelliği görün)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "SEXUAL"
+      ]
+    },
+    {
+      "title": "ukrayna'ya vizenin kalkmasi",
+      "entry_id": "21915011",
+      "author": "mmn",
+      "date": "01.02.2011 12:25",
+      "content": "(bkz: kadınlarımız gül gibi olacak)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "GENDER-MORAL"
+      ]
+    },
+    {
+      "title": "ukrayna'ya vizenin kalkmasi",
+      "entry_id": "21915024",
+      "author": "nev i efendi",
+      "date": "01.02.2011 12:26",
+      "content": "doğu karadenizde'ne gerek vardı şimdi buna' yorumlarına sebep olmuştur.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'ya vizenin kalkmasi",
+      "entry_id": "21915053",
+      "author": "batu",
+      "date": "01.02.2011 12:27 ~ 20.09.2017 09:47",
+      "content": "dünyanın pek çok ülkesine vize kaldırılmasından, indirilmesinden çok daha mühim olay. yalan değil, başlığı sol frame'de görünce gaza geldim. bir de bu olay gerçek olsaydı olacakları varın siz düşünün. lan yoksa gerçek mi? birileri bizimle oyun mu oynuyor? zamanında bunu rahmetli özal yapardı. bir yasa ya da kanun çıkarmadan önce, medyada bunun haberlerini çıkartır, toplumdan gelen tepkilere göre ya tamam ya da devam derdi.\n\nne olur ne olmaz ben bir ukrayna konsolosluğu'na uğrayayım. diplomatik pasaport için müracaat edeyim. hayır, yarın bir gün ukrayna ile vizelerin kalıdırılsa yoğunluğa denk gelmeyeyim. el altından ukrayna vizesi çıkartan dolandırıcılar tarafından tufaya düşmeyeyim.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "ukrayna'ya vizenin kalkmasi",
+      "entry_id": "21925248",
+      "author": "xahid",
+      "date": "01.02.2011 23:05",
+      "content": "(bkz: 25 ocak 2011 kahire protestoları)\n\narap dunyasinda genis yanki uyandirmis, bolgenin imrenilen lider ulkesi oldugumuzu bir kez daha gostermistir.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'ya vizenin kalkmasi",
+      "entry_id": "23693755",
+      "author": "goethesocrates",
+      "date": "25.05.2011 21:00",
+      "content": "acaba ne zaman kalkacak, vize alsam da gitsem mi yoksa kalkmasını bekleyip öyle mi gitsem diye düşündüren vizedir",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "ukrayna'ya vizenin kalkmasi",
+      "entry_id": "24096110",
+      "author": "d max",
+      "date": "17.06.2011 13:54",
+      "content": "tam olarak kalkmış sayılmasa da sınır kapılarında (bkz: 3 havalimanı bir de liman) 85 euro verilerek alınabilmesi kabul edilmiştir, eylül ayında geçerli olacaktır. türkiye dışında antigua ve barbuda ve seyşeller'in de aralarında bulunduğu birkaç ülke vatandaşları için alınmış bu karar.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "ukrayna'ya vizenin kalkmasi",
+      "entry_id": "25352036",
+      "author": "procrom",
+      "date": "13.09.2011 16:02",
+      "content": "geç kalktı dikkat edersen.\n\nneyse geç olsun, indirmesi güç olsun.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "ukrayna'ya vizenin kalkmasi",
+      "entry_id": "25357192",
+      "author": "per se",
+      "date": "13.09.2011 23:47",
+      "content": "türk iş adamının ihraç gücü nü çok artıracaktır şühesiz,\nithalatın boyunu posunu da evdeki karıları düşünsün artık...",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "ECON"
+      ]
+    },
+    {
+      "title": "ukrayna'ya vizenin kalkmasi",
+      "entry_id": "25357220",
+      "author": "kadayifci",
+      "date": "13.09.2011 23:50 ~ 23:59",
+      "content": "amına koyim, bu güzel ülkeye orospu ülke iması bitmiyor arkadaş, bir kişi de olsun karı kız içermeyen bir şeyler yazsın şu ülke ile ilgili, desin bak vizeler kalktı ama bin tane tarihi şehri var gezilecek yeri var desin, nasıl abaza bir ülkeyiz, tiksindirdiniz beni\n\nhttp://sphotos.ak.fbcdn.net/…_4402180_7955077_n.jpg",
+      "referenced_content": [],
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ukrayna'ya vizenin kalkmasi",
+      "entry_id": "25357226",
+      "author": "turcino",
+      "date": "13.09.2011 23:51",
+      "content": "gün itibariyle 14 günü aşmayan ziyaretlerde kalkmış gibi görünen durum.\n(bkz: #24847383)",
+      "referenced_content": [],
+      "referenced_entry_ids": [
+        "24847383"
+      ],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'ya vizenin kalkmasi",
+      "entry_id": "25373699",
+      "author": "u 571",
+      "date": "15.09.2011 10:15",
+      "content": "tam olarak kalkmamakla birlikte, almak zorlaşmıştır. gün itibariyle turistik vizeyi 16 iş günü içerisinde vermektedirler ayrıca yeni zamlı fiyatlarıyla. kiev havaalanından aldığım bilgiye göre ise, tüm belgeler tam olsa bile vizeyi havaalanından alma şansınız %50. insan, umarım vizelerin kaldırılması için tekrar görüşmezler, diyor. kalkan şey farklı çünkü.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "ukrayna'ya vizenin kalkmasi",
+      "entry_id": "26664078",
+      "author": "psikopatik tikli sazanik fok",
+      "date": "22.12.2011 17:21",
+      "content": "dışişleri bakanlığının sitesine göre; seyahat voucher'ini, otel rezervasyonunu, dönüş biletini göstermek kaydıyla 30 dolar karşılığında gümrük kapılarından alınabiliyormuş. sanırım bu zorunlulukların tamamı kalktı ve sadece pasaportla gidilebilir duruma geldi.\n\nhttp://www.hurriyet.com.tr/ekonomi/19524148.asp",
+      "referenced_content": [],
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "ukrayna'ya vizenin kalkmasi",
+      "entry_id": "26667319",
+      "author": "tamufire",
+      "date": "22.12.2011 21:03 ~ 29.12.2011 01:49",
+      "content": "hürrem in saraya gelişi gibi türk erkeklerinin ukrayna ya girişi ile yeni bir muhteşem yüzyıl ın başlamasıdır.\nhaberi alır almaz tüm erkekler ellerinde olmayan sebeplerle sevinç yumağı oluşturup halaya başladı bile.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "ukrayna'ya vizenin kalkmasi",
+      "entry_id": "26673260",
+      "author": "cin ruhi",
+      "date": "23.12.2011 05:07",
+      "content": "http://www.hurriyet.com.tr/ekonomi/19526837.asp",
+      "referenced_content": [],
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'ya vizenin kalkmasi",
+      "entry_id": "26678692",
+      "author": "bluemad",
+      "date": "23.12.2011 16:49",
+      "content": "(bkz: çabuk kalktı dikkat edersen)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'ya vizenin kalkmasi",
+      "entry_id": "26678818",
+      "author": "procrom",
+      "date": "23.12.2011 16:59 ~ 17:00",
+      "content": "(bkz: hayde gidelum)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'ya vizenin kalkmasi",
+      "entry_id": "26678945",
+      "author": "doabydur",
+      "date": "23.12.2011 17:09",
+      "content": "genç kadınlarımızın biscolata erkeği hayalleri kurdukları bu dönemde, bizler açısından ciddi önem arz eden karardır. şimdi onlar düşünsün.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "GENDER-MORAL"
+      ]
+    },
+    {
+      "title": "ukrayna'ya vizenin kalkmasi",
+      "entry_id": "26679093",
+      "author": "imadeddin nesimi",
+      "date": "23.12.2011 17:22 ~ 17:23",
+      "content": "yurdum ahalisi ile ilgili güzel ipuçları veren olay.\n\nşimdi, hacı, dış cephe taşeronunda sıvacı olarak çalışan amcam normal bir yurdum insanıdır. rusya, ukrayna ve hatta kazakistan gibi slav menşeli hatunların sokaklarda, barlarda akılları başlardan aldığı ülkelerden birinde çalışmaya gider. sonra döner memlekete, hemen başına üşüşülür. e tabii, yiğitliye bok sürülmeyecek ya, kızları anlatırken, kızlarla münasebetini yalan dolanla süsleyerek, ballandıra ballandıra anlatır. anlattıklarını abartılı bulanlar bile fantezilerine ve gelecek hayallerine halel gelmemesi için kendilerini inandırırlar. bununla benzer veya tamamen alakasız binlerce olay olur, hikaye anlatılır tabii. o memlekete giden tek yurdum insanı sıvacı amcam değil ya. ve bir efsane doğar: \"hacı havalanında iniyorsun, kalacağın yere gidene kadar hatun düşürmüş oluyorsun, hem de ne hatun\".\n\nyok ulen öyle şey!!! ben ne abazalar gördüm yıllarca rusya'da çalışıp da masturbasyona talim eden. öğrenciyken nişantaşı'nda güzel bir dairede oturup, bok gibi para harcayıp, abazalığı \"a\"sını bilmeyip de moskova'da abazalıktan meleyen. sanki ukrayna'da kızlar yola dizilip çükünden bal damlayan yurdum erkeklerini bekliyorlar. hayır, yani gidenler çok iyi temsil etmiş olsalar, güzel intiba bırakmış olsalar, neyse, diyeceğim de, yok öyle bir şey. hacım, boşuna fantezilere dalma, orda da para harcayarak yapacaksın bu işi. şu şekilde, ya da bu şekilde, ama bir ton para harcayarak. sizin kara kaşınıza, kara gözünüze hayran, sarışın, taş gibi hatunlar dizilip beklemiyorlar sizi havaalanında.\n\nhe, ben \"hacı eşek gibi çalışıyorsun, biraz para biriktir, yazık değil mi\" tavsiyesine mukabil mealen bunu diyenini de duydum; \"abi benim babamın fındık tarlaları var, ucu bucağı gözükmüyor, bana ne paradan, ben eşek sikiyordum, parayı mı esirgeyeceğim öyle bir tecrübeden sonra\". bu da var tabii.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "ukrayna'ya vizenin kalkmasi",
+      "entry_id": "27886559",
+      "author": "boyoz gevrek klorak asfalya",
+      "date": "24.03.2012 21:15",
+      "content": "sensation white partisinden önce muhtemelen kalkmayacaktır",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'ya vizenin kalkmasi",
+      "entry_id": "27887295",
+      "author": "pythia",
+      "date": "24.03.2012 22:14",
+      "content": "(bkz: tehlikenin farkında mısınız?)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'ya vizenin kalkmasi",
+      "entry_id": "27887414",
+      "author": "bikocuk",
+      "date": "24.03.2012 22:23",
+      "content": "femen aktivisleri çok kızar bu işe tabi kızmalarıda ayrı bi hoştur.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'ya vizenin kalkmasi",
+      "entry_id": "27891449",
+      "author": "derjava",
+      "date": "25.03.2012 08:54 ~ 24.05.2012 07:01",
+      "content": "pratikte uygulamaya girmesi yaz sonunu bulabilecek durumdur. türkiye bürokratik işlerini halletti ve kendi resmi gazetesinde kararını yayımladı. aynı şeyi ukrayna'nın da yapması gerekiyor. daha ukrayna'nın yaptiği hiçbirşey yok. yetmiyor bu bürokratik işlemlerin bitmesi bir de üstüne 90 gün geçmesi gerekiyor. eğer değişiklik olmaz ise halihazırdaki durum budur.\n\nedit: 1 agustos itibariyle vizesiz seyahat resmiyet kazandi.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "ukrayna'ya vizenin kalkmasi",
+      "entry_id": "29597571",
+      "author": "hayati tehlike",
+      "date": "31.07.2012 17:18 ~ 18:49",
+      "content": "1 ağustos 2012 itibariyle, yani yarın hayata geçecektir. dışişleri bakanlığı resmi açıklamayı az önce yaptı.\n\nukrayna’ya seyahat edecek vatandaşlarımıza duyuru, 31 temmuz 2012\n\n\"türkiye ile ukrayna arasında 22 aralık 2011 tarihinde ankara’da imzalanan ve gerekli onay işlemleri tamamlanan vize muafiyeti anlaşması, 01 ağustos 2012 tarihinde yürürlüğe girecektir.\n\nsözkonusu anlaşma uyarınca umuma mahsus pasaport hamili vatandaşlarımız, ukrayna’ya gerçekleştirecekleri 30 güne kadar ikamet süreli seyahatlerinde vizeden muaf olacak; ancak ukrayna’daki toplam kalış süreleri 180 gün içerisinde 90 günü geçemeyecektir.\n\nçalışma, eğitim, aile birleşimi amacıyla ukrayna’ya gitmek veya ukrayna’da 30 günden fazla ikamet etmek isteyen umuma mahsus pasaport hamili vatandaşlarımızın ise seyahatlerinden önce vize almaları gerekmektedir.\n\ndiğer yandan, türkiye ile ukrayna arasındaki 7 nisan 1994 tarihli vize muafiyeti anlaşması uyarınca, resmi pasaport (diplomatik, hizmet ve hususi) hamili vatandaşlarımız 90 güne kadar ikamet süreli seyahatlerinde vizeden muaftır.\n\nukrayna’ya seyahat edecek vatandaşlarımıza saygıyla duyurulur.\"\n\nhttp://www.mfa.gov.tr/…uyuru_-31-temmuz-2012.tr.mfa",
+      "referenced_content": [],
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "ukrayna'ya vizenin kalkmasi",
+      "entry_id": "29597600",
+      "author": "gecen gun yine sevisiyorum",
+      "date": "31.07.2012 17:21",
+      "content": "(bkz: kazantip yolcusu kalmasın)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'ya vizenin kalkmasi",
+      "entry_id": "29597675",
+      "author": "rakutin",
+      "date": "31.07.2012 17:26",
+      "content": "karadenizi türk gölüne çevirecek mütiş hadise..ondan sonra ver elini bahamalar..deh deh amk.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'ya vizenin kalkmasi",
+      "entry_id": "29960167",
+      "author": "asder007",
+      "date": "27.08.2012 16:30 ~ 16:40",
+      "content": "rusya'ya da vize kaldırıldı. kaç kişi gidiyor ki? gezen bir toplum olmadığımızdan vize daha çok onların işine yarıyor. pegasus uçuşunda yolcuların %80inin ukranyalı olması da bunu gösteriyor. bizden gidenler de genel olarak keko tipli abazalar.\nvizesiz seyahat ile bir arkadaşımı ziyaret ettim. çok güzel ve eğlenceli bir ülke. bir sürü güzel parkı ve tarihi yapısı olan yemyeşil bir ülke.. gece külüpleri inanılmaz.. düşünüldüğü gibi bir cinsel yaşam yok.\nbu entry de yazan cinsellikle ilgili tüm yazılanlar hurafe. gayet tutucudur insanı. yabancıları da çok sevmezler. türk imajı yerlerde.. konuştugu insana türk oldugunu söylemekten utanıyor insan. kekoların girişine izin verilmemeli!",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "SEXUAL",
+        "HATE"
+      ]
+    },
+    {
+      "title": "ukrayna'ya vizenin kalkmasi",
+      "entry_id": "48323921",
+      "author": "publican",
+      "date": "11.01.2015 09:38",
+      "content": "(bkz: nüfusa katkıda bulunmak)",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'ya vizenin kalkmasi",
+      "entry_id": "68226257",
+      "author": "cenksaika",
+      "date": "18.05.2017 09:08 ~ 22.05.2017 14:07",
+      "content": "dışişleri bakanımız \"halklarımız arasında daha fazla temas olsun istiyoruz\" demiş.\nbizimkisi temastan çok sürtünme olacak gibi geliyor bana.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'ya vizenin kalkmasi",
+      "entry_id": "68226311",
+      "author": "karamithat",
+      "date": "18.05.2017 09:13",
+      "content": "ikinci kavimler göçüne sebep olacak kaldırmadır.",
+      "referenced_content": [],
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    }
+  ]
+}

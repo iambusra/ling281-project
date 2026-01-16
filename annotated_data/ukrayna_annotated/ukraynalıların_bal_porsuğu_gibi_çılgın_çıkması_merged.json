@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:24:11.154825",
+    "total_entries": 1,
+    "input": "ukraynalıların bal porsuğu gibi çılgın çıkması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukraynalıların bal porsuğu gibi çılgın çıkması",
+      "entry_id": "134260304",
+      "author": "betada don bebegim yok diye uye oldum",
+      "date": "27.02.2022 00:17",
+      "content": "haberlerde gördüğüm, twitter'dan reddit'ten ve çeşitli mecralardan gördüğüm kadarıyla gerçekleşen durum.\n\nadamlar tam bir çılgın çıktı. sokakta pusular. tankları durdurmalar. silahlı askerlere rusya'ya sizi bırakayım mı demeler.\n\nbaya bir sevdim kendilerini.",
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "HUMAN-POS"
+      ]
+    }
+  ]
+}

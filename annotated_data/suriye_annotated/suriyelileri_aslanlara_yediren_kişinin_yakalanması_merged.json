@@ -1,0 +1,49 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:00:03.354765",
+    "total_entries": 3,
+    "input": "suriyelileri aslanlara yediren kişinin yakalanması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelileri aslanlara yediren kişinin yakalanması",
+      "entry_id": "170912619",
+      "author": "gelgelsarisinimsagyapgel",
+      "date": "10.12.2024 21:01",
+      "content": "htş yalayıcısı emevi attığı muaviyecileri sevince boğan yakalanmadır.\n\nbilmezler ki hayalini kurdukları 83. 84. il ilan edecekleri yerlerin içinden kısa bir süre sonra israil geçecektir.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "suriyelileri aslanlara yediren kişinin yakalanması",
+      "entry_id": "170912792",
+      "author": "taluyka",
+      "date": "10.12.2024 21:07 ~ 21:09",
+      "content": "arkadaşlar haber 2023 tarihine ait.\n\nbuyrun linki:\n\nlink\n\nçeviri ile gerçek habere ulaşabilirsiniz, teşekkürler.\n\nedit: ben çevirisini paylaşayım ya da\n\n--- spoiler ---\n\nbirçok suçuyla ünlüdür. esad rejiminin milis lideri dövüldü ve lübnan güvenliğine teslim edildi\nhaber sayfalarında, hama kentinde esad rejimine bağlı milislerden biri olan \"talal dakkak\"ın lübnan'ın trablus kentindeki tabbaneh mahallesinde halk tarafından dövüldüğü ve ardından güvenlik güçlerine teslim edildiği belirtildi.\n\nsayfalarda, \"dakkak\"ın dayak etkisiyle gösterildiği söylenen bir resim dolaştı ve \"talal dakkak\" rejimin istihbaratına bağlı milislerin liderlerinden biri olarak ünlendi ve haberler birçok haber sayfasında dolaştığı gibi rejim ordusunda bir tuğgeneral değil, birçok suçuyla ünlü bir lider.\n\nhava kuvvetleri istihbarat teşkilatı'nın grup lideri \"dakkak\"ın safkan bir arap kısrağını hama'daki çiftliğinde siyah bir kafese attığını gösteren bir video sosyal medyada tepkiye yol açarken, o dönemde esad'ı destekleyen sayfalar, atın hastalığı nedeniyle bir veteriner tarafından satın alındığını ve acısından kurtulmak için onu öldürmesi gerektiğini haklı çıkardı.\n\nmedya kaynakları, \"hava kuvvetleri istihbaratı\"nda 1.500'den fazla gönüllü olduğu tahmin edilen bir milis kuvvetine liderlik eden ve \"kaplan kuvvetleri\" milis gücü lideri \"suhail el-hasan\" ile güçlü ilişkileri olan \"ebu sakhr\" lakaplı \"dakkak\"ın, hama'daki rejimin en büyük şebbihasından en büyük tüccarına dönüştüğünü belirtiyor.\n\n\"dakkak\", hama şehrinde, güvenlik, askeri ve hatta ekonomik düzeylerde geniş nüfuzu ile tanınıyordu ve taiba imam şehrinde doğdu ve şu anki bölgede yaşıyor ve hama'daki en büyük uyuşturucu ve silah tüccarlarından biri olmakla suçlanıyor ve tartus kentindeki etkili milislerle büyük iletişim ve ilişkilere sahip.\n\n\"ebu sehr\" güvenliğinin sağlanmasından ve milislerinin dağıtılmasından sonra, parasını aklamaya ve hama şehrinin tüm ekonomisi üzerindeki mali kontrolünü aklamaya başladı ve aktivistler sosyal paylaşım sitelerinde lübnan'da dövüldüğünü gösteren bir fotoğrafı dolaşıma sokmadan önce, şehrin en büyük tüccarlarından biri olmak için şehrin önde gelen tüccarlarına ve yatırımcılarına ortaklığını dayattı.\n\nrejim milislerinin liderlerinin birçoğunun suriye halkının öldürülmesine, kaçırılmasına ve yerinden edilmesine katıldıktan sonra başka ülkelere gittiğini belirtmekte fayda var, trablus'taki iç güvenlik güçleri'nin resmi web sitesinde haberin hazırlandığı ana kadar olayla ilgili herhangi bir bilgi yayınlanmadığı ve olayla ilgili yeni gelişmelerin ortaya çıkması durumunda daha sonra ortaya çıkması beklendiği için şam haber ağı olayın geçerliliğini resmi kaynaklardan teyit edemedi.\n--- spoiler ---",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CRIME",
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "suriyelileri aslanlara yediren kişinin yakalanması",
+      "entry_id": "170913002",
+      "author": "43434343",
+      "date": "10.12.2024 21:15",
+      "content": "sırf solculara laf sokacam diye resmen dezenformasyon yapan, ancak bunun karşılığında asla yargılanmayacak olan bir aktrolün sıçmığı.\n\nentrye konu olan şahsı tanımam etmem. umrumda da değil.\nama konu yalancı aktrolün dediği gibi değil o kesin.\n\naslında çok şaşırmamak lazım.\nişleri güçleri yalan, dolan, iftira, dezenformasyon zaten bu aktrollerin.\nonun için maaş alıyorlar.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HUMAN"
+      ]
+    }
+  ]
+}

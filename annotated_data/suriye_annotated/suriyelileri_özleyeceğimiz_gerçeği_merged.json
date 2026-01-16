@@ -1,0 +1,26 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:01:41.671851",
+    "total_entries": 1,
+    "input": "suriyelileri özleyeceğimiz gerçeği",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelileri özleyeceğimiz gerçeği",
+      "entry_id": "170903689",
+      "author": "ktunx",
+      "date": "10.12.2024 14:29 ~ 14:31",
+      "content": "gidip yağma yapıp dönecekler. o yüzden içiniz rahat olsun. ne idüğü belirsiz cihatçı teröristlerin ve hevallerin kuracağı ultra medeni ülkede kim duracak? burda ekmek elden su gölden yaşamak varken gidip orda ne yapacaklar da geçinecekler? kalıcı olarak gitmeyecekleri için çok özlemezsiniz merak etmeyin.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "CRIME"
+      ]
+    }
+  ]
+}

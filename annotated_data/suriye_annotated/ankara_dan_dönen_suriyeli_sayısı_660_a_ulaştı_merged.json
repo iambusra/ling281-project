@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:34:05.498014",
+    "total_entries": 1,
+    "input": "ankara'dan dönen suriyeli sayısı 660'a ulaştı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ankara'dan dönen suriyeli sayısı 660'a ulaştı",
+      "entry_id": "172053319",
+      "author": "day zero",
+      "date": "20.01.2025 18:06",
+      "content": "bir ankara valisi vasip şahin beyanıdır:\n\nx link\n\naz da değil valla, 660 (altı yüz altmış) kişi.\n\ntaşak geçiyorlar amk milletle.",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HUMAN"
+      ]
+    }
+  ]
+}

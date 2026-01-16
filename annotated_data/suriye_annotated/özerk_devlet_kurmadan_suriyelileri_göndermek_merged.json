@@ -1,0 +1,37 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:44:25.288356",
+    "total_entries": 2,
+    "input": "özerk devlet kurmadan suriyelileri göndermek",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "özerk devlet kurmadan suriyelileri göndermek",
+      "entry_id": "152560089",
+      "author": "dostayankoyanseksi",
+      "date": "19.05.2023 02:39",
+      "content": "asıl başlık şu olmalıydı. \"suriyelileri gönderirken kuzey suriye'de, ırak'taki gibi özerk devlet oluşmaması.\"\nşimdi yarın başa kim gelirse gelsin suriyelileri göndermek istiyor. belki de bende bunu en çok istiyenlerin başında geliyorum. biz bunları süpürdüğümüz zaman bunlar kuzey suriye'de toplanacaklar ve önünde sonunda aynı kuzey ırakta olduğu gibi özerk devlet olacaklar.\nbop'un ikinci ayağı tamamlanmış olacak.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "özerk devlet kurmadan suriyelileri göndermek",
+      "entry_id": "152560126",
+      "author": "fuckkcuf",
+      "date": "19.05.2023 02:42",
+      "content": "yeri belli düşman dağınık düşmandan iyidir.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

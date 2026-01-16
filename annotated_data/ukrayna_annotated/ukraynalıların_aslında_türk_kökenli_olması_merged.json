@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:24:18.138270",
+    "total_entries": 1,
+    "input": "ukraynalıların aslında türk kökenli olması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukraynalıların aslında türk kökenli olması",
+      "entry_id": "101546770",
+      "author": "orijinnal",
+      "date": "04.02.2020 00:33",
+      "content": "bilenler bilir günümüz ukrayna toprakları kadim türk topraklarıdır. m.ö. 8 yüzyıldan 19.yüzyıla kadar. günümüzde ukrain dediğimiz halk; üç ırkın karışımından oluşmuştur: finno-ugric halklar, slavic halklar ve turkic halklar. özellikle orta ukrayna halkının genetik yapısı turkic halklara benzerdir. bu turkic halklar tarihte mongolid olmaktan ziyade sarışın ve güzel insanlar olmalarıyla bilinir. ukrayna dilinde çokça türkçe kelime vardır. ukrayna da ise türkçe yer adları oldukça çoktur. ukrayna ile kanımızın kaynamasının sebebi budur.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "CULTURE",
+        "POS-STEREO"
+      ]
+    }
+  ]
+}

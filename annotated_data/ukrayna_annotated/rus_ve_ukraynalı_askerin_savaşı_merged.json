@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:17:29.483248",
+    "total_entries": 1,
+    "input": "rus ve ukraynalı askerin savaşı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rus ve ukraynalı askerin savaşı",
+      "entry_id": "171547044",
+      "author": "mutlakyolcu",
+      "date": "02.01.2025 19:35",
+      "content": "böyle dünyanın adaletini sikeyim dedirtmiştir.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "POLICY"
+      ]
+    }
+  ]
+}

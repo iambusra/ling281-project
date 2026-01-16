@@ -1,0 +1,25 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:14:27.224541",
+    "total_entries": 1,
+    "input": "zafer partisi'nin faturalarının suriyeliye gelmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "zafer partisi'nin faturalarının suriyeliye gelmesi",
+      "entry_id": "140151974",
+      "author": "yalandandaolsa",
+      "date": "18.07.2022 17:32",
+      "content": "ancak türkiye'de olur denebilecek olay vallahi.\n\nzafer partisi esenyurt ilçe başkanlığının su faturaları amir haddadi adında bir suriyeliye geliyormuş.\n\nhaberi okurken baya eğlendim:)\n\nhaber",
+      "has_external_url": true,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    }
+  ]
+}

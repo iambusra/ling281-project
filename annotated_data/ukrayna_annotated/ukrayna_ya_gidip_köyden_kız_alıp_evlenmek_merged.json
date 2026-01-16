@@ -1,0 +1,562 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:10:15.792084",
+    "total_entries": 44,
+    "input": "ukrayna'ya gidip köyden kız alıp evlenmek",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukrayna'ya gidip köyden kız alıp evlenmek",
+      "entry_id": "65201654",
+      "author": "bilinmeyene kosan adam",
+      "date": "31.12.2016 18:28 ~ 01.01.2017 11:18",
+      "content": "barok ve gothic mimariye asiri ilgim var o yuzden lviv'de 3 gun turlamistim. yani kari-kiz amaciyla gitmedim ama sunu soyleyebilirim;\n\n(bkz: ulan ne karilar var be)\n\nedit: https://www.youtube.com/watch?v=dwgun2jawyy",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE",
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'ya gidip köyden kız alıp evlenmek",
+      "entry_id": "65201870",
+      "author": "hayvanadam",
+      "date": "31.12.2016 18:38",
+      "content": "(bkz: tabii lan manyak mısın)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'ya gidip köyden kız alıp evlenmek",
+      "entry_id": "65201999",
+      "author": "retrospective",
+      "date": "31.12.2016 18:44",
+      "content": "bunu yapanların sayıları hiç de azımsanmayacak seviyededir.\n\nadamların köyünde yaşayan kızlar, bizim şehirli tikican/ikoncan tayfasına genel kültür dersi verir, üstüne sınav yapar.\n\nayrıca küçük bir detay olarak eklemek gerekirse; (bkz: ulan ne karılar var be)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ukrayna'ya gidip köyden kız alıp evlenmek",
+      "entry_id": "65202388",
+      "author": "hasanikisalakosmandort",
+      "date": "31.12.2016 19:04",
+      "content": "ukrayna'nın bütün köylerinde kızlar sivilceli bir türk abazan gelsin beni alsın diye camlara oturmuş bekliyordur zanneden dangalağın hayali.\n\n(bkz: beyin bedava)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ukrayna'ya gidip köyden kız alıp evlenmek",
+      "entry_id": "65202422",
+      "author": "bosluk",
+      "date": "31.12.2016 19:06",
+      "content": "bakın beyler, şimdi evlendiğiniz zaman bir sürü sorumluluk, risk, sıkıntı geliyor hayata. iyi kısımları da var tabi ki ancak işin ömrü kötü kısımları idare etmeye bakıyor.\n\neğer melek gibi çok iyi huylu bir hatun bulamıyorsanız ve bulamayacağınıza olan inancınızı kaybettiyseniz gidin bir tane slav(sırp,boşnak,hırvat,rus,ukrayna aklına ne gelirse) hatun bulun evlenin. yarın bir gün \"ulan bu kadar derdi niye çekiyorum\" diye kendinize sorduğunuzda \"karı taş gibi\" diye cevap verirsiniz.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POS-STEREO",
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "ukrayna'ya gidip köyden kız alıp evlenmek",
+      "entry_id": "65202919",
+      "author": "onexdiamond",
+      "date": "31.12.2016 19:34",
+      "content": "tamam fıkır ve dusuncelerınıze saygı duydum sevdımde yanlız genel kultur ve bılgı konusunda emın olun sızler ve bızım mılletımız ders verır ha guzellık dersı o apayrı dunya ama kımse koyde yasayıpda bır apacı ıle evlenıp buraya gelmez topcu veya popcu en azından iş adamı olman ıcab eder.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "SEXUAL",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "ukrayna'ya gidip köyden kız alıp evlenmek",
+      "entry_id": "65203003",
+      "author": "hellohvaryu",
+      "date": "31.12.2016 19:38",
+      "content": "köylü kızlar iyidir saf masum . ama ukrayna için geçerli olmayan tesbit",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POS-STEREO",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "ukrayna'ya gidip köyden kız alıp evlenmek",
+      "entry_id": "65203012",
+      "author": "tut ki bay kusum",
+      "date": "31.12.2016 19:39",
+      "content": "nasıl yapacağımı bilsem, düşünmüyor değilim.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'ya gidip köyden kız alıp evlenmek",
+      "entry_id": "65203356",
+      "author": "lastcapturee",
+      "date": "31.12.2016 19:55 ~ 19:57",
+      "content": "(bkz: tipim o kadar bozuk ki, ancak ukrayna güzeli ile evlatlarım insana benzeyecek)",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "POS-STEREO",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "ukrayna'ya gidip köyden kız alıp evlenmek",
+      "entry_id": "65203393",
+      "author": "bay aksi",
+      "date": "31.12.2016 19:57",
+      "content": "hayatı tesbih yapmışım şarkısını repead e alıp ömrünün kalanını evde geçirtecek şanslı hareket",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "ukrayna'ya gidip köyden kız alıp evlenmek",
+      "entry_id": "65203438",
+      "author": "evimin paspasi",
+      "date": "31.12.2016 19:59",
+      "content": "bedevi şansı olarak yanlışlıkla nell bulunduğunda ortamlarda pek de iyi hissedilemeyeceğiniz bir aksiyon.\n\n(bkz: gereksiz)",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "ukrayna'ya gidip köyden kız alıp evlenmek",
+      "entry_id": "65203460",
+      "author": "kediye parmak atan cilgin fare",
+      "date": "31.12.2016 20:00",
+      "content": "ukrayna köylüsü vs. suriye köylüsü şeklinde bir versuse konu olabilecek hede.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "ukrayna'ya gidip köyden kız alıp evlenmek",
+      "entry_id": "65203808",
+      "author": "dabaitu",
+      "date": "31.12.2016 20:17",
+      "content": "hangi köy?",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'ya gidip köyden kız alıp evlenmek",
+      "entry_id": "65204516",
+      "author": "ortalama vatandas",
+      "date": "31.12.2016 20:50",
+      "content": "bu fikrin çoğu kişi tarafından yapılabilir olmadığını düşünüyorum.\n\nama asıl mesele o değil. insanları buradan kalkıp ukrayna'ya, hatta onun köylerine sürükleyecek tek motivasyon güzellik midir? bir miktar payı olabilir ama asıl dert şudur:\n\ntoplumumuzda kadınların eğitim ve kariyer imkanları arttıkça popoları kalkmış, kendi hallerine bakmadan, alayında zengin ve adonis kaslı erkek beklentisi saplantı haline gelmiştir. hatta bi taraflarını mumyalatacak kadar \"kuruyup gitse de\" diyen iddialı çıkışlar duyulmaktadır.\n\nbir on yıl kadar öncesine dek, şehirli erkekler için bunun çözümü köyden kız almaktı. ancak şimdilerde köylü kızlarında facebook v.b. sosyal medya kullanma oranı şehirlilere göre daha fazla fazladır. tabi eğitimsiz köylü kızı bu işin hakkını veremeyip bokunu çıkarınca ve bu sayede etraf fazlasıyla o....pu ayşecik dolunca da, köylü kızı fantezisi karadeniz'in karşı sahillerine kadar uzanmaktadır böyle.\n\nbir sonraki fantezinin afrika köylerindeki, kıpkırmızı şeyli hatunlara doğru kayması beklenmektedir.\nwah gençlerin haline!",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "SEXUAL",
+        "GENDER-MORAL"
+      ]
+    },
+    {
+      "title": "ukrayna'ya gidip köyden kız alıp evlenmek",
+      "entry_id": "65204950",
+      "author": "semsipasapasajindasesibuzusmeyen",
+      "date": "31.12.2016 21:09 ~ 21:10",
+      "content": "vouwww super fikir. ukrayna'nin koylerindeki hatunlar turkiye'de olsa koyden sehre degil, sehirden koye goc olur. tam bir tarim ulkesi olur, organik organik yasariz vallahi.\n\n\"hadi gel koyumuze geri donelim, matru$ka'nin dugununde halay cekelim\"",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN-POS",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "ukrayna'ya gidip köyden kız alıp evlenmek",
+      "entry_id": "65205068",
+      "author": "l9",
+      "date": "31.12.2016 21:15",
+      "content": "dayim oyle yapti. yengem turk gelinlerinden daha vefakar ve cok iyi bir insan. dayimi da ukraynada krallar gibi karsiliyorlar. gayet mantikli bir davranis",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN-POS",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "ukrayna'ya gidip köyden kız alıp evlenmek",
+      "entry_id": "65206849",
+      "author": "boran79",
+      "date": "31.12.2016 22:37",
+      "content": "bazı karakterlerin hayallerde yaşamasına sebebiyet veren durum. he canım he devuşkalarda sizleri bekliyor amk, gelsin yağız türk erkekleri alsın götürsün bizi uzak diyarlara diye. gidipte orada bizleri rezil etmekten öte bir şey yaptığınız yok. oturunda itibarımız daha fazla bozulmasın.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "ukrayna'ya gidip köyden kız alıp evlenmek",
+      "entry_id": "65206993",
+      "author": "mavisen",
+      "date": "31.12.2016 22:42",
+      "content": "kendini ukraynalılardan daha üstün gören zavallı öyle türk hatunu gibi ezemezssin öyle getirdiğim yetim diyemezsin..",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO"
+      ]
+    },
+    {
+      "title": "ukrayna'ya gidip köyden kız alıp evlenmek",
+      "entry_id": "65207174",
+      "author": "new orleans muhaciri",
+      "date": "31.12.2016 22:49",
+      "content": "en istediğim evliliktir\n\nukrayna ya da rus kadınları ile tanışmak ya da evlenmek için bir internet sitesi, bir aracı kurum var mıdır, yeşillendirene saygılar sevgiler\n\ntamam beni doğuran kadın da türk'tü ama yok abi ben kanser olurum,15 yıl az yaşarım eminim eğer bir türk kadını ile evlenirsem",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "XENO",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "ukrayna'ya gidip köyden kız alıp evlenmek",
+      "entry_id": "65207265",
+      "author": "mahzenemreyavuz",
+      "date": "31.12.2016 22:53",
+      "content": "ukrayna'da köy mü var? ukranya'da vardır köy",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'ya gidip köyden kız alıp evlenmek",
+      "entry_id": "65207422",
+      "author": "skyturx",
+      "date": "31.12.2016 22:59",
+      "content": "bunu kanuni sultan suleyman yapabildi onunda neler çektiği malum.\nbizim türk erkekleri eğer sultan süleymandan daha kariyerli, daha zengin ve daha güçlü iseler buyursunlar.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "CULTURE",
+        "HUMAN-POS"
+      ]
+    },
+    {
+      "title": "ukrayna'ya gidip köyden kız alıp evlenmek",
+      "entry_id": "65208948",
+      "author": "eksi mek",
+      "date": "31.12.2016 23:48",
+      "content": "(bkz: baldız varsa talibim)",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN-POS",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "ukrayna'ya gidip köyden kız alıp evlenmek",
+      "entry_id": "65210303",
+      "author": "ni merci",
+      "date": "01.01.2017 01:54",
+      "content": "ukrayna'ya gittiği halde, memleketindeki köylü kızla evleniyor şeklinde anladım önce. meğer ukrayna'lı köylü kızmış. ha o olur bak o zaman. \"kız alıp\" evlenen birisi bunu ukrayna'da yapsın. kadınlar için, evlenmek için, hala \"almak\" fiilini kullanan bir angutla evlenen ancak onun gibi biridir. köylüdür, kezbandır. ister ukraynalı, ister uçan hollandalı olsun!",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "GENDER-MORAL"
+      ]
+    },
+    {
+      "title": "ukrayna'ya gidip köyden kız alıp evlenmek",
+      "entry_id": "65211879",
+      "author": "nomoreplayer",
+      "date": "01.01.2017 02:51",
+      "content": "(bkz: ukrayna'ya gidip köyde ele alıp gelmek)",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "XENO",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "ukrayna'ya gidip köyden kız alıp evlenmek",
+      "entry_id": "65215995",
+      "author": "perfectum",
+      "date": "01.01.2017 07:47",
+      "content": "benim bir arkadas. ne guller ne cicekler yolladi haha kiz buna ben dunyayi gezicem uzgunum, senin yasin da bana gore buyuk diye yol verdi. hos benim arkadas kizi elde edemedigi icin nikahi basacam kafasindaydi neyse. arkadasim turk degil ayrica belirtiyim.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'ya gidip köyden kız alıp evlenmek",
+      "entry_id": "65222795",
+      "author": "mihajlovic",
+      "date": "01.01.2017 14:54",
+      "content": "gerçekten yapıp mutlu olabilene şapka çıkarırım.\n\nbir tanıdığımızın eşi ukraynalı ve aşağı yukarı yirmi yıldır türkiye'de yaşıyor.\n\nkadın hem işe gidiyor, hem evi çekip çeviriyor, hem de piyano özel dersleri veriyor.",
+      "has_external_url": false,
+      "sentiment_numeric": 5,
+      "categories": [
+        "HUMAN-POS",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "ukrayna'ya gidip köyden kız alıp evlenmek",
+      "entry_id": "65222828",
+      "author": "shitdelete",
+      "date": "01.01.2017 14:56",
+      "content": "oldum olası duyduğum ve yapan sayısının çok az olduğuna inandığım olaydır.\n\nherkes'onlar da türk apaçileri gelsin de evleneyim diye düşünüyorlar' diye saldırıya geçmiş fakat tamamen haksız da sayılmazlar.\n\ndiyelim ki evlenildi, örfü, adeti, yemeği, dini, dili, farklı bir yerde yaşamaya adapte olmak gibi sorunları kaldırabilecek birisini mi kendisi acaba diye düşünülmelidir. bunu kız tarafı düşünmese bile sen düşüneceksin, sen. kaşına gözüne bakarak bir heves ile giremeyeceğin yükün altına girme kardeşim.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "CULTURE",
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'ya gidip köyden kız alıp evlenmek",
+      "entry_id": "65222834",
+      "author": "you are no longer a prisoner of fate",
+      "date": "01.01.2017 14:56",
+      "content": "(bkz: ukrayna'ya gidip köyden kız alıp oraya yerleşmek)",
+      "has_external_url": false
+    },
+    {
+      "title": "ukrayna'ya gidip köyden kız alıp evlenmek",
+      "entry_id": "65222996",
+      "author": "mepipi",
+      "date": "01.01.2017 15:02",
+      "content": "10 yıl önce çok yakın bir arkadaşım bu eylemi gerçekleştirmiştir. 2 tane güzeller güzeli çocuğu olmuş mutlu mesut bir yaşam sürdürmektedir. ama ülkedeki yaşanan olaylardan dolayı 1 yıl önce karısının baskısı ile almanyaya göç etmek zorunda kalmışlardı. hoş şimdi daha iyi bir evlilikleri var. en azından karısına sokakta \"nataşa\" tacizi yapan bir yerde yaşamıyorlar.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN-POS",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "ukrayna'ya gidip köyden kız alıp evlenmek",
+      "entry_id": "65223385",
+      "author": "bi cay koyayim demlensin",
+      "date": "01.01.2017 15:18",
+      "content": "sözlüğün genc diğmalarin hayallerini suya düşürmek istemem ama; babayı alabilirsiniz.\n\nukrayna türkiye'ye oranla ekonomik olarak daha zor şartlar yasayan bir ulke. ülkede ki öğretmenin bile sağlık sigortası olamayabiliyor. herhangi bir iste çalışan doktor mühendis aldığı paralarla kirayı ucu ucuna kapatabiliyor.\n\nyazar kardisimiz koyünden alayım demis. ham ve naturel olsun istediyse tabi. üzgünüm ama; pazardan domat degil iste bu da. kültürler farklı fakat kıt kanaat geçinen ülkelere özgü bir açlık sendromu ukrayna da da mevcut. üstelik ayni bizim ülkemiz gibi sosyal medya gücü ukrayna'yı da ele gecirmis durumda.\n\nukrayna'da kı eğitimli eğitimsiz her bacımız mutlaka lükse düşkün. siz türk abilerimizi zengin görenleri var. antalya'da yasamayi miami de yasamak gibi görenleri mevcut. üstelik bizden daha zor şartlar altında büyüyenleri (ailelerinde çernobil'in etkisiyle hala kanser vakası oluşup tum varı yoğu sağlığa harcamış yiyeceği anca ektiğinden alabilen güzel hanım kızlarımız) daha da ac. yanı onlar icin sızın k.çı kırık lcw bile lüks olabiliyor.\n\nsiz yine hobi olarak alın. ama sonra gelip buraya ukraynali kizlarin kezban oluşu başlıkları açıp ağlaşmayın. akıllılarınız var aranizda. onlarında bildiği gibi;\n\nkadin kadındır. dili, rengi, kültürü, dini hatta poposu ne olursa olsun kadındır. siz onlara pazardan domat alma dürtüsüyle yaklaşıp onlara piremseess muamelesi çekerseniz; kişisel gelişimine destek yerine köstek olur kendi kendinize minik kezbanlari yetiştirirsiniz. kadınları ayırmadan ve mal\nolarak görmeden, hayat paylaşarak sevin ve mümkünse eğilimi pembiskonun kociskosuna kaçanlardan uzak durun yeterli.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "ukrayna'ya gidip köyden kız alıp evlenmek",
+      "entry_id": "65223588",
+      "author": "kullanici sozlesmesini tabii ki okumadim",
+      "date": "01.01.2017 15:26",
+      "content": "(bkz: onlar da bizi bekliyordu adamları)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'ya gidip köyden kız alıp evlenmek",
+      "entry_id": "65223612",
+      "author": "abideihurriyet",
+      "date": "01.01.2017 15:27",
+      "content": "imkanı olanın kesinlikle yapmasını önerdiğim olay. türk kızlarından şu üç farkları ile keskin bir biçimde ayrılırlar; kültür, sadakat, güzellik\n\nbirlikte olduktan sonra yıllarca kuru ekmek kemirmiş gibi hisseder insan kendini.\n\nha türk kızlarının hepsi kötü değil elbet ama ekseriyesine yukarıdaki nitelikleri önce allah sonra eğitim/toplum vermemiştir.\n\nayrıca başlık altına yeterince \"tork kozloro boboloro yozondon boylo\" cinsinden kezban girileri yazılmamış hayret.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "SEXUAL",
+        "GENDER-MORAL"
+      ]
+    },
+    {
+      "title": "ukrayna'ya gidip köyden kız alıp evlenmek",
+      "entry_id": "65223636",
+      "author": "kirnak",
+      "date": "01.01.2017 15:29",
+      "content": "bu terör eylemlerinden sonra o kızı biraz zor alırsın",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "GENDER-MORAL"
+      ]
+    },
+    {
+      "title": "ukrayna'ya gidip köyden kız alıp evlenmek",
+      "entry_id": "65223652",
+      "author": "hadibenkactim",
+      "date": "01.01.2017 15:29",
+      "content": "gayet mantıklı bence hemen düşünmeye başlıyorum",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'ya gidip köyden kız alıp evlenmek",
+      "entry_id": "65223870",
+      "author": "diablo77",
+      "date": "01.01.2017 15:40",
+      "content": "hayaller ukrayna, gerçekler türkiye.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'ya gidip köyden kız alıp evlenmek",
+      "entry_id": "65224833",
+      "author": "defkhan",
+      "date": "01.01.2017 16:30 ~ 16:33",
+      "content": "türk kadınlarına hakarettir. kaldırın kafanızı ve elinizdekilerin kıymetini bilin.\n\nakşam işten gelip;\nköpüksüz biranın, alex'siz fenerin, sensiz bu hayatın amına koyayım be sevgili!\n\ndediğinizde suratınıza mal mal bakıp -why lan?\n\ncümlesiyle karşılaşmak istiyorsanız ayrı tabi.\n\nbeden gelip geçiyor bunu hiç istemesekte, ama iki bedende tek ruh olursan o zaman dünya başka bir güzel, senin ukraynalı'dan da rus'tan da güzel .",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "SEXUAL"
+      ]
+    },
+    {
+      "title": "ukrayna'ya gidip köyden kız alıp evlenmek",
+      "entry_id": "65225964",
+      "author": "clstl",
+      "date": "01.01.2017 17:21",
+      "content": "ukraynanin koylu delikanlilarinin olmadigini dusunen yazar beyani. ukraynanin genetik haritasini da bok edeceksiniz hic girmeyin o ise.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "ukrayna'ya gidip köyden kız alıp evlenmek",
+      "entry_id": "65226432",
+      "author": "skndrk",
+      "date": "01.01.2017 17:41",
+      "content": "memleketin durumu ortada, kızın köyüne yerleşmek suretiyle düşünülebilir.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'ya gidip köyden kız alıp evlenmek",
+      "entry_id": "65226853",
+      "author": "illegalstar",
+      "date": "01.01.2017 18:01",
+      "content": "konu hakkında engin bilgisi olan bir abiniz olarak açıklayayım. öncelikle eliniz ayağınız tutuyor ve eli yüzü düzgün biriyseniz çok kolay olandır. ukrayna kızları kaprissiz olur. kadın erkek eşitliği had safhada olduğundan öz güvenleri tavan yapmıştır. akıllıdırlar da. din dil ırk gözetmeksizin herkesle arkadaş olur ve kolaylıkla beğenirse evlenebilir. bunu yapmış en azından deneyen bir çok tanıdığım var. vk'dan tanışıp köyüne gittiği kızın ailesinin evinde kalmış gençler bile var. bu kızlar ki kendilerine prenses gibi davranırsanız sizi beğeniyorlar. neden mi; slav erkeklerinin çoğu kadınlara değer vermez, aşırı alkol kullanırlar, espri yetenekleri zayıftır, genelde yüzleri gülmez, soğuk davranırlar, kadını taşımayı bilmezler. ha bunların tersi olanlar da var elbette ama benim gördüklerim ya yurtdışında yaşamış ya da yabancılardan öğrenmiş kişilerdir.\n\nsizi ve ailenizi tanıyınca inanın sizi kaçırmamak için ellerinden geleni yaparlar. türk düşünce yapısıyla irdelemediğiniz zaman bizce olmaz denilen herşey mümkün aslında. ve size naçizane tavsiyem biraz ingilizceniz varsa az rusça öğrenerek bulun bir rus ukraynalı evlenin derim. ha iyi evlilik yaparsanız mutlu olursunuz kötü evlilik yaparsanız filozof olursunuz sokrates gibi.",
+      "has_external_url": true,
+      "sentiment_numeric": 5,
+      "categories": [
+        "HUMAN-POS",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "ukrayna'ya gidip köyden kız alıp evlenmek",
+      "entry_id": "65232924",
+      "author": "faustroll",
+      "date": "01.01.2017 22:33",
+      "content": "defalarca gittim bu ülkeye. hiç zannettiğiniz gibi değil. uzatmayacağım. kısacası: türkleri sevmiyorlar, türklere güvenmıyorlar. türkleri ucuz abaza olarak görüyorlar. o yüzden öyle kız almak falan kolay değil. heeee ayrıca dünyadaki herkes özellikle de ukranyalılar aynı dili konuşmayan birine gram ciddi sevgi beslemez. ıstisnası çoktur ama geneli budur.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ukrayna'ya gidip köyden kız alıp evlenmek",
+      "entry_id": "65242551",
+      "author": "feelingsobohemianlikeyou",
+      "date": "02.01.2017 08:50",
+      "content": "avrupa ülkelerinde de kendine bir es bulamayan avrupalilar ilk dogu avrupa ülkelerine ya da uzak dogunun fakir ülkelerine yönelir. hemen 35 yasinda hic kiz arkadasi olmamis bir alman mühendis canlandirin, evet. yalniz dogu avrupalilar genel olarak, okumuslari dahil, görünüs avrupa, kafa pakistan, seviye cennet mahallesi, maddiyatcilik en üst seklinde cok renkli insanlardir. bu nedenle ailelerine bir dogu avrupali girmis olan avrupalilar, asla bir dogu avrupaliyla evlenmemeliyim, dayimin esi söyle, sunun kiz arkadasi tam bir deli diye gezer. dogu avrupa insani artik cok fakirlik gördügünden mi bilmiyorum, seviyesizlikte bir dünya markasidir. bunlarin okumusu ile tartismak 10 tane cocugu ile gezen cingenelerle tartismakla ayni sey. bunlari irkcilik yapmak icin demiyorum. bazi kulturlerin gercekten cok kotu ve degismesi gereken taraflari var. dogu avrupa icin bu ileri derecede tutuculuk, seviyesizlik ve maddiyatcilik. türkler icin baska seyler. en sevdigim arkadaslarimdan biri belaruslu. o farkli ulkelerde yasadigindan bunlari kismen asmis olsa da arada acayip tutucu taraflariyla hepimizi sok eder. neyse, ben bu yaziyi akli basinda insanlar icin, arada biraz daha bilgilendirici entryler olsun diye yazdim.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "ukrayna'ya gidip köyden kız alıp evlenmek",
+      "entry_id": "65242922",
+      "author": "bodinko",
+      "date": "02.01.2017 09:20",
+      "content": "combo yapılabilir\n(bkz: dilsiz bir kız ile evlenmek)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'ya gidip köyden kız alıp evlenmek",
+      "entry_id": "65242943",
+      "author": "hasicomee",
+      "date": "02.01.2017 09:22",
+      "content": "daha bir hafta önce mahalledeki bir abiyle konuştum. bir hafta içinde kiev'e gidip yüzük takacağını söylemişti. abi şu anda kiev'de ve yüzük takmış. anlatınca bayağı şaşırmıştım ama burada bu başlığı görünce demek ki bayağı varmış dedim kendi kendime.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'ya gidip köyden kız alıp evlenmek",
+      "entry_id": "66690495",
+      "author": "adrenal",
+      "date": "06.03.2017 23:09",
+      "content": "peynirini tarhanasını köyünden tedarik etmiş ama zevce işini halledememiş kişinin 10 kat organik fantezileri\n(bkz: karşılaştırmalı üstünlük teorisi)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "SEXUAL"
+      ]
+    }
+  ]
+}

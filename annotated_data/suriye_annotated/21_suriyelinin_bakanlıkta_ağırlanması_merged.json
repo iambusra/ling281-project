@@ -1,0 +1,38 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:03:56.697110",
+    "total_entries": 2,
+    "input": "21 suriyelinin bakanlıkta ağırlanması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "21 suriyelinin bakanlıkta ağırlanması",
+      "entry_id": "140520113",
+      "author": "kaptanceksparrow",
+      "date": "27.07.2022 10:49",
+      "content": "bu suriyelilere yakında bedava eskort bile sağlanır bak.\n\ngüvenlik amaçlı yani.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "21 suriyelinin bakanlıkta ağırlanması",
+      "entry_id": "140520440",
+      "author": "picgurusu",
+      "date": "27.07.2022 10:59",
+      "content": "bu kadar suriyeli seviyorlarsa gitsinler ilk secimde esad'a karşı aday olsunlar suriye'de iktidar şanslarını denesinler amk. bu ülkede ne işleri var bunların. ülkeyi suriye yapmaktansa hazır suriye diye bir ülke var. sktrin gidin orada iktidar olun suriyeliler ile mis gibi takılın.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    }
+  ]
+}

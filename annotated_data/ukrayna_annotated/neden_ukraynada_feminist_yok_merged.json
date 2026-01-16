@@ -1,0 +1,24 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:11:24.928161",
+    "total_entries": 1,
+    "input": "neden ukraynada feminist yok",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "neden ukraynada feminist yok",
+      "entry_id": "150320746",
+      "author": "alkanv",
+      "date": "14.03.2023 12:04",
+      "content": "savaş çıktığından beri sorguladığım durum",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

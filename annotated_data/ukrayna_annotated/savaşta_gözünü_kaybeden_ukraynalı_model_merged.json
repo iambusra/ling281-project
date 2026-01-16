@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:20:03.736779",
+    "total_entries": 2,
+    "input": "savaşta gözünü kaybeden ukraynalı model",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "savaşta gözünü kaybeden ukraynalı model",
+      "entry_id": "155319624",
+      "author": "mitokondrisi calinmis okaryotik hucre",
+      "date": "05.08.2023 18:59",
+      "content": "insana maşallah çektiren modeldir.\n\ngörsel\n\nlink",
+      "has_external_url": true,
+      "sentiment_numeric": 4,
+      "categories": [
+        "HUMAN"
+      ]
+    },
+    {
+      "title": "savaşta gözünü kaybeden ukraynalı model",
+      "entry_id": "155319841",
+      "author": "mentalcrash",
+      "date": "05.08.2023 19:07",
+      "content": "bana bergen'i hatırlattı.. dilerim ki rahatsındır, ama seni orada da bırakmamışlardı, değil mi..",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HUMAN"
+      ]
+    }
+  ]
+}

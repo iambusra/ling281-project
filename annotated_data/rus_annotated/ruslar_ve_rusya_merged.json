@@ -1,0 +1,37 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:26:37.515709",
+    "total_entries": 2,
+    "input": "ruslar ve rusya",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ruslar ve rusya",
+      "entry_id": "148583224",
+      "author": "sanver",
+      "date": "04.02.2023 17:25 ~ 17:26",
+      "content": "kısaca ruslar ve rusya, 2022 nobel yayınları basımı ve editörlüğünü prof. dr. salih yılmaz, prof. dr. şeref ateş, doç. dr. victoria bilge yılmaz, doç. dr. mücahit küçükyılmaz ve dr. metin kıratlı'nın yaptıkları akademik eser.\n\nhttps://www.kitapyurdu.com/…ar-ve-rusya/634261.html\n\nhttps://www.dr.com.tr/…tmenlik/urunno=0002017390001",
+      "has_external_url": true,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ruslar ve rusya",
+      "entry_id": "179436236",
+      "author": "eksebis",
+      "date": "28.10.2025 18:03",
+      "content": "çok kapsamlı, makalelerden oluşan bir derleme. üç ayrı bölümde değerlendirilen konular, rus politik tarihi ve yaklaşımı ile ilgili anlamlı iç yüzler veriyor. slav ırklarının tarihi ile ilgili okuma yapmak isteyenler için çok değerli bir kitap.",
+      "has_external_url": false,
+      "sentiment_numeric": 4,
+      "categories": [
+        "CULTURE",
+        "POLICY"
+      ]
+    }
+  ]
+}

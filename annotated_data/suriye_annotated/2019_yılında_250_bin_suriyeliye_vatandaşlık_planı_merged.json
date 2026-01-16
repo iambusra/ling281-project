@@ -1,0 +1,64 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:03:19.160749",
+    "total_entries": 4,
+    "input": "2019 yılında 250 bin suriyeliye vatandaşlık planı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "2019 yılında 250 bin suriyeliye vatandaşlık planı",
+      "entry_id": "86005288",
+      "author": "cankoparan",
+      "date": "27.01.2019 21:56",
+      "content": "(bkz: tümörün iyi huylu olmaması)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "2019 yılında 250 bin suriyeliye vatandaşlık planı",
+      "entry_id": "86005646",
+      "author": "sigara kibrit",
+      "date": "27.01.2019 22:07",
+      "content": "ingiltere 15, avustralya 6, kanada ise 5 yıldan uzun süre yurtdışında yaşayan vatandaşlarının oy kullanma haklarını ellerinden alır; \"bizim ülkemizde yaşamıyorsanız geleceğimiz için karar alamazsınız\" mantığıyla.\n\nbiz de aynı mantıkla gurbetçiler oy kullanamasın diyoruz. yani türkiye'de yaşamayan türkler oy kullanmasın istiyoruz ama ortalıkta dolaşan iddialara bakın hele;\n\ngünlük siyaseti takip etmeyen, adayları tanımayan, dinamikleri bilmeyen, türkçe bile bilmeyen, ülkeye katkısı olmayan, türk halkından nefret eden, bir an önce ülkesine gönderilmesi gereken binlerce mülteci oy kullanabilirmiş.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "2019 yılında 250 bin suriyeliye vatandaşlık planı",
+      "entry_id": "86005892",
+      "author": "middle of nowhere",
+      "date": "27.01.2019 22:13",
+      "content": "suriyeli kardeşlerimiz genel olarak beşten aşağı çocuk yapmayı sevmediği için yakında bu ülke insanı azınlık duruma düşerse şaşmam. çevreme bakıyorum, çoğu kişi bir çocuk sahibi, iki bile çok az var. bu trend devam ederse türkiyenin demografik yapısı ciddi şekilde tehdit altına girecek.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "2019 yılında 250 bin suriyeliye vatandaşlık planı",
+      "entry_id": "86006221",
+      "author": "kekek0106",
+      "date": "27.01.2019 22:22",
+      "content": "hacettepe üniversitesi kamu yönetimi bölümünde yüksek lisans dersi olarak göç çalışmalarını murat hocadan aldığım zaman geçici koruma altındaki kişilerin vatandaşlığa geçmesi durumunu sık sık tartışırdık. kendisi öngörü olarak türkiye’de doğan vatansızlık riski altında bulunan çocuklardan tümevarıma çıkacak şekilde ulus-devlet inşasını karşılaştırarak yorumlamalarda bulunurdu. ancak her zaman göç çalışmalarında vatandaşlık konularının konuşulmasının ince bir kırılıma sahip olduğunu ve ne zamanki bu tarz konuları rahat bir şekilde tartışmaya başlıyorsak işte o an mültecilerin vatandaşlığa geçmesinde kamuoyunun nabzının şerbetleştiğine vurgu yapardı. şu anki durumda gösteriyor ki artık kamuoyu göçün geçiciliğinin kalıcılığa doğru yönelmesinde bir iki tıkım da olsa entegrasyonun ayrı bir ulus kimliğinden vatansallaşmasına katkı sunmaya başlamış durumdadır.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "POLICY",
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

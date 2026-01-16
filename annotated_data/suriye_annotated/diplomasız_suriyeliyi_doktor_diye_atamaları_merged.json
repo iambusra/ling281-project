@@ -1,0 +1,80 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T17:41:29.829784",
+    "total_entries": 5,
+    "input": "diplomasız suriyeliyi doktor diye atamaları",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "diplomasız suriyeliyi doktor diye atamaları",
+      "entry_id": "141771809",
+      "author": "amonisis",
+      "date": "25.08.2022 10:55 ~ 11:44",
+      "content": "iddiaya göre suriyeden gelen, ben doktorum hatta uzmanım diyen herkesi 15 günlük adaptasyonla işe başlatıyorlarmış. sadece doktorların bulunduğu gruplarda detaylı olarak konusuluyor. hatta bu gelenlerin bazılarının hemşire ve veteriner hekim olduğu bile söyleniyor.\naslında olay şöyle oluyormuş, bir diploma getiriyorlarmış, ama karşı tarafta bu diplomanın geçerliliğini sorgulayabilecekleri bi yapı bulunmadığı için(suriye konsoloslugunun muhalif doktorlar için başvurulan herhangi bir belgeye yanıt vermemesi nedeniyle) getirileni (sahte de olsa) kabul etmek durumunda kalıyorlarmış. hatta daha da arttıyorum, türkiyede bir şebekenin yabancılara ozel sahte diploma üretip ve sts sınavında geçerli not alabilmelerini sağlıyorlarmış.\nzaten yaptıkları tedaviyi diğer doktorlar da zor toparlıyormuş. bu diploma meselesini tabiki de aslını bilemem ama yetenek konusunda bizim doktorlarımızdan bayağı aşağı olduklarını kendi kulaklarımla duymuştum.\n\nek olarak normal şartlarda yurtdisinda tip okuyup ülkemizde doktorluk yapmak isteyen bir kimse sırasıyla;\n1. konsolosluk imzalı tip diplomasını ibraz etmez zorunda\n2. gerekli prosedürler sağlandıktan sonra denklik sınavı olan sts sınavını geçmesi gerekiyor.\n3. sts'den başarılı olan adayların 6 ay 1 yıl arasi intornluk hizmeti vermesi bekleniyor.\n4. tüm aşamaları geçen adaylar aday memur olarak atanıyor.\n\niddalardaki 15 günlük hospitasyon sonrası direkt atanıyor iddalari dogrumudur bilinmez. ama cumhurbaşkanı başdanışmanının diplomasi sahte çıkıyor ise kpss sınav soruları internette bin dolara satilabiliyorsa bu iddialarından doğru olma olasılığını siz okuyan yazarlara bırakıyorum.\n\ntam bir kaynak sayılmasa da instagramdaki doktorlar sitesinin paylaşımını ekliyorum;\n\ngörsel\n\ngörsel\n\ngörsel",
+      "has_external_url": true,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "POLICY"
+      ]
+    },
+    {
+      "title": "diplomasız suriyeliyi doktor diye atamaları",
+      "entry_id": "141772173",
+      "author": "etilalkoldenrakiyapan",
+      "date": "25.08.2022 11:03",
+      "content": "bizim pırıl pırıl, iyi eğitim almış doktorlarımızı \" giderlerse gitsinler \" deyip kovarsan olacağı budur.\n\nşimdi oy veren teyzeler, amcalar düşünsün.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "diplomasız suriyeliyi doktor diye atamaları",
+      "entry_id": "141772196",
+      "author": "biraz kurgan biraz kumbet",
+      "date": "25.08.2022 11:04",
+      "content": "karar merciindeki kimseler, bu kasaplara kendisini ve yakınlarını tedavi ettirmeyeceği için sorun yok tabi. bu ülkeye ve insanına, işgal kuvvetleri de dahil böyle düşman bir oluşum gelmemiştir.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO"
+      ]
+    },
+    {
+      "title": "diplomasız suriyeliyi doktor diye atamaları",
+      "entry_id": "141772569",
+      "author": "strawberryblonde",
+      "date": "25.08.2022 11:14",
+      "content": "geçen hafta yabancı bir kanalda afganistandaki tıp eğitimiyle ilgili bir haber izledim. doktor adayları medreseye toplanmışlar. elinde dergi fasikülü kalınlığında bir ders kitabı olan hoca, merhemin nasıl sürüleceğini anlatıyor. birkaç aya bu taliban doktorları da ülkemize doluşursa şaşırmam.\nhipokrat yeminini bile yok ederek evrensel tıp normlarını baltalayıp çadır usullerine göre hekimlik yemini ettirirseniz merhem sürmeyi tıp doktorluğu sanan gariban sürüsüyle baş başa kalmanız işten bile değil.\nama olsun hanumlarinun başlaru kapali, alunleri secdeye deyii.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "CULTURE"
+      ]
+    },
+    {
+      "title": "diplomasız suriyeliyi doktor diye atamaları",
+      "entry_id": "141772688",
+      "author": "saykodeli",
+      "date": "25.08.2022 11:17 ~ 11:27",
+      "content": "büyük rezalettir. yabancılar hangi şartlarla vatandaşın sağlık sistemine entegre ediliyor açık olmalıdır. zaten çoğu insanın aklında olan bir soruydu bu. içeriden işin uzmanları \"sanayi ustası tipinde biri hemşireden enjeksiyon yapmayı öğreniyor, 15 gün sonra doktor olarak ataması yapılacak\" diyorsa biz komple yarra yemişiz. zaten yediydik de, kötünün daha kötüsü oluyor sürekli.",
+      "has_external_url": false,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "XENO",
+        "POLICY"
+      ]
+    }
+  ]
+}

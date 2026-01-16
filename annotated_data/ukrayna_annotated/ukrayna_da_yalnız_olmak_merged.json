@@ -1,0 +1,48 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:14:12.226997",
+    "total_entries": 3,
+    "input": "ukrayna'da yalnız olmak",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ukrayna'da yalnız olmak",
+      "entry_id": "40617911",
+      "author": "kangele",
+      "date": "22.02.2014 16:39",
+      "content": "(bkz: ukrayna)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'da yalnız olmak",
+      "entry_id": "40618065",
+      "author": "prcn",
+      "date": "22.02.2014 16:46",
+      "content": "(bkz: şarz)",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "ukrayna'da yalnız olmak",
+      "entry_id": "40618415",
+      "author": "leevankilit",
+      "date": "22.02.2014 17:05",
+      "content": "giderken moldovya üzerinden gittiyseniz normal olan durumdur.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}

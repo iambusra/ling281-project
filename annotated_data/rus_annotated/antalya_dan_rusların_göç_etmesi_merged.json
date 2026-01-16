@@ -1,0 +1,100 @@
+{
+  "scrape_info": {
+    "timestamp": "2025-11-11T18:32:56.418648",
+    "total_entries": 7,
+    "input": "antalya'dan rusların göç etmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "antalya'dan rusların göç etmesi",
+      "entry_id": "162055062",
+      "author": "sakinbey",
+      "date": "01.03.2024 19:05 ~ 02.03.2024 17:42",
+      "content": "aşırı pahalılık nedeni ile rus ve ukrayna ahalisi dubai ve sırbistan'a göç etmişler.\nson antalya ziyaretimde, bariz şekilde slav popülasyonunun azaldığını gördüm.\nücretli çalışanların ortak ifadesi “gittiler ama yıkıp gittiler” şeklinde.\ngeride bıraktıkları fahiş kiralar sanki hiç gitmemişler gibi devam eden pahalılık.\nantalya'da enflasyonun ve pahalılığın daha yüksek olduğunu rahatlıkla söyleyebilirim.\nbizi bu günlere el birliği ile getirenleri allah'a havale ediyorum.\n\nedit:\nyalan diyen ve avm gezen yazarlar işkembeden sallamadım! bu benim izlenimimdir. aşağıdaki haberi bir zahmet okuyun!\n\nhttps://www.ntv.com.tr/…ladi,5zjp1icfhemhzht25wjo-g",
+      "has_external_url": true,
+      "sentiment_numeric": 1,
+      "categories": [
+        "HATE",
+        "ECON"
+      ]
+    },
+    {
+      "title": "antalya'dan rusların göç etmesi",
+      "entry_id": "162055718",
+      "author": "moskarol1",
+      "date": "01.03.2024 19:36",
+      "content": "moskova'da kuzu pirzolanın kilosunun 200-250 lira civarında olmasından kaynaklanıyor olabilir. türkiye'nin çivisi çıktı. dolar bazında bile pahalı oldu ülke. bu gidişatı durduramazlarsa bırakın düzenli yaşayan yabancıların gitmesini, turist bile gelmeyecek.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "ECON"
+      ]
+    },
+    {
+      "title": "antalya'dan rusların göç etmesi",
+      "entry_id": "162055843",
+      "author": "lovinevriminitbeybe",
+      "date": "01.03.2024 19:42",
+      "content": "şu anda 900 lira olan süt kuzu şiş’in kilosunun haftaya 1000 lira olacağını söyledi kasap arkadaşım. türkiye ortalamasının iki katı pahalı olan bir yerde hiçbir yabancı barınmaz zaten.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "ECON"
+      ]
+    },
+    {
+      "title": "antalya'dan rusların göç etmesi",
+      "entry_id": "162055954",
+      "author": "uplines",
+      "date": "01.03.2024 19:47",
+      "content": "bulurlar yerine birilerini",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    },
+    {
+      "title": "antalya'dan rusların göç etmesi",
+      "entry_id": "162055980",
+      "author": "ladyjusticed",
+      "date": "01.03.2024 19:48 ~ 19:58",
+      "content": "benim komşumu da göçtü sandım havalar ısınınca geldi:) emlakçıların gözleri yaşlı ... site aidatlarına hücum ettiler baktılar kirayı artıramıyorlar bu konuya kesinlikle iş ve işçi bulma kurumunun temizliktir-kapıcıdır- yöneticidir göndererek müdahale etmesi gerek kesinlikle bu site yönetimleri o kadar problemli ki sınır yok dava açsan e toplanmış karar vermişler oluyor zaten buradaki vekaletler basit bir imza bugün fahiş diyorsun dava sonuçlanana kadar en az 3 yıl o açtığın artırıma ilişkin ücret çerez parası olarak o günden bakılınca görülürken bugün bu arada zaten her yıl artırımla bindir bindir yok klima tadilat vs başka başka sömürüler istismarlar ...\nayy ne kadar dertli çıktım ben biri beni bu fakülteden ve klavye başından acilen çıkarsın",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "ECON"
+      ]
+    },
+    {
+      "title": "antalya'dan rusların göç etmesi",
+      "entry_id": "162056022",
+      "author": "curufinvve",
+      "date": "01.03.2024 19:50",
+      "content": "afgan ve suriyelilere de pahalı bir ülke olduğumuz anda problemleri çözüyoruz inşallah. tabii onların da terk edeceği türkiye'de türkler ne yiyip içecek onu da bilemiyorum.\n\nhayırlı bir göç olarak eyyorluyorum.",
+      "has_external_url": false,
+      "sentiment_numeric": 2,
+      "categories": [
+        "XENO",
+        "HATE"
+      ]
+    },
+    {
+      "title": "antalya'dan rusların göç etmesi",
+      "entry_id": "162056247",
+      "author": "delipalta06",
+      "date": "01.03.2024 19:58",
+      "content": "öyle bir şey yok. daha bugün terracity doluydu.",
+      "has_external_url": false,
+      "sentiment_numeric": 3,
+      "categories": [
+        "NEUTRAL"
+      ]
+    }
+  ]
+}
