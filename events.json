@@ -1,0 +1,724 @@
+{
+  "political_events": [
+    {
+      "year": 2015,
+      "month": 2,
+      "event": "Süleyman Shah Operation (Şah Fırat)",
+      "category": "Military Operation",
+      "description": "Turkish Armed Forces relocate the Tomb of Süleyman Shah from Syria due to ISIS threat; widely discussed domestically as a major military decision."
+    },
+    {
+      "year": 2015,
+      "month": 6,
+      "event": "June 2015 General Election",
+      "category": "Election",
+      "description": "AKP loses parliamentary majority for the first time since 2002, resulting in a hung parliament."
+    },
+    {
+      "year": 2015,
+      "month": 7,
+      "event": "Suruç Bombing",
+      "category": "Terror Attack",
+      "description": "ISIS suicide bombing kills 33 activists in Suruç; triggers widespread protests and a major escalation in security operations."
+    },
+    {
+      "year": 2015,
+      "month": 10,
+      "event": "Ankara Train Station Bombing",
+      "category": "Terror Attack",
+      "description": "Turkey’s deadliest terror attack, killing over 100 people at a peace rally; attributed to ISIS."
+    },
+    {
+      "year": 2015,
+      "month": 11,
+      "event": "Snap General Election",
+      "category": "Election",
+      "description": "AKP regains majority after failed coalition negotiations."
+    },
+    {
+      "year": 2015,
+      "month": 11,
+      "event": "Turkey Shoots Down Russian Jet",
+      "category": "Foreign Policy / Military",
+      "description": "Turkish forces down a Russian Su-24 near the Syrian border, triggering a major diplomatic crisis."
+    },
+    {
+      "year": 2016,
+      "month": 5,
+      "event": "PM Ahmet Davutoğlu Resigns",
+      "category": "Executive Politics",
+      "description": "Davutoğlu resigns after internal AKP tensions; Binali Yıldırım becomes the new Prime Minister."
+    },
+    {
+      "year": 2016,
+      "month": 3,
+      "event": "EU–Turkey Statement Negotiated",
+      "category": "Foreign Policy",
+      "description": "EU–Turkey deal negotiated to limit irregular migration; becomes binding on 20 March."
+    },
+    {
+      "year": 2016,
+      "month": 7,
+      "event": "July 15 Failed Coup Attempt",
+      "category": "Coup Attempt",
+      "description": "A faction within the military attempts to overthrow the government; over 250 people are killed; coup is defeated within hours."
+    },
+    {
+      "year": 2016,
+      "month": 7,
+      "event": "State of Emergency Declared (OHAL)",
+      "category": "Executive Politics / Security",
+      "description": "Following the coup attempt, Turkey declares a nationwide state of emergency, expanding executive powers."
+    },
+    {
+      "year": 2016,
+      "month": 8,
+      "event": "Operation Euphrates Shield Begins",
+      "category": "Military Operation",
+      "description": "Turkey launches a cross-border military operation into northern Syria against ISIS and YPG positions."
+    },
+    {
+      "year": 2017,
+      "month": 4,
+      "event": "April 16 Constitutional Referendum",
+      "category": "Election / Constitutional Change",
+      "description": "Turkey narrowly passes a referendum replacing the parliamentary system with an executive presidency."
+    },
+    {
+      "year": 2017,
+      "month": 4,
+      "event": "OSCE and EU Criticisms of Referendum",
+      "category": "Foreign Policy / Democratic Institutions",
+      "description": "International observers raise concerns about voting irregularities and democratic standards."
+    },
+    {
+      "year": 2018,
+      "month": 6,
+      "event": "Presidential and Parliamentary Elections",
+      "category": "Election",
+      "description": "First elections under the new presidential system; Erdoğan re-elected."
+    },
+    {
+      "year": 2017,
+      "month": 6,
+      "event": "'Justice March' Begins",
+      "category": "Civil Society / Opposition",
+      "description": "CHP leader Kemal Kılıçdaroğlu begins a 450 km march from Ankara to Istanbul after MP Enis Berberoğlu is jailed."
+    },
+    {
+      "year": 2017,
+      "month": 7,
+      "event": "End of Justice March (Istanbul Rally)",
+      "category": "Civil Society",
+      "description": "The 'Justice March' culminates with one of Turkey’s largest opposition rallies of the decade."
+    },
+    {
+      "year": 2017,
+      "month": 7,
+      "event": "OHAL Renewed Again",
+      "category": "Executive Politics / State of Emergency",
+      "description": "State of Emergency extensions continue with broad administrative and judicial measures."
+    },
+    {
+      "year": 2017,
+      "month": 9,
+      "event": "Iraqi Kurdistan Independence Referendum Response",
+      "category": "Foreign Policy",
+      "description": "Turkey strongly condemns the KRG referendum; threatens border closures and sanctions."
+    },
+    {
+      "year": 2018,
+      "month": 2,
+      "event": "Afrin Military Advances",
+      "category": "Military Operation",
+      "description": "Turkish Armed Forces and allied Syrian groups continue their ground campaign, tightening control around Afrin."
+    },
+    {
+      "year": 2018,
+      "month": 3,
+      "event": "Capture of Afrin City",
+      "category": "Military Operation",
+      "description": "Afrin city center falls under Turkish control; major political and media reactions follow."
+    },
+    {
+      "year": 2018,
+      "month": 4,
+      "event": "Snap Elections Announced",
+      "category": "Domestic Politics",
+      "description": "President Erdoğan announces early elections for June 24, accelerating Turkey’s transition to presidential system."
+    },
+    {
+      "year": 2018,
+      "month": 6,
+      "event": "June 24 Presidential and Parliamentary Elections",
+      "category": "Election",
+      "description": "Erdoğan wins presidential election; AKP–MHP alliance secures parliamentary majority; Turkey officially moves to the executive presidency."
+    },
+    {
+      "year": 2018,
+      "month": 7,
+      "event": "New Cabinet System Implemented",
+      "category": "Executive Politics",
+      "description": "Prime Ministry is abolished; ministries are restructured; Erdoğan appoints Berat Albayrak as Minister of Treasury and Finance."
+    },
+    {
+      "year": 2018,
+      "month": 10,
+      "event": "Khashoggi Murder in Istanbul",
+      "category": "Foreign Policy / Security",
+      "description": "Saudi journalist Jamal Khashoggi is killed in the Saudi consulate; Turkey launches an international diplomatic offensive."
+    },
+    {
+      "year": 2019,
+      "month": 5,
+      "event": "YSK Annuls Istanbul Election",
+      "category": "Election / Judiciary",
+      "description": "Supreme Election Council orders a rerun of Istanbul mayoral election; widely criticized by domestic and international observers."
+    },
+    {
+      "year": 2019,
+      "month": 6,
+      "event": "Istanbul Rerun Election (Ekrem İmamoğlu Wins)",
+      "category": "Election",
+      "description": "Ekrem İmamoğlu wins by a large margin, marking a major shift in Turkish urban politics."
+    },
+    {
+      "year": 2019,
+      "month": 3,
+      "event": "March 31 Local Elections",
+      "category": "Election",
+      "description": "Opposition wins major cities including Istanbul and Ankara; ruling party disputes Istanbul results."
+    },
+    {
+      "year": 2019,
+      "month": 4,
+      "event": "Controversy Over Istanbul Vote Count",
+      "category": "Election / Judiciary",
+      "description": "Repeated recounts and legal challenges intensify political tensions; YSK reviews AKP objections."
+    },
+    {
+      "year": 2019,
+      "month": 6,
+      "event": "Istanbul Rerun Election",
+      "category": "Election",
+      "description": "İmamoğlu wins rerun by a large margin, becoming Erdoğan’s top political rival."
+    },
+    {
+      "year": 2019,
+      "month": 8,
+      "event": "Syria Safe Zone Negotiations with the U.S.",
+      "category": "Foreign Policy",
+      "description": "Turkey and the U.S. initiate talks on establishing a safe zone in northern Syria to contain YPG forces."
+    },
+    {
+      "year": 2019,
+      "month": 10,
+      "event": "Operation Peace Spring",
+      "category": "Military Operation",
+      "description": "Turkey launches military operations in northeast Syria targeting YPG; significant international reactions follow."
+    },
+    {
+      "year": 2019,
+      "month": 11,
+      "event": "Formation of New Parties by Former AKP Leaders",
+      "category": "Domestic Politics",
+      "description": "Ali Babacan and Ahmet Davutoğlu accelerate efforts to form DEVA and Future Party, signaling internal fragmentation."
+    },
+    {
+      "year": 2019,
+      "month": 12,
+      "event": "Earthquake and Flood Emergencies",
+      "category": "Domestic Affairs",
+      "description": "Multiple earthquakes and floods across Turkey prompt national discussions on preparedness and infrastructure."
+    },
+    {
+      "year": 2020,
+      "month": 3,
+      "event": "First COVID-19 Case in Turkey",
+      "category": "Public Health / Domestic Affairs",
+      "description": "Turkey confirms its first COVID-19 case; strict public health measures and curfews begin shortly after."
+    },
+    {
+      "year": 2020,
+      "month": 7,
+      "event": "Hagia Sophia Reconverted to Mosque",
+      "category": "Domestic Politics / Culture",
+      "description": "Council of State annuls museum status; Hagia Sophia reopened as a mosque, drawing global reactions."
+    },
+    {
+      "year": 2020,
+      "month": 11,
+      "event": "Berat Albayrak Resigns as Finance Minister",
+      "category": "Executive Politics / Economy",
+      "description": "Albayrak announces resignation via Instagram; triggers major cabinet and economic policy shifts."
+    },
+    {
+      "year": 2020,
+      "month": 11,
+      "event": "Central Bank Governor Replaced",
+      "category": "Monetary Policy / Governance",
+      "description": "Murat Uysal is dismissed; Naci Ağbal appointed CBRT governor, signaling a return to orthodox policies."
+    },
+    {
+      "year": 2020,
+      "month": 12,
+      "event": "EU Debates Sanctions on Turkey",
+      "category": "Foreign Policy",
+      "description": "EU leaders discuss sanctions over Eastern Mediterranean drilling activities."
+    },
+    {
+      "year": 2021,
+      "month": 7,
+      "event": "Large-Scale Wildfires Across Southern Turkey",
+      "category": "Environment / Domestic Affairs",
+      "description": "Severe wildfires devastate Antalya, Muğla, and other regions; government criticized for inadequate aerial firefighting capacity."
+    },
+    {
+      "year": 2021,
+      "month": 11,
+      "event": "Major Cabinet Reshuffles in Economic Team",
+      "category": "Executive Politics",
+      "description": "Changes in deputy ministers and bureaucratic leadership signal growing instability in economic governance."
+    },
+    {
+      "year": 2022,
+      "month": 1,
+      "event": "Beginning of İmamoğlu Insult Trial",
+      "category": "Judicial Action",
+      "description": "First court hearings for allegedly insulting state officials after the 2019 election annulment."
+    },
+    {
+      "year": 2022,
+      "month": 1,
+      "event": "Electricity and Natural Gas Price Hikes",
+      "category": "Domestic Politics / Economy",
+      "description": "Government announces steep energy price increases; strong public backlash emerges as cost of living rises."
+    },
+    {
+      "year": 2022,
+      "month": 2,
+      "event": "Turkey Positions Itself as Mediator in Russia–Ukraine Crisis",
+      "category": "Foreign Policy",
+      "description": "Ankara calls for diplomacy and hosts multiple meetings as tensions escalate ahead of the invasion."
+    },
+    {
+      "year": 2022,
+      "month": 4,
+      "event": "Opposition Alliance (Table of Six) Gains Visibility",
+      "category": "Domestic Politics",
+      "description": "Opposition coalition releases strengthened parliamentary system proposal; coordination increases ahead of 2023 elections."
+    },
+    {
+      "year": 2022,
+      "month": 5,
+      "event": "Sweden and Finland NATO Application Tensions",
+      "category": "Foreign Policy",
+      "description": "Turkey initially blocks NATO accession talks over security concerns, demanding action against PKK-linked groups."
+    },
+    {
+      "year": 2022,
+      "month": 11,
+      "event": "Operation Claw-Sword Airstrikes",
+      "category": "Military Operation",
+      "description": "Turkey launches large-scale airstrikes on northern Syria and Iraq following Istanbul attack."
+    },
+    {
+      "year": 2022,
+      "month": 12,
+      "event": "İmamoğlu Conviction & Political Ban Sentence",
+      "category": "Judicial Action",
+      "description": "İmamoğlu sentenced to 2 years 7 months and issued a political ban (pending appeal). Major protests erupt."
+    },
+    {
+      "year": 2023,
+      "month": 2,
+      "event": "Kahramanmaraş Earthquakes",
+      "category": "Disaster",
+      "description": "7.8 and 7.5 magnitude earthquakes devastate 11 provinces; millions displaced."
+    },
+    {
+      "year": 2023,
+      "month": 5,
+      "event": "2023 Presidential and Parliamentary Elections",
+      "category": "Election",
+      "description": "Erdoğan wins re-election; AKP-MHP alliance maintains majority."
+    },
+    {
+      "year": 2023,
+      "month": 11,
+      "event": "Constitution Reform Debates Reopen",
+      "category": "Domestic Politics",
+      "description": "AKP and MHP renew efforts to draft a new constitution; opposition disputes priorities."
+    },
+    {
+      "year": 2024,
+      "month": 1,
+      "event": "Local Election Campaigns Begin Nationwide",
+      "category": "Domestic Politics",
+      "description": "Parties launch campaigns for March 2024 municipal elections, with Istanbul and Ankara as major battlegrounds."
+    },
+    {
+      "year": 2024,
+      "month": 1,
+      "event": "Constitution Debate Renewed",
+      "category": "Domestic Politics",
+      "description": "Government reiterates desire for a new civilian constitution; opposition criticizes timing and priorities."
+    },
+    {
+      "year": 2024,
+      "month": 2,
+      "event": "Earthquake Anniversary and Reconstruction Debates",
+      "category": "Domestic Affairs",
+      "description": "One-year anniversary of the 2023 earthquakes prompts public scrutiny of rebuilding progress and safety standards."
+    },
+    {
+      "year": 2024,
+      "month": 3,
+      "event": "Local Elections (CHP Landslide)",
+      "category": "Election",
+      "description": "CHP wins Istanbul, Ankara, and many new municipalities; AKP’s worst local performance in decades."
+    },
+    {
+      "year": 2024,
+      "month": 12,
+      "event": "Fall of the Assad Regime and Formation of Syrian Caretaker Government",
+      "category": "War / Regime Change",
+      "description": "Opposition forces capture Damascus; Bashar al-Assad’s regime collapses and a provisional caretaker government is formed, marking a major turning point in the Syrian conflict."
+    },
+    {
+      "year": 2025,
+      "month": 3,
+      "event": "İmamoğlu Detained and Formally Arrested",
+      "category": "Judicial Action",
+      "description": "İmamoğlu detained on 19 March and formally arrested on 23 March 2025. Nationwide protests, largest since Gezi."
+    }
+  ],
+
+  "economic_events": [
+    {
+      "year": 2015,
+      "month": 1,
+      "event": "Lira Depreciation Begins",
+      "category": "Currency",
+      "description": "TRY begins a year-long depreciation trend due to global USD strength and domestic political uncertainty."
+    },
+    {
+      "year": 2015,
+      "month": 4,
+      "event": "Central Bank Pressure on Interest Rates",
+      "category": "Monetary Policy",
+      "description": "Political pressure escalates on the CBRT to cut rates before the June election; debates over independence intensify."
+    },
+    {
+      "year": 2015,
+      "month": 6,
+      "event": "Post-Election Market Volatility",
+      "category": "Markets",
+      "description": "The hung parliament outcome leads to uncertainty; TRY drops sharply and risk premiums rise."
+    },
+    {
+      "year": 2015,
+      "month": 8,
+      "event": "Global Emerging Markets Sell-Off",
+      "category": "Global Spillover",
+      "description": "China’s market crash impacts Turkey; capital outflows increase and TRY hits record lows against USD."
+    },
+    {
+      "year": 2015,
+      "month": 11,
+      "event": "Post-Election Market Stabilization",
+      "category": "Markets",
+      "description": "AKP’s regained majority briefly strengthens markets and reduces volatility."
+    },
+    {
+      "year": 2015,
+      "month": 12,
+      "event": "Early EU–Turkey Funding Expectations",
+      "category": "Economy / Migration",
+      "description": "Refugee deal negotiations include EU commitments for financial assistance, influencing budget expectations."
+    },
+    {
+      "year": 2017,
+      "month": 1,
+      "event": "Sharp TRY Depreciation",
+      "category": "Currency",
+      "description": "Lira hits new lows against USD and EUR amid political uncertainty and global dollar strength."
+    },
+    {
+      "year": 2017,
+      "month": 3,
+      "event": "Credit Guarantee Fund (KGF) Expansion",
+      "category": "Fiscal Policy",
+      "description": "Government expands credit guarantees to boost lending, temporarily stimulating growth."
+    },
+    {
+      "year": 2017,
+      "month": 9,
+      "event": "Inflation Surges into Double Digits",
+      "category": "Inflation",
+      "description": "Food and energy prices surge, contributing to rising concerns over monetary policy independence."
+    },
+    {
+      "year": 2018,
+      "month": 8,
+      "event": "August 2018 Currency Crisis",
+      "category": "Currency Crisis",
+      "description": "Dramatic collapse of the Turkish lira amid U.S. sanctions and structural imbalances; USD/TRY spikes above 7.0."
+    },
+    {
+      "year": 2018,
+      "month": 9,
+      "event": "Record Interest Rate Hike",
+      "category": "Monetary Policy",
+      "description": "CBRT raises rates sharply despite political pressure, stabilizing markets temporarily."
+    },
+    {
+      "year": 2018,
+      "month": 10,
+      "event": "Inflation Peaks Above 25%",
+      "category": "Inflation",
+      "description": "Turkey reaches its highest inflation level since the early 2000s."
+    },
+    {
+      "year": 2019,
+      "month": 3,
+      "event": "Currency Volatility Before Local Elections",
+      "category": "Currency",
+      "description": "TRY experiences sudden volatility amid political uncertainty and concerns over reserves."
+    },
+    {
+      "year": 2019,
+      "month": 4,
+      "event": "Government Announces 'Structural Reform Package'",
+      "category": "Fiscal / Structural Policy",
+      "description": "New package aims to stabilize markets but receives mixed reactions from economists."
+    },
+    {
+      "year": 2019,
+      "month": 7,
+      "event": "Aggressive Interest Rate Cuts Begin",
+      "category": "Monetary Policy",
+      "description": "New governor Murat Uysal cuts rates significantly, triggering debate on overheating and inflation risk."
+    },
+    {
+      "year": 2020,
+      "month": 4,
+      "event": "COVID Economic Shock",
+      "category": "Economy",
+      "description": "Tourism collapses; FX reserves drained to defend the lira."
+    },
+    {
+      "year": 2020,
+      "month": 8,
+      "event": "TRY Depreciates to Record Lows",
+      "category": "Currency",
+      "description": "Lira surpasses 7.30 per USD amid concerns about reserves and geopolitical tensions."
+    },
+    {
+      "year": 2021,
+      "month": 3,
+      "event": "Central Bank Governor Naci Ağbal Fired",
+      "category": "Monetary Policy / Governance",
+      "description": "Ağbal is removed days after raising interest rates; markets shocked; TRY depreciates sharply."
+    },
+    {
+      "year": 2021,
+      "month": 4,
+      "event": "New CBRT Governor Continues Rate Cuts Signaling",
+      "category": "Monetary Policy",
+      "description": "Lower-interest rhetoric increases market concerns about unorthodox economic policies."
+    },
+    {
+      "year": 2021,
+      "month": 8,
+      "event": "Inflation Continues Climbing",
+      "category": "Inflation",
+      "description": "Input costs and global commodity prices push inflation into double digits; real wages erode."
+    },
+    {
+      "year": 2021,
+      "month": 11,
+      "event": "Currency Crisis Deepens",
+      "category": "Currency Crisis",
+      "description": "Lira depreciates rapidly; USD/TRY surpasses 12, then 13; inflation accelerates."
+    },
+    {
+      "year": 2021,
+      "month": 12,
+      "event": "Lira Collapse to 18.4 per USD",
+      "category": "Currency Crisis",
+      "description": "FX-protected deposit scheme (KKM) launched to halt dollarization."
+    },
+    {
+      "year": 2022,
+      "month": 1,
+      "event": "Inflation Surges Over 48%",
+      "category": "Inflation",
+      "description": "Cost-of-living crisis accelerates amid the consequences of 2021 monetary easing."
+    },
+    {
+      "year": 2022,
+      "month": 2,
+      "event": "Lira Highly Volatile Despite Interventions",
+      "category": "Currency",
+      "description": "FX-protected deposit scheme (KKM) slows the crash but volatility persists; reserves under pressure."
+    },
+    {
+      "year": 2022,
+      "month": 11,
+      "event": "Inflation Peaks at 85.5%",
+      "category": "Inflation",
+      "description": "Official inflation reaches its highest point in over two decades; food and rent costs surge."
+    },
+    {
+      "year": 2023,
+      "month": 6,
+      "event": "Orthodox Turn: Şimşek Appointed",
+      "category": "Monetary Policy",
+      "description": "Mehmet Şimşek becomes finance minister; shift toward tight monetary policy begins."
+    },
+    {
+      "year": 2023,
+      "month": 8,
+      "event": "Aggressive Rate Hikes Begin",
+      "category": "Monetary Policy",
+      "description": "CB hikes policy rate to 25%, then 30%, 35%, 40% through late 2023."
+    },
+    {
+      "year": 2024,
+      "month": 3,
+      "event": "Interest Rate Reaches 50%",
+      "category": "Monetary Policy",
+      "description": "CB holds policy rate at 50% through late 2024; inflation begins gradually slowing."
+    },
+    {
+      "year": 2024,
+      "month": 9,
+      "event": "Economic Rebalancing Measures Expand",
+      "category": "Monetary / Fiscal Policy",
+      "description": "Tight credit conditions, tax increases, and spending controls deepen the short-term slowdown."
+    },
+    {
+      "year": 2025,
+      "month": 3,
+      "event": "Emergency MONETARY Response to İmamoğlu Arrest",
+      "category": "Currency Crisis",
+      "description": "CB holds extraordinary meeting, hikes overnight rate, deploys FX reserves to stabilise markets."
+    }
+  ],
+
+  "refugee_migration_events": [
+    {
+      "year": 2015,
+      "month": 9,
+      "event": "Peak of European Refugee Crisis",
+      "category": "Migration",
+      "description": "Images of Alan Kurdi trigger global humanitarian outcry; EU debates asylum policies."
+    },
+    {
+      "year": 2015,
+      "month": 11,
+      "event": "FRIT Established",
+      "category": "EU Funding",
+      "description": "EU's Facility for Refugees in Turkey created to manage €6bn support package."
+    },
+    {
+      "year": 2016,
+      "month": 1,
+      "event": "Lira Depreciation Continues",
+      "category": "Currency",
+      "description": "TRY weakens amid global volatility and domestic security concerns."
+    },
+    {
+      "year": 2016,
+      "month": 3,
+      "event": "EU–Turkey Statement Signed",
+      "category": "Agreement",
+      "description": "Statement agreed on 18 March 2016; becomes operational on 20 March."
+    },
+    {
+      "year": 2016,
+      "month": 3,
+      "event": "EU–Turkey Refugee Deal Signed",
+      "category": "Migration / Foreign Policy",
+      "description": "Turkey and EU reach formal agreement aiming to control irregular migration; includes financial aid and visa liberalization roadmap."
+    },
+    {
+      "year": 2016,
+      "month": 4,
+      "event": "First Month of Returns",
+      "category": "Implementation",
+      "description": "386 migrants returned from Greek islands to Turkey in April 2016."
+    },
+    {
+      "year": 2017,
+      "month": 5,
+      "event": "Drop in Monthly Returns",
+      "category": "Implementation",
+      "description": "Returns fall sharply; containment becomes main effect."
+    },
+    {
+      "year": 2018,
+      "month": 6,
+      "event": "Second FRIT Tranche Approved",
+      "category": "EU Funding",
+      "description": "EU Council approves second €3bn FRIT package."
+    },
+    {
+      "year": 2019,
+      "month": 3,
+      "event": "FRIT Midterm Review",
+      "category": "Monitoring",
+      "description": "EU reports ~€4.2bn committed; slower project delivery than expected."
+    },
+    {
+      "year": 2020,
+      "month": 2,
+      "event": "Border Crisis (Evros)",
+      "category": "Crisis",
+      "description": "Turkey opens border toward Greece; clashes at Evros; EU suspends returns."
+    },
+    {
+      "year": 2021,
+      "month": 6,
+      "event": "Additional €3bn for 2021–2023",
+      "category": "EU Funding",
+      "description": "EU commits another €3bn to support refugees and host communities."
+    },
+    {
+      "year": 2021,
+      "month": 8,
+      "event": "Afghanistan Crisis and Refugee Debates",
+      "category": "Foreign Policy / Migration",
+      "description": "As the Taliban takes Kabul, public debate intensifies over potential new refugee flows into Turkey."
+    },
+    {
+      "year": 2021,
+      "month": 12,
+      "event": "ESSN Cash Assistance Extension",
+      "category": "Humanitarian",
+      "description": "EU releases major tranche for cash-card assistance program."
+    },
+    {
+      "year": 2023,
+      "month": 2,
+      "event": "Earthquake Displacement",
+      "category": "Crisis",
+      "description": "Millions displaced across 11 provinces, including large Syrian populations."
+    },
+    {
+      "year": 2024,
+      "month": 5,
+      "event": "Post-FRIT Framework Talks",
+      "category": "Negotiation",
+      "description": "EU debates new funding mechanism to replace FRIT after 2023."
+    },
+    {
+      "year": 2025,
+      "month": 3,
+      "event": "Syria Donor Conference",
+      "category": "International Aid",
+      "description": "EU states pledge new multi-country support including Turkey’s refugee programs."
+    }
+  ]
+}
