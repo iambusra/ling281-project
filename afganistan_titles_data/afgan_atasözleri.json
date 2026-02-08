@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T21:58:27.503837",
+    "total_entries": 1,
+    "input": "afgan atasözleri",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "afgan atasözleri",
+      "entry_id": "167184160",
+      "author": "hicbirkibritibirseferdeyakamiyor",
+      "date": "09.08.2024 19:54",
+      "content": "dünya atasözleri\ntürker acaroğlu\nreferans yayıncılık\n\n*\n\nkötü kadın, dar ayakkabı gibidir.\n\ncenk varken postta oturulmaz.\n\nha yalan söylemişsin, ha geceleyin damdan atlamışsın, aynı şeydir.\n\niçteki ağrıyı, dilim dilim dilmek olmaz.\n\no denli tatlı olma, ki seni yemesinler.\n\ntalihin varsa, neden acele edersin? talihin yoksa, neden acele edersin?",
+      "has_external_url": false
+    }
+  ]
+}

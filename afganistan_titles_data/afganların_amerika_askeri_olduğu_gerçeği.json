@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:07:42.006436",
+    "total_entries": 3,
+    "input": "afganların amerika askeri olduğu gerçeği",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "afganların amerika askeri olduğu gerçeği",
+      "entry_id": "176590797",
+      "author": "hakan1903",
+      "date": "06.07.2025 02:32",
+      "content": "ülkemizdeki afganların amerikanın taliban ve rusya'ya karşı afganistanda kullandığı askerler olduğu ve anadoluya özellikle uyuyan birer hücre olarak gönderildiği ve zamanı gelince silahlı şekilde kullanılacağına dair bir tez var.",
+      "has_external_url": false
+    },
+    {
+      "title": "afganların amerika askeri olduğu gerçeği",
+      "entry_id": "176590849",
+      "author": "yankee jumping",
+      "date": "06.07.2025 02:37",
+      "content": "doğruluk payı yüksektir. amerika'nın afganistan'ı işgal ettiğinde orada kurduğu kukla hükümet ve onun düzenli(!) ordusunun askerleri yok, arazi. ülkeye kaçak yollarla giriş yapan afgan piçlerin %99'u erkekti. insan olduktan sonra silah, mühimmat teferrüattan başka bir şey değildir. suriyeliler, afganlar... ülkeyi işgal ettiler sınırdan ellerini kollarını sallayarak. birilerine sorsanız din kardeşleridir ama onların...",
+      "has_external_url": false
+    },
+    {
+      "title": "afganların amerika askeri olduğu gerçeği",
+      "entry_id": "176590852",
+      "author": "madredeus",
+      "date": "06.07.2025 02:36 ~ 02:40",
+      "content": "50 dolar maaşla israil’e ajanlık yaptıkları anlaşılınca onbinlercesi iran’dan afganistan’a postalanıyor. birileri ders almıştır diye umuyorum ama pek zannetmiyorum.",
+      "has_external_url": false
+    }
+  ]
+}

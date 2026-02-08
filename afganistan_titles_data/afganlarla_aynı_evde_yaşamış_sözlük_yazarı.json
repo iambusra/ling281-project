@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:08:37.989518",
+    "total_entries": 1,
+    "input": "afganlarla aynı evde yaşamış sözlük yazarı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "afganlarla aynı evde yaşamış sözlük yazarı",
+      "entry_id": "130466289",
+      "author": "quindiniar",
+      "date": "25.11.2021 23:58",
+      "content": "avustralya'da 2 afgan'la aynı evi paylaştım, sadece onlar değil yunan, tazmanyalı, hintli, lübnanlı vs de aynı evde yaşıyordu. her odası bir kişiye kiralanmış büyük müstakil bir evdi bu.\n\nbenim denk geldiğim bu iki arkadaş hakkında açıkçası hiç bir olumsuz hatıram bulunmuyor. son derece nazik ve çalışkan kişilerdi. hatta bir tanesi kendisini inanılmaz derecede iyi yetiştirmiş, çok kitap okuyan ve yerel bir radyoda program yapan bir arkadaştı. afganistan'daki lisans diplomasına ek olarak avustralya'da hukuk okuyordu aynı zamanda.\n\ninsan geninin elbette bazı karakteristik özelliklere etkisi vardır ancak eğitim ve yaşanılan çevre sanıyorum ki çok daha fazla etki yapar kişinin üstünde.",
+      "has_external_url": false
+    }
+  ]
+}

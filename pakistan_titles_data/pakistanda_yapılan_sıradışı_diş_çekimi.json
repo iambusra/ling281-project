@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:03:45.083120",
+    "total_entries": 1,
+    "input": "pakistanda yapılan sıradışı diş çekimi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "pakistanda yapılan sıradışı diş çekimi",
+      "entry_id": "130577293",
+      "author": "devridevran",
+      "date": "29.11.2021 11:17",
+      "content": "çağın bayağı ötesinde olan uygulamadır, hijyen konusunda biraz sıkıntı var. o da idare edilir video",
+      "has_external_url": true
+    }
+  ]
+}

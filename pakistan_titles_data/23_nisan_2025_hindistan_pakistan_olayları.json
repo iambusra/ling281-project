@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:01:58.132644",
+    "total_entries": 1,
+    "input": "23 nisan 2025 hindistan pakistan olayları",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "23 nisan 2025 hindistan pakistan olayları",
+      "entry_id": "174773146",
+      "author": "sexy ve 2001 li",
+      "date": "23.04.2025 21:23",
+      "content": "sınırların kapatıldığı ve 2 pakistanlının öldürüldüğü iddia edilen olaylardır.",
+      "has_external_url": false
+    }
+  ]
+}

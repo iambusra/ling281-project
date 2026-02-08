@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:00:21.280015",
+    "total_entries": 1,
+    "input": "türkiye'deki suriyeli ve afganistanlı fazlalığı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türkiye'deki suriyeli ve afganistanlı fazlalığı",
+      "entry_id": "109711980",
+      "author": "evrimgecirmiscivciv",
+      "date": "03.07.2020 19:01",
+      "content": "20 yıl sonra (bkz: türkiye’deki türk azlığı)",
+      "has_external_url": false
+    }
+  ]
+}

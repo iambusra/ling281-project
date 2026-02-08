@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:06:00.737020",
+    "total_entries": 2,
+    "input": "afganlar ekşi yazarı olsa açacakları başlıklar",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "afganlar ekşi yazarı olsa açacakları başlıklar",
+      "entry_id": "136304832",
+      "author": "hobi saati",
+      "date": "17.04.2022 03:06",
+      "content": "başlık bir afgan zekası ürünü gibi geldi zaten. itiraf et vatandaşlıktan sonra promosyon olarak ekşide de yazarlık mı verdiler.",
+      "has_external_url": false
+    },
+    {
+      "title": "afganlar ekşi yazarı olsa açacakları başlıklar",
+      "entry_id": "136305455",
+      "author": "alexo",
+      "date": "17.04.2022 03:36 ~ 03:37",
+      "content": "(bkz: erdoğanın asrın lideri olması)\n\n(bkz: şaka maka ekonominin güçlenmesi)\n\n(bkz: türklerin ırkçı olması)",
+      "has_external_url": false
+    }
+  ]
+}

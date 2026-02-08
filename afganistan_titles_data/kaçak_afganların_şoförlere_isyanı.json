@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:07:58.593185",
+    "total_entries": 1,
+    "input": "kaçak afganların şoförlere isyanı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "kaçak afganların şoförlere isyanı",
+      "entry_id": "137396780",
+      "author": "arap sen icme bokunu cikartiyorsun",
+      "date": "13.05.2022 16:22",
+      "content": "bu 500 dolar 1000 dolarları kimler kimle işbirliği içinde alıyor acaba. araştırılsın önerisi verilmeli. görelim hemen itiraz edecekleri.",
+      "has_external_url": false
+    }
+  ]
+}

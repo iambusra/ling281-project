@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:03:53.807129",
+    "total_entries": 3,
+    "input": "pakistanda sevgililer gününün yasaklanması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "pakistanda sevgililer gününün yasaklanması",
+      "entry_id": "86368502",
+      "author": "gri sehrin adami",
+      "date": "06.02.2019 11:10 ~ 11:15",
+      "content": "kamuya açık yerlerde kutlama yasağı getirilmiş. çok şükür halimizden anlayan birileri çıktı. olan var olmayan var diye düşünmüş sevgili pakistanlı yetkililer. tebrik ediyorum.\n\nkaynak vermeyi unutmuşum. buyrun bu da kaynak: https://www.haberturk.com/…gunu-yasaklandi-1772850#",
+      "has_external_url": true
+    },
+    {
+      "title": "pakistanda sevgililer gününün yasaklanması",
+      "entry_id": "86368595",
+      "author": "zinharyalan",
+      "date": "06.02.2019 11:13",
+      "content": "(bkz: yallah pakistana)",
+      "has_external_url": false
+    },
+    {
+      "title": "pakistanda sevgililer gününün yasaklanması",
+      "entry_id": "86369050",
+      "author": "mrsfarnsworth",
+      "date": "06.02.2019 11:30",
+      "content": "artık 14 şubatta nereye gideceğimizi biliyoruz en azından",
+      "has_external_url": false
+    }
+  ]
+}

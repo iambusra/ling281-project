@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:05:56.510386",
+    "total_entries": 2,
+    "input": "bayramda öbek obek dolasan afganlar nerde simdi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "bayramda öbek obek dolasan afganlar nerde simdi",
+      "entry_id": "137181885",
+      "author": "safsofis",
+      "date": "08.05.2022 14:06",
+      "content": "bayramda sadece ıstanbul'un her yerinde gördüğümüz, korku filminden fırlamış tipler, bayramdan sonra sanki yok oldu. dün, beyazıt, sultanahmet, kapalı çarşı gülhane eminönü güzergahında yürüyerek dolaştım, metro tramway kullandım, inanın bir grup bile afgan paki görmedim. arap ve yabancı turistler çoğunluktaydi yine ama hiç öyle iki kişi bile dolaşan görmedim.ısterseniz komplo teorisi deyin ama bu adamlar özellikle bayramda dikkat çekmek için istanbul'un her yerine bırakıldılar.",
+      "has_external_url": false
+    },
+    {
+      "title": "bayramda öbek obek dolasan afganlar nerde simdi",
+      "entry_id": "137182223",
+      "author": "turaka",
+      "date": "08.05.2022 14:16 ~ 14:16",
+      "content": "sabah saat 8 ile 10 arası, beykoz küçüksu camii önündeki amele pazarında görebilirsiniz yüzlercesini.",
+      "has_external_url": false
+    }
+  ]
+}

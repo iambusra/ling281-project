@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:01:56.735346",
+    "total_entries": 1,
+    "input": "hindistan pakistan savaşının başlaması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "hindistan pakistan savaşının başlaması",
+      "entry_id": "174825219",
+      "author": "vikskokusu",
+      "date": "25.04.2025 23:19",
+      "content": "kim daha pis savaşı",
+      "has_external_url": false
+    }
+  ]
+}

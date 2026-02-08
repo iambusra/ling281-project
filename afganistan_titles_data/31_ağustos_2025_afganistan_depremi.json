@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:00:50.853071",
+    "total_entries": 2,
+    "input": "31 ağustos 2025 afganistan depremi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "31 ağustos 2025 afganistan depremi",
+      "entry_id": "178088524",
+      "author": "tahta tava",
+      "date": "03.09.2025 12:17",
+      "content": "31 ağustos günü yerel saatle 23.47'de afganistan'ın celalabad şehrinin 27 km kuzeydoğusunda 8 km derinlikte meydana gelen 6.0 büyüklüğündeki deprem. 1425 kişinin öldüğü doğrulandı 3000'den fazla yaralı var. deprem sonrası moloz altında kalanları kurtarma çalışmaları devam ediyor ancak dağlık bölgede ulaşım sıkıntılı ve kısıtlı olması kurtarma çalışmalarını zorlaştırıyor. depremin yüzeye yakın olması ivme değerlerinin yüksek olması, binaların çoğunlukla taş yığma binalar olması ve depreme karşı tasarlanmış olmaması, depremin gece meydana gelmesi can kaybını artıran unsurlar.\n\nçin, hindistan, iran, bm, ab yardım gönderdi. türkiye de bugün itibariyle yardım gönderdi.\n\nwikipedia\nusgs\ntürkiye yardımı\nal jazeera",
+      "has_external_url": true
+    },
+    {
+      "title": "31 ağustos 2025 afganistan depremi",
+      "entry_id": "179271377",
+      "author": "efsanecayci",
+      "date": "21.10.2025 15:15",
+      "content": "orta büyüklükte olmasında ağır bir etkiye yol açan ve yaklaşık 3 bin insanın ölümüne, 4 bininin yaralanmasına; 8 bin civarında evin de yıkılmasına yol açan deprem. depremin merkez üssü, pakistan sınırına yakın, doğu afganistan'ın kunar eyaletinin nurgal ilçesiydi ve yüzeyin 8 km derinliğinde meydana geldi.\n\ncan kaybı ve yıkımın neredeyse tamamı, kunar eyaleti'nin beş ilçesinde meydana gelirken, bu ilçelerde neredeyse tüm binalar hasar görmüş veya yıkılmış. yakındaki illerde de hasar ve can kaybı yaşanmış.\n\nbu, 1998'den beri afganistan'ı etkileyen en ölümcül deprem oldu. 2021'de ülke yönetimini ele geçiren şeriatçı taliban terör örgütü nün uygulamalarının deprem sonrası müdahaleleri zorlaştırdığı ve ölümleri arttırdığı belirtilmiş.\n\n(bkz: 1 eylül 2025 afganistan'da 6 büyüklüğünde deprem)",
+      "has_external_url": false
+    }
+  ]
+}

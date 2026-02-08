@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:07:01.163940",
+    "total_entries": 2,
+    "input": "ab'ye yapılan afganları sınır dışı etme teklifi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ab'ye yapılan afganları sınır dışı etme teklifi",
+      "entry_id": "126781971",
+      "author": "non mi avete fatto niente",
+      "date": "11.08.2021 09:24 ~ 09:25",
+      "content": "aralarında hollanda, danimarka, avusturya, almanya, belçika ve yunanistan'ın başvuruları reddedilmiş ve tüm yasal yolları tüketmiş olan afgan sığınmacıların sınır dışı edilmesini istemesi hadisesidir.\n\nkaynaklar:\n\nhttps://www.bbc.com/turkce/haberler-dunya-58139343\n\nhttps://www.gazeteduvar.com.tr/…tiyor-haber-1531191",
+      "has_external_url": true
+    },
+    {
+      "title": "ab'ye yapılan afganları sınır dışı etme teklifi",
+      "entry_id": "126782980",
+      "author": "knary",
+      "date": "11.08.2021 10:01",
+      "content": "(bkz: gönder gelsin)",
+      "has_external_url": false
+    }
+  ]
+}

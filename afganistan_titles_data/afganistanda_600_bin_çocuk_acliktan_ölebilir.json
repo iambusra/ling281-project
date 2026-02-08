@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:08:53.757158",
+    "total_entries": 1,
+    "input": "afganistanda 600 bin çocuk acliktan ölebilir",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "afganistanda 600 bin çocuk acliktan ölebilir",
+      "entry_id": "90516835",
+      "author": "cirkinkrall",
+      "date": "26.05.2019 00:03 ~ 00:05",
+      "content": "unıcef'in açıklamasına göre afganistana önümüzdeki 3 hafta içinde gıda yardımı yapılmaması durumunda sadece 600 bini çocuk yüzbinlerce insan yetersiz beslenme yüzünden hayatını kaybedebilir. tekrardan söylüyorum yalnızca 6 milyon 300 bin euro para yardımında bulunulmazsa en başta çocuklar ölmeye başlayacak. düşünün koskoca ülke 6 milyon 300 bin euro için el açıp yardım dilenmek zorunda kalıyor.\n\numarım sadece para yardımında bulunmakla kalınmaz; hastane, okul,iş yeri ve türlü projeler ile insanca yaşayabilecekleri bir hayatlari olması için yatırımda yapılır.\ndwhaber\nmynet",
+      "has_external_url": true
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:06:21.944595",
+    "total_entries": 2,
+    "input": "akşener'in afganlar konusundaki sessizliği",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "akşener'in afganlar konusundaki sessizliği",
+      "entry_id": "126967078",
+      "author": "paintman",
+      "date": "16.08.2021 02:57",
+      "content": "nedenini gerçekten samimiyetle merak ettiğim sessizliktir. bize gelenb afgan istilası konusunda muhalefette sadece kemal kılıçdaroğlu kararlı bir şekilde ülkemizin çıkarları için konuşuyor. göçmen sorununu kemal kılıçdaroğlu ülkenin ana gündem maddelerinden biri haline getirdi.\n\nve fakat ittifak ortağı olan meral hanımın bu konuda hiç sesi soluğu çıkmıyor. cılız ve kimseyi ikna etmeyen açıklamalar yapıyor. hakeza partisi de öyle. kılıçdaroğlu'nu bu konuda neden yalnız bıraktıklarını anlamaya çalışıyorum ama anlayamıyorum.\n\nyalnız, kendisine tavsiyem; bu millet bu zor zamanlarda kimin ne dediğini hatırlar.",
+      "has_external_url": false
+    },
+    {
+      "title": "akşener'in afganlar konusundaki sessizliği",
+      "entry_id": "126988967",
+      "author": "anarkoholding",
+      "date": "16.08.2021 20:04",
+      "content": "(bkz: meral akşener'ın afganistan açıklaması)",
+      "has_external_url": false
+    }
+  ]
+}

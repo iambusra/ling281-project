@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:02:37.261276",
+    "total_entries": 3,
+    "input": "afganistan ekonomi bakanının uber driver olması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "afganistan ekonomi bakanının uber driver olması",
+      "entry_id": "135184612",
+      "author": "governing",
+      "date": "20.03.2022 18:23",
+      "content": "afganistan'ın taliban yönetiminden önce ki son ekonomi bakanı olan halid payende, abd'de uber driver olarak hayatını kazanmaya çalışıyormuş.\n\nkaynak: https://www.sozcu.com.tr/…afi-ortaya-cikti-7022761/\n\nekmeğini kazanmak için çalışılan her iş saygıyı hak eder ama ekonomi gibi küresel bir alanda olup abd'de başka bir iş bulamayacak kadar yetkinliğinin az olması bu gün afganistan'ın neden bu halde olduğunun, neden asla gelişmeyeceğinin somut örneği kanımca.",
+      "has_external_url": true
+    },
+    {
+      "title": "afganistan ekonomi bakanının uber driver olması",
+      "entry_id": "135184825",
+      "author": "deutsche am meer",
+      "date": "20.03.2022 18:28",
+      "content": "birleşik devletlerin kullanıp attığı bir adama en son olarak verdiği son şeyin abd'de yaşama izni olduğunu gözler önüne seren gerçek. daha fazlasını hak edememiş ki git ne halt yersen ye abd'de demişler.",
+      "has_external_url": false
+    },
+    {
+      "title": "afganistan ekonomi bakanının uber driver olması",
+      "entry_id": "135186589",
+      "author": "janna hanim diyeceksiniz",
+      "date": "20.03.2022 19:10",
+      "content": "(bkz: ekomomi bakanı)\n\nbunu yazan da ülkenin en bilinen gazetelerinden biri. editör çalıştırmaya bütçeleri yok herhalde...\n\nneden haber değeri taşıdığını anlayamadığım hede. bazıları her horoz kendi çöplüğünde öter atasözünü duymamışlar sanırım. neyse...\n\no değil de, canımcım, sen neden afganistan'ın içinde bulunduğu durumdan sorumlu tuttuğun bir ülkeye kaçar ve oranın insanına hizmet edersin ki? bu ne yaman çelişkidir yiğidim?\n\ngerçi afganistan hakkındaki \" bitter lake \" isimli şu belgeseli herkesin izlemesi ve oturup biraz düşünmesi gerek. suretler değişse de dinamiklerin değişmediğini görmek insanı üzüyor. türkiye'yi hiç ama hiç iyi günler beklemiyor. oturup izleyince ne demek istediğimi çok iyi anlayacaksınız.",
+      "has_external_url": false
+    }
+  ]
+}

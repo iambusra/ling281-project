@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:07:28.147329",
+    "total_entries": 2,
+    "input": "suriyeli ve afganlara yabancı uyruklu denilmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeli ve afganlara yabancı uyruklu denilmesi",
+      "entry_id": "126788492",
+      "author": "banaonugetirin",
+      "date": "11.08.2021 12:49",
+      "content": "bunların karıştığı olumsuz olaylarda medya genelde yabancı uyruklu yazıyor. örneğin ankarada suriyeliler insanımızı bıçaklamış yabancı uyruklu diyor ama japon yapsa japon der örnek veriyorum link",
+      "has_external_url": true
+    },
+    {
+      "title": "suriyeli ve afganlara yabancı uyruklu denilmesi",
+      "entry_id": "126788600",
+      "author": "jokercraft",
+      "date": "11.08.2021 12:52",
+      "content": "adam ben ingilizim dese bile inanmak zorundasın çünkü ülkeye girerken herhangi bir kaydını ve hangi göç yolu üzerinden geldiğini ispatlayacak hiçbir belgen yok. sırf tipinden dolayı da adamı sen buradansın diyemezsin resmi olarak öyle bir imkanın yok. yani olay aslında afgan veya suriyeli diye ayırmaktan çok daha mühim bir yerde. dışarıdaki başı boş köpeklerin bile kimliği var ve denetimleri iyi kötü yapılıyor bir şekilde. ama bu kaçakların en az yüzde 50'si böyle bir durumu yoktur.",
+      "has_external_url": false
+    }
+  ]
+}

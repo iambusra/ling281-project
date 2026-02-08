@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T21:58:28.995824",
+    "total_entries": 2,
+    "input": "sel suyu içinden yayın yapan pakistanlı muhabir",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "sel suyu içinden yayın yapan pakistanlı muhabir",
+      "entry_id": "176918491",
+      "author": "from potomac to kuban",
+      "date": "19.07.2025 08:28",
+      "content": "işinin hakkını veren muhabirdir.\n\ngörsel\n\nhttps://www.livemint.com/…video-11752855977344.html",
+      "has_external_url": true
+    },
+    {
+      "title": "sel suyu içinden yayın yapan pakistanlı muhabir",
+      "entry_id": "176918497",
+      "author": "baskasinin hesabi",
+      "date": "19.07.2025 08:29",
+      "content": "ıslanmıştır.",
+      "has_external_url": false
+    }
+  ]
+}

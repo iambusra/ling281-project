@@ -1,0 +1,79 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:02:27.764793",
+    "total_entries": 6,
+    "input": "türkiye suriye afganistan pakistan konfederasyonu",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türkiye suriye afganistan pakistan konfederasyonu",
+      "entry_id": "136431804",
+      "author": "deutsche am meer",
+      "date": "20.04.2022 03:12",
+      "content": "türk kızlarını pakistanlı beyefendilerle evlendirerek bu konfederasyondaki bağları güclendirmek lazım.",
+      "referenced_content": [],
+      "has_external_url": false
+    },
+    {
+      "title": "türkiye suriye afganistan pakistan konfederasyonu",
+      "entry_id": "136431839",
+      "author": "megas aleksandros",
+      "date": "20.04.2022 03:14",
+      "content": "bir gün küfretmekten fazlasını da yapacağız.",
+      "referenced_content": [],
+      "has_external_url": false
+    },
+    {
+      "title": "türkiye suriye afganistan pakistan konfederasyonu",
+      "entry_id": "136431861",
+      "author": "bill burr",
+      "date": "20.04.2022 03:16",
+      "content": "suriye bunu mısır'la denedi. birleşik arap cumhuriyetini kurdu. 3-5 senede çöktüler.\n\naraplarla birlikte yaşayamamış bunlar türklerle mi yaşayacak...",
+      "referenced_content": [],
+      "has_external_url": false
+    },
+    {
+      "title": "türkiye suriye afganistan pakistan konfederasyonu",
+      "entry_id": "136431930",
+      "author": "hemkelhemdesisman",
+      "date": "20.04.2022 03:20",
+      "content": "(bkz: tayyip dönmeden ülkeyi saklıyoruz beyler) ülkeyi saklasak yeter.",
+      "referenced_content": [],
+      "has_external_url": false
+    },
+    {
+      "title": "türkiye suriye afganistan pakistan konfederasyonu",
+      "entry_id": "137795296",
+      "author": "vagus579",
+      "date": "23.05.2022 08:48",
+      "content": "oldu olacak libya'yı da dahil edelim. adamlar bizi araplaştırmak için ellerinden gelen her şeyi yaptılar ve sonunda başarılı da oldular.",
+      "referenced_content": [],
+      "has_external_url": false
+    },
+    {
+      "title": "türkiye suriye afganistan pakistan konfederasyonu",
+      "entry_id": "137795303",
+      "author": "nyx ulric",
+      "date": "23.05.2022 08:49 ~ 08:51",
+      "content": "farazi olsa bile genişleme içeren bir fikir.\n\ngerçekte söylenenlere bakarsak:\n\n(bkz: eyalet sistemi 2023'ün konusu)\n\neyalet isimleri konusunda önerisi olan var mı.?\n\n(bkz: #136230619)",
+      "referenced_content": [
+        {
+          "type": "entry",
+          "title": "eyalet-sistemi-2023un-konusu",
+          "entry_id": "136230619",
+          "author": "nyx ulric",
+          "date": "15.04.2022 09:49 ~ 09:50",
+          "content": "bu mevzular ilk çıktığında herkesin kafasında malum pkk ve kürdistan eyaleti mevzusu vardı.\n\nbirileri bunu ümmetçilik ile işleterek hayata geçireceğini umuyordu. kafalarındaki eyalet ise güneydoğu anadolu bölgesi, kuzey suriye ve ırak'ı içine alan bir eyaletti.:))\n\nburdan da zaten neo osmanlı mevzuları başladı, feslinin çıkışları, 2.abdülhamit pazarlayan çakma tarihçiler, malum osmanlı dizileri vs.\nsonra açılım gümledi. milliyetçilği ayaklar altına alanlar'yerli ve milli takılmaya başladı.\n\nşu gelinen nokta ise ibretlik, kürdistan eyaleti vs tehdit olarak algılarken, elimizde çoğunluğu suriyeli 10 milyon mülteci var...\n\n10 milyon mülteci ile değil eyalet, yeni ülke kurulur.\n\nhala hedef 2023 yerli milli vs diyenlere soruyorum:\n\nbu kadar mülteci niye alınır? neden vatandaşlık verilir?\n\nneden ev arsa satışı yapılır?\n\nneden kendi vatandaşına verilmeyen olanaklar sağlanır?\n\ney dünya 5 ten büyüktür diyen yerli millici, rabiacı arkadaş!\n\nhala eyalet sistemi 2023'ün konusu mu, değil mi?",
+          "has_external_url": false
+        }
+      ],
+      "referenced_entry_ids": [
+        "136230619"
+      ],
+      "has_external_url": false
+    }
+  ]
+}

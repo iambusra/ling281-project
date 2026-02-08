@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:06:21.111406",
+    "total_entries": 3,
+    "input": "afganlar ab ülkelerine eşit olarak dağıtılmalı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "afganlar ab ülkelerine eşit olarak dağıtılmalı",
+      "entry_id": "127062888",
+      "author": "non mi avete fatto niente",
+      "date": "18.08.2021 18:29",
+      "content": "avrupa parlamentosu açıklaması.\n\nsassoli, yaptığı açıklamada, afganistan'da nato ve yabancı birliklere yardımcı olan afganlardan intikam alınabileceğini belirterek, “bizimle çalışan ve iş birliği yapanları korumalıyız, onlardan intikam alınmasına izin veremeyiz. bu konuda sorumluluğumuz var. afgan mülteciler, avrupa birliği (ab) üye ülkelerine dağıtılmalı. afgan mültecilerin, pariteyi korumak için üye ülkeler arasında eşit dağıtılmalarına izin verebileceğini düşünüyorum ve bu da hızlı bir şekilde yapılabilir\" dedi.\n\nhttps://twitter.com/…_tr/status/1428015077026721795",
+      "has_external_url": true
+    },
+    {
+      "title": "afganlar ab ülkelerine eşit olarak dağıtılmalı",
+      "entry_id": "127063098",
+      "author": "royalekingdom",
+      "date": "18.08.2021 18:37",
+      "content": "umarım o ab arap bölgesidir",
+      "has_external_url": false
+    },
+    {
+      "title": "afganlar ab ülkelerine eşit olarak dağıtılmalı",
+      "entry_id": "127063669",
+      "author": "okayb34",
+      "date": "18.08.2021 18:58",
+      "content": "ortadoğuda afganlar yeniden dağıtılıyor…",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T21:59:37.761550",
+    "total_entries": 1,
+    "input": "doğalgazı poşetleyen pakistanlı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "doğalgazı poşetleyen pakistanlı",
+      "entry_id": "147643335",
+      "author": "erazur",
+      "date": "14.01.2023 19:01",
+      "content": "2022 yılı aralık ayında tutuklanan kişilerden biridir. ingilizce haber: dawn\n\nişin ilginci, bu ilk kez yaşanan bir durum değil. şehirlerin dışında yaşayan pakistanlılar, ocaklarında kullanacakları doğalgazı tarlalardan kompresörlerle, insan boyutunda torbalara doldurmaktalar: youtube",
+      "has_external_url": true
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:04:42.839206",
+    "total_entries": 2,
+    "input": "katar dünya kupası için kiralanan pakistanlılar",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "katar dünya kupası için kiralanan pakistanlılar",
+      "entry_id": "145123527",
+      "author": "kuyrukluadam",
+      "date": "15.11.2022 09:57",
+      "content": "son bir senesini araplarla geçirmiş biri olarak, bu rezilliklerin daha hiç bir şey olduğunu düşünüyorum. bizleri bekleyen daha bir çok sansasyon var.\n\ntanım: henüz başlamadan biten bir organizasyon",
+      "has_external_url": false
+    },
+    {
+      "title": "katar dünya kupası için kiralanan pakistanlılar",
+      "entry_id": "145123776",
+      "author": "birikiucdortbesaltiyedisekizdokuz",
+      "date": "15.11.2022 10:05",
+      "content": "o kadar yolu yürüyüp gelemezler ya.",
+      "has_external_url": false
+    }
+  ]
+}

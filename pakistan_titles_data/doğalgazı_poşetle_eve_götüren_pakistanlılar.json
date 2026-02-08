@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:04:38.927805",
+    "total_entries": 1,
+    "input": "doğalgazı poşetle eve götüren pakistanlılar",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "doğalgazı poşetle eve götüren pakistanlılar",
+      "entry_id": "147641879",
+      "author": "ruh hali bozuk insan",
+      "date": "14.01.2023 18:21",
+      "content": "acaba nasıl kullanmayı planlıyorlar (bkz: swh)\n\n--- spoiler ---\n\npakistan’da tarladan çıkan doğalgazı insanlar poşetlerle eve taşıdılar.\n--- spoiler ---\n\nkaynak",
+      "has_external_url": true
+    }
+  ]
+}

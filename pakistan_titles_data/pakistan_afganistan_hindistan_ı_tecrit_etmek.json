@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:03:03.066584",
+    "total_entries": 2,
+    "input": "pakistan afganistan hindistan'ı tecrit etmek",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "pakistan afganistan hindistan'ı tecrit etmek",
+      "entry_id": "151371557",
+      "author": "walter klemmer",
+      "date": "17.04.2023 14:36",
+      "content": "pakistan londra seferi yapan uçaktan görüntüler başlığındaki görüntüleri izledikten sonra iyiden iyiye kapıldığım düşünce.\ndünyanın geri kalanının hijyeni ve temizliği açısından elzem bir eylem.",
+      "has_external_url": false
+    },
+    {
+      "title": "pakistan afganistan hindistan'ı tecrit etmek",
+      "entry_id": "151372913",
+      "author": "martinious",
+      "date": "17.04.2023 15:37",
+      "content": "oraya bangladeş yazmanızı rica ediciğim:)",
+      "has_external_url": false
+    }
+  ]
+}

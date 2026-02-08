@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:05:42.819041",
+    "total_entries": 2,
+    "input": "survivor 2023 afganlar suriyeliler",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "survivor 2023 afganlar suriyeliler",
+      "entry_id": "136217663",
+      "author": "that blood",
+      "date": "14.04.2022 23:51",
+      "content": "acun un kesin \"laan acaba\" diye iç geçirdiği olası survivor yarışması..\n\nülkenin içine sıçıldığına göre, birilerinin de çıkıp sıvaması yakındır.. 2023 olmazsa, 2024 de yetiştirir diye düşünüyorum..",
+      "has_external_url": false
+    },
+    {
+      "title": "survivor 2023 afganlar suriyeliler",
+      "entry_id": "140067081",
+      "author": "umitsizseniz umit sizsiniz",
+      "date": "16.07.2022 19:22",
+      "content": "acun bu seneki skandaldan sonra ancak bu yarışmayla ilgi çekebilirsin.\n\nnot: başlık sahibi ben değilim.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:08:33.191627",
+    "total_entries": 3,
+    "input": "istanbul sahilini afganların basması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "istanbul sahilini afganların basması",
+      "entry_id": "126311254",
+      "author": "monolith82",
+      "date": "30.07.2021 14:08",
+      "content": "şimdilik sahilleri basmışlar. inşallah evlerimizi de basmazlar dediğim olay",
+      "has_external_url": false
+    },
+    {
+      "title": "istanbul sahilini afganların basması",
+      "entry_id": "126311368",
+      "author": "ovarlokcuayaginizageldi",
+      "date": "30.07.2021 14:11",
+      "content": "türkiye vatandaşları otursun çalışsın, askerlerimiz bunların ülkesini korusun. bunlarda gezsin. yatacak yeriniz yok.",
+      "has_external_url": false
+    },
+    {
+      "title": "istanbul sahilini afganların basması",
+      "entry_id": "126313682",
+      "author": "cmakn",
+      "date": "30.07.2021 15:12",
+      "content": "dün mecidiyeköy den geçtim, dünyanın en kosmopolit yerlerinden biri olmuş resmen. türkçe den başka her dilden sesler geliyor.",
+      "has_external_url": false
+    }
+  ]
+}

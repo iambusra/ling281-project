@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:08:19.372353",
+    "total_entries": 3,
+    "input": "afganların süper ligde tutacağı takım",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "afganların süper ligde tutacağı takım",
+      "entry_id": "126956286",
+      "author": "bovine mystique",
+      "date": "15.08.2021 22:04",
+      "content": "düşününce ülkemizde 10 milyon afgan olmaya başladığına göre artık süper ligi ülkemiz vatandaşlarını daha çok temsil eden bir şekle sokma vakti geldi. ibb sporun taraftarı yokken orayı bir afgan klübüne mi çevirmeliyiz yoksa bir afganspor mu kurmalıyız bilemedim. tartışmaya açık bir konu.",
+      "has_external_url": false
+    },
+    {
+      "title": "afganların süper ligde tutacağı takım",
+      "entry_id": "126956728",
+      "author": "eksiyazartazekasar",
+      "date": "15.08.2021 22:14",
+      "content": "basaksehir",
+      "has_external_url": false
+    },
+    {
+      "title": "afganların süper ligde tutacağı takım",
+      "entry_id": "126957763",
+      "author": "fenerli bedevi",
+      "date": "15.08.2021 22:36 ~ 22:37",
+      "content": "(bkz: kasımpaşa)\n(bkz: başakşehir)",
+      "has_external_url": false
+    }
+  ]
+}

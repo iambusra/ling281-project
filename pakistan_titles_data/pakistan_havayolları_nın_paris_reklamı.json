@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:02:02.736203",
+    "total_entries": 4,
+    "input": "pakistan havayolları'nın paris reklamı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "pakistan havayolları'nın paris reklamı",
+      "entry_id": "171990049",
+      "author": "ufoozgur",
+      "date": "18.01.2025 11:20",
+      "content": "eyfel kulesi'ne doğru uçan bir yolcu uçağı içeren reklam. umarım ilk uçuş 11 eylül günü değildir.\n\ngörsel\n\nlink",
+      "has_external_url": true
+    },
+    {
+      "title": "pakistan havayolları'nın paris reklamı",
+      "entry_id": "171990107",
+      "author": "sademavi",
+      "date": "18.01.2025 11:24",
+      "content": "millet harbiden boş beleş işlere ne çok hevesli.\ngördüğünüz herşeye de başlık açılmaz be kardeşim.",
+      "has_external_url": false
+    },
+    {
+      "title": "pakistan havayolları'nın paris reklamı",
+      "entry_id": "171990246",
+      "author": "ref034",
+      "date": "18.01.2025 11:33",
+      "content": "“paris ayağını denk alsın, biz geliyoruz.” formatlı afiş içeren reklam.",
+      "has_external_url": false
+    },
+    {
+      "title": "pakistan havayolları'nın paris reklamı",
+      "entry_id": "171990451",
+      "author": "yargilanacaksiniz",
+      "date": "18.01.2025 11:44",
+      "content": "manasi cok derin.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:01:35.905731",
+    "total_entries": 1,
+    "input": "pakistan rupisi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "pakistan rupisi",
+      "entry_id": "178898717",
+      "author": "kafeinli adam",
+      "date": "04.10.2025 23:19 ~ 23:20",
+      "content": "geçen günlerde internet üzerinden ödeme yaptım. dolar gözükse de çıkan para birimi pkr idi. alacağımı aldım, ödememi yaptım.\n\numarım başıma bi durum gelmez.\n\nbanknotların tamamının üzerinde muhammed ali cinnah’ın portresi bulunur.",
+      "has_external_url": false
+    }
+  ]
+}

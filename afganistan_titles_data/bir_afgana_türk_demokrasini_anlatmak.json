@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:03:40.215542",
+    "total_entries": 2,
+    "input": "bir afgana türk demokrasini anlatmak",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "bir afgana türk demokrasini anlatmak",
+      "entry_id": "61862604",
+      "author": "zaphod beeblerox",
+      "date": "21.07.2016 12:09",
+      "content": "finlandiya örneğini verin anlar.\n\nolmadı mı? olmaz tabi yarram, sabahtan beri fransada da var orada da var burada da var. sikik, demokrasin 10 gömlek aşağıyken ohal'in nasıl aynı olacak. mal sürüsü!",
+      "has_external_url": false
+    },
+    {
+      "title": "bir afgana türk demokrasini anlatmak",
+      "entry_id": "61862926",
+      "author": "zaphod beeblerox",
+      "date": "21.07.2016 12:28 ~ 12:29",
+      "content": "sözlerimden geri zekalılığa düşman olduğum anlamı çıkmasın, benim de geri zekalı arkadaşlarım var. ben örgütlü halinden rahatsızım (bkz: hahahahhahahahaha) . bir de karmaşık yazıyorum herhalde bağlantıları kurma kısmı zor geliyor ...\n\nha bir de başlığı düzelttirmek icin ne yapıyoruz \"demokrasisini\" olacak",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:08:37.455885",
+    "total_entries": 4,
+    "input": "kemal kılıçdaroğlu'nun afganlarla ilgili konuşması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "kemal kılıçdaroğlu'nun afganlarla ilgili konuşması",
+      "entry_id": "141476898",
+      "author": "andrew wyke",
+      "date": "18.08.2022 17:12 ~ 17:51",
+      "content": "\"afganlara gelince, onlar sığınmacı değil onlar kaçak. onları uluslararası hukuka göre alıp iran'a teslim edeceğiz, çünkü ordan geldiler, onlar ne yaparlarsa bilmiyorum.\n\nhttps://twitter.com/…?t=n7r22u__uwtq8fh8rpwj0w&s=19\n\nedit: kılıçdaroğlu'nun 2011'den bu yana göçmenlerle ilgili söylemlerinin videosu;\n\nhttps://twitter.com/…?s=20&t=ewq2ezz_4ap4tdzpn1le0q",
+      "has_external_url": true
+    },
+    {
+      "title": "kemal kılıçdaroğlu'nun afganlarla ilgili konuşması",
+      "entry_id": "141477023",
+      "author": "mahserin 4 sovalyesi",
+      "date": "18.08.2022 17:15 ~ 17:17",
+      "content": "ülkemize milyonlarca sapık kaçak göçmenin doldurulmasının nedeni demografik yapımızı değiştirip iç savaş çıkarmaktır. seçimden sonra malum partiyle beraber defolup gidecekler. yeter ki sandığa gidelim. aksi takdirde ülkenin gidişatı iyi görünmüyor.",
+      "has_external_url": false
+    },
+    {
+      "title": "kemal kılıçdaroğlu'nun afganlarla ilgili konuşması",
+      "entry_id": "141477358",
+      "author": "ziwaynen",
+      "date": "18.08.2022 17:24",
+      "content": "ümit özdağ'ı dinliyorum sandım bir an:d\n\n12 senedir suriye meselesi umrunda değildi. hadi 2016'yı geçtim, 2021'deki raporunuzda bile suriyelileri entegre edeceğiz diyordunuz. sana inanmıyorum biji serok kemal. sana çok inandık, hepsinde yüz üstü bıraktın bizi.\n\ne ayrıca artık bu meseleye hassasiyet göstermeye başladığınıza göre zafer partisi'nin(bkz: vatandaşlık alan suriyeliler 10 yıl oy kullanmasın) teklifini de desteklersiniz o zaman.",
+      "has_external_url": false
+    },
+    {
+      "title": "kemal kılıçdaroğlu'nun afganlarla ilgili konuşması",
+      "entry_id": "141477550",
+      "author": "dam ustunde un eleyen adam",
+      "date": "18.08.2022 17:28",
+      "content": "yıllardır söylediği şeyleri tekrarladığı konuşma olmuştur. he he evet aynen, hazreti ümit özdağ ekselansları olmasaydı kılıçdaroğlu bu meseleden asssla bahsetmezdi. sabah akşam papağan gibi aynı şeyi tekrar edip duruyor bu özdağtrolleri.\n(bkz: geçmişten günümüze kk'nın suriyeli açıklamaları)",
+      "has_external_url": false
+    }
+  ]
+}

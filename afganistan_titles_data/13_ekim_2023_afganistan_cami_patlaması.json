@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:01:54.732783",
+    "total_entries": 1,
+    "input": "13 ekim 2023 afganistan cami patlaması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "13 ekim 2023 afganistan cami patlaması",
+      "entry_id": "157718726",
+      "author": "vietkong",
+      "date": "14.10.2023 01:27",
+      "content": "il polis makamları olayın intihar saldırısı olduğunu onayladı. 7 ölü, 15 yaralı.\n\nkim kimi neden patlatıyorsa artık?\n\nhttps://www.bundle.app/…-47a3-a754-e83c4c1e7553?l=1",
+      "has_external_url": true
+    }
+  ]
+}

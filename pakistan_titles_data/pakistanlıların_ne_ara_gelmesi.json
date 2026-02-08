@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:06:42.964331",
+    "total_entries": 1,
+    "input": "pakistanlıların ne ara gelmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "pakistanlıların ne ara gelmesi",
+      "entry_id": "136205037",
+      "author": "kapamagozlerini",
+      "date": "14.04.2022 18:22",
+      "content": "baktılar onlar da ülkeye girişte çıkışta sıkıntı yok, parayla vatandaşlık falan da veriliyor önden bir gidip bakalım dediler herhalde beğenirsek kalırız ayağına.\nha tabii afganların, suriyelilerin kızlarımızı sosyal medyada teşhir-reklam etmesinden sonra onlar için de gelmiş olabilirler.",
+      "has_external_url": false
+    }
+  ]
+}

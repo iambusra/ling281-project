@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:02:05.143281",
+    "total_entries": 2,
+    "input": "pakistan hava yollarinin fransa'yi tehditi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "pakistan hava yollarinin fransa'yi tehditi",
+      "entry_id": "171774139",
+      "author": "montkomeri",
+      "date": "10.01.2025 19:29",
+      "content": "pakistan uluslararasi havayolu şirketi, \"paris bugun geliyoruz\" basligiyla bir fotograf paylasmis ancak fotografta \"eyfel kulesine\" carpmak uzere olan bir uçak var. agir ofans yapmislar.\n\ngörsel",
+      "has_external_url": true
+    },
+    {
+      "title": "pakistan hava yollarinin fransa'yi tehditi",
+      "entry_id": "171774456",
+      "author": "balixs",
+      "date": "10.01.2025 19:43",
+      "content": "belalarını arıyorlar, diye yorumladım.\n\nsizin yüzünüzden insanlar islam'dan nefret ediyor, müslümanlar dinden soğuyor.\n\nkeşke hepiniz yok olsanız.",
+      "has_external_url": false
+    }
+  ]
+}

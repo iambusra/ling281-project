@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:06:40.532254",
+    "total_entries": 4,
+    "input": "afganları gönderen pakistan'ın enflasyonun düşmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "afganları gönderen pakistan'ın enflasyonun düşmesi",
+      "entry_id": "158543121",
+      "author": "arma yann tiersen",
+      "date": "07.11.2023 13:25",
+      "content": "(bkz: vay anam vay neler dönmüş serhat ya)",
+      "has_external_url": false
+    },
+    {
+      "title": "afganları gönderen pakistan'ın enflasyonun düşmesi",
+      "entry_id": "158543187",
+      "author": "karni kasinan bidon kafa",
+      "date": "07.11.2023 13:27 ~ 13:47",
+      "content": "biz akp'yi gonderseydik aynı şey olacaktı ama olmadı işte. belki başka bahara.",
+      "has_external_url": false
+    },
+    {
+      "title": "afganları gönderen pakistan'ın enflasyonun düşmesi",
+      "entry_id": "158544617",
+      "author": "nobelzade zeki bey",
+      "date": "07.11.2023 14:22",
+      "content": "beni dipsiz kuyularda ipsiz bırakacak sonuçlarla karşılaşabilirim diye pakistan'ın afganları nereye gönderdiğini araştırmaya çekindim",
+      "has_external_url": false
+    },
+    {
+      "title": "afganları gönderen pakistan'ın enflasyonun düşmesi",
+      "entry_id": "158544664",
+      "author": "mr biceps",
+      "date": "07.11.2023 14:24",
+      "content": "ümit özdağ bunları 50 kere anlattı.",
+      "has_external_url": false
+    }
+  ]
+}

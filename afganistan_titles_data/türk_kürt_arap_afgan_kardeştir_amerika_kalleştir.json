@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T21:59:21.620797",
+    "total_entries": 1,
+    "input": "türk kürt arap afgan kardeştir amerika kalleştir",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türk kürt arap afgan kardeştir amerika kalleştir",
+      "entry_id": "160613065",
+      "author": "carlos marcello",
+      "date": "14.01.2024 07:26",
+      "content": "bilhassa sosyal medyada sesi herkesten çok çıkan ümmrtçilerin defaatle savunduğu fikir. islam ümmetinin başını teşkil eden türk, kürt, arap, afgan, pakistanlı, bangladeşli ve iranlının kardeş, onları birbirine düşüren amerika'nın ise kalleş olduğunu iddia ediyorlar.\n\nyani bu arkadaşlara göre, islam coğrafyasında yaşanan bütün sorunların kaynağı abd'dir. islam ülkelerinin bu sorunlarda hiçbir rolü yoktur ve devamlı kandırılmaktadırlar. gerçekten enteresan.",
+      "has_external_url": false
+    }
+  ]
+}

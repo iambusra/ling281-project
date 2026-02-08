@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:03:39.451629",
+    "total_entries": 1,
+    "input": "pakistana 4 adet milgem ihracatı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "pakistana 4 adet milgem ihracatı",
+      "entry_id": "82979525",
+      "author": "yuzbasi sancar",
+      "date": "04.11.2018 11:28",
+      "content": "toplam 1 milyar dolar tutarında olan ihracat antlaşması. gemilerin 2'si pakistan'da kalan 2'si türkiye'de inşa edilecek. inşa çalışmaları sürüyor.",
+      "has_external_url": false
+    }
+  ]
+}

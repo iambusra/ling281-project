@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:01:36.614758",
+    "total_entries": 1,
+    "input": "pakistan türkiye yunanistan italya",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "pakistan türkiye yunanistan italya",
+      "entry_id": "177963635",
+      "author": "trablusgarp",
+      "date": "29.08.2025 14:29 ~ 14:29",
+      "content": "gördüğüm kadarıyla pakistanlılar türklerle benzer olduklarını iddia ediyor türkler yunanlılarla benzediklerini, yunanlılarsa italyanlarla benzediklerini düşünüyorlar.",
+      "has_external_url": false
+    }
+  ]
+}

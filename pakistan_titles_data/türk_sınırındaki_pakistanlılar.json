@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:04:31.550569",
+    "total_entries": 1,
+    "input": "türk sınırındaki pakistanlılar",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türk sınırındaki pakistanlılar",
+      "entry_id": "167488730",
+      "author": "adriana lima poposu yaglayicisi",
+      "date": "18.08.2024 15:46",
+      "content": "pakiler\n\nhavanın kararmasını bekleyen pakilerdir.",
+      "has_external_url": true
+    }
+  ]
+}

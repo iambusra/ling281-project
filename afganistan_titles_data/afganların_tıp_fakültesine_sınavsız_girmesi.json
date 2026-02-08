@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:08:11.899375",
+    "total_entries": 1,
+    "input": "afganların tıp fakültesine sınavsız girmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "afganların tıp fakültesine sınavsız girmesi",
+      "entry_id": "129624120",
+      "author": "gearbox ag",
+      "date": "31.10.2021 18:53 ~ 18:54",
+      "content": "doğruysa da şaşırtmaz yalansa da. söz konusu akp'nin sorumlu olduğu bir konu ise hiçbir şeye şaşırmamayı öğrendik.",
+      "has_external_url": false
+    }
+  ]
+}

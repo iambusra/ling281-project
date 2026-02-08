@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:03:52.327390",
+    "total_entries": 1,
+    "input": "pakistanda dusen yolcu ucagi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "pakistanda dusen yolcu ucagi",
+      "entry_id": "107613328",
+      "author": "cristiano rolando",
+      "date": "22.05.2020 15:22",
+      "content": "avrupa ülkelerinde olsa aylarca belki yıllarca gündemde kalırdı ama pakistan gibi 3. dünya ülkelerinde 2 günde gündemden düşer bu kaza, ayrıca o uçağı şimdiye kadar paramparça etmişlerdir.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:07:28.642580",
+    "total_entries": 1,
+    "input": "kacak afganlara ev yok",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "kacak afganlara ev yok",
+      "entry_id": "126726116",
+      "author": "memento16",
+      "date": "09.08.2021 21:25",
+      "content": "durum çok ciddi arkadaşlar sahan'in dediği gibi evde baba yok türkiye de yaşayan herkes kaderine terkedildi türk, kürt,laz,farketmez bunlar kanunsuz bir şekilde bu ülkeye girebiliyorsa ev sahipleri,dükkan sahipleri evinizi,dukkaninizi kiralamayın,satmayın.mahalle kültürü bu ülkede çok önemlidir gerekirse diğer sosyal platformlarda gündem oluşturalım ırkçılıksa irkciyiz cumhurbaşkanı çok istiyorsa bin odalı sarayına yerlestirsin kaçak göçmenleri.",
+      "has_external_url": false
+    }
+  ]
+}

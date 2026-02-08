@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:07:41.834915",
+    "total_entries": 3,
+    "input": "afganlardan afakan gelmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "afganlardan afakan gelmesi",
+      "entry_id": "93210201",
+      "author": "tatil kufesi",
+      "date": "29.07.2019 02:15",
+      "content": "https://www.yeniakit.com.tr/…a-1-yarali-862999.html\nhükümetin borazanının bile yazdığı vahim olaydır.\nhayır bu insan atıkları, buraya 3-4 bin doları ahlaksız kaçakçılara vererek\nnasıl, hangi cüretle ellerini kollarını sallayarak türkiye'ye girebiliyor?\nüstelik yeni geldikleri ülkede cinayet işleyebiliyor?\nhem de şu anda bile bu toprakları korumak için gencecik askerlerimiz şehit olurken?\nvatanımızı, insanımızı koruyamıyoruz, yoksa tam da böyle olsun mu isteniyor?\neski tek parça türkiye neden bu kadar korkutuyor?",
+      "has_external_url": true
+    },
+    {
+      "title": "afganlardan afakan gelmesi",
+      "entry_id": "93210603",
+      "author": "faultier",
+      "date": "29.07.2019 02:30",
+      "content": "suriyeliler yüzünden sürmenaj olmaktan evladır.",
+      "has_external_url": false
+    },
+    {
+      "title": "afganlardan afakan gelmesi",
+      "entry_id": "93212654",
+      "author": "dadanda",
+      "date": "29.07.2019 04:24",
+      "content": "(bkz: hafakan)",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:08:24.944727",
+    "total_entries": 1,
+    "input": "afganların gelmesiyle suriyelilerin işsiz kalması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "afganların gelmesiyle suriyelilerin işsiz kalması",
+      "entry_id": "126753182",
+      "author": "birturlututturamadim",
+      "date": "10.08.2021 15:25 ~ 15:27",
+      "content": "türklerin hepten işsiz olması.\nek: ev genci diye birşey var duyduğumdan beri sinirden saçımı başımı yolacağım. okumuş, üniversite mezunu ailesi ile yaşan 30 yaş altı gençler. bunların dışarıya çıkıp sinemaya gidecek, kafede sosyalleşip kahve içecek parası yok. hayatı yok bunların, gençliği çürümüş. bir de suriyeli afgan geliyor, ne yapsın bu ev genci ne yapsın?",
+      "has_external_url": false
+    }
+  ]
+}

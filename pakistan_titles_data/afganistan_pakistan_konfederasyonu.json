@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:01:42.471144",
+    "total_entries": 1,
+    "input": "afganistan pakistan konfederasyonu",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "afganistan pakistan konfederasyonu",
+      "entry_id": "176242357",
+      "author": "salato",
+      "date": "22.06.2025 11:36",
+      "content": "soğuk savaş esnasında bölgede ittifak arayışları içinde olan iki ülke arasında 1940'lı yıllardan itibaren zaman zaman gündeme gelen ancak oluşturulmasına dair günümüze dek hiçbir fiiliyatta bulunulmamış siyasi birliktelik.\n\nküresel politik belirsizlik almış başını giderken hem pakistan'ın hem de türkiye'nin ve islam dünyasının yararına olacak hamle artık afganistan'ın pakistan ile birleşmesi olacaktır.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:05:29.743741",
+    "total_entries": 1,
+    "input": "evde silah üreten pakistanlılar",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "evde silah üreten pakistanlılar",
+      "entry_id": "102452065",
+      "author": "gardropfuatingardrobu",
+      "date": "22.02.2020 06:18",
+      "content": "ulan bu pakistanlılar en son yazılım sektörünün anasını belliyorlardı şimdi de adamlar evlerinde mengeneyle keleş falan yaparak 100 dolara satıyorlarmış",
+      "has_external_url": true
+    }
+  ]
+}

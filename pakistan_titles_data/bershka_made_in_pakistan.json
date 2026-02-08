@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:03:14.204918",
+    "total_entries": 1,
+    "input": "bershka made in pakistan",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "bershka made in pakistan",
+      "entry_id": "147000915",
+      "author": "kasga",
+      "date": "30.12.2022 13:15 ~ 13:16",
+      "content": "görsel\ngörsel\nbugün aldığım ürünü incelerken fark ettiğim şeydir bershka ve pull&bear pakistan'da üretiliyormuş ucuz işçilik yüzünden olabilir zaranın üretim yeride türkiye imiş demek ki kalite arttıkça ülke seviyeside artıyo bershka ve pull&bear pakistan yakışırken zara bi tık daha iyi olduğu için türkiye lcw nerde üretiyo acaba etiyopya fln mı?\n\nedit:imla",
+      "has_external_url": true
+    }
+  ]
+}

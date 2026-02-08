@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:02:54.436550",
+    "total_entries": 3,
+    "input": "pakistan cumhurbaşkanının parlamentoyu fesh etmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "pakistan cumhurbaşkanının parlamentoyu fesh etmesi",
+      "entry_id": "155479555",
+      "author": "the aquarian",
+      "date": "10.08.2023 01:26 ~ 01:34",
+      "content": "az önce haber sitelerine düşmüş olaydır.\n\nkaynak",
+      "has_external_url": true
+    },
+    {
+      "title": "pakistan cumhurbaşkanının parlamentoyu fesh etmesi",
+      "entry_id": "155479947",
+      "author": "ozulte",
+      "date": "10.08.2023 01:39 ~ 01:39",
+      "content": "son seçimde bizde de yapıldı bu olay.",
+      "has_external_url": false
+    },
+    {
+      "title": "pakistan cumhurbaşkanının parlamentoyu fesh etmesi",
+      "entry_id": "155479955",
+      "author": "sernevist",
+      "date": "10.08.2023 01:39",
+      "content": "bize uzak olmayan gelişmelerdir. artık şaşırmayalım yarın öbür gün türkiye'de de aynı tarz olaylar görülmesi çok muhtemel.",
+      "has_external_url": false
+    }
+  ]
+}

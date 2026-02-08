@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:05:59.413239",
+    "total_entries": 1,
+    "input": "otobüse doluşup antalya'ya gezmeye giden afganlar",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "otobüse doluşup antalya'ya gezmeye giden afganlar",
+      "entry_id": "136520560",
+      "author": "samaccc sam",
+      "date": "22.04.2022 13:35",
+      "content": "çöle geri gitmeleri gerekirken,bizim gidemediğimiz antalya'ya gidiyorlar .",
+      "has_external_url": false
+    }
+  ]
+}

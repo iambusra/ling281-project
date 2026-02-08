@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T21:59:16.517398",
+    "total_entries": 1,
+    "input": "30 milyon $ bağışlayan pakistanlı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "30 milyon $ bağışlayan pakistanlı",
+      "entry_id": "149180258",
+      "author": "ne deyim de ne soyleyim",
+      "date": "13.02.2023 09:12",
+      "content": "https://finans.mynet.com/…essizce-uzaklasti/460815/",
+      "has_external_url": true
+    }
+  ]
+}

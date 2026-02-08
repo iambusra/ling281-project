@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:06:21.111906",
+    "total_entries": 2,
+    "input": "afganlar yüzünden suriyelileri de göndermek",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "afganlar yüzünden suriyelileri de göndermek",
+      "entry_id": "127161108",
+      "author": "machete klonu",
+      "date": "21.08.2021 11:03",
+      "content": "(bkz: hadi inşallah)",
+      "has_external_url": false
+    },
+    {
+      "title": "afganlar yüzünden suriyelileri de göndermek",
+      "entry_id": "127161217",
+      "author": "firtikk",
+      "date": "21.08.2021 11:08",
+      "content": "ay olabilir mi öyle bişey lütfen olsun çünkü.\n\ngörsel:)",
+      "has_external_url": true
+    }
+  ]
+}

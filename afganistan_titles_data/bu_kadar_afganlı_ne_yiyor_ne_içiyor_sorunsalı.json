@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:03:00.139038",
+    "total_entries": 1,
+    "input": "bu kadar afganlı ne yiyor ne içiyor sorunsalı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "bu kadar afganlı ne yiyor ne içiyor sorunsalı",
+      "entry_id": "127157057",
+      "author": "nickimi veriyorum yaz",
+      "date": "21.08.2021 06:01",
+      "content": "adamlar uçağın tekerinde abd'ye gitmeye çalışıyor. beslenmek çok büyük bir sorun olmasa gerek, bu kafa için.",
+      "has_external_url": false
+    }
+  ]
+}

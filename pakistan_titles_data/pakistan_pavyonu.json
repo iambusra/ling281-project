@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:02:35.768378",
+    "total_entries": 3,
+    "input": "pakistan pavyonu",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "pakistan pavyonu",
+      "entry_id": "126904518",
+      "author": "mandulis",
+      "date": "14.08.2021 12:47",
+      "content": "izmir enternasyonel fuarı içinde bulunan, görünce bir ankaralı edası ile \"pavyon ne alaka la gardaş\" dediğim, içine girince ise izmir tanıtımı için kullanıldığını gördüğüm yer. 1938'de mimar harbi hotan tarafından yapılmış.",
+      "has_external_url": false
+    },
+    {
+      "title": "pakistan pavyonu",
+      "entry_id": "148209377",
+      "author": "herkese benden cay shakira yok",
+      "date": "27.01.2023 08:06",
+      "content": "izmir'de fuarin içinde bulunan ve 35 yıldır izmir'de olmama rağmen bir kere bile içine girmediğim yer. adından dolayı olsa gerek (bkz: swh)\n\nbakmayın adının pavyon olduğuna. 1938 yılında vakıflar idaresi tarafından yaptırılan bu yer sergi alanı ve fotoğraf alanı olarak kullanılmaktadır.\n\nyani izmir'in göbeğinde fuarın içinde elin pakileri kendi pavyonlarini kurmuş ve içeride şalvar giyerek eğlendikleri yer değil.",
+      "has_external_url": false
+    },
+    {
+      "title": "pakistan pavyonu",
+      "entry_id": "163410461",
+      "author": "yabancikiz",
+      "date": "13.04.2024 12:11",
+      "content": "adından dolayı girmediğimiz ama dışarıdan çok hoş görünen bina . pavyon diye isim mi olur ya",
+      "has_external_url": false
+    }
+  ]
+}

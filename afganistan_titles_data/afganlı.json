@@ -1,0 +1,52 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:02:59.420772",
+    "total_entries": 5,
+    "input": "afganlı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "afganlı",
+      "entry_id": "102476883",
+      "author": "ayna mahruti",
+      "date": "22.02.2020 20:41",
+      "content": "afgan kelimesinin, yunanlı kelimesine benzer şekildeki, yanlış yazılmış hali.",
+      "has_external_url": false
+    },
+    {
+      "title": "afganlı",
+      "entry_id": "127048148",
+      "author": "dynamole",
+      "date": "18.08.2021 11:03",
+      "content": "tv'de bile birçok kez duyduğum yanlış kullanım. ulan dedim bunca yıl yanlış mı biliyordum acaba. yeni bir esad-esed durumu olabilir. (bkz: swh)",
+      "has_external_url": false
+    },
+    {
+      "title": "afganlı",
+      "entry_id": "127048197",
+      "author": "pessevmeyen",
+      "date": "18.08.2021 11:05",
+      "content": "tek hücresi tamamlanmamış amip de diyebiliriz",
+      "has_external_url": false
+    },
+    {
+      "title": "afganlı",
+      "entry_id": "127050861",
+      "author": "cmakn",
+      "date": "18.08.2021 12:29",
+      "content": "(bkz: afgan)",
+      "has_external_url": false
+    },
+    {
+      "title": "afganlı",
+      "entry_id": "127480861",
+      "author": "uceylan",
+      "date": "29.08.2021 23:48 ~ 23:51",
+      "content": "afganistan'ın ve afganistanlı mültecilerin gündemde olduğu şu günlerde normalden daha sık karşılaştığımız kullanım yanlışı.\n\ntürkiye için uyarladığımızda'türklü' demiş gibi oluyoruz. birkaç gün önce ted kolejinde bilkent'te okumuş hukukçu bir milletvekilinin dahi bu şekilde kullandığını görünce, sokaktaki vatandaş için çok görmemek gerek sanırım.\n\nbahsi geçen twit: https://twitter.com/…tatus/1431015505721274379?s=20",
+      "has_external_url": true
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:02:42.384982",
+    "total_entries": 1,
+    "input": "yusuf yerkel afganistan büyükelçisi olsun",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "yusuf yerkel afganistan büyükelçisi olsun",
+      "entry_id": "132250928",
+      "author": "angarali25",
+      "date": "12.01.2022 22:54",
+      "content": "boşversenize bu devran dönecek . .",
+      "has_external_url": false
+    }
+  ]
+}

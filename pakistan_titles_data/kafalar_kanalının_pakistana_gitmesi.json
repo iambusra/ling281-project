@@ -1,0 +1,70 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:03:35.403215",
+    "total_entries": 5,
+    "input": "kafalar kanalının pakistana gitmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "kafalar kanalının pakistana gitmesi",
+      "entry_id": "137274059",
+      "author": "birikiucdortbesaltiyedisekizdokuz",
+      "date": "10.05.2022 16:01",
+      "content": "giderken 300-500 pakistanlıyı da götürseler iyi olurdu. ülkeye faydaları dokunurdu.",
+      "referenced_content": [],
+      "has_external_url": false
+    },
+    {
+      "title": "kafalar kanalının pakistana gitmesi",
+      "entry_id": "137274227",
+      "author": "babydonthurtme",
+      "date": "10.05.2022 16:06",
+      "content": "hayırlı yolculuklar dediğim seyahat. yalnız bildiğim kadarıyla bunların bir kısmı evlenmişti. umarım eşleri de bunlarla gitmiştir. din kardeşlerimizin topraklarına eşleri de teşrif etmiş olsun.\ntweet",
+      "referenced_content": [],
+      "has_external_url": true
+    },
+    {
+      "title": "kafalar kanalının pakistana gitmesi",
+      "entry_id": "137274409",
+      "author": "barto khan",
+      "date": "10.05.2022 16:11",
+      "content": "gitmişken ruhi çenet'in gezdiği yerler i de gezsinler.",
+      "referenced_content": [],
+      "has_external_url": true
+    },
+    {
+      "title": "kafalar kanalının pakistana gitmesi",
+      "entry_id": "137276580",
+      "author": "el cordobezlerin ikincisi",
+      "date": "10.05.2022 17:15",
+      "content": "sıra bende (bkz: kafalar kim amk)",
+      "referenced_content": [],
+      "has_external_url": false
+    },
+    {
+      "title": "kafalar kanalının pakistana gitmesi",
+      "entry_id": "137315206",
+      "author": "summerof69",
+      "date": "11.05.2022 15:45",
+      "content": "kadir mısıroğlu hayranlarından da farklı bir şey beklenmezdi:\n\n(bkz: #137315179)",
+      "referenced_content": [
+        {
+          "type": "entry",
+          "title": "kafalar",
+          "entry_id": "137315179",
+          "author": "summerof69",
+          "date": "11.05.2022 15:44 ~ 12.05.2022 03:28",
+          "content": "bunlar kadir mısıroğlu hayranıymış. hala bunları takip ediyor musunuz?\n\nhttps://twitter.com/…pub/status/1524051988090130438\n\nedit: bir de eskiden feto evinde kalmış:\n\nhttps://youtu.be/jouddevyh5i?t=2m10s",
+          "has_external_url": true
+        }
+      ],
+      "referenced_entry_ids": [
+        "137315179"
+      ],
+      "has_external_url": false
+    }
+  ]
+}

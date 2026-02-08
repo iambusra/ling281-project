@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:01:33.435195",
+    "total_entries": 3,
+    "input": "11 ekim 2025 pakistan afganistan çatışması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "11 ekim 2025 pakistan afganistan çatışması",
+      "entry_id": "179056282",
+      "author": "nostaljininzevki",
+      "date": "11.10.2025 22:40",
+      "content": "yoğun şekilde de iki tarafın kayıp vermesi dileğiyle.",
+      "has_external_url": false
+    },
+    {
+      "title": "11 ekim 2025 pakistan afganistan çatışması",
+      "entry_id": "179056375",
+      "author": "yuruyedur",
+      "date": "11.10.2025 22:43",
+      "content": "bende adeta sifon çekilmiş hissi yaratmaktadır.",
+      "has_external_url": false
+    },
+    {
+      "title": "11 ekim 2025 pakistan afganistan çatışması",
+      "entry_id": "179056763",
+      "author": "sari cizmeli aga",
+      "date": "11.10.2025 22:54 ~ 23:25",
+      "content": "önce trump'ın ilk başkanlığı döneminde boşalttığı bagram üssünü geri istemesi ve afganistan'ın bunu reddetmesi, sonrasında da afganistan'ın hindistan'la tekrar diplomatik ilişkiler kurması ve karşılıklı uçuşların başlatılması kararının hemen ardından başlayan çatışmalardır. pakistan'ın jf-17 jetler ve siha'lar kullanıldığı bilgisi gelmektedir. taliban ise sınıra çok sayıda silahlı savaşçı sevk etmektedir.",
+      "has_external_url": false
+    }
+  ]
+}

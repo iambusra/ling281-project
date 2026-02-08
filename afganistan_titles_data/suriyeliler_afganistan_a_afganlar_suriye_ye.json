@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:06:02.520614",
+    "total_entries": 2,
+    "input": "suriyeliler afganistan'a afganlar suriye'ye",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeliler afganistan'a afganlar suriye'ye",
+      "entry_id": "136190299",
+      "author": "turgon",
+      "date": "14.04.2022 10:57",
+      "content": "hepsi toplanıp bize giriyor sonuçta.",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyeliler afganistan'a afganlar suriye'ye",
+      "entry_id": "136190378",
+      "author": "hoppa oppa",
+      "date": "14.04.2022 11:00",
+      "content": "ıraklılar iran'a, iranlılar da ırak'a, bangladeşliler ve hintliler pakistan'a, pakistanlılar da bu iki ülkeye gönderilerek diğer asyalılar sorunu da çözülebilir. afrikalılar için afrika'da, liberya tarzı bir ülke kurulup, hepsi oraya gönderilebilir.",
+      "has_external_url": false
+    }
+  ]
+}

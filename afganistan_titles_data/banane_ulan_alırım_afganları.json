@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:06:51.374628",
+    "total_entries": 1,
+    "input": "banane ulan alırım afganları",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "banane ulan alırım afganları",
+      "entry_id": "127317730",
+      "author": "hasandebreli",
+      "date": "25.08.2021 15:48",
+      "content": "mülteciymiş o da ne? hepsi bana oy!\nşehitler her ne kadar döksede kanları...\nben tokum tok, sen kuru ekmekle doy\nbanane lan sormadan alırım afganları!!!",
+      "has_external_url": false
+    }
+  ]
+}

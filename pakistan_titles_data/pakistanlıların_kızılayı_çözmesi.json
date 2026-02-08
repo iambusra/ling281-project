@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:06:05.639135",
+    "total_entries": 1,
+    "input": "pakistanlıların kızılayı çözmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "pakistanlıların kızılayı çözmesi",
+      "entry_id": "149839380",
+      "author": "bolsevik1907",
+      "date": "28.02.2023 14:34",
+      "content": "depremzedelere yardım için gönderilen çadırlara, pakistanlıların'satılık değildir' diye kızılay yağmacılığına karşı almış olduğu tedbirdir.\n\nlink",
+      "has_external_url": true
+    }
+  ]
+}

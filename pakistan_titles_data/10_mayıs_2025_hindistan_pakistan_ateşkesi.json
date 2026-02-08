@@ -1,0 +1,52 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:01:49.083646",
+    "total_entries": 5,
+    "input": "10 mayıs 2025 hindistan pakistan ateşkesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "10 mayıs 2025 hindistan pakistan ateşkesi",
+      "entry_id": "175198933",
+      "author": "entryimi nasil begendiniz",
+      "date": "10.05.2025 15:11",
+      "content": "trump tarafından duyurulan ateşkestir.\nkaynak",
+      "has_external_url": true
+    },
+    {
+      "title": "10 mayıs 2025 hindistan pakistan ateşkesi",
+      "entry_id": "175199009",
+      "author": "deleuzebakhtin",
+      "date": "10.05.2025 15:17",
+      "content": "trump reyiz illa nobel barış ödülünü alıcam diyor! filistin devletini taniyip kibris'i da çözerse seneye fenerin şampiyonluğuyla beraber alır sanki!",
+      "has_external_url": false
+    },
+    {
+      "title": "10 mayıs 2025 hindistan pakistan ateşkesi",
+      "entry_id": "175199092",
+      "author": "captain it is wednesday",
+      "date": "10.05.2025 15:20",
+      "content": "(bkz: ağam biz boku neden yedik)",
+      "has_external_url": false
+    },
+    {
+      "title": "10 mayıs 2025 hindistan pakistan ateşkesi",
+      "entry_id": "175199275",
+      "author": "ekmege krem surup intihar eden adam",
+      "date": "10.05.2025 15:30 ~ 15:32",
+      "content": "inekler artık özgürce otlayabilecek, barış barış sen ne kutlu şeysin!\n\nt: bir ateşkes .",
+      "has_external_url": false
+    },
+    {
+      "title": "10 mayıs 2025 hindistan pakistan ateşkesi",
+      "entry_id": "175199306",
+      "author": "ummicelebi",
+      "date": "10.05.2025 15:32",
+      "content": "trump dünya ceo'luğuna oynuyor. sürekli bir kendi reklamını yapma derdinde. sağduyusu israil'in katliamlarına, gazze'deki kıtlığa ve soykırıma sessiz nedense.",
+      "has_external_url": false
+    }
+  ]
+}

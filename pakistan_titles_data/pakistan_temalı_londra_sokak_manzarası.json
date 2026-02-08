@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:02:18.146449",
+    "total_entries": 1,
+    "input": "pakistan temalı londra sokak manzarası",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "pakistan temalı londra sokak manzarası",
+      "entry_id": "170367785",
+      "author": "odoriko",
+      "date": "21.11.2024 20:20",
+      "content": "bir 3.dünya ülkesini ya da kıyamet sonrası türünde bir film sahnesini andıran sokaktır.\n\n.",
+      "has_external_url": true
+    }
+  ]
+}

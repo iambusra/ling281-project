@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T21:58:48.098037",
+    "total_entries": 1,
+    "input": "türkiye'ye hicreti öneren pakistanlı yayıncılar",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türkiye'ye hicreti öneren pakistanlı yayıncılar",
+      "entry_id": "156110500",
+      "author": "wall street batmani",
+      "date": "27.08.2023 23:03",
+      "content": "gelin oğlum topunuz gelin. ok yaydan fırladı nasıl olsa.",
+      "has_external_url": false
+    }
+  ]
+}

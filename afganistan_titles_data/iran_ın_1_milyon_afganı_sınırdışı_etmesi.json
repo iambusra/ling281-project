@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:03:20.439593",
+    "total_entries": 2,
+    "input": "iran'ın 1 milyon afganı sınırdışı etmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "iran'ın 1 milyon afganı sınırdışı etmesi",
+      "entry_id": "137148589",
+      "author": "byfanathic",
+      "date": "07.05.2022 19:27",
+      "content": "kasım ayından bir haber.\n\nsadece ekim ayının son haftasında 28 bin afgan sınırdışı edilmiş.\n\n\"gönderemezsiniz, uluslararası hukuka aykırı, gittiklerinde nerede yaşayacaklar\" diye zırlayanlara duyurulur.\n\nadam evini barkını, ailesini bırakıp türkiye'ye geldiğinde nerede yaşayacağı sorun olmuyor da, kendi vatanına dönünce mi sorun oluyor? gittiklerinde yaşayacak yer bulurlar merak etmeyin, onu da mı biz düşüneceğiz?",
+      "has_external_url": true
+    },
+    {
+      "title": "iran'ın 1 milyon afganı sınırdışı etmesi",
+      "entry_id": "137148671",
+      "author": "deutsche am meer",
+      "date": "07.05.2022 19:28",
+      "content": "sınırdışını nereye etmiş? diye sorulması gerekendir.",
+      "has_external_url": false
+    }
+  ]
+}

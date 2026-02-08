@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:06:32.593454",
+    "total_entries": 3,
+    "input": "afganlar için tr'ye daha fazla destek verilmeli",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "afganlar için tr'ye daha fazla destek verilmeli",
+      "entry_id": "126801629",
+      "author": "safirlerini kaybeden",
+      "date": "11.08.2021 19:29",
+      "content": "tanım: ülkesini seven bir bakana ait beyan.",
+      "has_external_url": false
+    },
+    {
+      "title": "afganlar için tr'ye daha fazla destek verilmeli",
+      "entry_id": "126801643",
+      "author": "renguen98",
+      "date": "11.08.2021 19:29",
+      "content": "yolla gelsin biz insan değiliz zaten",
+      "has_external_url": false
+    },
+    {
+      "title": "afganlar için tr'ye daha fazla destek verilmeli",
+      "entry_id": "126801672",
+      "author": "panpatube",
+      "date": "11.08.2021 19:30",
+      "content": "meâli: sevgili angela (bkz: angela merkel), türkiye'ye biraz daha para verebilir misin lütfen? afganları üzerimize salmalarından korkuyoruz da. sen işini bilirsin. hadi öptm bye...",
+      "has_external_url": false
+    }
+  ]
+}

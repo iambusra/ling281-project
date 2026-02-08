@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:04:04.421657",
+    "total_entries": 3,
+    "input": "afganistan ve pakistandan gelen göç durmaz",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "afganistan ve pakistandan gelen göç durmaz",
+      "entry_id": "92555674",
+      "author": "beyaztenlizenci",
+      "date": "13.07.2019 16:11",
+      "content": "o zaman kendi evine 2 afgan al da, ailecek renk gelsin sizede",
+      "has_external_url": false
+    },
+    {
+      "title": "afganistan ve pakistandan gelen göç durmaz",
+      "entry_id": "92555956",
+      "author": "quarterpounder",
+      "date": "13.07.2019 16:19",
+      "content": "kardeş falan değiliz, toprağımızı da kimseye peşkeş çektirmeyiz..",
+      "has_external_url": false
+    },
+    {
+      "title": "afganistan ve pakistandan gelen göç durmaz",
+      "entry_id": "92556071",
+      "author": "osenebusene",
+      "date": "13.07.2019 16:22",
+      "content": "bu romantizmle ulke olarak batmakla kalmayip, bir karisim icinde eriyip tarihten turk milletini de silecegiz gibi.",
+      "has_external_url": false
+    }
+  ]
+}

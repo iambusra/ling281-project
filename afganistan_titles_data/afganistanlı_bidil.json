@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:00:23.054664",
+    "total_entries": 1,
+    "input": "afganistanlı bidil",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "afganistanlı bidil",
+      "entry_id": "60617093",
+      "author": "zemin yesil 12 yildiz 3 ok sari",
+      "date": "19.05.2016 13:51",
+      "content": "hayati inanç'ın can veren pervaneler kitabında bahsettiği bir şair.\nve farsça bilmediği için hayıflanmasına yol açan farsça divanı'ndan bir beyti:\n\nrûzigâr ez rûz-i evvel süfle-perver bûde est\nzan sebeb engoşt-i kûçek sâhib-i engoşterest\n\nzaman ta başından beri, liyakatsiz olanları taltif ediyor, taçlandırıyor. aynen şunun gibi ki beş parmağımız içinde sadece dıştan ikinci parmak kendi başına bir iş yapamaz, verimsiz ve başarısızdır. ama gel gör ki yüzük de o parmağa takılır.",
+      "has_external_url": false
+    }
+  ]
+}

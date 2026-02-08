@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T21:59:04.943374",
+    "total_entries": 1,
+    "input": "genelevde dehşet saçan afgan",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "genelevde dehşet saçan afgan",
+      "entry_id": "161912258",
+      "author": "banaordanbirpianist",
+      "date": "26.02.2024 09:37",
+      "content": "https://www.odatv.com/...3-kadini-bicakladi-\n\navusturya'da geneleve gidip reddedilen afgan habere göre gururuna yediremeyip sonradan içeri girip 3 kişiyi öldürüyor",
+      "has_external_url": true
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:05:50.475566",
+    "total_entries": 2,
+    "input": "afganlar yüzünden suriyelilerin güme gitmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "afganlar yüzünden suriyelilerin güme gitmesi",
+      "entry_id": "136998296",
+      "author": "motununizinde",
+      "date": "04.05.2022 14:35",
+      "content": "hepsi ülkelerine def olup gitsinler. yeter artık. burası bakımevi değil.",
+      "has_external_url": false
+    },
+    {
+      "title": "afganlar yüzünden suriyelilerin güme gitmesi",
+      "entry_id": "137290641",
+      "author": "zekaliyimkkalin",
+      "date": "10.05.2022 23:08",
+      "content": "kesinlikle hepsi gitmeli ama haklılık payı var. suriyelileri bir şekilde ağırlıyorduk yine sıkıntı oluşuyordu ama bir şekilde kanıksamaya başlamıştık. ne zaman uçana kaçana hallenen bu afganlarla pakiler geldi suriyeli mevzusu da patladı. suriyeliler muhtemelen afganlarla pakilere uyuz oluyorlardır şu anda.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:03:12.635153",
+    "total_entries": 5,
+    "input": "öldürdüğü afganlı ile poz veren ingiliz askeri",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "öldürdüğü afganlı ile poz veren ingiliz askeri",
+      "entry_id": "42641351",
+      "author": "valree baenett",
+      "date": "10.05.2014 12:41",
+      "content": "kestigi veya kesecegi bogayla poz veren dangalaktan cokta farki yoktur benim gozumde.",
+      "has_external_url": false
+    },
+    {
+      "title": "öldürdüğü afganlı ile poz veren ingiliz askeri",
+      "entry_id": "42642035",
+      "author": "timbir",
+      "date": "10.05.2014 13:05",
+      "content": "(bkz: ingilizli askeri)",
+      "has_external_url": false
+    },
+    {
+      "title": "öldürdüğü afganlı ile poz veren ingiliz askeri",
+      "entry_id": "42642423",
+      "author": "abbas isyanda",
+      "date": "10.05.2014 13:18",
+      "content": "(bkz: açmayın dudayeva başlığı)",
+      "has_external_url": false
+    },
+    {
+      "title": "öldürdüğü afganlı ile poz veren ingiliz askeri",
+      "entry_id": "42642685",
+      "author": "at avrat tabanca",
+      "date": "10.05.2014 13:29",
+      "content": "zalimliğiyle övünenlerden biri.",
+      "has_external_url": false
+    },
+    {
+      "title": "öldürdüğü afganlı ile poz veren ingiliz askeri",
+      "entry_id": "42651632",
+      "author": "imamvesaire",
+      "date": "10.05.2014 20:42 ~ 20:43",
+      "content": "(bkz: afganlı ve türklü kardeşliği)",
+      "has_external_url": false
+    }
+  ]
+}

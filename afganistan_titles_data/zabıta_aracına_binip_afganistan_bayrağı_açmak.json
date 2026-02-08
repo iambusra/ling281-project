@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:02:28.960784",
+    "total_entries": 3,
+    "input": "zabıta aracına binip afganistan bayrağı açmak",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "zabıta aracına binip afganistan bayrağı açmak",
+      "entry_id": "137319520",
+      "author": "spor muha biri",
+      "date": "11.05.2022 17:56 ~ 03.06.2022 10:14",
+      "content": "ancak ülkemizde olabilecek bir olay.\n\naracın üzerinde \"zabıta-ferizli\" yazıyor. ferizli sakarya'nın bir ilçesi.\n\nkaynak",
+      "has_external_url": true
+    },
+    {
+      "title": "zabıta aracına binip afganistan bayrağı açmak",
+      "entry_id": "137320609",
+      "author": "ayuttudum",
+      "date": "11.05.2022 18:31",
+      "content": "günümüz şartlarında suç değildir ama ileride mutlaka hesabının sorulması gereken eylemdir.\n\ntürk bayrağı açsak öyle anında foşik oluruz ayrıca.",
+      "has_external_url": false
+    },
+    {
+      "title": "zabıta aracına binip afganistan bayrağı açmak",
+      "entry_id": "137321461",
+      "author": "ayyenar",
+      "date": "11.05.2022 18:59",
+      "content": "o değilde o nasıl bir bayrak amk..",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:01:37.328330",
+    "total_entries": 2,
+    "input": "afganistan paten kuvvetleri",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "afganistan paten kuvvetleri",
+      "entry_id": "162204662",
+      "author": "odoriko",
+      "date": "06.03.2024 18:57",
+      "content": "başını zorla kapattıkları, zulmettikleri küçük kızları ancak korkutabilecek kuvvetlerdir(!!!)",
+      "has_external_url": false
+    },
+    {
+      "title": "afganistan paten kuvvetleri",
+      "entry_id": "162204907",
+      "author": "ruyaniz seksolsun",
+      "date": "06.03.2024 19:07",
+      "content": "işte okullarda fizik dersi vermezseniz böyle saçma şeyler yapar çocuklar.\n\ntanım: frenlemenin mümkün olmadığı bir araçla 50-60 km üstü hızlara çıkan ufak bir denge kaybında ebesinin a.nı tersten görecek olan kuvvetler.",
+      "has_external_url": false
+    }
+  ]
+}

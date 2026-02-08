@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:07:06.830574",
+    "total_entries": 3,
+    "input": "afgan grubun afganları gasp edip yaralaması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "afgan grubun afganları gasp edip yaralaması",
+      "entry_id": "126247002",
+      "author": "non mi avete fatto niente",
+      "date": "28.07.2021 22:25 ~ 22:29",
+      "content": "arnavutköy'de gerçekleşmiş elim hadise. aynı gün içinde afganların yaşadığı iki eve giren ve gasp ettikleri kişilerden birini bıçakla ağır yaralayan afgan uyruklu 8 şüpheliden 2'si yakalandı.\n\nkaynak",
+      "has_external_url": true
+    },
+    {
+      "title": "afgan grubun afganları gasp edip yaralaması",
+      "entry_id": "126247438",
+      "author": "paranoyaqca",
+      "date": "28.07.2021 22:34",
+      "content": "ortadoğu da sıradan anlar.",
+      "has_external_url": false
+    },
+    {
+      "title": "afgan grubun afganları gasp edip yaralaması",
+      "entry_id": "126247917",
+      "author": "delifilozof q",
+      "date": "28.07.2021 22:44 ~ 22:45",
+      "content": "kendinden olana bunu yapan bize neler yapmaz tabi ama onlar bizim mümin kardeşlerimiz.",
+      "has_external_url": false
+    }
+  ]
+}

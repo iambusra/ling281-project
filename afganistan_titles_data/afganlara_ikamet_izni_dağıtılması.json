@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:07:25.687100",
+    "total_entries": 3,
+    "input": "afganlara ikamet izni dağıtılması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "afganlara ikamet izni dağıtılması",
+      "entry_id": "126963841",
+      "author": "paintman",
+      "date": "16.08.2021 00:51",
+      "content": "işte muhalefetin bunu araştırıp eğer böyle bir şey varsa asıl bundan dolayı kıyameti koparmasi gerekiyor. ama kemal kılıçdaroğlu'ndan başka bir muhalefet lideri bu konuda tatmin edici şeyler söylemiyor.\n\nmeral akşener'in ve iyi parti'nin göçmenker konusundaki bu sessizliği gerçekten çok dikkat çekici...",
+      "has_external_url": false
+    },
+    {
+      "title": "afganlara ikamet izni dağıtılması",
+      "entry_id": "126963880",
+      "author": "bebeeem",
+      "date": "16.08.2021 00:52",
+      "content": "suriyelilere verilen vatandaşlık yanında önemsizdir. bugün aşı için gittiğim hastanede yanımdaki iki suriyeli tc kimlik no ibraz etti.",
+      "has_external_url": false
+    },
+    {
+      "title": "afganlara ikamet izni dağıtılması",
+      "entry_id": "126964122",
+      "author": "gearbox ag",
+      "date": "16.08.2021 00:59",
+      "content": "gerek olmayan belgedir. oturma izni olmayan bir suriyelinin ülkeden kovulduğunu gördük mü hiç?",
+      "has_external_url": false
+    }
+  ]
+}

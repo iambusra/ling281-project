@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:04:59.210263",
+    "total_entries": 1,
+    "input": "türk kadınlarıyla evlenmek isteyen pakistanlılar",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türk kadınlarıyla evlenmek isteyen pakistanlılar",
+      "entry_id": "137003563",
+      "author": "desjard",
+      "date": "04.05.2022 17:00",
+      "content": "bence nefret etmek icin boyle sebebe bahaneye gerek yok beyler.\n\nmuslumansa nefret edin gecin.",
+      "has_external_url": false
+    }
+  ]
+}

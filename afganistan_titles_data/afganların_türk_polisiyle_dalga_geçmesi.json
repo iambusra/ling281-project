@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:08:03.456317",
+    "total_entries": 2,
+    "input": "afganların türk polisiyle dalga geçmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "afganların türk polisiyle dalga geçmesi",
+      "entry_id": "136243883",
+      "author": "rasbarnagas26",
+      "date": "15.04.2022 16:49",
+      "content": "hahahahaha nereden baksan rezillik davul olsa patlardı hükümetten tık yok:)",
+      "has_external_url": false
+    },
+    {
+      "title": "afganların türk polisiyle dalga geçmesi",
+      "entry_id": "136244062",
+      "author": "kritik dusunmekten kafasi sizilayan adam",
+      "date": "15.04.2022 16:54 ~ 16:58",
+      "content": "(bkz: bardak zaten dolu damlayana yazik olacak)\n\nhttps://youtu.be/zko-jqw-cby",
+      "has_external_url": true
+    }
+  ]
+}

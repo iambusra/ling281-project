@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:08:04.049427",
+    "total_entries": 1,
+    "input": "afganların sapanla pakistan'a uyuşturucu sokması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "afganların sapanla pakistan'a uyuşturucu sokması",
+      "entry_id": "134778149",
+      "author": "grileke",
+      "date": "11.03.2022 04:48",
+      "content": "afganların, pakistan’ın afgan sınırını kontrol etmek için inşa ettiği 2450 kilometrelik bariyeri tamamlamasının ardından pakistan’a uyuşturucu sokmak için devasa sapanlar kullanması olayı.\n\ndün buna ilişkin bir video yayınlanmış:\n\nhttps://twitter.com/…dex/status/1501973080499003393\n\n(bkz: pakistan'ın afganistan sınırına tel örgü çekmesi)",
+      "has_external_url": true
+    }
+  ]
+}

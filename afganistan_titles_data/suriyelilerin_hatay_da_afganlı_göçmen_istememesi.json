@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:03:10.817871",
+    "total_entries": 2,
+    "input": "suriyelilerin hatay'da afganlı göçmen istememesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelilerin hatay'da afganlı göçmen istememesi",
+      "entry_id": "90796722",
+      "author": "muneccimtercuman",
+      "date": "02.06.2019 04:18",
+      "content": "misafir misafiri istemez, ev sahibi hiç birini.",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyelilerin hatay'da afganlı göçmen istememesi",
+      "entry_id": "90796786",
+      "author": "yiith",
+      "date": "02.06.2019 04:20",
+      "content": "(bkz: afganlı)",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:07:53.121500",
+    "total_entries": 4,
+    "input": "afganların dünyayı gezmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "afganların dünyayı gezmesi",
+      "entry_id": "143287446",
+      "author": "absolute error",
+      "date": "29.09.2022 14:02",
+      "content": "videoya kahkaha attım, lan bunca vize, pasaport, bürokratik işlemler falan fasa fisoymuş amk.\nadam sikini gezdire gezdire avrupa'nın içinden geçmiş, yakın zamanda new york times meydanı'ndan pozu gelir dallamanın.\nuzun lafın kısası, gülüp dalga geçmekle beraber bir miktar imrendiğim afgan kaçak.",
+      "has_external_url": false
+    },
+    {
+      "title": "afganların dünyayı gezmesi",
+      "entry_id": "143287492",
+      "author": "answerisdontthink",
+      "date": "29.09.2022 14:03",
+      "content": "bizde vize için donumuzun rengine kadar belge verelim ve para ödeyelim. adam maceracı",
+      "has_external_url": false
+    },
+    {
+      "title": "afganların dünyayı gezmesi",
+      "entry_id": "143287939",
+      "author": "sansasyonelharekat",
+      "date": "29.09.2022 14:16",
+      "content": "biz de vize alabilelim diye anamızın kızlık soyadına kadar verelim. her şey hikayeymiş anasını satayım, dalkavuğa bakar mısın ayağındaki çarığa bakmadan devr-i alem yaratmış.",
+      "has_external_url": false
+    },
+    {
+      "title": "afganların dünyayı gezmesi",
+      "entry_id": "143289735",
+      "author": "the composer",
+      "date": "29.09.2022 15:07",
+      "content": "görsel",
+      "has_external_url": true
+    }
+  ]
+}

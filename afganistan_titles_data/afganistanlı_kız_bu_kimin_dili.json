@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:00:19.754229",
+    "total_entries": 1,
+    "input": "afganistanlı kız bu kimin dili",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "afganistanlı kız bu kimin dili",
+      "entry_id": "116515888",
+      "author": "budami",
+      "date": "06.12.2020 15:42",
+      "content": "afganistanlı türk kızının okuduğu şiir.afganistan ve pakistanda milyonlarca türk yaşamaktadır ama bunu nedense bu kadar önemsemiyoruz.\nbu kimin dili şiiri",
+      "has_external_url": true
+    }
+  ]
+}

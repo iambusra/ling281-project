@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:08:39.430671",
+    "total_entries": 2,
+    "input": "suriyelileri istemeyenleri afganlarla sınamak",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelileri istemeyenleri afganlarla sınamak",
+      "entry_id": "126949109",
+      "author": "ergenecondom",
+      "date": "15.08.2021 18:29",
+      "content": "başıma gelen durumdur.",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyelileri istemeyenleri afganlarla sınamak",
+      "entry_id": "126949265",
+      "author": "libertas08",
+      "date": "15.08.2021 18:34",
+      "content": "-ıraklılar geldi ilgilenmedik,\n-suriyeliler geldi birkaç cılız ses çıktı yine toplumda bir hareketlenme olmadı, görmezden geldik.\n-zenciler geldi 3 bacak diye dalga geçtik,\n-1000 yıldır birlikte yaşadığımız kürtleri sayılanlardan daha aşağı görüp daha fazla tepki gösterdik,\n-bölüm sonu canavarı olarak da şimdi afganlar geldi hepimize geçmiş olsun.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:07:39.230491",
+    "total_entries": 3,
+    "input": "afganlardan rahatsız olan suriyeli",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "afganlardan rahatsız olan suriyeli",
+      "entry_id": "126778293",
+      "author": "ramsesli",
+      "date": "11.08.2021 03:01 ~ 03:02",
+      "content": "\"bu ülkenin sınırlarını koruyan yok mu, her yeri işgal ediyor bunlar\" diyen suriyelidir.",
+      "has_external_url": false
+    },
+    {
+      "title": "afganlardan rahatsız olan suriyeli",
+      "entry_id": "126778309",
+      "author": "paintman",
+      "date": "11.08.2021 03:03",
+      "content": "akıllı adamdır.",
+      "has_external_url": false
+    },
+    {
+      "title": "afganlardan rahatsız olan suriyeli",
+      "entry_id": "126778320",
+      "author": "paranoyaqca",
+      "date": "11.08.2021 03:03",
+      "content": "\"bu ülkenin sınırlarını koruyan yok mu, her yeri işgal ediyor bunlar\" diyen suriye'liden de biz rahatsız oluyoruz oysa.",
+      "has_external_url": false
+    }
+  ]
+}

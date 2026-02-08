@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:07:29.572423",
+    "total_entries": 2,
+    "input": "yakalanan afganlara ne oluyor sorunsalı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "yakalanan afganlara ne oluyor sorunsalı",
+      "entry_id": "126678076",
+      "author": "cokdegisikbinikbulamadim",
+      "date": "08.08.2021 17:39 ~ 17:40",
+      "content": "yeni jeton atıp, oyuna tekrar van’dan başlıyorlar diye biliyorum.",
+      "has_external_url": false
+    },
+    {
+      "title": "yakalanan afganlara ne oluyor sorunsalı",
+      "entry_id": "126678243",
+      "author": "kapat interneti liseli",
+      "date": "08.08.2021 17:44",
+      "content": "gidecekleri illere yürümek yerine otobüsle götürülüyorlar",
+      "has_external_url": false
+    }
+  ]
+}

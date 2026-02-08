@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:08:27.056739",
+    "total_entries": 1,
+    "input": "afganların ana dilde eğitim hakkı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "afganların ana dilde eğitim hakkı",
+      "entry_id": "126693696",
+      "author": "give me something to kill the pain",
+      "date": "09.08.2021 00:11",
+      "content": "2023'ten sonra kullanabilecekleri haktır; afganistan'a döndüklerinde...",
+      "has_external_url": false
+    }
+  ]
+}

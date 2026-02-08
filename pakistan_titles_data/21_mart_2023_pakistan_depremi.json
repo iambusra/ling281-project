@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:03:05.467756",
+    "total_entries": 2,
+    "input": "21 mart 2023 pakistan depremi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "21 mart 2023 pakistan depremi",
+      "entry_id": "150547757",
+      "author": "başlık taşıyan",
+      "date": "21.03.2023 21:11",
+      "content": "(bkz: 21 mart 2023 afganistan depremi)",
+      "has_external_url": false
+    },
+    {
+      "title": "21 mart 2023 pakistan depremi",
+      "entry_id": "150547817",
+      "author": "sibrikoz",
+      "date": "21.03.2023 21:14",
+      "content": "orada yaşayan bir arkadaşım ile konuştum lahor ve islamabad'ta yaşanmış ortalama hissedilen büyüklük 7.7 olduğunu söyledi henüz ölü haberinin olmadığını dile getirdi. umarım herhangi bir facia yaşanmaz insanlar hem ekonomik ve politik birçok sorun yaşıyor zaten pakistan'da.",
+      "has_external_url": false
+    }
+  ]
+}

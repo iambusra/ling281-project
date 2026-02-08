@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:07:03.177140",
+    "total_entries": 2,
+    "input": "ab ülkelerinin kaçak afganları sınırdışı etmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ab ülkelerinin kaçak afganları sınırdışı etmesi",
+      "entry_id": "126733359",
+      "author": "socialfish",
+      "date": "10.08.2021 00:12",
+      "content": "karakter sınırı sebebiyle başlık bu şekilde açıldı. ab üyesi 6 ülke kaçak şekilde ülkelerine gelerek sığınma talep eden afganları sınırdışı etme kararı almış. bilin bakalım sınırdışı etmek için ab'ye en yakın komşu ülke hangisi?\n\n--- spoiler ---\n\ndanimarka, avusturya, almanya, yunanistan, belçika ve hollanda sığınma talepleri reddedilen afgan kaçakların sınır dışı edilmesine karar verdi.\n\n--- spoiler ---\n\nkaynak",
+      "has_external_url": true
+    },
+    {
+      "title": "ab ülkelerinin kaçak afganları sınırdışı etmesi",
+      "entry_id": "126733517",
+      "author": "antibitchinator",
+      "date": "10.08.2021 00:16",
+      "content": "sınırlarının dışı biz oluyoruz. ulan afrika'da kabileler savaşsa bizim g*tümüze mızrak batıyor.\ntanim: devlet olma bilincindeki modern ulus devlet davranışı örneği gösteren avrupalı devletlerin örnek almamız gereken davranışları.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T21:58:13.108242",
+    "total_entries": 1,
+    "input": "asgari ücrete küfür eden afgan",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "asgari ücrete küfür eden afgan",
+      "entry_id": "171934681",
+      "author": "memeliyenyumurta",
+      "date": "16.01.2025 12:24",
+      "content": "deport edilmesine rağmen (bkz: swh) üç bin km öteden, asgari ücrete küfür eden afgandır.\n\nşu linkteki videonun 1:48 saniyesinde görülebilir.",
+      "has_external_url": true
+    }
+  ]
+}

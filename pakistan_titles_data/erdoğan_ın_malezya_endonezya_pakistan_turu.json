@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:02:01.346632",
+    "total_entries": 1,
+    "input": "erdoğan'ın malezya endonezya pakistan turu",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "erdoğan'ın malezya endonezya pakistan turu",
+      "entry_id": "172630029",
+      "author": "laplupbop",
+      "date": "09.02.2025 17:23",
+      "content": "erdoğan\n\nbaşkan erdoğan 10-13 şubat 2025 tarihleri arasında asya turuna çıkıyor.\n\nerdoğan'ın malezya, endonezya ve pakistan'a resmi ziyaretlerde bulunacağı bildirildi.\n\nziyaret kapsamında, türkiye ile bu ülkeler arasındaki ikili anlaşmalara hukuki zemin kazandırmak adına çeşitli alanlarda yeni anlaşmalar imzalanması planlanıyor.\n\nayrıca, başkan erdoğan'ın çeşitli iş çevreleriyle bir araya gelerek ekonomik ve ticari iş birliklerini güçlendirmesi öngörülüyor.",
+      "has_external_url": true
+    }
+  ]
+}

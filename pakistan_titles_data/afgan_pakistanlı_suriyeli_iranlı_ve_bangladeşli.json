@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:00:42.708829",
+    "total_entries": 2,
+    "input": "afgan pakistanlı suriyeli iranlı ve bangladeşli",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "afgan pakistanlı suriyeli iranlı ve bangladeşli",
+      "entry_id": "137048926",
+      "author": "07161138",
+      "date": "05.05.2022 16:17 ~ 16:17",
+      "content": "on yıl sonra \"ülkemde turk istemiyorum\" diyecekler",
+      "has_external_url": false
+    },
+    {
+      "title": "afgan pakistanlı suriyeli iranlı ve bangladeşli",
+      "entry_id": "137049212",
+      "author": "tohumunaparamisaydim",
+      "date": "05.05.2022 16:23",
+      "content": "iran sonradan olma, haritadan cetvelle çizilen devlet olmadığından, iran'a haksızlık yapılan bir başlık olmuş.\n\niran'ı çıkarıp afganistan' ekleyiniz.",
+      "has_external_url": false
+    }
+  ]
+}

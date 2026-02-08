@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:03:34.187363",
+    "total_entries": 4,
+    "input": "bana sahip çık suriyeliye değil afgana değil bana",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "bana sahip çık suriyeliye değil afgana değil bana",
+      "entry_id": "117342768",
+      "author": "funnystuff",
+      "date": "25.12.2020 22:04",
+      "content": "\"muhterem milletime şunu tavsiye ederim ki, başına geçireceği insanların kanlarındaki ve vicdanlarındaki cevheri asliyi tayin etmekten bir an uzak olmasın.\"\n\nataturk",
+      "has_external_url": false
+    },
+    {
+      "title": "bana sahip çık suriyeliye değil afgana değil bana",
+      "entry_id": "117343011",
+      "author": "ordan gelip oraya giden",
+      "date": "25.12.2020 22:09 ~ 22:16",
+      "content": "sen kimsin sen dememiş birileri kürsüye çıkıpta, yine iyi yani.",
+      "has_external_url": false
+    },
+    {
+      "title": "bana sahip çık suriyeliye değil afgana değil bana",
+      "entry_id": "117362043",
+      "author": "atarcan",
+      "date": "26.12.2020 11:18",
+      "content": "seçimler-sonuçlar. çok acı ama gerçekler bu. sadece alnı secdeye değiyor diye insan seçerseniz bu yaşananlar kaçınılmaz olur.",
+      "has_external_url": false
+    },
+    {
+      "title": "bana sahip çık suriyeliye değil afgana değil bana",
+      "entry_id": "117362110",
+      "author": "renksiz hayat",
+      "date": "26.12.2020 11:20",
+      "content": "sen belli ki akp'ye oy vermeyeceksin. ancak vatandaşlık alınca onlar bloklar halinde akp'ye oy verecek. zaten epey kısmı aldı, alıyor. türk işi demokrasiye hoşgeldin.",
+      "has_external_url": false
+    }
+  ]
+}

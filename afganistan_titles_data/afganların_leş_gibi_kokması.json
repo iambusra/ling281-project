@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:08:26.499210",
+    "total_entries": 1,
+    "input": "afganların leş gibi kokması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "afganların leş gibi kokması",
+      "entry_id": "126699743",
+      "author": "ekmek39",
+      "date": "09.08.2021 03:26",
+      "content": "(bkz: yakuplu) ilçesinde rastladığım 3 adet saçı jöleli turuncu mavi ve mor elbiseli pis ten renkli afganın yanımdan geçmesiyle aldığım ölümcül koku.",
+      "has_external_url": false
+    }
+  ]
+}

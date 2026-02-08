@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T21:58:29.001858",
+    "total_entries": 3,
+    "input": "uçak kalkmadan son sigarayı içen pakistanlı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "uçak kalkmadan son sigarayı içen pakistanlı",
+      "entry_id": "172142099",
+      "author": "odoriko",
+      "date": "23.01.2025 15:24",
+      "content": "muhtemelen pilota \" kaptan bir sigara sadece iki fırt çekecem\" demiş olan pakistanlı uçak yolcusudur...\nbayılıyorum bu ülkelere...ayrı bir mizahı var....\n\nlink",
+      "has_external_url": true
+    },
+    {
+      "title": "uçak kalkmadan son sigarayı içen pakistanlı",
+      "entry_id": "172142317",
+      "author": "zampara ferit",
+      "date": "23.01.2025 15:33",
+      "content": "lise tuvaletlerini andıran görüntülere sahip olan video. sanki her an nöbetçi öğretmen gelecek de tuvaleti basacakmış gibi bir hava var.",
+      "has_external_url": false
+    },
+    {
+      "title": "uçak kalkmadan son sigarayı içen pakistanlı",
+      "entry_id": "172142704",
+      "author": "kimyoni",
+      "date": "23.01.2025 15:48",
+      "content": "insanları ırklarına göre aşağılamakta bi garip. son bi sigara içeyim diyen amerikalı olsa haber değeri taşımayacak mıydı?",
+      "has_external_url": false
+    }
+  ]
+}

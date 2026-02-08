@@ -1,0 +1,60 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:00:53.269937",
+    "total_entries": 6,
+    "input": "afganistan merkez bankası",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "afganistan merkez bankası",
+      "entry_id": "129050051",
+      "author": "matraktarih",
+      "date": "14.10.2021 10:49",
+      "content": "bizim merkez bankası'ndan daha iyi yönetilen bir bankadır muhtemelen.",
+      "has_external_url": false
+    },
+    {
+      "title": "afganistan merkez bankası",
+      "entry_id": "129050249",
+      "author": "fikir onderi",
+      "date": "14.10.2021 10:59 ~ 11:02",
+      "content": "afganistan'in ekonomiyi bizden daha iyi yonetmesi mumkun değildir arkadaslar. sirf su adamin yazdiklari bile su anki calkantida dis guclerin parmagi oldugunu gosteriyor.\n\nsizin akliniz aliyor mu afghan afghanisi deger kazansin turk lirasina gore? hangi gerekce, hangi dinamik?\n\nbankaniza sahip cikin. adamlarin ulkesinde kendi vatandasi durmuyor. cok iyiyse yonetim yallah afganistana",
+      "has_external_url": false
+    },
+    {
+      "title": "afganistan merkez bankası",
+      "entry_id": "178790620",
+      "author": "seviptekavusamayaninsan",
+      "date": "30.09.2025 17:32",
+      "content": "ülke genelinde interneti kesmiş olmalarından ötürü internet siteleri de kapanmış.",
+      "has_external_url": false
+    },
+    {
+      "title": "afganistan merkez bankası",
+      "entry_id": "178819074",
+      "author": "seviptekavusamayaninsan",
+      "date": "01.10.2025 17:36",
+      "content": "internet sitesi geri gelmiş. başkanı noor ahmad agha (nur ahmet ağa) imiş.\ngörsel",
+      "has_external_url": true
+    },
+    {
+      "title": "afganistan merkez bankası",
+      "entry_id": "178820684",
+      "author": "sergo",
+      "date": "01.10.2025 19:06",
+      "content": "1 afgani=0, 62 try.\nyazacaklarım bu kadar.",
+      "has_external_url": false
+    },
+    {
+      "title": "afganistan merkez bankası",
+      "entry_id": "178821422",
+      "author": "peace and kiss",
+      "date": "01.10.2025 19:49",
+      "content": "basinda olmak istemezdim.",
+      "has_external_url": false
+    }
+  ]
+}

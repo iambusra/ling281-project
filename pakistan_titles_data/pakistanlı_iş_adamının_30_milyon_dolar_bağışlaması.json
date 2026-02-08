@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T21:59:35.366137",
+    "total_entries": 2,
+    "input": "pakistanlı iş adamının 30 milyon dolar bağışlaması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "pakistanlı iş adamının 30 milyon dolar bağışlaması",
+      "entry_id": "148760883",
+      "author": "ghostronaut",
+      "date": "07.02.2023 19:14",
+      "content": "o para akp’nin eline geçerse bir daha göremezmişiz gibi geliyor.",
+      "has_external_url": false
+    },
+    {
+      "title": "pakistanlı iş adamının 30 milyon dolar bağışlaması",
+      "entry_id": "148763285",
+      "author": "sirgalahad777",
+      "date": "07.02.2023 19:57",
+      "content": "kızları çeken paki tiktok'çular kadar ilgi görmeyecek, çünkü bize övülecek adam değil sövülecek adam lazım.",
+      "has_external_url": false
+    }
+  ]
+}

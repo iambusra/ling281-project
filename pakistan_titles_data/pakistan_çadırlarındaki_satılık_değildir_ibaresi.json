@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:03:08.480458",
+    "total_entries": 1,
+    "input": "pakistan çadırlarındaki satılık değildir ibaresi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "pakistan çadırlarındaki satılık değildir ibaresi",
+      "entry_id": "149838257",
+      "author": "runtryrun",
+      "date": "28.02.2023 13:51 ~ 13:53",
+      "content": "utanç kaynağı bir ibare. kızılay'ın depremzedelere gönderilecek çadırları parayla sattığının anlaşılmasından sonra; pakistan'ın adıyaman'a gönderdiği çadırların üstünde bu ifade yer alıyor. rastlantı mı, yoksa pakistanda da mı rezil olduk, bilemiyorum.\n\ngörsel",
+      "has_external_url": true
+    }
+  ]
+}

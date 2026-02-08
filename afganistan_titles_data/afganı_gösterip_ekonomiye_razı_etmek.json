@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:03:23.506038",
+    "total_entries": 1,
+    "input": "afganı gösterip ekonomiye razı etmek",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "afganı gösterip ekonomiye razı etmek",
+      "entry_id": "126788036",
+      "author": "amerikan popechku",
+      "date": "11.08.2021 12:36",
+      "content": "ölümü gösterip sıtmaya razı etmenin siyasi uygulamasıdır.\n\nafganlar gelince ekonomi unutuldu haliyle çünkü insanlar can güvenliğinden şüphe ediyor. konu can olunca mal da (yani rezil ekonomi ve fakirleşme) ikinci plana düşmüş durumda.",
+      "has_external_url": false
+    }
+  ]
+}

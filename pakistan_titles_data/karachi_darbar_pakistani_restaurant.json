@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:03:27.872862",
+    "total_entries": 1,
+    "input": "karachi darbar pakistani restaurant",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "karachi darbar pakistani restaurant",
+      "entry_id": "145207435",
+      "author": "sanver",
+      "date": "17.11.2022 09:38",
+      "content": "karachi darbar pakistani restaurant, istanbul'un beyoğlu ilçesinde sıraselviler girişinde bulunan pakistan restoranı.\n\nweb sitesi - http://ww12.karachidarbaristanbul.com/\n\nfacebook - https://www.facebook.com/karachidarbaristanbul/\n\ninstagram - https://www.instagram.com/…chidarbaristanbul/?hl=en",
+      "has_external_url": true
+    }
+  ]
+}

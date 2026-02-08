@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:08:30.985152",
+    "total_entries": 1,
+    "input": "suriye ve afganların yangın söndürmeye katılmaları",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriye ve afganların yangın söndürmeye katılmaları",
+      "entry_id": "126422777",
+      "author": "markasiz",
+      "date": "02.08.2021 10:46",
+      "content": "kaçak olarak ülkemize gelen suriyeli ve afgan göçmenlerin yangın söndürme çalışmalarına katılmaları olarak düzeltilebilecek fakat uzunluğu sebebiyle gerçekleşmemiş başlıktır.\n\nsonuç: suriyeli ve afganlar nargileleri biter bitmez, ilgili çalışmalara katılacaklardır.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:08:45.544978",
+    "total_entries": 2,
+    "input": "amerikanın afganistanı işgal etme nedeni",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "amerikanın afganistanı işgal etme nedeni",
+      "entry_id": "41062955",
+      "author": "mcmxc ad",
+      "date": "11.03.2014 21:01",
+      "content": "(bkz: opium)\n(bkz: afyon)",
+      "has_external_url": false
+    },
+    {
+      "title": "amerikanın afganistanı işgal etme nedeni",
+      "entry_id": "41063003",
+      "author": "somek kafali",
+      "date": "11.03.2014 21:02",
+      "content": "(bkz: afganistan'ın amerika'ya demokrasi götürmesi)",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:03:17.677477",
+    "total_entries": 1,
+    "input": "18 temmuz 2023 afgani kuru",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "18 temmuz 2023 afgani kuru",
+      "entry_id": "154688315",
+      "author": "sol durak",
+      "date": "18.07.2023 15:18 ~ 15:20",
+      "content": "yıl 2020 1tl = 13,52 afgani\n\nyıl 2023 1tl= 3,19 afgani\n\nafganistan'dan bahsediyorum. hani şu uçağın kanadına tutunup afganistan'ı terketmeye çalışan, geri kalmışlığın nirvanasını yaşayanların ülkesi afganistan.\n\nyakında afganistan'dan hiç bir farkımız kalmayacak. bu gidişle adamların parası bizim paramızdan daha değerli olacak.\n\ntürk milletinin ırzına geçen bu afgan mülteciler yakında türk milletinin malına da göz dikeceler.\n\ngörsel",
+      "has_external_url": true
+    }
+  ]
+}

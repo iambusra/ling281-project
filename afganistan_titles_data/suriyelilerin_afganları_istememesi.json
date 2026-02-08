@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:07:08.202628",
+    "total_entries": 1,
+    "input": "suriyelilerin afganları istememesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelilerin afganları istememesi",
+      "entry_id": "125821564",
+      "author": "k 1 f",
+      "date": "17.07.2021 18:35",
+      "content": "bir mülteci topluluğun bir diğerini sığındıkları ülkede (türkiye) istememesi durumu. çok değil, az önce yan komşu kiradaki suriyelilerin oğulları konuşuyordu. hem de türkçe. selam verip özellikle gidip sordum, afganları sevmiyoruz çok gelmişler dediler. şaşırdım. adamların ülkeyi sahiplenmesine mi kızayım, afganların akın akın gelmesine mi bilemedim.",
+      "has_external_url": false
+    }
+  ]
+}

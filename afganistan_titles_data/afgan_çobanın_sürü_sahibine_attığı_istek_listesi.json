@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T21:57:46.186167",
+    "total_entries": 3,
+    "input": "afgan çobanın sürü sahibine attığı istek listesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "afgan çobanın sürü sahibine attığı istek listesi",
+      "entry_id": "181542488",
+      "author": "nuhun jetskisi",
+      "date": "02.02.2026 00:26",
+      "content": "köy tv'de küçükbaş saati programında gördüğüm liste.\n\nkaşar peyniri, dana köfte, muz, kivi, kiraz, çilek, üzüm, armut, mango, elma, portakal, limonata, sosis, limon, yumurta, zeytin, limonata.\n\nbence gayet makul istekler. insanca çalışmak çobanın da hakkı.\n\n06:45'te başlıyor:\n\nhttps://youtu.be/6rx-m7j4rhw?si=kycoldvs8ima_3-m",
+      "has_external_url": true
+    },
+    {
+      "title": "afgan çobanın sürü sahibine attığı istek listesi",
+      "entry_id": "181542558",
+      "author": "anani siken kadi",
+      "date": "02.02.2026 00:29",
+      "content": "bir kısmını istemekte haklı, bir kısmı da cahilliğinden istiyor muhtemelen. hangi meyve hangi mevsimde yetişir bilmiyor olabilir. aşermiyorsa kış günü kiraz istemez herhalde mantıklı bir insan.",
+      "has_external_url": false
+    },
+    {
+      "title": "afgan çobanın sürü sahibine attığı istek listesi",
+      "entry_id": "181577808",
+      "author": "61ts",
+      "date": "03.02.2026 18:15",
+      "content": "aşırı istekler.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:02:10.380815",
+    "total_entries": 2,
+    "input": "afganistan yardım uçağına koşan afganlar",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "afganistan yardım uçağına koşan afganlar",
+      "entry_id": "149102411",
+      "author": "guxex",
+      "date": "11.02.2023 23:12",
+      "content": "steve hanke'nin ortaya attığı iddaa. umarım doğru değildir. afganların uçağın dışında ülkeyi terkedebiliceğine olan inancını amerikan uçalarının tekerlerine tutunmaları ile hepimiz gördük.\n\nlink",
+      "has_external_url": true
+    },
+    {
+      "title": "afganistan yardım uçağına koşan afganlar",
+      "entry_id": "149103215",
+      "author": "kaptan12345",
+      "date": "11.02.2023 23:23",
+      "content": "üç dört gündür dönen iddialardır. .\n\nburada da başka görüntüler var.\n\nkabil havalimanına koşturan afganlar",
+      "has_external_url": true
+    }
+  ]
+}

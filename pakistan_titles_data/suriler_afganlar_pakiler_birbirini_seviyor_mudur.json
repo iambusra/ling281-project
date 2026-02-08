@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:00:49.643625",
+    "total_entries": 2,
+    "input": "suriler afganlar pakiler birbirini seviyor mudur",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriler afganlar pakiler birbirini seviyor mudur",
+      "entry_id": "153690947",
+      "author": "el hombre biscolata",
+      "date": "19.06.2023 16:49",
+      "content": "sevmiyorlardır. çünkü birbirlerinin ekmeklerini yiyorlar. dilenci dilenciyi sever mi siz söyleyin? birbirlerinin rızkını azaltıyorlar, ele geçiriyorlar.\n\nayrıca bu konuda çok güzel bir deyişimiz var: misafir misafiri sevmezmiş ev sahibi hiç birini!",
+      "has_external_url": false
+    },
+    {
+      "title": "suriler afganlar pakiler birbirini seviyor mudur",
+      "entry_id": "153691221",
+      "author": "heartlesss",
+      "date": "19.06.2023 16:58",
+      "content": "geçenlerde çöp toplayan 3 tane afgana mal taşıttırdım. suriyeliler telefonlarini gasp etmiş. içim acıdı.",
+      "has_external_url": false
+    }
+  ]
+}

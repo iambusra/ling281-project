@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:08:41.844954",
+    "total_entries": 4,
+    "input": "afganlarla tartışan alman gencin ölmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "afganlarla tartışan alman gencin ölmesi",
+      "entry_id": "81158979",
+      "author": "tatil kufesi",
+      "date": "10.09.2018 20:25 ~ 21:59",
+      "content": "afganların kavgasına karışan genç bir almanın (22)\nafganlar tarafından darp edilince kalp krizinden ölmesidir.",
+      "has_external_url": false
+    },
+    {
+      "title": "afganlarla tartışan alman gencin ölmesi",
+      "entry_id": "81159316",
+      "author": "altairibnlaahad",
+      "date": "10.09.2018 20:36",
+      "content": "ben bu kadar kısa bir sunuş şekli ve bu kadar kanıtsız olan bir haber daha görmedim.",
+      "has_external_url": false
+    },
+    {
+      "title": "afganlarla tartışan alman gencin ölmesi",
+      "entry_id": "81159780",
+      "author": "siegen",
+      "date": "10.09.2018 20:53",
+      "content": "bu cocugun ölüm haberi bild1\n\naşırı sagcilarin buna karşılık sokaga cikma haberi bild2",
+      "has_external_url": true
+    },
+    {
+      "title": "afganlarla tartışan alman gencin ölmesi",
+      "entry_id": "81160701",
+      "author": "kadrolu muptezel",
+      "date": "10.09.2018 21:24",
+      "content": "(bkz: entry girmezsem elim ayağım titriyor, başım dönüyor.)",
+      "has_external_url": false
+    }
+  ]
+}

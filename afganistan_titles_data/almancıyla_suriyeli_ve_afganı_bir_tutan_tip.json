@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:03:22.003962",
+    "total_entries": 1,
+    "input": "almancıyla suriyeli ve afganı bir tutan tip",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "almancıyla suriyeli ve afganı bir tutan tip",
+      "entry_id": "126852683",
+      "author": "thunderstorm2029",
+      "date": "12.08.2021 23:37",
+      "content": "almanya'ya giden turk yazacaktim. baslik sinirindan almanci yazdım.\n\nalmanya'nin ihtiyaci icin oranin kurallarina (cogunlugu en azindan) uygun bir sekilde gidip yasayan turklerle, sinirdan yuruyerek giden ve ulkeyi birbirine katan afgani ve suriyeliyi bir tutan tiplerdir. herkes insanca muameleyi hakediyor ama duzen bozanlara karsida yumuşakça gibi davranmayin lütfen.",
+      "has_external_url": false
+    }
+  ]
+}

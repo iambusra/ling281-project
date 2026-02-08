@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:03:09.572117",
+    "total_entries": 2,
+    "input": "istanbul'da erkek çocuklarını taciz eden afganlı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "istanbul'da erkek çocuklarını taciz eden afganlı",
+      "entry_id": "92890228",
+      "author": "huseyinozkilic",
+      "date": "21.07.2019 15:28",
+      "content": "bacha bazi gibi pisliklere sahip olan ırkın şaşırtmayan hareketi.",
+      "has_external_url": false
+    },
+    {
+      "title": "istanbul'da erkek çocuklarını taciz eden afganlı",
+      "entry_id": "92890737",
+      "author": "xaxxbczczaaxax",
+      "date": "21.07.2019 15:43 ~ 15:44",
+      "content": "tam \"vakıf\" hocası olacak adammış, kadro açığı olan \"vakıf\" varsa değerlendirsin derim. ilgili \"vakıfta\" çok hızlı bir şekilde yükseleceğinden eminim.",
+      "has_external_url": false
+    }
+  ]
+}

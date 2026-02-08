@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:03:39.105082",
+    "total_entries": 2,
+    "input": "nagehan alçının aslında pakistana gitmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "nagehan alçının aslında pakistana gitmesi",
+      "entry_id": "128030688",
+      "author": "nettapus",
+      "date": "14.09.2021 15:00 ~ 15.09.2021 09:14",
+      "content": "twitterda bugün gördüğüm kıymet nadir bindebir adlı yazarın tespitidir.\n\n'' pakistan'a gitmiş. arkadaki telefon numaraları pakistan gsm şirketi telenor'a ait. peşaver'e gitmiştir.\n\nhttps://twitter.com/…bir/status/1437743132540477448 edit: iddaalar doğruymuş pakistandaymış",
+      "has_external_url": true
+    },
+    {
+      "title": "nagehan alçının aslında pakistana gitmesi",
+      "entry_id": "128030800",
+      "author": "bivalvia",
+      "date": "14.09.2021 15:04 ~ 15:07",
+      "content": "tam nagehanlık bir hareket. yıllardır hep aynı, yalan dolan.\n\nedit: çık o zaman afkanistan değil pakistan de, düzelt haberi. yok onu da yapmaz. hep aynı kafa.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:05:44.260736",
+    "total_entries": 4,
+    "input": "afganlar ve suriyelilerin milli maç yapması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "afganlar ve suriyelilerin milli maç yapması",
+      "entry_id": "139609657",
+      "author": "trnntkrng",
+      "date": "05.07.2022 12:06",
+      "content": "kazanan finalde pakistan ile karsilacak.",
+      "has_external_url": false
+    },
+    {
+      "title": "afganlar ve suriyelilerin milli maç yapması",
+      "entry_id": "139609692",
+      "author": "odeon06",
+      "date": "05.07.2022 12:07",
+      "content": "türkiye de gerçekleşecek eylemdir, çünkü herkes türkiye'de",
+      "has_external_url": false
+    },
+    {
+      "title": "afganlar ve suriyelilerin milli maç yapması",
+      "entry_id": "139609731",
+      "author": "endemikbitkiortusu",
+      "date": "05.07.2022 12:08",
+      "content": "taş ve sopalarla yapılacaktır",
+      "has_external_url": false
+    },
+    {
+      "title": "afganlar ve suriyelilerin milli maç yapması",
+      "entry_id": "139610296",
+      "author": "akm7",
+      "date": "05.07.2022 12:25",
+      "content": "videoya çekip, işi gırgıra vuran türk vatandaşlarını görmek, o maçın yapılmasından daha üzücü.\nbiz millet olarak her şeyi böyle şamataya,gırgıra vurur,daşşak geçeriz.''ağlanacak halimize gülüyoruz'' lafı da boşuna çıkmamıştır bizden.",
+      "has_external_url": false
+    }
+  ]
+}

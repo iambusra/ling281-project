@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:08:12.356120",
+    "total_entries": 1,
+    "input": "sınırdışı edilen afganların ilginç ifadeleri",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "sınırdışı edilen afganların ilginç ifadeleri",
+      "entry_id": "129459537",
+      "author": "tirbushon",
+      "date": "26.10.2021 16:21",
+      "content": "yotube'de dolaşırken tesadüfen denk geldiğim afganlardır.\nyaşları taş çatlasa 14-15 arası. yurtdışında türkiyeli birisine denk gelmeleri tuhaf olmuş! tekrar döneceklerini söylüyorlar ve galiba yine sınırdışı edileceklerdir.\ndiyalogları ilginç. sanırım milyonlarca kaçak göçmen arasından böyle mültecileri seçerek sınırdışı ediyorlar!\nyoutube linki",
+      "has_external_url": true
+    }
+  ]
+}

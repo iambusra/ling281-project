@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:07:50.650809",
+    "total_entries": 1,
+    "input": "afganların resmi plakayla sokağa salınması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "afganların resmi plakayla sokağa salınması",
+      "entry_id": "146226324",
+      "author": "guerra",
+      "date": "11.12.2022 19:32",
+      "content": "iddiaya göre kayseri il göç idaresine ait resmi plakalı 3 otobüs dolusu afgan, otogara en uzak mahallede bırakılması.\nyorum yapmak bile istemiyorum artık.\n\nhttps://twitter.com/…sim/status/1601957145712513025",
+      "has_external_url": true
+    }
+  ]
+}

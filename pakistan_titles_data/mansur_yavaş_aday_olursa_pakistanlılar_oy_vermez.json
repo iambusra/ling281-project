@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:04:52.848321",
+    "total_entries": 1,
+    "input": "mansur yavaş aday olursa pakistanlılar oy vermez",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "mansur yavaş aday olursa pakistanlılar oy vermez",
+      "entry_id": "140841523",
+      "author": "obispo",
+      "date": "03.08.2022 19:31",
+      "content": "aday belirlemede dikkat edilmesi gereken bir husus.\n\nbu seçim çok önemli, hata kaldırmaz! laiklerden, liberallerden, dindar marksistlerden ve özellikle güney asyalı sığınmacılardan oy alabilecek bir aday üzerinde uzlaşmalıyız.",
+      "has_external_url": false
+    }
+  ]
+}

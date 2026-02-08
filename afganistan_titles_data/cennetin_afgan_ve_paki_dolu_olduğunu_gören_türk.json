@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T21:58:47.734565",
+    "total_entries": 1,
+    "input": "cennetin afgan ve paki dolu olduğunu gören türk",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "cennetin afgan ve paki dolu olduğunu gören türk",
+      "entry_id": "165577010",
+      "author": "engineerdolma",
+      "date": "22.06.2024 00:07",
+      "content": "cennet bile sürgün sayılır.",
+      "has_external_url": false
+    }
+  ]
+}

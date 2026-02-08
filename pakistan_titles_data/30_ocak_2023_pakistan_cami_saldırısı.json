@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:03:11.290208",
+    "total_entries": 2,
+    "input": "30 ocak 2023 pakistan cami saldırısı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "30 ocak 2023 pakistan cami saldırısı",
+      "entry_id": "148351648",
+      "author": "kelagerm",
+      "date": "30.01.2023 13:34 ~ 13:39",
+      "content": "pakistan'da camide patlama gerçekleşti.\nbirçok haber kaynağına göre namaz saatinde intihar saldırısı yapılmış.\n\nburda dikkat çekilecek nokta şu;\nben şuan buraya son bir iki senede ırak, iran, afganistan, libya, lübnan, pakistan, suriye gibi islam ülkelerinde camilere yapılan birçok saldırı haberini ekleyebilirim.\n\nislam ülkelerinde artık maalesef bu tür korkunç facialara alışılmış gibi görünüyor. birçok yerde bahsedilmiyor bile.\ntwitter'da yok tv'de yok burda da yok.\n\nama aynı saldırı bir hristiyan ülkesinde camiye yapılsın belki islam işbirliği teşkilatı bile toplanırdı\nbence ilk önce islam ülkelerinin kendi iç sorunlarına odaklanıp çözmesi gerekir.\nbu korkunç katliamları gündelik yaşamın dışına ne pahasına olursa olsun çıkarılması lazım.\n\nhttps://www.cnnturk.com/…e-patlama-17-olu-80-yarali\n\nedit: kaynak",
+      "has_external_url": true
+    },
+    {
+      "title": "30 ocak 2023 pakistan cami saldırısı",
+      "entry_id": "148352429",
+      "author": "ge ji kai",
+      "date": "30.01.2023 13:56 ~ 14:02",
+      "content": "an itibariyle en az 25 ölü ve çoğunun durumu kritik 120 yaralıdan bahsedilmekte.\n\nsaldırıyı üstlenen bir örgüt henüz yok, tahminler ttp olarak kısaltılan pakistan talibanı'nın saldırıyı gerçekleştirdiği yönünde.\n\ndiyanet işleri başkanı ali erbaş kendisine ayrılan yüksek bütçenin hakkını vermek için olsa gerek geçmiş olsun tweet'i atmış.\n\npatlamanın gerçekleştiği camiiden bir fotoğraf ve bir video .",
+      "has_external_url": true
+    }
+  ]
+}

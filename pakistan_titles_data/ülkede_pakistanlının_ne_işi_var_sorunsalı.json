@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:04:14.288694",
+    "total_entries": 2,
+    "input": "ülkede pakistanlının ne işi var sorunsalı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ülkede pakistanlının ne işi var sorunsalı",
+      "entry_id": "137434828",
+      "author": "sun worshipper",
+      "date": "14.05.2022 17:19",
+      "content": "hadi suriyelileri bir raddeye kadar anladık diyelim, adamlar savaştan kaçtı vs. hadi çok iyimser düşünüp afganlar için de bu anlamsız bahaneyi öne sürüp onların da yurdunda savaş vardı kaçtılar bize sığındılar diyelim. ulan kodumun pakistanında savaş mı var da biz bu kadar pakiye bakıyoruz?",
+      "has_external_url": false
+    },
+    {
+      "title": "ülkede pakistanlının ne işi var sorunsalı",
+      "entry_id": "137435228",
+      "author": "vista por detras",
+      "date": "14.05.2022 17:34",
+      "content": "mesele savaş vs değilki, mesele çıkacak iç karışıklık için ülkeye aldıkları kafa kesici tim.\ntabi iş o raddeye geldiğinde kim kimi keser orası tartışılır.\nbunun dışında diyelim ben yanılıyorum 3. şıkta ülkenin demografik yapısını değiştirmek ki bunu inkar edenin alnını karışlarım .",
+      "has_external_url": false
+    }
+  ]
+}

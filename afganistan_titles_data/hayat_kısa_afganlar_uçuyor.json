@@ -1,0 +1,52 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:06:27.789495",
+    "total_entries": 5,
+    "input": "hayat kısa afganlar uçuyor",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "hayat kısa afganlar uçuyor",
+      "entry_id": "126977809",
+      "author": "yol verilince kosan yaya",
+      "date": "16.08.2021 14:08",
+      "content": "pubg'de bazen ben de erken atlayıp hemen ölüyorum.",
+      "has_external_url": false
+    },
+    {
+      "title": "hayat kısa afganlar uçuyor",
+      "entry_id": "126978512",
+      "author": "gregorsamsaadamsabenbocegim",
+      "date": "16.08.2021 14:29",
+      "content": "mülteci göçünün çığırından çıkmış olması, kontrol edilememesi, geleceğimizi tehdit etmesi, kültürel çatışmalar ve dahası… tüm bunlar beni de endişelendiriyor fakat bu başlık, bu üslup hiç hoş değil. insanlar özgürlükleri uğruna ölüyorlar. nasıl bir canilikten kaçtıklarını hayal etmek çok zor olmasa gerek.",
+      "has_external_url": false
+    },
+    {
+      "title": "hayat kısa afganlar uçuyor",
+      "entry_id": "126978713",
+      "author": "struct",
+      "date": "16.08.2021 14:35",
+      "content": "boyle aptal basliklarin insanlarda ters etki yaratip afgan gocmen sempatisi yaratmak icin acildigini dusunuyorum artik. terbiyesizlik de degil igrenclik yani bu.",
+      "has_external_url": false
+    },
+    {
+      "title": "hayat kısa afganlar uçuyor",
+      "entry_id": "126978873",
+      "author": "psikopatbircivciv",
+      "date": "16.08.2021 14:39",
+      "content": "kötüsünüz",
+      "has_external_url": false
+    },
+    {
+      "title": "hayat kısa afganlar uçuyor",
+      "entry_id": "126978941",
+      "author": "nle",
+      "date": "16.08.2021 14:41",
+      "content": "ırkçısınız",
+      "has_external_url": false
+    }
+  ]
+}

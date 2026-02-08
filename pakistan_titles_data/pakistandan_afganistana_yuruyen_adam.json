@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:04:02.088428",
+    "total_entries": 2,
+    "input": "pakistandan afganistana yuruyen adam",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "pakistandan afganistana yuruyen adam",
+      "entry_id": "172961501",
+      "author": "demigemirledi",
+      "date": "20.02.2025 18:24",
+      "content": "azılı yavru aktroll.\n\n(bkz: aktroll)\n(bkz: engelle)\n(bkz: başlıklarını engelle)",
+      "has_external_url": false
+    },
+    {
+      "title": "pakistandan afganistana yuruyen adam",
+      "entry_id": "176813498",
+      "author": "kiri",
+      "date": "14.07.2025 23:04",
+      "content": "taze troll yumurtadan yeni çıkmış yürümeye çalışıyor.",
+      "has_external_url": false
+    }
+  ]
+}

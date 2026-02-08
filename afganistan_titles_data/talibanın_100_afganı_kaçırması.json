@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:03:26.040517",
+    "total_entries": 1,
+    "input": "talibanın 100 afganı kaçırması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "talibanın 100 afganı kaçırması",
+      "entry_id": "80455518",
+      "author": "tatil kufesi",
+      "date": "20.08.2018 11:28",
+      "content": "ne var bunda? denecek sıradan olaydır.\nda...müslümanların bu haline bir türlü akıl sır ermiyor.\ntaliban güya müslümanlığın yüceltilmesini idealize ediyor,\npeki afganlı kaçırmakla neye hizmet ediyor?\nmüslümanlığın bu hali gerçekten traji komik.\nmüslümanlık için müslüman anlayışını\nbeğenmediği başka müslümana zulum etmek neyin nesi?\nbunların suyuna ne katılıyor anlamadık?\nsen müslümandan önce insan ol, insan.\nislam sadece cihad ve tesettür müdür?",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:08:55.730166",
+    "total_entries": 1,
+    "input": "afganistandan gelen gönüllüler",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "afganistandan gelen gönüllüler",
+      "entry_id": "149101062",
+      "author": "et tu brute",
+      "date": "11.02.2023 22:52 ~ 22:53",
+      "content": "taliban bize en iyi ve faydalı yardımı gönüllü göndermeyerek yapabilir.\n\ngörüntü -gönüllülerle ilgili ise hakikaten- korkunç.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:05:35.483214",
+    "total_entries": 3,
+    "input": "ingiltere'nin pakistanlıları sınırdışı etmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ingiltere'nin pakistanlıları sınırdışı etmesi",
+      "entry_id": "141740877",
+      "author": "umitsizseniz umit sizsiniz",
+      "date": "24.08.2022 17:15",
+      "content": "ingiltere illegal pakistanlıları hızlıca sınırdışı etmek için anlaşma imzalamış, merak etmeyin türkiye ile değil pakistanlı siyasetçi ile.\n\nhttps://www.theweek.in/…ort-illegal-immigrants.html",
+      "has_external_url": true
+    },
+    {
+      "title": "ingiltere'nin pakistanlıları sınırdışı etmesi",
+      "entry_id": "141740963",
+      "author": "sallama kan icen vampir",
+      "date": "24.08.2022 17:17",
+      "content": "muhtemelen oradan sınır dışı edilenler buraya göçüp, krallar gibi yaşarlar. şimdiden vatanımıza\nve milletimize hayırlı uğurlu olsun.",
+      "has_external_url": false
+    },
+    {
+      "title": "ingiltere'nin pakistanlıları sınırdışı etmesi",
+      "entry_id": "141742001",
+      "author": "umitsizseniz umit sizsiniz",
+      "date": "24.08.2022 17:46 ~ 17:47",
+      "content": "https://youtu.be/cfslfjfpcai şurada pakistanlılar neden sevilmediklerini tartışmışlar.",
+      "has_external_url": true
+    }
+  ]
+}

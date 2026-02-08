@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T21:59:12.242550",
+    "total_entries": 1,
+    "input": "17 yaşındaki kıza tecavüz eden pakistanlı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "17 yaşındaki kıza tecavüz eden pakistanlı",
+      "entry_id": "153581917",
+      "author": "ates senturk",
+      "date": "16.06.2023 01:54 ~ 01:55",
+      "content": "https://greekcitytimes.com/…ar-neighbour-pakistani/\n\nolay atina'da oluyor. 17 yaşındaki kıza tecavüz eden 42 yaşındaki pakistanlı bıçakla apartmanda kadını tehdit edip evine sokup tecavüz ediyor.",
+      "has_external_url": true
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:04:08.902570",
+    "total_entries": 2,
+    "input": "pakistanlıyı yaratan allah'ın adil olması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "pakistanlıyı yaratan allah'ın adil olması",
+      "entry_id": "19457532",
+      "author": "asdf hjkl",
+      "date": "21.06.2010 02:36 ~ 02:45",
+      "content": "\" ırkçı yaratan allah, madem yarattın takip et, yetmedi imla öğret\" diye devam eden vuvuzuela konçertosu.",
+      "has_external_url": false
+    },
+    {
+      "title": "pakistanlıyı yaratan allah'ın adil olması",
+      "entry_id": "19457557",
+      "author": "kuja",
+      "date": "21.06.2010 02:39",
+      "content": "açık tenlileri filmlerden göre göre yüceltmiş cahil insan serzenişi. ha kesme işareti de var ama taşınır nasılsa, kabak gibi kalmasın sonra burada.",
+      "has_external_url": false
+    }
+  ]
+}

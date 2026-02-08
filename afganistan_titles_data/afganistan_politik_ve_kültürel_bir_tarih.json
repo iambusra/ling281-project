@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:02:23.985793",
+    "total_entries": 1,
+    "input": "afganistan politik ve kültürel bir tarih",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "afganistan politik ve kültürel bir tarih",
+      "entry_id": "141562019",
+      "author": "valiant",
+      "date": "20.08.2022 17:57",
+      "content": "thomas barfield'ın bir kitabı.\n\nhttps://www.vbky.com.tr/…itik-ve-kulturel-bir-tarih",
+      "has_external_url": true
+    }
+  ]
+}

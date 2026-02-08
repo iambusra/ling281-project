@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:04:12.966079",
+    "total_entries": 1,
+    "input": "girit'te 2 pakistanlının tecavüz ettiği turist",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "girit'te 2 pakistanlının tecavüz ettiği turist",
+      "entry_id": "153824253",
+      "author": "komando kani var bende",
+      "date": "23.06.2023 17:21 ~ 17:22",
+      "content": "girit adasına tatile gelen 18 yaşındaki bir kız 2 pakistanlının tecavüzüne uğramış. yunanistan tam olarak koruyamıyor sınırlarını galiba.\n\nhttps://www.odatv4.com/…-tecavuzune-ugradi-51122932\n\nhttps://halktv.com.tr/…aglayip-tecavuz-etti-749340h",
+      "has_external_url": true
+    }
+  ]
+}

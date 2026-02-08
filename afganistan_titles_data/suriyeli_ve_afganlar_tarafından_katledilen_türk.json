@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:06:09.530194",
+    "total_entries": 2,
+    "input": "suriyeli ve afganlar tarafından katledilen türk",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeli ve afganlar tarafından katledilen türk",
+      "entry_id": "128615925",
+      "author": "alles im wasser tiefer",
+      "date": "01.10.2021 10:14",
+      "content": "şimdilik ilk aklıma gelenler şunlar,\n\n(bkz: ismail mert bayar)\n\n(bkz: emirhan yalçın)\n\n(bkz: batuhan barlak)\n\ntabi bunlar sadece basına yansıyanlar.\nbu insanlar ölmemek için savaştan kaçıp ülkemize sığınmışmış, savaş mağduruymuş, misafirmiş!\n\nulan biz misafirliğe gittiğimiz evde koltuğa yayılarak oturmaktan ve tuvalete gitmekten bile çekinen bir halkız, bunlar ev sahibini öldürüyor, taciz ve tecavüz ediyor. bu nasıl iş?",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyeli ve afganlar tarafından katledilen türk",
+      "entry_id": "128617520",
+      "author": "sonsuz kullanim",
+      "date": "01.10.2021 11:15",
+      "content": "kaçırdığımız kısım şu ki artık bu insanlar sığınmacı değil işgalci profiline geçiş yapmış durumdalar .",
+      "has_external_url": false
+    }
+  ]
+}

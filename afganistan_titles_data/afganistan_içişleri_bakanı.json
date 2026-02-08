@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:02:30.294291",
+    "total_entries": 1,
+    "input": "afganistan içişleri bakanı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "afganistan içişleri bakanı",
+      "entry_id": "137053815",
+      "author": "galiyeva",
+      "date": "05.05.2022 18:30 ~ 18:31",
+      "content": "(bkz: süleyman soylu)\n\n(bkz: s. soylu'nun video çeken sığınmacı-göçmen yorumu)",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:07:13.826850",
+    "total_entries": 1,
+    "input": "suriye ve afganlara avrupa kapısını açma vaadi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriye ve afganlara avrupa kapısını açma vaadi",
+      "entry_id": "152861717",
+      "author": "lucky leaf",
+      "date": "27.05.2023 11:24",
+      "content": "bir arkadaş önermiş.\n\n\"seçimi kazandıracak hamle: kk yanına suriyeli ve afgan tercüman alıp seçimi kazanması halinde tüm avrupa sınır kapılarını açacağını beyan etsin. kazanmazsa eşşeğim.\"",
+      "has_external_url": false
+    }
+  ]
+}

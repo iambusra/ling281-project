@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:05:04.474761",
+    "total_entries": 1,
+    "input": "afganlar giderse ırkçı gençler çobanlık yapar mı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "afganlar giderse ırkçı gençler çobanlık yapar mı",
+      "entry_id": "164341972",
+      "author": "mopan",
+      "date": "12.05.2024 17:51",
+      "content": "cevabı merak edilen soru. türkiye'de şu an çok ciddi bir çoban açığı var. afganlar bu açığın bir kısmını kapatıyor ama yeterli değil. afgan sığınmacılar giderse ırkçılık yapan gençler çobanlık başvurusu yaparak bu açığı kapatır mı? böyle bir niyetleri yoksa bu soruna çözümleri nedir acaba?",
+      "has_external_url": false
+    }
+  ]
+}

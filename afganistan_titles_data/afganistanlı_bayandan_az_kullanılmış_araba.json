@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:00:24.323907",
+    "total_entries": 1,
+    "input": "afganistanlı bayandan az kullanılmış araba",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "afganistanlı bayandan az kullanılmış araba",
+      "entry_id": "26939552",
+      "author": "guzman",
+      "date": "11.01.2012 13:39",
+      "content": "ikinci el piyasasında fazla talep görmeyecek arabadır",
+      "has_external_url": false
+    }
+  ]
+}

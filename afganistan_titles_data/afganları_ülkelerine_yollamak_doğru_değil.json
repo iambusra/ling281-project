@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:06:50.613618",
+    "total_entries": 1,
+    "input": "afganları ülkelerine yollamak doğru değil",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "afganları ülkelerine yollamak doğru değil",
+      "entry_id": "127996971",
+      "author": "thor x",
+      "date": "13.09.2021 15:13",
+      "content": "çünkü avrupa'nın mülteciler için gönderdiği paraları vakıflardan cukkalamamız lazım, siz halk olarak kahrını çekerken, biz şirketlerimizle sefası ve keyfini süreriz hiç endişeniz olmasın.",
+      "has_external_url": false
+    }
+  ]
+}

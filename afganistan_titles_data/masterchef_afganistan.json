@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:02:25.980147",
+    "total_entries": 1,
+    "input": "masterchef afganistan",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "masterchef afganistan",
+      "entry_id": "140239758",
+      "author": "betada don bebegim yok diye uye oldum",
+      "date": "20.07.2022 17:19",
+      "content": "herkesin kendi kılıcını getirdiği yarışma. yapılan yemek haram bulunursa aşçının kafası uçuruluyor.",
+      "has_external_url": false
+    }
+  ]
+}

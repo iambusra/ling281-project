@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:00:35.910132",
+    "total_entries": 2,
+    "input": "abd'nin afganistan'daki yenilgisi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "abd'nin afganistan'daki yenilgisi",
+      "entry_id": "41055452",
+      "author": "tungnafellsjokull",
+      "date": "11.03.2014 16:13",
+      "content": "dünyanın eroinr rezervinin %80'i ele geçtikten sonra elbette resmi yahut askeri başlık altında kabul edilen yenilgidir.",
+      "has_external_url": false
+    },
+    {
+      "title": "abd'nin afganistan'daki yenilgisi",
+      "entry_id": "180905355",
+      "author": "doganslx0202",
+      "date": "04.01.2026 03:26",
+      "content": "taliban zaferinin büyüklüğünün göstergesi bugün daha iyi anlaşılıyor.",
+      "has_external_url": false
+    }
+  ]
+}

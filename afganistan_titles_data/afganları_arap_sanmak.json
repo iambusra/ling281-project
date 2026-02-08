@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:07:08.015971",
+    "total_entries": 3,
+    "input": "afganları arap sanmak",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "afganları arap sanmak",
+      "entry_id": "126089811",
+      "author": "alpheius",
+      "date": "25.07.2021 00:07 ~ 02:02",
+      "content": "son günlerde çok sık karşılaştığımız olay.\n\nafganistan'da yaşayanların çoğunluğu iran dillerini konuşuyor.\n\nnüfusun %20'ye yakını ise türk kökenli.\n\nülkücü kardeşleri uyaralım da arap dövmeye çalışırken gidip afganistan türkmenlerini dövmesinler.\n\nedit: %20'lik orana takanlar olmuş. %20 saf türk diyen yok burda. türk kökenli oldukları için hazara da bu oranın içinde.\n\nyorumlara bakıyorum da \"benim için arap\" diyenler var. \"arap\" kelimesini etnisite olarak değil de, mevzu bahis zihniyeti tarif etmek için kullanıyorlar sanırım.",
+      "has_external_url": false
+    },
+    {
+      "title": "afganları arap sanmak",
+      "entry_id": "126090791",
+      "author": "doktor mussak",
+      "date": "25.07.2021 00:29",
+      "content": "afganlar alaman caponudur.\n(bkz: alaman caponu)",
+      "has_external_url": false
+    },
+    {
+      "title": "afganları arap sanmak",
+      "entry_id": "126092961",
+      "author": "kovboyunusikenmidilli",
+      "date": "25.07.2021 01:24",
+      "content": "hepsi aynısının laciverdi değil mi.",
+      "has_external_url": false
+    }
+  ]
+}

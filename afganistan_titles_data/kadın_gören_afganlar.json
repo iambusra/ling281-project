@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:06:15.021167",
+    "total_entries": 1,
+    "input": "kadın gören afganlar",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "kadın gören afganlar",
+      "entry_id": "127386016",
+      "author": "deveyehendekatlatanadam",
+      "date": "27.08.2021 12:10",
+      "content": "umarım ilk tepkilerini de şeriat isteyen hanımlarımıza gösterirler. bişey olacaksa öteki masumlara olsun istemem",
+      "has_external_url": false
+    }
+  ]
+}

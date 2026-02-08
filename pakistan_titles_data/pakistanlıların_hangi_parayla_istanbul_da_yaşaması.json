@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:06:43.816834",
+    "total_entries": 1,
+    "input": "pakistanlıların hangi parayla istanbul'da yaşaması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "pakistanlıların hangi parayla istanbul'da yaşaması",
+      "entry_id": "136147713",
+      "author": "senersongur",
+      "date": "13.04.2022 10:23",
+      "content": "gerçekten kimsenin anlamadığı bir konu bu.\n\nişi gücü olmayan, yürüyerek pakistan'dan istanbul'a kadar gelen bu tipler, hangi para ile ev tutuyorlar, hangi parayla çalışmadan vapurlarda, parklarda geziyorlar.\n\nkim bunlara ev veriyor?\nyabancı devletler tarafından mı ellerine her ay düzenli para veriliyor? marketteki domates, biber, ekmek, su, pirinç, bulgurun fiyatı belli.\n\nböcek gibi yaşamaya alışkınlar tamam da, istanbul'da böcek gibi yaşamak için de belki bir para lazım.",
+      "has_external_url": false
+    }
+  ]
+}

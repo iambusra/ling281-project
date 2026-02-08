@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:08:53.706237",
+    "total_entries": 1,
+    "input": "afganistanda kızlara şarkı söyleme yasağı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "afganistanda kızlara şarkı söyleme yasağı",
+      "entry_id": "121839048",
+      "author": "operaofthephantom",
+      "date": "11.04.2021 20:24",
+      "content": "afganistan'da, eğitim bakanlığı tarafından 12 yaşından büyük kızların etkinliklerde şarkı söylemesine yasak getirilmesidir.\nülkemizde de kadınların hakları konusunda çok büyük eksikler var ama yanlış yapmada ve geriye gitmede çığır açmışlar.\nortaçağ bile pek yenilikçi kalır bu karar için.\n\nkaynak:",
+      "has_external_url": true
+    }
+  ]
+}

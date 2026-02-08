@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:02:11.974930",
+    "total_entries": 1,
+    "input": "afganistan yardım uçaklarına halkın hücum etmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "afganistan yardım uçaklarına halkın hücum etmesi",
+      "entry_id": "149102109",
+      "author": "postmodern nicklerin hayraniyiz",
+      "date": "11.02.2023 23:07 ~ 23:46",
+      "content": "taliban'ın türkiye'ye uçaklarla yardım malzemeleri göndereceği haberinin kabil'de yayılması üzerine afganlar, türkiye'ye gelme umuduyla havaalanına akın etmeye başlamış! şöyle bir zamanda taliban'ın yapacağı en büyük yardım, yardım etmemesi!\n\nhttps://twitter.com/…?s=46&t=47t4yrbwkzl6abufx3cnbw",
+      "has_external_url": true
+    }
+  ]
+}

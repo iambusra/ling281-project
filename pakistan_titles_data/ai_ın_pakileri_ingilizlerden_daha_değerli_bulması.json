@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:01:13.748969",
+    "total_entries": 1,
+    "input": "ai'ın pakileri ingilizlerden daha değerli bulması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ai'ın pakileri ingilizlerden daha değerli bulması",
+      "entry_id": "172716808",
+      "author": "61gun",
+      "date": "12.02.2025 11:01",
+      "content": "(bkz: kaliforniya üniversitesi)'nin yaptığı bir çalışmada; yapay zekaya göre pakistanlılar ve nijeryalıların, ingilizlerden ve amerikalılardan daha değerli olduğu bulunuyor.\n\nayrıca bu bir random değerlendirme değilmiş, içsel olarak tutarlı ve kurala dayalı değerlendirmelermiş.\n\ngörsel\n\nkaynak",
+      "has_external_url": true
+    }
+  ]
+}

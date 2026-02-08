@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:04:03.761513",
+    "total_entries": 1,
+    "input": "10.11.2022 ankara'da 5 afganın ölü bulunması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "10.11.2022 ankara'da 5 afganın ölü bulunması",
+      "entry_id": "144952241",
+      "author": "kundurama kum dolmus",
+      "date": "11.11.2022 00:05 ~ 01:20",
+      "content": "edit: ilk entry uçmuş...\n\n(bkz: ankara'da 5 afgan'ın cansız bedeninin bulunması)\n\n(bkz: ankara'da 5 afgan'ın öldürülmesi)",
+      "has_external_url": false
+    }
+  ]
+}

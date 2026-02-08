@@ -1,0 +1,52 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:03:40.931153",
+    "total_entries": 5,
+    "input": "pakistanda kanat takıp uçamayan adam",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "pakistanda kanat takıp uçamayan adam",
+      "entry_id": "180753370",
+      "author": "wolfi",
+      "date": "28.12.2025 00:46",
+      "content": "kayda değer bir deneme olmasına rağmen başarılı olduğu pek söylenemez. https://x.com/i/status/2004820940505649577",
+      "has_external_url": true
+    },
+    {
+      "title": "pakistanda kanat takıp uçamayan adam",
+      "entry_id": "180753599",
+      "author": "murodokal",
+      "date": "28.12.2025 00:55",
+      "content": "ulan o küçücük kanat, o vücudu kaldırır mı?",
+      "has_external_url": false
+    },
+    {
+      "title": "pakistanda kanat takıp uçamayan adam",
+      "entry_id": "180753760",
+      "author": "kapkaranar",
+      "date": "28.12.2025 01:03",
+      "content": "aı videoyu buraya gerçekmiş gibi başlık açanların uçurulduğu bir sözlükte olmadığı için şanslı olan yazarın açtığı başlıktaki aı x videosundaki görüntüdeki adamdır.",
+      "has_external_url": false
+    },
+    {
+      "title": "pakistanda kanat takıp uçamayan adam",
+      "entry_id": "180754244",
+      "author": "dtcfli",
+      "date": "28.12.2025 01:23",
+      "content": "yapay zeka ya. öff x’in keşfeti bir de burda izliyoruz.",
+      "has_external_url": false
+    },
+    {
+      "title": "pakistanda kanat takıp uçamayan adam",
+      "entry_id": "180754967",
+      "author": "herseyyeni",
+      "date": "28.12.2025 01:58",
+      "content": "geldim.\n\n(bkz: doğal seleksiyon) (bkz: swh)",
+      "has_external_url": false
+    }
+  ]
+}

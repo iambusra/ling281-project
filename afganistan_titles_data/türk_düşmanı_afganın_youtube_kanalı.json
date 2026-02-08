@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:04:32.589131",
+    "total_entries": 1,
+    "input": "türk düşmanı afganın youtube kanalı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türk düşmanı afganın youtube kanalı",
+      "entry_id": "126693343",
+      "author": "scorpioraptor",
+      "date": "09.08.2021 00:04",
+      "content": "https://www.youtube.com/…l/uc0jblra24drb98ncmvd7oya\n\nben şikayet ediyorum youtube.. siz bilirsiniz.",
+      "has_external_url": true
+    }
+  ]
+}

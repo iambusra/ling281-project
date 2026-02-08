@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:04:23.661392",
+    "total_entries": 3,
+    "input": "niğde'de 4 pakistanlının karantinaya alınması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "niğde'de 4 pakistanlının karantinaya alınması",
+      "entry_id": "102614884",
+      "author": "kumrengi",
+      "date": "25.02.2020 16:42 ~ 19:27",
+      "content": "ülkeye giren çıkan belli değil. kaç kere yazdım hatırlamıyorum. sınır namustur, saygınlıktır, prestijdir. bir ülkenin sınırları kevgir gibi olamaz. yoksa corona da girer, şarbon da, uyuz da.. siz de hala \"ama ırgçılık\" derken uyuzdan kaşınır, corona'dan aksırırsınız.\n\ndaha dün pakistan sokaklarında gezinen tipler ertesi hafta niğde'de dolaşıyor..şaka gibi.",
+      "has_external_url": false
+    },
+    {
+      "title": "niğde'de 4 pakistanlının karantinaya alınması",
+      "entry_id": "102615418",
+      "author": "yagmurlugunde suyok",
+      "date": "25.02.2020 16:56",
+      "content": "doğru sonuçları bekleyeceğiz bakalım inşallah negatif çıkar",
+      "has_external_url": false
+    },
+    {
+      "title": "niğde'de 4 pakistanlının karantinaya alınması",
+      "entry_id": "102621009",
+      "author": "neyazabilirimkiburaya",
+      "date": "25.02.2020 19:19",
+      "content": "90 dakikada tanı koyan yerli ve milli tanı kiti üretmemiş miydik biz? niye sonuç için yarın bekleniyor? koca bakanın yalan söyleyecek hali yok heralde?!\n\nsağlık bakanı açıklamaları için",
+      "has_external_url": true
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:06:40.551082",
+    "total_entries": 1,
+    "input": "türk halkının afganları sınır dışı etmek istemesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türk halkının afganları sınır dışı etmek istemesi",
+      "entry_id": "157426183",
+      "author": "p4intblack",
+      "date": "05.10.2023 01:40",
+      "content": "genelleme yapmamak lazım. halkın %52 istemiyor. hatta belki daha fazlası. hali hazırda bunu en şiddetli şekilde savunan siyasi liderler seçimde neredeyse hiç oy alamadı. o yüzden herkes halinden memnun bence.",
+      "has_external_url": false
+    }
+  ]
+}

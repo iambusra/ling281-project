@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:01:41.105738",
+    "total_entries": 2,
+    "input": "afganistan dernekleri başkanının aday olması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "afganistan dernekleri başkanının aday olması",
+      "entry_id": "161779986",
+      "author": "fetbaz",
+      "date": "22.02.2024 02:38",
+      "content": ".\n\nbaşladılarsa bunları suriyeliler takip eder arkası kesilmez artık sonumuz hayrolsun",
+      "has_external_url": true
+    },
+    {
+      "title": "afganistan dernekleri başkanının aday olması",
+      "entry_id": "161780017",
+      "author": "terminus yerlisi",
+      "date": "22.02.2024 02:41 ~ 02:43",
+      "content": "hadi başlığı sığdıramadın diyelim; bir dakika sürmeyecek açıklamayı da mı yapamadın?\nişte bu tipler başlık açabilirken bizler sürekli yasaklıyız.\n\nt: afganistan dernekleri başkanı ezatullah sadat' ın beylikdüzü belediye başkan adayı olması durumu.",
+      "has_external_url": false
+    }
+  ]
+}

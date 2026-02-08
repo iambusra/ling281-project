@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T21:59:14.276088",
+    "total_entries": 4,
+    "input": "deprem için 30 milyon dolar bağışlayan pakistanlı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "deprem için 30 milyon dolar bağışlayan pakistanlı",
+      "entry_id": "149119918",
+      "author": "jacknex",
+      "date": "12.02.2023 07:27 ~ 07:31",
+      "content": "bağışlayan kişi adının bilinmesini istememiş, bağış tam 564 milton türk lirası.\n\namerika büyükelçisi murat mercan, pakistanlı bir işadamının depremlerden etkilenenler için 30 milyon dolar bağışladığını söyledi.\n\nkaynak: https://www.diken.com.tr/…an-30-milyon-dolar-bagis/",
+      "has_external_url": true
+    },
+    {
+      "title": "deprem için 30 milyon dolar bağışlayan pakistanlı",
+      "entry_id": "149119969",
+      "author": "kurumsal yazar",
+      "date": "12.02.2023 07:33",
+      "content": "umarım ihtiyaç sahiplerine zamanında ve eksiksiz ulaşır. yoksa kimin ne kadar bağış yaptığı önemli değil.",
+      "has_external_url": false
+    },
+    {
+      "title": "deprem için 30 milyon dolar bağışlayan pakistanlı",
+      "entry_id": "149236813",
+      "author": "bi dinle hele",
+      "date": "14.02.2023 10:46",
+      "content": "bu kişiyle ilgili çok haber var ancak hiçbirisinde en ufak bir detay yok. anlatılanlara göre adam elinde 30 milyon dolar nakit para olan çantayla konsolosluğa geliyor ve çantayı bırakıp gidiyor, bu sırada da adının gizli tutulması gerektiğini söylüyor.\n\nbağışının hangi kuruma yapıldığı net değil, bir bilgiye ulaşamadım, bunun yanında daha da ilginç olanı bu kişinin bağışı banka üzerinden değil de nakit para ile yapması. amerika gibi vergi ve kara para aklama prosedürlerinin inanılmaz katı olduğu bir yer için çok çok ilginç bir seçim.\n\nyani anlaşılan o ki ya bu hikaye tamamen uydurma ve bir pr işi çünkü hiçbir detay yok bağışla ilgili, ya da birisinin elinde abd'den çıkaramadığı bir kara para vardı ve onu bir şekilde bağış adı altında akladı.\n\nhangisi bu şıklardan daha kötü emin olamadım.",
+      "has_external_url": false
+    },
+    {
+      "title": "deprem için 30 milyon dolar bağışlayan pakistanlı",
+      "entry_id": "149382414",
+      "author": "brnsn",
+      "date": "16.02.2023 23:11",
+      "content": "keşke kübalı ya da israilli falan olsaydı değil mi. ama pakistanlı.\n\nteşekkür ederiz, minnettarız de geç. yorumlara bak. bu kadar mı insaftan insanlıktan uzaksınız.",
+      "has_external_url": false
+    }
+  ]
+}

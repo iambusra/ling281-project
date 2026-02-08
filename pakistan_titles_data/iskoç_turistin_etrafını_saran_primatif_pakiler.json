@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:01:06.868694",
+    "total_entries": 2,
+    "input": "iskoç turistin etrafını saran primatif pakiler",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "iskoç turistin etrafını saran primatif pakiler",
+      "entry_id": "136955863",
+      "author": "alla turca",
+      "date": "03.05.2022 14:54 ~ 14:55",
+      "content": "istiklal caddesi'nden pek de bir farkı olmayan görüntüler.\n\nönce akp, sonra da geçici sığınmacılar gidecek. başka çıkış yolu yok.",
+      "has_external_url": false
+    },
+    {
+      "title": "iskoç turistin etrafını saran primatif pakiler",
+      "entry_id": "136955903",
+      "author": "theyseemerollin",
+      "date": "03.05.2022 14:55",
+      "content": "allah affetsin bir tanesinin suratında meymenet olmayan pakilerdir.",
+      "has_external_url": false
+    }
+  ]
+}

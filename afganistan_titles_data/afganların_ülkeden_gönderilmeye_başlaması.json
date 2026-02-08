@@ -1,0 +1,68 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:07:56.099115",
+    "total_entries": 7,
+    "input": "afganların ülkeden gönderilmeye başlaması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "afganların ülkeden gönderilmeye başlaması",
+      "entry_id": "141016571",
+      "author": "severge sek",
+      "date": "07.08.2022 23:50",
+      "content": "07 ağustos itibariyle gerçekleştiği bilgisi gelen eylemdir. demin arkadaşımdan aldığım bilgiye göre polisler tuzla bölgesinde kimlik ve çeşitli sorgulamalar yapıyor ve afganların tespiti sonrasında ülkelerine gönderilmek üzere topluyor.\n\nbölge: istanbul - tuzla organize sanayiiler bölgesi.\n\nkaynak bulabilen veya bu olayı doğrulayacak yazarlar ya da çaylaklar mesaj bırakabilirler. bu başlığa kaynak olarak eklenecektir.",
+      "has_external_url": false
+    },
+    {
+      "title": "afganların ülkeden gönderilmeye başlaması",
+      "entry_id": "141016765",
+      "author": "hayattagordugumenobjektifadambenim",
+      "date": "07.08.2022 23:53",
+      "content": "(bkz: bir arkadaşımdan aldığım kesin bilgiye göre gazeteciliği)",
+      "has_external_url": false
+    },
+    {
+      "title": "afganların ülkeden gönderilmeye başlaması",
+      "entry_id": "141016981",
+      "author": "chubbygirl",
+      "date": "07.08.2022 23:57 ~ 08.08.2022 09:00",
+      "content": "dün gece şekerpınar gişelerde çok rahat yürüyen mülteciler vardı.\nedit1:sabah organize sanayi tarafındaydım ve polis çevirmesi görmedim.",
+      "has_external_url": false
+    },
+    {
+      "title": "afganların ülkeden gönderilmeye başlaması",
+      "entry_id": "141017057",
+      "author": "aulutrene",
+      "date": "07.08.2022 23:58",
+      "content": "şekerpınar'da gayet rahat takılıyorlar.",
+      "has_external_url": false
+    },
+    {
+      "title": "afganların ülkeden gönderilmeye başlaması",
+      "entry_id": "141017176",
+      "author": "gok nerede",
+      "date": "08.08.2022 00:00",
+      "content": "iddia kısmen doğrudur. polislerin kişileri yakalayıp ülkelerine göndermek için çalışmaları bulunuyor. afganların çoğunu hastahaneye getirdiklerini gözümle görmüştüm.",
+      "has_external_url": false
+    },
+    {
+      "title": "afganların ülkeden gönderilmeye başlaması",
+      "entry_id": "141017367",
+      "author": "zllictbl dat",
+      "date": "08.08.2022 00:02",
+      "content": "suriyeliler bugün bazı afganları çatalla yemek yerken görmüşler, araplığa mukavemetten cimer'e şikayet etmişler. cimer de derhal gerekli işlemleri başlatma noktasında eyleme geçmiş.",
+      "has_external_url": false
+    },
+    {
+      "title": "afganların ülkeden gönderilmeye başlaması",
+      "entry_id": "141017533",
+      "author": "kerhanecisarhosumbugece",
+      "date": "08.08.2022 00:04",
+      "content": "boşverin onları da siz kendinize sahip çıkın. yunanistan'a kaçak girmeye çalışıp dayak yiyen konya'lı gibi olmanız işten bile değil bu siyasetle. ne afganları ne surileri ne de diğerlerini gönderirler ülkeden. olan yine bize olur.",
+      "has_external_url": false
+    }
+  ]
+}

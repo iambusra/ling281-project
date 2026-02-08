@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:02:54.080638",
+    "total_entries": 1,
+    "input": "dp genel başkanının afganlı ev sahibi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "dp genel başkanının afganlı ev sahibi",
+      "entry_id": "142080672",
+      "author": "korkmazs",
+      "date": "01.09.2022 07:50",
+      "content": "dp genel başkanı gültekin uysal’ın afganlı ev sahibi, “afganistan’dan akrabalarım gelecek” diyerek, evin boşaltılmasını istedi. uysal, başka bir eve taşındı.\ngülermisin ağlarmısın",
+      "has_external_url": false
+    }
+  ]
+}

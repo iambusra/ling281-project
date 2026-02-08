@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:05:47.023262",
+    "total_entries": 1,
+    "input": "parkta oturup çocukları kayda geçen afganlar",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "parkta oturup çocukları kayda geçen afganlar",
+      "entry_id": "137402531",
+      "author": "son of a cingil",
+      "date": "13.05.2022 19:32",
+      "content": "vatanım memleketim...",
+      "has_external_url": false
+    }
+  ]
+}

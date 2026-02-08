@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:08:40.766195",
+    "total_entries": 1,
+    "input": "mülteciden mücahite afganlarla ilgili bir çalışma",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "mülteciden mücahite afganlarla ilgili bir çalışma",
+      "entry_id": "126533618",
+      "author": "strawberryblonde",
+      "date": "04.08.2021 23:14",
+      "content": "pakistanlı akademisyen dr. fazal-ur-rahim khan marwat tarafından 2005 yılında yayımlanmış bir çalışma. başlık sınırı nedeniyle adını kısaltmak zorunda kaldım. bendeki ingilizce kopyasının adı şöyle:\nfrom muhajir to mujahid, politics of war through aid: a case study of afghan refugees in nwfp\ndr. marwat bu kitapta seksenlerde sığınmacı olarak pakistan'a gelen afgan mültecilerin yabancı istihbarat servislerinin yönlendirmesiyle nasıl siyasal islam teröristlerine dönüştürüldüğünü anlatıyor.\npakistan bizim geçtiğimiz yollardan geçmiş. muhalif siyasetçilerimiz ülkemizin son günlerde maruz kaldığı afgan akının sadece ülkede demografiyi değiştirmekle sınırlı kalmayıp çok daha ağır sonuçlar doğuracağını fark edip bu korkunç gelişmeyi engellemek için ellerinden geleni yapmalı.",
+      "has_external_url": true
+    }
+  ]
+}

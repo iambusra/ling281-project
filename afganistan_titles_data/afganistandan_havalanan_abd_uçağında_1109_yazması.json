@@ -1,0 +1,52 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:08:56.110042",
+    "total_entries": 5,
+    "input": "afganistandan havalanan abd uçağında 1109 yazması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "afganistandan havalanan abd uçağında 1109 yazması",
+      "entry_id": "127064414",
+      "author": "voyvoda",
+      "date": "18.08.2021 19:26",
+      "content": "(bkz: q33ny)",
+      "has_external_url": false
+    },
+    {
+      "title": "afganistandan havalanan abd uçağında 1109 yazması",
+      "entry_id": "127064450",
+      "author": "iskenderkebap ii",
+      "date": "18.08.2021 19:27",
+      "content": "buyuk resmi gorenlerde bugun\n\n(bkz: 1109)",
+      "has_external_url": false
+    },
+    {
+      "title": "afganistandan havalanan abd uçağında 1109 yazması",
+      "entry_id": "127064761",
+      "author": "kayitsiz ol",
+      "date": "18.08.2021 19:37",
+      "content": "abd'de tarih yazım formatlarının ne olduğundan bir haber yazar senaryosu.",
+      "has_external_url": false
+    },
+    {
+      "title": "afganistandan havalanan abd uçağında 1109 yazması",
+      "entry_id": "127066598",
+      "author": "cyrus the small",
+      "date": "18.08.2021 20:38",
+      "content": "nine-eleven da mı duymadın be kardeşim dedirten başlık",
+      "has_external_url": false
+    },
+    {
+      "title": "afganistandan havalanan abd uçağında 1109 yazması",
+      "entry_id": "127116135",
+      "author": "cmrdlny93",
+      "date": "20.08.2021 00:54",
+      "content": "bütün sırrı bozan spikerin açıklamalarıdır.\nsadece linç yiyeceği de aşikardır.",
+      "has_external_url": false
+    }
+  ]
+}

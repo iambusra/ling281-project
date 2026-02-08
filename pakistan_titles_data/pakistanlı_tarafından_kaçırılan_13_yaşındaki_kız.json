@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:00:36.627187",
+    "total_entries": 1,
+    "input": "pakistanlı tarafından kaçırılan 13 yaşındaki kız",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "pakistanlı tarafından kaçırılan 13 yaşındaki kız",
+      "entry_id": "137119360",
+      "author": "modernhayatinklisesi",
+      "date": "07.05.2022 01:12",
+      "content": "sürekli gündem de tutulması gereken başlık.",
+      "has_external_url": false
+    }
+  ]
+}

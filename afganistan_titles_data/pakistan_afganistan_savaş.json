@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:01:10.292791",
+    "total_entries": 4,
+    "input": "pakistan afganistan savaş",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "pakistan afganistan savaş",
+      "entry_id": "171418538",
+      "author": "animalforanalysts",
+      "date": "28.12.2024 21:34",
+      "content": "eli kulağında olan savaş.",
+      "has_external_url": false
+    },
+    {
+      "title": "pakistan afganistan savaş",
+      "entry_id": "171418612",
+      "author": "daycobudeska",
+      "date": "28.12.2024 21:38",
+      "content": "tüm dünyanın tek dileği birbirlerini yok ederek dünya sahnesinden silinmeleri olacaktır.",
+      "has_external_url": false
+    },
+    {
+      "title": "pakistan afganistan savaş",
+      "entry_id": "171418741",
+      "author": "djebel",
+      "date": "28.12.2024 21:42",
+      "content": "gerçekleşmesi halinde hangi ülkenin askerlerinin cennete gideceğini merak ettiğim savaş!!!",
+      "has_external_url": false
+    },
+    {
+      "title": "pakistan afganistan savaş",
+      "entry_id": "171419134",
+      "author": "emeklininbiri",
+      "date": "28.12.2024 21:53",
+      "content": "afgan kaçaklardan sonra paki kaçaklara sıra geleceğinin alameti. eee gidecek surilerin yerini doldurmak lazımdı tabi.",
+      "has_external_url": false
+    }
+  ]
+}

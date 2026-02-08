@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:03:27.669867",
+    "total_entries": 3,
+    "input": "haziran 2022 pakistan sel felaketi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "haziran 2022 pakistan sel felaketi",
+      "entry_id": "141950528",
+      "author": "brobi wan kenobi",
+      "date": "29.08.2022 12:10 ~ 12:10",
+      "content": "tam tarih yok çünkü haziran ayından beri süregelen bir gelişme.\nyaklaşık 15 gündür anormal şiddette devam eden muson yağmurları sonucu şu ana kadar 1000 kişi hayatını kaybetmiş.\n\nbizi daha çok tedirgin eden kısımsa şöyle:\n- 300 bin kişi evinden olmuş.\n- dolaylı olarak etkilenen insan sayısı yaklaşık 30 milyon olarak tahmin ediliyor.\nbbc haberi\n\nhavalar da güzelken türkiye'ye yeni bir göç dalgası gelebilir. zaten gün aşırı tem'de kamyondan 100'er kişi inip dağılıyor.\n\nbu konu çok ciddi: orta asya ve orta doğu'da doğal afet, su krizi, iklim felaketi yaşayan soluğu türkiye'de alıyor. bunu yanında enflasyon, kapıdaki enerji ve gıda krizi yeni bir kavimler göçünü tetikleyebilir.\navrupa birliği ile akp de sınırdan mayın temizliği yapmak için var güçleriyle çalışsın.",
+      "has_external_url": true
+    },
+    {
+      "title": "haziran 2022 pakistan sel felaketi",
+      "entry_id": "141950702",
+      "author": "takanze",
+      "date": "29.08.2022 12:15",
+      "content": "batı medyasının üstünü kapattığı haberlerden yalnızca biridir. bir taraftan da kendi cahilliklerine, eğitimsizliklerine ve rant sevdalarına kurban olan halkın yaşadığı felakettir. tanıdık geldi mi?\n\n\"yetkililer, sel felaketinde iklim değişikliğinin etkisinden söz ediyor. ancak belediyelerin planlama eksikliği ve inşaatların sel alanlarında yapılmasının da kayıpları artırdığı belirtiliyor.\"",
+      "has_external_url": false
+    },
+    {
+      "title": "haziran 2022 pakistan sel felaketi",
+      "entry_id": "141985293",
+      "author": "bilal reyiz",
+      "date": "30.08.2022 01:02",
+      "content": "pakistan uluslararası kuruluşlardan yardım istemiş ve yüzbinlerce insanın mülteci durumuna düşmesi bekleniyormuş.\n\nhttps://edition.cnn.com/…tation-intl-hnk/index.html",
+      "has_external_url": true
+    }
+  ]
+}

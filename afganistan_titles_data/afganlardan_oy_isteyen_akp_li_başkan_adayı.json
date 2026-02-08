@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:07:36.495819",
+    "total_entries": 2,
+    "input": "afganlardan oy isteyen akp'li başkan adayı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "afganlardan oy isteyen akp'li başkan adayı",
+      "entry_id": "162942735",
+      "author": "babilli gilgamis",
+      "date": "30.03.2024 02:05",
+      "content": "akp beylikdüzü belediye başkan adayı mustafa günaydın, belediye seçimleri için afganlardan oy istemiş. belediyeyi aldıklarında afganlara danışmanlık verip, belediyede temsil hakkı vereceklermiş.\n\nafganlardan oy dilenen akp'li başkan\n\nyorum yok. sadece yazıklar olsun!",
+      "has_external_url": true
+    },
+    {
+      "title": "afganlardan oy isteyen akp'li başkan adayı",
+      "entry_id": "162943059",
+      "author": "nothing is coming",
+      "date": "30.03.2024 02:20",
+      "content": "din kardeşlerimize olan aşkını mikrofon ile ilan eden başkan adayıdır.\n\ngelecek etkinlikler için çeviri yerine altyazı düşünülebilir",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:00:48.120170",
+    "total_entries": 1,
+    "input": "yecüc mecüc'ün afgan ve pakiler olma ihtimali",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "yecüc mecüc'ün afgan ve pakiler olma ihtimali",
+      "entry_id": "153854589",
+      "author": "engineerdolma",
+      "date": "24.06.2023 16:58",
+      "content": "onu bunu bilmem ama insanlıktan nasiplerini almamışlar.",
+      "has_external_url": false
+    }
+  ]
+}

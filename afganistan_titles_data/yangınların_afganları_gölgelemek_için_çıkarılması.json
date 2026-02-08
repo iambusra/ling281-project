@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:07:06.089500",
+    "total_entries": 1,
+    "input": "yangınların afganları gölgelemek için çıkarılması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "yangınların afganları gölgelemek için çıkarılması",
+      "entry_id": "126409925",
+      "author": "twister89",
+      "date": "02.08.2021 00:07",
+      "content": "tek entrysi, bu başlık olan yazar sıçmığı..\n\n(bkz: başlıkları engelle) sadece başlıklar. zaten başka bir şey çıkmaz bundan.",
+      "has_external_url": false
+    }
+  ]
+}

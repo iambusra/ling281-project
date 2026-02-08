@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:06:08.747147",
+    "total_entries": 1,
+    "input": "kaza yapan tırdaki kaçak afganlar",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "kaza yapan tırdaki kaçak afganlar",
+      "entry_id": "131356841",
+      "author": "dunboktubugun",
+      "date": "20.12.2021 17:01",
+      "content": "izmir'de bir evin duvarına çarpan kamyondan 80'e yakın afgan ve pakistanlı kaçak çıktı. kaçakların brandayı yırtarak kamyon kasasından çıktığı ve mahalleye dağıldığı görüldü. polis ekiplerinin 50 kaçağı yakaladığı öğrenildi.\ngeliyor gelmekte olan\nlink",
+      "has_external_url": true
+    }
+  ]
+}

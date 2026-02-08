@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:08:41.538686",
+    "total_entries": 1,
+    "input": "arka sokaklar mesut'un afganlarla kavgası",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "arka sokaklar mesut'un afganlarla kavgası",
+      "entry_id": "126376118",
+      "author": "nekrop pasa",
+      "date": "01.08.2021 02:06",
+      "content": "adamlar pisliğin teki çıktı rıza baba!",
+      "has_external_url": false
+    }
+  ]
+}

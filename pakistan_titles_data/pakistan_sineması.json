@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:02:41.458287",
+    "total_entries": 3,
+    "input": "pakistan sineması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "pakistan sineması",
+      "entry_id": "32204941",
+      "author": "historien",
+      "date": "16.02.2013 17:12",
+      "content": "(bkz: zibahkhana)",
+      "has_external_url": false
+    },
+    {
+      "title": "pakistan sineması",
+      "entry_id": "57232290",
+      "author": "historien",
+      "date": "25.12.2015 21:45",
+      "content": "(bkz: lollywood)",
+      "has_external_url": false
+    },
+    {
+      "title": "pakistan sineması",
+      "entry_id": "162810254",
+      "author": "mini double",
+      "date": "25.03.2024 22:19 ~ 05.05.2025 22:30",
+      "content": "ekşi sözlük'te şimdiye kadar önerilmiş pakistan sineması filmlerini bu entry'de bulabilirsiniz:\n\nadet:1\n\n1.zibahkhana(14 mayıs 2007)\n(ekşi sözlük'te bakılan son entry: mini double tarafından 25.03.2024 22:19 ~ 12.10.2024 17:56’da)",
+      "has_external_url": false
+    }
+  ]
+}

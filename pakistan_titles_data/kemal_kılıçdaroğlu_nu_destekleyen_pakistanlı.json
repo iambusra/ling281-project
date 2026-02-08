@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T21:59:13.461398",
+    "total_entries": 2,
+    "input": "kemal kılıçdaroğlu'nu destekleyen pakistanlı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "kemal kılıçdaroğlu'nu destekleyen pakistanlı",
+      "entry_id": "152860953",
+      "author": "beterinbeterivar",
+      "date": "27.05.2023 10:55",
+      "content": "oy kullanamıyor ama bu arkadaş bile anlamış neyin ne olduğunu. değişim şart. *",
+      "has_external_url": true
+    },
+    {
+      "title": "kemal kılıçdaroğlu'nu destekleyen pakistanlı",
+      "entry_id": "152862761",
+      "author": "bayan daisy",
+      "date": "27.05.2023 12:04 ~ 12:18",
+      "content": "pakisi bile anlamış mevzuyu, kira artışından şikayet ediyor.. darısı bizim akıl yoksunlarımızın başına..",
+      "has_external_url": false
+    }
+  ]
+}

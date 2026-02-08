@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:02:18.013004",
+    "total_entries": 1,
+    "input": "afganistan özgürlük cephesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "afganistan özgürlük cephesi",
+      "entry_id": "145628410",
+      "author": "jol no doo",
+      "date": "27.11.2022 18:42",
+      "content": "dünyanın en rezil adamlarına karşı ülkelerini geri kazanmaya çalışan yurtseverlerin kurmuş oldukları direniş ve özgürlük cephesidir. ortaçağ artığı totoşlar belki zorbalıkla geldikleri iktidarı bir süre daha muhafaza edecekler ama artık rahat değiller.",
+      "has_external_url": true
+    }
+  ]
+}

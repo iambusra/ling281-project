@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T21:59:32.616756",
+    "total_entries": 3,
+    "input": "pakistanlı vekillerin türkiye'ye maaş bağışı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "pakistanlı vekillerin türkiye'ye maaş bağışı",
+      "entry_id": "148775787",
+      "author": "entrycii",
+      "date": "07.02.2023 23:24",
+      "content": "pakistan hükümeti memurların bir günlük, vekillerin ise bir aylık maaşlarını türkiye'ye bağışlayacaklarmış. bizim çok çalışmaktan fıtık olmuş vekiller ne yapacak bakalım.\nhttps://twitter.com/…?t=nqygy2_8hcxauwskodqdha&s=19",
+      "has_external_url": true
+    },
+    {
+      "title": "pakistanlı vekillerin türkiye'ye maaş bağışı",
+      "entry_id": "148776336",
+      "author": "kulturlu",
+      "date": "07.02.2023 23:31",
+      "content": "pakistanlı bir işadamı da 30 milyon dolar bağışta bulundu. gerçekten bu ülke için katkıları büyük. zamanında atatürk'e de yardım etmişlerdi. vefakar bir milletler.",
+      "has_external_url": false
+    },
+    {
+      "title": "pakistanlı vekillerin türkiye'ye maaş bağışı",
+      "entry_id": "148785989",
+      "author": "bilge kaplumbaga",
+      "date": "08.02.2023 01:41",
+      "content": "(bkz: dost ve kardeş ülke pakistan)",
+      "has_external_url": false
+    }
+  ]
+}

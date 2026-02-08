@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:07:09.472184",
+    "total_entries": 3,
+    "input": "hatay'da suriyelilerin afganları protesto etmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "hatay'da suriyelilerin afganları protesto etmesi",
+      "entry_id": "75892585",
+      "author": "medetres",
+      "date": "10.04.2018 17:50",
+      "content": "dolu minibüse kendinden sonra binenlere mülteci muamelesi yapan insanlarımızdan sonra hiç garip gelmedi.",
+      "has_external_url": false
+    },
+    {
+      "title": "hatay'da suriyelilerin afganları protesto etmesi",
+      "entry_id": "75901297",
+      "author": "murat yuzyirmidordunu satan bilge",
+      "date": "10.04.2018 22:55",
+      "content": "yedikleri milyonlara ortak geliyor diye korkmuşlardır. gelin gelin, hepiniz gelin amk, türkiye cumhuriyeti'nin malı deniz (yi)yemeyen zaten türk... osmanlı bile bu kadar aşağılamamıştı bu türk adını ve türk'ü...",
+      "has_external_url": false
+    },
+    {
+      "title": "hatay'da suriyelilerin afganları protesto etmesi",
+      "entry_id": "75901443",
+      "author": "vercingetorixxi",
+      "date": "10.04.2018 22:59",
+      "content": "yalandır. ilgili sıçmıktaki görselin hakikisi;\n\nhttps://img.haberler.com/…protesto--7856729_x_o.jpg\n\nhaber;\n\nhttps://www.haberler.com/…esto-etti-7856729-haberi/",
+      "has_external_url": true
+    }
+  ]
+}

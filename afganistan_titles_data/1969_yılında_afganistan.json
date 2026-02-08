@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:02:42.040658",
+    "total_entries": 1,
+    "input": "1969 yılında afganistan",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "1969 yılında afganistan",
+      "entry_id": "133279921",
+      "author": "discrepance",
+      "date": "04.02.2022 08:39",
+      "content": "1969 yılında afganistan'da sovyet eli değdi. ve kültür medeniyet yükseldi. afganlar din elden gidiyor diyerek talibanı ülkeye çağırdı. sscb ve afganistan 10 yıl savaştı. nankör afgan halkına bugün kimse haklı olarak yardım etmiyor",
+      "has_external_url": false
+    }
+  ]
+}

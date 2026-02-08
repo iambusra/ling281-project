@@ -1,0 +1,815 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:02:38.643895",
+    "total_entries": 100,
+    "input": "22 mayıs 2020 pakistan yolcu uçağı kazası",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "22 mayıs 2020 pakistan yolcu uçağı kazası",
+      "entry_id": "107608768",
+      "author": "uzun kulakli solucan",
+      "date": "22.05.2020 13:24 ~ 14:33",
+      "content": "doğrulanmış video:\n\nşehre baya yakın düşmüş. twitter'de gezen tüm videolarda sadece dumanlar çıktığı görünüyor, uçakla alakalı bir görsel henüz göremedim o yüzden doğruluğunu teyit edene kadar paylaşmayacağım. eğer videolar doğruysa baya yerleşim yerine binaların üstüne düşmüş gibi duruyor.",
+      "has_external_url": true
+    },
+    {
+      "title": "22 mayıs 2020 pakistan yolcu uçağı kazası",
+      "entry_id": "107608770",
+      "author": "sol ayak tarak kemigi",
+      "date": "22.05.2020 13:24 ~ 13:27",
+      "content": "(bkz: uçak düşerken ekşi'de başlık açmak)\n\ngörüntüler doğruysa binaların üzerine düşmüş. olabilecek en kötü senaryo yaşandıysa olay çok korkutucu.",
+      "has_external_url": false
+    },
+    {
+      "title": "22 mayıs 2020 pakistan yolcu uçağı kazası",
+      "entry_id": "107608771",
+      "author": "umutck",
+      "date": "22.05.2020 13:24 ~ 14:56",
+      "content": "2020 felaket yili olmaya devam ediyor.düşen uçak kendini kanıtlamış bir airbus 320 olunca aklima pilotaj hatasi geliyor.\n\nedit:düşen uçağın fotoğrafı\n\ngörsel",
+      "has_external_url": true
+    },
+    {
+      "title": "22 mayıs 2020 pakistan yolcu uçağı kazası",
+      "entry_id": "107609036",
+      "author": "bekir bakir",
+      "date": "22.05.2020 13:31 ~ 14:18",
+      "content": "2020 kötü haberleriyle devam ediyor, geçmiş olsun çok kötü gerçekleşmiş kazadır.\n\nedit: bölgede bayram alışverişi dolayısıyla yoğunluk da varmış maalesef.",
+      "has_external_url": false
+    },
+    {
+      "title": "22 mayıs 2020 pakistan yolcu uçağı kazası",
+      "entry_id": "107609046",
+      "author": "lyonais",
+      "date": "22.05.2020 13:31 ~ 13:43",
+      "content": "yerleşim yerine düşen uçağın 107 yolcusu olduğu bildiriliyor.\ndilerim düştüğü yerde çok can kaybı olmamıştır, kayıp uçuş ekibi ve yolcularla sınırlı kalır.\nuçağın a320 olduğuna dair henüz ekşi dışında pek bilgi yok.\neğer doğruysa a320 uzun bir aradan sonra ölümlü bir kazaya karıştı diyebiliriz.\n\nedit: az önce cnnturk 320 dedi, yazar arkadaş da 320 olduğu bilgisine flightradar üzerinden ulaşmış. üzgünüm 320, seri buraya kadarmış.",
+      "has_external_url": false
+    },
+    {
+      "title": "22 mayıs 2020 pakistan yolcu uçağı kazası",
+      "entry_id": "107609096",
+      "author": "yoyozone",
+      "date": "22.05.2020 13:32",
+      "content": "2020 devam ediyor dedirten kazadır. geçmiş olsun, umarız kayıplar az olur",
+      "has_external_url": false
+    },
+    {
+      "title": "22 mayıs 2020 pakistan yolcu uçağı kazası",
+      "entry_id": "107609197",
+      "author": "maximus decimus meridius",
+      "date": "22.05.2020 13:34 ~ 13:36",
+      "content": "maalesef yerleşim yerine düşmüş uçak. 107'den fazla olabilir ölü sayısı. görüntüler dehşet verici. uçakların yerleşim yerlerine düşmesi çok nadirdir, o yüzden maksimum kayıp genelde uçaktaki yolcu ve mürettebat kadardır. fakat bu vakada mahallede çay içerken üzerine uçak düşen insanlar olma ihtimali var. dilerim en az kayıpla atlatılır..",
+      "has_external_url": false
+    },
+    {
+      "title": "22 mayıs 2020 pakistan yolcu uçağı kazası",
+      "entry_id": "107609199",
+      "author": "trmert",
+      "date": "22.05.2020 13:34 ~ 14:01",
+      "content": "araştırma/analiz olmadan pilotaj/insan hatası demek, havacılığın h'sinden anlamayanların yapacağı yorumdur.\n\ntanım: pia uçağının karaçi'de yerleşim bölgesine düşmesi olayıdır.\n\neditto: flightradar24 verilerine göre pk8303 lahor-karaçi seferi, ap-bld tescilli a320-214 tipi uçakta görünüyor. statusu de unknown'a dönmüş vaziyette.\n\ngörsel",
+      "has_external_url": true
+    },
+    {
+      "title": "22 mayıs 2020 pakistan yolcu uçağı kazası",
+      "entry_id": "107609304",
+      "author": "slog",
+      "date": "22.05.2020 13:37 ~ 13:40",
+      "content": "pia havayollarına ait a320-200 tipi ap-bld kuyruk kodlu uçak, lahordan karaçiye pk8303 nolu seferi yapıyormuş. 99 yolcu ve 9 mürettebat bulunduğu söyleniyor. ilk deneme iniş takimları açılmadığı için go around yapıp ikinci denemede düşmüştür bilgisi geçildi.\n\nedit: imla",
+      "has_external_url": false
+    },
+    {
+      "title": "22 mayıs 2020 pakistan yolcu uçağı kazası",
+      "entry_id": "107609351",
+      "author": "yoyozone",
+      "date": "22.05.2020 13:38",
+      "content": "airbus a320, iniş takımları ile ilgili yaşadığı problem sonrası, yaklaşmayı iptal etmek istiyor. sonradan irtifa kaybedip yerleşim alanına düşüyor anlaşıldığı kadarı ile kaynaktan.\n\nkaynak: avherald",
+      "has_external_url": true
+    },
+    {
+      "title": "22 mayıs 2020 pakistan yolcu uçağı kazası",
+      "entry_id": "107609365",
+      "author": "nickim mickim yoktur",
+      "date": "22.05.2020 13:38",
+      "content": "2020 siksin sizi. her türlü olaya 2020 türküsü tutturmuşlar. doğal afetler olsa anlarımda uçak kazasınada 2020 esprisi kasma amk.",
+      "has_external_url": false
+    },
+    {
+      "title": "22 mayıs 2020 pakistan yolcu uçağı kazası",
+      "entry_id": "107609381",
+      "author": "ignotus peverell",
+      "date": "22.05.2020 13:39",
+      "content": "görüntülerdeki uçak a320 değil, bombardier markasına ait bir modeldir.",
+      "has_external_url": false
+    },
+    {
+      "title": "22 mayıs 2020 pakistan yolcu uçağı kazası",
+      "entry_id": "107609395",
+      "author": "ifitsnotboeingiamnotgoing",
+      "date": "22.05.2020 13:39",
+      "content": "bir başımıza uçak düşmediği kalmıştı, o da oldu.",
+      "has_external_url": false
+    },
+    {
+      "title": "22 mayıs 2020 pakistan yolcu uçağı kazası",
+      "entry_id": "107609396",
+      "author": "matilda effect",
+      "date": "22.05.2020 13:39",
+      "content": "pilotun teknik bir sorun bildirdikten sonra düştüğü uçak,\n\nhttps://twitter.com/…tatus/1263775357599170560?s=19",
+      "has_external_url": true
+    },
+    {
+      "title": "22 mayıs 2020 pakistan yolcu uçağı kazası",
+      "entry_id": "107609496",
+      "author": "kogotune",
+      "date": "22.05.2020 13:42",
+      "content": "ya sokacam şu 2020 cilerin 2020 sine. bi salında insanlar bilgi alsın.",
+      "has_external_url": false
+    },
+    {
+      "title": "22 mayıs 2020 pakistan yolcu uçağı kazası",
+      "entry_id": "107609583",
+      "author": "yea1453",
+      "date": "22.05.2020 13:44",
+      "content": "ilk videoda ölüm dalışı yapar gibi irtifa kaybetmesinin mantıklı bir açıklaması var mı merak ettiğim olay.",
+      "has_external_url": false
+    },
+    {
+      "title": "22 mayıs 2020 pakistan yolcu uçağı kazası",
+      "entry_id": "107609679",
+      "author": "wehrmacht1942",
+      "date": "22.05.2020 13:46 ~ 13:54",
+      "content": "uzman birisi uçağın aniden yere dik şekilde manevra yaptığı olayı açıklayabilir mi? öylesine keskin bir manevra nasıl mümkün olabiliyor? ayrıca o manevradan sonra düzelmesi bile mümkün olmamalı. aklım almadı ilk videoyu.\n\nedit: ilk video fake arkadaşlar. dağılabiliriz.",
+      "has_external_url": false
+    },
+    {
+      "title": "22 mayıs 2020 pakistan yolcu uçağı kazası",
+      "entry_id": "107609789",
+      "author": "arap atli zenci polis",
+      "date": "22.05.2020 13:49",
+      "content": "havacılık sektörünü covid-19 sonrası normalleşme döneminde büyük bir sınav bekliyor. şu anda hangarlarda binlerce uçak var ve bu işin doğasına aykırı, bu uçakların faal bir şekilde çalışıyor olmaları gerek. uçakların bu şekilde beklemesi teknik açıdan bir çok sıkıntıya sebep olabilir.\n\nfelaket tellallığına gerek yok ancak uçuşlar açıldıktan sonra bu tarz haberler ile çok daha sık karşılaşabiliriz.",
+      "has_external_url": false
+    },
+    {
+      "title": "22 mayıs 2020 pakistan yolcu uçağı kazası",
+      "entry_id": "107609826",
+      "author": "kuzey pengueni",
+      "date": "22.05.2020 13:50",
+      "content": "maalesef insanların bu kazadan kurtulmaları pek mümkün görülmüyor.\nve olay yeri çok kalabalık, virüsün yayılmamasına imkan yok.",
+      "has_external_url": false
+    },
+    {
+      "title": "22 mayıs 2020 pakistan yolcu uçağı kazası",
+      "entry_id": "107609834",
+      "author": "saritele",
+      "date": "22.05.2020 13:50",
+      "content": "\"çakılma anı\" diye paylaşılan, burada suserın da paylaştığı video açıkça faketir, daha önce de paylaşıldı, ne olaydaki uçakla ne de yerle ilgisi var.",
+      "has_external_url": false
+    },
+    {
+      "title": "22 mayıs 2020 pakistan yolcu uçağı kazası",
+      "entry_id": "107609850",
+      "author": "rated",
+      "date": "22.05.2020 13:51",
+      "content": "uçağın birden dalışa geçmesi çok enteresan. nasıl bir teknik problem yaşandı acaba?\ngörüntüler çok kötü gerçekten.",
+      "has_external_url": false
+    },
+    {
+      "title": "22 mayıs 2020 pakistan yolcu uçağı kazası",
+      "entry_id": "107609905",
+      "author": "bir adet eksi sozluk yazari",
+      "date": "22.05.2020 13:52",
+      "content": "sikicem 2020'nizi bi susun lan.",
+      "has_external_url": false
+    },
+    {
+      "title": "22 mayıs 2020 pakistan yolcu uçağı kazası",
+      "entry_id": "107609915",
+      "author": "polene alerjisi olan ari",
+      "date": "22.05.2020 13:52",
+      "content": "ilk suçlanan kişinin yine pilot olacağı kazadır. çünkü sistem kusursuzdur.",
+      "has_external_url": false
+    },
+    {
+      "title": "22 mayıs 2020 pakistan yolcu uçağı kazası",
+      "entry_id": "107609983",
+      "author": "eben",
+      "date": "22.05.2020 13:54",
+      "content": "ilk entry'deki uçağın çakılma anı videosu fake arkadaşlar. görüntüdeki uçak kendi halinde iniş için alçalan bir uçak. tost makinası ile çekilmiş olduğu için de emin olamıyorum ancak zaten a320 de değil gibi.\n\no yere pike yapıyormuş gibi görünen anda ise çeken kişi kamerayı yan çeviriyor ve ortaya uçak bir anda baş aşağı dalıyormuş görütüsü çıkıyor. zaten uçağın kaybolduğu ana kadar izlerseniz kendisinin şehir üzerinde değil kırsal alan üzerinde alçalmakta olduğunu da görürsünüz.\n\nbu twitter'da takipçi ve görüntülenme kasan yavşak evlatları bir iki fazla tık için herşeyi yapıyorlar artık.\n\ndiğer \"korkunç\" görüntülerde de sadece sadece birkaç yıkılmış bina ve bir kaç küçük yangın var. kan, dehşet, katliam görüntüleri beklediğimden değil ama gayet kendi halinde bir iki yıkık bina gösterilen videoların nesi korkunç anlamadım. tam bir ucuz haber sitesi başlığı gib olmuş.",
+      "has_external_url": false
+    },
+    {
+      "title": "22 mayıs 2020 pakistan yolcu uçağı kazası",
+      "entry_id": "107609993",
+      "author": "ucap",
+      "date": "22.05.2020 13:54",
+      "content": "ilk gördüğüm uçağın net bir biçimde dalışa geçtiği. bu çok olası bir durum değil açıkcası uçağın yapısına aykırı bir hareket. burada iki ihtimal ortaya çıkıyor birincisi hidrolikte meydana gelen herhangi bir arıza ikinci ise bilinç bir hareket.\n\nuçağın arıza deklare ettiği söyleniyor eğer öyleyse birinci ihtimal ağırlık kazanır.\n\nbir kaç saate yeni bilgilere göre bu girdiyi düzenlerim.",
+      "has_external_url": false
+    },
+    {
+      "title": "22 mayıs 2020 pakistan yolcu uçağı kazası",
+      "entry_id": "107610037",
+      "author": "3dd",
+      "date": "22.05.2020 13:55",
+      "content": "bahsi geçen videoda uçak değil de kamera açısı değişiyor gibi. kameraman kamerayı çapraz çevirince uçak dalıyor gibi gözüküyor halbuki uçak video sonunda yere paralel.",
+      "has_external_url": false
+    },
+    {
+      "title": "22 mayıs 2020 pakistan yolcu uçağı kazası",
+      "entry_id": "107610046",
+      "author": "dnterdem",
+      "date": "22.05.2020 13:55 ~ 14:11",
+      "content": "görüntülere göre yerleşim yerine çok yakın umarım kurtulan olmuştur ama zor.\n\nedit. video kaldırıldı fake miş",
+      "has_external_url": false
+    },
+    {
+      "title": "22 mayıs 2020 pakistan yolcu uçağı kazası",
+      "entry_id": "107610112",
+      "author": "ona kucuk surprizler yap",
+      "date": "22.05.2020 13:56",
+      "content": "2020'de şaşırıyordur bu kadar felaketi üstlenmek kolay olmasa gerek.\n\nüzücü kazadır. sonu gelmiyor felaketlerin maalesef.",
+      "has_external_url": false
+    },
+    {
+      "title": "22 mayıs 2020 pakistan yolcu uçağı kazası",
+      "entry_id": "107610193",
+      "author": "dragonreborn",
+      "date": "22.05.2020 13:59",
+      "content": "uzun süre yerde kalan uçaklarda sorunlar ortaya çıkabileceğinin göstergesidir",
+      "has_external_url": false
+    },
+    {
+      "title": "22 mayıs 2020 pakistan yolcu uçağı kazası",
+      "entry_id": "107610356",
+      "author": "tayo",
+      "date": "22.05.2020 14:03",
+      "content": "uçağa binmemek için bir neden daha verdi bana sağ olsun.",
+      "has_external_url": false
+    },
+    {
+      "title": "22 mayıs 2020 pakistan yolcu uçağı kazası",
+      "entry_id": "107610397",
+      "author": "hayyamii",
+      "date": "22.05.2020 14:04",
+      "content": "iniş takımları geçici bir hidrolik sorun nedeni ile açılmamış olabilir, iniş pozisyonuna geçmiş uçağı yerleşim yerine düşürmek ya çok büyük bir mallik ya da stall gerektirir, baska bir izahı olamaz",
+      "has_external_url": false
+    },
+    {
+      "title": "22 mayıs 2020 pakistan yolcu uçağı kazası",
+      "entry_id": "107610456",
+      "author": "utku2019",
+      "date": "22.05.2020 14:06",
+      "content": "18 milyonluk megaşehir olan karaçi'ye şehrin içine binaların üstüne düşen 107 yolculu uçağın düşmesi dolayısıyla yaşanan kazadır",
+      "has_external_url": false
+    },
+    {
+      "title": "22 mayıs 2020 pakistan yolcu uçağı kazası",
+      "entry_id": "107610473",
+      "author": "efespixeltr",
+      "date": "22.05.2020 14:07 ~ 23.05.2020 00:25",
+      "content": "belirli bir hızın altına erişen uçağın kanatları kaldırma kuvvetine erişemez ve uçak uçma kabiliyetini kaybederek stall durumuna düşer. uçak hız kazanmak için böyle bir manevra yapıp hız kazanınca pilot, uçağın burnunu havaya kaldırmış olabilir. video bunu gösteriyor.\n\ndiğer videolara baktığımızda uçağın binaların üzerinden süpürerek geçtiğini ve ilerlediğini tahmin edebiliyoruz. 1. videoda uçağın yatay pozisyona geçmesi ve diğer videolar bu konuda biraz benzerlik taşıyor.\n\nçakılma videosu bu kazaya ait değilmiş başlık sahibi videoyu kaldırmış. açıklamalarım konu dışı kaldı video sundan bahsettim bilginize.",
+      "has_external_url": true
+    },
+    {
+      "title": "22 mayıs 2020 pakistan yolcu uçağı kazası",
+      "entry_id": "107610537",
+      "author": "alabamareyiz",
+      "date": "22.05.2020 14:08",
+      "content": "ucakta 99 yolcu,8 murettabat oldugu dogrulandi. havalimanina inmesi e 1 dakika kala ulkenin en buyuk sehrine dusmus ne yazik ki. bolgede bircok ev ve arac hasar gormus. muhtemelen olu sayisinin artacagi ucak kazasidir.",
+      "has_external_url": false
+    },
+    {
+      "title": "22 mayıs 2020 pakistan yolcu uçağı kazası",
+      "entry_id": "107610558",
+      "author": "ssg ve kanzuk ortak hesabi",
+      "date": "22.05.2020 14:09",
+      "content": "a320’lerde go around yaptıktan sonra otomatik pilot devre dışı kalmıyor, daha önce bu sebepten bi uçak daha düşmüştü, aynı sorun yaşanmış olabilir.",
+      "has_external_url": false
+    },
+    {
+      "title": "22 mayıs 2020 pakistan yolcu uçağı kazası",
+      "entry_id": "107610612",
+      "author": "valday",
+      "date": "22.05.2020 14:10 ~ 14:16",
+      "content": "sebebinin henuz belli olmadigi kaza.\n\nentry olarak \"bilgi almaya geldik ama bos muhabbeten alamiyoruz!\" girip baska bir bilgi girmeyenler de basligi, basliga hicbir entry girmeyen yazalar kadar kirletiyorlar, farkinda degiller. senin bu sitemin daha mi okunabilir kildi peki basligi? nedir? hatta ben de bu entry ile daha da kirlettim simdi sizin yuzunuzden. didisinin didisi resmen. ama en azindan bir amaca hizmet eder belki, bu sekilde basligi kirletenler azalahdusfjfd. saka lan saka, çöpe bir çöp de ben atiyorum iste. ne bok yiyorsaniz yiyin.",
+      "has_external_url": false
+    },
+    {
+      "title": "22 mayıs 2020 pakistan yolcu uçağı kazası",
+      "entry_id": "107610722",
+      "author": "ankaragucumegidiyor",
+      "date": "22.05.2020 14:13 ~ 14:26",
+      "content": "2020 ile hiçbir alakası olmayan kazadır.\ngelen geçen 2020'ye sallamış yok şöyle felaket yok böyle kötü sene, iyice mala bağladınız.\n\nolaydan bağımsız daha bu sabah nerden geldiyse aklıma geldi, acaba uzun zamandır görev yapmamak havacılık sektöründe çalışanlar için iyi mi yoksa kötü mü olacak diye.",
+      "has_external_url": false
+    },
+    {
+      "title": "22 mayıs 2020 pakistan yolcu uçağı kazası",
+      "entry_id": "107610953",
+      "author": "cok gezen adam",
+      "date": "22.05.2020 14:19 ~ 14:20",
+      "content": "dün akşam aklımda geçen; ulan çok şükür uçak kazası falan olmuyor şu illet başladığından beri ...... aklıma sıçayım.",
+      "has_external_url": false
+    },
+    {
+      "title": "22 mayıs 2020 pakistan yolcu uçağı kazası",
+      "entry_id": "107610993",
+      "author": "28061984",
+      "date": "22.05.2020 14:21",
+      "content": "2020 bugüne kadar nasıl bekledi ona hayret ediyordum zaten.",
+      "has_external_url": false
+    },
+    {
+      "title": "22 mayıs 2020 pakistan yolcu uçağı kazası",
+      "entry_id": "107611734",
+      "author": "assiz adam",
+      "date": "22.05.2020 14:39",
+      "content": "https://youtu.be/2aqmrixpity\n\nyukarıdaki gibi bir link buldum ama doğruluğundan emin değilim. doğruysa pas geçme sonrası ikinci yaklaşmada uçağın motorları durmuş ve süzülerek piste ulaşmaya çalışmışlar gibi.\n\ntanım: 2020 lanetinin devam ettiği üzücü kaza.",
+      "has_external_url": true
+    },
+    {
+      "title": "22 mayıs 2020 pakistan yolcu uçağı kazası",
+      "entry_id": "107611944",
+      "author": "istanbulian",
+      "date": "22.05.2020 14:45",
+      "content": "büyük olasılıkla ramazan bayramını kutlamak için memleketlerine giden yolculardı.\nallah rahmet eylesin ölenlere.",
+      "has_external_url": false
+    },
+    {
+      "title": "22 mayıs 2020 pakistan yolcu uçağı kazası",
+      "entry_id": "107612237",
+      "author": "sitki siyril",
+      "date": "22.05.2020 14:53",
+      "content": "(bkz: uçak kazaları dilek ve temenni başlığı)",
+      "has_external_url": false
+    },
+    {
+      "title": "22 mayıs 2020 pakistan yolcu uçağı kazası",
+      "entry_id": "107612249",
+      "author": "kozniku",
+      "date": "22.05.2020 14:54 ~ 23.05.2020 20:25",
+      "content": "sağ kurtulan (en az 1 kişi) olduğu yolunda bir duyum aldım, eğer doğruysa başka sağ kurtulanlar da olabilir.\n\ndeğilse çok sövmeyin, enty'yi silerim.\n\nedit: vali kurtulan yok açıklaması yapmış ama şöyle bir twit var, 2 kişi kurtuldu diyor.\n\nedit2: kurtulan yok maalesef\n\nedit3: ilk haber doğruymuş, 2 kişi kurtulmuş.",
+      "has_external_url": true
+    },
+    {
+      "title": "22 mayıs 2020 pakistan yolcu uçağı kazası",
+      "entry_id": "107612266",
+      "author": "ciciplusplus",
+      "date": "22.05.2020 14:54 ~ 20:59",
+      "content": "flightradar'dan bilgiler geldi. buna göre:\n\n- uçak 8'i 5 geçe lahor'dan havalanıyor.\n\n- 09.34'te 275 feet'e kadar alçaldığı bir iniş denemesi yapıyor ancak bu iniş iptal ediliyor. uçak tekrar yükseliyor.\n\n-2000 feet civarlarına kadar yükseldikten sonra tekrar alçalmaya başlıyor.\n\n-en son 525 feet yükseklikteyken uçağa ait sinyal kaybediliyor.\n\nilk iniş denemesinde 275 feet'e kadar alçaldıktan sonra inişin yapılmamasının ve tekrar 2000 feet'e çıkılmasının nedeni kokpit ve kule arasındaki iletişimden anlaşılacaktır muhtemelen. şu anki haliyle yorum yapmak mümkün değil.\n\nedit: kokpit konuşmaları yayınlanmış, motorların çalışmadığı ifadesi var. a320 için talihsiz bir durum gerçekten. özellikle covid-19 sebebiyle uzun süredir yerde kalan uçaklar için havacılık sektörü daha önce hiç tecrübe etmediği bir şeyle yüz yüze kalacak gibi görünüyor.\n\nedit2: flightradar verdikleri bilginin nispeten daha tutarlı olan ads-b değil mlat'ten geldiğini belirtmiş. buradaki fark şöyle ortaya çıkıyor:\n\nmlat, aynı uçak hakkında en az 4 vericiden gelen bilgileri, verinin gecikmesini de hesaplayarak bir araya getiriyor ve sanal bir konum ve hız bilgisi hesaplıyor. hesaplama yöntemiyle ancak 10 ila 20 metre kadar sapma olduğunu ve bu sapmanın da oldukça kabul edilebilir olduğunu paylaşmışlar.\n\nads-b ise uçağın kendi sağladığı bilgilerin iletilmesi demek. iç ekipmanın gördüğü, hesapladığı bilgiler yere iletiliyor ve doğal olarak bu bilgiler uçağın o anda bulunduğu durum hakkında çok daha detaylı ve doğru bilgiler içeriyor.\n\npakistan uçağında bu donanımın bulunduğu transponder'dan olmadığı için paylaşılan bilgiler kesik kesik ve mlat kaynaklı.",
+      "has_external_url": true
+    },
+    {
+      "title": "22 mayıs 2020 pakistan yolcu uçağı kazası",
+      "entry_id": "107612516",
+      "author": "birahalasoguk",
+      "date": "22.05.2020 15:00 ~ 16:36",
+      "content": "uçak ilk yaklaşmada iniş takımı problemi yüzünden pas geçiyor. alçalıp tekrar yükselme sebebi o. ikinci yaklaşmada ise acil durum ilan edip 2 motorun da durduğunu belirtiyor. sonrasında da düşüyor. 2 motor durması çok nadir bir olay. ya yakıt kaynaklı ya da darbe kaynaklı bir olay olması lazım. uçak yanarken yoğun siyah duman çıkıyor bu da yakıtın tam bitmediğine işaret ediyor olabilir. pas geçmek fazla yakıt yakan bir işlem ama uçakta zaten bu tip durumlar için ekstra yakıtlar hep olur. bir ihtimal yakıt pompalarında bir problem olabilir veya yakıt kontamine olmus, yakıt filtrelerinde bir problem olabilir. ön tahminim darbe kaynaklı bir problem olduğu yönünde kuş çarpması ve benzeri. pilot hatası olduğunu sanmıyorum 2 motoru hata ile durduramazsın.",
+      "has_external_url": false
+    },
+    {
+      "title": "22 mayıs 2020 pakistan yolcu uçağı kazası",
+      "entry_id": "107613317",
+      "author": "incecizgi",
+      "date": "22.05.2020 15:22 ~ 15:29",
+      "content": "karaçi belediye başkanı, düşen uçaktaki 107 kişiden kurtulan olmadığını açıkladı.",
+      "has_external_url": false
+    },
+    {
+      "title": "22 mayıs 2020 pakistan yolcu uçağı kazası",
+      "entry_id": "107614416",
+      "author": "masa alti sumugu",
+      "date": "22.05.2020 15:50",
+      "content": "korkunç bir kaza. olabilecek en kötü senaryo gerçekleşmiş. çok üzüldüm haberlere bakarken...",
+      "has_external_url": false
+    },
+    {
+      "title": "22 mayıs 2020 pakistan yolcu uçağı kazası",
+      "entry_id": "107614464",
+      "author": "whocanrulethewords",
+      "date": "22.05.2020 15:51",
+      "content": "hakkında en doğru ve gerçek bilgileri kazadan yaklaşık yarım saat sonra ekşi sözlük kaza kırım ekibi nden almaya başladığımız kazadır, yeni gelişmeler ve kaza raporları hızla eklenmeye devam etmektedir. pilotaj hatası denmiş, hidrolik problem denmiş, ortaya çıkan fake düşüş videosu sebebiyle olaya şüpheyle yaklaşanlar olmuş, binaların üstüne düşmesi sebebiyle terör saldırısı denmiş, otomatik pilotun çalışma prensipleriyle alakalı açıklama girilmiş, motorların bozulmasının darbe kaynaklı olduğu irdelenmiş vs.\nakşama nihai rapor açıklanacaktır, gelişmeler için takipte kalın.",
+      "has_external_url": false
+    },
+    {
+      "title": "22 mayıs 2020 pakistan yolcu uçağı kazası",
+      "entry_id": "107615041",
+      "author": "lakabimyok",
+      "date": "22.05.2020 16:06",
+      "content": "düşeceğini anladığın andan itibaren hayatının film şeridi gibi gözünün önünden kayması,bağrışlar,dizlerinin titremesi,belki yanında telkin etmen gereken çocuğun, indiğinde kavuşacağın kişinin şoku ve hüznü... çok çok zor..\no anlarda mürettebat için intihar düğmesi filan olmalı ya o adrenalini yaşamak zorunda olmamalı insan...",
+      "has_external_url": false
+    },
+    {
+      "title": "22 mayıs 2020 pakistan yolcu uçağı kazası",
+      "entry_id": "107616005",
+      "author": "glen",
+      "date": "22.05.2020 16:31",
+      "content": "çekilin bilir kişi olarak yorum yapacağım\n\nuzun yıllardır edindiğim bilgilere ve deneyimlere göre bence uçak teknik bir nedenden dolayı düşmüştür. elektronik alet sonuçta bozulmasa niye düşsün aq:)\n\ninşallah ölüm vs olayları minimum seviyede olur. allah kimseye şu şekilde bir ölüm yaşatmasın.",
+      "has_external_url": false
+    },
+    {
+      "title": "22 mayıs 2020 pakistan yolcu uçağı kazası",
+      "entry_id": "107616064",
+      "author": "counters78",
+      "date": "22.05.2020 16:32",
+      "content": "--- spoiler ---\n\ncovid-19 dolayisiyla 22 mart'tan beri ilk ucusunu bugun yapan ucak. havacilikla ilgili bilgim yok ama ucaktaki teknik arizaya bu bosluk sebep olabilir mi? ya da bu iki aylik surede bakimda hata yapilmis olabilir mi? bilen birisi belki ayrintilariyla aciklayabilir.\n--- spoiler ---\n\nilk uçuşu değil. 21 mayıs tarihinde de uçuş yapmış. muscat-lahore arasında 2 saat 5 dakika süren bir gündüz uçuşu gerçekleşmiş.\n\nhttps://www.flightradar24.com/data/aircraft/ap-bld",
+      "has_external_url": true
+    },
+    {
+      "title": "22 mayıs 2020 pakistan yolcu uçağı kazası",
+      "entry_id": "107616771",
+      "author": "imdattchekici",
+      "date": "22.05.2020 16:52 ~ 16:57",
+      "content": "uzun (bir yolcu uçağı için oldukça uzun) bir bekleyiş sonucu bazı mekanik aksamlarında oksitlenme olmuş ve rutin bakımla işi yürütmeye çalışmış olabilecekleri ihtimali yüksek görünüyor. bir uçak düştüğünde pilotaj hatası diyip işin içinden çıkılmasına ayar oluyorum. bir uçak düşüyorsa, bu bir ekip hatasıdır. ama % verecek olursak, bu kazada hatanın büyük bir yüzdesinin bakım onarım kısmında olduğu ihtimali biraz ağır basıyor.",
+      "has_external_url": false
+    },
+    {
+      "title": "22 mayıs 2020 pakistan yolcu uçağı kazası",
+      "entry_id": "107616872",
+      "author": "fridaykahlo",
+      "date": "22.05.2020 16:55",
+      "content": "aylardır olan salgından kurtulup büyük ihtimalle bayramlaşma amacıyla evine, şehrine gidiyorsun. ve inişe 1 dk kala binaların üzerine çakılıyorsun . çok üzücü çok. kendilerine rahmet, yakınlarına sabırlar dilerim.",
+      "has_external_url": false
+    },
+    {
+      "title": "22 mayıs 2020 pakistan yolcu uçağı kazası",
+      "entry_id": "107616877",
+      "author": "bosmuhendis",
+      "date": "22.05.2020 16:55",
+      "content": "geçen günlerde arkadaşlarla aramızda konuşurken yerde uzun süre kalan uçakların uçuşa başlamalarından sonra arıza risklerinin daha yüksek olabileceğini söylemiştim. hatta uçak kazalarının olabileceğini de söylemiştim. çünkü uzun süre çalışmayan uçaklarda beklemeye bağlı bazı arızalar oluşabilir. yerde çok iyi muhafaza edilmesi gerekir. pakistan havacılıkta çok iyi bir durumda olmadığından kaza yüksek ihtimalle bir arızadan kaynaklanmıştır.\n\nve maalesef bugün çok üzücü bu haberi aldım, allahtan rahmet dilerim hepsine.",
+      "has_external_url": false
+    },
+    {
+      "title": "22 mayıs 2020 pakistan yolcu uçağı kazası",
+      "entry_id": "107617109",
+      "author": "feanorr",
+      "date": "22.05.2020 17:02",
+      "content": "çok kötü bir olay. inşallah vefat eden kişi sayısı artmaz.",
+      "has_external_url": false
+    },
+    {
+      "title": "22 mayıs 2020 pakistan yolcu uçağı kazası",
+      "entry_id": "107617184",
+      "author": "tspark98",
+      "date": "22.05.2020 17:03",
+      "content": "haberini duyunca ilk aklıma aylardır yerde bekleyen uçaklardan biri olup olmadığı gelen kazadır. okuduğum kadarıyla da ülkede uçuşlar kısa süre önce başlamış.\n\nsanırım tüm dünyada yeniden uçuşlar başladıkça bu tip teknik sorunlar kaynaklı kazaları yaşamak zorunda kalacağız.",
+      "has_external_url": false
+    },
+    {
+      "title": "22 mayıs 2020 pakistan yolcu uçağı kazası",
+      "entry_id": "107617668",
+      "author": "incity",
+      "date": "22.05.2020 17:16",
+      "content": "pilot / kule konuşmasını dinlemek çok acı ya...\n\nwe lost both engines...\n\nkule de kaptan da son derece soğukkanlılar prosedürleri uyguluyorlar ama sonunda uçak maalesef düşüyor...\nkaptanların aldığı her kuruş sonuna kadar haklarıdır, net.\n\nkeşke uçağı indirebilselerdi de ülkelerinde kahraman ilan edilselerdi... r.ı.p.",
+      "has_external_url": false
+    },
+    {
+      "title": "22 mayıs 2020 pakistan yolcu uçağı kazası",
+      "entry_id": "107617730",
+      "author": "rockndolly",
+      "date": "22.05.2020 17:18 ~ 17:20",
+      "content": "hadi allah rahmet eylesin.darisi bize.para uğruna yaşamak çok sıkıcı.",
+      "has_external_url": false
+    },
+    {
+      "title": "22 mayıs 2020 pakistan yolcu uçağı kazası",
+      "entry_id": "107617760",
+      "author": "rasyonel sapiens",
+      "date": "22.05.2020 17:19",
+      "content": "yolcu uçağının binaların üzerine düşmesi ve korkunç görüntülere sebep olması durumudur.\niyi insanlara birşey olmadığını ümit ettiğim kazandır.\niyi den kasıt; mecbur kalmadıkça hak yemeyen ve başkasının hakkında gözü olmayan. yalan ve iftiradan uzak olan.",
+      "has_external_url": false
+    },
+    {
+      "title": "22 mayıs 2020 pakistan yolcu uçağı kazası",
+      "entry_id": "107619435",
+      "author": "sarimsakli bitter cikolata",
+      "date": "22.05.2020 18:05",
+      "content": "fotoğraflardan görüldüğü kadarıyla rat devreye alınmış/otomatik devreye girmiş (bkz: ram air turbine) fakat uçak piste kadar dayanamamış. ölenlere allah rahmet eylesin.",
+      "has_external_url": false
+    },
+    {
+      "title": "22 mayıs 2020 pakistan yolcu uçağı kazası",
+      "entry_id": "107621370",
+      "author": "birdahasla",
+      "date": "22.05.2020 19:01",
+      "content": "' havacılık tarihi kanla yazılmıştır' sözünü bir kere daha üzücü halde hatırlatan kaza.\ntarihte sanırım uçaklar hiç bu kadar süre kızakta beklemek zorunda kalmamıştı. çok fazla bir bilgim yok ama umarım ders çıkarılır ve önlemler alınır.",
+      "has_external_url": false
+    },
+    {
+      "title": "22 mayıs 2020 pakistan yolcu uçağı kazası",
+      "entry_id": "107621810",
+      "author": "anise",
+      "date": "22.05.2020 19:14",
+      "content": "çok üzüldüm. videoları izledim. yükselen duman, şehrin hali, insanlar, enkazlar...\n\ndüşünsenize birden tepenize uçak düşüyor?\nya da uçaktasınız şehrin ortasına düşüyorsunuz?\n\ninşallah fazla kayıpları yoktur diye dua ederken gerçekçi yanım da hemen devreye giriyordu... entrylere bakayım dedim, kurtulan olmamış ne feci bir tablo.\n\numarım havacılık sektörü bundan ders alıp önlemlerini alır da tekrarını yaşamayız.\n\ndünya adına, başımız sağ olsun.",
+      "has_external_url": false
+    },
+    {
+      "title": "22 mayıs 2020 pakistan yolcu uçağı kazası",
+      "entry_id": "107621920",
+      "author": "sessizkalem",
+      "date": "22.05.2020 19:18",
+      "content": "rest in peace for pıa",
+      "has_external_url": false
+    },
+    {
+      "title": "22 mayıs 2020 pakistan yolcu uçağı kazası",
+      "entry_id": "107621992",
+      "author": "kirmizi koltuklar",
+      "date": "22.05.2020 19:20",
+      "content": "2020 öyle çılgın ki bu ölçekte bir kaza insanların ilgisini çekmiyor. hayret cidden",
+      "has_external_url": false
+    },
+    {
+      "title": "22 mayıs 2020 pakistan yolcu uçağı kazası",
+      "entry_id": "107623020",
+      "author": "benidedinleyin",
+      "date": "22.05.2020 19:47",
+      "content": "ılginc bi teori var: ilk yaklasma sirasinda inis takimini acmiyorlar sonra motorun piste surtmesiyle anlayip tekrar yukseliyorlar. daha sonra da motorlarin 2sinin de hasar almasindan dolayi kuleyle malum konusmayi yapiyorlar.\n\nasagidaki linkteki ucagin motorlarinin alt kisminda gorulen karartilar bu teoriye sebep olmus, resimler dogruysa mantikli duruyor. ama inis takimlarinin acik olmadigina dair uyariyi da hatali almis olabilirler.\n\nkaynak: http://avherald.com/h?article=4d7a6e9a&opt=0",
+      "has_external_url": true
+    },
+    {
+      "title": "22 mayıs 2020 pakistan yolcu uçağı kazası",
+      "entry_id": "107623183",
+      "author": "bibidibabidibu",
+      "date": "22.05.2020 19:52 ~ 23.05.2020 02:20",
+      "content": "iki motor kaybı havacılıktaki en çaresiz durum olmasa da, psikolojik açıdan en korkunç arızalardan biri. pas geçtikten sonra çok düşük irtifada yaşanmış iki motor kaybı anladığım kadarıyla. düşük irtifada, motorlar olmadan tekrar inmeye çalışmak oldukça riskli. tekrardan pist istikametine dönmek ya da acil durum olduğu için ters piste inmek senaryolarının hepsinde uçağın dönüş yapması gerekecek. dönüşte uçağın yük faktörü artacağından ve uçağımızın motorları çalışmadığından çok düşük bir irtifada, süzülmek için kullanabileceğiniz çok değerli feetleri büyük bir hızla kaybetmek zorunda kalacaksınız. uçağın lift formulü 1/2 ro kanat alanı lift katsayısı ve havanın hızının karesidir. uçağı dönüş esnasında level flight'ta tutmak için daha fazla hıza ihtiyacınız olacaktır ya da uçağın atak açısını arttırmak zorunda kalacaksınızdır. atak açısını arttırmak bir süre sonra hızı düşüreceğinden level flight'ı sürdürmek için takat eklemeniz gerekecektir. uçakların bank açısı arttıkça stall hızı da orantılı olarak artar.\n\nyani uçağın geriye dönmesi için çok ciddi irtifa kaybetmesi lazımdı mecburen. pilotlar dönüşten kaç feet'te ve piste kaç milde çıktılar bilmiyorum ama çok muhtemelen yetişemediler.\n\na320'nin gliding ratio'su 17/1 olarak yazıyor google'da. eğer dönüşten 1000 feet'te çıktılarsa ideal şartlarda; bu da uçağın clean configurasyonda olması, uçak performansına etki edecek başka bir arıza olmaması durumunda, 17000 feet yani yaklaşık 5 km gidebilirdi uçak.\n\ntabi bunları olaya dair çok kısıtlı bilgimle yazıyorum. daha farklı gelişmiş olması olası olayın.\n\nçok üzücü maalesef. diyecek fazla da bir şey yok.",
+      "has_external_url": false
+    },
+    {
+      "title": "22 mayıs 2020 pakistan yolcu uçağı kazası",
+      "entry_id": "107623622",
+      "author": "pasifikatlantik",
+      "date": "22.05.2020 20:04",
+      "content": "karachi açıklarındaydık bugün, her hangi bir şey görmedik ya da bir uyarı almadık",
+      "has_external_url": false
+    },
+    {
+      "title": "22 mayıs 2020 pakistan yolcu uçağı kazası",
+      "entry_id": "107624949",
+      "author": "nihade",
+      "date": "22.05.2020 20:43",
+      "content": "çok vahimdir. mürettebat ve yolcuların son anları çok zorlu geçmiştir büyük ihtimalle. düşünmek bile istemiyorum.allah hepsine rahmet eylesin. bir daha böyle kazalar yaşanmasın.",
+      "has_external_url": false
+    },
+    {
+      "title": "22 mayıs 2020 pakistan yolcu uçağı kazası",
+      "entry_id": "107642427",
+      "author": "psikologunuz",
+      "date": "23.05.2020 02:05",
+      "content": "tam bir crm mülakatı yorumlama sorusu çıkacak kaza, uçuş azlığı nedeniyle de bu sene ki açılacak fo (ikinci pilot adayı) alım mülakatlarında soru olarak karşımıza gelebilir . uçakta ölene mi yanarsın yoksa sivil halktan yok yere canı yanana mı... tam bir crm açmazı.\nkazayı durumsal farkındalık ve cfit kazası şeklinde yordayanlar olmuş ki katılmak için cfit kazası tanıma bir bakalım...\npilot yorgunluğu, durumun farkında olmama, altimetreye yanlış basınç değeri girme veya yön kaybı (kaybolma) gibi durumlar kazaya sebep olabilir. kazalar genelikle aniden yükselen dağlık arazilerde oluşur ve kaza bölgesinde yoğun bulutlar, sis ve görüşü engelleyen etmenler görülebilir. cfıt genellikle havaalanı yakınlarında, uçağın iniş için alçaldığı sırada meydana gelir.\n\n“kontrollü uçuşta yere çarpma (cfıt), uçuşa elverişli bir hava taşıtının pilot kontrolündeyken, kontrolü kaybetmesine neden bir fiziksel hasar yokken bir maniaya çarpması veya suya düşmesi ile sonuçlanan kaza. cfıt, ingilizce controlled flight into terrain kavramının kısaltmasıdır. bu kaza türünde pilotlar genellikle sona ana kadar tehlikenin farkına varamazlar. cfıt donanım arızasından kaynaklanabilir. eğer arıza seyrüsefer ekipmanlarından birinin bir bölümünde oluşmuşsa bile bazen doğru çalışan ekipmanlardan gelen bilgilere rağmen mürettebatın uçağı yanlış yönlendirmesine sebep olabilir.”\n\nbakın tanımda önemli bir nokta var ki; “kontrolü kaybetmesine neden olacak fiziksel sorun yok iken” yani iki motoru da idle pozisyona dönmüş ve takat kaybınyaşayan bir uçağın kumandası konusunda yapılabilecek çok da bir şey kalmadığını tüm pilot kardeşlerimiz bilir. önemli olan bu kaza ile ilgili yorum yapmadan önce kaptan pilotun rapor ettiği iki motorun birden kaybı senaryosunun nedeni bulunmalıdır. kaptanın elinden geleni yapmaya çalıştığı ve elindeki takatını yitirmiş hava taşıtının gliding ratio’sunu da sonuna kadar kullandığı aşikardır.\nadaya yönelecek diğer bir soru da; bu kaza da kaptan siz olsaydınız ne yapardınız sorusu olacaktır ki; durumu kabullenip elimden geldiğince sivil halktan uzak bir noktaya temas etmek adına elimden geleni yapardım gibi cevaplar sizi kurtarmasa dahi empati ve sorumluluk bilinci puanı getirecektir. kesin sonuçların ve kati raporun açıklanması aylar süreceğinden olasılıklar hakkında fazla uçuşmayan mantıklı cevaplar da işinize yarayabilir. kolaylıklar dilerim.",
+      "has_external_url": false
+    },
+    {
+      "title": "22 mayıs 2020 pakistan yolcu uçağı kazası",
+      "entry_id": "107643032",
+      "author": "alerda",
+      "date": "23.05.2020 02:16",
+      "content": "havacilik gecmisi olan herkes teknisyenlerin agzindan su sozu en az bir kez mutlaka duymustur;\n\nben de bunu sahsen gunluk hayatimda vucudumuzun bazi noktalari icin espri amacli dile getiririm ki bence o da dogrudur;\n\n(bkz: duran ucak ariza verir)",
+      "has_external_url": false
+    },
+    {
+      "title": "22 mayıs 2020 pakistan yolcu uçağı kazası",
+      "entry_id": "107645543",
+      "author": "mirror03",
+      "date": "23.05.2020 03:08",
+      "content": "pilotların son ana kadar soğukkanlı olması gerçekten kanımı dondurdu. ne büyük bir otokontroldür bu. tabi çok büyük sınavlardan geçiyorlar ama insan son ana kadar böyle nasıl durabilir nasıl kendini böyle eğitmiş olabilir eğitse bile can korkusuna yenik düşmemek inanılmaz bir yetenek insan algılayamıyor. gerçekten üzüldüm. ne diyeceğimi bilemedim. içimden sevgimi gönderdim hayatını kaybedenler için, aileleri için.",
+      "has_external_url": false
+    },
+    {
+      "title": "22 mayıs 2020 pakistan yolcu uçağı kazası",
+      "entry_id": "107645566",
+      "author": "cok kitap okuyan kadin",
+      "date": "23.05.2020 03:09",
+      "content": "havacılıkla kişisel ilgilenen bir insan olarak, özellikle plane crash videoları izlerim veya haberlerini okurum. fazla maruz kaldığım dönemlerde de uçakların düştüğünü görüyorum. ama öyle böyle değil 8-10 kez görmüşümdür. bir kere hatta lufthansa uçağı istanbul'dan kalktıktan sonra şehre düşmüştü yine. bugün bu haberi de görünce içimde bir yer sızladı anlatamam. gerçekten çok çok üzücü. rüyamda da çıldırmıştım hangi tarafa ağlayacağımı bilememiştim. uçağın içindekine ayrı felaket, yerde gündelik hayatını yaşayana ayrı fekaket.\nah kimselerin burnu kanamasın, kimselerin..",
+      "has_external_url": false
+    },
+    {
+      "title": "22 mayıs 2020 pakistan yolcu uçağı kazası",
+      "entry_id": "107648686",
+      "author": "bence11",
+      "date": "23.05.2020 04:15",
+      "content": "yolcu uçağı düştü, içinde 107 kişinin bulunduğu bir yolcu uçağı düştü ve ekşide gündem değil. şaşıyorum doğrusu.\n\nkorkutucu bir olay...",
+      "has_external_url": false
+    },
+    {
+      "title": "22 mayıs 2020 pakistan yolcu uçağı kazası",
+      "entry_id": "107667318",
+      "author": "ucarkerken",
+      "date": "23.05.2020 15:56",
+      "content": "covid 19 ve ya, yerde beklediğinden dolayı gerçekleşmemiş olan kazadır. öyle dahi olsa bunu söylemenin çok ama çok erken olsuğu bir kazadır. en çok korkulan senaryolardan biri belki de en korkulanı olan yerleşim yerine düşme olayı gerçekleşmiştir. şu ana kadar uçak yolcu sayısını bile doğru düzgün veremeyen pakistan sivil havacılığı yerde gerçekleşen ölüm ve yaralanmayla ilgili henüz açıklama yapmamıştır. yaptıysa da ben gözden kaçırdım bilemiyorum. kaza araştırılıcak. kara kutular incelinecek, yerleşim yerine düştüğü için bir çok kamera kaydına düştüğü için kayıtlar incelinecek, görgü şahit şahitleri dinlenecek, biraz zaman geçtikten sonra bir daha dinlenecek çünkü şu anda muhtemelen hala şoktan dolayı çelişkili ifadeler vermeleri çok normal. evraklar bakım geçmişi, parça analizi vs derken daha uzun bir süre net bir şey söylenemeyecek. o yüzden lütfen atıp tutmayalım. kule konuşmalarında kokpit ekibinin sakinliği anlaşılmaktadır. meslektaşlarımız burda olmadı gerektiği gibi soğuk kanlılıklarını koruyup ellerinden geleni yaptıklarını düşünüyorum. en kötü senaryolardan biri kalkış ve ya go around akabinde motor kaybıdır. o anda çok fazla bir seçenek yoktur. böyle bir durumda gerekirse boş bir arazi ve ya nehire inmeyi değerlendirmek gerekir. ama maalesef şehrin ortasında, yükseklik kazanamamış ve çift motorunu kaybetmiş pilotların çokta fazla seçenekleri yokmuş gibi duruyor.",
+      "has_external_url": false
+    },
+    {
+      "title": "22 mayıs 2020 pakistan yolcu uçağı kazası",
+      "entry_id": "107674281",
+      "author": "ready for departure",
+      "date": "23.05.2020 18:30 ~ 18:36",
+      "content": "arkadaş demiş ki; uzun süre yerde yattığından dolayı düşmüş uçaktır. peki bu bilginin kaynağı nedir? yok abi kafadan sallamış. insanların öldüğü bir olayın hakkında bilip bilmeden yanlış bilgi vermiş ve bundan çekinmemiş.\n\nhalbu ki, uçak 21 mayıs'tan beri, yani kazadan bir gün önceki zaman diliminde toplam 8 sektör uçmuş. bu 8 uçuş yapmış demektir. 1 günde 8 kere uçmuşsa, önceki günleri de siz hesaplayın.\n\ndetaylı bir entry yazacağım, daha fazla bilgi açığa çıksın diye bekliyorum dünden beri, ama böyle saçma sapan entryleri gördükçe sinirleniyorum. herkes havacılık uzmanı olmuş. uçak düştü, daha dumanı tütüyor, insanlar burada hemen sebebini bulmuşlar bile. havacılıkla alakalı zerre bilgileri yok, daha ölen kalan belli değilken teori bile değil hüküm veriyorlar haşmetmeabları. sizden cacık olmaz gençler. üzgünüm ama bu böyle",
+      "has_external_url": false
+    },
+    {
+      "title": "22 mayıs 2020 pakistan yolcu uçağı kazası",
+      "entry_id": "107678127",
+      "author": "s7rky",
+      "date": "23.05.2020 19:53 ~ 01.06.2020 22:20",
+      "content": "duzeltme:\n\nevet ben kazanin ilk anlarinda yazdigim icin, sonrasinda neler cikti neler, olay bambaska bir yere dogruldu tabii..ilk yazimi duzeltmedim asagida gorebilirsiniz ama cogu kaptanimiz cok guzel bilgiler paylasmis baslikta zaten, baska bir sey eklememe gerek yok..\n\nairbus kaptanlarimizdan (bkz: yrdm) soyle bir mesaj atmis aynen iletiyorum:\n\n-------------\n\nkaptanım merhabalar\ngayet açıklamışsınız ama motor limitlerini geçme kısmını zaten fadec halleder ve bi abnormal durumda ecam master/warning gelecektir. eldeki verilerde şimdilik, 5 dme de 3500 ft deler ki buralardan stabil gelebildiklerini sanmıyorum ilk yaklaşmada ki bu long landing ya da bounce için gayet geçerli bir sebep. ayrıca iniş kleransını readback ederken master warning sesini duyuyoruz ama sebebini bilemiyorum tabi. pist üzerinde sürtme izleri bulmuşlar. airbus da sizde olduğu gibi toga için bir tuş yok, gaz kollarını en ileri (toga) detent e getirmek gerekiyor ki balked landing yapıp belki de yeterince takat olmadan gear up yapmış ve bu arada piste motoru sürtmüş olabilirler, emirates in kazasına benzer. mlg da çökmüş olabilir tabi o da bir olasılık ama fotolardan motorların zarar gördüğü açık.\nbir airbus pilotu olarak paylaşmak istedim. iyi uçuşlar.\n\n----------------------\n\nher kazada, en ufak kırımda dahi çok üzülürüm ama nedense bu kazada daha derinden, bir başka üzüldüm..\n\niki motorun birden durmuş ve dönebilecek bir irtifan, manevra alanın hiçbir şey yok..sadece dev gibi bir uçak ile'kontrollü' bir şekilde uçağı'indirebileceğin' bir şehir var önünde, bir deniz, okyanus olsa'sully' gibi kahraman olacaksın; ama yok işte..çaresizlik gerçekten çok kötü, belki de en çok o üzmüştür beni..\n\nkaza ile ilgili yorumları yazacağım fakat ona geçmeden önce, cehalet yorumları ile uçma korkusu olan insanları korkutan, uçaklar yerde kalıyor o yüzden bu kazalar artacak diyen, cahil ekşi sözlük yazarları, gerçekten sizin toplumu germekten, korkutmaktan başka bir hiçbir işe yaradığınız yok, keşke bazı konularda hiç yazmasanız biraz sussanız.\n\nhiçbir uçak gerekli teknik incelemeden geçmeden, uçabilirlik onayı olmadan, uçuşa verilmez, hiçbir kaptan da zaten aksi bir durumu kabul etmez. pia kurumsal ve güvenilir bir şirket, 2017 yıluna kadar sürekli amerika'ya uçan bir şirket..sonrasında malum'güvenlik' sebebi ile uçuşları durduruldu; fakat pia'nin şeffaf yapısı ile ilgili herhangi bir sorun hiç olmadı..yani öyle kafasına esen her şirket amerika'ya uçuş yapamaz, uçakların teknik bakımları da bu gerekliliklerden birisidir sadece..kaza/kırım geçmişi başka bir tartışma konusu baştan söyleyeyim, tutup da şu kadar kaza yapmış gibi bir istatistik ile gelmeyin, bunun sebeplerinden kaçı pia'nin kendi teknik-bakım sorumluluğundan kaynaklı bunu araştırın, sap ile samanı karıştırmamak lazım..\n\nkazayla ilgili de her kirim/kaza sonrasında olması gerektiği gibi ilgili raporun çıkmasını beklemek lazım; fakat kendi tecrübelerimden naçizhane bir kaç kelam etmek gerekirse, şunları söylebilirim:\n\n- öncelikle pakistan havacılığı ile ilgili olumsuz yazılar var, evet havacılık geçmişleri çok parlak olmayabilir ama en son ölümlü kazasını 2016 yılında yaşamışlar, yani öyle ekşici önyargısı gibi her sene 100 kişi ölür gibi bir rakam yok..\n- meydan ile ilgili de defalarca uçak indirip/kaldırdığım bir yer, gayet güzel bir meydandır, herhangi bir problem yaşamadım şu ana kadar, hem hava trafik kontrolleri hem de yaklaşma usulleri olarak bir'risk' teşkil eden bir yer değil..atıp tutmayalım yani pakistan şöyledir böyledir diye..\n\nben kaza olduğu esnada tuhaftır ki pakistan hava sahası üzerinde uçuyoduk, indikten sonra haberimiz oldu ve tabii çok üzüldük, o andan itibaren kaza ile ilgili bulabildiğim rasyonel bilgilere göre şunları aktarabilirim:\n\n- öncelikle sağ kurtulan (şu ana kadar iki kişi sağ kurtulmuş bilgisi var) yolcuların yorumlarını okudum, ifadesine göre uçak ilk iniş için deneme yapıyor; fakat sonrasında çok sert bir iniş denemesi oluyor ve pas geçiliyor. bunun sebebini bilmiyoruz, iniş takımı açılmıştır fakat kilitlenmemiş olabilir yani, teker yere değer demez tekrar toplanmış olabilir, buna landing gear collapse diyoruz ki örnekleri çokça vardır.. sert iniş yani hard landing olmuş olabilir vb bunların hiçbirini bilmiyoruz, bunların derecesini, pas geçtikten sonra uçağın konfigürasyonunda ve parametrelerinde ne gibi değişikliklere yol açtığını bilmiyoruz..karakutu incelemeleri sonrası zaten her şey ortaya çıkacaktır; ama bir şey in olduğu ve o bir şeyin de başka bir şey i tetiklediği belli..tıpkı tüm havacılık kazalarında olduğu gibi..\n\n- pas geçmek çok fazla aksiyonun hızlı bir süreçte yaşandığı fakat çok emniyetli bir manevradır, her uçuşta her kokpit ekibi herhangi bir sebepten pas geçebilir, buraya kadar problem yokr; fakat burada pas geçtikten sonra (o iniş esnasında ne olduğunu bilmeyerek) bir şeyler ters gidiyor ve uçak pas geçiş irtifası 3.500 ft'e tırmanamıyor, bunu kule konuşmalarından duyuyoruz ve 2.000 ft'te kalmak istiyorlar, sanırım o anki motordan alabildikleri takate göre tutunabildikleri en iyi irtifa bu..\n\n- şimdi burada pas geçtikten sonra kuş çarpması bird strike mı yaşandı yoksa piste temas esnasında bir problem mi sebep oldu yine bilmiyoruz..fakat şehre çarpmadan önce uçağın çekilen son fotoğrafında iki motorunun altında da kara izleri görüyoruz.. şuradan ..dolayısı ile aklımda şu senaryolar belirdi:\n1) iniş esnasında bir problem yaşandı (bunun olası ihtimallerini yazdım yukarıda zaten detayına girmeyeceğim)\n2) kalktıktan sonra iki motoru kaybetmeden önce bir engine limit, surge or stall arızası yaşandı ve ilgili prosedürler (bu arızada motoru limitli kullanmanız gerek, yani belirli değerler aralığına çıkmamanız gerek, çünkü motor çok hassas bir durumda çalışıyor) yerine getirilirken, özellikle pas geçildiği ve tırmanma ihtiyacı hissedildiği için farkında olunmadan motor saat limitleri aşıldı ve motor aşmaması gereken değeri aşarak overboost oldu motora gereğinden fazla basınç uygulandı..\n\n3) bu kazanın bir benzerini fakat tam aynısını tabii ki diyemeyiz (ozellikle sebep-sonucuna göre) thy'de yakın geçmişte yaşamıştı, tekrar yazmıyorum, detaylar ` https://eksisozluk.com/…-acil-inis-yapmasi--4764851 `mevcut ilgilileri için..\n\ntüm bu yorumlar, şahsımın bir boeing pilotu olarak naçizhane yorumlarıdır, uçağın bir airbus a320 olduğunu düşünürsek, herhangi bir yanlış yorumum var ise değerli meslektaşlarım düzeltirler, zaten o yüzden çok detayına girmiyorum çünkü acil durumlar dahil olmak üzere birçok prosedürümüz farklı malum..\n\n- ek olarak kokpit ekibi ile ilgili bir bilgimiz yok, uçuş tecrübeleri vb konusunda, henüz her şey çok yeni zaten..\n\nhavada bir kokpit ekibinin başına gelebilecek en kötü 3-5 senaryodan biridir iki moturun durması dual engine failure loss of thrust on both engines ..35 bin ft'te hiçbir problem değil, hatta inişte bile değil, fakat kalkış sonrası ve düşük irtifalarda..gerçekten çok ama çok tehlikeli..hele bir de meydan etrafında manevra kabiliyetiniz kısıtlı ise..\n\nherkes inişten tedirgin olur fakat aslında en riskli şey aslında kalkıştır..\n\ntüm pakistan halkına geçmiş olsun, bir daha yaşanmaması, gerekli dersler çıkarılması temennisi ile..",
+      "has_external_url": true
+    },
+    {
+      "title": "22 mayıs 2020 pakistan yolcu uçağı kazası",
+      "entry_id": "107682454",
+      "author": "fakulte kantini",
+      "date": "23.05.2020 21:22",
+      "content": "insanın aklından düşünceler uçup geçiyor çoğu zaman. mesleğim havacılık olmamasına rağmen sanırım dün değil evvelsi gün, uzun süredir yerde yatan uçakların tekrar uçmaya başladıktan sonra bekleme kaynaklı bir sebeple kaza yaşaması ihtimali geldi.\n\nsonrasında ise, olur mu ya öyle şey gerekli kontroller yapılır bir şey olmaz diye düşünerek çoktan arkamda bıraktım bu düşünceyi.\n\ntanım: sebebini merakla ve üzüntüyle beklediğimiz kaza.",
+      "has_external_url": false
+    },
+    {
+      "title": "22 mayıs 2020 pakistan yolcu uçağı kazası",
+      "entry_id": "107684061",
+      "author": "gazetecikedi",
+      "date": "23.05.2020 21:48",
+      "content": "iki kişinin mucize şekilde kurtulduğu ve ekşi sözlükte bir saat içinde unutulan kaza.\n\ndüşen uçaktan sağ kurtulan iki kişiden biri olan muhammad zubair, inişe geçtiği sırada yerleşim yerlerine düşen yolcu uçağında insanların sadece çığlıklarını duyduğunu söyleyerek, “bayram tatili için karaçi’ye gidiyordum. lahor havalanı'ndan ayrılmıştık. 2 yada 3 kez sarsıntı hissettik. bir süre sonra etrafta görebildiğim tek şey duman ve ateşti. her yerden çığlıklar duyuyordum. duman her yeri kaplamıştı. kimseyi göremedim sadece çığlıkları duydum. emniyet kemerini açtım. biraz gördüğüm ışığa doğru ilerledim ve yaklaşık 10 feet yükseklikten aşağıya atladım.bana pilot uçağı düşürmek için boş bir alan arıyor gibi geldi. ilk denemeden 10-15 dakika sonra uçak düştü. her yeri ateş sardı, insanların çığlıkları duyuluyordu. birkaç metre ileride ışığı görünce kemerimi çözüp kendimi oraya attım. çevredekiler beni ambulansa bindirerek hastaneye götürdü' şeklinde konuşmuş.\n\nbu ifadede, pilot uçağı düşürmek için boş yer arıyor demesi indirmek anlamında mı diye düşünmüyor değilim.\n\n.",
+      "has_external_url": false
+    },
+    {
+      "title": "22 mayıs 2020 pakistan yolcu uçağı kazası",
+      "entry_id": "107684651",
+      "author": "rengikahve",
+      "date": "23.05.2020 21:58",
+      "content": "2020 yılının felaketler yılı olduğunu gösteren olayların an itibariyle sonuncusu.",
+      "has_external_url": false
+    },
+    {
+      "title": "22 mayıs 2020 pakistan yolcu uçağı kazası",
+      "entry_id": "107689126",
+      "author": "ready for departure",
+      "date": "23.05.2020 23:04 ~ 24.05.2020 21:22",
+      "content": "--- spoiler ---\n\naşağıda uzun bir edit var\n--- spoiler ---\n\nhayatını kaybedenlerin yakınlarına sabır diliyorum. çok garip bi kaza. dünden beridir çeşitli kaynaklardan takip ediyorum, haberleri okuyorum ama bir türlü nasıl olduğuna akıl erdiremiyorum bu kazanın.\n\nyani evet, kaza olabilir ama kazanın gelişimini açıklayamıyorum bir türlü. karachi'ye her iki ayda bir uçuyorum neredeyse. zaten çoğunlukla da 25 pistine indik bugüne kadar. havalimanıyla ilgili söylenecek çok fazla bir şey yok. yoğun bi trafik yok, çoğu uçak yerde zaten. tek sıkıntı, şehrin üzerine çökmüş ve kıyamete kadar da kalkmayacak bir hava kirliliği var. nemle de birleşince görüşü kötü etkiliyor. hava trafik kontrolörleri de bizim gibi yabancılar için aksan problemi dışında bir sıkıntı yaratmadılar henüz, ki pia yerli taşıyıcı olduğu için birbirlerinin aksanlarına alışıklar, yani bu da bir sıkıntı değil.\n\nuçağın daily check'i bir gün önce yapılmış, uçakta arıza var mıdır yok mudur, geçmiş günlerde uçakta teknik anlamda neler olmuş bunun yazıldığı technical log'da kayıt edilmiş bir arızası olduğu bilgisi yok.\n\nhava durumunda görüş 7 km, rüzgar 25 pist yönüne göre kafadan esiyor, iniş için gayet müsait bir hava var. kısacası uçak, meydan ve hava durumu bakımından olumsuz bir durum yok.\n\nilk yaklaşma denemesinde atc ses kaydında kontrolör uçağın yaklaşma profiline göre çok yukarıda olduğunu anlayıp, uçağı yaklaşma hattından çıkarmak ve tekrar bir yakşaşma denemesine izin vermek için sola 1-8-0 başa dönün diyor. pilot iniş hattındayız zaten diye cevap veriyor. bunun üzerine kontrolör piste 5 mil mesafedesiniz ve irtifanız 3500 feet diyor. bunu şöyle açıklayayım; nominal iniş hattında alçalırken piste 5 mil mesafede iseniz, olmanız gereken irtifa 1600 feet civarıdır. bu uçak olması gereken irtifanın neredeyse 2000 feet üzerinde. bu durumda bu uçağı indirmeye teşebbüs etmek bir emniyet ihlalidir. şirketten şirkete değişir ama havacılıkta genel kabul olarak bir stabilizasyon kriteri vardır. bir uçağın yaklaşma için stabil olması demek; yere göre 1000 feet irtifa geçilirken yatay ve dikey olarak uçağın yaklaşma hattında olması, takatin rölantinin üzerinde bir değerde, yani gazların açık olması, süratin yaklaşma süratinde olması, flapların ve iniş takımının açık olması, speed brake'in kapalı konumda olması ve landing checklist'in tamamlanmış olması demektir. bunun amacı, bu yukarıda saydığım parametreleri 1000 feet'e kadar yakalamak ve son 1000 feetlik zaman diliminde bunlarla uğraşmamak, sadece inişe odaklanmaktır. eğer bu irtifada stabil değilseniz pas geçmeniz gerekir. pia8303 sefer sayılı uçağın 5 mil 3500 feet'te iken 1000 feet'te stabil olması imkansızdır. bakın, zordur ya da çok zordur demiyorum, im-kan-sız-dır. fiziksel olarak mümkün değildir. yatay ve dikey olarak yaklaşma hattında olmanız için 1000 feet irtifada pist başına mesafeniz 3 mil olmalıdır. bu arkadaşlar, 5 milde 3500 feet'te iseler, kalan 2 milde 2500 feet irtifa kaybetmeleri gerekir. bu irtifayı kaybederken, bir yandan da uçağı konfigüre etmeniz imkansızdır. neyse uzatmayayım, kule bile uçağın unstable olduğunu fark edip çıkış yolu önermiş ama buna rağmen yaklaşmaya devam etmişler.\n\nbu arada, kule uçağı 5 mil 3500 feet'tesiniz diye uyardıktan yaklaşık 10 saniye sonra iniş izni veriyor, pilot iniş iznini teyit ederken arka planda bir master warning sesi duyuluyor. bu da uçakta oldukça ciddi bir problem olduğunun işareti. bu ikazın neden geldiğini resmi raporda görebiliriz ancak.\n\nkaptanın inişte ısrar etmesinin sebebi belki de bu ikaz olabilir ama ikazı kule onları uyardıktan yaklaşık 10 saniye sonra duyuyoruz. belki kaptan işarları daha önce fark etti ve uçak ikaz vermeden önce bir şeylerin yanlış olduğunu anlayıp inmeye fikslendi. bilemiyoruz.\n\nsonra görgü tanıklarının anlattıklarına göre uçak iniş takımları açılmamış bir şekilde piste dokunuyor, uçağın piste değdiği bölgelerde kıvılcımlar görünüyor ve uçak pas geçmek için tekrar havalanıyor. tabi bu yere temas esnasında açık bir iniş takımı olmadığı için uçağın yere en yakın noktası olan motorlar yere temas ediyor. başlıkta daha önce de paylaşılmış fotolardan görüldüğü üzere iki motorun da alt kısmında sürtünmeden dolayı yanık izleri var ve ram air turbine (rat) denilen cihaz açıkta. rat'ın açık olması demek, uçağın ciddi bir sıkıntı yaşıyor olması demektir. çünkü bu sistem, sadece uçağın acil elektrik ve/veya hidrolik ihtiyacı durumunda kullanılır. yanlış hatırlamıyorsam çift motor kaybı, emergency electrical configuration ve çift hidrolik arızasında devreye giriyor bu sistem otomatik olarak (yanlışım varsa meslektaşlarım düzeltirler)\n\ncfm56 motorlarda bazı sistemler motorun alt kısmında bulunur. şu görselde gördüğünüz üzere, motorun alt kısmında çok sayıda bağlantı ve teçhizat mevcut. sürtünme esnasında bu kısmın hasar görmüş olduğu aşikar. bu da motorların çalışmasını etkilemiş ve sonunda da ikisinin de susmasına sebep olmuş. susmadan önce rat'ın açılmasına sebep olan nedir bilmiyoruz. belki de hasar gören bölgede hidrolik bağlantıları vardı ve hidrolik sıvısı boşalınca rat otomatik olarak açıldı. kaptanın manuel olarak açma ihtimali de var, hasarı öngörmüş ve açmış olabilir.\n\nsonra kule 110 baş ve 3500 feet irtifaya tırmanma talimatı veriyor. pilotlar tırmanamayacaklarını anlayınca 2000 feet'te tutunmak istiyorlar ve kuleye bunu söylüyorlar. kule izin veriyor ama 1800 feetlerde olduklarını uyarıyor. sonrasında mayday deklare ediyorlar, kule de iki pistin de iniş için hazır olduğunu söylüyor ve iletişim kesiliyor. konuşmalardan anladığım kadarıyla kuleyle konuşan pilot, tüm konuşmalarda gergin bir halde, kuleyle konuşurken aklının başka yerde ve baskı altında olduğu tonlamasından ve kuleye verdiği eksik ve yanlış cevaplardan anlaşılıyor. neticede uçak piste çok yakım bir meskun mahale düşüyor.\n\nşimdi, aklıma yatmayan yerlere gelecek olursak. eğer uçakta iniş takımı problemi vardı ise, airbus 320'nin flight warning computer'ı (fwc) pilotları hem sesli hem de görüntülü olarak ikaz ederdi. kule konuşmalarında duyduğumuz master warning ikazı, fwc'nin çalıştığını teyit ediyor, zira fwc bozuk olsaydı uçakta oluşan herhangi bir arızada sesli uyarı duyamazlardı. peki o zaman o duyduğumuz master warning sesi hangi sistemdeki arızayı uyarıyordu? akla ilk gelen ihtimal olarak iniş takımındaki bir arızayı ikaz ettiğini düşünelim. eğer durum bu ise; prosedür, yaklaşmayı iptal edip pas geçmeyi ve sorunu çözüp öyle inmelerini dikte eder. eğer sorun çözülmemişse ve iniş takımı açılmıyorsa (ki a320'de iniş takımının yerçekimiyle açılıp kilitlenmesini sağlayan gravity extension sistemi vardır. hidrolik ya da elektrik arızası durumunda gravity extension sistemiyle iniş takımı her türlü açılır yani) gövde üzerine iniş denenir mecburen. ama bu da pilotun öyle kendi kafasına göre uygulayabileceği bir şey değil. hava trafik kontrolörüne bunun bilgisini vermesi gerekir ki kontrolör de iniş sonrası çıkabilecek bir yangın için itfaiyeyi ve diğer yardım unsurlarını hazır tutsun. ama böyle bir konuşma da geçmiyor kule ile uçak arasında.\n\no zaman büyük soru şu: bu uçak neden unstable bir halde inişe devam edip iniş takımı olmadan inmeyi denedi? bunun cevabını öğrenmek için flight data recorder ve cockpit voice recorder incelendikten sonra resmi raporun açıklanmasını bekleyeceğiz.\n\nedit: pakistan sivil havacılığının açıklamasına göre motorların yere sürttüğü ilk yaklaşmada iniş takımları hiç açılmamış bile. bu da iniş takımlarının açılıp pas geçme kararı verildiği anda pist üzerinde toplanmış olması teorisini çürütüyor. zaten yanlış bi teoriydi, iniş takımı kapakları açıldığında motor seviyesinin daha aşağısına kadar açılıyor, yani motordan önce iniş takımı kapakları sürterdi ve kırılırdı, sonra da parçaları bulunurdu.\n\nşu an için başka bir teori daha var. doğruluğundan emin değilim ama. a320'de sürat 260kt üzerinde ise iniş takımını açsanız dahi, iniş takımı kapaklarının yüksek süratteyken açılıp hasar alarak kopması ihtimalini engelleyen bir emniyet valfi bulunur. uçak bu süratin üzerindeyken valf aktiftir ve siz iniş takımı kolunu indirseniz bile takımlar açılmaz. doğruluğundan emin olmadığım kısım ise şu, uçak 260 kt'ın altında bir sürate yavaşladığında valf inaktif iken iniş takımı kolu hala aşağı (yani açık) pozisyonda ise, iniş takımları kolun aşağıda olduğunu algılayıp otomatik olarak açılır mı, yoksa kolu tekrar kaldırıp indirmek mi gerekir? a330'da da aynı sistem var ve ilgili dokümana baktığımda çok açıklayıcı bir bilgi yok. sadece limit süratin altına yavaşladığımızda emniyet valfinin inaktif olacağı belirtilmiş. valf inaktif olduğunda iniş takımı kolu açık ise iniş takımları otomatikman açılır mı açılmaz mı yazmamış.\n\nuçak 5 mil 3500 feetteyken piste yetişebilmesi için yüksek süratte alçalması gerekir (stabil zaten olamaz) eğer 260 kt'ın üzerinde bir süratte alçalırken iniş takımlarını açmaya çalıştılarsa açılmaz. ama iniş yapmak için mecburen 260 kt'ın altına yavaşlamaları gerekiyor, ki pist üzerinde 130 kt'ta oldukları belirtilmiş (kaynak flightradar sanırım) işte eğer 260 kt'ın altına yavaşladıklarında iniş takımları otomatik olarak açılmaz ise, kokpit ekibi de o acele yaklaşma hengamesinde iniş takımlarını açtıklarını düşünüp, iniş takımı üçlü göstergesine bakmayı unuttularsa motorları piste sürtene kadar iniş takımlarının açılmadığının farkına varmamış olabilirler (tabi duydukları master warning ikazı iniş takımı ile alakalı değil ise)\n\ntabi burada şunu da belirtmem gerekiyor, airbus320'de şöyle bir koruma mekanizması daha var. eğer uçak yere göre 750 feet irtifanın daha da altında, gaz kolu to/ga'da değil, flaplar da 2, 3 ya da full konumda ise uçak bas bas bağırıp master warning vermeye başlar ve ecam'de \"landing gear not down\" yazar kırmızı kırmızı. ama eğer l/g not down uyarısından daha öncelikli bir acil durum ikazı varsa ecam'de (uçakta ne olup bitiyor görebildiğiniz ekrandır ecam - electronic centralized aircraft monitoring) iniş takımının açık olmadığı uyarısını da göremeyeceklerdir. zaten aceleye getirilmiş bir yaklaşma yaptıkları için dikkatleri tamamen piste yetişmeye odaklanmıştır ve iniş takımının açık olmadığı ikazı da başka bir öncelikli acil durumdan dolayı engellenmişse yine yukarıda dediğim gibi motorları yere sürtene dek bunun farkına varamayacaklardır. bu durum olayı açıklar. ya da başka bir ihtimal, uçakta başka bir arıza yoktu ve kaptan l/g not down ikazını görmezden gelip devam etti (bu biraz ihtimal dışı geliyor bana tabi)\n\nbu son teorinin uygulanabilirliği 260 kt'ın altında bir sürate yavaşladıklarında iniş takımı kolu da aşağı pozisyonda iken takımların otomatik olarak açılmamasına bağlı. bunu da anca airbus bilir.",
+      "has_external_url": true
+    },
+    {
+      "title": "22 mayıs 2020 pakistan yolcu uçağı kazası",
+      "entry_id": "107689983",
+      "author": "zurito",
+      "date": "23.05.2020 23:16",
+      "content": "vallahi şu korona yüzünden televizyonda bile doğru düzgün haberini görmediğim/denk gelmediğim elim uçak kazası. kastettiğim tv türkiye televizyonu değil bu arada.",
+      "has_external_url": false
+    },
+    {
+      "title": "22 mayıs 2020 pakistan yolcu uçağı kazası",
+      "entry_id": "107696210",
+      "author": "dumurzade",
+      "date": "24.05.2020 00:36 ~ 01:16",
+      "content": "yine sözlükteki uzmanların en kısa sürede sonuca bağlamasını beklediğim bir kazadır. ama dikkat edilmeyen kısımlar hatalı sonuçlara ulaşmanıza sebep olabilir sayın kaza-kırım uzmanları. o yüzden gerekli doneleri paylaşma ihtiyacı hissediyorum, hadi göreyim sizi.\n\n1- uçak 25l pistine yaklaşırken atc ile yaptığı konuşmada kokpitte master warning ikazı yankılanıyor.\n\nhttps://www.youtube.com/watch?v=ua5pf3jmhdo\n\nhttps://m.soundcloud.com/…pia-flight-pk8303-atc-the\n\n2- yine uçak 25 pistine yaklaşmasını yaptığında açıkca görünüyor ki uçak elektrik beslemesini motorlarından değil rat yani ram air turbine'den karşılıyor. (gövdenin altında 1 numaralı motor hızasında)\n\nhttps://pbs.twimg.com/…aa47v8?format=jpg&name=large\nhttps://pbs.twimg.com/…aabage?format=jpg&name=large\n\n3- fotoğraflarda sol motordan duman çıktığı görünüyor. yanan yağ dumanına benzer duman.\n\n4- yaralı kurtulan yolculardan biri olan mohammad zubair, uçağın ilk inişte piste çarptığını söylüyor. daha sonra pilot bir anons yapıyor, motorlarda sorun olduğu ve inişin zorlu olacağı şeklinde.\n\nhttps://www.geo.tv/…-pia-flight-pk-8303-rises-to-97\n\n5- motorların altında oluşan karartı motordan sızan sıvıların yanması kaynaklı olabilir. cowl üzerinde yapısal hasar göze çarpmıyor. kuyruk vs.. herhangi bir sürtme izi yok. hatta olası bir yangın sonrası fdu çalıştırılmış olabilir.\n\n6- motorlar cfm56.\n\nhttps://en.wikipedia.org/…onal_airlines_flight_8303\n\n7- görev dağılımı kaptan sajjad gul pf(pilot flying), first officer usman azam ise pm(pilot monitoring) şeklinde.\n\nkazaya ait raporu aylarca beklemek istemiyorum. hepinize kolay gelsin!",
+      "has_external_url": true
+    },
+    {
+      "title": "22 mayıs 2020 pakistan yolcu uçağı kazası",
+      "entry_id": "107708857",
+      "author": "silayor",
+      "date": "24.05.2020 04:03",
+      "content": "tabii ki pilotaj hatasıdır yine.\n\nsen iniş takımların açılmadan, bundan emin olmadan, alakasız bir yükseklikteyken aceleyle inişe geçmeye çalışıp piste sürtüyorsun ve yere en yakın iki motor bu sürtünmeden hasar alıp kısa sürede duruyor. artık pas geçsen ne olacak, motorları kaybetmişsin ve düşüyorsun.\n\ninsan hatası yüzünden yine yüzlerce can korkunç bir şekilde yok oldu.\n\ngörgü tanıkları ve kurtulan yolcu uçağın ilk inişte yere sürttüğünü doğruladı kıvılcımlar saçarak. o esnada motorlar sürtünmeden hasar aldı. fotoğrafta motorların altındaki siyahlık bu sebeple.",
+      "has_external_url": false
+    },
+    {
+      "title": "22 mayıs 2020 pakistan yolcu uçağı kazası",
+      "entry_id": "107715238",
+      "author": "kisiliksiz",
+      "date": "24.05.2020 09:55",
+      "content": "gelen ilk veriler ışığında olan biten;\n\nuçak yüksekten iniş yapmaya çalışır. bu sırada pistin ilerisine ve çok sert bir şekilde oturur, pistte bir kaç kere yerde seker, bu sırada pas geçmeye başlarlar ancak uçak hala yerde sekmeye devam ettiğinden uçak tırmanmaya başlamadan iniş takımları yukarı alınır. bu şekilde uçak yerle temas eder ve motorlar zarar görür. bu haliyle pas geçmeye devam ederlerken iki motor da durur. sonuçta süzülerek piste yetişmeye çalışırlar ama yetişemezler.\n\nkazanın sebepleri, stabil olmadan yapılan yaklaşma ve pas geçiş sırasında erken iniş takımlarının toplanması. tamamen pilotaj gibi gözüküyor.",
+      "has_external_url": false
+    },
+    {
+      "title": "22 mayıs 2020 pakistan yolcu uçağı kazası",
+      "entry_id": "107718495",
+      "author": "pomocuemos",
+      "date": "24.05.2020 11:43",
+      "content": "survivor başlığı gündem olur, siyasetten min 5-6 başlık gündem olur ve zeynep bastık türkiyenin adele'i olur ama şöyle başlık sol frame'den kaybolur.\n\nne desem bilemedim.\n\nhayatını kaybedenlere baş sağlığı, yaralılara acil şifalar. bir havacılık tutkunu olarak olayı yakından takip edeceğim, umarım soruşturma bir an önce sonuçlanır da nedensiz yere bir uçak kazası olarak kayıtlara geçmez.",
+      "has_external_url": false
+    },
+    {
+      "title": "22 mayıs 2020 pakistan yolcu uçağı kazası",
+      "entry_id": "107718724",
+      "author": "babypilot",
+      "date": "24.05.2020 11:48",
+      "content": "pakistan havayolları'nın berbat siciline eklenen bir felakettir.\n\nbu arada az kişi bilir, bilen de dillendirmek istemez ama türk havayolu şirketlerinin uçuş sicili de pakistan, hindistan, iran gibi ülkelerden hemen sonra gelir.\n\ndiyeceksiniz ki bize hiç öyleymiş gibi gelmiyor. şöyle açıklayayım: söz konusu performans milyon uçuş saati başına ölümlü kaza oranı ile hesaplanır. milyon uçuş saati de temelde kaç uçak olduğuna göre değişir. abd'de 7500 yolcu ve kargo uçağı faaliyette iken, türkiye'de 540 uçak vardır. özel uçaklar hariç...\n\nşimdi türkiye'de kaç yılda bir uçak kazası olduğunu abd ile karşılaştırmalı düşünün..\n\nsahi, british airways'in son kazasını hatırlayan var mı?",
+      "has_external_url": false
+    },
+    {
+      "title": "22 mayıs 2020 pakistan yolcu uçağı kazası",
+      "entry_id": "107730245",
+      "author": "ciciplusplus",
+      "date": "24.05.2020 16:09",
+      "content": "son haberlere göre motorların yere sürttüğü, pist üzerindeki izlerden anlaşılıyor. bu durumda ilk iniş denemesinde uçağın hasar görmüş olabileceği ve motor arızalarının bu yüzden gerçekleşebileceği ihtimali de söz konusu. ilk iniş gerçekleşmeyince yeniden yükselmeye çalışan uçak, motorlara fazlasıyla ihtiyaç duyuyordu ancak sürtme esnasında alınan hasar motorların maksimum 2000 feet civarlarına çıkacak kaldırmayı üretmesine kadar izin vermiş gibi görünüyor. yine de bu kaza ile ilgili akıllarda çok fazla soru işareti var çünkü aynı durumda kalan her uçağın düşmesi söz konusu değil.",
+      "has_external_url": true
+    },
+    {
+      "title": "22 mayıs 2020 pakistan yolcu uçağı kazası",
+      "entry_id": "107879356",
+      "author": "kanzuk",
+      "date": "27.05.2020 00:04 ~ 22.06.2020 23:58",
+      "content": "ekleme: şaka gibi ama rapora göre pilot gerçekten iniş takımlarını açmayı unutmuş. çok ciddiyim, insana uçak emanet edilmemeli. yıl olmuş 2020, iki insan bir sebepten en unutulmayacak şey olan iniş takımını açmayı unutuyor diye 100 kişi ölüyor. fıkra gibi. şehir içinde hızlı gidip, durağa dalan otobüs şoföründen farkı olmayan insanlar bunlar.\n---\neldeki bulgular:\n\n1. piste yaklaşma esnasında çok yüksek irtifadaymış, atc 3 kere uyardığı halde özetle sorun olmaz demiş, irtifanın bu kazaya bir etkisi var mı bilinmiyor ama yorumlar pilotun kendini soktuğu bu fazlaca dik alçalma stresi nedeniyle bazı prosedürlerin atlanmış, uyarıların farkedilmemiş olabileceği yorumları var.\n\n2. 3400 metrelik piste iniş takımları kapalı şekilde gövde üzeri iniş yapıyor, pistin 1350. metresinde başlayan motor sürtme izleri 2900. metreye kadar -aralıklı olarak- devam ediyor .\n\n3. pistin sonunda tekrar havalanıyor, tekrar iniş için rota ve irtifa alıyor ama söylenen irtifaya çıkamıyor, olduğu irtifada kalmak istiyor . atc ona da onay veriyor ama o irtifada da kalamayarak alçalmaya devam ediyor. (kendisine verilen yüksekliğe çıkamadığı anı motorların durduğu veya güçten düştüğü an olarak varsayabiliriz şimdilik.)\n\n4. bu esnada uçağın fotoğrafları çekiliyor, gövde üzeri iniş nedeniyle sadece motorlarının altında karaltı ve iz var.\n\n5. daha sonra sola dönüş yapınca atc tekrar soruyor rotadan çıktığı için, pilot da motorları kaybettik diyor ve atc gövde üzeri iniş mi yapacaksınız diye soruyor, pilot cevap vermiyor.\n\n6. uçak düşmeden hemen önce pilot emercensi deklare ediyor. (pilot declares emergency yazsam daha kolay anlaşılırdı.)\n\n7. uçağın iniş takımları açık şekilde piste yaklaşırken düşüşü bir güvenlik kamerası tarafından kaydediliyor .\n\nekleme: 8. bütün bu süreç boyunca uçağın hızı iniş anı dahil olmak üzere yaklaşma ve iniş için belirlenen limitlerin üstündeymiş .\n\nekleme2: 9. pakistan'ın sivil havacılıktan sorumlu bakanının açıklamasına göre uçak iniş öncesi kuleye iniş takımlarıyla ilgili hiçbir sorun bildirmemiş .\n\nbütün bu verilerden pilot ilk iniş denemesinde iniş takımlarını açmayı unutmuş olabilir mi dedim,'yok artık!' demeyin, olmamış değil . (daha ilginci, 4 şubat 1986'da yine pakistan havayolları'nın bir başka pilotu iniş takımlarını açmayı unutup gövde üzeri iniş yapmış .)\n\nama tabii ki unutmamış, çünkü telsiz konuşmaları esnasında iniş takımlarının açılmaya çalışıldığı ama bir sebepten açılmadığı durumlarda gelen (gear unsafe) uyarı sesi geliyor, burada incelenmiş.\n\nekleme: uçağın hızı eğer iniş esnasındaki konfigürasyonlara göre belirlenen limitlerin üzerinde olursa da aynı/çok benzer bir uyarı sesi varmış . uçağın iniş süreci boyunca sürekli belirlenen limitlerin üzerinde kaldığını da hesaba katarsak, bu sesin sadece yüksek hız uyarısı veya yüksek hız uyarısı + iniş takımı açılmadı uyarısı olması ihtimalleri var ama daha azı yok anladığım kadarıyla. o yüzden iniş takımlarının hiç açılmamış olması ihtimali güncelliğini koruyor. ben her durumda iniş takımlarını açtı ama bir sebepten açılmadı ve uyarı geldi diye yorumlamıştım, aşağıdaki üç paragrafı o çerçevede yazmıştım. uyarı sadece hız nedeniyle geldiyse, iniş takımlarının açılması gerçekten tamamen unutulmuş olabilir.\n\nbu uyarı bu olayda bir arıza nedeniyle iniş takımları açılmadığı anlamındaysa, iniş takım kolunu tekrar kapalı pozisyona getirip, 2 dakika bekleyip, tekrar açıp, yine açılmaması durumunda da manuel olarak kol yardımıyla iniş takımlarının açılması gerekiyor. yani bu uyarıyı alan bir pilotun piste inmeden önce havada en az 2 dakika daha beklemesi gerekiyor. (airbus a320 anomali el kitabı 8. bölüm, 9. başlık, sayfa 70)\n\nbu olayda ise bu ses iniş gerçekleşmeden hemen önce duyuluyor. neredeyse piste inmeden saniyeler önce diyebilirim çünkü bu sesin duyulduğu iletişimden tam 14 saniye sonra pilot'going around' (inişi iptal etme) anonsu yapıyor. yani inmiş, motorları sürtmüş, vazgeçmiş, kalkmış, anons etmiş 14 saniye içinde.\n\nayrıca bundan önceki konuşmalarda bu uyarı sesi yok. muhtemelen çok son saniyede iniş takımlarını açtı(açmaya çalıştı), normalde piste yaklaşık 6 mil kaldığında iniş takımları açılırmış .\n\npilotun ilk iniş denemesi öncesi gövde üzeri iniş için kuleye bilgi geçtiği gibi bir veri de yok (ek: pilot iniş takımlarında bir sorun olduğuna dair herhangi bir bildirimde bulunmamış) ancak zaten gövde üzerine inişlerde iniş öncesi motorların tamamen kapatılması gerekiyor prosedür gereği ve pilot bu tercihte bulunmuş olsaydı inişten vazgeçebileceği bir motor gücü olmayacaktı. buradan da anlıyoruz ki pilot aslında bir gövde üzeri iniş prosedürü gerçekleştirmiyor. (airbus a320 anomali el kitabı 8. bölüm, 5. başlık, sayfa 68-69)\n\nözetle benim düşüncem şu, ilk iniş denemesinde iniş takımları (aksaklık veya unutkanlık) bir sebepten açılmadı, bunu farketmeyerek iniş takımları açılmış gibi normal iniş yaptılar, motorlar piste sürtünce kararsız kalmış olmalılar bir süre çünkü 1550 metre sürtünme izi var pistte. sonra baktılar pistten çıkacaklar, inişten vazgeçtiler, tekrar havalandılar, bu sefer iniş takımlarını açtılar ama motorlar sürtünme nedeniyle hasar görmüştü ve daha fazla dayanamadı. süzülerek havalimanına ulaşmaya çalıştılar ama olmadı.\n\nentry içinde bulunan linkler dışındaki kaynaklarım:\nhttps://en.wikipedia.org/…onal_airlines_flight_8303\nhttps://www.flightradar24.com/…rashes-near-karachi/\nhttps://news.sky.com/…ring-landing-attempt-11994336",
+      "has_external_url": true
+    },
+    {
+      "title": "22 mayıs 2020 pakistan yolcu uçağı kazası",
+      "entry_id": "107890268",
+      "author": "maximus decimus meridius",
+      "date": "27.05.2020 03:01",
+      "content": "uçak kazalarında özellikle deniz & okyanus üzerinde gerçekleşen vakalarda kazanın sebebine dair tahmin yürütmek ilk etapta zordur. kokpit ve kule ses kayıtlarının dışında çok fazla veri olmaz. gerekçeye dair kuvvetli fikir sahibi olmak için bazen aylar geçmesi gerekebilir. bu afganistan kazası gibi nadir kazalarda ise vaka yerleşim yeri yakınında gerçekleşmişse gerçekten birden fazla detaya çok daha hızlı erişebilirsiniz. artık yıl 2020, her yerde kamera var. neredeyse herkesin elinde çekim kabiliyeti olan telefonlar var. durum böyleyken hele de gündüz gerçekleşen bir kırımla ilgili çok sayıda argüman sosyal medyaya ve basına düşmüşse tahmin yürütmek o kadar da zor değil. elbette pakistan uçağının düşme nedeni %100 belli değil henüz. kara kutu incelenecek, soruşturma devam ediyor. fakat pistin ve uçağın kaza öncesi & sonrası görüntüleri ile birlikte kule kokpit görüşmeleri artı kazadan kurtulan 2 yolcunun ifadeleri sonrası gerekçe yaklaşık olarak belli oldu gibi.\n\nuçak ilk iniş denemesini biraz yüksek irtifada yapıyor ve bir sebepten iniş takımı açılmıyor. 3000 metreden daha uzun pistte ciddi bir mesafe boyunca uçak motorlarının altını zemine sürtüyor. sonrasında güvenli iniş imkanı kalmadığını anladıklarında pas geçmek zorunda kalıyorlar ve tekrar havalanıyorlar.\n\nyeniden havalanma sonrası motorların ikisi de devredışı kalıyor. kulenin istediği irtifaya da yükselemeden motorların çalışmadığının bilinci ile “bu kez iniş takımlarını açarak” piste doğru alçalıyorlar. fakat itiş gücü olmadığı için güçleri piste kadar yetmiyor ve düşüyor uçak.\n\nkafamda bazı sorular var;\n\n**ilk denemede iniş takımı neden açık değil? uçuş deneyimi yeterli gibi görünen ve özellikle kule ile görüşmeleri son derece soğukkanlı olan kokpit ekibi iniş takımını açmayı es geçmiş olabilir mi? yoksa ilk denemede iniş takımının açılmasını engelleyen mekanik bir problem vardı, ikinci deneme öncesi bu problem giderildi mi?\n\n**pas geçme sonrası yeterli itiş gücü olmayan iki motoru da devre dışı kalmış bir uçağımız var. pilotlar tekrar piste yaklaşmaya çalışarak matematiksel olarak hata mı yaptılar? yani ikinci denemede şartları da değerlendirip havalimanı yerine uçağı yarı güvenli de olsa apartmanların üzerine değil de alternatif bir yere indirmeye çalışmaları gerekmez miydi? [belki de bakındılar?] çevrede; hem uçaktaki yolculara hem de yerel halka daha az zarar verme ihtimali olan nispeten geniş bir yer aradılar mı? uçağın hızını, irtifasını ve itiş gücünü tüm olumsuzluklara rağmen yanlış değerlendirmiş olmaları ihtimali de diğer etkenlere ek olarak kazaya sebep olmuş olabilir mi?\n\n**havalimanlarında iniş yapan uçakların iniş takımlarının açık veya kapalı olduğuna dair kuleye ve kokpitlere bilgi verecek bir sistem var mı?\n\n**havalimanı yakın çevresinde deniz olmuş olsaydı iki motoru da çalışmayan bir uçak için suya iniş prosedürü, pistin kendisi dışındaki tüm iniş alternatifleri arasında en iyisi midir?",
+      "has_external_url": false
+    },
+    {
+      "title": "22 mayıs 2020 pakistan yolcu uçağı kazası",
+      "entry_id": "107895135",
+      "author": "selkiee",
+      "date": "27.05.2020 07:21",
+      "content": "haberlere bakmıyorum epeydir. o yüzden tv'de denk gelmedim. ekşi de gündem olmamasına şaşırıdm. tam uçak kazası raporu izlediğim günlerde denk geldi. uçuşların seyreldiği bu dönemde böyle büyük çapta kaza olması ve gerçekten şanssızlık.\nhiç yokken uçuş fobim oluşuyor sanırım",
+      "has_external_url": false
+    },
+    {
+      "title": "22 mayıs 2020 pakistan yolcu uçağı kazası",
+      "entry_id": "107908934",
+      "author": "birahalasoguk",
+      "date": "27.05.2020 14:53",
+      "content": "motorların piste temas etmesi sonucu oluştuğu kesinleşen kaza. motorlara gelen darbe sebebiyle 2000ft de 2 motor da durmuştur. neden temas ettiği ise ayrı soru işareti. iniş takımları tam açılmadığı işin motorlar piste temas etti ve pas geçtiler diyen de var, bounced landing sonrası pas geçerken iniş takımlarını erken toplayınca motorlar piste temas etti diyen de.",
+      "has_external_url": false
+    },
+    {
+      "title": "22 mayıs 2020 pakistan yolcu uçağı kazası",
+      "entry_id": "107909974",
+      "author": "bibidibabidibu",
+      "date": "27.05.2020 15:18",
+      "content": "eğer bounced landing sonucu pas geçilirken iniş takımlarının erken toplanması gibi bir hata yapıldıysa bu pm(pilot monitoring) tarafından yapılan positive rate/climb call-out'unun ezbere, pfd'ye bakmadan yapılmış olma ihtimalini aklıma getiriyor. çok önemsiz gibi görünen her detayın aslında büyük önemi var havacılıkta. o positive rate call-out'unun bir mantığı var. uçağın bir nedenle pistten yeteri kadar tırmanamıyorsa toplama diyor iniş takımını, birazdan negative vario'yla tekrar piste dokunabilirsin diyor. açıkçası bugüne kadar hiç bu ihtimali düşünmemiştim, bir anlık dikkatsizlik belki yorgunluk nelere mal olabiliyor işte. işin en rutin gibi görünen kısmında yapılan bir yanlışlık bile nelere mal oluyor.",
+      "has_external_url": false
+    },
+    {
+      "title": "22 mayıs 2020 pakistan yolcu uçağı kazası",
+      "entry_id": "107943326",
+      "author": "bibidibabidibu",
+      "date": "28.05.2020 02:10",
+      "content": "uçağın performance datası açıklanmış. babalar gibi stabil olmayan yaklaşma yapmışlar maalesef. aletli yaklaşma yaparken yer seviyesi artı 1000 feet'te olunması gereken hızdan (b737 için vref-5 vref+10 bandında çoğu şirkette) çok daha yüksek bir hızda ve olunması gereken alçalış oranından (bu da dakikada 1000 feet olarak kabul edilmiştir çoğu şirkette) çok daha yüksek bir alçalış oranıyla yaklaştığı anlaşılıyor. 10000 feet'ten alçalırken saniyeler boyunca 7000 fpm'i görmüşler.\n\nhemen teşhisi koymak istemiyorum, haddime değil ancak acelecilik, şirketin emniyet kültürünün yetersizliği pilotların kendine aşırı güveni gibi insan faktörleri var gibi işin içinde sanki. bunu cvr kayıtlarını dinleyebilirsek daha net anlayabiliriz. pas geçip yeniden yaklaşmaları gereken bir durumda inmekte ısrar etmişler ve gerisi de malum.",
+      "has_external_url": false
+    },
+    {
+      "title": "22 mayıs 2020 pakistan yolcu uçağı kazası",
+      "entry_id": "109243388",
+      "author": "kanzuk",
+      "date": "23.06.2020 10:47 ~ 27.06.2020 06:37",
+      "content": "pilotların nasıl olup da tüm uyarıları fark etmeyip, iniş takımlarını açmadan iniş yapabildiklerini anlamak için aynı şartları oluşturup, simülasyonda uçağın uyarı sistemlerinin verdiği tepkileri tespit etmiş bir youtuber.\n\nhttps://www.youtube.com/…yc&feature=youtu.be&t=1037\n\nözetle iniş takımıyla ilgili 2 uyarı var, biri sesli ve ışıklı master warning, diğeri de too low gear sesli uyarısı.\n\nmaster warning -ki telsiz konuşmalarında arkadan bu alarm duyuluyor- flaplar iniş konfigürasyonundayken uçağın hızı yüksek olursa, -ki bu kazada öyle görünüyor- hız düşene kadar çalıyor ve aynı master alarm, iniş konfigürasyonunda ve yere yakın olduğu halde iniş takımları açılmadıysa da çalıyor. master alarmın neden çaldığı da ekranda yazıyor, birden fazla sebepse hepsi alt alta yazıyor ve ayrıca iniş takımı kolunun yanında da kırmızı bir ok yanıyor, açılmadığına dikkat çekmek için.\n\nzaten fazla hızlı olduklarının farkında olan ekip, muhtemelen master alarmın sadece hız nedeniyle çaldığını düşündükleri için ekrandaki açıklamalara odaklanmadılar.\n\ndiğer alarm ise sadece sesli bir too low gear uyarısı. ancak bu sesli uyarı uçağın diğer sesli uyarılarıyla bir önceliklendirme sırasına konulmuş . bundaki önem sırası da aşırı hızlı alçalma(sink rate) uyarısı, yere çok fazla yaklaşma (terrain) uyarısı, kalkış sonrası alçalma (don't sink) uyarısı ve bütün bunlardan sonra çok alçak (too low terrain) ve sonra da iniş takımları (too low gear) uyarıları. duruma göre ilaveten uçağın burnunu kaldırmayı hatırlatmak adına'pull up' uyarıları da var.\n\nözetle, düşen uçağın hız ve alçalma bilgileriyle, flaplar iniş konfigürasyonundayken, iniş takımlarını açmadan uçuşu simüle ettiğinde önce hız uyarısı nedeniyle master warning çalıyor, bu hiçbir zaman susmuyor. sonra hızlı alçalma uyarısı (sink rate) devreye giriyor, sonra'pull up' uyarısı devreye giriyor, sonra iniş takımı uyarı yazısı çıkıyor ve kırmızı ok yanıyor (zaten duyulan master warning sesi var, bu uyarı da o sesi kullandığından buna dair başka bir sesli uyarı olmuyor) sonra'too low terrain' uyarısı duyuluyor. hiçbir zaman'too low gear' uyarısı gelmiyor, uçağın normalin üzerindeki hızı nedeniyle. ('too low terrain' uyarısı da sadece iniş takımları kapalıyken gelen bir uyarıymış aslında.)\n\nezcümle, uçak olması gerektiği gibi kulanıldığı takdirde gayet yeterli uyarı sistemlerine sahipken, pilotların hız ve alçalmada bilinçli olarak kural dışı hareket etmeleri nedeniyle birden çok alarmın devreye girmesine sebep olup, gerçekten atladıkları iniş takımlarının uyarılarını farkedemeyecek veya duyamayacak bir duruma sokuyorlar kendilerini.",
+      "has_external_url": true
+    },
+    {
+      "title": "22 mayıs 2020 pakistan yolcu uçağı kazası",
+      "entry_id": "109291035",
+      "author": "ready for departure",
+      "date": "24.06.2020 10:02",
+      "content": "pakistan sivil havacılık otoritesinin ön raporunun \"güya\" sızmış kısmında iddia edildiği gibi, hava trafik kontrolörünün pilotlarla eşit oranda hatalı olduğu iddiası, eğer gerçek ise çok büyük saçmalık. bu kadar aptalca bir suçlama olamaz. ve yine eğer doğru ise malum ülkenin crm ve emniyet kültürü konusundaki şüphelerimi de doğruluyor demektir.\n\nabd ve avrupa'nın emniyet kültüründen yoksun ülkelerin havacılık sistemi ne yazık ki kaptanlar üzerine kuruludur. pilotların çok önemli insanlarmış gibi lanse edildiği, otomasyon bu kadar gelişmemişken her şeyin pilota bağlı olduğu, şirketlerin karşılarında el pençe divan durdukları zamanlarda, uğruna çekilen ve onları kahraman gibi gösteren onca filmden sonra haliyle bi god complex oluşuyor pilotta. bunu yenebilen, kendini emniyet kültürüne uydurabilen pilot emniyet kültürüne sahip şirketlerde kendine yer bulabiliyor. god complex'e kendini kaptıran top gun'lar ise 5 mil 3500'feet'ten uçağı daldırıp indirmeye çalışıyor.\n\nbakmayın avrupa ve abd'nin emniyet kültürünü övdüğüme, onlar da bu hastalıktan mustariptiler tenerife kazasına kadar. hatta o kaza da bu zihniyetin bir sonucuydu. bu kazadan önce de crm hakkında çalışmalar yapılıyor olsa da, bu kaza ile inanılmaz bir ivme kazanmış ve havacılık emniyet kültürü büyük bir değişime uğramıştır. tabi, nasiplenene..\n\npakistan, hindistan, iran, türkiye ve orta doğu arap toplumları gibi çağdaş medeniyete çok da katkısı olmayan (burada ülkemizi ayrı tutuyorum), güç mesafesi yüksek ve bunu muhafaza etmeye daha yatkın toplumlar ise bu değişime sözde ayak uydurup özde direnerek gemilerini yürütmeye çalıştılar. 2009 amsterdam kazasına kadar biz de yukarıda saydığım ülkelerle aynı gemideydik. bu kazanın sonrasında thy'de de büyük bir değişim oldu (bu da bizim irademizden ziyade easa'nın zorlamasıyla oldu bakmayın) ve biz de neticede emniyet kültürü ve crm konusunu ciddi bir şekilde ele alıp eğitim programlarımıza, dokümanlarımıza ekledik. tabi değişim hemen olmuyor, eski nesilden gelen top gun hocalarımız çok direndilerse de, yetişen yeni nesil sivil kaynaklı pilotlarla birlikte crm kültürü (hala tam istenen seviyede olmasa da) oturmuş durumda thy'de. bu konuda örnek şirket sunexpress olarak gösterilebilir türkiye'de. emniyet kültürü ve crm olarak avrupa seviyesinde olduklarını gönül rahatlığıyla söyleyebilirim.\n\nsaydığım diğer ülkeler ise, kaptanın hala bir tanrı muamelesi gördüğü, pilotların çok üstün insanlar sanıldığı garip yerler. insan doğası tabi, bal tutan parmağını yalıyor. bi güç pozisyonunu ele geçiren, onu bırakmamak için elinden geleni yapıyor (tanıdık geldi mi?) o yüzden emniyet kültürü ve crm'e doğru olan bu değişime en çok ayak direyenler de kaptanlar oldu. sarsılmaz otoritelerinin sorgulanabilmesinin, hem de sağında oturan çömez tarafından, kabul edilebilir bir yanı yoktu! uçak onundu ve her şeyi o bilirdi. kabin memuruna business class'a nasıl servis yapılması gerektiğini falan anlatan adamlar vardı. ama bu emniyet kültürü yavaş yavaş oturmaya başladıkça bunlar da değişti, değişiyor. neyse, uzatıyorum. bahsettiğim ülkelerin şirketlerinde durum hala eski pazar yeri. kaptan ne derse o oluyor, hatta pilotların etki alanı o kadar geniş ki, bariz prosedür ihlali ve pilot hatası olan şu kazada bile pilotun suç yükünü hafifletmek için hava trafik kontrolörüne suç paylaştırmaya çalışıyorlar.\n\nortada top gun bir kaptan var, yanındaki ikinci pilot da sesinden anladığım kadarıyla tedirgin, hatta pas geçtikten sonra \"3500'e tırmanmıyorsunuz\" diyen kuleye, olayın şokuyla ne cevap vereceğini bilemeden, kaptanın söylediği şeyleri havacılık terminolojisine tercüme etmeden aynen tekrar ediyor kuleye (\"give me two thousand\") kaptanın otoritesiyle ezilmiş ve sesini çıkaramıyor, kaptana hatasını söyleyemiyor. tabi burada ikinci pilotu suçladığımı düşünmeyin, olaydaki kusurun küçük kısmı onda bence (o da ne olursa olsun sesini çıkarmadığı için. sonuçta bu trajediyi önleyebilecek iki kişiden biriydi) muhtemelen sonrasında bu kaptandan ve onun kaptan kankilerinden her uçuşta göreceği muamale, bitmeyen ve sonunda başarısız olunan simülatör checkleri, kaptanlığa terfinin gecikmesi vs bir sürü tilki dönüyordu kafasında o an ve bunları düşünerek müdahaleden ya da en azından kaptanı uyarmaktan dahi çekindi.\n\nhava trafik kontrolörü ise bana kalırsa görevini eksiksiz yerine getirmiş, hatta uçağın yüksek kaldığını uçağa birden fazla kere hatırlatarak yapması mecbur olmayan tavsiyeleri bile vermiş. burada suçlanacak en son kişi kontrolör. kule senin alçalma profilini görüp \"yok kardeş inemezsin sen bu irtifadan, pas geç\" diyemez, öyle bir yetkisi yok. pilotun hareket sahasına müdahale etmektir bu. hani \"uçağı pas geçirseymiş keşke\" diyebilecekler için söylüyorum.\n\nbu olaydan çıkarılacak ders ise bana kalırsa; easa, faa, icao, iata, bm, nato, unicef, uefa, qwerty artık ne kadar havacılık otoritesi varsa dünya üzerinde, bu ülkelerin taşıyıcılarını sıkı bir kıskaca almalı ve bahsettiğim crm ve emniyet kültürü oturana kadar da sıkı sıkıya bunu takip etmeli, gerekirse bu ülkelerin taşıyıcılarını hava sahalarına sokmamalı. kafasına sopayı yemeden bunların değişeceği yok çünkü.",
+      "has_external_url": false
+    },
+    {
+      "title": "22 mayıs 2020 pakistan yolcu uçağı kazası",
+      "entry_id": "109307961",
+      "author": "ready for departure",
+      "date": "24.06.2020 17:48 ~ 20:08",
+      "content": "kazanın ön raporu yayımlandı. rapora göre;\n\n1. ekip, uçuş boyunca standart call-out (operasyon esnasında kullanılan standart iletişim kelimeleri) kullanmamış ve crm usulleri uygulanmamış (meali; ekip çalışması gözlenmemiş)\n\n2. initial approach fix (yani alçalma safhasının biti yaklaşma safhasının başladığı nokta) olan makli noktası 9780 feet'te geçiliyor. bu nokta pist başına 15 nm uzaklıkta. kaba hesapla bu noktadan nominal iniş hattında geçebilmek için 5000 feet civarında olmanız gerekir. burada 4800 feet yukarıdalar. yaklaşmanın stabil olmayacağı buradan bile belli.\n\n3. hava trafik kontrol ünitesi pilotlara pist başına olan mesafelerini söyleyip \"confirm track mile comfortable for descend” diye soruyor. sonrasıda irtifa kaybetmeleri için bir 360 derecelik dönüş yapmalarını tavsiye ediyor. ama ekip yaklaşmaya devam ediyor.\n\n4. ekip 7221 feet 10.5 mildeyken iniş takımını açıyor. 10.5 milde olmanız gereken irtifa 3000 feet bu arada.\n\n5. hava trafik kontrol ünitesi uçağın fazlasıyla yüksek kalmasından dolayı yaklaşmaya devam edilmemesi için iki kere tavsiye, bir kere de uyarıda bulunuyor.\n\n6. ekip 1740 feet'te iken iniş takımlarını topluyor. (bu kısım çok garip. iniş takımlarının neden kapalı olduğu sorusunun cevabı burada. muhtemelen aceleyle yapılan yaklaşmadan dolayı durumsal farkındalık çok düşük, irtifa kaybetmeye tamamen odaklanılmış ve geri kalan girdilerin göz ardı edilmiş, ekip zihnen overload olmuş durumda. kafa o kadar dolmuş ki, iniş takımının zaten açık olduğu unutulmuş ve -kaptanın isteği ya da ikinci pilotun kendi aksiyonuyla- el iniş takımı koluna gitmiş, kol hareket edebileceği tek yöne -yani yukarı- doğru hareket ettirilmiş ve zaten aşağıda olan iniş takımları farkında olmadan toplanmış. tabi bu benim fikrim.) bu esnada speedbrake de toplanıyor ve piste mesafe 5 mil. bu arada, şu linkteki grafiğe göre uçak 6 milde 3500 feet'te iken 5 milde 1700 feet'te görünüyor ve sürati 260 kt civarında. bunu şöyle açıklayayım. bir milde 1700 feet kaybetmiş uçak. yani dalış yapmış. dakikada 7000 feet'e yakın bir oranda alçalış yapmış. bu oranı 3500 feet'ten 1500 feet'e kadar korumuş. yani alçalmayı durdurmadan böyle devam etse 13 saniye sonra yere çakılacaklar. inanılmaz...\n\n7. böyle bir haldeyken uçak, verebileceği bütün ikazları veriyor (sink rate, gear not down, overspeed vs.) 5 milde nominal iniş hattını yakalamışlar ama süratleri 243 kt ve flap koymuşlar. airbus 320 için 1 flap koyma limit sürati 230 kt. yani limit aşımı ve overspeed var. flapları kırmaları mümkündü bu süratte. overspeed protection'un devreye girip uçağı bu durumdan kurtarması için maksimum sürat + 16 knot'lık bir süratte olması gerekiyor, eğer pilot sidestick'i ileri bastırıyorsa. ki kaptan manuel uçuyor ve istediği alçalış oranını yakalayabilmesi için sidestick'i ileri bastırmaktan başka seçeneği yok. bu yüzden overspeed protection devreye girmiyor (ki bunun da mantıki açıklaması var, isteyene onu da açıklarım)\n\n8. durumu takip eden hava trafik kontrol ünitesi (yaklaşma kontrol frekansı), durumun vahametinin farkına varmış olacak ki, pilotlara kule frekansına geçme talimatı verip daha fazla iş yüklemek yerine kule ile kendisi iletişime geçerek iniş iznini alıp pilotlara iletiyor. helal olsun, bu kontrolörü kutlamak lazım.\n\nkaldığım yerden devam\n\n9. raporda; kule'nin, iniş iznini uçağın iniş takımlarının açık olup olmadığına bakmadan verdiği yazılmış. buradan da kontrolöre fatura çıkarmışlar. yanlışım varsa kontrolör arkadaşlar düzeltsin, kontrolörün böyle bir sorumluluğu yok. bu kadar saçma bir şeyi nasıl uydurdular, çok merak ediyorum. karachi'de düşük görüş ekipmanı yok, ama cat 1 yaklaşması için bulut alt tavan limiti 200 feet. 200 feet'e gelmeniz demek, 5-10 saniye içinde piste teker koyacaksınız demektir. şimdi bu meydanın kontrolörü görüş şartlarının düşük olduğu zamanlarda uçağı görmeyi mi bekliyor iniş izni vermek için? bulut alt tavanı 200 feet ise, kontrolör uçağa iniş izni vermek için uçağı görmeyi beklerse, uçak iniş iznini geri okurken bir yandan da teker koyar. saçmalık. bir önceki entrimde açıkladığım durum bu işte. sadece pilotun hatalı olduğunu gizlemek için suç ortağı bulmuşlar kendilerince. umarım resmi raporda bu saçmalıktan vazgeçerler de işini on numara yapan ve takdir edilmesi gereken kontrolör temize çıkar.\n\ndevam edelim...\n\n10. 500 feet; iniş takımları toplanmış, 3 flap, 220 kt süratte ve dakikada 2000 feet alçalma oranıyla geçiliyor. intihar senaryosu gibi.. bu verileri bir pilota gösterip fikrini sorun, olay daha bu noktaya varmadan çoktan pas geçmiş olacağını söyleyecektir. ama ne yazık ki inişte ısrar edilmiş. 3 flap için limit sürati 185 knot. uçak ise 220 knot'ta yardırıyor piste doğru. flap ve slat'ları nasıl kırmamışlar merak ettim. belki de kırmışlardır ama farkında değillerdir. bu esnada yine overspeed, landing gear not down, sink rate uyarılarını vermiştir uçak, ama öncelik overspeed'de olduğu için ve muhtemelen son yaklaşma boyunca overspeed ikazı aldıkları için ecam'e bakmayı bırakıp (nasıl olsa overspeed ikazı veriyor diyerek) devam etmişler. aslında ecam'e bi anlığına baksalar hemen overspeed ikazının altında landing gear not down ikazını da göreceklerdi. işte bunu görseler belki bu sayede paçayı yırtabilirlerdi. ne yazık ki bunu da yapmamışlar olayın acelesi ve fikslenmeleri yüzünden.\n\n11. uçak, motor üzerine iniş yapıyor, kaptan reverse thrust açıp frene basıyor. bu da ekibin iniş takımının kapalı olduğundan bihaber olduğunun bir başka göstergesi. burada yine airbus kurtarıyor uçağı. airbus uçaklarında iniş esnasında reverse thrust'ın açılabilmesi için bazı şartlar vardır. bu şartların hepsinde, iniş takımlarının açık ve en az bir ana dikmenin yere temas etmiş olması gerekir. yani bu şartlar sağlanmadığı taktirde, siz gaz kolunu reverse thrust pozisyonuna getirseniz bile uçak bu komutu uygulamaz. eğer bu mekanizma olmasaydı, motorlardaki reverse thrust kapıları açılacak ve o süratle piste sürtünme neticesinde nacelle denen motorun dış metalik yüzeyi parçalanacak ve artık ortada türbini koruyan bir metal koruma olmadığı için yüksek bir ihtimalle bu sürtünme motorun kendisine ulaşacaktı. bu da motorun sürtünerek alev alması ve pist üzerinde bir alev topu oluşmasını tetikleyecekti. airbus'ın uçağa eklediği bu mekanizma pilotlara uçağı kurtarmaları için bir şans daha verdi.\n\n12. raporda kule'deki kontrolöre suç yüklemek için başka bir saçma madde daha var. kule'nin uçağın pistte kıvılcımlar saçarak ilerlediğini görüp bunu uçağa iletmemesi bir bulgu olarak yazılmış. esasında kule uçak kendi frekansında olmadığı için, bu durumu uçağın o an konuştuğu yaklaşma kontrol frekansına iletmiş, ama yaklaşma kontrolörü bunu uçağa iletmemiş. bu da bir bulgu olarak raporda yerini almış. yani uçak yerde bir dakika boyunca sürüklense anlarım ama zaten bitin bu iniş-sürtünme-pas geçiş süresi toplamda neredeyse 5 saniye sürmüş (uçağın yere dokunduğu an sürati 200 knot'ın biraz üzerinde. bu da saniyede 103 metre yol aldığı anlamına geliyor. yerdeki sürtünme izleri ise 1500 feet uzunluğunda, bu da 457 metre eder) 5 saniyelik bir olayda kontrolör uçağı uyarsa kaç yazar? tam tersine, kontrolörün girdisi o kritik anda pilotların dikkatini başka yöne çevirecek, pilotlar kontrolörden gelen yeni girdiyi zihinde işlemek için zaman harcayacak vs yani bu 5 saniyelik süreyi daha da uzatabilirdi kontrolörün öyle kritik bir anda girdi yapması. yine doğrusunu yapmış kontrolör. helal olsun valla. pakistan ulaştırma bakanının madalya vermesi lazım o kontrolöre. adamın bir tane falsosu yok, on numara yönetmiş durumu.\n\n13. ekip pas geçiyor ve pas geçiş esnasında bir anlığına iniş takımı kolu aşağı indiriliyor, sonrasında hemen tekrar yukarı konuma getiriliyor. bu da muhtemelen, pas geçiş esnasında normal prosedüre göre, pozitif tırmanış oranı görüldüğünde \"gear up!\" komutuyla iniş takımının toplanması işlemi düşünülerek yapılmış bir hareket. kafa karışıklığı ve disoryantasyonun seviyesi hakkında sağlam bir fikir veriyor.\n\n14. pas geçiş esnasındaki tırmanışta motorlar birer birer duruyor. sonrasında ise ram air turbine açılarak kritik sistemlere sınırlı miktarda hidrolik ve elektrik sağlıyor. flight data recorder (fdr)bu sistemlerden biri olmadığı için kayıt burada duruyor. zaten buradan sonrasının çok da bir gizemi yok. görgü tanıkları, konuşma kayıtları ve uçağın düştüğü duruma bakarak kalan kısımda ne olduğu tahmin edilebilir.\n\nkazanın cevaplanamayan kısmı, neden iniş takımları açılmadan iniş denemesi yapıldığıydı. bu da fdr sayesinde öğrenilmiş oldu.\n\nçok üzücü ve bir o kadar da ders barındıran bir kaza. umarım bütün havayolları bu kazadan gereken dersleri çıkarıp kendine aşırı güven, ekip kaynak yönetimi (crm) ve standart operasyon usüllerine bağlılık konusunda pilotlarına gereken eğitimi verir.",
+      "has_external_url": true
+    },
+    {
+      "title": "22 mayıs 2020 pakistan yolcu uçağı kazası",
+      "entry_id": "109802607",
+      "author": "birahalasoguk",
+      "date": "05.07.2020 21:13",
+      "content": "bizden bir airbus kaptan pilotu yayınlanan raporlara göre kazayı baya açıklamış.\n\nlink",
+      "has_external_url": true
+    },
+    {
+      "title": "22 mayıs 2020 pakistan yolcu uçağı kazası",
+      "entry_id": "111864521",
+      "author": "un deux trois",
+      "date": "21.08.2020 01:09",
+      "content": "7000 feet civarında iniş takımı açmalarının sebebi aşırı hızla yaklaştıklarından ve bir an önce yavaşlamaları gereklilğinden kaynaklanıyor olabilir mi diye düşünmeden edemiyorum. iniş takımlarının drag kuvvetinden de yararlanmak istemiş olabilirler. pilot arkadaşların görüşleri değerlidir, paylaşırlarsa seviniriz.\n\nsonra neden topladılar hepsini cvr kayıtlarından sonra göreceğiz tabi ki.\n\npiste değdiklerinde reverser uygulamışlar tabi ki iniş takımları olmadığından aktif olmamıştır. sanırım spoiler da aktif olmuyor. sonra iniş takımlarını açmış.\n\nbence ilk başta go around yapmak istemedi ama yavaşlayamayacağını anladığı için vazgeçti. deneseydi daha fazla insan hayatta kalabilirdi diye düşünüyorum.\n\nön rapora göre atc görevlisi uçağın motorları üstüne iniş yaptığını görmüş, uçak kötü yaklaşmadan dolayı kule yerine yaklaşma frekansında olduğundan kule görevlisi yaklaşma görevlisine haber vermiş. atc ne olursa olsun uçağa hemen dönüş yapıp durumu bildirmeliydi.\n\nuçağın apu su hiç çalıştırılmamış. buradan motorları tekrar çalıştırmayı denemedikleri görüşü ortaya çıkıyor gibi. ayrıca iki motor da durunca flight data recorder da devre dışı kaldığından bu kısımda pilotların komutlarını asla tam olarak öğrenemeyeceğiz.\n\nburada da airbus pilotlarının görüşleri önemli, çünkü araştırdığım kaynaklarda bazı airbus pilotları a320 lerdeki fdr nin tüm motorlar dursa bile devam edeceğini, buradaki fdr nin devre dışı kalmasının o a320 modeline özgü olabileceğini yazmışlar.\n\nson olarak uçak flaps 1 konfigürasyonunda süzülmeye çalışmış. halbuki flapler daha açık olsa uçağın evlerin olduğu bölgeyi geçebileceği ihtimali tartışılmış. amatör halimle bile flaps 1 konf. az diyebilirim sanırım.",
+      "has_external_url": false
+    },
+    {
+      "title": "22 mayıs 2020 pakistan yolcu uçağı kazası",
+      "entry_id": "162066745",
+      "author": "un deux trois",
+      "date": "02.03.2024 02:31 ~ 02:34",
+      "content": "kaza olay ön raporu yayınlanmıştır. otobüs şoförleri otogara bu kadar ciddiyetsiz girmez. pilotlar resmen amatörce ve yolcuların güvenliğini hiçe sayarak uçağı ciddiyetsiz bir biçimde inişe hazırlamışlar. raporun içinde ne ararsanız var.\n\npilotlar uçağa girdiği komutların hiçbirini sözle ilan etmemiş, birbirlerini doğrulamamış, hava kontrolün ikazlarını hallederiz inşallah maşallah diyerek geçiştirmiş ve inmekten başka bir alternatif düşünmemiş, hızlı yüksek ve yanlış modda inişe geçmiş, iniş takımlarını yardımcı pilot “herhalde pas geçeceğiz” diye toplamış bunu sözle de belirtmemiş, uçaktan gelen bütün sesli sessiz ikazları yok sayıp normalden 50 knots daha hızlı ve daha dik açıda göbek üstü inmiş tekrar kalktıktan sonra da yanlış motorla zaman kaybedip uçağı düşürmüşlerdir.\n\ndeyatlı inceleme için ingilizce bir kaynak video (blancolirio)\n\nhttps://youtu.be/-_ytxcc4rr4?si=y9stlszqg4psy1ms",
+      "has_external_url": true
+    },
+    {
+      "title": "22 mayıs 2020 pakistan yolcu uçağı kazası",
+      "entry_id": "163007513",
+      "author": "dogredsector",
+      "date": "31.03.2024 22:38 ~ 22:45",
+      "content": "raporda ayrica her iki pilotun da gorev sirasinda yaklasik 10 saattir oruclu oldugu bunun da pilot performasina etki ettigi ve pilotlarin ucusa fit olamayacagi sonucu cikmis. zaten 2022de pia pilot ve kabin memurlarinin ramazan boyunca oruc tutmasini yasakladi. konunun uzmanlarindan muzaffer ocanin mevzuyla ilgili kaleme aldigi yazi asagida\n\nprof dr muzaffer çetingüç\n\npakistan havayolları'nın 8303 sefer sayılı airbus a320 uçağı, 2020 yılı ramazan ayında 22 mayıs günü karachi cinnah havaalanına gövde üzeri indi. kazayla ilgili ilk soruşturmada, pilot hataları itham edildi. pilotlar manuellere göre uçmuyorlar, kule ile iletişim kurmuyorlar, koronavirüs pandemisi odaklı bir sohbet yapıyorlardı. atc, ilk inişte fazla yüksek kaldıklarını uyarmış, 2’inci denemede izin vermişti... iniş takımları açık olan uçak piste teker koymak üzereyken pilotlardan biri iniş takımlarını (nedense?) geri aldı; gövde üzeri inen uçağın motorlarında yangın çıktı. uçakta 97 kişi ve yerde sürüklenen uçağın çarptığı evlerde 1 çocuk öldü.\n\nkaptan sajjad gul, 58 yaşında ve 17 bin saatlik uçuş deneyimi olan, aşırı özgüven tutumu sergileyen bir pilottu. 33 yaşında ve 2.100 saatlik uçuşu olan f/o usman azam ile aralarındaki güç mesafesi fazlaydı. kaptanı uyarma ve denetleme sorumluluğundan imtina etmekte; assertif değil, ‘yes sir’ kültürü çerçevesinde davranmakta idi. bu kazada yaşamını yitiren 98 kişilik listenin başında pilotlar yer aldı. her ikisinin de o gün oruçlu oldukları aileleri tarafından teyit edildi. kaza inceleme raporunda, hem pıa’ya hem de pakistan sivil havacılık otoritesi'ne idari sorumluluk yüklendi. sivil havacılık otoritesi'nin pilotların oruçluyken uçmasına ilişkin kurallarının net olmadığı vurgulandı. kulenin iniş takımları açılmamış olarak iniş yapıldığını uyarmamış olması ve liyakatsiz kişilerin göreve alınması da (nepotizm) kazayı hazırlayan diğer unsurlar olarak zikredildi (1,2,3,4,5). (bu kazada ana sebebin oruç olduğunu söylemek yanlış olur. ama katkıda bulunan faktörlerden birisi olduğu düşünülebilir).\n\n2022 yılı ramazan ayı başında (2 nisan 2022) pakistan havayolları (pıa) uçuş hizmetleri müdürü aamir bashir, pilotların ve kabin memurlarının oruç tutmalarının yasaklandığını resmen açıkladı.\n\nuçuş emniyet bültenindeki yazısında bashir; oruç sürecindeki yeme içme kısıtlamasının performansı azaltan, yorgunluğu, hata ve kazaları arttıran majör unsurlardan biri olduğunu; yememe ve içmemenin kan şekeri düşmesi, kan basıncı azalması ve dehidrasyon yoluyla pilot performansının bozulmasına neden olabileceğini; bunun yalnızca pilotların değil, masum insanların da hayatlarını tehlikeye attığını söyledi. oruç tutmak isteyen uçuş ekiplerinin ramazan ayında izin alabileceğini; oruç kısıtlamasına uymayan pilotların lisanslarının iptal edilebileceğini duyurdu (6,7,8,9).\n\nbu trajik kaza medyada ve forumlarda her yönüyle tartışıldı. bir yazar, yaklaşık 10 saattir oruçlu olan kaptanın kan şekeri düşüklüğüyle ilgili olarak çok sayıda hata yaptığını; uçuş için %100 fit olmadığını; caa’nın orucu yasaklaması gerektiğini yazdı (3).\n\ndipnotlar\n\n1. hindistan’da islami bir televizyon yazarı, vaiz ve hatip olan dr. zakir naik; uzun menzilli uçuşlarda seferi sayılıp oruç tutmamanın sorun olmadığını, ancak sonra kaza edilmesi gerektiğini; 2 saatlik gibi kısa uçuşlarda oruç tutulabileceğini söyledi (10).\n\n2. birleşik arap emirlikleri’nin ilk astronotu sultan el-neyadi, 2023 yılında 6 aylığına uzaya (ıss) çıkmış; bu süreç ramazan ayına denk geldiği için oruç tutup tutmayacağı sorularına muhatap olmuştu. neyadi, “seferi sayılırım, böyle durumlarda zorunlu değildir; bu nedenle oruç tutmayabilirim” demişti (11).\n\n3. dünyanın en büyük islam ülkesi olan enonezya’da ulaştırma bakanlığı sivil havacılık direktörlüğü’nün 2012 yılında yaptığı bir tamimle orucun sağlık, performans ve kazalara etkileri konusunda bir dizi uyarı ve tavsiyelerde bulunmuştur. bu yazıda, orucun metabolizmaya olumlu etkileri bağlamında, hdl kolesterolü arttırıp ldl’i azalttığı için kalp hastalığı riskini düşürücü etkisi olduğu, bazı kişilerde oruçlu olmanın performansı azaltmadığı, tersine inanç ve itikadın performans artışı yarattığı öne sürülmüştür. ancak genel bilimsel doğrular olarak da orucun; uyanıklık azalması, yorgunluk artışı, huzursuzluk, mizaç değişimi, bellek sorunları ve sonuçta iş performansında azalma yapabileceği vurgulanmıştır (12). endonezya hava kuvvetlerinde oruçlu pilotlara sabah saat 10'dan sonra uçuş izni verilmediği, uçuş programlarının iftar sonrasına alındığı bildirilmiştir (13).\n\n4. tayland’da, müslüman pilotların oruç tutmalarına izin verilmemektedir (14).\n\n5. fas ulaştırma bakanı karim ghellab, 2006 yılında sivil pilotların oruç tutmamaları gerektiğini, orucun pilot performansını olumsuz biçimde etkilediğinin bilimsel çalışmalarla desteklendiğini; taşıdıkları yolcuların yaşam sorumluluklarının onların omuzlarında olduğunu, (tutucu islami grupların baskılarına rağmen) cesaretle söylemişti (15).\n\n6. suudi arabistan’da cidde trafik müdürü, ramazan’da özellikle iftar öncesi saatlerde yollarda kaos yaşandığını, trafik kazalarının %20 arttığını söylemişti (16). yemen’de sana şehri trafik ofisi müdürü de 2007 yılı ramazan ayının ilk haftasında trafik kazalarında artış olduğu; bir haftada 97 kazada 7 ölü ve 66 yaralı kaydedildiğini açıklamıştı (17). trafikte yaşanan bu olayların benzerleri havacılıkta olmaz mıdır?\n\n7. türk askeri havacılığında uzun yıllardır pilotların görev günlerinde oruç tutmamaları kuralı uygulanmaktadır. sivil kesimde ise bazı islam ülkelerindekine benzer bir tavsiye, tamim veya kısıtlama olmamıştır. 2017 yılında diyanet işleri başkanlığı din işleri yüksek kurulu’ndan yapılan resmi açıklamada (bakara suresi referans alınarak), ‘oruç tutmamayı mubah kılan mazeretler’ listesi yayınlanmıştır. başta hastalık, yolculuk, gebelik, emzirme ve yaşlılık halleri olmak üzere, zor ve meşakkatli işlerde çalışan ve sağlıklarının bozulmasından endişe eden kişilerin (sonra kaza etmek ya da fidye vermek koşuluyla) oruçtan muaf oldukları duyurulmuştur (18). uçuş ve yer ekiplerinin de bu kapsamda olduğu anlaşılmaktadır.\n\nson sözler\n\norucun maneviyata iyi geldiği, doğrudur; ama (kişiden kişiye farklar olsa da) bilişsel ve fiziksel performansı azalttığı gerçektir. allahıyla yakınlaşma, huşû, derin düşünce, meditasyon modundaki insanların yaşadığı manevi huzur; bir çeşit psikoterapi, psikolojik detoks ve ilâhî banyo gibidir. oruç sürecinde yaşamın anlamı, dünyevi hırslar, haksızlıklar ve yoksulluk gibi konular üzerinde tefekkür etme ve ‘iyi insan’ olma yönünde özeleştiri yapma gibi güdülenmeler yaşanabilir. gerçekten de oruç günlerinde bazı kişilerin daha pozitif (hoşgörülü, affedici, olgun, yardımsever) davrandıkları ve güzelleştikleri izlenir. ancak dikkat ve psikomotor becerilerinin yüksek olmasını gerektiren işler yapan kişilerin oruç tutmalarının performansı olumsuz etkileyip etkilemediğine dair kaygılar da hep olmuştur. tartışmalar, orucun sağlığı, performansı ve kazaları nasıl etkilediği üzerinde yoğunlaşmaktadır.\n\netik ve işlevsel yönleri olan sorular şunlardır:\n\n- kalp veya şeker hastası ya da hamile bir insan oruç tutarsa sağlığı nasıl etkilenir?\n\n- müsabakaya çıkacak sporcuların, sınava hazırlanan öğrencilerin, kritik kararlar vermesi beklenen hâkim, komutan veya devlet adamlarının oruç tutması ne kadar doğrudur?\n\n- saatler boyu süren kritik ameliyatlara giren doktorların; el becerileri, dikkat, algı, bellek, farkındalık, karar verme, stres kontrolü ve takım çalışmasını yönetme becerileri mükemmel olabilir mi? bir yakınımızın yaşamsal beyin veya kalp operasyonunu oruçlu bir ameliyat ekibinin yapmasından kaygı duymaz mıyız?\n\n- bireysel bir ibadet farizasının kamusal alanda görev yaparken (az veya çok düzeyde) komplikasyonlar yaratması olasılığı varsa, bunun ertelenmesi gerekmez mi?\n\nkaynaklar\n\n1. kamlesh singh. ji, sir ji: did pıa flight 8303 crash because of yes sir culture? daily o (may 31, 2020)\n\n2. mark finlay. can muslim pilots observe fasts during ramadan? simple flying (apr 25, 2023).\n\n3. amead lone. fasting pilots not 100% fit. history of pıa (jun 30, 2020).\n\n4. haroon hayder. pıa bans pilots and cabin crew from fasting in ramadan. propakistani (apr 2, 2022).\n\n5. asad hashim. pakistan plane crash that killed 98 blamed on ‘human error.’ el jazeerea (24 jun, 2020).\n\n6. haroon hayder. pıa bans pilots and cabin crew from fasting in ramadan. propakistani (apr 2, 2022).\n\n7. ramazan: pia pilots, flight crew members barred from fasting. arynews (apr 2, 2022).\n\n8. https://www.youtube.com/watch?v=habxjk70yt0\n\n9.tıklayınız\n\n10. ıs a pilot while flying a plane exempted from fasting? (26 apr, 2021)\n\n11. wionews.com\n\n12. cultural perspectives on flight operations and the impact of ramadan fasting on crew performance. (2012) ındonesian directorate general of civil aviation.\n\n13. trthaber.com\n\n14. 14\n\n15. the view from fez: moroccon news #29 (dec 20, 2006).\n\n16. saleh fareed. road accidents up 20 percent in ramadan. arab news jeddah, 2 nov 2004.\n\n17. yemen observer (sep 25, 2007) traffic accidents on the rise in ramadan.\n\n18. (12.7.2017)",
+      "referenced_entry_ids": [
+        "29"
+      ],
+      "has_external_url": true
+    }
+  ]
+}

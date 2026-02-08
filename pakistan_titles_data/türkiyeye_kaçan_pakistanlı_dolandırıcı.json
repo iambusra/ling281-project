@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:00:09.455671",
+    "total_entries": 2,
+    "input": "türkiyeye kaçan pakistanlı dolandırıcı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türkiyeye kaçan pakistanlı dolandırıcı",
+      "entry_id": "138133488",
+      "author": "pabloprefix",
+      "date": "31.05.2022 02:45 ~ 02:53",
+      "content": "9gag da haber olmuş pakistanlı dolandırıcıdır. mağdurları ekran kartı satacağım bahanesiyle (7 milyon dolar kadar) kazıkladıktan sonra soluğu (elbette pakistanlıların favori ülkesi olan) türkiye de almıştır.\n\ngörsel\n\n[9gag linki: https://9gag.com/gag/a81xogz ]",
+      "has_external_url": true
+    },
+    {
+      "title": "türkiyeye kaçan pakistanlı dolandırıcı",
+      "entry_id": "138133886",
+      "author": "zlanks the blackboard",
+      "date": "31.05.2022 03:10",
+      "content": "don't fuck with the gamers..",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:04:51.358534",
+    "total_entries": 2,
+    "input": "zeytinburnu'nda yürüyüş yapan pakistanlılar",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "zeytinburnu'nda yürüyüş yapan pakistanlılar",
+      "entry_id": "141091293",
+      "author": "mahserin 4 sovalyesi",
+      "date": "09.08.2022 17:36 ~ 17:37",
+      "content": "demografik yapımızı değiştirmek için malum partinin ülkeye doldurduğu milyonlarca kaçak pakistanlıdan sadece küçük bir gruptur. https://twitter.com/…tatus/1556730011389874176?s=21",
+      "has_external_url": true
+    },
+    {
+      "title": "zeytinburnu'nda yürüyüş yapan pakistanlılar",
+      "entry_id": "141091437",
+      "author": "respectblue",
+      "date": "09.08.2022 17:39",
+      "content": "sayın devlet bahçeli ülkenin işgal altında olduğunun farkındamı acaba?",
+      "has_external_url": false
+    }
+  ]
+}

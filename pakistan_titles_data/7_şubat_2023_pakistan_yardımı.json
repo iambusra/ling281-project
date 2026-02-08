@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:03:10.817920",
+    "total_entries": 3,
+    "input": "7 şubat 2023 pakistan yardımı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "7 şubat 2023 pakistan yardımı",
+      "entry_id": "148775120",
+      "author": "yazan boyle olsun mu",
+      "date": "07.02.2023 23:15",
+      "content": "umarım pembe götümüzün o kadar da renkli olmadığını anlarız.\n\nbir iş adamı 30 mio $ gönderdi.\n1122 arama kurtarma elemanı yollandı.\n15 ton insani yardım sevk edildi.\n\nhepsinden öte bizimkilerin aklının ucuna gelmediği bakanların ve devlet memurlarının bir günlük ücretleri yardım fonuna bağışlandı.\n\nps: kaynak eklenir aşağı elbet.",
+      "has_external_url": false
+    },
+    {
+      "title": "7 şubat 2023 pakistan yardımı",
+      "entry_id": "148792260",
+      "author": "yedek kamil",
+      "date": "08.02.2023 03:50",
+      "content": "kaynak eklemeye geldim ama pek de gerek kalmamış, pek çok yerde çıkıyor google'a yazınca.\n\nkaynak\n\nkaynak 2\n\n(bkz: cive pakistan)\n\nzor zamanlarda bize arkasını dönmeyen halkları unutmamalıyız.",
+      "has_external_url": true
+    },
+    {
+      "title": "7 şubat 2023 pakistan yardımı",
+      "entry_id": "149150030",
+      "author": "vazgecen",
+      "date": "12.02.2023 19:20",
+      "content": "hemşerilerini geri alsa daha faydalı olurdu",
+      "has_external_url": false
+    }
+  ]
+}

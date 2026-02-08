@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T21:59:33.790711",
+    "total_entries": 3,
+    "input": "pakistanlı işadamından 30 milyon dolar bağış",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "pakistanlı işadamından 30 milyon dolar bağış",
+      "entry_id": "148773606",
+      "author": "k 1 f",
+      "date": "07.02.2023 22:54 ~ 22:54",
+      "content": "kim olduğu da tam bilinmiyor. bütün sayfalar da bunu paylaşıyor. allah razı olsun.",
+      "has_external_url": false
+    },
+    {
+      "title": "pakistanlı işadamından 30 milyon dolar bağış",
+      "entry_id": "148774146",
+      "author": "deanmc",
+      "date": "07.02.2023 23:02",
+      "content": "çok çok iyi bir para. verdiğinin on katı iyilik bulsun.",
+      "has_external_url": false
+    },
+    {
+      "title": "pakistanlı işadamından 30 milyon dolar bağış",
+      "entry_id": "148774520",
+      "author": "vusta",
+      "date": "07.02.2023 23:08",
+      "content": "dünyada ki bütün iyilikler onu bulsun.\n\ndostlarımız sağolsun.",
+      "has_external_url": false
+    }
+  ]
+}

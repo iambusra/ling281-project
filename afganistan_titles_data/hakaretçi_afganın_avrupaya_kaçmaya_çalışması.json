@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:04:13.182373",
+    "total_entries": 1,
+    "input": "hakaretçi afganın avrupaya kaçmaya çalışması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "hakaretçi afganın avrupaya kaçmaya çalışması",
+      "entry_id": "139204768",
+      "author": "taklaci guvercin",
+      "date": "25.06.2022 16:25",
+      "content": "almanya’da girlfriend experience alanında çalışabilir.",
+      "has_external_url": false
+    }
+  ]
+}

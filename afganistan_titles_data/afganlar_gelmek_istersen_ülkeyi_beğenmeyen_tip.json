@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:06:13.727612",
+    "total_entries": 1,
+    "input": "afganlar gelmek istersen ülkeyi beğenmeyen tip",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "afganlar gelmek istersen ülkeyi beğenmeyen tip",
+      "entry_id": "127585026",
+      "author": "burusmus a4 kagidi",
+      "date": "01.09.2021 20:39 ~ 20:41",
+      "content": "(bkz: işten çıkarken adama ingilizce am günü yağ)\n\nseni sözlüğe mastar olarak mı aldılar birader.\n\nedit: tam kaçarken yakaladım. buyrun orijinal başlık",
+      "has_external_url": true
+    }
+  ]
+}

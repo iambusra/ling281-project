@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T21:51:27.380813",
+    "total_entries": 1,
+    "input": "paki vs afgan",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "paki vs afgan",
+      "entry_id": "137075242",
+      "author": "crew14",
+      "date": "06.05.2022 02:47",
+      "content": "pakistana gittiğimde afganlilara ana avrat düz gidiyorlardı. en böyle düzgün kelimeler ile düşüncesini ifade etmeye çalışan bile hepsi terorist diyordu afganlilar için.",
+      "has_external_url": false
+    }
+  ]
+}

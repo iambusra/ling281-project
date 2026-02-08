@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:02:27.519409",
+    "total_entries": 3,
+    "input": "afganistan kültür ve eğitim topluluğu",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "afganistan kültür ve eğitim topluluğu",
+      "entry_id": "139968119",
+      "author": "supperpomak",
+      "date": "14.07.2022 13:30",
+      "content": "bursa uludağ üniversitesi bünyesinde kurulmuş bir öğrenci topluluğu . link",
+      "has_external_url": true
+    },
+    {
+      "title": "afganistan kültür ve eğitim topluluğu",
+      "entry_id": "139968456",
+      "author": "mahserin 4 sovalyesi",
+      "date": "14.07.2022 13:40",
+      "content": "(bkz: çocukları istismar etmek kültürümüzde var)",
+      "has_external_url": false
+    },
+    {
+      "title": "afganistan kültür ve eğitim topluluğu",
+      "entry_id": "139968663",
+      "author": "siskome",
+      "date": "14.07.2022 13:46",
+      "content": "bacha bazi'ye hiç girmeden, afganistan kültürü nü anlattığını sananlar topluluğu.\n3 başı kapalı abla, 100 erkekli bi grup gibi gördüm. bol bol arapça dini yazılar vs. vs.",
+      "has_external_url": false
+    }
+  ]
+}

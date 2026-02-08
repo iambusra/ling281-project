@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:02:50.403094",
+    "total_entries": 2,
+    "input": "pakistan yapımı fantastik otobüs",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "pakistan yapımı fantastik otobüs",
+      "entry_id": "161335324",
+      "author": "bilinmeyene kosan adam",
+      "date": "07.02.2024 12:28",
+      "content": "bilenler bilir pakistan, merdiven altı otobüs üretiminde dünyanın en iyi ülkesidir. yıllardır yapılan inovasyon ve argenin meyvelerini almaya başlamışlar.",
+      "has_external_url": true
+    },
+    {
+      "title": "pakistan yapımı fantastik otobüs",
+      "entry_id": "161335476",
+      "author": "polyhymnia",
+      "date": "07.02.2024 12:35",
+      "content": "t: bir değişik otobüs.\n\no değil de, bu pakiler şu çirkin kıyafetten ne zaman vazgeçecek? milli üniförma gibi taşıyorlar şu tekstil artığını...",
+      "has_external_url": false
+    }
+  ]
+}

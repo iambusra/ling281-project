@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T21:59:07.856757",
+    "total_entries": 1,
+    "input": "osmanlı şeriatı ile afgan şeriatını aynı zannetmek",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "osmanlı şeriatı ile afgan şeriatını aynı zannetmek",
+      "entry_id": "161741103",
+      "author": "marius de sade",
+      "date": "20.02.2024 21:45",
+      "content": "kemalist cehaleti işidir.",
+      "has_external_url": false
+    }
+  ]
+}

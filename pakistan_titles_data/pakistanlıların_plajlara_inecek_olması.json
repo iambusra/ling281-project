@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:06:30.598025",
+    "total_entries": 2,
+    "input": "pakistanlıların plajlara inecek olması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "pakistanlıların plajlara inecek olması",
+      "entry_id": "136376296",
+      "author": "kafakirankopek",
+      "date": "18.04.2022 20:48",
+      "content": "üçgen bikinili kadınlar kendine dikkat etsin.",
+      "has_external_url": false
+    },
+    {
+      "title": "pakistanlıların plajlara inecek olması",
+      "entry_id": "136377027",
+      "author": "ozger",
+      "date": "18.04.2022 21:49",
+      "content": "suriyelilerle köşe kapmaca yaparken, mekan kavgası yapmaları olası. suriyelilerin \"önce biz geldik\" gibi \"siz yokken biz vardık\" gibi atarlanmaları sonucu çıkacak olaylar ya da gayet medenice herkesin kendi sınırlarına çekilmeleri gibi durumlar da yaşanası ihtimaller arasında...",
+      "has_external_url": false
+    }
+  ]
+}

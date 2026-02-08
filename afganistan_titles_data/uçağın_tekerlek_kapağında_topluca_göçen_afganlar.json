@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:06:28.285302",
+    "total_entries": 3,
+    "input": "uçağın tekerlek kapağında topluca göçen afganlar",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "uçağın tekerlek kapağında topluca göçen afganlar",
+      "entry_id": "126974171",
+      "author": "cigibigule",
+      "date": "16.08.2021 12:03 ~ 13:06",
+      "content": "abd ait c-130 tipi nakliye uçağının iniş takım kapağına binmek suretiyle kaçmaya çalışan afganları barındıran video.\n\nsanırım evin çatısına düşen afganlarda bunlar. nasıl bir akıl tutulması nasıl bir cehalet. orda 100 metre bile gidemeyeceğini bilmiyor musun?\n\nlink\n\nlink2\n\nlink3",
+      "has_external_url": true
+    },
+    {
+      "title": "uçağın tekerlek kapağında topluca göçen afganlar",
+      "entry_id": "126974271",
+      "author": "lykhia",
+      "date": "16.08.2021 12:08 ~ 12:08",
+      "content": "paraşütleri varsa problem yok. ya da kanatları. (bkz: swh)",
+      "has_external_url": false
+    },
+    {
+      "title": "uçağın tekerlek kapağında topluca göçen afganlar",
+      "entry_id": "126974277",
+      "author": "bishaunen",
+      "date": "16.08.2021 12:08",
+      "content": "muhtemelen ilk defa uçak gören kişilerdir. yoksa bir kaç dakika sonra o kapağın kapanacağını bilirlerdi. nasıl bir taliban korkusu varsa insanlar ölüme gidiyor.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:05:14.078982",
+    "total_entries": 1,
+    "input": "afganlar giderse tarım biter yalanı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "afganlar giderse tarım biter yalanı",
+      "entry_id": "161853881",
+      "author": "faytonfayt",
+      "date": "24.02.2024 14:21",
+      "content": "ağızdan ağza dolan garip yalan.\n\ntarım sektöründe afgan işçiler ucuza çalışıyor, eğer onlar giderse en fazla maliyet artar demek istiyor demografik yapıyı bozmak isteyenler.\n\naslında olay şu 1 türk işçiye verdiği maaşa toprak sahibi 2 afgan çalıştırıyor. yani çoğu ya da tamamına yakını kaçak işçi çalıştırıyor, sigorta yapmıyor vs. bunu savunan devlet görevlileri de aslında kaçak işçi ve vergi kaçakçılığını teşvik ediyor.\n\ntam araştırmadım ama devlet tarım işçisi için teşvik veriyor ve vergi avantajı sağlıyor da olabilir.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:01:43.202448",
+    "total_entries": 3,
+    "input": "türkiye pakistan azerbaycan ittifakı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türkiye pakistan azerbaycan ittifakı",
+      "entry_id": "175665321",
+      "author": "cokonemlidegilzaten",
+      "date": "29.05.2025 14:13 ~ 14:25",
+      "content": "son yıllarda üç devlet arasında yapılan askeri, siyasi ve ekonomik işbirlikleri sonucunda reel olarak hayata geçen ittifak.\n\ntürkiye'nin ordusu ve savunma sanayisi, azerbaycan'ın gaz ve petrol kaynakları, pakistan'ın nükleer altyapısı ve insan kaynağı üç ülke için de kazan-kazan şeklinde bir işbirliğine yol açıyor.\n\ntürkiye'nin tamamen batıya bağımlı kalmasını isteyen aşağılık kompleksli batı özentileri bu işbirliğini küçümse de, siyaset ve dış politikadan azıcık haberdar olan herkes bu işbirliğinin ne kadar büyük bir potansiyel oluşturduğunun farkında.\n\nküresel güçlerin etkisinin azaldığı, bölgesel güçlerin önem kazandığı çağımızda, bu ittifak güçlendikçe diğer türk devletleri ve bazı arap devletleri de kendilerini koruyabilmek için bu ittifaka dahil olmak isteyeceklerdir.",
+      "has_external_url": false
+    },
+    {
+      "title": "türkiye pakistan azerbaycan ittifakı",
+      "entry_id": "175665383",
+      "author": "0game",
+      "date": "29.05.2025 14:16",
+      "content": "oraya israil'i de ekle canım.\n\nnooldu, yemiyomu israil yazmak?",
+      "has_external_url": false
+    },
+    {
+      "title": "türkiye pakistan azerbaycan ittifakı",
+      "entry_id": "176189077",
+      "author": "kim bunlar ya",
+      "date": "20.06.2025 01:28",
+      "content": "türkiye önderliğinde ortadoğu'nun sigortası olan üç devlet.\ntürkiye'nin önderliğini kabul etmeyen, başkalarına güvenen iran, ermenistan, esed suriye'si, ırak gibi devletlerin ise hali ortada.",
+      "has_external_url": false
+    }
+  ]
+}

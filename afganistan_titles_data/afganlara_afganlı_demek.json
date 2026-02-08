@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:03:01.504444",
+    "total_entries": 3,
+    "input": "afganlara afganlı demek",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "afganlara afganlı demek",
+      "entry_id": "126762976",
+      "author": "suicyco",
+      "date": "10.08.2021 20:17",
+      "content": "(bkz: yunanlara yunanlı deme sorunsalı)",
+      "has_external_url": false
+    },
+    {
+      "title": "afganlara afganlı demek",
+      "entry_id": "126763139",
+      "author": "silacko",
+      "date": "10.08.2021 20:22",
+      "content": "(bkz: hintlere hintli deme sorunsalı)",
+      "has_external_url": false
+    },
+    {
+      "title": "afganlara afganlı demek",
+      "entry_id": "127087510",
+      "author": "umd",
+      "date": "19.08.2021 11:58",
+      "content": "profesörlü kişilerden duyduğum yanlış kullanım.",
+      "has_external_url": false
+    }
+  ]
+}

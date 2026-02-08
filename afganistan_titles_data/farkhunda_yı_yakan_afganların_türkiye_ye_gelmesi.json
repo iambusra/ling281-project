@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:08:20.299953",
+    "total_entries": 3,
+    "input": "farkhunda'yı yakan afganların türkiye'ye gelmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "farkhunda'yı yakan afganların türkiye'ye gelmesi",
+      "entry_id": "126941168",
+      "author": "turan saydam",
+      "date": "15.08.2021 13:40 ~ 13:43",
+      "content": "ihtimal dahilinde olan yasa dışı bir göç dalgası.\n\nfarkhunda kim diyenlere:\n\nhttps://youtu.be/pluxzwheflm\n\n(bkz: farkhunda)\n\n(bkz: farkhunda malikzada)",
+      "has_external_url": true
+    },
+    {
+      "title": "farkhunda'yı yakan afganların türkiye'ye gelmesi",
+      "entry_id": "126941265",
+      "author": "k 1 f",
+      "date": "15.08.2021 13:43",
+      "content": "gelmeleri halinde ileride türkiye'de de kalabalıklaşıp ve güçlenip, birilerini yakma girişiminde bulunacaklardır. allah başımıza bu hainleri kim musallat ettiyse hepsinin çoluklarına çocuklarına, destekçilerine kadar belasını versin.",
+      "has_external_url": false
+    },
+    {
+      "title": "farkhunda'yı yakan afganların türkiye'ye gelmesi",
+      "entry_id": "126941319",
+      "author": "paintman",
+      "date": "15.08.2021 13:45",
+      "content": "gelmemesi haber değeri taşır.",
+      "has_external_url": false
+    }
+  ]
+}

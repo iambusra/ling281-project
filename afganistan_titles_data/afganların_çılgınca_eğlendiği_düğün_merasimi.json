@@ -1,0 +1,52 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:07:42.944437",
+    "total_entries": 5,
+    "input": "afganların çılgınca eğlendiği düğün merasimi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "afganların çılgınca eğlendiği düğün merasimi",
+      "entry_id": "174260495",
+      "author": "odoriko",
+      "date": "04.04.2025 02:49",
+      "content": "izlerken dans ederek koptuğum düğündür..\nafganla, kuzey kore ile çok dalga geçtik, ahını aldık tonbikle bu çakalların başımıza gelmeyen kalmadı.\n\nx linki",
+      "has_external_url": true
+    },
+    {
+      "title": "afganların çılgınca eğlendiği düğün merasimi",
+      "entry_id": "174260534",
+      "author": "anani siken kadi",
+      "date": "04.04.2025 02:53",
+      "content": "gelinin de erkek olması çok olası düğün.",
+      "has_external_url": false
+    },
+    {
+      "title": "afganların çılgınca eğlendiği düğün merasimi",
+      "entry_id": "174262059",
+      "author": "odoriko",
+      "date": "04.04.2025 07:19",
+      "content": "aslında gayet medeniiler en azından havaya keleşle sıkmıyorlar.",
+      "has_external_url": false
+    },
+    {
+      "title": "afganların çılgınca eğlendiği düğün merasimi",
+      "entry_id": "174262083",
+      "author": "proctopus",
+      "date": "04.04.2025 07:26 ~ 07:27",
+      "content": "her ne kadar garip ve saçma gelsede bizde de böyle haremlik selamlık tarzı düğünler yapılmakta.\nböyle bi tanesinde bulunmak zorunda kalmıştım.",
+      "has_external_url": false
+    },
+    {
+      "title": "afganların çılgınca eğlendiği düğün merasimi",
+      "entry_id": "174262288",
+      "author": "nickim yok sikim var",
+      "date": "04.04.2025 07:53",
+      "content": "karısını milletin önünde dansöz gibi oynatan godoşları rahatsız eden haremlik-selamlık uygulaması.",
+      "has_external_url": false
+    }
+  ]
+}

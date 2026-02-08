@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:06:24.472299",
+    "total_entries": 2,
+    "input": "abd'nin afganlar tarafından dolandırılması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "abd'nin afganlar tarafından dolandırılması",
+      "entry_id": "126966956",
+      "author": "babaeren",
+      "date": "16.08.2021 02:49",
+      "content": "''abd, ırak’ta 2003-2010 arasında askeri tesislerin yeniden inşası, birliklerin eğitimi ve donatımı için 26 milyar dolar harcadı. 2014’de musul ışid’in eline geçerken ırak ordusu darmadağın oldu. afgan güçlerinin eğitimi, donatımı ve altyapısı için 20 yılda 89 milyar dolar harcanmış olması da bir şeyi değiştirmedi. aynısı afganistan’da tekrarlanıyor.\namerikan tarafında da afganistan, ırak ve suriye’deki savaşlara bugüne kadar 6.4 trilyon dolar ödenmiş olmasının neticesizliği sorgulanıyor. amerikalılar bu savaşların afganistan, ırak ve suriye’nin canından, malından, ulusal servetlerinden, geçmişleri ve geleceklerinden götürdükleriyle ilgilenecek değil ya!''",
+      "has_external_url": false
+    },
+    {
+      "title": "abd'nin afganlar tarafından dolandırılması",
+      "entry_id": "126986773",
+      "author": "jedi master obi wan",
+      "date": "16.08.2021 18:47",
+      "content": "uyuşturucudan geri almışlardır o parayı.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T21:59:44.798386",
+    "total_entries": 3,
+    "input": "afgan ve pakistanlı kardeşlerine mesaj",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "afgan ve pakistanlı kardeşlerine mesaj",
+      "entry_id": "143019723",
+      "author": "başlık taşıyan",
+      "date": "22.09.2022 21:03",
+      "content": "(bkz: afgan ve pakistanlılara bırakılacak mesaj)",
+      "has_external_url": false
+    },
+    {
+      "title": "afgan ve pakistanlı kardeşlerine mesaj",
+      "entry_id": "143019791",
+      "author": "hermes trismegistos",
+      "date": "22.09.2022 21:05",
+      "content": "alayınızın amq..",
+      "has_external_url": false
+    },
+    {
+      "title": "afgan ve pakistanlı kardeşlerine mesaj",
+      "entry_id": "143019930",
+      "author": "tolgame",
+      "date": "22.09.2022 21:08",
+      "content": "gidebilirsiniz.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T21:59:11.005680",
+    "total_entries": 1,
+    "input": "pakistanlı tacizci doktorun göreve iade edilmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "pakistanlı tacizci doktorun göreve iade edilmesi",
+      "entry_id": "153852560",
+      "author": "paranoid humanoid",
+      "date": "24.06.2023 15:27 ~ 16:41",
+      "content": "sığınmacılarını baş tacı eden ülkemizde bir diğer trajikomik vaka. izmir'de onlarca hastasını taciz eden ve görev yeri değiştirildikten sonra tunceli'de de aynı şekilde tacizden yakalanıp tutuklanan pakistanlı tacizci doktor ismail hakim, beraat ettikten sonra göreve iade edilerek aynı hastanede çalışmaya başlamış.\n\nhttps://www.haberler.com/…-basladi-16010138-haberi/\n\nolay 8 haziran'da yaşanmış ama sanırım sözlükçülerin gözünden kaçmış, ya da ben aramaya inanmama rağmen bulamadım.",
+      "has_external_url": true
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:06:50.582180",
+    "total_entries": 1,
+    "input": "danimarka'nın afganları sınır dışı etmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "danimarka'nın afganları sınır dışı etmesi",
+      "entry_id": "133868355",
+      "author": "7714714",
+      "date": "17.02.2022 20:46",
+      "content": "akp için mülteciler oy deposu ve ucuz iş gücüdür.bu yüzden iktidar değişmedikçe bunlar ülkeden gönderilmeyecek.iktidarın yerli ve milli olduğunu söyleyenlere duyurulur ama anlarlar mı bilemem",
+      "has_external_url": false
+    }
+  ]
+}

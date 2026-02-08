@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:06:03.639233",
+    "total_entries": 2,
+    "input": "savas cebeci'nin videosuna yorum yapan afganlar",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "savas cebeci'nin videosuna yorum yapan afganlar",
+      "entry_id": "134724184",
+      "author": "hypertension",
+      "date": "09.03.2022 22:22",
+      "content": "ülkenin durumunun özeti olan bir adet orospu çocuğunun provokasyonu. bunu yakalasalar ne olacak, salarlar. kendi de diyor zaten. ülkeyi, türkleri bu duruma sokanlar ve onlara milliyetçiyiz, ülkeyi seviyoruz diyerek oy verenler utansın.",
+      "has_external_url": false
+    },
+    {
+      "title": "savas cebeci'nin videosuna yorum yapan afganlar",
+      "entry_id": "134724667",
+      "author": "antimetrekup",
+      "date": "09.03.2022 22:32",
+      "content": "toplasan savaş cebeci'nin sol kolunun tricepsi kadar yer kaplamayacak iki adet korkak kaçak vatanını düşmanına satmış orospu çocuğunun internet üzerinden yaptığı tehdittir.\nçok götleri kalktı bu mülteci tayfasının.süreç bunlara yol veriyor da rüzgâr terse döndüğünde alırlar eşeğin zikini ellerine haberleri yok.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:08:52.257641",
+    "total_entries": 2,
+    "input": "hem ukrayna'da hem afganistanda ölen gazeteci",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "hem ukrayna'da hem afganistanda ölen gazeteci",
+      "entry_id": "134345420",
+      "author": "trablusgarp",
+      "date": "28.02.2022 23:28",
+      "content": "bernie gores isimli çok şansız bir cnn çalışanı.\nadam daha önce afganistan'da taliban tarafından öldürülmüş. şimdi de rus işgali sırasında ukrayna'da ölmüş.\n\ntoprağı bol olsun.\n\nhttps://twitter.com/…?s=20&t=noawkby7kzkyvhekcx-ava",
+      "has_external_url": true
+    },
+    {
+      "title": "hem ukrayna'da hem afganistanda ölen gazeteci",
+      "entry_id": "134345755",
+      "author": "ziplayankaplan",
+      "date": "28.02.2022 23:34",
+      "content": "anladığım kadarıyla kedi soyundan gelmekte olan bir uzaylı olduğudur.",
+      "has_external_url": false
+    }
+  ]
+}

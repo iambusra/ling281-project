@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:03:04.425570",
+    "total_entries": 4,
+    "input": "pakistan uzay ve üst atmosfer araştırma komisyonu",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "pakistan uzay ve üst atmosfer araştırma komisyonu",
+      "entry_id": "150590577",
+      "author": "bedwetter",
+      "date": "23.03.2023 08:40",
+      "content": "kısaca suparco olarak bilinen bu fantastik kurum ramazan hilalini göremediği için oruca bir gün sonra yani 24 mart 2023 tarihinde başlama kararı almış.\n\nhttps://tr.wikipedia.org/…osfer_araştırma_komisyonu",
+      "has_external_url": true
+    },
+    {
+      "title": "pakistan uzay ve üst atmosfer araştırma komisyonu",
+      "entry_id": "150590616",
+      "author": "o nick buraya gelecek aga",
+      "date": "23.03.2023 08:43",
+      "content": "meleklerin bacaklarını dikizleyen komisyon!\n\nbunların merkezine füze gibi bişey fırlatılmalı bence",
+      "has_external_url": false
+    },
+    {
+      "title": "pakistan uzay ve üst atmosfer araştırma komisyonu",
+      "entry_id": "150590684",
+      "author": "neelix",
+      "date": "23.03.2023 08:49",
+      "content": "türkiye uzay ajansı'ndan daha çok uzay işlerine kafa yorduğuna emin olduğum kuruluş.",
+      "has_external_url": false
+    },
+    {
+      "title": "pakistan uzay ve üst atmosfer araştırma komisyonu",
+      "entry_id": "150590750",
+      "author": "eczacioglu",
+      "date": "23.03.2023 08:53",
+      "content": "en azından bilim odaklı",
+      "has_external_url": false
+    }
+  ]
+}

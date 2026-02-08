@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:07:36.642953",
+    "total_entries": 3,
+    "input": "afganlardan da suriyelilerden de nefret etmiyoruz",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "afganlardan da suriyelilerden de nefret etmiyoruz",
+      "entry_id": "162436877",
+      "author": "dalgaya gelmek",
+      "date": "14.03.2024 07:24",
+      "content": "bir ümit özdağ açıklaması ümit özdağa ırkçı diyenler utansın.\n\n--- spoiler ---\n\nzafer partisi genel başkanı ümit özdağ, “biz hiç kimsenin düşmanı değiliz. afganlardan da, suriyelilerden de nefret etmiyoruz. ama herkesin kendi vatanına geri dönmesini istiyoruz. allah kimsenin başına suriye'nin başına getirdiği gibi bir iç savaş getirmesin\" diye konuştu.\n--- spoiler ---",
+      "has_external_url": true
+    },
+    {
+      "title": "afganlardan da suriyelilerden de nefret etmiyoruz",
+      "entry_id": "162436915",
+      "author": "tahta bacak",
+      "date": "14.03.2024 07:28",
+      "content": "halkta olusan gocmen nefretini gogusunde yumusatip, gaz alan, plana sadik kalan parti baskaninin aciklamasi.",
+      "has_external_url": false
+    },
+    {
+      "title": "afganlardan da suriyelilerden de nefret etmiyoruz",
+      "entry_id": "162454860",
+      "author": "fakir johny",
+      "date": "14.03.2024 20:53",
+      "content": "etmez, çünkü bu sayede iktidarın değişimini engelledi. chp'ye iyi parti'ye gidecek oylar hem zafer'e kaydı hem de sinerji oluşmadı. hepimizi boş yere uğraştırdı. saray düzeni ile artık 2028e kadar gideriz. bir de utanmadan aktroller gelir bize koyun der. toplumsal baskı oluşturup, insanları utandırıp gerçeği saklayacaklar çünkü.\n\ntanım: boş açıklama.",
+      "has_external_url": false
+    }
+  ]
+}

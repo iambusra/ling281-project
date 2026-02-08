@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:08:16.564986",
+    "total_entries": 1,
+    "input": "suriyeli ve afganların esnafı bitirmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeli ve afganların esnafı bitirmesi",
+      "entry_id": "127055543",
+      "author": "gordonmilne",
+      "date": "18.08.2021 14:47",
+      "content": "istanbul'un bir çok bölgesinde görülen durum.\n\n1- sürekli olay çıkarıyorlar insanlar ve turistler sokağa giremiyor.\n\n2- hırsızlık yapıyorlar, onları kollamaktan kimse gerçek müşterisi ile ilgilenemiyor.\n\n3- araçlarını sokağın ortasına bırakıp gidiyorlar.\n\n4- kaldırımda dükkanın önünde 7-8 kişi durup bağıra bağıra konuşuyorlar. gidin diyoruz kavga çıkarıyorlar.\n\ncanımızdan bezdik. bezdik artık.",
+      "has_external_url": false
+    }
+  ]
+}

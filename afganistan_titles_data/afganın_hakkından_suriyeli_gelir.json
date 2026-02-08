@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:04:25.883469",
+    "total_entries": 2,
+    "input": "afganın hakkından suriyeli gelir",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "afganın hakkından suriyeli gelir",
+      "entry_id": "126765236",
+      "author": "albino black sheep",
+      "date": "10.08.2021 21:19 ~ 21:24",
+      "content": "dinsizin hakkından imansız gelir misali, afganlara kıyasla nispeten eski, ülkemize ve kültürümüze daha aşina olan suriyeli mülteciler, yeni gelen afgan mültecileri kendilerine rakip olarak görecek yıldırtacaklar ve bu ülkeden defolup gitmelerini sağlayacaktır.\n\nmuhtemelen de istemediğimiz suriyelilere bizi daha beterinden koruduğu için minnet duyma ironisinde bulunacağız.\n\ntabi ki bu tespit sosyolojik gerçeklere dayanmıyor, aristo mantığı gibi bir çıkarım.",
+      "has_external_url": false
+    },
+    {
+      "title": "afganın hakkından suriyeli gelir",
+      "entry_id": "126765803",
+      "author": "ortalama vatandas",
+      "date": "10.08.2021 21:34",
+      "content": "kıllarını kıpırdatmazlar.\ndeniz kenarında nargile içip seyrederler.\nadam ülkesini bırakmış kaçmış be.\nhakkından gelecekmiş! pehhh.",
+      "has_external_url": false
+    }
+  ]
+}

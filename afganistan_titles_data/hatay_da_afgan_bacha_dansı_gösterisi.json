@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T21:58:01.306176",
+    "total_entries": 1,
+    "input": "hatay'da afgan bacha dansı gösterisi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "hatay'da afgan bacha dansı gösterisi",
+      "entry_id": "175323820",
+      "author": "thorin 1283",
+      "date": "15.05.2025 18:05",
+      "content": "bu baca bazzi değil bildiğin afgan folklor dansı ama çok itici.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:03:50.955597",
+    "total_entries": 4,
+    "input": "pakistanda tüm ülkede elektrik kesintisi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "pakistanda tüm ülkede elektrik kesintisi",
+      "entry_id": "118014641",
+      "author": "agacla siir yazan yazar",
+      "date": "09.01.2021 22:47 ~ 22:51",
+      "content": "pakistanda ülke genelinde bir elektrik kesintisi olduğu söyleniyor.\n\nedit: bir paki haber sitesine göre ülkenin %80'ninde elektrikler yokmuş ve sebebi hala çözülememiş.",
+      "has_external_url": true
+    },
+    {
+      "title": "pakistanda tüm ülkede elektrik kesintisi",
+      "entry_id": "118014783",
+      "author": "scorpioraptor",
+      "date": "09.01.2021 22:49",
+      "content": "nasıl başarmışlar onu? ya bir saldırıdır, ya devlet başkanı kaçıyordur ya da darbedir!\n\n3. olasılık daha ihtimalli.",
+      "has_external_url": false
+    },
+    {
+      "title": "pakistanda tüm ülkede elektrik kesintisi",
+      "entry_id": "118014991",
+      "author": "uc faz bir notr",
+      "date": "09.01.2021 22:53",
+      "content": "çokta uzak olmayan 2015 martında türkyedeki elektrik sistemindeki senkron kayması sonucu başımıza gelmiştir. çokta şey yapmamak gerek.",
+      "has_external_url": false
+    },
+    {
+      "title": "pakistanda tüm ülkede elektrik kesintisi",
+      "entry_id": "118015033",
+      "author": "gasmaskseduction",
+      "date": "09.01.2021 22:54",
+      "content": "31 mart 2015 türkiye geneli elektrik kesintisi gibi bir efsanenin yanında 80%'lik kesinti dişimizin kovuğuna gitmez.",
+      "has_external_url": false
+    }
+  ]
+}

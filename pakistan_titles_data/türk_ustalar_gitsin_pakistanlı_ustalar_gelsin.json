@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T21:58:28.985375",
+    "total_entries": 2,
+    "input": "türk ustalar gitsin pakistanlı ustalar gelsin",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türk ustalar gitsin pakistanlı ustalar gelsin",
+      "entry_id": "179630907",
+      "author": "o nick buraya gelecek aga",
+      "date": "06.11.2025 10:32",
+      "content": "pakistan sanayi reels videoları izledikten sonra sarfettiğim söz.",
+      "has_external_url": false
+    },
+    {
+      "title": "türk ustalar gitsin pakistanlı ustalar gelsin",
+      "entry_id": "179630992",
+      "author": "hosvelkam",
+      "date": "06.11.2025 10:37",
+      "content": "(bkz: ne dilediğine dikkat et bir gün gerçekleşebilir)",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:03:27.486093",
+    "total_entries": 3,
+    "input": "afgana yandaşa değil türk milletine harcadık",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "afgana yandaşa değil türk milletine harcadık",
+      "entry_id": "147819933",
+      "author": "kurekci ismail",
+      "date": "18.01.2023 14:12",
+      "content": "muhalefet budur, böyle yapılır.",
+      "has_external_url": false
+    },
+    {
+      "title": "afgana yandaşa değil türk milletine harcadık",
+      "entry_id": "147821400",
+      "author": "kaliphanedegilvirushane",
+      "date": "18.01.2023 14:47",
+      "content": "adana agzi ile allahina gurban baskan,ayakta alkisliyorum.",
+      "has_external_url": false
+    },
+    {
+      "title": "afgana yandaşa değil türk milletine harcadık",
+      "entry_id": "147821519",
+      "author": "fatihsultanmehmett",
+      "date": "18.01.2023 14:50",
+      "content": "helal olsun başkan",
+      "has_external_url": false
+    }
+  ]
+}

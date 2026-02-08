@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:06:49.727197",
+    "total_entries": 4,
+    "input": "afganları evime alırım buyursunlar gelsinler",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "afganları evime alırım buyursunlar gelsinler",
+      "entry_id": "136291658",
+      "author": "erennyildizz",
+      "date": "16.04.2022 22:01",
+      "content": "yarın ...",
+      "has_external_url": false
+    },
+    {
+      "title": "afganları evime alırım buyursunlar gelsinler",
+      "entry_id": "136291830",
+      "author": "vefasiztorunsirri",
+      "date": "16.04.2022 22:05",
+      "content": "(bkz: anadolu irfanı)",
+      "has_external_url": false
+    },
+    {
+      "title": "afganları evime alırım buyursunlar gelsinler",
+      "entry_id": "136291932",
+      "author": "solak beyefendi",
+      "date": "16.04.2022 22:08 ~ 22:28",
+      "content": "tipik bizim millet işte. lafa gelince \"şöyle yaparım böyle yaparım\" icraata gelince \"sütçüler'den geldim\"...\n\n(bkz: hudut namustur)",
+      "has_external_url": false
+    },
+    {
+      "title": "afganları evime alırım buyursunlar gelsinler",
+      "entry_id": "136292597",
+      "author": "deanmc",
+      "date": "16.04.2022 22:21",
+      "content": "alın evinize mümkünse sadece orda kalsınlar çıkmasınlar",
+      "has_external_url": false
+    }
+  ]
+}

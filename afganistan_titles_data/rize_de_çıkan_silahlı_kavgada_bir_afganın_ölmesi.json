@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:04:20.001721",
+    "total_entries": 3,
+    "input": "rize'de çıkan silahlı kavgada bir afganın ölmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rize'de çıkan silahlı kavgada bir afganın ölmesi",
+      "entry_id": "138160524",
+      "author": "quantumleap06",
+      "date": "31.05.2022 19:26",
+      "content": "türk ölmeyerek çok ayıp etmiş, afgan öldürülür mü hiç.",
+      "has_external_url": false
+    },
+    {
+      "title": "rize'de çıkan silahlı kavgada bir afganın ölmesi",
+      "entry_id": "138160586",
+      "author": "taklaci guvercin",
+      "date": "31.05.2022 19:27",
+      "content": "görsel\nyeter amk.",
+      "has_external_url": true
+    },
+    {
+      "title": "rize'de çıkan silahlı kavgada bir afganın ölmesi",
+      "entry_id": "138160632",
+      "author": "akrep yelkovan",
+      "date": "31.05.2022 19:29",
+      "content": "bu ülkenin yerli işçisi dururken gidip allah'ın afganistan'ından gelen işçiyi çalıştırırsan başına iyi bir şey gelmez zaten.\n\nhapiste yatacak bundan dolayı...",
+      "has_external_url": false
+    }
+  ]
+}

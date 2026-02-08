@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T21:59:43.272381",
+    "total_entries": 4,
+    "input": "hindistanı yok edeceğim diyen pakistanlı çocuk",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "hindistanı yok edeceğim diyen pakistanlı çocuk",
+      "entry_id": "144141337",
+      "author": "proyorummm",
+      "date": "20.10.2022 19:23 ~ 19:54",
+      "content": "büyüyünce hindistan'ı yok edeceğini beyan edip alkış alan pakistanlı çocuk. bu arada bazılarının ingilizce seviyesi beni oldukça şaşırttı.bizim ülkemizde bu seviyeye getirebilen öğretmen varsa ki sanmıyorum ama helal olsun.\n\nhttps://twitter.com/…?s=46&t=rcnsfdeprrbtxti7umqwfa\n\nedit: tabiki hindistan coğrafyası sömürüldü biliyorum pakilerde oradan ayrıldı ama her sömürğlen millet iyi ingilizce konuşmuyor bu da bir gerçek.",
+      "has_external_url": true
+    },
+    {
+      "title": "hindistanı yok edeceğim diyen pakistanlı çocuk",
+      "entry_id": "144141883",
+      "author": "olumsuzdusunenadam",
+      "date": "20.10.2022 19:41",
+      "content": "göz ardı etmemek lazım. hiç belli olmaz bi bakmışsın hindistan yok.\n(bkz: david copperfield) mısın lan sen.",
+      "has_external_url": false
+    },
+    {
+      "title": "hindistanı yok edeceğim diyen pakistanlı çocuk",
+      "entry_id": "144142028",
+      "author": "sunset1925",
+      "date": "20.10.2022 19:45",
+      "content": "her sene pişirilip önümüze defalarca kez çıkan video döngüsü.",
+      "has_external_url": false
+    },
+    {
+      "title": "hindistanı yok edeceğim diyen pakistanlı çocuk",
+      "entry_id": "144142123",
+      "author": "kirkhammet34",
+      "date": "20.10.2022 19:49",
+      "content": "çocuğun ingilizcesine şaşıran yazara ufak not: o ülkeler bölünmeden önce ingiliz imparatorluğu tarafından 200 yıl sömürüldüler. dolayısıyla oralarda insanlar genel olarak güzel ingilizce konuşurlar. aksanlarının komik olması ayrı konu tabi.",
+      "has_external_url": false
+    }
+  ]
+}

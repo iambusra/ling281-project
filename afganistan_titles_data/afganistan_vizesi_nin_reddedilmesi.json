@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:01:07.473660",
+    "total_entries": 2,
+    "input": "afganistan vizesi'nin reddedilmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "afganistan vizesi'nin reddedilmesi",
+      "entry_id": "173540458",
+      "author": "seviyorsevmiyorseviyorsevmiyorseviyor",
+      "date": "12.03.2025 21:59",
+      "content": "pasaport yakma nedeni. böyle bir şey olursa, türkiye dışına çıkmayı hayal bile etmeyin (bkz: swh)",
+      "has_external_url": false
+    },
+    {
+      "title": "afganistan vizesi'nin reddedilmesi",
+      "entry_id": "173540516",
+      "author": "tasolu biftekli citoz",
+      "date": "12.03.2025 22:01",
+      "content": "bi insan neden oraya gitmeye uğraşır ki zaten? ha oraya vize almışsın ha pasaportuna bok öğdürmüşsün",
+      "has_external_url": false
+    }
+  ]
+}

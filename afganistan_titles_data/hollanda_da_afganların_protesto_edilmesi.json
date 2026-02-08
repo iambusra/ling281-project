@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:08:13.313154",
+    "total_entries": 3,
+    "input": "hollanda'da afganların protesto edilmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "hollanda'da afganların protesto edilmesi",
+      "entry_id": "127356452",
+      "author": "et tu brute",
+      "date": "26.08.2021 17:09",
+      "content": "protesto ederek en doğal haklarını kullanmışlar. darısı türk halkının başına.",
+      "has_external_url": false
+    },
+    {
+      "title": "hollanda'da afganların protesto edilmesi",
+      "entry_id": "127366146",
+      "author": "cokonemlidegilzaten",
+      "date": "26.08.2021 21:32 ~ 22:03",
+      "content": "aramızda para toplayıp bir kaç tane hollandalı yazar da biz fonlayalım da, onlara sabah akşam mülteci kabul etmenin ne kadar erdemli bir davranış olduğunu anlatsınlar.",
+      "has_external_url": false
+    },
+    {
+      "title": "hollanda'da afganların protesto edilmesi",
+      "entry_id": "127421823",
+      "author": "punkrock1907",
+      "date": "28.08.2021 12:16",
+      "content": "hollanda vatandaşlarının türklerden çok daha milliyetçi olduklarını gösteren haklı olay. adamlar bunları istemediklerini ifade etmişler. türkiye'ye bunların 1000 katı kadar sığınmacı girdi. hem de kontrolsüz bir şekilde. şimdi bu durum tespitini yaptığımız an hemen provokatör filan oluruz.",
+      "has_external_url": false
+    }
+  ]
+}

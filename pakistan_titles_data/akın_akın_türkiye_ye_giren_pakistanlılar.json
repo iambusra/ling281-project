@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:05:15.261694",
+    "total_entries": 3,
+    "input": "akın akın türkiye'ye giren pakistanlılar",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "akın akın türkiye'ye giren pakistanlılar",
+      "entry_id": "135520103",
+      "author": "teslatron",
+      "date": "28.03.2022 22:48",
+      "content": "vakti geldiğinde gereği yapılacak.\n\n(bkz: zafer partisi)",
+      "has_external_url": false
+    },
+    {
+      "title": "akın akın türkiye'ye giren pakistanlılar",
+      "entry_id": "135520259",
+      "author": "joeyramone",
+      "date": "28.03.2022 22:52",
+      "content": "bohçalı'nın sevinçten gözlerini yaşartan olay.",
+      "has_external_url": false
+    },
+    {
+      "title": "akın akın türkiye'ye giren pakistanlılar",
+      "entry_id": "135520931",
+      "author": "angarali25",
+      "date": "28.03.2022 23:07",
+      "content": "seçimlerden sonra tıpış tıpış geri giderler merak etmeyin yeter ki iktidar değişsin",
+      "has_external_url": false
+    }
+  ]
+}

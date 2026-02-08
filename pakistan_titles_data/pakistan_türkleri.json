@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:02:23.803927",
+    "total_entries": 1,
+    "input": "pakistan türkleri",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "pakistan türkleri",
+      "entry_id": "169576081",
+      "author": "orijinnal",
+      "date": "25.10.2024 18:45 ~ 05.11.2024 21:23",
+      "content": "pakistan'da yaşayan türk soylu halklar. karluklar (timurlulardan geldiğini söylüyorlar), gucarlar (akhunlardan geldiğini söylüyorlar), racalar, bugarlar, bucarlar, osmaniler, papralar, şirvaniler, kızılbaşlar, hunza türkleri ve mugallar.\n\nmugallar 1.4 milyon, diğerleriyle beraber 5 milyon kadar.\n\npakistan dili konuştukları için modern türk halkları içinde sayılmıyorlar ancak nüfus sayımında türk olarak kaydedilmişler.",
+      "has_external_url": false
+    }
+  ]
+}

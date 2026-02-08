@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:06:37.875915",
+    "total_entries": 1,
+    "input": "pakistanlıların türkiye'ye göç videosu",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "pakistanlıların türkiye'ye göç videosu",
+      "entry_id": "136214414",
+      "author": "sahi1453",
+      "date": "14.04.2022 22:43",
+      "content": "sınırlarımız resmen kevgire dönmüş durumda\n\nhudut neydi? hudut namustu!\n\nvideo",
+      "has_external_url": true
+    }
+  ]
+}

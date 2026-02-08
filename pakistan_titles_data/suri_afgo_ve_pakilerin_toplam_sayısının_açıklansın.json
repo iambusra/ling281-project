@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:01:20.491432",
+    "total_entries": 1,
+    "input": "suri afgo ve pakilerin toplam sayısının açıklansın",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suri afgo ve pakilerin toplam sayısının açıklansın",
+      "entry_id": "136316576",
+      "author": "goklerdengeleneksici",
+      "date": "17.04.2022 13:32",
+      "content": "ümit özdağ’a sorsana delikanlı. onların çetelesini o tutuyor bildiğim kadarıyla.",
+      "has_external_url": false
+    }
+  ]
+}

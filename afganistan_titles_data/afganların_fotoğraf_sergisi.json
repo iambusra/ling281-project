@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:07:57.551025",
+    "total_entries": 1,
+    "input": "afganların fotoğraf sergisi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "afganların fotoğraf sergisi",
+      "entry_id": "138291563",
+      "author": "o nick buraya gelecek aga",
+      "date": "03.06.2022 19:21",
+      "content": "bir farkındalık projesi.\n\nbazen hayatın koşuşturmacası arasında bakmayı unuttuğumuz nice götler kalabalıklar arasında kaybolup gidiyor. işte objektif perspektiften bakmasını bilen ve sanatsal bir yaklaşımla “o an”ları ölümsüzleştiren afgan, paki ve suri din kardeşlerimiz sayesinde göte doyacağımız bir sergi olacaktır, çok şükür elhamdulillah",
+      "has_external_url": false
+    }
+  ]
+}

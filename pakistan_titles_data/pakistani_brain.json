@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:03:34.064046",
+    "total_entries": 1,
+    "input": "pakistani brain",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "pakistani brain",
+      "entry_id": "4527095",
+      "author": "def",
+      "date": "01.06.2004 07:35",
+      "content": "dunyayi kari$tirmi$ ilk bilgisayar virusu kabul edilir. daha disketlere falan ugra$ildigi siralarda.\n\n(bkz: dark avenger)",
+      "has_external_url": false
+    }
+  ]
+}

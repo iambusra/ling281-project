@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:08:14.855620",
+    "total_entries": 3,
+    "input": "kaçan afganların cebinde iyi para olması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "kaçan afganların cebinde iyi para olması",
+      "entry_id": "127161475",
+      "author": "dunyao",
+      "date": "21.08.2021 11:18",
+      "content": "afganlarla ilgili tüm haberlerde “türkiye’ye gelmek için kaçakçılara adam başı 2500 dolar ödüyorlar” lafı geçiyor. ortalama 2 kişi kaçsalar, 5000 dolar, 2000 dolar da yanlarına kötü gün parası alsalar 7000 dolar eder, bu da yaklaşık 60bin tl eder. bence bu büyük bir para. (halkın en aşağı kesimi için)\n\naltında donu olmayan adamlarda 60bin tl ne arıyor, bizim ülkedeki fakirlerde de bu para mevcut mu? o halde biz afganlardan daha fakir değil miyiz?",
+      "has_external_url": false
+    },
+    {
+      "title": "kaçan afganların cebinde iyi para olması",
+      "entry_id": "127200144",
+      "author": "dunyao",
+      "date": "22.08.2021 13:11",
+      "content": "kendi sorumun cevabını bir gün sonra kendim buldum:\n\nhttps://gazeteoksijen.com/…ler-rusvetci-komutanlar/",
+      "has_external_url": true
+    },
+    {
+      "title": "kaçan afganların cebinde iyi para olması",
+      "entry_id": "127201518",
+      "author": "irish seven adam",
+      "date": "22.08.2021 14:01 ~ 14:02",
+      "content": "yalandır. evi arabayı sattım diyen de var. ev dediği ahır zaten. sırf millet acısın diye muhtemelen kaçakçıların söylettiği şeyler bunlar. yutmayınız. afganistan'da yaşayanların %90'ının 1000 dolar biriktirecek imkanı yoktur.",
+      "has_external_url": false
+    }
+  ]
+}

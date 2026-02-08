@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:03:21.776006",
+    "total_entries": 2,
+    "input": "pakistan islam cumhuriyeti",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "pakistan islam cumhuriyeti",
+      "entry_id": "64224398",
+      "author": "arda selanik",
+      "date": "21.11.2016 11:48",
+      "content": "pakistan'ın resmi adıdır.",
+      "has_external_url": false
+    },
+    {
+      "title": "pakistan islam cumhuriyeti",
+      "entry_id": "145494589",
+      "author": "kaktus",
+      "date": "24.11.2022 10:50",
+      "content": "başkonsolosluğu zeki müren sokağındadır. (bkz: swh)",
+      "has_external_url": false
+    }
+  ]
+}

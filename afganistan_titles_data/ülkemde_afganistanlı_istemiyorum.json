@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:00:18.100431",
+    "total_entries": 1,
+    "input": "ülkemde afganistanlı istemiyorum",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ülkemde afganistanlı istemiyorum",
+      "entry_id": "125815631",
+      "author": "negrotower",
+      "date": "17.07.2021 14:59",
+      "content": "suriyelileri de istemedik, aldılar..\n\nbari bunları almayalım.\n\nyeter.\n\nbiz kendimize bakamıyoruz, ye - ter ..",
+      "has_external_url": false
+    }
+  ]
+}

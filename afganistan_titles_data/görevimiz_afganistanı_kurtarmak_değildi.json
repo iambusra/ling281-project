@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:08:43.012388",
+    "total_entries": 1,
+    "input": "görevimiz afganistanı kurtarmak değildi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "görevimiz afganistanı kurtarmak değildi",
+      "entry_id": "127003086",
+      "author": "webya",
+      "date": "17.08.2021 01:26",
+      "content": "tam hali;\ngörevimiz hiç bir zaman afganistan' da yeni bir ulus inşa etmek değildi\nbir joe biden açıklaması\no zaman sana derler ki, görevin madem el kaideyi bitirmekti, sözde usame bin ladin yakalandığında neden çıkmadın afganistan'dan.\namerika gerçekten yavaş demokrasi saç, içine edip gidiyorsun.\ntweet",
+      "has_external_url": true
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T21:57:58.074741",
+    "total_entries": 1,
+    "input": "afgan çamı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "afgan çamı",
+      "entry_id": "175354219",
+      "author": "lucklucki",
+      "date": "16.05.2025 23:42",
+      "content": "afgan çamı (pinus eldarica) afganistanda doğal olarak yetişen çam ağacı. türkiyede akdeniz, güney dogu gibi bölgelerde yetişebilir, sıcak sever. ben genellikle sarıçama benzetiyorum formunu. güzel bir görünüşü var.\n\ngörsel\ngörsel\ngörsel",
+      "has_external_url": true
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:01:57.811493",
+    "total_entries": 1,
+    "input": "24 nisan 2025 olası pakistan hindistan savaşı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "24 nisan 2025 olası pakistan hindistan savaşı",
+      "entry_id": "174795268",
+      "author": "mordoreri",
+      "date": "24.04.2025 19:49",
+      "content": "salı günü hindistan kontrolündeki keşmir'de gerçekleşen saldırıda 28 kişi hayatını kaybetti ve hindistan bunu pakistan'ın gerçekleştirdigini söylüyor. bu gün hindistan ve pakistan ard arda savaşa doğru giden kararlar almaya başladı. görünen o ki bir kaç gün içinde savaş başlıyacak gibi.\nkaynak(bkz: https://x.com/…1919/status/1915424482753237140?s=19)\n(bkz: https://x.com/…tay_/status/1915382402853081326?s=19)",
+      "has_external_url": true
+    }
+  ]
+}

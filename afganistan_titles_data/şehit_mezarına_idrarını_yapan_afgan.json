@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T21:59:46.072757",
+    "total_entries": 1,
+    "input": "şehit mezarına idrarını yapan afgan",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "şehit mezarına idrarını yapan afgan",
+      "entry_id": "156515104",
+      "author": "satria",
+      "date": "07.09.2023 20:20",
+      "content": "ulkemize doldurulan milyonlarca kacagin tum degerlerimizi nasil acikca asagiladigini bir kez daha hatirlatan olaydir.\n\nkaynak: https://www.tamgaturk.com/…na-idrarini-yapti/65389/",
+      "has_external_url": true
+    }
+  ]
+}

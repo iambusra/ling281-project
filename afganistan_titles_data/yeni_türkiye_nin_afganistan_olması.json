@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:01:05.076655",
+    "total_entries": 1,
+    "input": "yeni türkiye'nin afganistan olması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "yeni türkiye'nin afganistan olması",
+      "entry_id": "175304570",
+      "author": "diplomasi",
+      "date": "14.05.2025 21:33",
+      "content": "akp türkiye'si dedikleri yeni türkiye'nin afganistan olma durumudur.\nbiraz da bana venezuela + afganistan gibi geliyor ama siz nasıl istiyorsanız öyle düşünün.",
+      "has_external_url": false
+    }
+  ]
+}

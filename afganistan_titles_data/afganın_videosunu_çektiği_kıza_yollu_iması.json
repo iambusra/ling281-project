@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:04:11.863398",
+    "total_entries": 2,
+    "input": "afganın videosunu çektiği kıza yollu iması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "afganın videosunu çektiği kıza yollu iması",
+      "entry_id": "140147163",
+      "author": "mahserin 4 sovalyesi",
+      "date": "18.07.2022 15:22 ~ 15:24",
+      "content": "göç haberleri adlı kaçak göçmen yanlısı paçavranın, afgan sapığın videosunu çektiği türk kızına iması. bunlara göre açık giyinen, içki içen her kadın tacize uğrayabilir. https://twitter.com/…tatus/1548658990867005441?s=21\n\ntacize uğrayan hanımefendinin videosu https://twitter.com/…tatus/1548375835328950275?s=21",
+      "has_external_url": true
+    },
+    {
+      "title": "afganın videosunu çektiği kıza yollu iması",
+      "entry_id": "140147325",
+      "author": "soapgarden",
+      "date": "18.07.2022 15:26 ~ 15:28",
+      "content": "tabii ki birileri bunu kendi çıkarı için kullanabilir ama insanların eğlenirken fotoğrafını koymak ve bunu tweetlemek de seküler yaşam hakkına sahip olan ve bu şekilde yaşayan insanları töhmet altında bırakmaktır.\n\nırkçı değilim, olmayacak kadar akıl sahibiyim. ben de bir suriyeli ailenin çocuğu olup türkiye'ye göç edebilirdim. bu kişilerle alıp veremediğim yok..\n\nama sokağa çıktığımda her yerin araplaştırılmaya çalışıldığını görüyorum, aklım kontrolsüz göçün ileride çok büyük sorunlara yol açacağına yetiyor, demografik yapı, nüfus kontrolü, sağlık sistemi, eğitim sistemi hakkında endişelerim var, iç karışıklık durumunda kontrol sağlamak çok daha zor ve ölümcül olacaktır..",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:03:09.359517",
+    "total_entries": 2,
+    "input": "afganlı makasçımız hayırlı olsun",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "afganlı makasçımız hayırlı olsun",
+      "entry_id": "99768995",
+      "author": "shishkabob",
+      "date": "29.12.2019 12:40",
+      "content": "(bkz: imam osurursa cemaat sıçar)\nsenin halkın kural tanımazsa el oğlu da her haltı yer, bunda garipsenecek bir durum yok.",
+      "has_external_url": false
+    },
+    {
+      "title": "afganlı makasçımız hayırlı olsun",
+      "entry_id": "99770011",
+      "author": "dramaturcik gerzek",
+      "date": "29.12.2019 13:12 ~ 13:14",
+      "content": "aslanlar gibi ırkçı sığırları tanımamıza vesile olmuş başlıktır. bu eylemi yapanın ırkı, dini, dili vb.; eylemin niteliğini etkilemiyor. yani makası atan insan artığı, afgan, ingiliz, vietnamlı ya da türk olabilir. makas atmak aynı derece de tehlikeli, aynı derecede suçtur.\n\nedit: başlık başıma kalmış.",
+      "has_external_url": false
+    }
+  ]
+}

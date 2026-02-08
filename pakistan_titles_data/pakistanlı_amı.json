@@ -1,0 +1,61 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:00:29.495086",
+    "total_entries": 4,
+    "input": "pakistanlı amı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "pakistanlı amı",
+      "entry_id": "137329182",
+      "author": "h3lldreamer",
+      "date": "11.05.2022 22:31 ~ 22:33",
+      "content": "buraya kadın gelmedi. on binde birdir gelmişse de. ama bu başlığı açanı zenne yapıp oynatacak adamlar geldi. baça bazi . erkek polisin götünün videosunu çekmiş adam. siz böyle dalga geçmeye devam edin bakalım. ne zamana kadar geçeceksiniz? ülke elden gidiyor.",
+      "referenced_content": [],
+      "has_external_url": false
+    },
+    {
+      "title": "pakistanlı amı",
+      "entry_id": "137329287",
+      "author": "lucklucki",
+      "date": "11.05.2022 22:33",
+      "content": "(#137329182) birader biraz hayattan zevk al.",
+      "referenced_content": [
+        {
+          "type": "entry",
+          "title": "pakistanlı amı",
+          "entry_id": "137329182",
+          "author": "h3lldreamer",
+          "date": "11.05.2022 22:31 ~ 22:33",
+          "content": "buraya kadın gelmedi. on binde birdir gelmişse de. ama bu başlığı açanı zenne yapıp oynatacak adamlar geldi. baça bazi . erkek polisin götünün videosunu çekmiş adam. siz böyle dalga geçmeye devam edin bakalım. ne zamana kadar geçeceksiniz? ülke elden gidiyor.",
+          "has_external_url": false
+        }
+      ],
+      "referenced_entry_ids": [
+        "137329182"
+      ],
+      "has_external_url": false
+    },
+    {
+      "title": "pakistanlı amı",
+      "entry_id": "137329654",
+      "author": "engineerdolma",
+      "date": "11.05.2022 22:41",
+      "content": "kocaları türkiye'de olduğu için yalnız kalmış olan am çeşididir.",
+      "referenced_content": [],
+      "has_external_url": false
+    },
+    {
+      "title": "pakistanlı amı",
+      "entry_id": "137329908",
+      "author": "more space",
+      "date": "11.05.2022 22:47 ~ 22:47",
+      "content": "pakistanli kadinlarin cinsel organina verilen isim.\n\nbaslik cok assagilik bir baslik, acan assagiliik bir insan orasi kesin. moderasyon goreve diyelim.\n\nentry'mi de bu deneyimleme mupteleasi yavsaga atalarimizdan bir sozle son vereyim.\n\n\"telli sazın tellisi kurumuş duttan olur, hovardanın hızlısı am için götten olur.\"",
+      "referenced_content": [],
+      "has_external_url": false
+    }
+  ]
+}

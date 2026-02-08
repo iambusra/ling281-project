@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:05:35.295007",
+    "total_entries": 1,
+    "input": "suriyeliler vs afganlar vs pakistanlılar",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeliler vs afganlar vs pakistanlılar",
+      "entry_id": "145275522",
+      "author": "mesa0",
+      "date": "18.11.2022 23:11",
+      "content": "üçünü de uzaktan seviyorum. kendi ülkelerinde olup vatanları için çalıştığı sürece. avrupa falan da olabilir.(türkiye'nin avrupa tarafı hariç) kıymetin olması için gitmeleri gerekir. fakat suriyelilerden bazıları sanayi için kalabilir.",
+      "has_external_url": false
+    }
+  ]
+}

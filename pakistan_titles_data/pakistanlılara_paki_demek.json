@@ -1,0 +1,60 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:05:51.740852",
+    "total_entries": 6,
+    "input": "pakistanlılara paki demek",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "pakistanlılara paki demek",
+      "entry_id": "5515300",
+      "author": "dubliners",
+      "date": "26.08.2004 18:46",
+      "content": "ırkçı ve cahil ingilizlerin söylediği bir kelimedir. hiç hoş değildir.",
+      "has_external_url": false
+    },
+    {
+      "title": "pakistanlılara paki demek",
+      "entry_id": "5515743",
+      "author": "pleasure delayer",
+      "date": "26.08.2004 19:40",
+      "content": "(bkz: pakistanlilara peki demek)",
+      "has_external_url": false
+    },
+    {
+      "title": "pakistanlılara paki demek",
+      "entry_id": "5515848",
+      "author": "frank n furter",
+      "date": "26.08.2004 19:53",
+      "content": "arabistan'dan gelene arap, kırgızistan'dan gelene de kırgız diyerek çok büyük bir günah mı işliyoruz diye beni düşüncelere daldıran eylem.",
+      "has_external_url": false
+    },
+    {
+      "title": "pakistanlılara paki demek",
+      "entry_id": "5515882",
+      "author": "bleufonce",
+      "date": "26.08.2004 19:57",
+      "content": "sözlük yazarlarına suser demek gibidir...",
+      "has_external_url": false
+    },
+    {
+      "title": "pakistanlılara paki demek",
+      "entry_id": "7876204",
+      "author": "sarampole yuvarlanan adam",
+      "date": "19.07.2005 17:29 ~ 18:36",
+      "content": "ingiltere'de ozellikle beyaz anglosakson ingilizler tarafindan pakistanlilari asagilamak amaciyla gerceklestirilir. ekte londra'daki bombalama eylemleri ekseninde ingiltere'de yasayan pakistanlilarin konumu uzerine son derece basarili bir yazi murat belge'den...\nhttp://www.radikal.com.tr/haber.php?haberno=158778",
+      "has_external_url": true
+    },
+    {
+      "title": "pakistanlılara paki demek",
+      "entry_id": "118519157",
+      "author": "fosforlutrnc",
+      "date": "21.01.2021 08:36 ~ 08:37",
+      "content": "düz mantık bir söyleyiş hatasıdır.\n\npakistanlılarla bir süre çalışmıştım ve onlara paki dediğim her seferde göz devirip hafif gerdan kırarak kızmışlardı. (bkz: ne diyem mahmut mu diyem)\n\ndoğrusunu sordum haliyle,''pakistâni'' denmesi gerektiğini belirttiler.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:05:12.439197",
+    "total_entries": 3,
+    "input": "afgan ve pakistanlılar nasıl üreyecek sorunsalı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "afgan ve pakistanlılar nasıl üreyecek sorunsalı",
+      "entry_id": "136249154",
+      "author": "neseliguzel",
+      "date": "15.04.2022 19:47",
+      "content": "artık birbirleriyle idare edecekler, yapacak birşey yok, gerçekçi olmak lazım.",
+      "has_external_url": false
+    },
+    {
+      "title": "afgan ve pakistanlılar nasıl üreyecek sorunsalı",
+      "entry_id": "136249353",
+      "author": "bilal reyiz",
+      "date": "15.04.2022 19:55",
+      "content": "(bkz: üçgen biçiminde birbirimize takacağız)",
+      "has_external_url": false
+    },
+    {
+      "title": "afgan ve pakistanlılar nasıl üreyecek sorunsalı",
+      "entry_id": "136249361",
+      "author": "okudum okudum mutlu olamadim",
+      "date": "15.04.2022 19:55",
+      "content": "bölünerek.\n\n(bkz: mitoz bölünme)",
+      "has_external_url": false
+    }
+  ]
+}

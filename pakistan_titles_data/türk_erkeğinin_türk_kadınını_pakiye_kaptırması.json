@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:00:44.849334",
+    "total_entries": 4,
+    "input": "türk erkeğinin türk kadınını pakiye kaptırması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türk erkeğinin türk kadınını pakiye kaptırması",
+      "entry_id": "137000549",
+      "author": "keremtunaa",
+      "date": "04.05.2022 15:35",
+      "content": "küfredince çaylak yapıyorlar o yüzden küfretmeden anladın sen onu.",
+      "has_external_url": false
+    },
+    {
+      "title": "türk erkeğinin türk kadınını pakiye kaptırması",
+      "entry_id": "137000621",
+      "author": "ufak tefek dedektif",
+      "date": "04.05.2022 15:37",
+      "content": "(bkz: afganların eminönüne burası afganistan önü demesi)",
+      "has_external_url": false
+    },
+    {
+      "title": "türk erkeğinin türk kadınını pakiye kaptırması",
+      "entry_id": "137001645",
+      "author": "ubi dubium ibi libertas",
+      "date": "04.05.2022 16:04 ~ 16:05",
+      "content": "oglum paki falan demeyin aklima this is england geliyor (bkz: swh) .\n\npaki bastard",
+      "has_external_url": true
+    },
+    {
+      "title": "türk erkeğinin türk kadınını pakiye kaptırması",
+      "entry_id": "137002473",
+      "author": "yildizfirtinasi",
+      "date": "04.05.2022 16:27",
+      "content": "hoş olmayan başlık türk kadını asil ve onurludur.\nkapılmaz ve kaptırılacak bir durum söz konusu olamaz. bu tür başlıklar süzgeçten geçse çok iyi olacak. türk erkeği ve türk kadını eşini karşılıklı iletişim ve istekleri doğrultusunda hayatlarına eşlerini alır.",
+      "has_external_url": false
+    }
+  ]
+}

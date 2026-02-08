@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:03:28.294767",
+    "total_entries": 1,
+    "input": "why is there a dead pakistani on my couch",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "why is there a dead pakistani on my couch",
+      "entry_id": "58655835",
+      "author": "yazdiklarimin hepsi hayal urunudur",
+      "date": "21.02.2016 00:51",
+      "content": "google'a why is there yazınca en üstte çıkan sonuç",
+      "has_external_url": false
+    }
+  ]
+}

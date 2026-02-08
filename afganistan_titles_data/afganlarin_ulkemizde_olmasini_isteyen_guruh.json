@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:07:57.542069",
+    "total_entries": 2,
+    "input": "afganlarin ulkemizde olmasini isteyen guruh",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "afganlarin ulkemizde olmasini isteyen guruh",
+      "entry_id": "138291368",
+      "author": "marti rifki",
+      "date": "03.06.2022 19:15",
+      "content": "bu adamlar bosuna gelmiyor. talep var ki geliyor. adamlar yana yakila vergiden kacirmak icin ozellikle afgan isci araniyor ilani veriyor facebook'ta\n\nbu baslik belki birilerinin dikkatini ceker de, ulkemizin uc kurus vergiden calmak icin ulkemizin demografik yapisinin bozulmasini isteyen emek hirsizlari belki ceza alir.\n\nafgan isci arama grubu",
+      "has_external_url": true
+    },
+    {
+      "title": "afganlarin ulkemizde olmasini isteyen guruh",
+      "entry_id": "138291984",
+      "author": "wingspan",
+      "date": "03.06.2022 19:33",
+      "content": "şu grubu vatandaş bulup burda ifşa ediyor. devlet yetkilileri işçileri sınır dışı edip, vatandaşlara da ceza kesemiyorsa, yazıklar olsun.",
+      "has_external_url": false
+    }
+  ]
+}

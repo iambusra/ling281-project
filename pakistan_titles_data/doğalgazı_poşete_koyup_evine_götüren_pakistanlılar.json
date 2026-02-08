@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:04:38.532366",
+    "total_entries": 3,
+    "input": "doğalgazı poşete koyup evine götüren pakistanlılar",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "doğalgazı poşete koyup evine götüren pakistanlılar",
+      "entry_id": "147644780",
+      "author": "john christopher",
+      "date": "14.01.2023 19:42",
+      "content": "o posetteki gazi sobada yakmaya calisip evini havaya ucuran pakistanli haberi duymamiz yakindir",
+      "has_external_url": false
+    },
+    {
+      "title": "doğalgazı poşete koyup evine götüren pakistanlılar",
+      "entry_id": "147645344",
+      "author": "iphonesarj",
+      "date": "14.01.2023 19:57",
+      "content": "maalesef topladıkları gazı evde kullanırken çok ölen olmuş.",
+      "has_external_url": false
+    },
+    {
+      "title": "doğalgazı poşete koyup evine götüren pakistanlılar",
+      "entry_id": "147685094",
+      "author": "elineverensihirbaz",
+      "date": "15.01.2023 16:50",
+      "content": "(bkz: doğal seçilim)",
+      "has_external_url": false
+    }
+  ]
+}

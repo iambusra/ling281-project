@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:02:34.322866",
+    "total_entries": 1,
+    "input": "malezya olur mu derken afganistan olan ülke",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "malezya olur mu derken afganistan olan ülke",
+      "entry_id": "136355117",
+      "author": "northroma",
+      "date": "18.04.2022 09:41",
+      "content": "t.c vatandaşının nasıl vizyonsuz olduğuna bir kez daha şahitlik ediyoruz. ne vardı 20 sene evvel iran olmayı kabul etseydik sanki.",
+      "has_external_url": false
+    }
+  ]
+}

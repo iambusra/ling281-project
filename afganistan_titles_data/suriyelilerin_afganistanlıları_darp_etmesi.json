@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:08:59.120217",
+    "total_entries": 3,
+    "input": "suriyelilerin afganistanlıları darp etmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelilerin afganistanlıları darp etmesi",
+      "entry_id": "66566709",
+      "author": "montana reis",
+      "date": "28.02.2017 13:41",
+      "content": "kimin kimi siktıği belli değil güzelim ülkemde ..",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyelilerin afganistanlıları darp etmesi",
+      "entry_id": "66566879",
+      "author": "sigara kibrit",
+      "date": "28.02.2017 13:53",
+      "content": "(bkz: misafir misafirden rahatsız ev sahibi hepsinden)",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyelilerin afganistanlıları darp etmesi",
+      "entry_id": "66575763",
+      "author": "ladyloola",
+      "date": "28.02.2017 22:50",
+      "content": "ilk okuduğumda zaytung haberi sandığım olay.",
+      "has_external_url": false
+    }
+  ]
+}

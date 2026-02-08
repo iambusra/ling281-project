@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:02:35.586567",
+    "total_entries": 2,
+    "input": "afganistan pakistan kuzey kore damgalı pasaport",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "afganistan pakistan kuzey kore damgalı pasaport",
+      "entry_id": "166338971",
+      "author": "malbeyani",
+      "date": "15.07.2024 04:12",
+      "content": "abd gibi ülkelere girişte federalleri cia ajanlarını ayağa kaldırabilecek kadar güçlü bir pasaporta sahip olmaktır herkese nasip olmaz. sessiz sakin batı ülkesine gitmek isterseniz minik sorunlarla karşılaşabilirsiniz.",
+      "has_external_url": false
+    },
+    {
+      "title": "afganistan pakistan kuzey kore damgalı pasaport",
+      "entry_id": "166340891",
+      "author": "simonsezz",
+      "date": "15.07.2024 08:43",
+      "content": "(bkz: entry nick uyumu)\n\npakistan ve kuzey kore neyse de afganistan...\n\nt: teori geliştirme başlığı",
+      "has_external_url": false
+    }
+  ]
+}

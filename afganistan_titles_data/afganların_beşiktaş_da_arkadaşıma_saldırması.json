@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:08:01.833390",
+    "total_entries": 4,
+    "input": "afganların beşiktaş'da arkadaşıma saldırması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "afganların beşiktaş'da arkadaşıma saldırması",
+      "entry_id": "137072817",
+      "author": "dariuss",
+      "date": "06.05.2022 01:28",
+      "content": "(bkz: sert ünsüzler)\n(bkz: fıstıkçı şahap)",
+      "has_external_url": false
+    },
+    {
+      "title": "afganların beşiktaş'da arkadaşıma saldırması",
+      "entry_id": "137073147",
+      "author": "tlmsah",
+      "date": "06.05.2022 01:36",
+      "content": "fenerpahçe'te katıköy'te, arnavud kaltırımlı tik sokak'da...\nherkez herkeşler'in aklınta bu soru:\nne yabacağız piz.",
+      "has_external_url": false
+    },
+    {
+      "title": "afganların beşiktaş'da arkadaşıma saldırması",
+      "entry_id": "137075133",
+      "author": "i could not feel so i learned to touch",
+      "date": "06.05.2022 02:41",
+      "content": "(bkz: don't feed the troll)",
+      "has_external_url": false
+    },
+    {
+      "title": "afganların beşiktaş'da arkadaşıma saldırması",
+      "entry_id": "137075220",
+      "author": "martin sikertel",
+      "date": "06.05.2022 02:45 ~ 02:46",
+      "content": "hayatının çoğunun avrupada geçmesi sebebiyle orta doğu denen bok çukurunun bir sidiği olan türkçeye hakim olamayan bir yazarın isyanı.\ne yarrağım orta doğu ülkesinden ne bekliyorsun?\nbugün arkadaşını döverler, yarın seni sikerler.\namcık, gitsene hayatının çoğunu geçirdiğin o güzel avrupa ülkelerine.\nsik kafası sen kimsin ki buralarda takılıyorsun.",
+      "has_external_url": false
+    }
+  ]
+}

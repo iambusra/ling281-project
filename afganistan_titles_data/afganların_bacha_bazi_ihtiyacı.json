@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:08:28.266355",
+    "total_entries": 1,
+    "input": "afganların bacha bazi ihtiyacı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "afganların bacha bazi ihtiyacı",
+      "entry_id": "126687997",
+      "author": "nickulaniste",
+      "date": "08.08.2021 22:16",
+      "content": "ne pis şeymiş bu… hala da devam ediyormuş…\n\nhttps://en.m.wikipedia.org/wiki/bacha_bazi",
+      "has_external_url": true
+    }
+  ]
+}

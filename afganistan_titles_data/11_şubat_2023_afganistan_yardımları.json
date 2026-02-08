@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:02:08.970395",
+    "total_entries": 1,
+    "input": "11 şubat 2023 afganistan yardımları",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "11 şubat 2023 afganistan yardımları",
+      "entry_id": "149103775",
+      "author": "azdaolsacokseybilenadam",
+      "date": "11.02.2023 23:30",
+      "content": "taliban hükümetinin yardım bahanesi ile türkiye'ye yüzlerce afgan yollama kararı aldığı yardımlardır. bunu duyan afganlar öyle gönüllü olmuşlar ki uçakta yer kapmak için adeta akın ediyorlar. deprem nedeni ile boşaltılacak olan bölgede kendilerine uygun bir ekosistem oluşacak bu gidişle.\n\nkaynak",
+      "has_external_url": true
+    }
+  ]
+}

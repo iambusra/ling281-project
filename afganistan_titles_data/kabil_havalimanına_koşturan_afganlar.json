@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:05:29.188429",
+    "total_entries": 2,
+    "input": "kabil havalimanına koşturan afganlar",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "kabil havalimanına koşturan afganlar",
+      "entry_id": "149102985",
+      "author": "kaptan12345",
+      "date": "11.02.2023 23:20",
+      "content": "kabil havalimanından kalkıp türkiye'ye yardım malzemelerini taşıyacak uçağa binme umudu ile havalimanına koşturan afganlardır.\n\nhavalimanına koşturan afganlar",
+      "has_external_url": true
+    },
+    {
+      "title": "kabil havalimanına koşturan afganlar",
+      "entry_id": "149103214",
+      "author": "engineerdolma",
+      "date": "11.02.2023 23:23",
+      "content": "gelmeyin amk gelmeyin!\n\nülkemde yeni yeni yağmacılar görmek istemiyorum artık.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T21:59:46.160621",
+    "total_entries": 2,
+    "input": "silahlı kaçakçı pakistanlı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "silahlı kaçakçı pakistanlı",
+      "entry_id": "142007830",
+      "author": "ilelebet payidar",
+      "date": "30.08.2022 16:30",
+      "content": "https://www.mynet.com/…dinlar-ve-silah-110106995680\n\nevet! 30 ağustos zafer bayramında, ülkenin hali malesef budur!\n\nülkemiz bu züppeler tarafından işgal edilmiştir .\n\nnot: konuya eklemeler gelecek sevgili kardeşlerim.",
+      "has_external_url": true
+    },
+    {
+      "title": "silahlı kaçakçı pakistanlı",
+      "entry_id": "142008419",
+      "author": "babilkulesii",
+      "date": "30.08.2022 16:45 ~ 16:45",
+      "content": "oy vereceğiniz parti sığınmacıları ve kaçakları geri gönderiyor mu ona bakıp öyle vermeniz dileği ile",
+      "has_external_url": false
+    }
+  ]
+}

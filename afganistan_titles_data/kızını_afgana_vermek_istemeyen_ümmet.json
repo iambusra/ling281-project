@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:03:33.587924",
+    "total_entries": 1,
+    "input": "kızını afgana vermek istemeyen ümmet",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "kızını afgana vermek istemeyen ümmet",
+      "entry_id": "126195002",
+      "author": "kolhis",
+      "date": "27.07.2021 17:14",
+      "content": "eğer afgan ilk karısı olarak istemişse ayıp etmiştir.\neğer kız üç ya da dört numara olacaksa biraz tereddüt edilebilir ama kalp kırmamak esastır.",
+      "has_external_url": false
+    }
+  ]
+}

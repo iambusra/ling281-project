@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:07:22.477270",
+    "total_entries": 4,
+    "input": "güney kore'nin afganlara sağladığı büyük destek",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "güney kore'nin afganlara sağladığı büyük destek",
+      "entry_id": "127129616",
+      "author": "bitmedi",
+      "date": "20.08.2021 13:29",
+      "content": "ironik bir durumu temsil eden cümledir.\n\nyabancılarla ilgili sımsıkı politikalara sahip olan ülkelerin başında gelen güney kore, afganistan'da yaşanan durumlardan dolayı, ülkede bulunan afganlara iyilik yapmak için, onların vizelerini biraz daha uzatmayı düşünebileceklerini duyurmuş. neden olmasınmış...\n\nmülteci alma konusu ise ayrı bir konuymuş. iyilik yapılırmış da, o kadar da olmazmış. buna şükredinmiş...\n\nlink",
+      "has_external_url": true
+    },
+    {
+      "title": "güney kore'nin afganlara sağladığı büyük destek",
+      "entry_id": "127129660",
+      "author": "zapturapt",
+      "date": "20.08.2021 13:30",
+      "content": "dünya böyle iyi insanların hatırına dönüyor valla.",
+      "has_external_url": false
+    },
+    {
+      "title": "güney kore'nin afganlara sağladığı büyük destek",
+      "entry_id": "127130367",
+      "author": "bildigini bilmeyen",
+      "date": "20.08.2021 13:52",
+      "content": "akıllı uygulama. adamlar vize ile girenleri tutarım, diğer kim olduğu belli olmayanları almam diyor. geri kalanı türkiye'ye gitsin, yol parası bizden diye de ekleselermiş.",
+      "has_external_url": false
+    },
+    {
+      "title": "güney kore'nin afganlara sağladığı büyük destek",
+      "entry_id": "127134849",
+      "author": "the railbender",
+      "date": "20.08.2021 16:23",
+      "content": "ulan ne değerli ülkeniz varmış.",
+      "has_external_url": false
+    }
+  ]
+}

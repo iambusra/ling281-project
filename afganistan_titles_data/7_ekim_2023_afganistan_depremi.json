@@ -1,0 +1,52 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:01:53.383315",
+    "total_entries": 5,
+    "input": "7 ekim 2023 afganistan depremi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "7 ekim 2023 afganistan depremi",
+      "entry_id": "157550931",
+      "author": "lammelifye",
+      "date": "08.10.2023 21:12",
+      "content": "--- spoiler ---\n\nafganistan bugün 6.3 büyüklüğünde depremle sarsıldı. eyalet afet yönetimi şefi mosa ashari yaptığı açıklamada, ülkenin kuzeyindeki herat eyaletine yaklaşık 40 km uzaklıkta yerel saatle 11.00’de meydana gelen depremde 320 kişinin hayatını kaybettiğini, binden fazla kişinin ise yaralandığını duyurdu.\n\n--- spoiler ---\n\nkaynak",
+      "has_external_url": true
+    },
+    {
+      "title": "7 ekim 2023 afganistan depremi",
+      "entry_id": "157554169",
+      "author": "efsanecayci",
+      "date": "08.10.2023 22:39",
+      "content": "ağustos 2021'de taliban'ın yönetimi ele geçirdiği afganistan'ın batısında, iran sınırında bulunan, ülkenin en büyük dördüncü kenti herat şehrinin 35 km kuzeybatısında dün, yerel saatle 11:00'den itibaren önce 6,3, ardından da ilki 5,5, ikincisi 4,7, üçüncüsü 6,3, dördüncüsü 5,9, beşincisi 4,6, altıncısı 4,8, yedincisi 4,9 büyüklüklerinde artçı depremler meydana gelmişti.\n\nçoğunun zindecan ilçesinin 13 köyünde olmak üzere şimdilik en az 2 bin 445 kişinin öldüğü, 9 bin 240 kişinin de yaralandığı açıklanmış. en az bin 320 ev hasar görmüş veya yıkılmış durumda . sosyal medyadaki kimi paylaşımlarda, enkaz altında hâlâ çok sayıda insanın bulunduğu belirtiliyor.\n\ncan kaybı sayısı bağımsız kaynaklarca teyit edilemese de bu sayılar doğruysa, deprem, son 20 yılda afganistan'da olanların en ölümcülü olarak kayıtlara geçmiş durumda.\n\ntam da hamas'ın israil'e saldırı başlattığı saatlerde olan deprem sonrası katar'daki taliban siyasi ofisi başkanının kurtarma ve yardım için acilen yiyecek, içme suyu, ilaç, giysi ve çadırlara ihtiyaç duyulduğunu söylemesi, uluslararası kamuoyunda pek önemsenmemiş olabilir.",
+      "has_external_url": true
+    },
+    {
+      "title": "7 ekim 2023 afganistan depremi",
+      "entry_id": "157625876",
+      "author": "efsanecayci",
+      "date": "11.10.2023 03:58 ~ 04:26",
+      "content": "11 ekim 2023'te yerel saatle 05:11'de (tsi 03:41) herat'ta, 6,4 büyüklüğünde bir deprem daha oldu. büyük ihtimalle bu depremin de yıkıcı etkisi olmuştur.\n7 ekim'deki depremin artçısı mı yoksa farklı bir deprem mi, o konuda henüz bir bilgi yok.\n\nekleme: depremin ardından 11 dk sonra 5,0 büyüklüğünde bir artçı sarsıntı daha olmuş. 05:11’dek depremin büyüklüğü de 6,3 olarak güncellenmiş.",
+      "has_external_url": false
+    },
+    {
+      "title": "7 ekim 2023 afganistan depremi",
+      "entry_id": "157759587",
+      "author": "efsanecayci",
+      "date": "15.10.2023 14:03 ~ 14:11",
+      "content": "bugün, yerel saatle 08:06'da (tsi 06:36'da) herat'ın kuzeybatısında 6,4 büyüklüğünde bir deprem daha oldu afganistan'da. bazı kaynaklar (abd) büyüklüğü 6,5 olarak verdi.\n\nbu depremden yaklaşık 20 dakika sonra da herat'ın 27 kilometre kuzeyinde 5,4 büyüklüğünde başka bir sarsıntı daha oldu.\n\nölü ve yaralı sayısının yüksek olabileceğinden bahsediliyor.",
+      "has_external_url": false
+    },
+    {
+      "title": "7 ekim 2023 afganistan depremi",
+      "entry_id": "157974438",
+      "author": "efsanecayci",
+      "date": "21.10.2023 23:31 ~ 23:33",
+      "content": "7 ekim'de meydana gelen depremde ölenlerin %90'ından fazlası kadın ve çocuklardan oluşuyormuş. deprem sırasında erkeklerin çoğunun tarlalarda olmasından dolayı, taliban'ın evden dışarı çıkmalarına kısıtlama/yasaklama getirdiği kadınlar, yıkılan evlerin altında kalmış .\n\ntaliban'ın, kadın yaralılarla erkek doktorların ilgilenmesini yasaklamasından dolayı, kadınlar depremden çok daha fazla zarar görmüş durumda.\n\nradikal islamcılar, bu dünyanın kanseridir.\n\nekleme: ölü sayısı, 3 bin civarında olduğu belirtiliyor.",
+      "has_external_url": true
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:06:35.005113",
+    "total_entries": 3,
+    "input": "cia'nın yeni fetö'sü afganlar mı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "cia'nın yeni fetö'sü afganlar mı",
+      "entry_id": "126785055",
+      "author": "bitmedi",
+      "date": "11.08.2021 11:08",
+      "content": "her şeyi açık seçik vurgulayan yazıdır.",
+      "has_external_url": false
+    },
+    {
+      "title": "cia'nın yeni fetö'sü afganlar mı",
+      "entry_id": "126785112",
+      "author": "non mi avete fatto niente",
+      "date": "11.08.2021 11:10",
+      "content": "yakında afganların da sürekli mağdur edebiyatı yapacaklarının müjdesini veren güzel yazıdır.",
+      "has_external_url": false
+    },
+    {
+      "title": "cia'nın yeni fetö'sü afganlar mı",
+      "entry_id": "126785654",
+      "author": "kendine uygun nick bulamayan adam",
+      "date": "11.08.2021 11:26",
+      "content": "\"cemaat konusunda uyarılarım\" kısmı tamamen palavra, \"ergenekon sürecinde tek bir kir bulamadılar\" kısmı ise, haksız yere içeri alınanlar demek ki kirli'dir aslında fatih bey için. hülasa, eleştirirken bile belli yerlere selam çakıyorsunuz. olmadı. gir içeri biraz daha yan.",
+      "has_external_url": false
+    }
+  ]
+}

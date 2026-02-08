@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:08:48.928874",
+    "total_entries": 1,
+    "input": "mehmet akif ersoyun afganistana gitmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "mehmet akif ersoyun afganistana gitmesi",
+      "entry_id": "127235224",
+      "author": "hanimelkurdi",
+      "date": "23.08.2021 10:59",
+      "content": "savaş muhabirliği kavramı her yanımızın kaosla çevrili ülkemizde unutulmaya yüz tuttu. kimi olmayan bombadan korunmaya çalıştı kimi at gözlükleriyle baktı ve yansıttı. bunlar bir kaç çürük elma olsa da ülke olarak çok önemli değerlere sahibiz. mesela m.akif ersoy vaktiyle savaşın en harlı olduğu dönemde kaddafi ile röportaj yapmıştı. gerçi sonrasında ne olduysa gündem programlarında moderatör olmaya başladı ama belki o da çocukları için rahat bir yuva istedi ya da hiç değilse büyüdüklerini görmek bilemem. sakin ilerleyen bu yaşantısı geçen hafta kendi sorduğu soruyla askıya alındı. neden afganistan'da gazetecimiz yok? zaten dün afganistan'da olduğu bilgisini verdi. kendisini tebrik ediyor ve güzel işlerinin devamını bekliyorum.\ngazetecilik güzellemeleri yapanlar da gizlendikleri kabuklarında kalmaya devam etsinler.",
+      "has_external_url": false
+    }
+  ]
+}

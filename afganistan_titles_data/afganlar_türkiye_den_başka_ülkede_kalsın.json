@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:06:11.228996",
+    "total_entries": 2,
+    "input": "afganlar türkiye'den başka ülkede kalsın",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "afganlar türkiye'den başka ülkede kalsın",
+      "entry_id": "127601782",
+      "author": "hayalimdekidunya",
+      "date": "02.09.2021 07:53 ~ 07:54",
+      "content": "hollanda başbakanı mark rutte, kendileri için çalışanlar dışında mümkün olduğunca az afgan sığınmacı alacaklarını söyledi. afganistan'dan kaçan kişilerin bölge ülkelerinde barındırılması gerektiğini belirten rutte, \"türkiye zaten milyonlarca suriyeliye ev sahipliği yapıyor. bölgede afganların kalabileceği başka ülkeler de var\" dedi.\n\nadam bizim ülkeyeyi bizim cumhurbaşkanından daha çok düşünüyor.\n\nhttps://www.bbc.com/…ce/haberler-dunya-58409488.amp",
+      "has_external_url": true
+    },
+    {
+      "title": "afganlar türkiye'den başka ülkede kalsın",
+      "entry_id": "127602036",
+      "author": "wishes",
+      "date": "02.09.2021 08:15 ~ 09:26",
+      "content": "aklı ermeyeceği şeylere yorum yapmasın başkan. ümmet, liderine kavuşmak istiyor. gelenlere kapıyı kapatirsak güçsüz ülke imajı çizeriz .",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:04:32.664946",
+    "total_entries": 2,
+    "input": "binlerce afganın türkiye'ye girmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "binlerce afganın türkiye'ye girmesi",
+      "entry_id": "126145006",
+      "author": "kirkhammet34",
+      "date": "26.07.2021 12:31",
+      "content": "yazık, aleyna tilki başlıkları kadar dikkat çekmeyecek yine.",
+      "has_external_url": false
+    },
+    {
+      "title": "binlerce afganın türkiye'ye girmesi",
+      "entry_id": "126145424",
+      "author": "akm7",
+      "date": "26.07.2021 12:46",
+      "content": "şimdilik akın akın türkiye'ye giriyorlar, yakında türk milletine de gireceklerdir.\nbunlar yüzünden kaç hanenin canı yanacak.",
+      "has_external_url": false
+    }
+  ]
+}

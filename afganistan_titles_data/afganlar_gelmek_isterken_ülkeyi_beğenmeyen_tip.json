@@ -1,0 +1,61 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:06:12.668218",
+    "total_entries": 4,
+    "input": "afganlar gelmek isterken ülkeyi beğenmeyen tip",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "afganlar gelmek isterken ülkeyi beğenmeyen tip",
+      "entry_id": "127585142",
+      "author": "hosvelkam",
+      "date": "01.09.2021 20:41 ~ 21:15",
+      "content": "(bkz: yine mi sen)\n@nordkonge yazdıklarını silmeyen bir troll diye üşendim ekran görüntüsü almadım.\nsağ olsunlar, diğer yazarlar görmüşler ve ekran görüntüsü almışlar.\nbaşarısız troll başlıklarına örnek olmuş olan troll yazar beyanıdır.\n\nsilinen ilk entry görsel",
+      "referenced_content": [],
+      "has_external_url": true
+    },
+    {
+      "title": "afganlar gelmek isterken ülkeyi beğenmeyen tip",
+      "entry_id": "127585233",
+      "author": "burusmus a4 kagidi",
+      "date": "01.09.2021 20:44 ~ 20:46",
+      "content": "az önce açıp kaçtığı başlık için tıklayın\n\nyavaş yavaş öğreniyor, bu hızla seneye senin benim gibi türkçe konuşur bu afgan.\n\nedit: şu başlık da orda öyle mahsun kalmasın. #127585026",
+      "referenced_content": [
+        {
+          "type": "entry",
+          "title": "afganlar-gelmek-istersen-ulkeyi-begenmeyen-tip",
+          "entry_id": "127585026",
+          "author": "burusmus a4 kagidi",
+          "date": "01.09.2021 20:39 ~ 20:41",
+          "content": "(bkz: işten çıkarken adama ingilizce am günü yağ)\n\nseni sözlüğe mastar olarak mı aldılar birader.\n\nedit: tam kaçarken yakaladım. buyrun orijinal başlık",
+          "has_external_url": true
+        }
+      ],
+      "referenced_entry_ids": [
+        "127585026"
+      ],
+      "has_external_url": true
+    },
+    {
+      "title": "afganlar gelmek isterken ülkeyi beğenmeyen tip",
+      "entry_id": "127585627",
+      "author": "gearbox ag",
+      "date": "01.09.2021 20:57 ~ 20:57",
+      "content": "(bkz: başarısız trollük örnekleri)",
+      "referenced_content": [],
+      "has_external_url": false
+    },
+    {
+      "title": "afganlar gelmek isterken ülkeyi beğenmeyen tip",
+      "entry_id": "127587048",
+      "author": "mesleklisesiedebiyatcisi",
+      "date": "01.09.2021 21:40",
+      "content": "almanya'ya gidebilecekken mi türkiye'yi tercih etmişler?",
+      "referenced_content": [],
+      "has_external_url": false
+    }
+  ]
+}

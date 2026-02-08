@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:03:59.009203",
+    "total_entries": 1,
+    "input": "rte'nin yılbaşını pakistanda geçirecek olması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "rte'nin yılbaşını pakistanda geçirecek olması",
+      "entry_id": "39206401",
+      "author": "herturluacilansemsiye",
+      "date": "25.12.2013 17:30",
+      "content": "bir ihtimal.\n\nson yaşanan gelişmelerle beraber bilal oğlanın da göz altına alınacağını düşünürsek, gerçekleşmesi yüksek bir ihtimaldir.\n\npakistan halkından geliyor,\n\n(bkz: gül döktüm yollarına)",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:02:29.551496",
+    "total_entries": 4,
+    "input": "avrupa'nın türkiye'yi afganistan olarak görmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "avrupa'nın türkiye'yi afganistan olarak görmesi",
+      "entry_id": "137189861",
+      "author": "darkwizard",
+      "date": "08.05.2022 18:04",
+      "content": "türkiye’nin afganistan’ı ve pakistan’ı geri kalmış ve halkını sapkın olarak görmesini biliyoruz ama sorun avrupa da bizi afganistan gibi algılıyor, bu durum üzücü. avrupa çok çekti türk işçilerinden ve türkolardan almanya kanayan yaradır içimizde.",
+      "has_external_url": false
+    },
+    {
+      "title": "avrupa'nın türkiye'yi afganistan olarak görmesi",
+      "entry_id": "137189975",
+      "author": "marakej",
+      "date": "08.05.2022 18:08",
+      "content": "o da bir şey mi ülkeyi yönetenler bile kendini afganistan sanıyor.",
+      "has_external_url": false
+    },
+    {
+      "title": "avrupa'nın türkiye'yi afganistan olarak görmesi",
+      "entry_id": "137190001",
+      "author": "unsealed",
+      "date": "08.05.2022 18:08",
+      "content": "(bkz: türkiye afganistan'dır)\n\nbiraz dünya vizyonu olan insan için hiç şaşırtıcı bir durum değildir.",
+      "has_external_url": false
+    },
+    {
+      "title": "avrupa'nın türkiye'yi afganistan olarak görmesi",
+      "entry_id": "137190164",
+      "author": "y",
+      "date": "08.05.2022 18:13",
+      "content": "kisi basi servette turkiyenin afganistana fransadan daha yakin olmasi ile alakali olabilir.",
+      "has_external_url": false
+    }
+  ]
+}

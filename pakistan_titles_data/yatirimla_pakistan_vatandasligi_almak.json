@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:01:59.846716",
+    "total_entries": 1,
+    "input": "yatirimla pakistan vatandasligi almak",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "yatirimla pakistan vatandasligi almak",
+      "entry_id": "173649713",
+      "author": "ich bin ein turkei",
+      "date": "16.03.2025 17:09",
+      "content": "pakistan 18 bin dolar yatirimla vatandaslik satisina baslamis.\n\n3 ay gibi bir surede pasaportu veriyorlarmis.\n\nbae ve vietnam a vizesiz giris\n\nlink",
+      "has_external_url": true
+    }
+  ]
+}

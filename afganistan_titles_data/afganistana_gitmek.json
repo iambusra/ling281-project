@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:08:47.511810",
+    "total_entries": 4,
+    "input": "afganistana gitmek",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "afganistana gitmek",
+      "entry_id": "147407278",
+      "author": "bu tabanca bu cakmak",
+      "date": "09.01.2023 03:58",
+      "content": "keseye hoş gelmiyor.\ntek taraf uçuş bileti bile 7300 tl...",
+      "has_external_url": false
+    },
+    {
+      "title": "afganistana gitmek",
+      "entry_id": "147407376",
+      "author": "bencomardegilim",
+      "date": "09.01.2023 04:05",
+      "content": "gidilecekse tek yönlü bilet almak daha uygun olacaktır. dönüş bileti alırsanız dönemeden boşa gider.",
+      "has_external_url": false
+    },
+    {
+      "title": "afganistana gitmek",
+      "entry_id": "147407434",
+      "author": "attan dusen inek",
+      "date": "09.01.2023 04:10",
+      "content": "kulağa hoş gelmesi zamanda en az 300 yıl geri gidebilecek olmaktan kaynaklanıyor sanırım. resmen bir uçuşla zamanda yolculuk yapma fırsatı. kabil'de bile yarım saat geçirirseniz kafayı yersiniz allah yolunuzu düşürmesin",
+      "has_external_url": false
+    },
+    {
+      "title": "afganistana gitmek",
+      "entry_id": "147407456",
+      "author": "birbaskagocebeencore",
+      "date": "09.01.2023 04:12",
+      "content": "son mutluluk listesine göre dunyanin en mutsuz ülkesi. gidip ne yapacaksiniz?",
+      "has_external_url": false
+    }
+  ]
+}

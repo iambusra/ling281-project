@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:02:41.276804",
+    "total_entries": 3,
+    "input": "afganistan başbakanı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "afganistan başbakanı",
+      "entry_id": "1703509",
+      "author": "spincrus",
+      "date": "23.10.2002 06:57",
+      "content": "olmayan kisi. zira afganistan in yonetilme bicimi dusunulecek olursa, pek bir basbakan lik olayi yoktur.",
+      "has_external_url": false
+    },
+    {
+      "title": "afganistan başbakanı",
+      "entry_id": "1703568",
+      "author": "reincarnative lizard",
+      "date": "23.10.2002 08:36",
+      "content": "(bkz: afganistan genel müdürü)",
+      "has_external_url": false
+    },
+    {
+      "title": "afganistan başbakanı",
+      "entry_id": "133816546",
+      "author": "jotaro",
+      "date": "16.02.2022 16:15",
+      "content": "(bkz: muhammed hasan ahund)",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:00:23.119313",
+    "total_entries": 1,
+    "input": "pakistanlı tacizcileri ne yapacağız",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "pakistanlı tacizcileri ne yapacağız",
+      "entry_id": "137441370",
+      "author": "such a good idea",
+      "date": "14.05.2022 20:42 ~ 20:43",
+      "content": "günlerdir sosyal medyaya her girdiğimde tepemin tasının atmasıyla birlikte aklımı kurcalayan sorudur.\n\ntwitter'da zaman geçirmek bile başlı başına bir sinir harbi oldu.\n\nşu tacizciyle adam iş üstünde iken karşılaşsam o anki sinir haliyle ne yaparım inanın bilmiyorum.\n\nkaynak: https://twitter.com/…?s=21&t=t0ihdjkhjssvfrjqta4ybg",
+      "has_external_url": true
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:07:49.314812",
+    "total_entries": 3,
+    "input": "çorum'daki afganların kavgası",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "çorum'daki afganların kavgası",
+      "entry_id": "151240880",
+      "author": "0602rainman",
+      "date": "13.04.2023 08:41",
+      "content": "karadeniz fıkrası değil gerçek...\n\"çorum'da afganlar bıçaklı kavga etti, suriyeliler ayırdı! iki kişi yaralı...\"\n\nhaber",
+      "has_external_url": true
+    },
+    {
+      "title": "çorum'daki afganların kavgası",
+      "entry_id": "151240900",
+      "author": "ixs54",
+      "date": "13.04.2023 08:42 ~ 09:01",
+      "content": "çorum afgan suriyeli. beynim yandı. biri beni bu rüyadan uyandırsın.",
+      "has_external_url": false
+    },
+    {
+      "title": "çorum'daki afganların kavgası",
+      "entry_id": "151240973",
+      "author": "o nick buraya gelecek aga",
+      "date": "13.04.2023 08:48",
+      "content": "çorum'da afganlar bıçaklı kavga etti, suriyeliler ayırdı! acil'de ıraklı doktorlar iki dikiş attı..",
+      "has_external_url": false
+    }
+  ]
+}

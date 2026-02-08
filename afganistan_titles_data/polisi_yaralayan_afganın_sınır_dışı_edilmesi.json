@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:04:33.724948",
+    "total_entries": 1,
+    "input": "polisi yaralayan afganın sınır dışı edilmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "polisi yaralayan afganın sınır dışı edilmesi",
+      "entry_id": "126065431",
+      "author": "eminmisin ki",
+      "date": "24.07.2021 12:44 ~ 12:45",
+      "content": "başka ne yapacaklardı ki? diğerlerini de yollayacaklardır en kısa sürede. kimse mezhepçi, şiddete meyilli afganı ülkesinde beslemek zorunda değil.\n\ntaliban ile aynı dini görüşü paylaşanlar isteyebilir. dünyada kim talibanla aynı görüşü paylaşır orasını bilemem.",
+      "has_external_url": false
+    }
+  ]
+}

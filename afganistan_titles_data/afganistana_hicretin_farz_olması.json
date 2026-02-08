@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:08:50.311875",
+    "total_entries": 1,
+    "input": "afganistana hicretin farz olması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "afganistana hicretin farz olması",
+      "entry_id": "126989499",
+      "author": "prevost",
+      "date": "16.08.2021 20:21",
+      "content": "şeriat ile yönetilen bir ülke varken, laik bir ülkede durmak her şeriat isteyen için zaman kaybıdır. asrı saadeti yaşamak ve allah'ın emirlerine göre yönetilmek için her şeriat isteyen müslümanın afganistan'a hicret etmesi gerekmektedir.",
+      "has_external_url": false
+    }
+  ]
+}

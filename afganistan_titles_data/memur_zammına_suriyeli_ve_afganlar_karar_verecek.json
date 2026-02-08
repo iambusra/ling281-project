@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:05:26.865719",
+    "total_entries": 1,
+    "input": "memur zammına suriyeli ve afganlar karar verecek",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "memur zammına suriyeli ve afganlar karar verecek",
+      "entry_id": "153739005",
+      "author": "obispo",
+      "date": "21.06.2023 00:19",
+      "content": "ankara'ya yakın kulislerde konuşulan iddia.\n\nyüksek eğitimli ve kalifiye afgan ve suriyeli hesap uzmanı, iş güvenlik uzmanı, insan kaynakları elemanları ve möble mühendislerinden oluşan yetkin bir komisyon üzerinde çalışılıyor. komisyon oluştuktan sonra afgan yazılımcıların hazırladığı yapay zeka çözümleri de kullanılarak memura verilecek zam kararlaştırılıcak. memurum-sen ve türkmem-iş sendikalarının itirazları olursa bunlar ikinci oturumda değerlendirilecek.\n\nneticede son söz suriyeli üyeler tarafından söylenecek ve memur zammı karara bağlanacak.",
+      "has_external_url": false
+    }
+  ]
+}

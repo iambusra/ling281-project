@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:07:40.403447",
+    "total_entries": 1,
+    "input": "afganlardan daha fazla kansere neden olan şeyler",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "afganlardan daha fazla kansere neden olan şeyler",
+      "entry_id": "126532507",
+      "author": "yargicfizikci06",
+      "date": "04.08.2021 22:46",
+      "content": "(bkz: sigaradan daha fazla kansere neden olan şeyler) başlığını yanlış okumam sonucu ortaya çıkan başlık.",
+      "has_external_url": false
+    }
+  ]
+}

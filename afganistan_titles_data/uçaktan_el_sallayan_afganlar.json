@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:06:21.111880",
+    "total_entries": 4,
+    "input": "uçaktan el sallayan afganlar",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "uçaktan el sallayan afganlar",
+      "entry_id": "127031068",
+      "author": "stajyermafya",
+      "date": "17.08.2021 21:46",
+      "content": "hepsi ölmüş çok güzel şekilde, umarım bu zekaya sahip olan hepsi de ölür.\n\ntanım: beyinsiz insan topluluğu.",
+      "has_external_url": false
+    },
+    {
+      "title": "uçaktan el sallayan afganlar",
+      "entry_id": "127032119",
+      "author": "erciyeskartali",
+      "date": "17.08.2021 22:13",
+      "content": "ikisinin düştüğünü kameralar gösterdi, kalanlara ne oldu acaba?",
+      "has_external_url": false
+    },
+    {
+      "title": "uçaktan el sallayan afganlar",
+      "entry_id": "127032540",
+      "author": "tuzludonor",
+      "date": "17.08.2021 22:23",
+      "content": "11 eylül saldırılarında eğitimli insanların yaşamak için camdan atladığını unutmak...\nunutmak hep olacak, bir gün bu da unutulacak.",
+      "has_external_url": false
+    },
+    {
+      "title": "uçaktan el sallayan afganlar",
+      "entry_id": "127032608",
+      "author": "ekinid",
+      "date": "17.08.2021 22:25",
+      "content": "bu şekilde öleceğinize talibanla savaşarak ölseydiniz en azından ülkeniz için birşey yapmış olurdunuz.\nçocukları ve kadınları geride bırakarak namuzsuzca kaçmaya çalışan mahluklara bu şekilde ölmek müstahaktır.",
+      "has_external_url": false
+    }
+  ]
+}

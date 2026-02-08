@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T21:59:20.810134",
+    "total_entries": 2,
+    "input": "30 milyon dolar bağışta bulunan pakistanlı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "30 milyon dolar bağışta bulunan pakistanlı",
+      "entry_id": "149160390",
+      "author": "tahta tava",
+      "date": "12.02.2023 22:37",
+      "content": "amerika'da yaşayan, türkiye'deki deprem için böyle büyük bir miktardaki bağışta bulunan pakistanlıdır. duygulandırmıştır. türkiye'deki pakistan karşıtı düşünce son zamanlarda yaygınlaştırılmaya çalışılsa da türkiye ve pakistan halkları geçmişten beri dosttur ve dost kalacaktır.\nkaynak aa",
+      "has_external_url": true
+    },
+    {
+      "title": "30 milyon dolar bağışta bulunan pakistanlı",
+      "entry_id": "149160647",
+      "author": "umitsizseniz umit sizsiniz",
+      "date": "12.02.2023 22:41 ~ 22:43",
+      "content": "pakistanlıların eğitimli olanları özellikle batı'da yetişmişleri iyi insanlar bence. önceden ortaya çıkan taciz olaylarında pakistanlılar defolun diye twitter'da açtığımız hashtag medyada gündem olmuş. pakistanlilar ise bu davranıştan dolayı özür dilemiş. bir pakistan gazetesi de pakistanli mülteciler ülkesine utanç getiriyor diye başlık atmış. o zaman yorumlara baktığımda özellikle kadınlar bizi destekliyordu.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:05:33.610182",
+    "total_entries": 1,
+    "input": "kendini biçerdöver sanan pakistanlılar",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "kendini biçerdöver sanan pakistanlılar",
+      "entry_id": "42607769",
+      "author": "gbaybora",
+      "date": "08.05.2014 22:30",
+      "content": "teknolojinin, olmadı, eğlence anlayışının pakistan'da geldiği noktayı işaret eder. video",
+      "has_external_url": true
+    }
+  ]
+}

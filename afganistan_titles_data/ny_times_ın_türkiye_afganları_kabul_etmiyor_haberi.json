@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:06:54.495096",
+    "total_entries": 4,
+    "input": "ny times'ın türkiye afganları kabul etmiyor haberi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ny times'ın türkiye afganları kabul etmiyor haberi",
+      "entry_id": "127267996",
+      "author": "weight26",
+      "date": "24.08.2021 08:12",
+      "content": "bircogu iran’i gecmis de türkiye sinirinda sert bi direncle karsilasmislae guya. avukatlar da uluslararasi anlasmalara aykiri oldugunu soyluyormus. ba ba ba. ulan yunanlarin ordugu duvardan niye bahsetmiyosun? her gun avrupali bi bakanin biz gocmen kabul edemeyiz demeleri falan mesela?\n\n--- spoiler ---\n\nweeks before kabul fell to the taliban, tens of thousands of afghans were already fleeing their country each week. many of them traveled 1,400 miles across ıran, hoping to make their way to europe. but the migrants were met with sharp resistance at turkey’s border, with thousands waiting in ıran’s border region.\n\nın a single operation in july, more than 1,400 afghans who had crossed into turkey were rounded up and pushed back by turkish police. lawyers say the expulsions violate the international convention on refugees\n--- spoiler ---\n\nlink",
+      "has_external_url": true
+    },
+    {
+      "title": "ny times'ın türkiye afganları kabul etmiyor haberi",
+      "entry_id": "127268049",
+      "author": "tinsmith",
+      "date": "24.08.2021 08:15",
+      "content": "\"vallah öyle\" dedi istanbul'da boğaz kenarında dans eden bir milyon afgan.",
+      "has_external_url": false
+    },
+    {
+      "title": "ny times'ın türkiye afganları kabul etmiyor haberi",
+      "entry_id": "127268066",
+      "author": "inciinci",
+      "date": "24.08.2021 08:17",
+      "content": "inşallah öyledir",
+      "has_external_url": false
+    },
+    {
+      "title": "ny times'ın türkiye afganları kabul etmiyor haberi",
+      "entry_id": "127268088",
+      "author": "cokonemlidegilzaten",
+      "date": "24.08.2021 08:18",
+      "content": "guzel haber.\n\numarim iktidar halkin tepkisini ciddiye almistir.",
+      "has_external_url": false
+    }
+  ]
+}

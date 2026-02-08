@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:07:23.910634",
+    "total_entries": 1,
+    "input": "almanya'da afganlara yardım mitingi yapılması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "almanya'da afganlara yardım mitingi yapılması",
+      "entry_id": "127037299",
+      "author": "gearbox ag",
+      "date": "18.08.2021 00:13",
+      "content": "\"buraya gelsinler yerimiz var\" demişler.\n\nhttps://www.ensonhaber.com/…n-gosterisi-yerimiz-var\n\nbizde fazla fazla var. hem de dalyan gibi delikanlı hepsi. çok istiyorsanız hemen gönderelim size. lojistik masraf da yok, sınırları açarsanız yürüyerek gelebiliyorlar.",
+      "has_external_url": true
+    }
+  ]
+}

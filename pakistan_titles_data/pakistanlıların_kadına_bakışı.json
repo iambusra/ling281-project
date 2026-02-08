@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:06:44.794017",
+    "total_entries": 2,
+    "input": "pakistanlıların kadına bakışı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "pakistanlıların kadına bakışı",
+      "entry_id": "59852112",
+      "author": "little boy",
+      "date": "10.04.2016 23:28",
+      "content": "genellikle şu şekildedir.",
+      "has_external_url": true
+    },
+    {
+      "title": "pakistanlıların kadına bakışı",
+      "entry_id": "59853836",
+      "author": "vodkavandetta",
+      "date": "11.04.2016 00:35",
+      "content": "her ne kadar \"pak\" kelimesiyle başlasa da içi pislik dolu olan ülke.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T21:58:15.512849",
+    "total_entries": 1,
+    "input": "afgan kadınlarının kararan dünyası",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "afgan kadınlarının kararan dünyası",
+      "entry_id": "171476437",
+      "author": "sanal gezgin",
+      "date": "31.12.2024 00:07",
+      "content": "1919'da ülke ingilizlere karşı bağımsızlığını kazandıktan sonra oy kullanma hakkı kazanan ve avukat, doktor olabilen afgan kadınlarının, özünde abd - sovyetler birliği çatışmasının piyonları olan yerel radikal unsurların 1973 ve sonrasındaki karşılıklı darbeleri sonucu ülkenin sovyet işgaline uğraması, devamında abd'nin yeşil kuşak projesinin piyonları dinci unsurların sovyetler'i ülkeyi terke zorlamasıyla uzun yıllar sürecek iç savaş ve en sonunda taliban rejimiyle belirlenen kader.\nyüz yıl önce özgür, oy kullanabilen, meslek sahibi olan kadınlar şimdi pencereye çıkamıyorlar.\nonlara bunu yaşatanlar hangi küresel projenin taşeronu olduklarının bile farkında değiller.",
+      "has_external_url": false
+    }
+  ]
+}

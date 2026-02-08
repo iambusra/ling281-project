@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:05:45.581157",
+    "total_entries": 3,
+    "input": "cem yılmaz'ın pakistanlılara sessiz kalması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "cem yılmaz'ın pakistanlılara sessiz kalması",
+      "entry_id": "136327665",
+      "author": "diplomasi",
+      "date": "17.04.2022 18:39",
+      "content": "yazmasa da, cem yılmaz'ı şu kadar tanıyorsam o da pakistanlılara bayılmıyordur diyeceğim hede.",
+      "has_external_url": false
+    },
+    {
+      "title": "cem yılmaz'ın pakistanlılara sessiz kalması",
+      "entry_id": "136327767",
+      "author": "deutsche am meer",
+      "date": "17.04.2022 18:42",
+      "content": "onu boşver. ukrayna-rusya savaşına da sessiz kaldı.\nyuh artık be yuh be sana.",
+      "has_external_url": false
+    },
+    {
+      "title": "cem yılmaz'ın pakistanlılara sessiz kalması",
+      "entry_id": "137047486",
+      "author": "ana baci vokkke",
+      "date": "05.05.2022 15:38",
+      "content": "fil dişi kule\nbez bebek\naşk bu kızılötesi",
+      "has_external_url": false
+    }
+  ]
+}

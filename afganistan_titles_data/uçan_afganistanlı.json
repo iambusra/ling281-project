@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:00:24.447390",
+    "total_entries": 1,
+    "input": "uçan afganistanlı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "uçan afganistanlı",
+      "entry_id": "7488653",
+      "author": "antimatter",
+      "date": "11.05.2005 22:58",
+      "content": "ntv'nin http://www.ntvmsnbc.com/news/323412.asp adresindeki haberinde bahsedilen kişidir, kişilerdir. abd askerlerinin havaya ateş açmaları sonucu göklerde süzülmekte olan bu sersem kişiler hayatlarını kaybetmişlerdir - haberi başka türlü yorumlamak mümkün görünmemektedir.\n\nuçan hollandalı (bkz: der fliegende hollander) ile isim ve lanet benzerlikleri dikkat çekicidir.",
+      "has_external_url": true
+    }
+  ]
+}

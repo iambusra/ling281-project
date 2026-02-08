@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:07:04.008800",
+    "total_entries": 1,
+    "input": "afganlari toyota servislerinin kapmasi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "afganlari toyota servislerinin kapmasi",
+      "entry_id": "126727908",
+      "author": "galloper",
+      "date": "09.08.2021 22:12 ~ 10.08.2021 00:16",
+      "content": "bilindigi gibi,corolla'nin,hi-lux'un anavatani afganistan,bu adamlarda a dan z ye herseyini bilirler bu araclarin.gonul rahatligiyla calistirir artik sanayide dukkani olanlar ya da yetkili servisler.:)))))",
+      "has_external_url": false
+    }
+  ]
+}

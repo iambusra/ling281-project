@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:07:15.799964",
+    "total_entries": 2,
+    "input": "31 mayıs 2022 rize'de afganlara saldırı iddaası",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "31 mayıs 2022 rize'de afganlara saldırı iddaası",
+      "entry_id": "138170285",
+      "author": "anaklusmoss",
+      "date": "31.05.2022 23:05 ~ 23:12",
+      "content": "dil anlatım hocalarımdan özür diliyorum iddia olucakmış.\n\ntwitter'da dönen hadise. gökmen topal isminde bir şahıs rize'de çay toplayan afgan işcilere ateş açmış 1 ölü 2 yaralı olduğu iddia ediliyor.\n\nsaldırganın zafer partili olduğu belirtiliyor. aklıma ümit özdağın ismimizi kullanarak karışıklık çıkarıcaklar açıklaması geldi.\n\nhaber linki",
+      "has_external_url": true
+    },
+    {
+      "title": "31 mayıs 2022 rize'de afganlara saldırı iddaası",
+      "entry_id": "138171474",
+      "author": "kraliyett",
+      "date": "31.05.2022 23:26 ~ 23:34",
+      "content": "iddiaya göre zafer partili bir saldırgandır. saldıra saldıra tembel rizelilerin dalında kalacak çayını toplayan emekçilere saldırmış olup, birini öldürüp, diğerini ağır yaralamıştır.\n\nbiz bu insanların kurşuna dizilmesini istemiyoruz. ümit özdağ'ın elinde artık kan vardır. istediğimiz şey çok basit. sınırların tam kontrölü ve düzenli, entegrasyona uygun göç. muhalefete, muhalefet edeceğine insan için politika üretsin sayın özdağ.\n\nedit:bu arada eskiden çayı gürcüler toplardı ancak artık gürcüler sadece alışveriş yapmaya geliyor. bizim türk lirasıyla gürcüyü çalıştıramazsınız. tüm tarladan üretilen çayı ödemeniz gerekli. bizim türk lirasıyla sadece afgan ve suriyeli çalıştırılır. bizi sorarsanız. biz zaten kendi çayımızı toplamayı çoktan bıraktık.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:05:57.071385",
+    "total_entries": 3,
+    "input": "vapurda afgan bayrağı açan afganlar",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "vapurda afgan bayrağı açan afganlar",
+      "entry_id": "136969238",
+      "author": "yamyamlar",
+      "date": "03.05.2022 21:35",
+      "content": "illaki türk halkına kendini siktirmek mi istiyorsun",
+      "has_external_url": false
+    },
+    {
+      "title": "vapurda afgan bayrağı açan afganlar",
+      "entry_id": "136969310",
+      "author": "engineerdolma",
+      "date": "03.05.2022 21:37",
+      "content": "(bkz: akp döneminde gerçekleşmiştir)",
+      "has_external_url": false
+    },
+    {
+      "title": "vapurda afgan bayrağı açan afganlar",
+      "entry_id": "136969535",
+      "author": "stressizadam",
+      "date": "03.05.2022 21:42",
+      "content": "sanki bir kaos planı devreye sokulmuş gibi cezaevlerinden sapıkların ve katillerin salındığı yetmiyormuş gibi bir de ülkeyi bu ne olduğu belli olmayan insan demeye bin şahit gerektiren tiplerle doldurdular. utanmadan birde kendi ülke bayraklarını açıp milleti kışkırtıyorlar. o bayrağını açtığın ülkeni çok seviyorsan burada ne arıyorsun.",
+      "has_external_url": false
+    }
+  ]
+}

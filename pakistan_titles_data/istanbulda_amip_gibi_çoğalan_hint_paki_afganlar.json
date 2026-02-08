@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T21:51:16.393360",
+    "total_entries": 1,
+    "input": "istanbulda amip gibi çoğalan hint paki afganlar",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "istanbulda amip gibi çoğalan hint paki afganlar",
+      "entry_id": "67691345",
+      "author": "eyesurgeon",
+      "date": "24.04.2017 20:50",
+      "content": "suriyeli ayakları ile kaçıp avrupa'ya kapak atmak için ülkemizde fırsat kolluyorlar...",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:08:35.428023",
+    "total_entries": 2,
+    "input": "akplilerin afganlarla seçim kutlaması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "akplilerin afganlarla seçim kutlaması",
+      "entry_id": "152952441",
+      "author": "exnihilonihilfit",
+      "date": "29.05.2023 02:20",
+      "content": "not düşülsün. yarın öbürgün şikayet etmek yok.",
+      "has_external_url": false
+    },
+    {
+      "title": "akplilerin afganlarla seçim kutlaması",
+      "entry_id": "152952588",
+      "author": "entera basmis bulundum",
+      "date": "29.05.2023 02:27",
+      "content": "allah mesut etsin ne diyelim. akp'li vatandaşlarımız yalnız dikkat etsin, bunların sırf erkekleri geldiler. kadınlarınıza dikkat edin...",
+      "has_external_url": false
+    }
+  ]
+}

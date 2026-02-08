@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:01:32.050445",
+    "total_entries": 3,
+    "input": "14 ekim 2025 afganistan pakistan maçı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "14 ekim 2025 afganistan pakistan maçı",
+      "entry_id": "179119235",
+      "author": "gearbox ag",
+      "date": "14.10.2025 19:48 ~ 19:53",
+      "content": "asya kupası 2027 elemeleri 3. tur grup e maçı. anlık durum 1-1.\n\nkarşılıklı roketatar pardon gol var oynayanlar mutlu. grubun lideri ise açık farkla suriye.\n\ngörsel\n\nbravo bizim çocuklar.",
+      "has_external_url": true
+    },
+    {
+      "title": "14 ekim 2025 afganistan pakistan maçı",
+      "entry_id": "179119262",
+      "author": "sabloncu",
+      "date": "14.10.2025 19:49",
+      "content": "ulan savaş çıktı sandım bir an.",
+      "has_external_url": false
+    },
+    {
+      "title": "14 ekim 2025 afganistan pakistan maçı",
+      "entry_id": "179119421",
+      "author": "yuceinsan",
+      "date": "14.10.2025 19:57",
+      "content": "ölüm grubuna düştük diye şaka yapsalar kimse gülmez.",
+      "has_external_url": false
+    }
+  ]
+}

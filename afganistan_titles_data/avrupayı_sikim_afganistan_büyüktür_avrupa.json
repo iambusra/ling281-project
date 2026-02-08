@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:01:55.580100",
+    "total_entries": 1,
+    "input": "avrupayı sikim afganistan büyüktür avrupa",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "avrupayı sikim afganistan büyüktür avrupa",
+      "entry_id": "157678833",
+      "author": "echop",
+      "date": "12.10.2023 21:55",
+      "content": "bulunduğum görüş",
+      "has_external_url": false
+    }
+  ]
+}

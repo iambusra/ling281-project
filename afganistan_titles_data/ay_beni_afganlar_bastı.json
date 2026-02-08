@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:06:28.284832",
+    "total_entries": 2,
+    "input": "ay beni afganlar bastı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ay beni afganlar bastı",
+      "entry_id": "126880497",
+      "author": "fuckgloballythinklocally",
+      "date": "13.08.2021 18:58",
+      "content": "kurulacak olan göç bakanlığının kullanması muhtemel sitem cümlesidir.",
+      "has_external_url": false
+    },
+    {
+      "title": "ay beni afganlar bastı",
+      "entry_id": "126880562",
+      "author": "paranoyaqca",
+      "date": "13.08.2021 19:01",
+      "content": "\"ay beni\" yerine \"ay bana\" kullanılırsa fena prim yapar hoca. bilin istedim.",
+      "has_external_url": false
+    }
+  ]
+}

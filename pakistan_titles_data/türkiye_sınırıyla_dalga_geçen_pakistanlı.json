@@ -1,0 +1,88 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:00:37.898655",
+    "total_entries": 7,
+    "input": "türkiye sınırıyla dalga geçen pakistanlı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türkiye sınırıyla dalga geçen pakistanlı",
+      "entry_id": "137093801",
+      "author": "bluepoison",
+      "date": "06.05.2022 15:32",
+      "content": "adamlar hem gelir, kadınlarımızı taciz eder. hem de gerçekten sınır olma özelliğini kaybetmiş yerlerden dalga geçerek geçerler.\nyeni ipsiz sapsız pakistan ayılarına davetiye çıkarmaktadır. bir tek benim mi kanıma dokunuyor?",
+      "referenced_content": [],
+      "has_external_url": false
+    },
+    {
+      "title": "türkiye sınırıyla dalga geçen pakistanlı",
+      "entry_id": "137093901",
+      "author": "aslan2",
+      "date": "06.05.2022 15:35",
+      "content": "gayet komik ve haklı bir paylaşımdır.",
+      "referenced_content": [],
+      "has_external_url": false
+    },
+    {
+      "title": "türkiye sınırıyla dalga geçen pakistanlı",
+      "entry_id": "137093956",
+      "author": "sanal pilot",
+      "date": "06.05.2022 15:36",
+      "content": "(bkz: #136994778)",
+      "referenced_content": [
+        {
+          "type": "entry",
+          "title": "mayin",
+          "entry_id": "136994778",
+          "author": "sanal pilot",
+          "date": "04.05.2022 12:54 ~ 15:58",
+          "content": "sınırlarımıza yeniden döşenmesi gereken patlayıcı. çift kademe tel örgü çekildikten sonra, ara bölge mayınlanmalıdır ve tel örgü üzerine de mayınlı bölge olduğuna dair farklı dillerde uyarı levhası asılmalıdır.",
+          "has_external_url": false
+        }
+      ],
+      "referenced_entry_ids": [
+        "136994778"
+      ],
+      "has_external_url": false
+    },
+    {
+      "title": "türkiye sınırıyla dalga geçen pakistanlı",
+      "entry_id": "137094129",
+      "author": "yaralimuhendis",
+      "date": "06.05.2022 15:40",
+      "content": "adamlar hem gelir, kadınlarımızı taciz eder. hem de gerçekten sınır olma özelliğini kaybetmiş yerlerden dalga geçerek geçerler.\nyeni ipsiz sapsız pakistan ayılarına davetiye çıkarmaktadır.\n\nsaygı tek taraflı değildir.",
+      "referenced_content": [],
+      "has_external_url": false
+    },
+    {
+      "title": "türkiye sınırıyla dalga geçen pakistanlı",
+      "entry_id": "137094506",
+      "author": "mynameisfreedom",
+      "date": "06.05.2022 15:49",
+      "content": "ülkemizi bu hale getiren maalesef halkımızın kendisi.",
+      "referenced_content": [],
+      "has_external_url": false
+    },
+    {
+      "title": "türkiye sınırıyla dalga geçen pakistanlı",
+      "entry_id": "137095591",
+      "author": "arcticlight",
+      "date": "06.05.2022 16:19",
+      "content": "biri biz davet etmedik kendi geldi demeye getirir, digeri namus diye belledigimiz sinirimizla dalga gecer, yunan bizim adalari tekrardan ele gecirir... bunaldik valla, ama tum bunlara ragmen cik sor en az %30 kitle disarda itibar gordugumuzu, eskiden oyle olmadigini ve hatta almanya nin bizi kiskandigini soyler.",
+      "referenced_content": [],
+      "has_external_url": false
+    },
+    {
+      "title": "türkiye sınırıyla dalga geçen pakistanlı",
+      "entry_id": "137096378",
+      "author": "lelermzn",
+      "date": "06.05.2022 16:38",
+      "content": "ben olsam dalga değil taşak geçerim. bizim durumumuz ile anca taşak geçilir.",
+      "referenced_content": [],
+      "has_external_url": false
+    }
+  ]
+}

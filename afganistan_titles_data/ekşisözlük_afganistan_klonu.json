@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:01:21.015963",
+    "total_entries": 1,
+    "input": "ekşisözlük afganistan klonu",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "ekşisözlük afganistan klonu",
+      "entry_id": "166108496",
+      "author": "kozniku",
+      "date": "07.07.2024 16:46",
+      "content": "birkaç istisna yazar ve başlığı çıkarsak sözlüğün ta kendisidir.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:04:10.495778",
+    "total_entries": 2,
+    "input": "vatandaş olan bir afganın itirafı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "vatandaş olan bir afganın itirafı",
+      "entry_id": "140307288",
+      "author": "cevziyye",
+      "date": "22.07.2022 07:47",
+      "content": "ev alarak vatandaşlığa geçmiş olması muhtemel kişi ile ilgilidir.",
+      "has_external_url": false
+    },
+    {
+      "title": "vatandaş olan bir afganın itirafı",
+      "entry_id": "140307466",
+      "author": "konusuz",
+      "date": "22.07.2022 08:00 ~ 08:01",
+      "content": "toplam destekçi sayısı ülkenin yarısına tekabül eden bir muhalefet paktı olmasına rağmen akp bu işleri rahatlıkla yapabiliyorsa bu muhalefetin ne kadar etkisiz olduğunu gösterir.\n\nbu itiraflar bir sır değil göçmenlerin batı ile yapılan gizli anlaşmalar sonucunda kontrollü şekilde içeri alındığını ve bu insanların akp tarafından oy rezervi olarak görüldüğünü aynı zamanda ülkedeki muhalefeti ve seküler kesimi sindirmek için kullanılacağını aklı başında herkes uzun zamandır söylüyordu.",
+      "has_external_url": false
+    }
+  ]
+}

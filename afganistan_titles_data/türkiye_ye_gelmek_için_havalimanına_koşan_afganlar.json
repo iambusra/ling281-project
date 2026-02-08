@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:05:30.626472",
+    "total_entries": 4,
+    "input": "türkiye'ye gelmek için havalimanına koşan afganlar",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türkiye'ye gelmek için havalimanına koşan afganlar",
+      "entry_id": "149099585",
+      "author": "galiyeva",
+      "date": "11.02.2023 22:30",
+      "content": "steve hanke, afgan aktivist sara wahedi’ye dayandırdı:\n\n“taliban, türkiye'ye yardım malzemeleri yüklü uçaklar gönderiyor. durum, kabil'de orman yangını gibi yayıldı. sonuç olarak, afganlar, yolculuğa çıkma umuduyla havaalanına koşuyor.”\n\nkaynak",
+      "has_external_url": true
+    },
+    {
+      "title": "türkiye'ye gelmek için havalimanına koşan afganlar",
+      "entry_id": "149099833",
+      "author": "engineerdolma",
+      "date": "11.02.2023 22:33",
+      "content": "gelmeyin amk gelmeyin!\n\nülkemde yeni yeni yağmacılar görmek istemiyorum artık.",
+      "has_external_url": false
+    },
+    {
+      "title": "türkiye'ye gelmek için havalimanına koşan afganlar",
+      "entry_id": "149099968",
+      "author": "palumia",
+      "date": "11.02.2023 22:35",
+      "content": "abovvvv.",
+      "has_external_url": false
+    },
+    {
+      "title": "türkiye'ye gelmek için havalimanına koşan afganlar",
+      "entry_id": "149100168",
+      "author": "ryucho",
+      "date": "11.02.2023 22:39",
+      "content": "huuh vaov, silah sesi, bu ne olum",
+      "has_external_url": false
+    }
+  ]
+}

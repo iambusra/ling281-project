@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:05:34.717882",
+    "total_entries": 2,
+    "input": "pakistan'da duvarlara işeyen pakistanlılar",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "pakistan'da duvarlara işeyen pakistanlılar",
+      "entry_id": "32100839",
+      "author": "shakak",
+      "date": "09.02.2013 14:36",
+      "content": "pakistanı bilmem ama rusya'da benzer örneğine rastlamıştım. yalnız adam yol kenarında duvara dönme zahmetine bile katlanmamış ve yolun akış yönüne doğru işiyordu. saygı duymuştum rahatlığına.",
+      "has_external_url": false
+    },
+    {
+      "title": "pakistan'da duvarlara işeyen pakistanlılar",
+      "entry_id": "32101134",
+      "author": "teror estiren ucan mutant bocek",
+      "date": "09.02.2013 14:59",
+      "content": "duvara işemeyi kültür sananların savunduğu durumdur.",
+      "has_external_url": false
+    }
+  ]
+}

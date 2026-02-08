@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:04:04.109573",
+    "total_entries": 1,
+    "input": "türkiyede araçların pakistandan pahalı olması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türkiyede araçların pakistandan pahalı olması",
+      "entry_id": "107283930",
+      "author": "rastababacimrasta",
+      "date": "16.05.2020 22:58",
+      "content": "gün geçmiyor ki bir 3. dünya ülkesinde bile araç fiyatlarının daha ucuz olduğunu görmeyelim. şimdi kim çıkıp ama öyle böyle diyecek link\n\ntamam istemiyoruz ki araçlar çok ucuz olsun milyonlarca araç trafiğe çıksın ama azcıkta bazı şeylerin mantığı olması gerekiyor sanki.",
+      "has_external_url": true
+    }
+  ]
+}

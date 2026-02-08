@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:07:29.912503",
+    "total_entries": 1,
+    "input": "suriyelilere ve afganlara vatandaşlık verilmesi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyelilere ve afganlara vatandaşlık verilmesi",
+      "entry_id": "126182095",
+      "author": "safcocuk",
+      "date": "27.07.2021 11:34",
+      "content": "görünen o ki sayıları artık 7-10 milyon arası rakamlarla ifade edilen suriyeli ve afgan sığınmacılar bir sonraki seçimde oy kullanacak.\n\ntamam avrupa'dan bunları ülkede tutma karşılığı para alıyorlar anladık. ama seçimi kaybetmelerinin ana nedeni olabilecek bir konuda akp kitlesinin bu gamsızlığının başka açıklaması olamaz.",
+      "has_external_url": false
+    }
+  ]
+}

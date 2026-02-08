@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:03:22.817483",
+    "total_entries": 3,
+    "input": "türkiye'nin pakistan'a 30 atak helikopteri satması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türkiye'nin pakistan'a 30 atak helikopteri satması",
+      "entry_id": "72073578",
+      "author": "sick city",
+      "date": "12.11.2017 20:54",
+      "content": "günün güzel haberlerinden biri.\n\nhttp://www.ensonhaber.com/…n-pakistana-30-atak.html",
+      "has_external_url": true
+    },
+    {
+      "title": "türkiye'nin pakistan'a 30 atak helikopteri satması",
+      "entry_id": "72073998",
+      "author": "az gelismislik az gelismisliktir",
+      "date": "12.11.2017 21:11",
+      "content": "helikopterlerin teslim edildiği haber yapılmadan inanmayacağım iddia.\n\n(bkz: bir kaynak olarak ensonhaber)",
+      "has_external_url": false
+    },
+    {
+      "title": "türkiye'nin pakistan'a 30 atak helikopteri satması",
+      "entry_id": "144285337",
+      "author": "gores",
+      "date": "24.10.2022 16:39",
+      "content": "abd’nin atak motoru için ihracat izni vermemesinden dolayı gerçekleşememiş satıştır. pakistan çin’den z-10 aldığını doğrulamış.\nkaynak",
+      "has_external_url": true
+    }
+  ]
+}

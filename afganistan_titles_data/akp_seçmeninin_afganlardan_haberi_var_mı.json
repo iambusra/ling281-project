@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:07:41.293318",
+    "total_entries": 1,
+    "input": "akp seçmeninin afganlardan haberi var mı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "akp seçmeninin afganlardan haberi var mı",
+      "entry_id": "125950289",
+      "author": "bir5er",
+      "date": "21.07.2021 09:45 ~ 09:50",
+      "content": "tabiki haberleri var.\nakplilere göre ülkeye giren afganlar yardıma muhtaç mümin karedeşlerimiz olduğundan bu durumun hiçbir sakıncası yok.\nakpliler için akp iktidarı döneminde ülkede her ne olursa olsun mübahtır, haktır, doğrudur.\nreisleri buna izin veriyorsa bu durum asla sorgulanamaz.\nçünkü reis'in vardır bi bildiği ve bu bildiği de en doğru olandır.\ndaha doğrusu olamaz.\ndaha doğrusu olsaydı reis onu yapardı.",
+      "has_external_url": false
+    }
+  ]
+}

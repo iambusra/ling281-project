@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:08:12.691531",
+    "total_entries": 2,
+    "input": "17 ekim 2021 afganların artık gündem olmaması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "17 ekim 2021 afganların artık gündem olmaması",
+      "entry_id": "129142815",
+      "author": "yourlive",
+      "date": "17.10.2021 04:30",
+      "content": "adamlar geldiler ve dileniyorlar artık çoğu yerde görmeye başladık ama tepkiler eskisi gibi değil. yeni gelenler gündem bile olmuyor. bir sindirme politikası daha başarı ile sonuçlanmıştır.",
+      "has_external_url": false
+    },
+    {
+      "title": "17 ekim 2021 afganların artık gündem olmaması",
+      "entry_id": "129143299",
+      "author": "sihpunsnera",
+      "date": "17.10.2021 06:10",
+      "content": "balık hafızalı, umursamaz ve \" bana dokunmayan yılan bin yaşasın\" tarzda insanların çoğunlukta olduğu ülkede normal olan durumdur.\n\nneler gündemden düşmedi ki bu da düşmesin?",
+      "has_external_url": false
+    }
+  ]
+}

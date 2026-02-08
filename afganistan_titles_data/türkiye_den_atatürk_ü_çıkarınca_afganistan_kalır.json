@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:01:42.869615",
+    "total_entries": 2,
+    "input": "türkiye'den atatürk'ü çıkarınca afganistan kalır",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türkiye'den atatürk'ü çıkarınca afganistan kalır",
+      "entry_id": "158294164",
+      "author": "uranusu hadim eden kronos",
+      "date": "31.10.2023 02:46",
+      "content": "cumhuriyetimizin 100. yılını kutladığımız bugünlerde, fatih altaylı ile söyleşisi sırasında dr. naim babüroğlu tarafından dile getirilen gerçek:\n\n- atatürk'ü ve cumhuriyet'i türkiye'den çıkarın, geride afganistan kalır.\n\nhttps://www.youtube.com/watch?v=1mpeobvklt4\n\n100 yıl önce anadolu topraklarıyla, afganistan topraklarının benzer koşullarda olduğunu düşününce atatürk'ün türkiye'ye etkisi çok daha iyi anlaşılıyor, biz şanslı olan taraftık ve atatürk ve yaptıkları sayesinde bu ülkeye sahip olabildik, afganistan ise hala atatürk'ünü bekliyor...",
+      "has_external_url": true
+    },
+    {
+      "title": "türkiye'den atatürk'ü çıkarınca afganistan kalır",
+      "entry_id": "160181046",
+      "author": "janikoy",
+      "date": "30.12.2023 13:33",
+      "content": "birilerinin pek fena heveslendiği hayallerini süsleyen duruma ilişkin sarfedilmiş haklı tespit.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:01:59.846512",
+    "total_entries": 10,
+    "input": "türkiye afganistan olur mu",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türkiye afganistan olur mu",
+      "entry_id": "20819001",
+      "author": "fleurquin",
+      "date": "07.11.2010 19:05",
+      "content": "(bkz: #20818987)",
+      "referenced_content": [
+        {
+          "type": "entry",
+          "title": "turkiye-iran-olur-mu",
+          "entry_id": "20818987",
+          "author": "fleurquin",
+          "date": "07.11.2010 19:03 ~ 19:24",
+          "content": "meseleye afganistan üzerinden bakmak için:\nhttp://www.ilk-kursun.com/2010/11/afganistan/\nhttp://www.odatv.com/…tograflara-baksin--0711101200\n\nyeri gelmişken bir anımı paylaşmak isterim:\nyıllar önce üniversitede afgan bir kız ülkesiyle ilgili sunum yapıyordu.\nsunumun sonunda eski modern afganistanda çekilmiş filmeleri gösterdi ve \"bizim ülkemizde de sizinki gibi moderndi ve kız erkek beraber okuyordu...\"\n\nbu bile çok şey gösteriyor.",
+          "has_external_url": true
+        }
+      ],
+      "referenced_entry_ids": [
+        "20818987"
+      ],
+      "has_external_url": false
+    },
+    {
+      "title": "türkiye afganistan olur mu",
+      "entry_id": "120933000",
+      "author": "dungeceyoldagiderkencokkomikbirseyoldu",
+      "date": "20.03.2021 02:27",
+      "content": "2010 yilinda sorulmus, biraz korku biraz da “hadi canim, o kadar da degil” turunden bir inanmama hali iceren soru.\n\n11 yil sonra cevap nedir?",
+      "referenced_content": [],
+      "has_external_url": false
+    },
+    {
+      "title": "türkiye afganistan olur mu",
+      "entry_id": "120933064",
+      "author": "maximussone",
+      "date": "20.03.2021 02:30",
+      "content": "yakında sorulacak soru (bkz: afganistan türkiye olur mu)",
+      "referenced_content": [],
+      "has_external_url": false
+    },
+    {
+      "title": "türkiye afganistan olur mu",
+      "entry_id": "120933722",
+      "author": "utku2019",
+      "date": "20.03.2021 02:50",
+      "content": "türkiye zaten kravatlı bir afganistan'dır",
+      "referenced_content": [],
+      "has_external_url": false
+    },
+    {
+      "title": "türkiye afganistan olur mu",
+      "entry_id": "122605490",
+      "author": "anani siken kadi",
+      "date": "30.04.2021 11:34",
+      "content": "özellikle kadınlar, tehlikenin farkhunda mısınız?\n(bkz: camiden kovulan kadınlar)\n(bkz: kadınlar camiye giremez diyen yobaz)\ngene bunlar iyi günleriniz, en azından şimdilik(!) diri diri yakılmıyorsunuz",
+      "referenced_content": [],
+      "has_external_url": false
+    },
+    {
+      "title": "türkiye afganistan olur mu",
+      "entry_id": "125968805",
+      "author": "demekle olsaydi",
+      "date": "21.07.2021 21:21",
+      "content": "yani yeterince doğusu ve yeterince dağı zaten afganistan ama siz bilirsiniz. süper soru, az tedirgin.",
+      "referenced_content": [],
+      "has_external_url": false
+    },
+    {
+      "title": "türkiye afganistan olur mu",
+      "entry_id": "125968869",
+      "author": "nazikerkek",
+      "date": "21.07.2021 21:23",
+      "content": "yapman şöyle şeyler kuzum tedirgin oluyorum",
+      "referenced_content": [],
+      "has_external_url": false
+    },
+    {
+      "title": "türkiye afganistan olur mu",
+      "entry_id": "155907275",
+      "author": "custardpie",
+      "date": "22.08.2023 05:09",
+      "content": "edit- (bkz: türkiye pakistan olur mu)",
+      "referenced_content": [],
+      "has_external_url": false
+    },
+    {
+      "title": "türkiye afganistan olur mu",
+      "entry_id": "155907716",
+      "author": "birbaskagocebeencore",
+      "date": "22.08.2023 06:51",
+      "content": "(bkz: l)",
+      "referenced_content": [],
+      "has_external_url": false
+    },
+    {
+      "title": "türkiye afganistan olur mu",
+      "entry_id": "155908074",
+      "author": "nyx ulric",
+      "date": "22.08.2023 07:40",
+      "content": "eskiden toplumsal sosyolojik bir konu iken şu an coğrafik, demografik bir gerçeği işaret eden soru.\n\nciddi ciddi birileri bunu hayata geçirdi. bize ise siyasiler ve yandaşlar tv gazete vslerinden din iman ensar ayağına sadece izleyin diyorlar.\n\n(bkz: muhacirlerle can kardeş)",
+      "referenced_content": [],
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:03:33.025081",
+    "total_entries": 1,
+    "input": "pakistani",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "pakistani",
+      "entry_id": "7904729",
+      "author": "snowie",
+      "date": "24.07.2005 21:27 ~ 21:28",
+      "content": "ingilizce pakistanlı anlamına gelen kelime",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:00:01.897079",
+    "total_entries": 3,
+    "input": "afgan çobanın aysun kayacı heykeline saldırması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "afgan çobanın aysun kayacı heykeline saldırması",
+      "entry_id": "155761789",
+      "author": "isvicreli elinadami",
+      "date": "18.08.2023 00:11 ~ 19.08.2023 13:41",
+      "content": "ülkenin gidişatına bakarsak 2071 yılında görülme olasılığı olan apokaliptik ve sürreal eylem. (bkz: swh)\n\nedit: başlık başa hakim bey.",
+      "has_external_url": false
+    },
+    {
+      "title": "afgan çobanın aysun kayacı heykeline saldırması",
+      "entry_id": "155762965",
+      "author": "simonsezz",
+      "date": "18.08.2023 00:38",
+      "content": "(bkz: olmamış olaylar hakkında olmuş gibi başlık açmak)\n\n(bkz: clickbait başlık açmak)\n\n(bkz: kendi espirisine gülen insan)\n\nt: \"kutsal bilgi kaynağı\"ndaki bir \"sahte bilgi\" başlığı",
+      "has_external_url": false
+    },
+    {
+      "title": "afgan çobanın aysun kayacı heykeline saldırması",
+      "entry_id": "155763424",
+      "author": "turfanda",
+      "date": "18.08.2023 00:50",
+      "content": "bi damacana atın üzerine rahatlasın.",
+      "has_external_url": false
+    }
+  ]
+}

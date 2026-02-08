@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T21:58:49.174599",
+    "total_entries": 1,
+    "input": "italyanlar afgan mıdır",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "italyanlar afgan mıdır",
+      "entry_id": "164780722",
+      "author": "ta2ozg",
+      "date": "26.05.2024 22:05 ~ 22:07",
+      "content": "italyanlar yunandır diyerek cevaplanabilecek soru. italyanlar bağırarak konuşurlar bu doğru hatta en iyi italyan susan italyandır derler kesinlikle katılıyorum.",
+      "has_external_url": false
+    }
+  ]
+}

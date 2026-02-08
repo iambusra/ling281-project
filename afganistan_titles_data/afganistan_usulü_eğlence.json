@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:00:37.375690",
+    "total_entries": 1,
+    "input": "afganistan usulü eğlence",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "afganistan usulü eğlence",
+      "entry_id": "180508087",
+      "author": "umitsizseniz umit sizsiniz",
+      "date": "16.12.2025 17:08",
+      "content": "https://x.com/…iye_ucok_/status/2000571523611152524\n\nyılbaşı kutlamayan, müziği yasaklayan afganistan’da “eğlence” denince erkek çocuklarının dans ettirilmesi konuşuluyor. ahlak söylemi kimin için, kime karşı? “yılbaşı algısı” tartışmasını ve mülteci meselesini bu gerçeklerden bağımsız düşünmeyelim.",
+      "has_external_url": true
+    }
+  ]
+}

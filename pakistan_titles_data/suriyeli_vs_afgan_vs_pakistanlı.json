@@ -1,0 +1,36 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T21:59:50.398944",
+    "total_entries": 3,
+    "input": "suriyeli vs afgan vs pakistanlı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "suriyeli vs afgan vs pakistanlı",
+      "entry_id": "140409253",
+      "author": "diffarentiationation",
+      "date": "24.07.2022 19:29",
+      "content": "maalesef suriyeliyi tercih edeceğim karşılaştırmadır. coğrafya ve kültür olarak bize en yakın olan suriyeliler, suriyeli yerine türkiye afgan veya pakistanlılarla dolsaydı çoktan ülkeyi yağmalamaya başlamışlardı.",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyeli vs afgan vs pakistanlı",
+      "entry_id": "140410459",
+      "author": "gennaninseki",
+      "date": "24.07.2022 20:06",
+      "content": "(bkz: 20 temmuz 2022 yılmaz özdil köşe yazısı)",
+      "has_external_url": false
+    },
+    {
+      "title": "suriyeli vs afgan vs pakistanlı",
+      "entry_id": "140410663",
+      "author": "umitsizseniz umit sizsiniz",
+      "date": "24.07.2022 20:13",
+      "content": "afgan-paki karanlık ikilisi hangimiz daha zararlıyız diye kapışır.(suriyeliler arasında az da olsa seküler normal insanlar var.)",
+      "has_external_url": false
+    }
+  ]
+}

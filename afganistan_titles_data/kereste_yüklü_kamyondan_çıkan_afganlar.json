@@ -1,0 +1,60 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:05:59.367552",
+    "total_entries": 6,
+    "input": "kereste yüklü kamyondan çıkan afganlar",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "kereste yüklü kamyondan çıkan afganlar",
+      "entry_id": "136063703",
+      "author": "dunboktubugun",
+      "date": "11.04.2022 09:25",
+      "content": "ağrı'da kereste yüklü kamyonda çoğu afgan olan 113 göçmen çıktı görüntü bu\no kadar zahmete niye girmişler anlamadım halbuki elini kolunu sallayarak sınırdan girebilirdiniz.",
+      "has_external_url": true
+    },
+    {
+      "title": "kereste yüklü kamyondan çıkan afganlar",
+      "entry_id": "136063811",
+      "author": "nevom",
+      "date": "11.04.2022 09:29",
+      "content": "boşuna para kaptırmışlar. geleni geri göndermiyoruz. ülke göçmen yatağı oldu. gelenler savaş kaçkınları, kaçakçı, uyuşturucu tacirleri bunlar yüzünden ülkede huzur kalmadı. birde asalakları besliyoruz",
+      "has_external_url": false
+    },
+    {
+      "title": "kereste yüklü kamyondan çıkan afganlar",
+      "entry_id": "136063917",
+      "author": "chie shih shuai",
+      "date": "11.04.2022 09:34 ~ 09:55",
+      "content": "videoyu çeken polis \"abi indirdiğinizin üzerini arayalım\" diyor ve hayat bir saniyeliğine güzelleşiyor. duygulandırıcı bir an. ülkeye roket atarla girmediklerini öğrenince içim rahatladı, malum, afgan ordusunun %90'ı artık türkiye'de. kalan %10'u da iran'da türkiye'ye gireceği zamanı bekliyor.",
+      "has_external_url": false
+    },
+    {
+      "title": "kereste yüklü kamyondan çıkan afganlar",
+      "entry_id": "136064228",
+      "author": "orionelf",
+      "date": "11.04.2022 09:46",
+      "content": "soldaki elemanın yüzündeki tebessüm. görsel\n\n(bkz: manası çok derin)",
+      "has_external_url": true
+    },
+    {
+      "title": "kereste yüklü kamyondan çıkan afganlar",
+      "entry_id": "136064304",
+      "author": "hunahpu",
+      "date": "11.04.2022 09:49",
+      "content": "normal yürüyerek giriyorlardı ülkeye zaten. araca verecek paraları varmış demek.\nbunlar niye macera aramış dediğim haber.",
+      "has_external_url": false
+    },
+    {
+      "title": "kereste yüklü kamyondan çıkan afganlar",
+      "entry_id": "136537511",
+      "author": "oldu bence bu nick",
+      "date": "22.04.2022 22:36",
+      "content": "büyük ihtimalle başlık sansürlenmiş o yüzden ilgi olmamış başlığa.\nbelki sol framede görünmedi bile.\n\ntanım:\nmanda yoğurdu ve kestane balı yemeye gelmiş hurmalarını da kendileri getirmiş din kardeşi afganlardır.\nhoş gelmişlerdir",
+      "has_external_url": false
+    }
+  ]
+}

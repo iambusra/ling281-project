@@ -1,0 +1,28 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:07:15.150159",
+    "total_entries": 2,
+    "input": "afganlara laf eden annenin gözaltına alınması",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "afganlara laf eden annenin gözaltına alınması",
+      "entry_id": "139718641",
+      "author": "mahserin 4 sovalyesi",
+      "date": "08.07.2022 00:40",
+      "content": "ümit özdağ’ın duyurduğu rezalet. https://twitter.com/…tatus/1544973684129107969?s=21",
+      "has_external_url": true
+    },
+    {
+      "title": "afganlara laf eden annenin gözaltına alınması",
+      "entry_id": "139718796",
+      "author": "antisosyalpsikopatgorunumludonjuan",
+      "date": "08.07.2022 00:43",
+      "content": "(bkz: arap götü yalayıcılar rahatsız)",
+      "has_external_url": false
+    }
+  ]
+}

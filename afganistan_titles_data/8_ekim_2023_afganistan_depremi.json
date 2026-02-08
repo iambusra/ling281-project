@@ -1,0 +1,68 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:01:54.663126",
+    "total_entries": 7,
+    "input": "8 ekim 2023 afganistan depremi",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "8 ekim 2023 afganistan depremi",
+      "entry_id": "157532731",
+      "author": "ozgur1110618",
+      "date": "08.10.2023 11:22",
+      "content": "bir çok kişi deprem olan bölgeyi terketmek zorunda kalacak...\nönümüz de kış, nereye(!) giderler kimbilir?",
+      "has_external_url": false
+    },
+    {
+      "title": "8 ekim 2023 afganistan depremi",
+      "entry_id": "157533203",
+      "author": "atreusun yayi",
+      "date": "08.10.2023 11:41 ~ 11:50",
+      "content": "ekseriyeti çocuk ve kadından oluşuyormuş, kadınları mağaralara kapatan taliban, ölenleri nasıl yıkayıp gömecek acaba diye düşündürtür.",
+      "has_external_url": false
+    },
+    {
+      "title": "8 ekim 2023 afganistan depremi",
+      "entry_id": "157533452",
+      "author": "seni heyetinden sikmeyi tasarliyorum",
+      "date": "08.10.2023 11:50 ~ 11:56",
+      "content": "sikik taliban nedeniyle dünyanın anca bir gün sonra duyduğu deprem.\n\n\"the saturday quakes \"\n\ninsanlar mümkün olduğunca ölsün. sonra ben onlar üzerinden tüm dünyadan para yardımı alayım. tanıdık geldi mi?",
+      "has_external_url": false
+    },
+    {
+      "title": "8 ekim 2023 afganistan depremi",
+      "entry_id": "157533583",
+      "author": "zllictbl dat",
+      "date": "08.10.2023 11:55",
+      "content": "(bkz: come to beşiktaş)",
+      "has_external_url": false
+    },
+    {
+      "title": "8 ekim 2023 afganistan depremi",
+      "entry_id": "157533668",
+      "author": "atorganihelios",
+      "date": "08.10.2023 11:58",
+      "content": "(bkz: tüh ya)",
+      "has_external_url": false
+    },
+    {
+      "title": "8 ekim 2023 afganistan depremi",
+      "entry_id": "157533872",
+      "author": "seni heyetinden sikmeyi tasarliyorum",
+      "date": "08.10.2023 12:06 ~ 12:14",
+      "content": "taliban karşıtı türklerin yaşadığı herat'ta meydana gelen deprem. köken olarak şii olan bu insanların ölmesini beklemiş dünden beri godumun taliban'ı.",
+      "has_external_url": true
+    },
+    {
+      "title": "8 ekim 2023 afganistan depremi",
+      "entry_id": "157801356",
+      "author": "seni heyetinden sikmeyi tasarliyorum",
+      "date": "16.10.2023 17:53",
+      "content": "filistin'deki yüz iki yüz ölüm kadar önemsenmeyen. oysa burada da çocuklar öldü hem de binlerce.",
+      "has_external_url": false
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:05:38.615630",
+    "total_entries": 1,
+    "input": "türkiye'de şeriat propagandası yapan afganlar",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "türkiye'de şeriat propagandası yapan afganlar",
+      "entry_id": "142885589",
+      "author": "umitsizseniz umit sizsiniz",
+      "date": "19.09.2022 17:56",
+      "content": "\"afganlar türkiye’de ‘şeriat’ propagandasına başladı! yurttaşlar çok sert tepki gösterdi.\"\n\nhttps://mobile.twitter.com/…tus/1571778397344337921",
+      "has_external_url": true
+    }
+  ]
+}

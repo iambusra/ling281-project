@@ -1,0 +1,20 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T22:03:12.186836",
+    "total_entries": 1,
+    "input": "3 çocuk yapmazsanız afganlı suriyeli alınır haa",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "3 çocuk yapmazsanız afganlı suriyeli alınır haa",
+      "entry_id": "75997672",
+      "author": "tatil kufesi",
+      "date": "14.04.2018 01:58",
+      "content": "evlenen çiftlere söylenmesi gereken\ntehdit cümlesidir.\ndoğum oranı düştükçe alıyorlar.\ntıpkı lağımlı, kimyasallı demeden\npis nehirlerden istanbul'a su getirilmesi gibidir.\nsusuzsan, efsafını düşünmezsin.\nbak, et pahalılaşınca at ve domuz eti de ithal ediliyormuş.",
+      "has_external_url": false
+    }
+  ]
+}

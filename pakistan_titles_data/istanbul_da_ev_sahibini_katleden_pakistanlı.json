@@ -1,0 +1,44 @@
+{
+  "scrape_info": {
+    "timestamp": "2026-02-07T21:59:45.105069",
+    "total_entries": 4,
+    "input": "istanbul'da ev sahibini katleden pakistanlı",
+    "time_filter": null,
+    "filters": [],
+    "filter_external_urls": false
+  },
+  "entries": [
+    {
+      "title": "istanbul'da ev sahibini katleden pakistanlı",
+      "entry_id": "142799092",
+      "author": "newsky24",
+      "date": "17.09.2022 15:46 ~ 16:34",
+      "content": "edit: başlığın özbek olarak değişmesini mod'lardan rica ederim. bu kaçıncı olay denilen mülteci veya kaçak göçmen cinayetidir.\nhabertürk'ün haberine göre istanbul'da yaşayan ve kendisinden 10 gündür haber alınamayan mustafa yılmaz´ın cansız bedeni, kız kardeşi tarafından halıya sarılmış şekilde bulundu. olayın ardından soruşturma başlatıldı. yılmaz'ın, evinin bir odasını kiraladığı ve kira tartışması yaşadığı özbekistan uyruklu r.k. tarafından bıçaklanıp o halde halıya sarılarak ölüme terk edildiği ortaya çıktı.\n\nhaberturk",
+      "has_external_url": true
+    },
+    {
+      "title": "istanbul'da ev sahibini katleden pakistanlı",
+      "entry_id": "142799125",
+      "author": "kriptotalebe",
+      "date": "17.09.2022 15:47",
+      "content": "pakistanlı mı özbek mi?",
+      "has_external_url": false
+    },
+    {
+      "title": "istanbul'da ev sahibini katleden pakistanlı",
+      "entry_id": "142800572",
+      "author": "newsky24",
+      "date": "17.09.2022 16:34",
+      "content": "özbek birinin işlediği cinayettir.",
+      "has_external_url": false
+    },
+    {
+      "title": "istanbul'da ev sahibini katleden pakistanlı",
+      "entry_id": "142800746",
+      "author": "windam",
+      "date": "17.09.2022 16:40",
+      "content": "özbek pakistanlı suriyeli vs. ne fark eder halıya sarıp vatanına gönderilmeli",
+      "has_external_url": false
+    }
+  ]
+}
