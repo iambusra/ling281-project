@@ -1,0 +1,51 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "title": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "entry_id": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "author": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "date_raw": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "date": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "content": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "category": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "has_external_url": {
+      "dtype": "bool",
+      "_type": "Value"
+    },
+    "sentiment": {
+      "dtype": "int8",
+      "_type": "Value"
+    },
+    "topics": {
+      "feature": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}
